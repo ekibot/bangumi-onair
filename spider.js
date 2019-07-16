@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors: ekibun
- * @LastEditTime: 2019-07-15 21:32:04
+ * @LastEditTime: 2019-07-16 12:34:25
  */
 const bangumiData = require('bangumi-data')
 const request = require('request-promise-native')
@@ -113,7 +113,6 @@ let safeRequest = async (url, options) => {
                         }
                         break
                     case 'qq': // 5/53q0eh78q97e4d1
-                        break
                         let json = await safeRequest(`http://s.video.qq.com/get_playsource?id=${site.id.split('/')[1]}&type=4&otype=json&range=1-100000`)
                         json = JSON.parse(json.substring(json.indexOf('{'), json.lastIndexOf('}') + 1))
                         if (!json.PlaylistItem || !json.PlaylistItem.videoPlayList) {
