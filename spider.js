@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors: ekibun
- * @LastEditTime: 2019-07-16 12:34:25
+ * @LastEditTime: 2019-07-16 14:14:01
  */
 const bangumiData = require('bangumi-data')
 const request = require('request-promise-native')
@@ -56,7 +56,7 @@ let safeRequest = async (url, options) => {
             if (!bgmEp) return false
             let ep = data.eps.find(v => v.id == bgmEp.id)
             if (ep) {
-                let siteIndex = ep.sites.indexOf(v => v.site = site.site)
+                let siteIndex = ep.sites.indexOf(v => v.site == site.site && v.url == site.url)
                 if (~siteIndex) {
                     ep.sites[siteIndex] = site
                 } else {
