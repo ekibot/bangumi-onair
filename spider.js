@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors: ekibun
- * @LastEditTime: 2019-07-24 13:14:54
+ * @LastEditTime: 2019-07-24 13:47:57
  */
 const bangumiData = require('bangumi-data')
 const request = require('request-promise-native')
@@ -81,7 +81,7 @@ let safeRequest = async (url, options) => {
             try {
                 switch (site.site) {
                     case 'bilibili':
-                        let data = await safeRequest(`https://bangumi.bilibili.com/view/web_api/season?season_id=${site.id}`, { json: true })
+                        let data = await safeRequest(`https://bangumi.bilibili.com/view/web_api/media?media_id=${site.id}`, { json: true })
                         if (!data.result || !data.result.episodes) {
                             console.log(data)
                             break
