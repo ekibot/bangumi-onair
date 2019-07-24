@@ -8,7 +8,7 @@
     "url": "https://github.com/ekibun/bangumi_onair.git"
   },
   "dependencies": {
-    "bangumi-data": "^0.2.58",
+    "bangumi-data": "^0.3.0",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
     "simple-git": "^1.110.0"
