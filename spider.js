@@ -3,30 +3,15 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors: ekibun
- * @LastEditTime: 2019-08-02 13:00:28
+ * @LastEditTime: 2019-08-02 13:49:16
  */
 const bangumiData = require('bangumi-data')
-const request = require('request-promise-native')
 const fs = require('fs')
 const git = require('simple-git')(`./`)
 const path = require('path')
+const utils = require('./utils')
 
-let now = new Date()
-let lagDay = (a, b) => {
-    return (a - b) / 1000 / 60 / 60 / 24
-}
-
-let safeRequest = async (url, options) => {
-    let retry = 3
-    let ret = undefined
-    while (!ret && retry > 0)
-        ret = await request(url, { timeout: 10000, ...options }).catch((error) => {
-            retry--
-            return new Promise((resolve) => { setTimeout(resolve, 1000) })
-        })
-    return ret
-}
-
+let now = new Date();
 (async () => {
     let count = 0
     for (bgmItem of bangumiData.items) {
@@ -40,7 +25,7 @@ let safeRequest = async (url, options) => {
         let _subject = undefined
         let getSubject = async () => {
             while (!_subject)
-                _subject = await safeRequest(`https://api.bgm.tv/subject/${bgmId}/ep`, { json: true })
+                _subject = await utils.safeRequest(`https://api.bgm.tv/subject/${bgmId}/ep`, { json: true })
             return _subject
         }
 
@@ -101,66 +86,18 @@ let safeRequest = async (url, options) => {
             return false
         }
 
-        let isNewSubject = ((!bgmItem.end || lagDay(now, new Date(bgmItem.end)) < 10) && lagDay(new Date(bgmItem.begin), now) < 10)
+        let isNewSubject = ((!bgmItem.end || utils.lagDay(now, new Date(bgmItem.end)) < 10) && utils.lagDay(new Date(bgmItem.begin), now) < 10)
         for (site of bgmItem.sites) {
             if (!isNewSubject && !ruleNeedUpdate(site) && data.eps.find(ep => ep.sites.find(v => v.site == site.site))) continue
 
             console.log(`- ${site.site} ${site.id}`)
             if (!site.id) break
-            try {
-                switch (site.site) {
-                    case 'bilibili':
-                        let data = await safeRequest(`https://bangumi.bilibili.com/view/web_api/media?media_id=${site.id}`, { json: true })
-                        if (!data.result || !data.result.episodes) {
-                            console.log(data)
-                            break
-                        }
-                        clearEpSite(site)
-                        for (ep of data.result.episodes) {
-                            await addEpSite({
-                                site: site.site,
-                                sort: Number(ep.index),
-                                title: ep.index_title,
-                                url: `https://www.bilibili.com/bangumi/play/ep${ep.ep_id}`
-                            })
-                        }
-                        break
-                    case 'iqiyi':
-                        let albumId = await safeRequest(`https://www.iqiyi.com/${site.id}.html`)
-                        albumId = /albumId: "([0-9]*)"/g.exec(albumId)
-                        if (!albumId || !albumId[1]) break
-                        albumId = albumId[1] // 202728701
-                        let listInfo = await safeRequest(`https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=${albumId}&page=1&size=100000`, { json: true })
-                        if (!listInfo.data || !listInfo.data.epsodelist) {
-                            console.log(listInfo)
-                            break
-                        }
-                        clearEpSite(site)
-                        for (ep of listInfo.data.epsodelist) {
-                            await addEpSite({
-                                site: site.site,
-                                sort: ep.order,
-                                title: ep.subtitle || ep.name,
-                                url: ep.playUrl
-                            })
-                        }
-                        break
-                    case 'qq': // 5/53q0eh78q97e4d1
-                        let json = await safeRequest(`http://s.video.qq.com/get_playsource?id=${site.id.split('/')[1]}&type=4&otype=json&range=1-100000`)
-                        json = JSON.parse(json.substring(json.indexOf('{'), json.lastIndexOf('}') + 1))
-                        if (!json.PlaylistItem || !json.PlaylistItem.videoPlayList) {
-                            console.log(json)
-                            break
-                        }
-                        clearEpSite(site)
-                        for (ep of json.PlaylistItem.videoPlayList) {
-                            await addEpSite({
-                                site: site.site,
-                                sort: Number(ep.episode_number),
-                                title: ep.title,
-                                url: ep.playUrl
-                            })
-                        }
+            let sitePath = `./site/${site.site}.js`
+            if (fs.existsSync(sitePath)) try {
+                let eps = await require(sitePath)(site)
+                if (eps && eps.length > 0) {
+                    clearEpSite(site)
+                    for (ep of eps) await addEpSite(ep)
                 }
             } catch (e) {
                 console.log(e.stack || e)
