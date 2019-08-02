@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors: ekibun
- * @LastEditTime: 2019-08-02 12:41:46
+ * @LastEditTime: 2019-08-02 13:00:28
  */
 const bangumiData = require('bangumi-data')
 const request = require('request-promise-native')
@@ -140,7 +140,7 @@ let safeRequest = async (url, options) => {
                             await addEpSite({
                                 site: site.site,
                                 sort: ep.order,
-                                title: ep.name,
+                                title: ep.subtitle || ep.name,
                                 url: ep.playUrl
                             })
                         }
