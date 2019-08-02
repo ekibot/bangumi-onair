@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors: ekibun
- * @LastEditTime: 2019-07-24 13:47:57
+ * @LastEditTime: 2019-08-02 12:41:46
  */
 const bangumiData = require('bangumi-data')
 const request = require('request-promise-native')
@@ -43,16 +43,31 @@ let safeRequest = async (url, options) => {
                 _subject = await safeRequest(`https://api.bgm.tv/subject/${bgmId}/ep`, { json: true })
             return _subject
         }
-        let filePath = `./onair/${Math.floor(bgmId / 1000)}/${bgmId}.json`
 
+        let filePath = `./onair/${Math.floor(bgmId / 1000)}/${bgmId}.json`
         let data = { id: bgmId, name: bgmItem.title, eps: [] }
-        if (fs.existsSync(filePath)) {
+        if (fs.existsSync(filePath)) try {
             data = JSON.parse(fs.readFileSync(filePath))
+        } catch (e) { console.log(e.stack || e) }
+
+        let rulePath = `./rule/${bgmId}.js`
+        let rule = undefined
+        if (fs.existsSync(rulePath)) try {
+            rule = require(rulePath)
+        } catch (e) { console.log(e.stack || e) }
+
+        let clearEpSite = (site) => {
+            for (ep of data.eps) {
+                ep.sites = ep.sites.filter(v => v.site != site.site)
+            }
+            data.eps = data.eps.filter(v => v.sites.length)
         }
-        let addEpSite = async (sort, site) => {
+
+        let addEpSite = async (site) => {
+            let bgm_sort = (rule && rule[site.site] && rule[site.site].sort) ? rule[site.site].sort(site.sort) : site.sort
             let bgmEps = (await getSubject()).eps
             if (!bgmEps) return false
-            let bgmEp = bgmEps.find(v => v.sort == sort)
+            let bgmEp = bgmEps.find(v => v.sort == bgm_sort)
             if (!bgmEp) return false
             let ep = data.eps.find(v => v.id == bgmEp.id)
             if (ep) {
@@ -62,10 +77,12 @@ let safeRequest = async (url, options) => {
                 } else {
                     ep.sites.push(site)
                 }
+                ep.sort = bgmEp.sort
                 ep.name = bgmEp.name
             } else {
                 data.eps.push({
                     id: bgmEp.id,
+                    sort: bgmEp.sort,
                     name: bgmEp.name,
                     sites: [site]
                 })
@@ -73,9 +90,21 @@ let safeRequest = async (url, options) => {
             return true
         }
 
+        let ruleNeedUpdate = (site) => {
+            if (rule && rule[site.site] && rule[site.site].sort) {
+                let lastEp = data.eps.reverse().find(ep => ep.sites.find(v => v.site == site.site))
+                if (lastEp.sort === undefined) return true
+                let lastSite = lastEp.sites.reverse().find(v => v.site == site.site)
+                if (lastSite.sort === undefined) return true
+                if (rule[site.site].sort(lastSite.sort, site.site) != lastEp.sort) return true
+            }
+            return false
+        }
+
         let isNewSubject = ((!bgmItem.end || lagDay(now, new Date(bgmItem.end)) < 10) && lagDay(new Date(bgmItem.begin), now) < 10)
         for (site of bgmItem.sites) {
-            if (!isNewSubject && data.eps.find(ep => ep.sites.find(v => v.site == site.site))) continue
+            if (!isNewSubject && !ruleNeedUpdate(site) && data.eps.find(ep => ep.sites.find(v => v.site == site.site))) continue
+
             console.log(`- ${site.site} ${site.id}`)
             if (!site.id) break
             try {
@@ -86,9 +115,11 @@ let safeRequest = async (url, options) => {
                             console.log(data)
                             break
                         }
+                        clearEpSite(site)
                         for (ep of data.result.episodes) {
-                            await addEpSite(Number(ep.index), {
-                                site: 'bilibili',
+                            await addEpSite({
+                                site: site.site,
+                                sort: Number(ep.index),
                                 title: ep.index_title,
                                 url: `https://www.bilibili.com/bangumi/play/ep${ep.ep_id}`
                             })
@@ -104,9 +135,11 @@ let safeRequest = async (url, options) => {
                             console.log(listInfo)
                             break
                         }
+                        clearEpSite(site)
                         for (ep of listInfo.data.epsodelist) {
-                            await addEpSite(ep.order, {
-                                site: 'iqiyi',
+                            await addEpSite({
+                                site: site.site,
+                                sort: ep.order,
                                 title: ep.name,
                                 url: ep.playUrl
                             })
@@ -119,9 +152,11 @@ let safeRequest = async (url, options) => {
                             console.log(json)
                             break
                         }
+                        clearEpSite(site)
                         for (ep of json.PlaylistItem.videoPlayList) {
-                            await addEpSite(Number(ep.episode_number), {
-                                site: 'qq',
+                            await addEpSite({
+                                site: site.site,
+                                sort: Number(ep.episode_number),
                                 title: ep.title,
                                 url: ep.playUrl
                             })
