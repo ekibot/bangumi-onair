@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-08-02 11:55:21
  * @LastEditors: ekibun
- * @LastEditTime: 2019-08-02 12:32:00
+ * @LastEditTime: 2019-08-03 14:12:49
  */
 function sort(ep) {
     let offsets = [
@@ -28,6 +28,9 @@ module.exports = {
         sort
     },
     'iqiyi': {
+        sort
+    },
+    'youku': {
         sort
     }
 }
