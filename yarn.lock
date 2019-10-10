@@ -3,9 +3,9 @@
 
 
 "@types/node@*":
-  version "12.7.8"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.8.tgz#cb1bf6800238898bc2ff6ffa5702c3cadd350708"
-  integrity sha512-FMdVn84tJJdV+xe+53sYiZS4R5yn1mAIxfj+DVoNiQjTYz1+OYmjwEZr1ev9nU0axXwda0QDbYl06QHanRVH3A==
+  version "12.7.12"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.12.tgz#7c6c571cc2f3f3ac4a59a5f2bd48f5bdbc8653cc"
+  integrity sha512-KPYGmfD0/b1eXurQ59fXD1GBzhSQfz6/lKBxkaHX9dKTzjXbK68Zt7yGUxUsCS1jeTy/8aL+d9JEr+S54mpkWQ==
 
 ajv@^6.5.5:
   version "6.10.2"
@@ -45,9 +45,9 @@ aws4@^1.8.0:
   integrity sha512-ReZxvNHIOv88FlT7rxcXIIC0fPt4KZqZbOlivyWtXLt8ESx84zd3kMC6iK5jVeS2qt+g7ftS7ye4fi06X5rtRQ==
 
 bangumi-data@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/bangumi-data/-/bangumi-data-0.3.0.tgz#5e8b4f0bf6531fe22247cd3748db51bd7deb27d1"
-  integrity sha512-oaogzyfOkxbpe25Gn2Yg+/VwGA6YqV6PJpn6VQrrDj3lrJHaOvJlfckurEp3aFizI0KjDIHbYh2bR6kEnPaZfQ==
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/bangumi-data/-/bangumi-data-0.3.3.tgz#ca4cf8d82e69488f2ee3629940c302bd3cac47fb"
+  integrity sha512-WFdwMRqNlrCuheeJhaVNVfY9Czcy3Lj2odnP/ocrlXVXKPwz7Y+Dves70B67FFEJHJWcLL30xbZJUW+SVMISIw==
 
 bcrypt-pbkdf@^1.0.0:
   version "1.0.2"
