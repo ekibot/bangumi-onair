@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors: ekibun
- * @LastEditTime: 2019-08-02 13:49:16
+ * @LastEditTime: 2019-11-17 18:06:17
  */
 const bangumiData = require('bangumi-data')
 const fs = require('fs')
@@ -11,8 +11,13 @@ const git = require('simple-git')(`./`)
 const path = require('path')
 const utils = require('./utils')
 
+let calendarFile = `calendar.json`;
+
 let now = new Date();
 (async () => {
+    fs.writeFileSync(calendarFile, `[`);
+    let first = true;
+
     let count = 0
     for (bgmItem of bangumiData.items) {
         count++
@@ -30,7 +35,12 @@ let now = new Date();
         }
 
         let filePath = `./onair/${Math.floor(bgmId / 1000)}/${bgmId}.json`
-        let data = { id: bgmId, name: bgmItem.title, eps: [] }
+        let data = {
+            id: bgmId,
+            name: bgmItem.title,
+            sites: [],
+            eps: []
+        }
         if (fs.existsSync(filePath)) try {
             data = JSON.parse(fs.readFileSync(filePath))
         } catch (e) { console.log(e.stack || e) }
@@ -40,13 +50,6 @@ let now = new Date();
         if (fs.existsSync(rulePath)) try {
             rule = require(rulePath)
         } catch (e) { console.log(e.stack || e) }
-
-        let clearEpSite = (site) => {
-            for (ep of data.eps) {
-                ep.sites = ep.sites.filter(v => v.site != site.site)
-            }
-            data.eps = data.eps.filter(v => v.sites.length)
-        }
 
         let addEpSite = async (site) => {
             let bgm_sort = (rule && rule[site.site] && rule[site.site].sort) ? rule[site.site].sort(site.sort) : site.sort
@@ -87,20 +90,35 @@ let now = new Date();
         }
 
         let isNewSubject = ((!bgmItem.end || utils.lagDay(now, new Date(bgmItem.end)) < 10) && utils.lagDay(new Date(bgmItem.begin), now) < 10)
-        for (site of bgmItem.sites) {
-            if (!isNewSubject && !ruleNeedUpdate(site) && data.eps.find(ep => ep.sites.find(v => v.site == site.site))) continue
-
-            console.log(`- ${site.site} ${site.id}`)
-            if (!site.id) break
+        for (bgmSite of bgmItem.sites) {
+            if (!isNewSubject && !ruleNeedUpdate(bgmSite) && data.eps.find(ep => ep.sites.find(v => v.site == bgmSite.site))) continue
+            console.log(`- ${bgmSite.site} ${bgmSite.id}`)
+            if (!bgmSite.id) break
+            data.sites = data.sites || []
+            let site = {
+                site: bgmSite.site,
+                id: bgmSite.id
+            }
+            let siteIndex = data.sites.findIndex(v => v.site == bgmSite.site && v.id == bgmSite.id)
+            if (~siteIndex) {
+                site = data.sites[siteIndex]
+            }
             let sitePath = `./site/${site.site}.js`
             if (fs.existsSync(sitePath)) try {
                 let eps = await require(sitePath)(site)
                 if (eps && eps.length > 0) {
-                    clearEpSite(site)
                     for (ep of eps) await addEpSite(ep)
                 }
+                console.log(site)
             } catch (e) {
                 console.log(e.stack || e)
+            }
+            if (site.week || site.sort) {
+                if (~siteIndex) {
+                    data.sites[siteIndex] = site
+                } else {
+                    data.sites.push(site)
+                }
             }
         }
         if (data.eps.length > 0) {
@@ -108,7 +126,36 @@ let now = new Date();
             if (!fs.existsSync(dirPath)) fs.mkdirSync(dirPath)
             fs.writeFileSync(filePath, JSON.stringify(data))
         }
+        // calendar
+        if (isNewSubject) {
+            let subject = await getSubject();
+            let dateJP = utils.parseWeekTime(bgmItem.begin)
+            let dateCN = utils.getChinaDate(bgmItem, data.sites)
+            let eps = subject.eps && subject.eps.filter(ep => ep.airdate && Math.abs(utils.lagDay(now, new Date(ep.airdate))) < 10).map(ep => {
+                let { comment, desc, duration, ...nep } = ep
+                return nep
+            })
+            if (eps && eps.length > 0) {
+                if (!first)
+                    fs.appendFileSync(calendarFile, `,\n`)
+                first = false
+                fs.appendFileSync(calendarFile, JSON.stringify({
+                    id: subject.id,
+                    name: subject.name,
+                    name_cn: subject.name_cn,
+                    air_date: subject.air_date,
+                    weekDayJP: dateJP.week,
+                    weekDayCN: dateCN.week,
+                    timeJP: dateJP.time,
+                    timeCN: dateCN.time,
+                    image: subject.images && subject.images.grid,
+                    sites: data.sites.filter(v => v.week),
+                    eps
+                }))
+            }
+        }
     }
+    fs.appendFileSync(calendarFile, `]`);
 })().then(() => {
     let time = new Date()
     git.add('./*')
