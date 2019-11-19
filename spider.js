@@ -3,11 +3,10 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors: ekibun
- * @LastEditTime: 2019-11-17 18:06:17
+ * @LastEditTime: 2019-11-19 14:19:33
  */
 const bangumiData = require('bangumi-data')
 const fs = require('fs')
-const git = require('simple-git')(`./`)
 const path = require('path')
 const utils = require('./utils')
 
@@ -156,11 +155,4 @@ let now = new Date();
         }
     }
     fs.appendFileSync(calendarFile, `]`);
-})().then(() => {
-    let time = new Date()
-    git.add('./*')
-        .commit('update at ' + time)
-        .push(['-u', 'origin', 'master'], (e) => {
-            console.log('commit ' + (e == null ? "成功" : e) + ', at：' + time)
-        })
-})
+})()
