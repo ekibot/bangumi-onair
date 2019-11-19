@@ -2,7 +2,7 @@ name: spider
 
 on:
   schedule:
-  - cron: "45 8 * * *"
+  - cron: "0 0 * * *"
 
 jobs:
   build:
