@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-08-02 13:32:54
  * @LastEditors: ekibun
- * @LastEditTime: 2019-11-17 13:50:39
+ * @LastEditTime: 2019-11-19 16:41:58
  */
 const request = require('request-promise-native')
 let timezoneOffset = 60 * 8 * 60 * 1000; // UTC+8 
@@ -17,17 +17,17 @@ let parseWeekTime = (date) => {
 
 module.exports = {
     safeRequest: async (url, options) => {
-        let retry = 3
+        let retry = 2
         let ret = undefined
         while (!ret && retry > 0)
             ret = await request(url, {
                 forever: true,
-                timeout: 10000,
+                timeout: 5000,
                 ...options
             }).catch((error) => {
                 console.log(`${error}`.split('\n')[0].substring(0, 100))
                 retry--
-                return new Promise((resolve) => { setTimeout(resolve, 1000) })
+                return new Promise((resolve) => { setTimeout(resolve, 100) })
             })
         return ret
     },
