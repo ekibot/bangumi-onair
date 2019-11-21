@@ -7,15 +7,15 @@
  */
 const utils = require('../utils')
 
-module.exports = async(site) => {
-    let data = await utils.safeRequest(`https://bangumi.bilibili.com/view/web_api/media?media_id=${site.id}`, { json: true })
+module.exports = async(site, log) => {
+    let data = await utils.safeRequest(`https://bangumi.bilibili.com/view/web_api/media?media_id=${site.id}`, log, { json: true })
     let airInfo = data.result && data.result.episode_index && /每(周[一二三四五六日])\s?(\d{2}:\d{2})更新/g.exec(data.result.episode_index.index_show)
     if (airInfo) {
         site.week = "一二三四五六日".indexOf(airInfo[1].trim().replace("周", "")) + 1
         site.time = airInfo[2].replace(":", "")
     }
     if (!data.result || !data.result.episodes) {
-        console.log(data)
+        log(data)
         return
     }
     site.sort = data.result.episodes.length || site.sort
@@ -33,7 +33,7 @@ if (!module.parent) {
             site: 'bilibili',
             id: '28222622'
         }
-        console.log(await module.exports(site))
+        console.log(await module.exports(site, console.log))
         console.log(site)
     })()
 }

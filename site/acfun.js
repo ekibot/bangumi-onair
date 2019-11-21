@@ -7,9 +7,9 @@
  */
 const utils = require('../utils')
 
-module.exports = async (site) => {
+module.exports = async (site, log) => {
     if (!site.week) {
-        let airInfo = await utils.safeRequest(`https://www.acfun.cn/bangumi/aa${site.id}`)
+        let airInfo = await utils.safeRequest(`https://www.acfun.cn/bangumi/aa${site.id}`, log)
         airInfo = airInfo && /每(周[一二三四五六日])\s*(\d{2}:\d{2})更新/g.exec(airInfo)
         if(airInfo){
             site.week = "一二三四五六日".indexOf(airInfo[1].replace("周", "")) + 1
@@ -20,10 +20,10 @@ module.exports = async (site) => {
     let totalPage = Math.max(0, Math.floor((site.sort || 0) / 100)) + 1
     let page = totalPage
     while (page <= totalPage) {
-        console.log(`...loading page ${page}`)
-        let data = await utils.safeRequest(`https://www.acfun.cn/album/abm/bangumis/video?albumId=${site.id}&size=100&num=${page}`, { json: true })
+        log(`...loading page ${page}`)
+        let data = await utils.safeRequest(`https://www.acfun.cn/album/abm/bangumis/video?albumId=${site.id}&size=100&num=${page}`, log, { json: true })
         if (!data.data || !data.data.content) {
-            console.log(data)
+            log(data)
             break
         }
         content.push(...data.data.content.map(v => v.videos[0]))
@@ -46,7 +46,7 @@ if (!module.parent) {
             site: 'acfun',
             id: '6000221'
         }
-        console.log(await module.exports(site))
+        console.log(await module.exports(site, console.log))
         console.log(site)
     })()
 }

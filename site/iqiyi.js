@@ -7,8 +7,8 @@
  */
 const utils = require('../utils')
 
-module.exports = async (site) => {
-    let albumId = await utils.safeRequest(`https://www.iqiyi.com/${site.id}.html`)
+module.exports = async (site, log) => {
+    let albumId = await utils.safeRequest(`https://www.iqiyi.com/${site.id}.html`, log)
     let airInfo = albumId && /每(周[一二三四五六日])(\d{2}:\d{2}|\S+)更新/g.exec(albumId)
     if (airInfo) {
         site.week = "一二三四五六日".indexOf(airInfo[1].trim().replace("周", "")) + 1
@@ -21,10 +21,10 @@ module.exports = async (site) => {
     let totalPage = Math.max(0, Math.floor((site.sort || 0) / 100)) + 1
     let page = totalPage
     while (page <= totalPage) {
-        console.log(`...loading page ${page}`)
-        let listInfo = await utils.safeRequest(`https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=${albumId}&page=${page}&size=100`, { json: true })
+        log(`...loading page ${page}`)
+        let listInfo = await utils.safeRequest(`https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=${albumId}&page=${page}&size=100`, log, { json: true })
         if (!listInfo || !listInfo.data || !listInfo.data.epsodelist) {
-            console.log(listInfo)
+            log(listInfo)
             break
         }
         content.push(...listInfo.data.epsodelist)
@@ -47,7 +47,7 @@ if (!module.parent) {
             site: 'iqiyi',
             id: 'a_19rrk1kp41'
         }
-        console.log(await module.exports(site))
+        console.log(await module.exports(site, console.log))
         console.log(site)
     })()
 }

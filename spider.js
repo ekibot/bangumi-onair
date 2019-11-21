@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors: ekibun
- * @LastEditTime: 2019-11-19 14:19:33
+ * @LastEditTime: 2019-11-21 15:17:25
  */
 const bangumiData = require('bangumi-data')
 const fs = require('fs')
@@ -17,19 +17,17 @@ let now = new Date();
     fs.writeFileSync(calendarFile, `[`);
     let first = true;
 
-    let count = 0
-    for (bgmItem of bangumiData.items) {
-        count++
+    await utils.queue(bangumiData.items, async (bgmItem, log) => {
         let bangumi = bgmItem.sites.find(v => v.site == 'bangumi')
-        if (!bangumi) continue
+        if (!bangumi) return
         let bgmId = bangumi.id
 
-        console.log(`${count}/${bangumiData.items.length}`, bgmId, bgmItem.title)
-        if (bgmItem.sites.length <= 1) continue
+        log(bgmId, bgmItem.title)
+        if (bgmItem.sites.length <= 1) return
         let _subject = undefined
         let getSubject = async () => {
             while (!_subject)
-                _subject = await utils.safeRequest(`https://api.bgm.tv/subject/${bgmId}/ep`, { json: true })
+                _subject = await utils.safeRequest(`https://api.bgm.tv/subject/${bgmId}/ep`, log, { json: true })
             return _subject
         }
 
@@ -42,13 +40,13 @@ let now = new Date();
         }
         if (fs.existsSync(filePath)) try {
             data = JSON.parse(fs.readFileSync(filePath))
-        } catch (e) { console.log(e.stack || e) }
+        } catch (e) { log(e.stack || e) }
 
         let rulePath = `./rule/${bgmId}.js`
         let rule = undefined
         if (fs.existsSync(rulePath)) try {
             rule = require(rulePath)
-        } catch (e) { console.log(e.stack || e) }
+        } catch (e) { log(e.stack || e) }
 
         let addEpSite = async (site) => {
             let bgm_sort = (rule && rule[site.site] && rule[site.site].sort) ? rule[site.site].sort(site.sort) : site.sort
@@ -91,7 +89,7 @@ let now = new Date();
         let isNewSubject = ((!bgmItem.end || utils.lagDay(now, new Date(bgmItem.end)) < 10) && utils.lagDay(new Date(bgmItem.begin), now) < 10)
         for (bgmSite of bgmItem.sites) {
             if (!isNewSubject && !ruleNeedUpdate(bgmSite) && data.eps.find(ep => ep.sites.find(v => v.site == bgmSite.site))) continue
-            console.log(`- ${bgmSite.site} ${bgmSite.id}`)
+            log(`- ${bgmSite.site} ${bgmSite.id}`)
             if (!bgmSite.id) break
             data.sites = data.sites || []
             let site = {
@@ -104,13 +102,13 @@ let now = new Date();
             }
             let sitePath = `./site/${site.site}.js`
             if (fs.existsSync(sitePath)) try {
-                let eps = await require(sitePath)(site)
+                let eps = await require(sitePath)(site, log)
                 if (eps && eps.length > 0) {
                     for (ep of eps) await addEpSite(ep)
                 }
-                console.log(site)
+                log(site)
             } catch (e) {
-                console.log(e.stack || e)
+                log(e.stack || e)
             }
             if (site.week || site.sort) {
                 if (~siteIndex) {
@@ -153,6 +151,6 @@ let now = new Date();
                 }))
             }
         }
-    }
+    }, 5)
     fs.appendFileSync(calendarFile, `]`);
 })()

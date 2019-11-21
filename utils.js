@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-08-02 13:32:54
  * @LastEditors: ekibun
- * @LastEditTime: 2019-11-19 16:41:58
+ * @LastEditTime: 2019-11-21 15:30:04
  */
 const request = require('request-promise-native')
 let timezoneOffset = 60 * 8 * 60 * 1000; // UTC+8 
@@ -15,8 +15,24 @@ let parseWeekTime = (date) => {
     return { week, time }
 }
 
+async function queue(_fetchs, run, num = 2) {
+    let fetchs = _fetchs.concat()
+    await Promise.all(new Array(num).fill(0).map(async () => {
+        while (fetchs.length) {
+            let messages = []
+            let log = (...message) => {
+                messages.push(message)
+            }
+            await run(fetchs.shift(), log)
+            let bgmInfo = messages.shift()
+            if(bgmInfo) console.log(`${_fetchs.length - fetchs.length}/${_fetchs.length}`, ...bgmInfo)
+            messages.forEach(v => v && console.log(...v));
+        }
+    }))
+}
+
 module.exports = {
-    safeRequest: async (url, options) => {
+    safeRequest: async (url, log, options) => {
         let retry = 2
         let ret = undefined
         while (!ret && retry > 0)
@@ -25,7 +41,7 @@ module.exports = {
                 timeout: 5000,
                 ...options
             }).catch((error) => {
-                console.log(`${error}`.split('\n')[0].substring(0, 100))
+                log(`${error}`.split('\n')[0].substring(0, 100))
                 retry--
                 return new Promise((resolve) => { setTimeout(resolve, 100) })
             })
@@ -47,5 +63,6 @@ module.exports = {
             date = !date && date < site.begin ? date : site.begin
         }
         return parseWeekTime(date);
-    }
+    },
+    queue
 }
