@@ -1,8 +1,7 @@
-name: spider
+name: testPush
 
 on:
-  schedule:
-  - cron: "0 0 * * *"
+  push:
 
 jobs:
   build:
@@ -11,9 +10,7 @@ jobs:
     - uses: actions/checkout@master
     - name: Create local changes
       run: |
-        npm install
-        npm update bangumi-data
-        node spider.js
+        rm .github/workflows/push.yml
     - name: Commit files
       id: commit
       run: |
