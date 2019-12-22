@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-22 19:31:45
+ * @LastEditTime : 2019-12-22 22:13:36
  */
 const bangumiData = require('bangumi-data')
 const fs = require('fs')
@@ -22,7 +22,7 @@ let now = new Date();
         if (!bangumi) return
         let bgmId = bangumi.id
 
-        log(bgmId, bgmItem.title)
+        log.v(bgmId, bgmItem.title)
         if (bgmItem.sites.length <= 1) return
         let _subject = undefined
         let getSubject = async () => {
@@ -40,13 +40,13 @@ let now = new Date();
         }
         if (fs.existsSync(filePath)) try {
             data = JSON.parse(fs.readFileSync(filePath))
-        } catch (e) { log(e.stack || e) }
+        } catch (e) { log.e(e.stack || e) }
 
         let rulePath = `./rule/${bgmId}.js`
         let rule = undefined
         if (fs.existsSync(rulePath)) try {
             rule = require(rulePath)
-        } catch (e) { log(e.stack || e) }
+        } catch (e) { log.e(e.stack || e) }
 
         let addEpSite = async (site) => {
             let bgm_sort = (rule && rule[site.site] && rule[site.site].sort) ? rule[site.site].sort(site.sort) : site.sort
@@ -89,7 +89,7 @@ let now = new Date();
         let isNewSubject = ((!bgmItem.end || utils.lagDay(now, new Date(bgmItem.end)) < 10) && utils.lagDay(new Date(bgmItem.begin), now) < 10)
         for (bgmSite of bgmItem.sites) {
             if (!isNewSubject && !ruleNeedUpdate(bgmSite) && data.eps.find(ep => ep.sites.find(v => v.site == bgmSite.site))) continue
-            log(`- ${bgmSite.site} ${bgmSite.id}`)
+            log.v(`- ${bgmSite.site} ${bgmSite.id}`)
             if (!bgmSite.id) break
             data.sites = data.sites || []
             let site = {
@@ -106,9 +106,9 @@ let now = new Date();
                 if (eps && eps.length > 0) {
                     for (ep of eps) await addEpSite(ep)
                 }
-                log(site)
+                log.v(site)
             } catch (e) {
-                log(e.stack || e)
+                log.e(e.stack || e)
             }
             if (site.week || site.sort) {
                 if (~siteIndex) {

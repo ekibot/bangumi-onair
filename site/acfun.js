@@ -2,8 +2,8 @@
  * @Description: acfun spider
  * @Author: ekibun
  * @Date: 2019-08-02 13:36:17
- * @LastEditors: ekibun
- * @LastEditTime: 2019-11-17 11:01:28
+ * @LastEditors  : ekibun
+ * @LastEditTime : 2019-12-22 20:57:48
  */
 const utils = require('../utils')
 
@@ -20,10 +20,10 @@ module.exports = async (site, log) => {
     let totalPage = Math.max(0, Math.floor((site.sort || 0) / 100)) + 1
     let page = totalPage
     while (page <= totalPage) {
-        log(`...loading page ${page}`)
+        log.v(`...loading page ${page}`)
         let data = await utils.safeRequest(`https://www.acfun.cn/album/abm/bangumis/video?albumId=${site.id}&size=100&num=${page}`, log, { json: true })
         if (!data.data || !data.data.content) {
-            log(data)
+            log.e(data)
             break
         }
         content.push(...data.data.content.map(v => v.videos[0]))

@@ -2,8 +2,8 @@
  * @Description: bilibili spider
  * @Author: ekibun
  * @Date: 2019-08-02 13:36:17
- * @LastEditors: ekibun
- * @LastEditTime: 2019-11-16 20:36:29
+ * @LastEditors  : ekibun
+ * @LastEditTime : 2019-12-22 22:22:29
  */
 const utils = require('../utils')
 
@@ -15,7 +15,7 @@ module.exports = async(site, log) => {
         site.time = airInfo[2].replace(":", "")
     }
     if (!data.result || !data.result.episodes) {
-        log(data)
+        log.e(data)
         return
     }
     site.sort = data.result.episodes.length || site.sort

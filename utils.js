@@ -2,10 +2,28 @@
  * @Description: utils
  * @Author: ekibun
  * @Date: 2019-08-02 13:32:54
- * @LastEditors: ekibun
- * @LastEditTime: 2019-11-21 15:30:04
+ * @LastEditors  : ekibun
+ * @LastEditTime : 2019-12-22 22:24:54
  */
 const request = require('request-promise-native')
+const chalk = new (require('chalk')).Instance({ level: 2 })
+
+Date.prototype.format = function (fmt) { //author: meizz
+    var o = {
+        "M+": this.getMonth() + 1, //月份
+        "d+": this.getDate(), //日
+        "h+": this.getHours(), //小时
+        "m+": this.getMinutes(), //分
+        "s+": this.getSeconds(), //秒
+        "q+": Math.floor((this.getMonth() + 3) / 3), //季度
+        "S": this.getMilliseconds() //毫秒
+    };
+    if (/(y+)/.test(fmt)) fmt = fmt.replace(RegExp.$1, (this.getFullYear() + "").substr(4 - RegExp.$1.length));
+    for (var k in o)
+        if (new RegExp("(" + k + ")").test(fmt)) fmt = fmt.replace(RegExp.$1, (RegExp.$1.length == 1) ? (o[k]) : (("00" + o[k]).substr(("" + o[k]).length)));
+    return fmt;
+}
+
 let timezoneOffset = 60 * 8 * 60 * 1000; // UTC+8 
 let parseWeekTime = (date) => {
     if (!date) return { week: 0, time: '' }
@@ -20,12 +38,21 @@ async function queue(_fetchs, run, num = 2) {
     await Promise.all(new Array(num).fill(0).map(async () => {
         while (fetchs.length) {
             let messages = []
-            let log = (...message) => {
-                messages.push(message)
+            let log = {
+                v: (...message) => {
+                    messages.push(message)
+                },
+                e: (...message) => {
+                    messages.push(message.map(v => chalk.red(typeof v == 'string' ? v : JSON.stringify(v))))
+                },
             }
-            await run(fetchs.shift(), log)
+            try {
+                await run(fetchs.shift(), log)
+            } catch (error) {
+                log.e(`${error}`.split('\n')[0].substring(0, 100))
+            }
             let bgmInfo = messages.shift()
-            if(bgmInfo) console.log(`${_fetchs.length - fetchs.length}/${_fetchs.length}`, ...bgmInfo)
+            if (bgmInfo) console.log(chalk.yellow(`${_fetchs.length - fetchs.length}/${_fetchs.length}`), ...bgmInfo)
             messages.forEach(v => v && console.log(...v));
         }
     }))
@@ -38,10 +65,10 @@ module.exports = {
         while (!ret && retry > 0)
             ret = await request(url, {
                 forever: true,
-                timeout: 5000,
+                timeout: 10000,
                 ...options
             }).catch((error) => {
-                log(`${error}`.split('\n')[0].substring(0, 100))
+                log.e(`${error}`.split('\n')[0].substring(0, 100))
                 retry--
                 return new Promise((resolve) => { setTimeout(resolve, 100) })
             })

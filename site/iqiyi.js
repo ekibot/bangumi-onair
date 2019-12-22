@@ -2,8 +2,8 @@
  * @Description: iqiyi spider
  * @Author: ekibun
  * @Date: 2019-08-02 13:36:17
- * @LastEditors: ekibun
- * @LastEditTime: 2019-11-16 23:40:41
+ * @LastEditors  : ekibun
+ * @LastEditTime : 2019-12-22 20:58:08
  */
 const utils = require('../utils')
 
@@ -21,10 +21,10 @@ module.exports = async (site, log) => {
     let totalPage = Math.max(0, Math.floor((site.sort || 0) / 100)) + 1
     let page = totalPage
     while (page <= totalPage) {
-        log(`...loading page ${page}`)
+        log.v(`...loading page ${page}`)
         let listInfo = await utils.safeRequest(`https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=${albumId}&page=${page}&size=100`, log, { json: true })
         if (!listInfo || !listInfo.data || !listInfo.data.epsodelist) {
-            log(listInfo)
+            log.e(listInfo)
             break
         }
         content.push(...listInfo.data.epsodelist)

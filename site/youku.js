@@ -2,8 +2,8 @@
  * @Description: youku spider
  * @Author: ekibun
  * @Date: 2019-08-03 13:31:54
- * @LastEditors: ekibun
- * @LastEditTime: 2019-11-16 23:07:59
+ * @LastEditors  : ekibun
+ * @LastEditTime : 2019-12-22 21:00:12
  */
 const utils = require('../utils')
 const cheerio = require('cheerio')
@@ -23,7 +23,7 @@ module.exports = async (site, log) => {
     let content = []
     let page = Math.max(0, Math.floor((site.sort || 0) / 50)) + 1
     while (true) {
-        log(`...loading page ${page}`)
+        log.v(`...loading page ${page}`)
         let json = JSON.parse(await utils.safeRequest(`https://v.youku.com/page/playlist?&showid=${showId}&isSimple=false&page=${page}`, log))
         let arr = cheerio.load(json.html)('div.item').toArray().map(cheerio)
         if (!arr.length) break

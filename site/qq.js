@@ -2,8 +2,8 @@
  * @Description: qq spider
  * @Author: ekibun
  * @Date: 2019-08-02 13:36:17
- * @LastEditors: ekibun
- * @LastEditTime: 2019-11-17 11:10:56
+ * @LastEditors  : ekibun
+ * @LastEditTime : 2019-12-22 22:22:39
  */
 const utils = require('../utils')
 
@@ -19,7 +19,7 @@ module.exports = async (site, log) => {
     let json = await utils.safeRequest(`http://s.video.qq.com/get_playsource?id=${site.id.split('/')[1]}&type=4&otype=json&range=${site.sort || 1}-10000`, log)
     json = JSON.parse(json.substring(json.indexOf('{'), json.lastIndexOf('}') + 1))
     if (!json.PlaylistItem || !json.PlaylistItem.videoPlayList) {
-        log(json)
+        log.e(json)
         return
     }
     site.sort = (json.PlaylistItem.totalEpisode || json.PlaylistItem.videoPlayList.length || 1) - 1 + (site.sort || 1)
