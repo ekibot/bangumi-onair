@@ -2,8 +2,8 @@
  * @Description: 
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
- * @LastEditors: ekibun
- * @LastEditTime: 2019-11-21 15:17:25
+ * @LastEditors  : ekibun
+ * @LastEditTime : 2019-12-22 19:31:45
  */
 const bangumiData = require('bangumi-data')
 const fs = require('fs')
@@ -129,8 +129,9 @@ let now = new Date();
             let dateJP = utils.parseWeekTime(bgmItem.begin)
             let dateCN = utils.getChinaDate(bgmItem, data.sites)
             let eps = subject.eps && subject.eps.filter(ep => ep.airdate && Math.abs(utils.lagDay(now, new Date(ep.airdate))) < 10).map(ep => {
-                let { comment, desc, duration, ...nep } = ep
-                return nep
+                let { id, type, sort, name, name_cn, airdate, status } = ep
+                airdate = (new Date(airdate)).format('yyyy-MM-dd')
+                return  { id, type, sort, name, name_cn, airdate, status }
             })
             if (eps && eps.length > 0) {
                 if (!first)

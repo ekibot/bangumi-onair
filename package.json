@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "bangumi onair",
   "main": "spider.js",
+  "scripts": {
+    "dev": "node --inspect-brk=28812 spider.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ekibun/bangumi_onair.git"
