@@ -4,23 +4,25 @@
  * @Author: ekibun
  * @Date: 2019-08-02 13:36:17
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-31 10:27:54
+ * @LastEditTime : 2019-12-31 20:27:19
  */
-const utils = require('../utils');
 
-module.exports = async (site, log) => {
+/**
+ * @this { import('../utils').This }
+ */
+async function qq(site) {
     if (!site.week) {
-        let airInfo = await utils.safeRequest(`https://v.qq.com/detail/${site.id}.html`, log);
+        let airInfo = await this.safeRequest(`https://v.qq.com/detail/${site.id}.html`);
         airInfo = airInfo && /每(周[一二三四五六日])(\d{2}[:：]\d{2})更/g.exec(airInfo);
         if (airInfo) {
             site.week = '一二三四五六日'.indexOf(airInfo[1].replace('周', '')) + 1;
             site.time = airInfo[2].replace(/[:：]/, '');
         }
     }
-    let json = await utils.safeRequest(`http://s.video.qq.com/get_playsource?id=${site.id.split('/')[1]}&type=4&otype=json&range=${site.sort || 1}-10000`, log);
+    let json = await this.safeRequest(`http://s.video.qq.com/get_playsource?id=${site.id.split('/')[1]}&type=4&otype=json&range=${site.sort || 1}-10000`);
     json = JSON.parse(json.substring(json.indexOf('{'), json.lastIndexOf('}') + 1));
     if (!json.PlaylistItem || !json.PlaylistItem.videoPlayList) {
-        log.e(json);
+        this.log.e(json);
         return;
     }
     // eslint-disable-next-line max-len
@@ -32,7 +34,8 @@ module.exports = async (site, log) => {
         title: ep.title,
         url: ep.playUrl,
     }));
-};
+}
+module.exports = qq;
 /* eslint-disable no-console */
 if (!module.parent) {
     (async () => {

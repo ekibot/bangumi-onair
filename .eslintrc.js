@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-12-27 16:55:03
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-31 16:50:01
+ * @LastEditTime : 2019-12-31 19:43:54
  */
 module.exports = {
     "env": {
@@ -30,6 +30,7 @@ module.exports = {
         "no-continue": 0,
         "no-bitwise": 0,
         "no-await-in-loop": 0,
-        "no-underscore-dangle": 0
+        "no-underscore-dangle": 0,
+        "linebreak-style": 0
     }
 };

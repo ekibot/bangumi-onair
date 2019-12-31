@@ -1,14 +1,19 @@
-/* eslint-disable no-console, max-len */
 /*
  * @Description: utils
  * @Author: ekibun
  * @Date: 2019-08-02 13:32:54
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-31 17:13:54
+ * @LastEditTime : 2019-12-31 20:49:21
  */
 const request = require('request-promise-native');
-// eslint-disable-next-line global-require
 const chalk = new (require('chalk')).Instance({ level: 2 });
+
+/**
+ * 函数上下文
+ * @typedef { Object } This
+ * @property { { v: (...message) => void, e: (...message) => void } } log
+ * @property { typeof safeRequest } safeRequest
+ */
 
 /**
  * safe request with retry
@@ -23,7 +28,7 @@ async function safeRequest(url, options, retry = 3) {
         ...options,
     }).catch((error) => {
         this.log.e(`${error}`.split('\n')[0].substring(0, 100));
-        return safeRequest(url, options, retry - 1);
+        return safeRequest.call(this, url, options, retry - 1);
     }) : undefined;
 }
 
@@ -51,7 +56,8 @@ async function queue(_fetchs, run, num = 2) {
     const fetchs = _fetchs.concat();
     await Promise.all(new Array(num).fill(0).map(async () => {
         while (fetchs.length) {
-            const messages = [[chalk.yellow(`${_fetchs.length - fetchs.length + 1}/${_fetchs.length}`)]];
+            const pre = chalk.yellow(`${_fetchs.length - fetchs.length + 1}/${_fetchs.length}`);
+            const messages = [];
             const log = {
                 v: (...message) => {
                     messages.push(message);
@@ -62,8 +68,10 @@ async function queue(_fetchs, run, num = 2) {
             };
             try {
                 // eslint-disable-next-line no-await-in-loop
-                await run.call({ chalk, log }, fetchs.shift());
+                await run.call({ chalk, log, safeRequest }, fetchs.shift());
             } catch (e) { log.e(e.stack || e); }
+            messages[0].splice(0, 0, pre);
+            // eslint-disable-next-line no-console
             messages.forEach((v) => v && console.log(...v));
         }
     }));

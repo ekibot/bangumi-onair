@@ -4,12 +4,14 @@
  * @Author: ekibun
  * @Date: 2019-08-02 13:36:17
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-31 10:21:10
+ * @LastEditTime : 2019-12-31 20:27:07
  */
-const utils = require('../utils');
 
-module.exports = async (site, log) => {
-    let albumId = await utils.safeRequest(`https://www.iqiyi.com/${site.id}.html`, log);
+/**
+ * @this { import('../utils').This }
+ */
+async function iqiyi(site) {
+    let albumId = await this.safeRequest(`https://www.iqiyi.com/${site.id}.html`);
     const airInfo = albumId && /每(周[一二三四五六日])(\d{2}:\d{2}|\S+)更新/g.exec(albumId);
     if (airInfo) {
         site.week = '一二三四五六日'.indexOf(airInfo[1].trim().replace('周', '')) + 1;
@@ -23,11 +25,11 @@ module.exports = async (site, log) => {
     let totalPage = Math.max(0, Math.floor((site.sort || 0) / 100)) + 1;
     let page = totalPage;
     while (page <= totalPage) {
-        log.v(`...loading page ${page}`);
+        this.log.v(`...loading page ${page}`);
         // eslint-disable-next-line no-await-in-loop
-        const listInfo = await utils.safeRequest(`https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=${albumId}&page=${page}&size=100`, log, { json: true });
+        const listInfo = await this.safeRequest(`https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=${albumId}&page=${page}&size=100`, { json: true });
         if (!listInfo || !listInfo.data || !listInfo.data.epsodelist) {
-            log.e(listInfo);
+            this.log.e(listInfo);
             break;
         }
         content.push(...listInfo.data.epsodelist);
@@ -44,8 +46,8 @@ module.exports = async (site, log) => {
         url: ep.playUrl,
         time: new Date(ep.publishTime || ep.issueTime),
     }));
-};
-
+}
+module.exports = iqiyi;
 /* eslint-disable no-console */
 if (!module.parent) {
     (async () => {

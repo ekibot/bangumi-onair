@@ -1,8 +1,7 @@
 name: spider
 
 on:
-  schedule:
-  - cron: "0 0 * * *"
+  push:
 
 jobs:
   build:
@@ -26,11 +25,3 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.ACCESS_TOKEN }}
-    - name: Create Release
-      uses: actions/create-release@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: ${{ steps.commit.outputs.time }}
-        release_name: Release ${{ steps.commit.outputs.time }}
-        body: ${{ steps.commit.outputs.time }}

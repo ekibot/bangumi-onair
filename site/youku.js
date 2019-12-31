@@ -4,13 +4,15 @@
  * @Author: ekibun
  * @Date: 2019-08-03 13:31:54
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-31 10:26:14
+ * @LastEditTime : 2019-12-31 20:28:10
  */
 const cheerio = require('cheerio');
-const utils = require('../utils');
 
-module.exports = async (site, log) => {
-    let showId = await utils.safeRequest(`https://list.youku.com/show/id_z${site.id}.html`, log);
+/**
+ * @this { import('../utils').This }
+ */
+async function youku(site) {
+    let showId = await this.safeRequest(`https://list.youku.com/show/id_z${site.id}.html`);
     let airInfo = showId && cheerio.load(showId)('.p-renew').text();
     airInfo = airInfo && /每(周[一二三四五六日])(\d{2}:\d{2})更新/g.exec(airInfo);
     if (airInfo) {
@@ -26,9 +28,9 @@ module.exports = async (site, log) => {
     let page = Math.max(0, Math.floor((site.sort || 0) / 50)) + 1;
     // eslint-disable-next-line no-constant-condition
     while (true) {
-        log.v(`...loading page ${page}`);
+        this.log.v(`...loading page ${page}`);
         // eslint-disable-next-line no-await-in-loop
-        const json = JSON.parse(await utils.safeRequest(`https://v.youku.com/page/playlist?&showid=${showId}&isSimple=false&page=${page}`, log));
+        const json = JSON.parse(await this.safeRequest(`https://v.youku.com/page/playlist?&showid=${showId}&isSimple=false&page=${page}`));
         const arr = cheerio.load(json.html)('div.item').toArray().map(cheerio);
         if (!arr.length) break;
         content.push(...arr);
@@ -43,7 +45,8 @@ module.exports = async (site, log) => {
         title: ep.attr('title'),
         url: `https://v.youku.com/v_show/${ep.attr('item-id').replace('item_', 'id_')}`,
     }));
-};
+}
+module.exports = youku;
 /* eslint-disable no-console */
 if (!module.parent) {
     (async () => {

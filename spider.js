@@ -4,7 +4,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-31 17:23:23
+ * @LastEditTime : 2019-12-31 20:56:38
  */
 
 /**
@@ -103,10 +103,10 @@ function getChinaDate(item, sites) {
 
 (async () => {
     const calendar = [];
-
-    // queue bgm-data
-    await utils.queue(bangumiData.items, async function queueItem(bgmItem) {
-        // get bangumi id
+    /**
+     * @this { import('./utils').This }
+     */
+    async function queueItem(bgmItem) {
         const bangumi = bgmItem.sites.find((v) => v.site === 'bangumi');
         if (!bangumi) return;
         const bgmId = bangumi.id;
@@ -118,7 +118,7 @@ function getChinaDate(item, sites) {
          */
         let _subject = null;
         /** @type { () => Promise<Subject> } */ const getSubject = async () => {
-            if (!_subject) _subject = await utils.safeRequest(`https://api.bgm.tv/subject/${bgmId}/ep`, { json: true });
+            if (!_subject) _subject = await this.safeRequest(`https://api.bgm.tv/subject/${bgmId}/ep`, { json: true });
             return _subject || getSubject();
         };
 
@@ -174,7 +174,7 @@ function getChinaDate(item, sites) {
             }
             const sitePath = `./site/${site.site}.js`;
             if (fs.existsSync(sitePath)) try {
-                /** @type { SiteEpisode[] } */const eps = await require(sitePath)(site);
+                /** @type { SiteEpisode[] } */const eps = await (require(sitePath)).call(this, site);
                 /**
                  * 更新剧集信息
                  */
@@ -186,7 +186,7 @@ function getChinaDate(item, sites) {
                     if (!bgmEp) continue;
                     const ep = data.eps.find((v) => v.id === bgmEp.id);
                     if (ep) {
-                        utils.setOrPush(ep.sites, site, (v) => v.site === site.site && v.url === siteEp.url);
+                        utils.setOrPush(ep.sites, siteEp, (v) => v.site === site.site && v.url === siteEp.url);
                         ep.sort = bgmEp.sort;
                         ep.name = bgmEp.name;
                     } else {
@@ -194,7 +194,7 @@ function getChinaDate(item, sites) {
                             id: bgmEp.id,
                             sort: bgmEp.sort,
                             name: bgmEp.name,
-                            sites: [site],
+                            sites: [siteEp],
                         });
                     }
                 }
@@ -203,6 +203,9 @@ function getChinaDate(item, sites) {
                 this.log.e(e.stack || e);
             }
             if (site.week || site.sort) {
+                /**
+                 * 更新站点信息
+                 */
                 if (~siteIndex) {
                     data.sites[siteIndex] = site;
                 } else {
@@ -215,7 +218,9 @@ function getChinaDate(item, sites) {
             if (!fs.existsSync(dirPath)) fs.mkdirSync(dirPath);
             fs.writeFileSync(filePath, JSON.stringify(data));
         }
-        // calendar
+        /**
+         * 时间表
+         */
         if (isNewSubject) {
             const subject = await getSubject();
             const dateJP = parseWeekTime(bgmItem.begin);
@@ -245,5 +250,6 @@ function getChinaDate(item, sites) {
                 fs.writeFileSync('calendar.json', `[${calendar.map((v) => JSON.stringify(v)).join(',\n')}]`);
             }
         }
-    }, 5);
+    }
+    await utils.queue(bangumiData.items, queueItem, 5);
 })();
