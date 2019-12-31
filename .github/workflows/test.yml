@@ -1,4 +1,4 @@
-name: spider
+name: test
 
 on:
   push:
@@ -13,6 +13,7 @@ jobs:
         npm install
         npm install bangumi-data@latest
         node spider.js
+        rm .github/workflows/test.yml
     - name: Commit files
       id: commit
       run: |

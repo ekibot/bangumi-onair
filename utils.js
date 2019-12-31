@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-08-02 13:32:54
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-31 20:49:21
+ * @LastEditTime : 2019-12-31 21:21:36
  */
 const request = require('request-promise-native');
 const chalk = new (require('chalk')).Instance({ level: 2 });
@@ -54,9 +54,9 @@ function setOrPush(arr, newData, finder) {
  */
 async function queue(_fetchs, run, num = 2) {
     const fetchs = _fetchs.concat();
-    await Promise.all(new Array(num).fill(0).map(async () => {
+    await Promise.all(new Array(num).fill(0).map(async (_, i) => {
         while (fetchs.length) {
-            const pre = chalk.yellow(`${_fetchs.length - fetchs.length + 1}/${_fetchs.length}`);
+            const pre = [chalk.yellow(`${_fetchs.length - fetchs.length + 1}/${_fetchs.length}`), chalk.green(i)];
             const messages = [];
             const log = {
                 v: (...message) => {
@@ -70,7 +70,7 @@ async function queue(_fetchs, run, num = 2) {
                 // eslint-disable-next-line no-await-in-loop
                 await run.call({ chalk, log, safeRequest }, fetchs.shift());
             } catch (e) { log.e(e.stack || e); }
-            messages[0].splice(0, 0, pre);
+            messages[0].splice(0, 0, ...pre);
             // eslint-disable-next-line no-console
             messages.forEach((v) => v && console.log(...v));
         }
