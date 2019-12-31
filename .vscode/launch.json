@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Debug Server",
+      "port": 28812,
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "script"
+      ],
+      "windows": {
+        "localRoot": "${workspaceFolder}",
+        "remoteRoot": "${command:extension.vscode-wsl-workspaceFolder}",
+        "runtimeExecutable": "bash",
+        "runtimeArgs": [
+          "-c",
+          "npm run dev"
+        ]
+      }
+    }
+  ]
+}

@@ -1,143 +1,234 @@
+/* eslint-disable max-len */
 /*
- * @Description: 
+ * @Description: spider
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-22 22:13:36
+ * @LastEditTime : 2019-12-31 17:23:23
  */
-const bangumiData = require('bangumi-data')
-const fs = require('fs')
-const path = require('path')
-const utils = require('./utils')
 
-let calendarFile = `calendar.json`;
+/**
+ * 条目规则
+ * @typedef { { [key: string] : { sort: (ep: number) => number } } } Rule
+ */
 
-let now = new Date();
+/**
+ * 站点信息
+ * @typedef { Object } Site
+ * @property { string } site
+ * @property { string } id
+ * @property { string } begin
+ * @property { number } week
+ * @property { string } time
+ */
+
+/**
+ * bangumi-data数据
+ * @typedef { Object } BangumiData
+ * @property { string } title
+ * @property { string } begin
+ * @property { string } end
+ * @property { Site[] } sites
+ */
+
+/**
+ * 剧集信息
+ * @typedef { Object } Episode
+ * @property { number } id
+ * @property { number } sort
+ * @property { string } name
+ * @property { string } name_cn
+ * @property { string } airdate
+ * @property { Site[] } sites
+ */
+
+/**
+ * 站点剧集信息
+ * @typedef { Object } SiteEpisode
+ * @property { string } site
+ * @property { number } sort
+ * @property { string } title
+ * @property { string } url
+ * @property { Date } time
+ */
+
+/**
+ * 条目信息
+ * @typedef { Object } Subject
+ * @property { number } id
+ * @property { string } name
+ * @property { Site[] } sites
+ * @property { Episode[] } eps
+ */
+
+/** @type { { items: BangumiData[] } } */
+const bangumiData = require('bangumi-data');
+const fs = require('fs');
+const path = require('path');
+const dayjs = require('dayjs');
+const utils = require('./utils');
+require('dayjs/locale/zh-cn');
+
+dayjs.locale('zh-cn');
+const now = dayjs();
+
+/**
+ * 通过首播时间推测放送的星期和时间
+ * @param { string } dateString
+ */
+function parseWeekTime(dateString) {
+    if (!dateString) return { week: 0, time: '' };
+    const date = dayjs(dateString);
+    return {
+        week: date.day(),
+        time: date.format('HHmm'),
+    };
+}
+
+/**
+ * 先检查站点的放送信息，不存在则按首播时间推测
+ * @param { BangumiData } item
+ * @param { Site[] } sites
+ */
+function getChinaDate(item, sites) {
+    let site = sites && sites.find((v) => v.week && !Number.isNaN(Number(v.time)));
+    if (site) return site;
+    const chinaSites = ['acfun', 'bilibili', 'tucao', 'sohu', 'youku', 'tudou', 'qq', 'iqiyi', 'letv', 'pptv', 'kankan', 'mgtv'];
+    let date = null;
+    for (site of item.sites) {
+        if (site.begin && chinaSites.includes(site.site)) date = date && date < site.begin ? date : site.begin;
+    }
+    return parseWeekTime(date);
+}
+
 (async () => {
-    fs.writeFileSync(calendarFile, `[`);
-    let first = true;
+    const calendar = [];
 
-    await utils.queue(bangumiData.items, async (bgmItem, log) => {
-        let bangumi = bgmItem.sites.find(v => v.site == 'bangumi')
-        if (!bangumi) return
-        let bgmId = bangumi.id
+    // queue bgm-data
+    await utils.queue(bangumiData.items, async function queueItem(bgmItem) {
+        // get bangumi id
+        const bangumi = bgmItem.sites.find((v) => v.site === 'bangumi');
+        if (!bangumi) return;
+        const bgmId = bangumi.id;
+        this.log.v(bgmId, bgmItem.title);
+        if (bgmItem.sites.length <= 1) return;
 
-        log.v(bgmId, bgmItem.title)
-        if (bgmItem.sites.length <= 1) return
-        let _subject = undefined
-        let getSubject = async () => {
-            while (!_subject)
-                _subject = await utils.safeRequest(`https://api.bgm.tv/subject/${bgmId}/ep`, log, { json: true })
-            return _subject
-        }
+        /**
+         * 只加载一次bgm.tv的数据
+         */
+        let _subject = null;
+        /** @type { () => Promise<Subject> } */ const getSubject = async () => {
+            if (!_subject) _subject = await utils.safeRequest(`https://api.bgm.tv/subject/${bgmId}/ep`, { json: true });
+            return _subject || getSubject();
+        };
 
-        let filePath = `./onair/${Math.floor(bgmId / 1000)}/${bgmId}.json`
-        let data = {
+        /**
+         * 加载上次保存的数据
+         */
+        const filePath = `./onair/${Math.floor(bgmId / 1000)}/${bgmId}.json`;
+        /** @type { Subject } */ let data = {
             id: bgmId,
             name: bgmItem.title,
             sites: [],
-            eps: []
-        }
+            eps: [],
+        };
         if (fs.existsSync(filePath)) try {
-            data = JSON.parse(fs.readFileSync(filePath))
-        } catch (e) { log.e(e.stack || e) }
+            data = JSON.parse(fs.readFileSync(filePath));
+        } catch (e) { this.log.e(e.stack || e); }
 
-        let rulePath = `./rule/${bgmId}.js`
-        let rule = undefined
+        /**
+         * 加载条目规则
+         */
+        const rulePath = `./rule/${bgmId}.js`;
+        /** @type { Rule | null } */ let rule = null;
         if (fs.existsSync(rulePath)) try {
-            rule = require(rulePath)
-        } catch (e) { log.e(e.stack || e) }
+            rule = require(rulePath);
+        } catch (e) { this.log.e(e.stack || e); }
 
-        let addEpSite = async (site) => {
-            let bgm_sort = (rule && rule[site.site] && rule[site.site].sort) ? rule[site.site].sort(site.sort) : site.sort
-            let bgmEps = (await getSubject()).eps
-            if (!bgmEps) return false
-            let bgmEp = bgmEps.find(v => v.sort == bgm_sort)
-            if (!bgmEp) return false
-            let ep = data.eps.find(v => v.id == bgmEp.id)
-            if (ep) {
-                let siteIndex = ep.sites.findIndex(v => v.site == site.site && v.url == site.url)
-                if (~siteIndex) {
-                    ep.sites[siteIndex] = site
-                } else {
-                    ep.sites.push(site)
-                }
-                ep.sort = bgmEp.sort
-                ep.name = bgmEp.name
-            } else {
-                data.eps.push({
-                    id: bgmEp.id,
-                    sort: bgmEp.sort,
-                    name: bgmEp.name,
-                    sites: [site]
-                })
-            }
-            return true
-        }
+        /**
+         * 检测保存的条目是否满足规则
+         * @param { Site } site
+         * @returns { boolean }
+         */
+        const ruleNeedUpdate = (site) => rule && rule[site.site] && rule[site.site].sort && data.eps.reduce(
+            (accEp, curEp) => accEp || curEp.sites.reduce(
+                (accSite, curSite) => accSite || (curSite.site === site.site
+                    && (!curSite.sort || rule[curSite.site].sort(curSite.sort, site.site) !== curEp.sort)), false,
+            ), false,
+        );
 
-        let ruleNeedUpdate = (site) => {
-            if (rule && rule[site.site] && rule[site.site].sort) {
-                let lastEp = data.eps.reverse().find(ep => ep.sites.find(v => v.site == site.site))
-                if (lastEp.sort === undefined) return true
-                let lastSite = lastEp.sites.reverse().find(v => v.site == site.site)
-                if (lastSite.sort === undefined) return true
-                if (rule[site.site].sort(lastSite.sort, site.site) != lastEp.sort) return true
-            }
-            return false
-        }
+        const isNewSubject = ((!bgmItem.end || now.diff(dayjs(bgmItem.end), 'day') < 10) && dayjs(bgmItem.begin).diff(now, 'day') < 10);
 
-        let isNewSubject = ((!bgmItem.end || utils.lagDay(now, new Date(bgmItem.end)) < 10) && utils.lagDay(new Date(bgmItem.begin), now) < 10)
-        for (bgmSite of bgmItem.sites) {
-            if (!isNewSubject && !ruleNeedUpdate(bgmSite) && data.eps.find(ep => ep.sites.find(v => v.site == bgmSite.site))) continue
-            log.v(`- ${bgmSite.site} ${bgmSite.id}`)
-            if (!bgmSite.id) break
-            data.sites = data.sites || []
-            let site = {
+        for (const bgmSite of bgmItem.sites) {
+            if (!bgmSite.id || (!isNewSubject && !ruleNeedUpdate(bgmSite)
+                && data.eps.find((ep) => ep.sites.find((v) => v.site === bgmSite.site)))) continue;
+            this.log.v(`- ${bgmSite.site} ${bgmSite.id}`);
+            data.sites = data.sites || [];
+            /** @type { Site } */ let site = {
                 site: bgmSite.site,
-                id: bgmSite.id
-            }
-            let siteIndex = data.sites.findIndex(v => v.site == bgmSite.site && v.id == bgmSite.id)
+                id: bgmSite.id,
+            };
+            const siteIndex = data.sites.findIndex((v) => v.site === bgmSite.site && v.id === bgmSite.id);
             if (~siteIndex) {
-                site = data.sites[siteIndex]
+                site = data.sites[siteIndex];
             }
-            let sitePath = `./site/${site.site}.js`
+            const sitePath = `./site/${site.site}.js`;
             if (fs.existsSync(sitePath)) try {
-                let eps = await require(sitePath)(site, log)
-                if (eps && eps.length > 0) {
-                    for (ep of eps) await addEpSite(ep)
+                /** @type { SiteEpisode[] } */const eps = await require(sitePath)(site);
+                /**
+                 * 更新剧集信息
+                 */
+                if (eps && eps.length > 0) for (const siteEp of eps) {
+                    const bgmSort = (rule && rule[site.site] && rule[site.site].sort)
+                        ? rule[site.site].sort(siteEp.sort) : siteEp.sort;
+                    const bgmEps = (await getSubject()).eps;
+                    const bgmEp = bgmEps && bgmEps.find((v) => v.sort === bgmSort);
+                    if (!bgmEp) continue;
+                    const ep = data.eps.find((v) => v.id === bgmEp.id);
+                    if (ep) {
+                        utils.setOrPush(ep.sites, site, (v) => v.site === site.site && v.url === siteEp.url);
+                        ep.sort = bgmEp.sort;
+                        ep.name = bgmEp.name;
+                    } else {
+                        data.eps.push({
+                            id: bgmEp.id,
+                            sort: bgmEp.sort,
+                            name: bgmEp.name,
+                            sites: [site],
+                        });
+                    }
                 }
-                log.v(site)
+                this.log.v(site);
             } catch (e) {
-                log.e(e.stack || e)
+                this.log.e(e.stack || e);
             }
             if (site.week || site.sort) {
                 if (~siteIndex) {
-                    data.sites[siteIndex] = site
+                    data.sites[siteIndex] = site;
                 } else {
-                    data.sites.push(site)
+                    data.sites.push(site);
                 }
             }
         }
         if (data.eps.length > 0) {
-            let dirPath = path.dirname(filePath)
-            if (!fs.existsSync(dirPath)) fs.mkdirSync(dirPath)
-            fs.writeFileSync(filePath, JSON.stringify(data))
+            const dirPath = path.dirname(filePath);
+            if (!fs.existsSync(dirPath)) fs.mkdirSync(dirPath);
+            fs.writeFileSync(filePath, JSON.stringify(data));
         }
         // calendar
         if (isNewSubject) {
-            let subject = await getSubject();
-            let dateJP = utils.parseWeekTime(bgmItem.begin)
-            let dateCN = utils.getChinaDate(bgmItem, data.sites)
-            let eps = subject.eps && subject.eps.filter(ep => ep.airdate && Math.abs(utils.lagDay(now, new Date(ep.airdate))) < 10).map(ep => {
-                let { id, type, sort, name, name_cn, airdate, status } = ep
-                airdate = (new Date(airdate)).format('yyyy-MM-dd')
-                return  { id, type, sort, name, name_cn, airdate, status }
-            })
+            const subject = await getSubject();
+            const dateJP = parseWeekTime(bgmItem.begin);
+            const dateCN = getChinaDate(bgmItem, data.sites);
+            const eps = subject.eps && subject.eps.filter((ep) => ep.airdate && Math.abs(now.diff(dayjs(ep.airdate), 'day')) < 10).map((ep) => {
+                // eslint-disable-next-line camelcase, object-curly-newline
+                const { id, type, sort, name, name_cn, airdate, status } = ep;
+                return {
+                    id, type, sort, name, name_cn, airdate: dayjs(airdate).format('YYYY-MM-DD'), status,
+                };
+            });
             if (eps && eps.length > 0) {
-                if (!first)
-                    fs.appendFileSync(calendarFile, `,\n`)
-                first = false
-                fs.appendFileSync(calendarFile, JSON.stringify({
+                calendar.push({
                     id: subject.id,
                     name: subject.name,
                     name_cn: subject.name_cn,
@@ -147,11 +238,12 @@ let now = new Date();
                     timeJP: dateJP.time,
                     timeCN: dateCN.time,
                     image: subject.images && subject.images.grid,
-                    sites: data.sites.filter(v => v.week),
-                    eps
-                }))
+                    sites: data.sites.filter((v) => v.week),
+                    eps,
+                });
+                calendar.sort((a, b) => a.id - b.id);
+                fs.writeFileSync('calendar.json', `[${calendar.map((v) => JSON.stringify(v)).join(',\n')}]`);
             }
         }
-    }, 5)
-    fs.appendFileSync(calendarFile, `]`);
-})()
+    }, 5);
+})();

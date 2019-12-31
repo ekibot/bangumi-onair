@@ -1,53 +1,59 @@
+/* eslint-disable no-param-reassign */
 /*
  * @Description: iqiyi spider
  * @Author: ekibun
  * @Date: 2019-08-02 13:36:17
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-22 20:58:08
+ * @LastEditTime : 2019-12-31 10:21:10
  */
-const utils = require('../utils')
+const utils = require('../utils');
 
 module.exports = async (site, log) => {
-    let albumId = await utils.safeRequest(`https://www.iqiyi.com/${site.id}.html`, log)
-    let airInfo = albumId && /每(周[一二三四五六日])(\d{2}:\d{2}|\S+)更新/g.exec(albumId)
+    let albumId = await utils.safeRequest(`https://www.iqiyi.com/${site.id}.html`, log);
+    const airInfo = albumId && /每(周[一二三四五六日])(\d{2}:\d{2}|\S+)更新/g.exec(albumId);
     if (airInfo) {
-        site.week = "一二三四五六日".indexOf(airInfo[1].trim().replace("周", "")) + 1
-        site.time = airInfo[2].replace(":", "")
+        site.week = '一二三四五六日'.indexOf(airInfo[1].trim().replace('周', '')) + 1;
+        site.time = airInfo[2].replace(':', '');
     }
-    albumId = /albumId: "([0-9]*)"/g.exec(albumId)
-    if (!albumId || !albumId[1]) return
-    albumId = albumId[1] // 202728701
-    let content = []
-    let totalPage = Math.max(0, Math.floor((site.sort || 0) / 100)) + 1
-    let page = totalPage
+    albumId = /albumId: "([0-9]*)"/g.exec(albumId);
+    if (!albumId || !albumId[1]) return;
+    // eslint-disable-next-line prefer-destructuring
+    albumId = albumId[1]; // 202728701
+    const content = [];
+    let totalPage = Math.max(0, Math.floor((site.sort || 0) / 100)) + 1;
+    let page = totalPage;
     while (page <= totalPage) {
-        log.v(`...loading page ${page}`)
-        let listInfo = await utils.safeRequest(`https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=${albumId}&page=${page}&size=100`, log, { json: true })
+        log.v(`...loading page ${page}`);
+        // eslint-disable-next-line no-await-in-loop
+        const listInfo = await utils.safeRequest(`https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=${albumId}&page=${page}&size=100`, log, { json: true });
         if (!listInfo || !listInfo.data || !listInfo.data.epsodelist) {
-            log.e(listInfo)
-            break
+            log.e(listInfo);
+            break;
         }
-        content.push(...listInfo.data.epsodelist)
-        site.sort = (page - 1) * 100 + listInfo.data.epsodelist.length || site.sort
-        totalPage = listInfo.data.page
-        page++
+        content.push(...listInfo.data.epsodelist);
+        site.sort = (page - 1) * 100 + listInfo.data.epsodelist.length || site.sort;
+        totalPage = listInfo.data.page;
+        page += 1;
     }
 
-    return content.map(ep => ({
+    // eslint-disable-next-line consistent-return
+    return content.map((ep) => ({
         site: site.site,
         sort: ep.order,
         title: ep.subtitle || ep.name,
         url: ep.playUrl,
-        time: new Date(ep.publishTime || ep.issueTime)
-    }))
-}
+        time: new Date(ep.publishTime || ep.issueTime),
+    }));
+};
+
+/* eslint-disable no-console */
 if (!module.parent) {
     (async () => {
-        let site = {
+        const site = {
             site: 'iqiyi',
-            id: 'a_19rrk1kp41'
-        }
-        console.log(await module.exports(site, console.log))
-        console.log(site)
-    })()
+            id: 'a_19rrk1kp41',
+        };
+        console.log(await module.exports(site, console.log));
+        console.log(site);
+    })();
 }
