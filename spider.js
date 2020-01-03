@@ -4,7 +4,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-31 20:56:38
+ * @LastEditTime : 2020-01-03 13:23:28
  */
 
 /**
@@ -65,12 +65,10 @@
 const bangumiData = require('bangumi-data');
 const fs = require('fs');
 const path = require('path');
-const dayjs = require('dayjs');
+const moment = require('moment-timezone');
 const utils = require('./utils');
-require('dayjs/locale/zh-cn');
 
-dayjs.locale('zh-cn');
-const now = dayjs();
+const now = moment();
 
 /**
  * 通过首播时间推测放送的星期和时间
@@ -78,7 +76,7 @@ const now = dayjs();
  */
 function parseWeekTime(dateString) {
     if (!dateString) return { week: 0, time: '' };
-    const date = dayjs(dateString);
+    const date = moment(dateString).tz('Asia/Shanghai');
     return {
         week: date.day(),
         time: date.format('HHmm'),
@@ -157,7 +155,7 @@ function getChinaDate(item, sites) {
             ), false,
         );
 
-        const isNewSubject = ((!bgmItem.end || now.diff(dayjs(bgmItem.end), 'day') < 10) && dayjs(bgmItem.begin).diff(now, 'day') < 10);
+        const isNewSubject = ((!bgmItem.end || now.diff(moment(bgmItem.end), 'day') < 10) && moment(bgmItem.begin).diff(now, 'day') < 10);
 
         for (const bgmSite of bgmItem.sites) {
             if (!bgmSite.id || (!isNewSubject && !ruleNeedUpdate(bgmSite)
@@ -225,11 +223,11 @@ function getChinaDate(item, sites) {
             const subject = await getSubject();
             const dateJP = parseWeekTime(bgmItem.begin);
             const dateCN = getChinaDate(bgmItem, data.sites);
-            const eps = subject.eps && subject.eps.filter((ep) => ep.airdate && Math.abs(now.diff(dayjs(ep.airdate), 'day')) < 10).map((ep) => {
+            const eps = subject.eps && subject.eps.filter((ep) => ep.airdate && Math.abs(now.diff(moment(ep.airdate), 'day')) < 10).map((ep) => {
                 // eslint-disable-next-line camelcase, object-curly-newline
                 const { id, type, sort, name, name_cn, airdate, status } = ep;
                 return {
-                    id, type, sort, name, name_cn, airdate: dayjs(airdate).format('YYYY-MM-DD'), status,
+                    id, type, sort, name, name_cn, airdate: moment(airdate).format('YYYY-MM-DD'), status,
                 };
             });
             if (eps && eps.length > 0) {

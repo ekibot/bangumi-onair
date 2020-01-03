@@ -14,7 +14,8 @@
     "bangumi-data": "^0.3.8",
     "chalk": "^3.0.0",
     "cheerio": "^1.0.0-rc.3",
-    "dayjs": "^1.8.18",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.27",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7"
   },
