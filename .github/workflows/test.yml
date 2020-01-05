@@ -1,0 +1,19 @@
+name: test
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '12.x'
+    - name: Create local changes
+      run: |
+        npm install
+        npm install bangumi-data@latest
+        node site/bilibili.js
+        rm .github/workflows/test.yml
