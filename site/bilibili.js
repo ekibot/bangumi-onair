@@ -4,7 +4,7 @@
  * @Author: ekibun
  * @Date: 2019-08-02 13:36:17
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-31 20:26:27
+ * @LastEditTime : 2020-01-04 13:53:36
  */
 
 /**
@@ -37,9 +37,9 @@ if (!module.parent) {
     (async () => {
         const site = {
             site: 'bilibili',
-            id: '28222622',
+            id: '28224128',
         };
-        console.log(await module.exports(site, console.log));
+        console.log(await module.exports.call(require('../utils').createThis(), site));
         console.log(site);
     })();
 }

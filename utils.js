@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-08-02 13:32:54
  * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-31 21:21:36
+ * @LastEditTime : 2020-01-05 14:09:21
  */
 const request = require('request-promise-native');
 const chalk = new (require('chalk')).Instance({ level: 2 });
@@ -46,6 +46,26 @@ function setOrPush(arr, newData, finder) {
 }
 
 /**
+ * create this with logger
+ * @param { (...messsage) => void } printer
+ * @returns { This }
+ */
+// eslint-disable-next-line no-console
+function createThis(printer = console.log) {
+    const log = {
+        v: printer,
+        e: (...message) => {
+            printer(...message.map((v) => chalk.red(typeof v === 'string' ? v : JSON.stringify(v))));
+        },
+    };
+    return {
+        chalk,
+        log,
+        safeRequest,
+    };
+}
+
+/**
  * async pool
  * @template T
  * @param { T[] } _fetchs
@@ -58,18 +78,11 @@ async function queue(_fetchs, run, num = 2) {
         while (fetchs.length) {
             const pre = [chalk.yellow(`${_fetchs.length - fetchs.length + 1}/${_fetchs.length}`), chalk.green(i)];
             const messages = [];
-            const log = {
-                v: (...message) => {
-                    messages.push(message);
-                },
-                e: (...message) => {
-                    messages.push(message.map((v) => chalk.red(typeof v === 'string' ? v : JSON.stringify(v))));
-                },
-            };
+            const _this = createThis((...message) => messages.push(message));
             try {
-                // eslint-disable-next-line no-await-in-loop
-                await run.call({ chalk, log, safeRequest }, fetchs.shift());
-            } catch (e) { log.e(e.stack || e); }
+                await run.call(_this, fetchs.shift());
+            } catch (e) { _this.log.e(e.stack || e); }
+            messages[0] = messages[0] || [];
             messages[0].splice(0, 0, ...pre);
             // eslint-disable-next-line no-console
             messages.forEach((v) => v && console.log(...v));
@@ -81,4 +94,5 @@ module.exports = {
     safeRequest,
     setOrPush,
     queue,
+    createThis,
 };
