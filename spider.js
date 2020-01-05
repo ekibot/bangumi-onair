@@ -4,7 +4,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors  : ekibun
- * @LastEditTime : 2020-01-03 13:23:28
+ * @LastEditTime : 2020-01-05 15:26:16
  */
 
 /**
@@ -214,6 +214,7 @@ function getChinaDate(item, sites) {
         if (data.eps.length > 0) {
             const dirPath = path.dirname(filePath);
             if (!fs.existsSync(dirPath)) fs.mkdirSync(dirPath);
+            this.log.v(`- writing ${data.eps.length} eps`);
             fs.writeFileSync(filePath, JSON.stringify(data));
         }
         /**

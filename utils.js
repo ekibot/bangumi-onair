@@ -3,7 +3,7 @@
  * @Author: ekibun
  * @Date: 2019-08-02 13:32:54
  * @LastEditors  : ekibun
- * @LastEditTime : 2020-01-05 14:09:21
+ * @LastEditTime : 2020-01-05 15:16:26
  */
 const request = require('request-promise-native');
 const chalk = new (require('chalk')).Instance({ level: 2 });
@@ -24,7 +24,7 @@ const chalk = new (require('chalk')).Instance({ level: 2 });
 async function safeRequest(url, options, retry = 3) {
     return retry ? request(url, {
         forever: true,
-        timeout: 10000,
+        timeout: 5000,
         ...options,
     }).catch((error) => {
         this.log.e(`${error}`.split('\n')[0].substring(0, 100));

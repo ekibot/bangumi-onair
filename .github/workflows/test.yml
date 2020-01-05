@@ -15,5 +15,18 @@ jobs:
       run: |
         npm install
         npm install bangumi-data@latest
-        node site/bilibili.js
+        node spider.js
         rm .github/workflows/test.yml
+    - name: Commit files
+      id: commit
+      run: |
+        git config --local user.email "soekibun+bot@gmail.com"
+        git config --local user.name "ekibunbot"
+        time=$(date "+%Y-%m-%d_%H:%M:%S")
+        git add . -v
+        git commit -m "Update at ${time}"
+        echo ::set-output name=time::$(date "+%Y%m%d%H%M%S")
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.ACCESS_TOKEN }}
