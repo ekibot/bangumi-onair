@@ -25,7 +25,7 @@ async function acfun(site) {
     while (page <= totalPage) {
         this.log.v(`...loading page ${page}`);
         // eslint-disable-next-line no-await-in-loop
-        const data = await this.safeRequest(`https://www.acfun.cn/album/abm/bangumis/video?albumId=${site.id}&size=100&num=${page}`, { json: true });
+        const data = await this.safeRequest(`https://www.acfun.cn/album/abm/bangumis/video?albumId=${site.id}&size=100&num=${page}`);
         if (!data.data || !data.data.content) {
             this.log.e(data);
             break;
@@ -52,7 +52,7 @@ if (!module.parent) {
             site: 'acfun',
             id: '6000221',
         };
-        console.log(await module.exports(site, console.log));
+        console.log(await module.exports.call(require('../utils').createThis(), site));
         console.log(site);
     })();
 }

@@ -11,7 +11,7 @@
  * @this { import('../utils').This }
  */
 async function bilibili(site) {
-    const data = await this.safeRequest(`https://bangumi.bilibili.com/view/web_api/media?media_id=${site.id}`, { json: true });
+    const data = await this.safeRequest(`https://bangumi.bilibili.com/view/web_api/media?media_id=${site.id}`);
     const airInfo = data.result && data.result.episode_index && /每(周[一二三四五六日])\s?(\d{2}:\d{2})更新/g.exec(data.result.episode_index.index_show);
     if (airInfo) {
         site.week = '一二三四五六日'.indexOf(airInfo[1].trim().replace('周', '')) + 1;

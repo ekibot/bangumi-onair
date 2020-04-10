@@ -109,14 +109,13 @@ function getChinaDate(item, sites) {
         if (!bangumi) return;
         const bgmId = bangumi.id;
         this.log.v(bgmId, bgmItem.title);
-        if (bgmItem.sites.length <= 1) return;
 
         /**
          * 只加载一次bgm.tv的数据
          */
         let _subject = null;
         /** @type { () => Promise<Subject> } */ const getSubject = async () => {
-            if (!_subject) _subject = await this.safeRequest(`https://api.bgm.tv/subject/${bgmId}/ep`, { json: true });
+            if (!_subject) _subject = await this.safeRequest(`https://api.bgm.tv/subject/${bgmId}/ep`);
             return _subject || getSubject();
         };
 

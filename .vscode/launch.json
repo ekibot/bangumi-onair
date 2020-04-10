@@ -9,17 +9,17 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": [
         "run",
-        "dev"
+        "dev 28812"
       ],
-      // "windows": {
-      //   "localRoot": "${workspaceFolder}",
-      //   "remoteRoot": "${command:extension.vscode-wsl-workspaceFolder}",
-      //   "runtimeExecutable": "bash",
-      //   "runtimeArgs": [
-      //     "-c",
-      //     "npm run dev"
-      //   ]
-      // }
+      "windows": {
+        "localRoot": "${workspaceFolder}",
+        "remoteRoot": "${command:extension.vscode-wsl-workspaceFolder}",
+        "runtimeExecutable": "bash",
+        "runtimeArgs": [
+          "-c",
+          "npm run dev 28812"
+        ]
+      }
     }
   ]
 }

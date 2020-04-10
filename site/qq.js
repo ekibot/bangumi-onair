@@ -43,7 +43,7 @@ if (!module.parent) {
             site: 'qq',
             id: '8/8szu83s4qj0z4o0',
         };
-        console.log(await module.exports(site, console.log));
+        console.log(await module.exports.call(require('../utils').createThis(), site));
         console.log(site);
     })();
 }

@@ -5,8 +5,20 @@
  * @LastEditors  : ekibun
  * @LastEditTime : 2020-01-05 15:16:26
  */
-const request = require('request-promise-native');
+const cheerio = require('cheerio');
+const http = require('http');
+const https = require('https');
+const axios = require('axios').default.create({
+    timeout: 5000,
+    httpAgent: new http.Agent({ keepAlive: true }),
+    httpsAgent: new https.Agent({ keepAlive: true }),
+});
 const chalk = new (require('chalk')).Instance({ level: 2 });
+
+axios.interceptors.response.use(
+    (response) => Promise.resolve(response.data),
+    (error) => Promise.reject(error),
+);
 
 /**
  * 函数上下文
@@ -22,12 +34,14 @@ const chalk = new (require('chalk')).Instance({ level: 2 });
  * @param { number } retry
  */
 async function safeRequest(url, options, retry = 3) {
-    return retry ? request(url, {
-        forever: true,
-        timeout: 5000,
-        ...options,
-    }).catch((error) => {
-        this.log.e(`${error}`.split('\n')[0].substring(0, 100));
+    return retry ? axios.get(url, options).catch((error) => {
+        if (error.response) {
+            this.log.e(error.response.status, typeof error.response.data === 'string'
+                ? cheerio.load(error.response.data).text().trim().split('\n')[0].substring(0, 100)
+                : error.response.data);
+            return undefined;
+        }
+        this.log.e(error.message);
         return safeRequest.call(this, url, options, retry - 1);
     }) : undefined;
 }
@@ -47,16 +61,14 @@ function setOrPush(arr, newData, finder) {
 
 /**
  * create this with logger
- * @param { (...messsage) => void } printer
+ * @param { (type, ...messsage) => void } printer
  * @returns { This }
  */
 // eslint-disable-next-line no-console
-function createThis(printer = console.log) {
+function createThis(printer = (type, ...message) => console[type](...message)) {
     const log = {
-        v: printer,
-        e: (...message) => {
-            printer(...message.map((v) => chalk.red(typeof v === 'string' ? v : JSON.stringify(v))));
-        },
+        v: (...message) => printer('log', ...message),
+        e: (...message) => printer('error', ...message),
     };
     return {
         chalk,
@@ -82,10 +94,10 @@ async function queue(_fetchs, run, num = 2) {
             try {
                 await run.call(_this, fetchs.shift());
             } catch (e) { _this.log.e(e.stack || e); }
-            messages[0] = messages[0] || [];
-            messages[0].splice(0, 0, ...pre);
+            messages[0] = messages[0] || ['log'];
+            messages[0].splice(1, 0, ...pre);
             // eslint-disable-next-line no-console
-            messages.forEach((v) => v && console.log(...v));
+            messages.forEach((v) => v && console[v[0]] && console[v[0]](...v.slice(1)));
         }
     }));
 }

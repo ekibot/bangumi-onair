@@ -27,7 +27,7 @@ async function iqiyi(site) {
     while (page <= totalPage) {
         this.log.v(`...loading page ${page}`);
         // eslint-disable-next-line no-await-in-loop
-        const listInfo = await this.safeRequest(`https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=${albumId}&page=${page}&size=100`, { json: true });
+        const listInfo = await this.safeRequest(`https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=${albumId}&page=${page}&size=100`);
         if (!listInfo || !listInfo.data || !listInfo.data.epsodelist) {
             this.log.e(listInfo);
             break;
@@ -53,9 +53,9 @@ if (!module.parent) {
     (async () => {
         const site = {
             site: 'iqiyi',
-            id: 'a_19rrk1kp41',
+            id: 'a_19rrgif6qp',
         };
-        console.log(await module.exports(site, console.log));
+        console.log(await module.exports.call(require('../utils').createThis(), site));
         console.log(site);
     })();
 }

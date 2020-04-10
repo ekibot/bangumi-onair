@@ -30,7 +30,7 @@ async function youku(site) {
     while (true) {
         this.log.v(`...loading page ${page}`);
         // eslint-disable-next-line no-await-in-loop
-        const json = JSON.parse(await this.safeRequest(`https://v.youku.com/page/playlist?&showid=${showId}&isSimple=false&page=${page}`));
+        const json = await this.safeRequest(`https://v.youku.com/page/playlist?&showid=${showId}&isSimple=false&page=${page}`);
         const arr = cheerio.load(json.html)('div.item').toArray().map(cheerio);
         if (!arr.length) break;
         content.push(...arr);
@@ -55,7 +55,7 @@ if (!module.parent) {
             id: 'cc003400962411de83b1',
             sort: 1010,
         };
-        console.log(await module.exports(site, console.log));
+        console.log(await module.exports.call(require('../utils').createThis(), site));
         console.log(site);
     })();
 }
