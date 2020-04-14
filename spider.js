@@ -3,8 +3,8 @@
  * @Description: spider
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
- * @LastEditors  : ekibun
- * @LastEditTime : 2020-01-05 15:26:16
+ * @LastEditors: ekibun
+ * @LastEditTime: 2020-04-14 18:54:46
  */
 
 /**
@@ -140,6 +140,11 @@ function getChinaDate(item, sites) {
         /** @type { Rule | null } */ let rule = null;
         if (fs.existsSync(rulePath)) try {
             rule = require(rulePath);
+            // eslint-disable-next-line no-param-reassign
+            bgmItem = {
+                ...bgmItem,
+                ...rule._item,
+            };
         } catch (e) { this.log.e(e.stack || e); }
 
         /**
