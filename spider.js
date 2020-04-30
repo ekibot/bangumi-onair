@@ -4,7 +4,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors: ekibun
- * @LastEditTime: 2020-04-14 18:54:46
+ * @LastEditTime: 2020-04-30 18:03:52
  */
 
 /**
@@ -35,11 +35,13 @@
  * 剧集信息
  * @typedef { Object } Episode
  * @property { number } id
+ * @property { number } type
  * @property { number } sort
  * @property { string } name
  * @property { string } name_cn
  * @property { string } airdate
  * @property { Site[] } sites
+ * @property { 'NA' | 'Air' | 'Today' } status
  */
 
 /**
@@ -235,6 +237,28 @@ function getChinaDate(item, sites) {
                     id, type, sort, name, name_cn, airdate: moment(airdate).format('YYYY-MM-DD'), status,
                 };
             });
+            const epMain = (subject.eps || []).filter((ep) => ep.type === 0);
+            const epNotOnAir = epMain.find((ep) => ep.status === 'NA'); // 第一个没放送
+            let curEp = epMain[epMain.indexOf(epNotOnAir) - 1] || epNotOnAir;
+            const accEp = epMain[epMain.indexOf(curEp) - 1];
+            if (!(accEp && moment(curEp.airdate).diff(moment(accEp.airdate), 'day') > 30)) while (curEp) {
+                const airdate = moment(curEp.airdate);
+                if (now.diff(airdate, 'day') > 30) break; // 超过一个月就不管了
+                const nextEp = epMain[epMain.indexOf(curEp) + 1];
+                const nextAirdate = nextEp && moment(nextEp.airdate);
+                while (nextAirdate && !(nextAirdate.diff(airdate, 'day') < 14)) {
+                    airdate.add(7, 'day');
+                    if (now.diff(airdate, 'day') > 10) continue;
+                    if (airdate.diff(now, 'day') > 10) break;
+                    // eslint-disable-next-line camelcase, object-curly-newline
+                    const { type, sort } = nextEp;
+                    eps.push({
+                        type, sort, name: '本周停更', airdate: moment(airdate).format('YYYY-MM-DD'),
+                    });
+                }
+                if (airdate.diff(now, 'day') > 10) break;
+                curEp = nextEp;
+            }
             if (eps && eps.length > 0) {
                 calendar.push({
                     id: subject.id,
