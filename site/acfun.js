@@ -3,45 +3,32 @@
  * @Description: acfun spider
  * @Author: ekibun
  * @Date: 2019-08-02 13:36:17
- * @LastEditors  : ekibun
- * @LastEditTime : 2019-12-31 20:26:38
+ * @LastEditors: ekibun
+ * @LastEditTime: 2020-05-19 18:45:44
  */
 
 /**
  * @this { import('../utils').This }
  */
 async function acfun(site) {
+    const page = await this.safeRequest(`https://www.acfun.cn/bangumi/aa${site.id}`);
     if (!site.week) {
-        let airInfo = await this.safeRequest(`https://www.acfun.cn/bangumi/aa${site.id}`);
-        airInfo = airInfo && /每(周[一二三四五六日])\s*(\d{2}:\d{2})更新/g.exec(airInfo);
+        const airInfo = page && /每(周[一二三四五六日])\s*(\d{2}:\d{2})更新/g.exec(page);
         if (airInfo) {
             site.week = '一二三四五六日'.indexOf(airInfo[1].replace('周', '')) + 1;
             site.time = airInfo[2].replace(':', '');
         }
     }
-    const content = [];
-    let totalPage = Math.max(0, Math.floor((site.sort || 0) / 100)) + 1;
-    let page = totalPage;
-    while (page <= totalPage) {
-        this.log.v(`...loading page ${page}`);
-        // eslint-disable-next-line no-await-in-loop
-        const data = await this.safeRequest(`https://www.acfun.cn/album/abm/bangumis/video?albumId=${site.id}&size=100&num=${page}`);
-        if (!data.data || !data.data.content) {
-            this.log.e(data);
-            break;
-        }
-        content.push(...data.data.content.map((v) => v.videos[0]));
-        totalPage = data.data.totalPage || totalPage;
-        site.sort = (page - 1) * 100 + data.data.content.length || site.sort;
-        page += 1;
-    }
-
-    return content.map((ep) => ({
+    let bangumiList = /window.bangumiList *?= ?(.*?);/.exec(page);
+    bangumiList = bangumiList && JSON.parse(bangumiList[1]);
+    if (!bangumiList || !bangumiList.items) return;
+    // eslint-disable-next-line consistent-return
+    return bangumiList.items.map((ep, index) => ({
         site: site.site,
-        sort: Math.floor(ep.sort / 10),
-        title: ep.newTitle || ep.episodeName,
-        url: `https://www.acfun.cn/bangumi/ab${ep.albumId}_${ep.groupId}_${ep.id}`,
-        time: new Date(ep.updatedAt || ep.onlineTime),
+        sort: Number((/\d+(.\d)?/.exec(ep.episodeName) || [])[0] || index + 1),
+        title: ep.title || ep.episodeName,
+        url: `https://www.acfun.cn/bangumi/ab${ep.bangumiId}_36188_${ep.itemId}`,
+        time: new Date(ep.updateTime),
     }));
 }
 module.exports = acfun;
@@ -50,7 +37,7 @@ if (!module.parent) {
     (async () => {
         const site = {
             site: 'acfun',
-            id: '6000221',
+            id: '6001745',
         };
         console.log(await module.exports.call(require('../utils').createThis(), site));
         console.log(site);

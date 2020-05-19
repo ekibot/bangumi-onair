@@ -4,7 +4,7 @@
   "description": "bangumi onair",
   "main": "spider.js",
   "scripts": {
-    "dev": "run(){ node --inspect-brk=$1 spider.js; }; run"
+    "dev": "node spider.js"
   },
   "repository": {
     "type": "git",
