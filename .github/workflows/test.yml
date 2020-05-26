@@ -1,8 +1,7 @@
-name: spider
+name: semver test
 
 on:
-  schedule:
-  - cron: "0 0 * * *"
+  push
 
 jobs:
   build:
@@ -16,7 +15,7 @@ jobs:
       run: |
         npm install
         npm install bangumi-data@latest
-        node spider.js
+        rm .github/workflows/test.yml
     - name: Commit files
       id: commit
       run: |
