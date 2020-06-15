@@ -4,63 +4,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors: ekibun
- * @LastEditTime: 2020-05-19 18:06:50
- */
-
-/**
- * 条目规则
- * @typedef { { [key: string] : { sort: (ep: number) => number } } } Rule
- */
-
-/**
- * 站点信息
- * @typedef { Object } Site
- * @property { string } site
- * @property { string } id
- * @property { string } begin
- * @property { number } week
- * @property { string } time
- */
-
-/**
- * bangumi-data数据
- * @typedef { Object } BangumiData
- * @property { string } title
- * @property { string } begin
- * @property { string } end
- * @property { Site[] } sites
- */
-
-/**
- * 剧集信息
- * @typedef { Object } Episode
- * @property { number } id
- * @property { number } type
- * @property { number } sort
- * @property { string } name
- * @property { string } name_cn
- * @property { string } airdate
- * @property { Site[] } sites
- * @property { 'NA' | 'Air' | 'Today' } status
- */
-
-/**
- * 站点剧集信息
- * @typedef { Object } SiteEpisode
- * @property { string } site
- * @property { number } sort
- * @property { string } title
- * @property { string } url
- * @property { Date } time
- */
-
-/**
- * 条目信息
- * @typedef { Object } Subject
- * @property { number } id
- * @property { string } name
- * @property { Site[] } sites
- * @property { Episode[] } eps
+ * @LastEditTime: 2020-06-15 21:25:54
  */
 
 /** @type { { items: BangumiData[] } } */
@@ -102,7 +46,7 @@ function getChinaDate(item, sites) {
 }
 
 (async () => {
-    const calendar = [];
+    /** @type { CalendarItem[] } */ const calendar = [];
     /**
      * @this { import('./utils').This }
      */
