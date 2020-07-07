@@ -4,7 +4,7 @@
  * @Author: ekibun
  * @Date: 2019-07-14 18:35:31
  * @LastEditors: ekibun
- * @LastEditTime: 2020-06-15 21:25:54
+ * @LastEditTime: 2020-07-07 13:10:23
  */
 
 /** @type { { items: BangumiData[] } } */
@@ -187,7 +187,7 @@ function getChinaDate(item, sites) {
             const accEp = epMain[epMain.indexOf(curEp) - 1];
             if (!(accEp && moment(curEp.airdate).diff(moment(accEp.airdate), 'day') > 30)) while (curEp) {
                 const airdate = moment(curEp.airdate);
-                if (now.diff(airdate, 'day') > 30) break; // 超过一个月就不管了
+                if (!(now.diff(airdate, 'day') < 30)) break; // 超过一个月就不管了
                 const nextEp = epMain[epMain.indexOf(curEp) + 1];
                 const nextAirdate = nextEp && moment(nextEp.airdate);
                 while (nextAirdate && !(nextAirdate.diff(airdate, 'day') < 14)) {
