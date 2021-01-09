@@ -25,25 +25,27 @@ async function youku(site) {
     // eslint-disable-next-line prefer-destructuring
     showId = showId[1]; // 19592
     const content = [];
-    let page = Math.max(0, Math.floor((site.sort || 0) / 50)) + 1;
+    let page = Math.max(0, Math.floor((site.sort || 0) / 10)) + 1;
     // eslint-disable-next-line no-constant-condition
     while (true) {
         this.log.v(`...loading page ${page}`);
         // eslint-disable-next-line no-await-in-loop
-        const json = await this.safeRequest(`https://v.youku.com/page/playlist?&showid=${showId}&isSimple=false&page=${page}`);
-        const arr = cheerio.load(json.html)('div.item').toArray().map(cheerio);
+        let json = await this.safeRequest(`https://list.youku.com/show/episode?id=${showId}&stage=reload_${(page - 1) * 10 + 1}&callback=j`);
+        json = JSON.parse(json.substring(json.indexOf('{'), json.lastIndexOf('}') + 1));
+        if (json.error) break;
+        const arr = cheerio.load(json.html)('div.p-item a').toArray().map(cheerio);
         if (!arr.length) break;
         content.push(...arr);
-        site.sort = (page - 1) * 50 + arr.length || site.sort;
-        if (arr.length < 50) break;
+        site.sort = (page - 1) * 10 + arr.length || site.sort;
+        if (arr.length < 10) break;
         page += 1;
     }
     // eslint-disable-next-line consistent-return
     return content.map((ep) => ({
         site: site.site,
-        sort: ep.attr('seq'),
-        title: ep.attr('title'),
-        url: `https://v.youku.com/v_show/${ep.attr('item-id').replace('item_', 'id_')}`,
+        sort: Number(ep.parent().contents().get(0).data),
+        title: ep.text(),
+        url: `https:${ep.attr('href')}`,
     }));
 }
 module.exports = youku;

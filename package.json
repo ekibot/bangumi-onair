@@ -11,7 +11,7 @@
     "url": "https://github.com/ekibun/bangumi_onair.git"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bangumi-data": "^0.3.52",
     "chalk": "^3.0.0",
     "cheerio": "^1.0.0-rc.3",

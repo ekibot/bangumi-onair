@@ -53,7 +53,7 @@ if (!module.parent) {
     (async () => {
         const site = {
             site: 'iqiyi',
-            id: 'a_19rrgif6qp',
+            id: 'a_1efv57e3rhd',
         };
         console.log(await module.exports.call(require('../utils').createThis(), site));
         console.log(site);
