@@ -1,1 +1,458 @@
-{"id":"169917","name":"機動戦士ガンダムUC RE:0096","sites":[{"site":"bilibili","id":"122732","sort":22},{"site":"youku","id":"969a4f6ce5a011e5b522","sort":22}],"eps":[{"id":617548,"sort":1,"name":"96年目の出発","sites":[{"site":"bilibili","sort":1,"title":"第96年的出发","url":"https://www.bilibili.com/bangumi/play/ep85751","time":"2016-04-02T22:30:00.000Z"}]},{"id":617549,"sort":2,"name":"最初の血","sites":[{"site":"bilibili","sort":2,"title":"最初的血","url":"https://www.bilibili.com/bangumi/play/ep85871","time":"2016-04-09T22:30:00.000Z"}]},{"id":617550,"sort":3,"name":"それはガンダムと呼ばれて","sites":[{"site":"bilibili","sort":3,"title":"它被称为敢达","url":"https://www.bilibili.com/bangumi/play/ep86291","time":"2016-04-16T22:30:00.000Z"}]},{"id":617551,"sort":4,"name":"フル･フロンタル追撃","sites":[{"site":"bilibili","sort":4,"title":"弗尔·伏朗托的追击","url":"https://www.bilibili.com/bangumi/play/ep86715","time":"2016-04-23T22:30:00.000Z"}]},{"id":617552,"sort":5,"name":"激突･赤い彗星","sites":[{"site":"bilibili","sort":5,"title":"激战·红色彗星","url":"https://www.bilibili.com/bangumi/play/ep87003","time":"2016-04-30T22:30:00.000Z"}]},{"id":617553,"sort":6,"name":"その仮面の下に","sites":[{"site":"bilibili","sort":6,"title":"在假面之下","url":"https://www.bilibili.com/bangumi/play/ep87634","time":"2016-05-07T22:30:00.000Z"}]},{"id":617554,"sort":7,"name":"パラオ攻略戦","sites":[{"site":"bilibili","sort":7,"title":"帛琉攻略战","url":"https://www.bilibili.com/bangumi/play/ep87892","time":"2016-05-14T22:30:00.000Z"}]},{"id":617555,"sort":8,"name":"ラプラス、始まりの地","sites":[{"site":"bilibili","sort":8,"title":"拉普拉斯、缘起之地","url":"https://www.bilibili.com/bangumi/play/ep88311","time":"2016-05-21T22:30:00.000Z"}]},{"id":617556,"sort":9,"name":"リトリビューション","sites":[{"site":"bilibili","sort":9,"title":"因果报应","url":"https://www.bilibili.com/bangumi/play/ep88578","time":"2016-05-28T22:30:00.000Z"}]},{"id":617557,"sort":10,"name":"灼熱の大地から","sites":[{"site":"bilibili","sort":10,"title":"从灼热的大地而来","url":"https://www.bilibili.com/bangumi/play/ep88892","time":"2016-06-04T22:30:00.000Z"}]},{"id":617558,"sort":11,"name":"トリントン攻防","sites":[{"site":"bilibili","sort":11,"title":"特林顿攻防","url":"https://www.bilibili.com/bangumi/play/ep89210","time":"2016-06-11T22:30:00.000Z"}]},{"id":617559,"sort":12,"name":"個人の戦争","sites":[{"site":"bilibili","sort":12,"title":"个人的战争","url":"https://www.bilibili.com/bangumi/play/ep89212","time":"2016-06-25T22:30:00.000Z"}]},{"id":642103,"sort":13,"name":"戦士、バナージ・リンクス","sites":[{"site":"bilibili","sort":13,"title":"战士 巴纳吉·林克斯","url":"https://www.bilibili.com/bangumi/play/ep89213","time":"2016-07-03T01:51:00.000Z"}]},{"id":642104,"sort":14,"name":"死闘、二機のユニコーン","sites":[{"site":"bilibili","sort":14,"title":"两架独角兽的死斗","url":"https://www.bilibili.com/bangumi/play/ep89215","time":"2016-07-16T22:30:00.000Z"}]},{"id":642105,"sort":15,"name":"宇宙で待つもの","sites":[{"site":"bilibili","sort":15,"title":"在宇宙等待的事物","url":"https://www.bilibili.com/bangumi/play/ep89216","time":"2016-07-23T22:30:00.000Z"}]},{"id":642106,"sort":16,"name":"サイド共栄圏","sites":[{"site":"bilibili","sort":16,"title":"SIDE共荣圈","url":"https://www.bilibili.com/bangumi/play/ep89217","time":"2016-07-30T22:30:00.000Z"}]},{"id":642107,"sort":17,"name":"奪還！ネエル・アーガマ","sites":[{"site":"bilibili","sort":17,"title":"夺回拟·阿卡马","url":"https://www.bilibili.com/bangumi/play/ep89218","time":"2016-08-06T22:30:00.000Z"}]},{"id":642108,"sort":18,"name":"宿命の戦い","sites":[{"site":"bilibili","sort":18,"title":"宿命之敌","url":"https://www.bilibili.com/bangumi/play/ep89219","time":"2016-08-13T22:30:00.000Z"}]},{"id":642109,"sort":19,"name":"再び光る宇宙","sites":[{"site":"bilibili","sort":19,"title":"再现光芒的宇宙","url":"https://www.bilibili.com/bangumi/play/ep89220","time":"2016-08-20T22:30:00.000Z"}]},{"id":642110,"sort":20,"name":"ラプラスの箱","sites":[{"site":"bilibili","sort":20,"title":"拉普拉斯之盒","url":"https://www.bilibili.com/bangumi/play/ep89221","time":"2016-08-27T22:30:00.000Z"}]},{"id":642111,"sort":21,"name":"この世の果てへ","sites":[{"site":"bilibili","sort":21,"title":"通往世界的尽头","url":"https://www.bilibili.com/bangumi/play/ep90245","time":"2016-09-03T22:30:00.000Z"}]},{"id":642112,"sort":22,"name":"帰還","sites":[{"site":"bilibili","sort":22,"title":"归来","url":"https://www.bilibili.com/bangumi/play/ep91813","time":"2016-09-10T22:30:00.000Z"}]}]}
+{
+ "id": "169917",
+ "name": "機動戦士ガンダムUC RE:0096",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "122732",
+   "sort": 22
+  },
+  {
+   "site": "youku",
+   "id": "969a4f6ce5a011e5b522",
+   "sort": 22
+  }
+ ],
+ "eps": [
+  {
+   "id": 617548,
+   "sort": 1,
+   "name": "96年目の出発",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "第96年的出发",
+     "url": "https://www.bilibili.com/bangumi/play/ep85751",
+     "time": "2016-04-02T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 第96年的出发",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjM5MjExNg==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 617549,
+   "sort": 2,
+   "name": "最初の血",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "最初的血",
+     "url": "https://www.bilibili.com/bangumi/play/ep85871",
+     "time": "2016-04-09T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 最初的血",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjM5MjEwOA==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 617550,
+   "sort": 3,
+   "name": "それはガンダムと呼ばれて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "它被称为敢达",
+     "url": "https://www.bilibili.com/bangumi/play/ep86291",
+     "time": "2016-04-16T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 他被称为敢达",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjM5MjEwNA==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 617551,
+   "sort": 4,
+   "name": "フル･フロンタル追撃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "弗尔·伏朗托的追击",
+     "url": "https://www.bilibili.com/bangumi/play/ep86715",
+     "time": "2016-04-23T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 弗尔.弗朗托的追击",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjQzMjAwOA==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 617552,
+   "sort": 5,
+   "name": "激突･赤い彗星",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "激战·红色彗星",
+     "url": "https://www.bilibili.com/bangumi/play/ep87003",
+     "time": "2016-04-30T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 激战.红色彗星",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjQzMzM4NA==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 617553,
+   "sort": 6,
+   "name": "その仮面の下に",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "在假面之下",
+     "url": "https://www.bilibili.com/bangumi/play/ep87634",
+     "time": "2016-05-07T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 在假面之下",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjQzMzUxMg==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 617554,
+   "sort": 7,
+   "name": "パラオ攻略戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "帛琉攻略战",
+     "url": "https://www.bilibili.com/bangumi/play/ep87892",
+     "time": "2016-05-14T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 帛琉攻略战",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjQ2MDQzNg==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 617555,
+   "sort": 8,
+   "name": "ラプラス、始まりの地",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "拉普拉斯、缘起之地",
+     "url": "https://www.bilibili.com/bangumi/play/ep88311",
+     "time": "2016-05-21T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 拉普拉斯.缘起之地",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjQ2MzgzMg==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 617556,
+   "sort": 9,
+   "name": "リトリビューション",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "因果报应",
+     "url": "https://www.bilibili.com/bangumi/play/ep88578",
+     "time": "2016-05-28T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 因果报应",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjQ2Mzk1Mg==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 617557,
+   "sort": 10,
+   "name": "灼熱の大地から",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "从灼热的大地而来",
+     "url": "https://www.bilibili.com/bangumi/play/ep88892",
+     "time": "2016-06-04T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 从灼热的大地而来",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjQ4NjAxNg==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 617558,
+   "sort": 11,
+   "name": "トリントン攻防",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "特林顿攻防",
+     "url": "https://www.bilibili.com/bangumi/play/ep89210",
+     "time": "2016-06-11T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 特林顿攻防",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjQ5MjAwNA==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 617559,
+   "sort": 12,
+   "name": "個人の戦争",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "个人的战争",
+     "url": "https://www.bilibili.com/bangumi/play/ep89212",
+     "time": "2016-06-25T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 个人的战争",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjQ5MzM3Ng==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 642103,
+   "sort": 13,
+   "name": "戦士、バナージ・リンクス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "战士 巴纳吉·林克斯",
+     "url": "https://www.bilibili.com/bangumi/play/ep89213",
+     "time": "2016-07-03T01:51:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 13,
+     "title": "第13话 战士 巴纳吉.林克斯",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjUxOTc3Mg==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 642104,
+   "sort": 14,
+   "name": "死闘、二機のユニコーン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "两架独角兽的死斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep89215",
+     "time": "2016-07-16T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 14,
+     "title": "第14话 两架独角兽的死斗",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjYyMjEyMA==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 642105,
+   "sort": 15,
+   "name": "宇宙で待つもの",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "在宇宙等待的事物",
+     "url": "https://www.bilibili.com/bangumi/play/ep89216",
+     "time": "2016-07-23T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 15,
+     "title": "第15话  在宇宙等待的事物",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjUyOTAzNg==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 642106,
+   "sort": 16,
+   "name": "サイド共栄圏",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "SIDE共荣圈",
+     "url": "https://www.bilibili.com/bangumi/play/ep89217",
+     "time": "2016-07-30T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 16,
+     "title": "第16话 SIDE共荣圈",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjUzMTA1Mg==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 642107,
+   "sort": 17,
+   "name": "奪還！ネエル・アーガマ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "夺回拟·阿卡马",
+     "url": "https://www.bilibili.com/bangumi/play/ep89218",
+     "time": "2016-08-06T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 17,
+     "title": "第17话 夺回拟.阿卡马",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjU1NTM1Ng==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 642108,
+   "sort": 18,
+   "name": "宿命の戦い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "宿命之敌",
+     "url": "https://www.bilibili.com/bangumi/play/ep89219",
+     "time": "2016-08-13T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 18,
+     "title": "第18话 宿命之战",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjU2NjMyMA==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 642109,
+   "sort": 19,
+   "name": "再び光る宇宙",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "再现光芒的宇宙",
+     "url": "https://www.bilibili.com/bangumi/play/ep89220",
+     "time": "2016-08-20T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 19,
+     "title": "第19话 再现光芒宇宙",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjU2NzA5Mg==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 642110,
+   "sort": 20,
+   "name": "ラプラスの箱",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "拉普拉斯之盒",
+     "url": "https://www.bilibili.com/bangumi/play/ep89221",
+     "time": "2016-08-27T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 20,
+     "title": "第20话  拉普拉斯之盒",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjU5MTc1Mg==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 642111,
+   "sort": 21,
+   "name": "この世の果てへ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "通往世界的尽头",
+     "url": "https://www.bilibili.com/bangumi/play/ep90245",
+     "time": "2016-09-03T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 21,
+     "title": "第21话 通往世界尽头",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjU5Njk0NA==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  },
+  {
+   "id": 642112,
+   "sort": 22,
+   "name": "帰還",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "归来",
+     "url": "https://www.bilibili.com/bangumi/play/ep91813",
+     "time": "2016-09-10T22:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 22,
+     "title": "第22话 归来",
+     "url": "https://v.youku.com/v_show/id_XMzIxMjU5OTQyNA==.html?s=969a4f6ce5a011e5b522"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,181 @@
-{"id":"243916","name":"約束のネバーランド","sites":[{"site":"bilibili","id":"5267750","sort":12}],"eps":[{"id":850168,"sort":1,"name":"121045","sites":[{"site":"bilibili","sort":1,"title":"121045","url":"https://www.bilibili.com/bangumi/play/ep259758","time":"2019-01-09T15:00:00.000Z"}]},{"id":850169,"sort":2,"name":"131045","sites":[{"site":"bilibili","sort":2,"title":"131045","url":"https://www.bilibili.com/bangumi/play/ep259759","time":"2019-01-17T17:35:00.000Z"}]},{"id":850170,"sort":3,"name":"181045","sites":[{"site":"bilibili","sort":3,"title":"181045","url":"https://www.bilibili.com/bangumi/play/ep259760","time":"2019-01-24T17:35:00.000Z"}]},{"id":850171,"sort":4,"name":"291045","sites":[{"site":"bilibili","sort":4,"title":"291045","url":"https://www.bilibili.com/bangumi/play/ep259761","time":"2019-01-31T17:35:00.000Z"}]},{"id":850172,"sort":5,"name":"301045","sites":[{"site":"bilibili","sort":5,"title":"301045","url":"https://www.bilibili.com/bangumi/play/ep259762","time":"2019-02-07T17:35:00.000Z"}]},{"id":850173,"sort":6,"name":"311045","sites":[{"site":"bilibili","sort":6,"title":"311045","url":"https://www.bilibili.com/bangumi/play/ep259763","time":"2019-02-14T17:25:00.000Z"}]},{"id":850174,"sort":7,"name":"011145","sites":[{"site":"bilibili","sort":7,"title":"011145","url":"https://www.bilibili.com/bangumi/play/ep259764","time":"2019-02-21T17:35:00.000Z"}]},{"id":850175,"sort":8,"name":"021145","sites":[{"site":"bilibili","sort":8,"title":"021145","url":"https://www.bilibili.com/bangumi/play/ep259765","time":"2019-02-28T17:39:33.000Z"}]},{"id":850176,"sort":9,"name":"031145","sites":[{"site":"bilibili","sort":9,"title":"031145","url":"https://www.bilibili.com/bangumi/play/ep259766","time":"2019-03-07T17:25:00.000Z"}]},{"id":850177,"sort":10,"name":"130146","sites":[{"site":"bilibili","sort":10,"title":"130146","url":"https://www.bilibili.com/bangumi/play/ep259767","time":"2019-03-14T17:35:00.000Z"}]},{"id":850178,"sort":11,"name":"140146","sites":[{"site":"bilibili","sort":11,"title":"140146","url":"https://www.bilibili.com/bangumi/play/ep259768","time":"2019-03-21T18:25:00.000Z"}]},{"id":850179,"sort":12,"name":"150146","sites":[{"site":"bilibili","sort":12,"title":"150146","url":"https://www.bilibili.com/bangumi/play/ep259769","time":"2019-03-28T17:55:00.000Z"}]}]}
+{
+ "id": "243916",
+ "name": "約束のネバーランド",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5267750",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 850168,
+   "sort": 1,
+   "name": "121045",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "121045",
+     "url": "https://www.bilibili.com/bangumi/play/ep259758",
+     "time": "2019-01-09T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 850169,
+   "sort": 2,
+   "name": "131045",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "131045",
+     "url": "https://www.bilibili.com/bangumi/play/ep259759",
+     "time": "2019-01-17T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 850170,
+   "sort": 3,
+   "name": "181045",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "181045",
+     "url": "https://www.bilibili.com/bangumi/play/ep259760",
+     "time": "2019-01-24T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 850171,
+   "sort": 4,
+   "name": "291045",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "291045",
+     "url": "https://www.bilibili.com/bangumi/play/ep259761",
+     "time": "2019-01-31T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 850172,
+   "sort": 5,
+   "name": "301045",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "301045",
+     "url": "https://www.bilibili.com/bangumi/play/ep259762",
+     "time": "2019-02-07T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 850173,
+   "sort": 6,
+   "name": "311045",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "311045",
+     "url": "https://www.bilibili.com/bangumi/play/ep259763",
+     "time": "2019-02-14T17:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 850174,
+   "sort": 7,
+   "name": "011145",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "011145",
+     "url": "https://www.bilibili.com/bangumi/play/ep259764",
+     "time": "2019-02-21T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 850175,
+   "sort": 8,
+   "name": "021145",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "021145",
+     "url": "https://www.bilibili.com/bangumi/play/ep259765",
+     "time": "2019-02-28T17:39:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 850176,
+   "sort": 9,
+   "name": "031145",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "031145",
+     "url": "https://www.bilibili.com/bangumi/play/ep259766",
+     "time": "2019-03-07T17:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 850177,
+   "sort": 10,
+   "name": "130146",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "130146",
+     "url": "https://www.bilibili.com/bangumi/play/ep259767",
+     "time": "2019-03-14T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 850178,
+   "sort": 11,
+   "name": "140146",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "140146",
+     "url": "https://www.bilibili.com/bangumi/play/ep259768",
+     "time": "2019-03-21T18:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 850179,
+   "sort": 12,
+   "name": "150146",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "150146",
+     "url": "https://www.bilibili.com/bangumi/play/ep259769",
+     "time": "2019-03-28T17:55:00.000Z"
+    }
+   ]
+  }
+ ]
+}

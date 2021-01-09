@@ -1,1 +1,181 @@
-{"id":"146994","name":"だがしかし","sites":[{"site":"bilibili","id":"3120","sort":12}],"eps":[{"id":596828,"sort":1,"name":"うまい棒とポテフと…/コーヒー牛乳キャンディとヤングドーナツと…","sites":[{"site":"bilibili","sort":1,"title":"美味棒与炸薯片与…/咖啡牛奶糖与迷你甜甜圈与…","url":"https://www.bilibili.com/bangumi/play/ep82735","time":"2016-01-08T07:26:59.000Z"}]},{"id":596829,"sort":2,"name":"きなこ棒と生いきビールと…/笛ラムネとめんこと…","sites":[{"site":"bilibili","sort":2,"title":"大豆棒与无酒精啤酒与…/口笛糖与拍洋画与…","url":"https://www.bilibili.com/bangumi/play/ep82969","time":"2016-01-15T07:25:45.000Z"}]},{"id":596830,"sort":3,"name":"ブタメンとくるくるぼーゼリーと…/ボンタンアメとセブンネオンと…","sites":[{"site":"bilibili","sort":3,"title":"猪骨杯面与螺旋吸吸冻与…/柚子糖与七色糕与…","url":"https://www.bilibili.com/bangumi/play/ep83211","time":"2016-01-22T05:31:00.000Z"}]},{"id":596831,"sort":4,"name":"ふがしとふがしと…/グリコとグリコと…","sites":[{"site":"bilibili","sort":4,"title":"麸皮点心与麸皮点心与…/固力果与固力果与…","url":"https://www.bilibili.com/bangumi/play/ep83524","time":"2016-01-29T05:30:59.000Z"}]},{"id":596832,"sort":5,"name":"ビンラムネとベビースターラーメンと…/ヤッターめんとすっぱいぶどうにご用心!と…","sites":[{"site":"bilibili","sort":5,"title":"瓶装汽水粉与贝贝星干脆面与…/抽奖点心面与小心酸葡萄与…","url":"https://www.bilibili.com/bangumi/play/ep83843","time":"2016-02-05T07:57:11.000Z"}]},{"id":596833,"sort":6,"name":"超ひもQとおはじきと…ときどきまけんグミ/ヨーグレットとココナツと…","sites":[{"site":"bilibili","sort":6,"title":"超绳Q与弹弹子与…心跳猜拳软糖/优酪乳糖与与椰子与…","url":"https://www.bilibili.com/bangumi/play/ep84263","time":"2016-02-19T07:26:00.000Z"}]},{"id":596834,"sort":7,"name":"夏祭りとほたると…/夏祭りとサヤと…","sites":[{"site":"bilibili","sort":7,"title":"夏日祭与萤…/夏日祭与沙耶…","url":"https://www.bilibili.com/bangumi/play/ep84514","time":"2016-02-26T06:30:02.000Z"}]},{"id":596835,"sort":8,"name":"超怖い話ガムと台風と…/けん玉とプチプチ占いチョコと…","sites":[{"site":"bilibili","sort":8,"title":"超恐怖故事口香糖与台风与…/剑球与汽泡纸占卜巧克力与…","url":"https://www.bilibili.com/bangumi/play/ep84720","time":"2016-03-04T06:55:02.000Z"}]},{"id":596836,"sort":9,"name":"わたパチとうんチョコと…/さくら大根とたまごアイスと…","sites":[{"site":"bilibili","sort":9,"title":"跳跳棉花糖与便便巧克力与…/樱花萝卜与球状雪糕与…","url":"https://www.bilibili.com/bangumi/play/ep84995","time":"2016-03-11T07:25:02.000Z"}]},{"id":596837,"sort":10,"name":"駄菓子じゃねえか！","sites":[{"site":"bilibili","sort":10,"title":"这不是粗点心么！","url":"https://www.bilibili.com/bangumi/play/ep85208","time":"2016-03-18T06:15:01.000Z"}]},{"id":596838,"sort":11,"name":"コーラガムとヨウと…/都こんぶとラムネと…","sites":[{"site":"bilibili","sort":11,"title":"可乐口香糖与洋与…/醋昆布与弹珠汽水与…","url":"https://www.bilibili.com/bangumi/play/ep85470","time":"2016-03-25T06:45:01.000Z"}]},{"id":596839,"sort":12,"name":"食べるんですHiとさくらんぼの詩と…/森永ミルクキャラメルとサクマ式ドロップスと…","sites":[{"site":"bilibili","sort":12,"title":"相机糖Hi与樱桃之诗与…/森永牛奶糖与佐久间罐装水果糖与…","url":"https://www.bilibili.com/bangumi/play/ep85737","time":"2016-04-01T06:20:01.000Z"}]}]}
+{
+ "id": "146994",
+ "name": "だがしかし",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3120",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 596828,
+   "sort": 1,
+   "name": "うまい棒とポテフと…/コーヒー牛乳キャンディとヤングドーナツと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "美味棒与炸薯片与…/咖啡牛奶糖与迷你甜甜圈与…",
+     "url": "https://www.bilibili.com/bangumi/play/ep82735",
+     "time": "2016-01-08T07:26:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596829,
+   "sort": 2,
+   "name": "きなこ棒と生いきビールと…/笛ラムネとめんこと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "大豆棒与无酒精啤酒与…/口笛糖与拍洋画与…",
+     "url": "https://www.bilibili.com/bangumi/play/ep82969",
+     "time": "2016-01-15T07:25:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596830,
+   "sort": 3,
+   "name": "ブタメンとくるくるぼーゼリーと…/ボンタンアメとセブンネオンと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "猪骨杯面与螺旋吸吸冻与…/柚子糖与七色糕与…",
+     "url": "https://www.bilibili.com/bangumi/play/ep83211",
+     "time": "2016-01-22T05:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596831,
+   "sort": 4,
+   "name": "ふがしとふがしと…/グリコとグリコと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "麸皮点心与麸皮点心与…/固力果与固力果与…",
+     "url": "https://www.bilibili.com/bangumi/play/ep83524",
+     "time": "2016-01-29T05:30:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596832,
+   "sort": 5,
+   "name": "ビンラムネとベビースターラーメンと…/ヤッターめんとすっぱいぶどうにご用心!と…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "瓶装汽水粉与贝贝星干脆面与…/抽奖点心面与小心酸葡萄与…",
+     "url": "https://www.bilibili.com/bangumi/play/ep83843",
+     "time": "2016-02-05T07:57:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596833,
+   "sort": 6,
+   "name": "超ひもQとおはじきと…ときどきまけんグミ/ヨーグレットとココナツと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "超绳Q与弹弹子与…心跳猜拳软糖/优酪乳糖与与椰子与…",
+     "url": "https://www.bilibili.com/bangumi/play/ep84263",
+     "time": "2016-02-19T07:26:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596834,
+   "sort": 7,
+   "name": "夏祭りとほたると…/夏祭りとサヤと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "夏日祭与萤…/夏日祭与沙耶…",
+     "url": "https://www.bilibili.com/bangumi/play/ep84514",
+     "time": "2016-02-26T06:30:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596835,
+   "sort": 8,
+   "name": "超怖い話ガムと台風と…/けん玉とプチプチ占いチョコと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "超恐怖故事口香糖与台风与…/剑球与汽泡纸占卜巧克力与…",
+     "url": "https://www.bilibili.com/bangumi/play/ep84720",
+     "time": "2016-03-04T06:55:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596836,
+   "sort": 9,
+   "name": "わたパチとうんチョコと…/さくら大根とたまごアイスと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "跳跳棉花糖与便便巧克力与…/樱花萝卜与球状雪糕与…",
+     "url": "https://www.bilibili.com/bangumi/play/ep84995",
+     "time": "2016-03-11T07:25:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596837,
+   "sort": 10,
+   "name": "駄菓子じゃねえか！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "这不是粗点心么！",
+     "url": "https://www.bilibili.com/bangumi/play/ep85208",
+     "time": "2016-03-18T06:15:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596838,
+   "sort": 11,
+   "name": "コーラガムとヨウと…/都こんぶとラムネと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "可乐口香糖与洋与…/醋昆布与弹珠汽水与…",
+     "url": "https://www.bilibili.com/bangumi/play/ep85470",
+     "time": "2016-03-25T06:45:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596839,
+   "sort": 12,
+   "name": "食べるんですHiとさくらんぼの詩と…/森永ミルクキャラメルとサクマ式ドロップスと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "相机糖Hi与樱桃之诗与…/森永牛奶糖与佐久间罐装水果糖与…",
+     "url": "https://www.bilibili.com/bangumi/play/ep85737",
+     "time": "2016-04-01T06:20:01.000Z"
+    }
+   ]
+  }
+ ]
+}

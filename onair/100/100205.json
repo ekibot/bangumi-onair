@@ -1,1 +1,181 @@
-{"id":"100205","name":"新妹魔王の契約者","sites":[{"site":"bilibili","id":"6286","sort":12}],"eps":[{"id":461704,"sort":1,"name":"妹ができた日","sites":[{"site":"bilibili","sort":1,"title":"有了妹妹的那一天","url":"https://www.bilibili.com/bangumi/play/ep113538","time":"2017-07-11T04:30:07.000Z"}]},{"id":461705,"sort":2,"name":"初めての主従契約","sites":[{"site":"bilibili","sort":2,"title":"第一次的主仆契约","url":"https://www.bilibili.com/bangumi/play/ep113539","time":"2017-07-11T04:30:07.000Z"}]},{"id":461706,"sort":3,"name":"再会と信頼の狭間","sites":[{"site":"bilibili","sort":3,"title":"重逢与信赖之间","url":"https://www.bilibili.com/bangumi/play/ep113540","time":"2017-07-11T04:30:07.000Z"}]},{"id":461707,"sort":4,"name":"悲しみがゼロになるまで","sites":[{"site":"bilibili","sort":4,"title":"直到悲伤归零为止","url":"https://www.bilibili.com/bangumi/play/ep113541","time":"2017-07-11T04:30:07.000Z"}]},{"id":461708,"sort":5,"name":"朝の妹の魔王無双","sites":[{"site":"bilibili","sort":5,"title":"早晨的妹之魔王无双","url":"https://www.bilibili.com/bangumi/play/ep113542","time":"2017-07-11T04:30:07.000Z"}]},{"id":461709,"sort":6,"name":"募る思いを抱えて","sites":[{"site":"bilibili","sort":6,"title":"怀抱不断加深的思念","url":"https://www.bilibili.com/bangumi/play/ep113543","time":"2017-07-11T04:30:07.000Z"}]},{"id":461710,"sort":7,"name":"恩讐の果てに","sites":[{"site":"bilibili","sort":7,"title":"恩仇的尽头","url":"https://www.bilibili.com/bangumi/play/ep113544","time":"2017-07-11T04:30:07.000Z"}]},{"id":461711,"sort":8,"name":"暴走のエロサキュバス","sites":[{"site":"bilibili","sort":8,"title":"暴走的色梦魔","url":"https://www.bilibili.com/bangumi/play/ep113545","time":"2017-07-11T04:30:07.000Z"}]},{"id":461712,"sort":9,"name":"主從の功罪","sites":[{"site":"bilibili","sort":9,"title":"主从的功罪","url":"https://www.bilibili.com/bangumi/play/ep113546","time":"2017-07-11T04:30:07.000Z"}]},{"id":461713,"sort":10,"name":"哀切なる背信","sites":[{"site":"bilibili","sort":10,"title":"哀切的背信","url":"https://www.bilibili.com/bangumi/play/ep113547","time":"2017-07-11T04:30:07.000Z"}]},{"id":461714,"sort":11,"name":"諜報者…その先にあるもの","sites":[{"site":"bilibili","sort":11,"title":"间谍…在那之后","url":"https://www.bilibili.com/bangumi/play/ep113548","time":"2017-07-11T04:30:07.000Z"}]},{"id":461715,"sort":12,"name":"この夜、このときのために","sites":[{"site":"bilibili","sort":12,"title":"这一夜，为了这一刻","url":"https://www.bilibili.com/bangumi/play/ep113549","time":"2017-07-11T04:30:07.000Z"}]}]}
+{
+ "id": "100205",
+ "name": "新妹魔王の契約者",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6286",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 461704,
+   "sort": 1,
+   "name": "妹ができた日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "有了妹妹的那一天",
+     "url": "https://www.bilibili.com/bangumi/play/ep113538",
+     "time": "2017-07-11T04:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 461705,
+   "sort": 2,
+   "name": "初めての主従契約",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "第一次的主仆契约",
+     "url": "https://www.bilibili.com/bangumi/play/ep113539",
+     "time": "2017-07-11T04:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 461706,
+   "sort": 3,
+   "name": "再会と信頼の狭間",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "重逢与信赖之间",
+     "url": "https://www.bilibili.com/bangumi/play/ep113540",
+     "time": "2017-07-11T04:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 461707,
+   "sort": 4,
+   "name": "悲しみがゼロになるまで",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "直到悲伤归零为止",
+     "url": "https://www.bilibili.com/bangumi/play/ep113541",
+     "time": "2017-07-11T04:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 461708,
+   "sort": 5,
+   "name": "朝の妹の魔王無双",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "早晨的妹之魔王无双",
+     "url": "https://www.bilibili.com/bangumi/play/ep113542",
+     "time": "2017-07-11T04:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 461709,
+   "sort": 6,
+   "name": "募る思いを抱えて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "怀抱不断加深的思念",
+     "url": "https://www.bilibili.com/bangumi/play/ep113543",
+     "time": "2017-07-11T04:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 461710,
+   "sort": 7,
+   "name": "恩讐の果てに",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "恩仇的尽头",
+     "url": "https://www.bilibili.com/bangumi/play/ep113544",
+     "time": "2017-07-11T04:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 461711,
+   "sort": 8,
+   "name": "暴走のエロサキュバス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "暴走的色梦魔",
+     "url": "https://www.bilibili.com/bangumi/play/ep113545",
+     "time": "2017-07-11T04:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 461712,
+   "sort": 9,
+   "name": "主從の功罪",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "主从的功罪",
+     "url": "https://www.bilibili.com/bangumi/play/ep113546",
+     "time": "2017-07-11T04:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 461713,
+   "sort": 10,
+   "name": "哀切なる背信",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "哀切的背信",
+     "url": "https://www.bilibili.com/bangumi/play/ep113547",
+     "time": "2017-07-11T04:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 461714,
+   "sort": 11,
+   "name": "諜報者…その先にあるもの",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "间谍…在那之后",
+     "url": "https://www.bilibili.com/bangumi/play/ep113548",
+     "time": "2017-07-11T04:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 461715,
+   "sort": 12,
+   "name": "この夜、このときのために",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "这一夜，为了这一刻",
+     "url": "https://www.bilibili.com/bangumi/play/ep113549",
+     "time": "2017-07-11T04:30:07.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,27 @@
-{"id":"106060","name":"デート・ア・ライブ 万由里ジャッジメント","sites":[{"site":"bilibili","id":"5630","sort":1}],"eps":[{"id":544938,"sort":1,"name":"デート・ア・ライブ 万由里ジャッジメント","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep105062","time":"2017-05-03T09:00:20.000Z"}]}]}
+{
+ "id": "106060",
+ "name": "デート・ア・ライブ 万由里ジャッジメント",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5630",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 544938,
+   "sort": 1,
+   "name": "デート・ア・ライブ 万由里ジャッジメント",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep105062",
+     "time": "2017-05-03T09:00:20.000Z"
+    }
+   ]
+  }
+ ]
+}

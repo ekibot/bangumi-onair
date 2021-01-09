@@ -1,1 +1,143 @@
-{"id":"3633","name":"機動新世紀ガンダムX","sites":[{"site":"qq","id":"u/uiu4a0bfw9gkkpb","sort":10}],"eps":[{"id":25883,"sort":21,"name":"死んだ女房の口癖だ","sites":[{"site":"qq","sort":21,"title":"第21话 这是我亡妻的口头禅","url":"http://v.youku.com/v_show/id_XNDc0NDk4OTcy.html"}]},{"id":25884,"sort":22,"name":"15年目の亡霊","sites":[{"site":"qq","sort":22,"title":"第22话 第十五年的亡灵","url":"http://v.youku.com/v_show/id_XNDc0NDk5Njky.html"}]},{"id":25885,"sort":23,"name":"私の夢は現実です","sites":[{"site":"qq","sort":23,"title":"第23话 我的梦是现实","url":"http://v.youku.com/v_show/id_XNDc0NDk5Njk2.html"}]},{"id":25886,"sort":24,"name":"ダブルエックス起動!","sites":[{"site":"qq","sort":24,"title":"第24话 DoubleX启动!","url":"http://v.youku.com/v_show/id_XNDc0NDk5NzAw.html"}]},{"id":25887,"sort":25,"name":"君達は希望の星だ","sites":[{"site":"qq","sort":25,"title":"第25话 你们是希望之星","url":"http://v.youku.com/v_show/id_XNDc0NDk5NzA0.html"}]},{"id":25888,"sort":26,"name":"何も喋るな","sites":[{"site":"qq","sort":26,"title":"第26话 什么也不要说","url":"http://v.youku.com/v_show/id_XNDc0ODExMzY0.html"}]},{"id":25889,"sort":27,"name":"おさらばで御座います","sites":[{"site":"qq","sort":27,"title":"第27话 告别","url":"http://v.youku.com/v_show/id_XNDc0ODExMzY4.html"}]},{"id":25890,"sort":28,"name":"撃つしかないのか!","sites":[{"site":"qq","sort":28,"title":"第28话 只有攻击吗","url":"http://v.youku.com/v_show/id_XNDc0ODEyNDcy.html"}]},{"id":25891,"sort":29,"name":"私を見て","sites":[{"site":"qq","sort":29,"title":"第29话 望着我","url":"http://v.youku.com/v_show/id_XNDc0ODEyNDc2.html"}]},{"id":25892,"sort":30,"name":"もう逢えない気がして","sites":[{"site":"qq","sort":30,"title":"第30话 不会再相见的感觉","url":"http://v.youku.com/v_show/id_XNDc0ODEzNzgw.html"}]}]}
+{
+ "id": "3633",
+ "name": "機動新世紀ガンダムX",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "u/uiu4a0bfw9gkkpb",
+   "sort": 10
+  }
+ ],
+ "eps": [
+  {
+   "id": 25883,
+   "sort": 21,
+   "name": "死んだ女房の口癖だ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 21,
+     "title": "第21话 这是我亡妻的口头禅",
+     "url": "http://v.youku.com/v_show/id_XNDc0NDk4OTcy.html"
+    }
+   ]
+  },
+  {
+   "id": 25884,
+   "sort": 22,
+   "name": "15年目の亡霊",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 22,
+     "title": "第22话 第十五年的亡灵",
+     "url": "http://v.youku.com/v_show/id_XNDc0NDk5Njky.html"
+    }
+   ]
+  },
+  {
+   "id": 25885,
+   "sort": 23,
+   "name": "私の夢は現実です",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 23,
+     "title": "第23话 我的梦是现实",
+     "url": "http://v.youku.com/v_show/id_XNDc0NDk5Njk2.html"
+    }
+   ]
+  },
+  {
+   "id": 25886,
+   "sort": 24,
+   "name": "ダブルエックス起動!",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 24,
+     "title": "第24话 DoubleX启动!",
+     "url": "http://v.youku.com/v_show/id_XNDc0NDk5NzAw.html"
+    }
+   ]
+  },
+  {
+   "id": 25887,
+   "sort": 25,
+   "name": "君達は希望の星だ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 25,
+     "title": "第25话 你们是希望之星",
+     "url": "http://v.youku.com/v_show/id_XNDc0NDk5NzA0.html"
+    }
+   ]
+  },
+  {
+   "id": 25888,
+   "sort": 26,
+   "name": "何も喋るな",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 26,
+     "title": "第26话 什么也不要说",
+     "url": "http://v.youku.com/v_show/id_XNDc0ODExMzY0.html"
+    }
+   ]
+  },
+  {
+   "id": 25889,
+   "sort": 27,
+   "name": "おさらばで御座います",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 27,
+     "title": "第27话 告别",
+     "url": "http://v.youku.com/v_show/id_XNDc0ODExMzY4.html"
+    }
+   ]
+  },
+  {
+   "id": 25890,
+   "sort": 28,
+   "name": "撃つしかないのか!",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 28,
+     "title": "第28话 只有攻击吗",
+     "url": "http://v.youku.com/v_show/id_XNDc0ODEyNDcy.html"
+    }
+   ]
+  },
+  {
+   "id": 25891,
+   "sort": 29,
+   "name": "私を見て",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 29,
+     "title": "第29话 望着我",
+     "url": "http://v.youku.com/v_show/id_XNDc0ODEyNDc2.html"
+    }
+   ]
+  },
+  {
+   "id": 25892,
+   "sort": 30,
+   "name": "もう逢えない気がして",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 30,
+     "title": "第30话 不会再相见的感觉",
+     "url": "http://v.youku.com/v_show/id_XNDc0ODEzNzgw.html"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,258 @@
-{"id":"212278","name":"Just Because!","sites":[{"site":"bilibili","id":"6427","sort":13},{"site":"qq","id":"r/rnufhk35pwvs24e","sort":12}],"eps":[{"id":751846,"sort":1,"name":"On your marks!","sites":[{"site":"bilibili","sort":1,"title":"On your marks!","url":"https://www.bilibili.com/bangumi/play/ep115160","time":"2017-10-05T16:00:00.000Z"},{"site":"qq","sort":1,"title":"Just Because!_01","url":"https://v.qq.com/x/cover/rnufhk35pwvs24e/m0033d9fq43.html"}]},{"id":751847,"sort":2,"name":"Question","sites":[{"site":"bilibili","sort":2,"title":"Question","url":"https://www.bilibili.com/bangumi/play/ep115161","time":"2017-10-12T16:00:00.000Z"},{"site":"qq","sort":2,"title":"Just Because!_02","url":"https://v.qq.com/x/cover/rnufhk35pwvs24e/k00334u2ih7.html"}]},{"id":751848,"sort":3,"name":"Andante","sites":[{"site":"bilibili","sort":3,"title":"Andante","url":"https://www.bilibili.com/bangumi/play/ep115162","time":"2017-10-19T16:00:00.000Z"},{"site":"qq","sort":3,"title":"Just Because!_03","url":"https://v.qq.com/x/cover/rnufhk35pwvs24e/h003309e3lj.html"}]},{"id":751849,"sort":4,"name":"Full swing","sites":[{"site":"bilibili","sort":4,"title":"Full swing","url":"https://www.bilibili.com/bangumi/play/ep115163","time":"2017-10-26T16:00:00.000Z"},{"site":"qq","sort":4,"title":"Just Because!_04","url":"https://v.qq.com/x/cover/rnufhk35pwvs24e/a0033lzydc9.html"}]},{"id":751850,"sort":5,"name":"Rolling stones","sites":[{"site":"bilibili","sort":5,"title":"Rolling stones","url":"https://www.bilibili.com/bangumi/play/ep115164","time":"2017-11-02T16:00:00.000Z"},{"site":"qq","sort":5,"title":"Just Because!_05","url":"https://v.qq.com/x/cover/rnufhk35pwvs24e/o0033earoau.html"}]},{"id":751851,"sort":6,"name":"Restart","sites":[{"site":"bilibili","sort":6,"title":"Restart","url":"https://www.bilibili.com/bangumi/play/ep115165","time":"2017-11-09T16:00:00.000Z"},{"site":"qq","sort":6,"title":"Just Because!_06","url":"https://v.qq.com/x/cover/rnufhk35pwvs24e/u0033xwo0da.html"}]},{"id":751852,"sort":7,"name":"Snow Day","sites":[{"site":"bilibili","sort":7,"title":"Snow day","url":"https://www.bilibili.com/bangumi/play/ep115167","time":"2017-11-23T16:00:00.000Z"},{"site":"qq","sort":7,"title":"Just Because!_07","url":"https://v.qq.com/x/cover/rnufhk35pwvs24e/y00333nmtcl.html"}]},{"id":751853,"sort":8,"name":"High Dynamic Range","sites":[{"site":"bilibili","sort":8,"title":"High Dynamic Range","url":"https://www.bilibili.com/bangumi/play/ep115168","time":"2017-11-30T16:00:00.000Z"},{"site":"qq","sort":8,"title":"Just Because!_08","url":"https://v.qq.com/x/cover/rnufhk35pwvs24e/u0033dvuq1g.html"}]},{"id":751854,"sort":9,"name":"Answer","sites":[{"site":"bilibili","sort":9,"title":"Answer","url":"https://www.bilibili.com/bangumi/play/ep115169","time":"2017-12-07T16:00:00.000Z"},{"site":"qq","sort":9,"title":"Just Because!_09","url":"https://v.qq.com/x/cover/rnufhk35pwvs24e/q0033e9pdq4.html"}]},{"id":751855,"sort":10,"name":"Childhood's end","sites":[{"site":"bilibili","sort":10,"title":"Childhood's end","url":"https://www.bilibili.com/bangumi/play/ep115170","time":"2017-12-14T16:00:00.000Z"},{"site":"qq","sort":10,"title":"Just Because!_10","url":"https://v.qq.com/x/cover/rnufhk35pwvs24e/i0033kq4t7r.html"}]},{"id":751856,"sort":11,"name":"Roundabout","sites":[{"site":"bilibili","sort":11,"title":"Roundabout","url":"https://www.bilibili.com/bangumi/play/ep115171","time":"2017-12-21T16:00:00.000Z"},{"site":"qq","sort":11,"title":"Just Because!_11","url":"https://v.qq.com/x/cover/rnufhk35pwvs24e/x0033dxijo3.html"}]},{"id":751857,"sort":12,"name":"Get set, go!","sites":[{"site":"bilibili","sort":12,"title":"Get set, go!","url":"https://www.bilibili.com/bangumi/play/ep118624","time":"2017-12-28T16:00:00.000Z"},{"site":"qq","sort":12,"title":"Just Because!_12","url":"https://v.qq.com/x/cover/rnufhk35pwvs24e/t0033r49bgf.html"}]}]}
+{
+ "id": "212278",
+ "name": "Just Because!",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6427",
+   "sort": 13
+  },
+  {
+   "site": "qq",
+   "id": "r/rnufhk35pwvs24e",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 751846,
+   "sort": 1,
+   "name": "On your marks!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "On your marks!",
+     "url": "https://www.bilibili.com/bangumi/play/ep115160",
+     "time": "2017-10-05T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "Just Because!_01",
+     "url": "https://v.qq.com/x/cover/rnufhk35pwvs24e/m0033d9fq43.html"
+    }
+   ]
+  },
+  {
+   "id": 751847,
+   "sort": 2,
+   "name": "Question",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "Question",
+     "url": "https://www.bilibili.com/bangumi/play/ep115161",
+     "time": "2017-10-12T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "Just Because!_02",
+     "url": "https://v.qq.com/x/cover/rnufhk35pwvs24e/k00334u2ih7.html"
+    }
+   ]
+  },
+  {
+   "id": 751848,
+   "sort": 3,
+   "name": "Andante",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Andante",
+     "url": "https://www.bilibili.com/bangumi/play/ep115162",
+     "time": "2017-10-19T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "Just Because!_03",
+     "url": "https://v.qq.com/x/cover/rnufhk35pwvs24e/h003309e3lj.html"
+    }
+   ]
+  },
+  {
+   "id": 751849,
+   "sort": 4,
+   "name": "Full swing",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Full swing",
+     "url": "https://www.bilibili.com/bangumi/play/ep115163",
+     "time": "2017-10-26T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "Just Because!_04",
+     "url": "https://v.qq.com/x/cover/rnufhk35pwvs24e/a0033lzydc9.html"
+    }
+   ]
+  },
+  {
+   "id": 751850,
+   "sort": 5,
+   "name": "Rolling stones",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Rolling stones",
+     "url": "https://www.bilibili.com/bangumi/play/ep115164",
+     "time": "2017-11-02T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "Just Because!_05",
+     "url": "https://v.qq.com/x/cover/rnufhk35pwvs24e/o0033earoau.html"
+    }
+   ]
+  },
+  {
+   "id": 751851,
+   "sort": 6,
+   "name": "Restart",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Restart",
+     "url": "https://www.bilibili.com/bangumi/play/ep115165",
+     "time": "2017-11-09T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "Just Because!_06",
+     "url": "https://v.qq.com/x/cover/rnufhk35pwvs24e/u0033xwo0da.html"
+    }
+   ]
+  },
+  {
+   "id": 751852,
+   "sort": 7,
+   "name": "Snow Day",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "Snow day",
+     "url": "https://www.bilibili.com/bangumi/play/ep115167",
+     "time": "2017-11-23T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "Just Because!_07",
+     "url": "https://v.qq.com/x/cover/rnufhk35pwvs24e/y00333nmtcl.html"
+    }
+   ]
+  },
+  {
+   "id": 751853,
+   "sort": 8,
+   "name": "High Dynamic Range",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "High Dynamic Range",
+     "url": "https://www.bilibili.com/bangumi/play/ep115168",
+     "time": "2017-11-30T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "Just Because!_08",
+     "url": "https://v.qq.com/x/cover/rnufhk35pwvs24e/u0033dvuq1g.html"
+    }
+   ]
+  },
+  {
+   "id": 751854,
+   "sort": 9,
+   "name": "Answer",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "Answer",
+     "url": "https://www.bilibili.com/bangumi/play/ep115169",
+     "time": "2017-12-07T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "Just Because!_09",
+     "url": "https://v.qq.com/x/cover/rnufhk35pwvs24e/q0033e9pdq4.html"
+    }
+   ]
+  },
+  {
+   "id": 751855,
+   "sort": 10,
+   "name": "Childhood's end",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "Childhood's end",
+     "url": "https://www.bilibili.com/bangumi/play/ep115170",
+     "time": "2017-12-14T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "Just Because!_10",
+     "url": "https://v.qq.com/x/cover/rnufhk35pwvs24e/i0033kq4t7r.html"
+    }
+   ]
+  },
+  {
+   "id": 751856,
+   "sort": 11,
+   "name": "Roundabout",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "Roundabout",
+     "url": "https://www.bilibili.com/bangumi/play/ep115171",
+     "time": "2017-12-21T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "Just Because!_11",
+     "url": "https://v.qq.com/x/cover/rnufhk35pwvs24e/x0033dxijo3.html"
+    }
+   ]
+  },
+  {
+   "id": 751857,
+   "sort": 12,
+   "name": "Get set, go!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "Get set, go!",
+     "url": "https://www.bilibili.com/bangumi/play/ep118624",
+     "time": "2017-12-28T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "Just Because!_12",
+     "url": "https://v.qq.com/x/cover/rnufhk35pwvs24e/t0033r49bgf.html"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,27 @@
-{"id":"38070","name":"青の祓魔師 劇場版","sites":[{"site":"bilibili","id":"3543","sort":1}],"eps":[{"id":574185,"sort":1,"name":"青の祓魔師 劇場版","sites":[{"site":"bilibili","sort":1,"title":"青之驱魔师 剧场版","url":"https://www.bilibili.com/bangumi/play/ep85835","time":"2017-11-14T06:13:00.000Z"}]}]}
+{
+ "id": "38070",
+ "name": "青の祓魔師 劇場版",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3543",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 574185,
+   "sort": 1,
+   "name": "青の祓魔師 劇場版",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "青之驱魔师 剧场版",
+     "url": "https://www.bilibili.com/bangumi/play/ep85835",
+     "time": "2017-11-14T06:13:00.000Z"
+    }
+   ]
+  }
+ ]
+}

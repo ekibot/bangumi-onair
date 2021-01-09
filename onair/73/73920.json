@@ -1,1 +1,195 @@
-{"id":"73920","name":"ぷちっとがるがんてぃあ","sites":[{"site":"bilibili","id":"4427","sort":13}],"eps":[{"id":273162,"sort":1,"name":"1話","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88893","time":"2016-06-05T03:02:44.000Z"}]},{"id":273163,"sort":2,"name":"2話","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88894","time":"2016-06-05T03:02:44.000Z"}]},{"id":273164,"sort":3,"name":"3話","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88895","time":"2016-06-05T03:02:44.000Z"}]},{"id":273165,"sort":4,"name":"4話","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88896","time":"2016-06-05T03:02:44.000Z"}]},{"id":273166,"sort":5,"name":"5話","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88897","time":"2016-06-05T03:02:44.000Z"}]},{"id":273167,"sort":6,"name":"6話","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88898","time":"2016-06-05T03:02:44.000Z"}]},{"id":273168,"sort":7,"name":"7話","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88899","time":"2016-06-05T03:02:44.000Z"}]},{"id":273169,"sort":8,"name":"8話","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88900","time":"2016-06-05T03:02:44.000Z"}]},{"id":274019,"sort":9,"name":"9話","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88901","time":"2016-06-05T03:02:44.000Z"}]},{"id":274020,"sort":10,"name":"10話","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88902","time":"2016-06-05T03:02:44.000Z"}]},{"id":274021,"sort":11,"name":"11話","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88903","time":"2016-06-05T03:02:44.000Z"}]},{"id":274022,"sort":12,"name":"12話","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88904","time":"2016-06-05T03:02:44.000Z"}]},{"id":274023,"sort":13,"name":"13話","sites":[{"site":"bilibili","sort":13,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88905","time":"2016-06-05T03:02:44.000Z"}]}]}
+{
+ "id": "73920",
+ "name": "ぷちっとがるがんてぃあ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4427",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 273162,
+   "sort": 1,
+   "name": "1話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88893",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 273163,
+   "sort": 2,
+   "name": "2話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88894",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 273164,
+   "sort": 3,
+   "name": "3話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88895",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 273165,
+   "sort": 4,
+   "name": "4話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88896",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 273166,
+   "sort": 5,
+   "name": "5話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88897",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 273167,
+   "sort": 6,
+   "name": "6話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88898",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 273168,
+   "sort": 7,
+   "name": "7話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88899",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 273169,
+   "sort": 8,
+   "name": "8話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88900",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 274019,
+   "sort": 9,
+   "name": "9話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88901",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 274020,
+   "sort": 10,
+   "name": "10話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88902",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 274021,
+   "sort": 11,
+   "name": "11話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88903",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 274022,
+   "sort": 12,
+   "name": "12話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88904",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 274023,
+   "sort": 13,
+   "name": "13話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88905",
+     "time": "2016-06-05T03:02:44.000Z"
+    }
+   ]
+  }
+ ]
+}

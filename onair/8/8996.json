@@ -1,1 +1,49 @@
-{"id":"8996","name":"クレヨンしんちゃん 嵐を呼ぶ 歌うケツだけ爆弾!","sites":[{"site":"qq","id":"b/bymafsjpccgo4bw","sort":21},{"site":"bilibili","id":"48472","sort":1}],"eps":[{"id":895153,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"蜡笔小新1993剧场版：动感超人大战高叉魔王","url":"https://v.qq.com/x/cover/bymafsjpccgo4bw/x0014he9pm4.html"},{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep180384","time":"2018-01-09T16:00:00.000Z"}]}]}
+{
+ "id": "8996",
+ "name": "クレヨンしんちゃん 嵐を呼ぶ 歌うケツだけ爆弾!",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "b/bymafsjpccgo4bw",
+   "sort": 21
+  },
+  {
+   "site": "bilibili",
+   "id": "48472",
+   "sort": 1
+  },
+  {
+   "site": "youku",
+   "id": "f10db52861ad11e0bea1",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 895153,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "蜡笔小新1993剧场版：动感超人大战高叉魔王",
+     "url": "https://v.qq.com/x/cover/bymafsjpccgo4bw/x0014he9pm4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep180384",
+     "time": "2018-01-09T16:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "蜡笔小新剧场版 呼风唤雨!唱歌的光屁股炸弹!",
+     "url": "https://v.youku.com/v_show/id_XNDgyMzQ4MjA4.html?s=f10db52861ad11e0bea1"
+    }
+   ]
+  }
+ ]
+}

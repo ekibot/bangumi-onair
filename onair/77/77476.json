@@ -1,1 +1,270 @@
-{"id":"77476","name":"シドニアの騎士","sites":[{"site":"iqiyi","id":"a_19rrgi8f5p","sort":12},{"site":"bilibili","id":"1576","sort":12}],"eps":[{"id":390323,"sort":1,"name":"初陣","sites":[{"site":"iqiyi","sort":1,"title":"希德尼娅的骑士 第1集","url":"http://www.iqiyi.com/v_19rrhvwi9o.html","time":"2014-04-11T04:30:53.000Z"},{"site":"bilibili","sort":1,"title":"初阵","url":"https://www.bilibili.com/bangumi/play/ep80171","time":"2014-04-11T04:34:37.000Z"}]},{"id":390324,"sort":2,"name":"星空","sites":[{"site":"iqiyi","sort":2,"title":"希德尼娅的骑士 第2集","url":"http://www.iqiyi.com/v_19rrhv6pno.html","time":"2014-04-18T04:30:14.000Z"},{"site":"bilibili","sort":2,"title":"星空","url":"https://www.bilibili.com/bangumi/play/ep80172","time":"2014-04-18T04:35:03.000Z"}]},{"id":390325,"sort":3,"name":"栄光","sites":[{"site":"iqiyi","sort":3,"title":"希德尼娅的骑士 第3集","url":"http://www.iqiyi.com/v_19rrhujikg.html","time":"2014-04-25T04:30:46.000Z"},{"site":"bilibili","sort":3,"title":"荣光","url":"https://www.bilibili.com/bangumi/play/ep80173","time":"2014-04-25T04:35:01.000Z"}]},{"id":390326,"sort":4,"name":"選択","sites":[{"site":"iqiyi","sort":4,"title":"希德尼娅的骑士 第4集","url":"http://www.iqiyi.com/v_19rrhtyf3o.html","time":"2014-05-02T04:30:04.000Z"},{"site":"bilibili","sort":4,"title":"选择","url":"https://www.bilibili.com/bangumi/play/ep80175","time":"2014-05-02T04:35:01.000Z"}]},{"id":390327,"sort":5,"name":"漂流","sites":[{"site":"iqiyi","sort":5,"title":"希德尼娅的骑士 第5集","url":"http://www.iqiyi.com/v_19rrhtc04o.html","time":"2014-05-09T04:30:17.000Z"},{"site":"bilibili","sort":5,"title":"漂流","url":"https://www.bilibili.com/bangumi/play/ep80176","time":"2014-05-09T04:35:02.000Z"}]},{"id":390328,"sort":6,"name":"敬礼","sites":[{"site":"iqiyi","sort":6,"title":"希德尼娅的骑士 第6集","url":"http://www.iqiyi.com/v_19rrhsowj0.html","time":"2014-05-16T04:29:42.000Z"},{"site":"bilibili","sort":6,"title":"敬礼","url":"https://www.bilibili.com/bangumi/play/ep80177","time":"2014-05-16T04:35:01.000Z"}]},{"id":390329,"sort":7,"name":"覚悟","sites":[{"site":"iqiyi","sort":7,"title":"希德尼娅的骑士 第7集","url":"http://www.iqiyi.com/v_19rrhsakw0.html","time":"2014-05-23T04:30:15.000Z"},{"site":"bilibili","sort":7,"title":"觉悟","url":"https://www.bilibili.com/bangumi/play/ep80178","time":"2014-05-23T04:35:02.000Z"}]},{"id":390330,"sort":8,"name":"不死","sites":[{"site":"iqiyi","sort":8,"title":"希德尼娅的骑士 第8集","url":"http://www.iqiyi.com/v_19rri09ke8.html","time":"2014-05-30T04:30:15.000Z"},{"site":"bilibili","sort":8,"title":"不死","url":"https://www.bilibili.com/bangumi/play/ep80179","time":"2014-05-30T04:35:02.000Z"}]},{"id":390331,"sort":9,"name":"眼差","sites":[{"site":"iqiyi","sort":9,"title":"希德尼娅的骑士 第9集","url":"http://www.iqiyi.com/v_19rrhyqxxo.html","time":"2014-06-06T04:30:15.000Z"},{"site":"bilibili","sort":9,"title":"眼神","url":"https://www.bilibili.com/bangumi/play/ep80180","time":"2014-06-06T04:40:02.000Z"}]},{"id":390332,"sort":10,"name":"決意","sites":[{"site":"iqiyi","sort":10,"title":"希德尼娅的骑士 第10集","url":"http://www.iqiyi.com/v_19rrhwqlmo.html","time":"2014-06-13T04:29:26.000Z"},{"site":"bilibili","sort":10,"title":"决意","url":"https://www.bilibili.com/bangumi/play/ep80181","time":"2014-06-13T06:05:32.000Z"}]},{"id":390333,"sort":11,"name":"衝突","sites":[{"site":"iqiyi","sort":11,"title":"希德尼娅的骑士 第11集","url":"http://www.iqiyi.com/v_19rrhw9dtc.html","time":"2014-06-20T04:28:51.000Z"},{"site":"bilibili","sort":11,"title":"冲突","url":"https://www.bilibili.com/bangumi/play/ep80182","time":"2014-06-20T04:39:09.000Z"}]},{"id":390334,"sort":12,"name":"帰艦","sites":[{"site":"iqiyi","sort":12,"title":"希德尼娅的骑士 第12集","url":"http://www.iqiyi.com/v_19rrhlztcw.html","time":"2014-06-27T04:30:13.000Z"},{"site":"bilibili","sort":12,"title":"归舰","url":"https://www.bilibili.com/bangumi/play/ep80183","time":"2014-06-27T05:13:59.000Z"}]}]}
+{
+ "id": "77476",
+ "name": "シドニアの騎士",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrgi8f5p",
+   "sort": 12
+  },
+  {
+   "site": "bilibili",
+   "id": "1576",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 390323,
+   "sort": 1,
+   "name": "初陣",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "希德尼娅的骑士 第1集",
+     "url": "http://www.iqiyi.com/v_19rrhvwi9o.html",
+     "time": "2014-04-11T04:30:53.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "初阵",
+     "url": "https://www.bilibili.com/bangumi/play/ep80171",
+     "time": "2014-04-11T04:34:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390324,
+   "sort": 2,
+   "name": "星空",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "希德尼娅的骑士 第2集",
+     "url": "http://www.iqiyi.com/v_19rrhv6pno.html",
+     "time": "2014-04-18T04:30:14.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "星空",
+     "url": "https://www.bilibili.com/bangumi/play/ep80172",
+     "time": "2014-04-18T04:35:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390325,
+   "sort": 3,
+   "name": "栄光",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "希德尼娅的骑士 第3集",
+     "url": "http://www.iqiyi.com/v_19rrhujikg.html",
+     "time": "2014-04-25T04:30:46.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "荣光",
+     "url": "https://www.bilibili.com/bangumi/play/ep80173",
+     "time": "2014-04-25T04:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390326,
+   "sort": 4,
+   "name": "選択",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "希德尼娅的骑士 第4集",
+     "url": "http://www.iqiyi.com/v_19rrhtyf3o.html",
+     "time": "2014-05-02T04:30:04.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "选择",
+     "url": "https://www.bilibili.com/bangumi/play/ep80175",
+     "time": "2014-05-02T04:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390327,
+   "sort": 5,
+   "name": "漂流",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "希德尼娅的骑士 第5集",
+     "url": "http://www.iqiyi.com/v_19rrhtc04o.html",
+     "time": "2014-05-09T04:30:17.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "漂流",
+     "url": "https://www.bilibili.com/bangumi/play/ep80176",
+     "time": "2014-05-09T04:35:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390328,
+   "sort": 6,
+   "name": "敬礼",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "希德尼娅的骑士 第6集",
+     "url": "http://www.iqiyi.com/v_19rrhsowj0.html",
+     "time": "2014-05-16T04:29:42.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "敬礼",
+     "url": "https://www.bilibili.com/bangumi/play/ep80177",
+     "time": "2014-05-16T04:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390329,
+   "sort": 7,
+   "name": "覚悟",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "希德尼娅的骑士 第7集",
+     "url": "http://www.iqiyi.com/v_19rrhsakw0.html",
+     "time": "2014-05-23T04:30:15.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "觉悟",
+     "url": "https://www.bilibili.com/bangumi/play/ep80178",
+     "time": "2014-05-23T04:35:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390330,
+   "sort": 8,
+   "name": "不死",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "希德尼娅的骑士 第8集",
+     "url": "http://www.iqiyi.com/v_19rri09ke8.html",
+     "time": "2014-05-30T04:30:15.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "不死",
+     "url": "https://www.bilibili.com/bangumi/play/ep80179",
+     "time": "2014-05-30T04:35:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390331,
+   "sort": 9,
+   "name": "眼差",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "希德尼娅的骑士 第9集",
+     "url": "http://www.iqiyi.com/v_19rrhyqxxo.html",
+     "time": "2014-06-06T04:30:15.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "眼神",
+     "url": "https://www.bilibili.com/bangumi/play/ep80180",
+     "time": "2014-06-06T04:40:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390332,
+   "sort": 10,
+   "name": "決意",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "希德尼娅的骑士 第10集",
+     "url": "http://www.iqiyi.com/v_19rrhwqlmo.html",
+     "time": "2014-06-13T04:29:26.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "决意",
+     "url": "https://www.bilibili.com/bangumi/play/ep80181",
+     "time": "2014-06-13T06:05:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390333,
+   "sort": 11,
+   "name": "衝突",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "希德尼娅的骑士 第11集",
+     "url": "http://www.iqiyi.com/v_19rrhw9dtc.html",
+     "time": "2014-06-20T04:28:51.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "冲突",
+     "url": "https://www.bilibili.com/bangumi/play/ep80182",
+     "time": "2014-06-20T04:39:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390334,
+   "sort": 12,
+   "name": "帰艦",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "希德尼娅的骑士 第12集",
+     "url": "http://www.iqiyi.com/v_19rrhlztcw.html",
+     "time": "2014-06-27T04:30:13.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "归舰",
+     "url": "https://www.bilibili.com/bangumi/play/ep80183",
+     "time": "2014-06-27T05:13:59.000Z"
+    }
+   ]
+  }
+ ]
+}

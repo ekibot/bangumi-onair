@@ -1,1 +1,27 @@
-{"id":"160328","name":"英国一家、日本を食べる-正月スペシャル「英国一家、正月を食べる」-","sites":[{"site":"bilibili","id":"3237","sort":1}],"eps":[{"id":591533,"sort":1,"name":"英国一家、正月を食べる Sushi and Beyond - An English Family Eats New Year's","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep95691","time":"2016-09-01T03:09:00.000Z"}]}]}
+{
+ "id": "160328",
+ "name": "英国一家、日本を食べる-正月スペシャル「英国一家、正月を食べる」-",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3237",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 591533,
+   "sort": 1,
+   "name": "英国一家、正月を食べる Sushi and Beyond - An English Family Eats New Year's",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep95691",
+     "time": "2016-09-01T03:09:00.000Z"
+    }
+   ]
+  }
+ ]
+}

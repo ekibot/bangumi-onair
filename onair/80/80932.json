@@ -1,1 +1,83 @@
-{"id":"80932","name":"斉木楠雄のΨ難","sites":[{"site":"bilibili","id":"5069","sort":24}],"eps":[{"id":307847,"sort":1,"name":"超能力者とバカと漆黒の翼","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep90830","time":"2016-07-10T18:05:02.000Z"}]},{"id":636917,"sort":2,"name":"三人の男と幼女と警官とあと犬","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91833","time":"2016-07-17T17:35:02.000Z"}]},{"id":637465,"sort":3,"name":"ψ色兼備！照橋心美","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91834","time":"2016-07-24T17:35:02.000Z"}]},{"id":637466,"sort":4,"name":"燃えろ! PK学園体育Ψ～前編～","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91835","time":"2016-07-31T17:35:02.000Z"}]},{"id":637467,"sort":5,"name":"燃えろ! PK学園体育Ψ～後編～","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91836","time":"2016-08-07T17:35:02.000Z"}]}]}
+{
+ "id": "80932",
+ "name": "斉木楠雄のΨ難",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5069",
+   "sort": 24
+  }
+ ],
+ "eps": [
+  {
+   "id": 307847,
+   "sort": 1,
+   "name": "超能力者とバカと漆黒の翼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep90830",
+     "time": "2016-07-10T18:05:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 636917,
+   "sort": 2,
+   "name": "三人の男と幼女と警官とあと犬",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91833",
+     "time": "2016-07-17T17:35:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 637465,
+   "sort": 3,
+   "name": "ψ色兼備！照橋心美",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91834",
+     "time": "2016-07-24T17:35:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 637466,
+   "sort": 4,
+   "name": "燃えろ! PK学園体育Ψ～前編～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91835",
+     "time": "2016-07-31T17:35:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 637467,
+   "sort": 5,
+   "name": "燃えろ! PK学園体育Ψ～後編～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91836",
+     "time": "2016-08-07T17:35:02.000Z"
+    }
+   ]
+  }
+ ]
+}

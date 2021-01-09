@@ -1,0 +1,29 @@
+{
+ "id": "292527",
+ "name": "弱キャラ友崎くん",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231807",
+   "week": 5,
+   "time": "2030",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 994834,
+   "sort": 1,
+   "name": "Lv.1 なんだかんだ言って 有名なゲームは大体おもしろい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "不管怎么样 有名的游戏基本都会有趣",
+     "url": "https://www.bilibili.com/bangumi/play/ep374606",
+     "time": "2021-01-08T12:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

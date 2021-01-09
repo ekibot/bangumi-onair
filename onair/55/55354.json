@@ -1,1 +1,181 @@
-{"id":"55354","name":"地獄ようちえん","sites":[{"site":"bilibili","id":"684","sort":12}],"eps":[{"id":218936,"sort":1,"name":"キイチくんの一日","sites":[{"site":"bilibili","sort":1,"title":"【1月泡面】地狱幼稚园 01【白戀】","url":"https://www.bilibili.com/bangumi/play/ep12424","time":"2013-01-11T15:07:01.000Z"}]},{"id":218937,"sort":2,"name":"さくらちゃんという人","sites":[{"site":"bilibili","sort":2,"title":"【1月泡面】地狱幼稚园 02【白戀】","url":"https://www.bilibili.com/bangumi/play/ep12423","time":"2013-01-17T11:45:14.000Z"}]},{"id":218938,"sort":3,"name":"相談","sites":[{"site":"bilibili","sort":3,"title":"【1月泡面】地狱幼稚园 03【白戀】","url":"https://www.bilibili.com/bangumi/play/ep12422","time":"2013-01-23T12:19:02.000Z"}]},{"id":218939,"sort":4,"name":"平常運転な子供たち","sites":[{"site":"bilibili","sort":4,"title":"【1月泡面】地狱幼稚园 04【白戀】","url":"https://www.bilibili.com/bangumi/play/ep12421","time":"2013-01-31T06:24:58.000Z"}]},{"id":218940,"sort":5,"name":"園児的遊戯","sites":[{"site":"bilibili","sort":5,"title":"【1月泡面】地狱幼稚园 05【白戀】","url":"https://www.bilibili.com/bangumi/play/ep12420","time":"2013-02-07T11:52:36.000Z"}]},{"id":218941,"sort":6,"name":"悪魔的遊戯","sites":[{"site":"bilibili","sort":6,"title":"【1月泡面】地狱幼稚园 06【白戀】","url":"https://www.bilibili.com/bangumi/play/ep12419","time":"2013-02-12T16:29:35.000Z"}]},{"id":218942,"sort":7,"name":"現実","sites":[{"site":"bilibili","sort":7,"title":"【1月泡面】地狱幼稚园 07【白戀】","url":"https://www.bilibili.com/bangumi/play/ep12418","time":"2013-02-21T20:47:52.000Z"}]},{"id":218943,"sort":8,"name":"リヴァイアちゃん","sites":[{"site":"bilibili","sort":8,"title":"【1月泡面】地狱幼稚园 08【RH】","url":"https://www.bilibili.com/bangumi/play/ep12417","time":"2013-02-28T13:09:39.000Z"}]},{"id":218944,"sort":9,"name":"","sites":[{"site":"bilibili","sort":9,"title":"【1月泡面】地狱幼稚园 09【白恋】","url":"https://www.bilibili.com/bangumi/play/ep12416","time":"2013-03-06T14:08:49.000Z"}]},{"id":218945,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"【1月泡面】地狱幼稚园 10【RH】","url":"https://www.bilibili.com/bangumi/play/ep12415","time":"2013-03-14T04:52:55.000Z"}]},{"id":218946,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"【1月泡面】地狱幼稚园 11【白恋】","url":"https://www.bilibili.com/bangumi/play/ep12414","time":"2013-03-21T07:20:15.000Z"}]},{"id":218947,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"【1月泡面】地狱幼稚园 12【白恋】","url":"https://www.bilibili.com/bangumi/play/ep12413","time":"2013-03-28T11:00:15.000Z"}]}]}
+{
+ "id": "55354",
+ "name": "地獄ようちえん",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "684",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 218936,
+   "sort": 1,
+   "name": "キイチくんの一日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "【1月泡面】地狱幼稚园 01【白戀】",
+     "url": "https://www.bilibili.com/bangumi/play/ep12424",
+     "time": "2013-01-11T15:07:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 218937,
+   "sort": 2,
+   "name": "さくらちゃんという人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "【1月泡面】地狱幼稚园 02【白戀】",
+     "url": "https://www.bilibili.com/bangumi/play/ep12423",
+     "time": "2013-01-17T11:45:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 218938,
+   "sort": 3,
+   "name": "相談",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "【1月泡面】地狱幼稚园 03【白戀】",
+     "url": "https://www.bilibili.com/bangumi/play/ep12422",
+     "time": "2013-01-23T12:19:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 218939,
+   "sort": 4,
+   "name": "平常運転な子供たち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "【1月泡面】地狱幼稚园 04【白戀】",
+     "url": "https://www.bilibili.com/bangumi/play/ep12421",
+     "time": "2013-01-31T06:24:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 218940,
+   "sort": 5,
+   "name": "園児的遊戯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "【1月泡面】地狱幼稚园 05【白戀】",
+     "url": "https://www.bilibili.com/bangumi/play/ep12420",
+     "time": "2013-02-07T11:52:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 218941,
+   "sort": 6,
+   "name": "悪魔的遊戯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "【1月泡面】地狱幼稚园 06【白戀】",
+     "url": "https://www.bilibili.com/bangumi/play/ep12419",
+     "time": "2013-02-12T16:29:35.000Z"
+    }
+   ]
+  },
+  {
+   "id": 218942,
+   "sort": 7,
+   "name": "現実",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "【1月泡面】地狱幼稚园 07【白戀】",
+     "url": "https://www.bilibili.com/bangumi/play/ep12418",
+     "time": "2013-02-21T20:47:52.000Z"
+    }
+   ]
+  },
+  {
+   "id": 218943,
+   "sort": 8,
+   "name": "リヴァイアちゃん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "【1月泡面】地狱幼稚园 08【RH】",
+     "url": "https://www.bilibili.com/bangumi/play/ep12417",
+     "time": "2013-02-28T13:09:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 218944,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "【1月泡面】地狱幼稚园 09【白恋】",
+     "url": "https://www.bilibili.com/bangumi/play/ep12416",
+     "time": "2013-03-06T14:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 218945,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "【1月泡面】地狱幼稚园 10【RH】",
+     "url": "https://www.bilibili.com/bangumi/play/ep12415",
+     "time": "2013-03-14T04:52:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 218946,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "【1月泡面】地狱幼稚园 11【白恋】",
+     "url": "https://www.bilibili.com/bangumi/play/ep12414",
+     "time": "2013-03-21T07:20:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 218947,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "【1月泡面】地狱幼稚园 12【白恋】",
+     "url": "https://www.bilibili.com/bangumi/play/ep12413",
+     "time": "2013-03-28T11:00:15.000Z"
+    }
+   ]
+  }
+ ]
+}

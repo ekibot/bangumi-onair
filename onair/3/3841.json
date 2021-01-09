@@ -1,1 +1,181 @@
-{"id":"3841","name":"怪盗レーニャ","sites":[{"site":"bilibili","id":"1051","sort":12}],"eps":[{"id":27963,"sort":1,"name":"怪盗レーニャ参上やん！","sites":[{"site":"bilibili","sort":1,"title":"我是怪盗丽娅","url":"https://www.bilibili.com/bangumi/play/ep18846","time":"2010-04-30T09:20:33.000Z"}]},{"id":27964,"sort":2,"name":"ナイショの话ィ！","sites":[{"site":"bilibili","sort":2,"title":"秘密之事","url":"https://www.bilibili.com/bangumi/play/ep18847","time":"2010-04-30T09:20:33.000Z"}]},{"id":27965,"sort":3,"name":"スペ～ス略夺爱！？","sites":[{"site":"bilibili","sort":3,"title":"太空掠夺爱！","url":"https://www.bilibili.com/bangumi/play/ep18848","time":"2010-04-30T09:20:33.000Z"}]},{"id":27966,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"骗人！小命不保～！","url":"https://www.bilibili.com/bangumi/play/ep18849","time":"2010-04-30T09:20:33.000Z"}]},{"id":27967,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"什么！中计了～","url":"https://www.bilibili.com/bangumi/play/ep18850","time":"2010-04-30T09:20:33.000Z"}]},{"id":27968,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"我要当忍者！","url":"https://www.bilibili.com/bangumi/play/ep18851","time":"2010-04-30T09:20:33.000Z"}]},{"id":27969,"sort":7,"name":"","sites":[{"site":"bilibili","sort":7,"title":"不是吧！丽娅被诅咒了～","url":"https://www.bilibili.com/bangumi/play/ep18852","time":"2010-04-30T09:20:33.000Z"}]},{"id":27970,"sort":8,"name":"","sites":[{"site":"bilibili","sort":8,"title":"嘿♥丽娅约会大作战","url":"https://www.bilibili.com/bangumi/play/ep18853","time":"2010-04-30T09:20:33.000Z"}]},{"id":27971,"sort":9,"name":"","sites":[{"site":"bilibili","sort":9,"title":"新撰组成立了～","url":"https://www.bilibili.com/bangumi/play/ep18854","time":"2010-04-30T09:20:33.000Z"}]},{"id":27972,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"嗯……丽娅初败北篇","url":"https://www.bilibili.com/bangumi/play/ep18855","time":"2010-04-30T09:20:33.000Z"}]},{"id":27973,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"不可以三心二意喔","url":"https://www.bilibili.com/bangumi/play/ep18856","time":"2010-04-30T09:20:33.000Z"}]},{"id":27974,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"再见了，丽娅","url":"https://www.bilibili.com/bangumi/play/ep18857","time":"2010-04-30T09:20:33.000Z"}]}]}
+{
+ "id": "3841",
+ "name": "怪盗レーニャ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1051",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 27963,
+   "sort": 1,
+   "name": "怪盗レーニャ参上やん！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "我是怪盗丽娅",
+     "url": "https://www.bilibili.com/bangumi/play/ep18846",
+     "time": "2010-04-30T09:20:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27964,
+   "sort": 2,
+   "name": "ナイショの话ィ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "秘密之事",
+     "url": "https://www.bilibili.com/bangumi/play/ep18847",
+     "time": "2010-04-30T09:20:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27965,
+   "sort": 3,
+   "name": "スペ～ス略夺爱！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "太空掠夺爱！",
+     "url": "https://www.bilibili.com/bangumi/play/ep18848",
+     "time": "2010-04-30T09:20:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27966,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "骗人！小命不保～！",
+     "url": "https://www.bilibili.com/bangumi/play/ep18849",
+     "time": "2010-04-30T09:20:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27967,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "什么！中计了～",
+     "url": "https://www.bilibili.com/bangumi/play/ep18850",
+     "time": "2010-04-30T09:20:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27968,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "我要当忍者！",
+     "url": "https://www.bilibili.com/bangumi/play/ep18851",
+     "time": "2010-04-30T09:20:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27969,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "不是吧！丽娅被诅咒了～",
+     "url": "https://www.bilibili.com/bangumi/play/ep18852",
+     "time": "2010-04-30T09:20:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27970,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "嘿♥丽娅约会大作战",
+     "url": "https://www.bilibili.com/bangumi/play/ep18853",
+     "time": "2010-04-30T09:20:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27971,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "新撰组成立了～",
+     "url": "https://www.bilibili.com/bangumi/play/ep18854",
+     "time": "2010-04-30T09:20:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27972,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "嗯……丽娅初败北篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep18855",
+     "time": "2010-04-30T09:20:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27973,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "不可以三心二意喔",
+     "url": "https://www.bilibili.com/bangumi/play/ep18856",
+     "time": "2010-04-30T09:20:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27974,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "再见了，丽娅",
+     "url": "https://www.bilibili.com/bangumi/play/ep18857",
+     "time": "2010-04-30T09:20:33.000Z"
+    }
+   ]
+  }
+ ]
+}

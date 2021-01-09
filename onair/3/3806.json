@@ -1,1 +1,27 @@
-{"id":"3806","name":"こわれかけのオルゴール","sites":[{"site":"bilibili","id":"3292","sort":3}],"eps":[{"id":27616,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep82934","time":"2016-01-14T08:58:13.000Z"}]}]}
+{
+ "id": "3806",
+ "name": "こわれかけのオルゴール",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3292",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 27616,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep82934",
+     "time": "2016-01-14T08:58:13.000Z"
+    }
+   ]
+  }
+ ]
+}

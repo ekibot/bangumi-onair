@@ -1,1 +1,50 @@
-{"id":"24815","name":"ドラえもん のび太と奇跡の島 ～アニマル アドベンチャー～","sites":[{"site":"qq","id":"z/z8alyhrvkd3jp2y","sort":32},{"site":"iqiyi","id":"a_19rrh6mmfp","sort":1},{"site":"bilibili","id":"3893","sort":1}],"eps":[{"id":801333,"sort":1,"name":"のび太と奇迹の岛～アニマル アドベンチャー","sites":[{"site":"qq","sort":1,"title":"1980：大雄的恐龙王国","url":"https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"},{"site":"iqiyi","sort":1,"title":"大雄与奇迹之岛","url":"http://www.iqiyi.com/v_19rr0t7ih4.html","time":"2018-05-31T16:05:40.000Z"},{"site":"bilibili","sort":1,"title":"大雄与奇迹之岛～动物历险记～","url":"https://www.bilibili.com/bangumi/play/ep86842","time":"2016-04-28T03:34:00.000Z"}]}]}
+{
+ "id": "24815",
+ "name": "ドラえもん のび太と奇跡の島 ～アニマル アドベンチャー～",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "z/z8alyhrvkd3jp2y",
+   "sort": 31
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh6mmfp",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "3893",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 801333,
+   "sort": 1,
+   "name": "のび太と奇迹の岛～アニマル アドベンチャー",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "1980：大雄与小恐龙",
+     "url": "https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "大雄与奇迹之岛",
+     "url": "http://www.iqiyi.com/v_19rr0t7ih4.html",
+     "time": "2018-05-31T16:05:40.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "大雄与奇迹之岛～动物历险记～",
+     "url": "https://www.bilibili.com/bangumi/play/ep86842",
+     "time": "2016-04-28T03:34:00.000Z"
+    }
+   ]
+  }
+ ]
+}

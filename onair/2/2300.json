@@ -1,1 +1,349 @@
-{"id":"2300","name":"BLACK CAT","sites":[{"site":"bilibili","id":"2980","sort":24}],"eps":[{"id":13468,"sort":1,"name":"孤独な猫","sites":[{"site":"bilibili","sort":1,"title":"孤独的猫","url":"https://www.bilibili.com/bangumi/play/ep77396","time":"2015-11-07T06:00:00.000Z"}]},{"id":13469,"sort":2,"name":"戸惑う猫","sites":[{"site":"bilibili","sort":2,"title":"踌躇的猫","url":"https://www.bilibili.com/bangumi/play/ep77397","time":"2015-11-07T06:00:00.000Z"}]},{"id":13470,"sort":3,"name":"闇の中の猫","sites":[{"site":"bilibili","sort":3,"title":"黑暗中的猫","url":"https://www.bilibili.com/bangumi/play/ep77398","time":"2015-11-07T06:00:00.000Z"}]},{"id":13471,"sort":4,"name":"微笑む猫","sites":[{"site":"bilibili","sort":4,"title":"微笑的猫","url":"https://www.bilibili.com/bangumi/play/ep77399","time":"2015-11-07T06:00:00.000Z"}]},{"id":13472,"sort":5,"name":"决意する猫","sites":[{"site":"bilibili","sort":5,"title":"下定决心的猫","url":"https://www.bilibili.com/bangumi/play/ep77400","time":"2015-11-07T06:00:00.000Z"}]},{"id":13473,"sort":6,"name":"狙われる猫","sites":[{"site":"bilibili","sort":6,"title":"被盯上的猫","url":"https://www.bilibili.com/bangumi/play/ep77401","time":"2015-11-07T06:00:00.000Z"}]},{"id":13474,"sort":7,"name":"伤だらけの猫","sites":[{"site":"bilibili","sort":7,"title":"伤痕累累的猫","url":"https://www.bilibili.com/bangumi/play/ep77402","time":"2015-11-07T06:00:00.000Z"}]},{"id":13475,"sort":8,"name":"旅する猫","sites":[{"site":"bilibili","sort":8,"title":"旅行的猫","url":"https://www.bilibili.com/bangumi/play/ep77403","time":"2015-11-07T06:00:00.000Z"}]},{"id":13476,"sort":9,"name":"魅惑する猫","sites":[{"site":"bilibili","sort":9,"title":"魅惑的猫","url":"https://www.bilibili.com/bangumi/play/ep77404","time":"2015-11-07T06:00:00.000Z"}]},{"id":13477,"sort":10,"name":"暴走する猫","sites":[{"site":"bilibili","sort":10,"title":"暴走的猫","url":"https://www.bilibili.com/bangumi/play/ep77405","time":"2015-11-07T06:00:00.000Z"}]},{"id":13478,"sort":11,"name":"伪りの猫","sites":[{"site":"bilibili","sort":11,"title":"冒牌的猫","url":"https://www.bilibili.com/bangumi/play/ep77406","time":"2015-11-07T06:00:00.000Z"}]},{"id":13479,"sort":12,"name":"闘う猫","sites":[{"site":"bilibili","sort":12,"title":"战斗的猫","url":"https://www.bilibili.com/bangumi/play/ep77407","time":"2015-11-07T06:00:00.000Z"}]},{"id":13480,"sort":13,"name":"LOVE猫","sites":[{"site":"bilibili","sort":13,"title":"LOVE猫","url":"https://www.bilibili.com/bangumi/play/ep77408","time":"2015-11-07T06:00:00.000Z"}]},{"id":13481,"sort":14,"name":"ちび猫","sites":[{"site":"bilibili","sort":14,"title":"小猫","url":"https://www.bilibili.com/bangumi/play/ep77409","time":"2015-11-07T06:00:00.000Z"}]},{"id":13482,"sort":15,"name":"竜を狩る猫","sites":[{"site":"bilibili","sort":15,"title":"狩龙的猫","url":"https://www.bilibili.com/bangumi/play/ep77411","time":"2015-11-07T06:00:00.000Z"}]},{"id":258269,"sort":15.5,"name":"遠ざかる猫","sites":[{"site":"bilibili","sort":15.5,"title":"远离的猫","url":"https://www.bilibili.com/bangumi/play/ep77410","time":"2015-11-07T06:00:00.000Z"}]},{"id":13483,"sort":16,"name":"まどろむ猫","sites":[{"site":"bilibili","sort":16,"title":"微睡的猫","url":"https://www.bilibili.com/bangumi/play/ep77412","time":"2015-11-07T06:00:00.000Z"}]},{"id":13484,"sort":17,"name":"船出する猫","sites":[{"site":"bilibili","sort":17,"title":"出航的猫","url":"https://www.bilibili.com/bangumi/play/ep77413","time":"2015-11-07T06:00:00.000Z"}]},{"id":13485,"sort":18,"name":"疾走する猫","sites":[{"site":"bilibili","sort":18,"title":"疾走的猫","url":"https://www.bilibili.com/bangumi/play/ep77414","time":"2015-11-07T06:00:00.000Z"}]},{"id":13486,"sort":19,"name":"対决する猫","sites":[{"site":"bilibili","sort":19,"title":"对决的猫","url":"https://www.bilibili.com/bangumi/play/ep77415","time":"2015-11-07T06:00:00.000Z"}]},{"id":13487,"sort":20,"name":"溺れる猫","sites":[{"site":"bilibili","sort":20,"title":"溺水的猫","url":"https://www.bilibili.com/bangumi/play/ep77416","time":"2015-11-07T06:00:00.000Z"}]},{"id":13488,"sort":21,"name":"爪を研ぐ猫","sites":[{"site":"bilibili","sort":21,"title":"磨爪的猫","url":"https://www.bilibili.com/bangumi/play/ep77417","time":"2015-11-07T06:00:00.000Z"}]},{"id":13489,"sort":22,"name":"楽园の猫","sites":[{"site":"bilibili","sort":22,"title":"乐园的猫","url":"https://www.bilibili.com/bangumi/play/ep77418","time":"2015-11-07T06:00:00.000Z"}]},{"id":13490,"sort":23,"name":"気ままな猫","sites":[{"site":"bilibili","sort":23,"title":"自由自在的猫","url":"https://www.bilibili.com/bangumi/play/ep77419","time":"2015-11-07T06:00:00.000Z"}]}]}
+{
+ "id": "2300",
+ "name": "BLACK CAT",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2980",
+   "sort": 24
+  }
+ ],
+ "eps": [
+  {
+   "id": 13468,
+   "sort": 1,
+   "name": "孤独な猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "孤独的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77396",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13469,
+   "sort": 2,
+   "name": "戸惑う猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "踌躇的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77397",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13470,
+   "sort": 3,
+   "name": "闇の中の猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "黑暗中的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77398",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13471,
+   "sort": 4,
+   "name": "微笑む猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "微笑的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77399",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13472,
+   "sort": 5,
+   "name": "决意する猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "下定决心的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77400",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13473,
+   "sort": 6,
+   "name": "狙われる猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "被盯上的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77401",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13474,
+   "sort": 7,
+   "name": "伤だらけの猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "伤痕累累的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77402",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13475,
+   "sort": 8,
+   "name": "旅する猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "旅行的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77403",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13476,
+   "sort": 9,
+   "name": "魅惑する猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "魅惑的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77404",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13477,
+   "sort": 10,
+   "name": "暴走する猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "暴走的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77405",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13478,
+   "sort": 11,
+   "name": "伪りの猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "冒牌的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77406",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13479,
+   "sort": 12,
+   "name": "闘う猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "战斗的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77407",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13480,
+   "sort": 13,
+   "name": "LOVE猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "LOVE猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77408",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13481,
+   "sort": 14,
+   "name": "ちび猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "小猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77409",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13482,
+   "sort": 15,
+   "name": "竜を狩る猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "狩龙的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77411",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 258269,
+   "sort": 15.5,
+   "name": "遠ざかる猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15.5,
+     "title": "远离的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77410",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13483,
+   "sort": 16,
+   "name": "まどろむ猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "微睡的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77412",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13484,
+   "sort": 17,
+   "name": "船出する猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "出航的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77413",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13485,
+   "sort": 18,
+   "name": "疾走する猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "疾走的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77414",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13486,
+   "sort": 19,
+   "name": "対决する猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "对决的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77415",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13487,
+   "sort": 20,
+   "name": "溺れる猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "溺水的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77416",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13488,
+   "sort": 21,
+   "name": "爪を研ぐ猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "磨爪的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77417",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13489,
+   "sort": 22,
+   "name": "楽园の猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "乐园的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77418",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13490,
+   "sort": 23,
+   "name": "気ままな猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "自由自在的猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep77419",
+     "time": "2015-11-07T06:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

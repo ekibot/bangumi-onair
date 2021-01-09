@@ -1,1 +1,195 @@
-{"id":"218708","name":"宇宙よりも遠い場所","sites":[{"site":"bilibili","id":"13032","sort":13}],"eps":[{"id":766525,"sort":1,"name":"青春しゃくまんえん","sites":[{"site":"bilibili","sort":1,"title":"青春百万円","url":"https://www.bilibili.com/bangumi/play/ep164970","time":"2018-01-02T14:15:00.000Z"}]},{"id":766526,"sort":2,"name":"歌舞伎町フリーマントル","sites":[{"site":"bilibili","sort":2,"title":"歌舞伎町弗里曼特尔","url":"https://www.bilibili.com/bangumi/play/ep164971","time":"2018-01-09T13:00:00.000Z"}]},{"id":766527,"sort":3,"name":"フォローバックが止まらない","sites":[{"site":"bilibili","sort":3,"title":"回粉停不下来","url":"https://www.bilibili.com/bangumi/play/ep164972","time":"2018-01-16T13:00:00.000Z"}]},{"id":766528,"sort":4,"name":"四匹のイモムシ","sites":[{"site":"bilibili","sort":4,"title":"四只毛毛虫","url":"https://www.bilibili.com/bangumi/play/ep164973","time":"2018-01-23T13:00:00.000Z"}]},{"id":766529,"sort":5,"name":"Dear my friend","sites":[{"site":"bilibili","sort":5,"title":"我亲爱的朋友","url":"https://www.bilibili.com/bangumi/play/ep164974","time":"2018-01-30T13:00:00.000Z"}]},{"id":766530,"sort":6,"name":"ようこそドリアンショーへ","sites":[{"site":"bilibili","sort":6,"title":"欢迎观赏榴莲秀","url":"https://www.bilibili.com/bangumi/play/ep164975","time":"2018-02-06T13:00:00.000Z"}]},{"id":766531,"sort":7,"name":"宇宙を見る船","sites":[{"site":"bilibili","sort":7,"title":"看宇宙的船","url":"https://www.bilibili.com/bangumi/play/ep164976","time":"2018-02-13T13:00:00.000Z"}]},{"id":766532,"sort":8,"name":"吠えて、狂って、絶叫して","sites":[{"site":"bilibili","sort":8,"title":"咆哮 疯狂 尖叫","url":"https://www.bilibili.com/bangumi/play/ep164977","time":"2018-02-20T13:00:00.000Z"}]},{"id":766533,"sort":9,"name":"南極恋物語(ブリザード編)","sites":[{"site":"bilibili","sort":9,"title":"南极爱情故事（暴风雪篇）","url":"https://www.bilibili.com/bangumi/play/ep164978","time":"2018-02-27T13:00:00.000Z"}]},{"id":766534,"sort":10,"name":"パーシャル友情","sites":[{"site":"bilibili","sort":10,"title":"部分友情","url":"https://www.bilibili.com/bangumi/play/ep164979","time":"2018-03-06T13:00:00.000Z"}]},{"id":766535,"sort":11,"name":"ドラム缶でぶっ飛ばせ！","sites":[{"site":"bilibili","sort":11,"title":"撞飞铁桶吧！","url":"https://www.bilibili.com/bangumi/play/ep164980","time":"2018-03-13T13:00:00.000Z"}]},{"id":766536,"sort":12,"name":"宇宙よりも遠い場所","sites":[{"site":"bilibili","sort":12,"title":"比宇宙更远的地方","url":"https://www.bilibili.com/bangumi/play/ep164981","time":"2018-03-20T13:00:00.000Z"}]},{"id":769893,"sort":13,"name":"きっとまた旅に出る","sites":[{"site":"bilibili","sort":13,"title":"一定会再次启程","url":"https://www.bilibili.com/bangumi/play/ep198377","time":"2018-03-27T13:00:00.000Z"}]}]}
+{
+ "id": "218708",
+ "name": "宇宙よりも遠い場所",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "13032",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 766525,
+   "sort": 1,
+   "name": "青春しゃくまんえん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "青春百万円",
+     "url": "https://www.bilibili.com/bangumi/play/ep164970",
+     "time": "2018-01-02T14:15:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766526,
+   "sort": 2,
+   "name": "歌舞伎町フリーマントル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "歌舞伎町弗里曼特尔",
+     "url": "https://www.bilibili.com/bangumi/play/ep164971",
+     "time": "2018-01-09T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766527,
+   "sort": 3,
+   "name": "フォローバックが止まらない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "回粉停不下来",
+     "url": "https://www.bilibili.com/bangumi/play/ep164972",
+     "time": "2018-01-16T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766528,
+   "sort": 4,
+   "name": "四匹のイモムシ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "四只毛毛虫",
+     "url": "https://www.bilibili.com/bangumi/play/ep164973",
+     "time": "2018-01-23T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766529,
+   "sort": 5,
+   "name": "Dear my friend",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "我亲爱的朋友",
+     "url": "https://www.bilibili.com/bangumi/play/ep164974",
+     "time": "2018-01-30T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766530,
+   "sort": 6,
+   "name": "ようこそドリアンショーへ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "欢迎观赏榴莲秀",
+     "url": "https://www.bilibili.com/bangumi/play/ep164975",
+     "time": "2018-02-06T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766531,
+   "sort": 7,
+   "name": "宇宙を見る船",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "看宇宙的船",
+     "url": "https://www.bilibili.com/bangumi/play/ep164976",
+     "time": "2018-02-13T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766532,
+   "sort": 8,
+   "name": "吠えて、狂って、絶叫して",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "咆哮 疯狂 尖叫",
+     "url": "https://www.bilibili.com/bangumi/play/ep164977",
+     "time": "2018-02-20T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766533,
+   "sort": 9,
+   "name": "南極恋物語(ブリザード編)",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "南极爱情故事（暴风雪篇）",
+     "url": "https://www.bilibili.com/bangumi/play/ep164978",
+     "time": "2018-02-27T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766534,
+   "sort": 10,
+   "name": "パーシャル友情",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "部分友情",
+     "url": "https://www.bilibili.com/bangumi/play/ep164979",
+     "time": "2018-03-06T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766535,
+   "sort": 11,
+   "name": "ドラム缶でぶっ飛ばせ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "撞飞铁桶吧！",
+     "url": "https://www.bilibili.com/bangumi/play/ep164980",
+     "time": "2018-03-13T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766536,
+   "sort": 12,
+   "name": "宇宙よりも遠い場所",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "比宇宙更远的地方",
+     "url": "https://www.bilibili.com/bangumi/play/ep164981",
+     "time": "2018-03-20T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 769893,
+   "sort": 13,
+   "name": "きっとまた旅に出る",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "一定会再次启程",
+     "url": "https://www.bilibili.com/bangumi/play/ep198377",
+     "time": "2018-03-27T13:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

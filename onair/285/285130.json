@@ -1,1 +1,195 @@
-{"id":"285130","name":"ぼくたちは勉強ができない！","sites":[{"site":"bilibili","id":"28222688","sort":14}],"eps":[{"id":907020,"sort":1,"name":"天才と彼はその[x]なる判定に銘々慮る","sites":[{"site":"bilibili","sort":1,"title":"天才和他对那[x]的判定各有所思","url":"https://www.bilibili.com/bangumi/play/ep285961","time":"2019-10-05T17:00:00.000Z"}]},{"id":907021,"sort":2,"name":"先人の誇りは時に[x]どもの事情と背反する","sites":[{"site":"bilibili","sort":2,"title":"前人的骄傲偶尔会违背[X]们的状况","url":"https://www.bilibili.com/bangumi/play/ep285962","time":"2019-10-12T17:00:00.000Z"}]},{"id":907022,"sort":3,"name":"天才は変遷する季節と[x]模様に憂う","sites":[{"site":"bilibili","sort":3,"title":"天才因变迁的季节和[x]的样子而忧","url":"https://www.bilibili.com/bangumi/play/ep285963","time":"2019-10-19T17:00:00.000Z"}]},{"id":907023,"sort":4,"name":"時に天才は限定された[x]において奮闘する","sites":[{"site":"bilibili","sort":4,"title":"天才偶尔会在限定的[x]上奋斗","url":"https://www.bilibili.com/bangumi/play/ep285964","time":"2019-10-26T17:00:00.000Z"}]},{"id":907024,"sort":5,"name":"心尽くしの賜物は時に[x]の錯綜となる","sites":[{"site":"bilibili","sort":5,"title":"尽心的礼物偶尔会成为[x]的错综","url":"https://www.bilibili.com/bangumi/play/ep285965","time":"2019-11-02T17:00:00.000Z"}]},{"id":907025,"sort":6,"name":"彼らは安んぞ面する[x]の志を知らんや","sites":[{"site":"bilibili","sort":6,"title":"彼辈焉知面向[x]之志","url":"https://www.bilibili.com/bangumi/play/ep285966","time":"2019-11-09T17:00:00.000Z"}]},{"id":907026,"sort":7,"name":"人知れず天才は彼らの忖度に[x]する","sites":[{"site":"bilibili","sort":7,"title":"不为人所知的天才为他们的考量而[x]","url":"https://www.bilibili.com/bangumi/play/ep285967","time":"2019-11-16T17:00:00.000Z"}]},{"id":907027,"sort":8,"name":"ゆく[x]の流れは絶えずして…","sites":[{"site":"bilibili","sort":8,"title":"流淌的[x]潺潺不绝","url":"https://www.bilibili.com/bangumi/play/ep285968","time":"2019-11-23T17:00:00.000Z"}]},{"id":907028,"sort":9,"name":"最愛の星に[x]の名を（前編）","sites":[{"site":"bilibili","sort":9,"title":"给最爱的星星赋予[x]之名（前篇）","url":"https://www.bilibili.com/bangumi/play/ep285969","time":"2019-11-30T17:00:00.000Z"}]},{"id":907029,"sort":10,"name":"最愛の星に[x]の名を（後編）","sites":[{"site":"bilibili","sort":10,"title":"给最爱的星星赋予[x]之名（后篇）","url":"https://www.bilibili.com/bangumi/play/ep285970","time":"2019-12-07T17:00:00.000Z"}]},{"id":907030,"sort":11,"name":"祭のはじめは矢継ぎ早 彼らに[x]が降りかかる","sites":[{"site":"bilibili","sort":11,"title":"祭典的开始[x]不断向他们袭来","url":"https://www.bilibili.com/bangumi/play/ep285971","time":"2019-12-14T17:00:00.000Z"}]},{"id":907031,"sort":12,"name":"祭りの騒ぎは留まらず [x]どもは茨の道を征く","sites":[{"site":"bilibili","sort":12,"title":"祭典的喧嚣留不住[x]们去往荆棘之路","url":"https://www.bilibili.com/bangumi/play/ep285972","time":"2019-12-21T17:00:00.000Z"}]},{"id":910777,"sort":13,"name":"祭りの終わりは寂しくも華やかに[x]どもを祝福する","sites":[{"site":"bilibili","sort":13,"title":"祭典结束后的寂寞也能给[x]们绚烂的祝福","url":"https://www.bilibili.com/bangumi/play/ep285973","time":"2019-12-28T17:00:00.000Z"}]}]}
+{
+ "id": "285130",
+ "name": "ぼくたちは勉強ができない！",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28222688",
+   "sort": 14
+  }
+ ],
+ "eps": [
+  {
+   "id": 907020,
+   "sort": 1,
+   "name": "天才と彼はその[x]なる判定に銘々慮る",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "天才和他对那[x]的判定各有所思",
+     "url": "https://www.bilibili.com/bangumi/play/ep285961",
+     "time": "2019-10-05T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 907021,
+   "sort": 2,
+   "name": "先人の誇りは時に[x]どもの事情と背反する",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "前人的骄傲偶尔会违背[X]们的状况",
+     "url": "https://www.bilibili.com/bangumi/play/ep285962",
+     "time": "2019-10-12T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 907022,
+   "sort": 3,
+   "name": "天才は変遷する季節と[x]模様に憂う",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "天才因变迁的季节和[x]的样子而忧",
+     "url": "https://www.bilibili.com/bangumi/play/ep285963",
+     "time": "2019-10-19T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 907023,
+   "sort": 4,
+   "name": "時に天才は限定された[x]において奮闘する",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "天才偶尔会在限定的[x]上奋斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep285964",
+     "time": "2019-10-26T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 907024,
+   "sort": 5,
+   "name": "心尽くしの賜物は時に[x]の錯綜となる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "尽心的礼物偶尔会成为[x]的错综",
+     "url": "https://www.bilibili.com/bangumi/play/ep285965",
+     "time": "2019-11-02T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 907025,
+   "sort": 6,
+   "name": "彼らは安んぞ面する[x]の志を知らんや",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "彼辈焉知面向[x]之志",
+     "url": "https://www.bilibili.com/bangumi/play/ep285966",
+     "time": "2019-11-09T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 907026,
+   "sort": 7,
+   "name": "人知れず天才は彼らの忖度に[x]する",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "不为人所知的天才为他们的考量而[x]",
+     "url": "https://www.bilibili.com/bangumi/play/ep285967",
+     "time": "2019-11-16T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 907027,
+   "sort": 8,
+   "name": "ゆく[x]の流れは絶えずして…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "流淌的[x]潺潺不绝",
+     "url": "https://www.bilibili.com/bangumi/play/ep285968",
+     "time": "2019-11-23T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 907028,
+   "sort": 9,
+   "name": "最愛の星に[x]の名を（前編）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "给最爱的星星赋予[x]之名（前篇）",
+     "url": "https://www.bilibili.com/bangumi/play/ep285969",
+     "time": "2019-11-30T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 907029,
+   "sort": 10,
+   "name": "最愛の星に[x]の名を（後編）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "给最爱的星星赋予[x]之名（后篇）",
+     "url": "https://www.bilibili.com/bangumi/play/ep285970",
+     "time": "2019-12-07T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 907030,
+   "sort": 11,
+   "name": "祭のはじめは矢継ぎ早 彼らに[x]が降りかかる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "祭典的开始[x]不断向他们袭来",
+     "url": "https://www.bilibili.com/bangumi/play/ep285971",
+     "time": "2019-12-14T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 907031,
+   "sort": 12,
+   "name": "祭りの騒ぎは留まらず [x]どもは茨の道を征く",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "祭典的喧嚣留不住[x]们去往荆棘之路",
+     "url": "https://www.bilibili.com/bangumi/play/ep285972",
+     "time": "2019-12-21T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 910777,
+   "sort": 13,
+   "name": "祭りの終わりは寂しくも華やかに[x]どもを祝福する",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "祭典结束后的寂寞也能给[x]们绚烂的祝福",
+     "url": "https://www.bilibili.com/bangumi/play/ep285973",
+     "time": "2019-12-28T17:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

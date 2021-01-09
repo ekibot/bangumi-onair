@@ -1,1 +1,27 @@
-{"id":"81145","name":"ガラスの仮面ですが THE MOVIE","sites":[{"site":"bilibili","id":"4046","sort":1},{"site":"youku","id":"10b859d07c0111e38b3f","sort":1}],"eps":[{"id":911517,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"剧场版：虽然是玻璃假面 ","url":"https://www.bilibili.com/bangumi/play/ep88401","time":"2016-05-24T07:26:52.000Z"}]}]}
+{
+ "id": "81145",
+ "name": "ガラスの仮面ですが THE MOVIE",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4046",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 911517,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "剧场版：虽然是玻璃假面 ",
+     "url": "https://www.bilibili.com/bangumi/play/ep88401",
+     "time": "2016-05-24T07:26:52.000Z"
+    }
+   ]
+  }
+ ]
+}

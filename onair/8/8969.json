@@ -1,1 +1,49 @@
-{"id":"8969","name":"クレヨンしんちゃん 雲黒斎の野望","sites":[{"site":"qq","id":"b/bymafsjpccgo4bw","sort":21},{"site":"bilibili","id":"51552","sort":1}],"eps":[{"id":875498,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"蜡笔小新1993剧场版：动感超人大战高叉魔王","url":"https://v.qq.com/x/cover/bymafsjpccgo4bw/x0014he9pm4.html"},{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep183910","time":"2018-01-11T16:00:00.000Z"}]}]}
+{
+ "id": "8969",
+ "name": "クレヨンしんちゃん 雲黒斎の野望",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "b/bymafsjpccgo4bw",
+   "sort": 21
+  },
+  {
+   "site": "bilibili",
+   "id": "51552",
+   "sort": 1
+  },
+  {
+   "site": "youku",
+   "id": "f06dbe4261ad11e0bea1",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 875498,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "蜡笔小新1993剧场版：动感超人大战高叉魔王",
+     "url": "https://v.qq.com/x/cover/bymafsjpccgo4bw/x0014he9pm4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep183910",
+     "time": "2018-01-11T16:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第1话 云黑斋的野心",
+     "url": "https://v.youku.com/v_show/id_XNTI4NDIyMTk2.html?s=f06dbe4261ad11e0bea1"
+    }
+   ]
+  }
+ ]
+}

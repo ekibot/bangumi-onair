@@ -1,1 +1,278 @@
-{"id":"2942","name":"ヒャッコ","sites":[{"site":"qq","id":"c/c3y3kinjq2hc3th","sort":13},{"site":"bilibili","id":"1223","sort":13}],"eps":[{"id":19761,"sort":1,"name":"1コメ 虎子相まみえる","sites":[{"site":"qq","sort":1,"title":"第01话 初遇虎子","url":"http://v.youku.com/v_show/id_XNDE2MDk5MTcy.html"},{"site":"bilibili","sort":1,"title":"01","url":"https://www.bilibili.com/bangumi/play/ep248392","time":"2018-09-08T06:59:17.000Z"}]},{"id":19762,"sort":2,"name":"2コメ 虎穴に入らずんば虎子を得ず","sites":[{"site":"qq","sort":2,"title":"第02话 不入虎穴焉得虎子","url":"http://v.youku.com/v_show/id_XNDE2MDk2Mzcy.html"},{"site":"bilibili","sort":2,"title":"02","url":"https://www.bilibili.com/bangumi/play/ep248393","time":"2018-09-08T06:59:17.000Z"}]},{"id":19763,"sort":3,"name":"4コメ 前門の虎 校門も虎／9コメ 張子の虎","sites":[{"site":"qq","sort":3,"title":"第03话 前门有虎 校门也有虎","url":"http://v.youku.com/v_show/id_XNDE2MTA4Mzcy.html"},{"site":"bilibili","sort":3,"title":"03","url":"https://www.bilibili.com/bangumi/play/ep248394","time":"2018-09-08T06:59:17.000Z"}]},{"id":19764,"sort":4,"name":"3コメ 牛飲馬食虎食／6コメ 虎は虎連れ","sites":[{"site":"qq","sort":4,"title":"第04话 牛饮狼吞虎咽","url":"http://v.youku.com/v_show/id_XNDE2MTA2MTY0.html"},{"site":"bilibili","sort":4,"title":"04","url":"https://www.bilibili.com/bangumi/play/ep248395","time":"2018-09-08T06:59:17.000Z"}]},{"id":19765,"sort":5,"name":"7コメ 合縁虎縁／5コメ 人には沿うてみよ、虎とは闘ってみよ","sites":[{"site":"qq","sort":5,"title":"第05话 虎缘巧合","url":"http://v.youku.com/v_show/id_XNDE2MDk5MDk2.html"},{"site":"bilibili","sort":5,"title":"05","url":"https://www.bilibili.com/bangumi/play/ep248396","time":"2018-09-08T06:59:17.000Z"}]},{"id":19766,"sort":6,"name":"10コメ 向こう三軒両側に虎","sites":[{"site":"qq","sort":6,"title":"第06话 四面虎歌","url":"http://v.youku.com/v_show/id_XNDE2MTAxNTQ4.html"},{"site":"bilibili","sort":6,"title":"06","url":"https://www.bilibili.com/bangumi/play/ep248397","time":"2018-09-08T06:59:17.000Z"}]},{"id":19767,"sort":7,"name":"16コメ 狐虎で会ったが百年目／17コメ 虎の怒りを買う狐","sites":[{"site":"qq","sort":7,"title":"第07话 狐虎千里来相会","url":"http://v.youku.com/v_show/id_XNDE2MTAzNzE2.html"},{"site":"bilibili","sort":7,"title":"07","url":"https://www.bilibili.com/bangumi/play/ep248398","time":"2018-09-08T06:59:17.000Z"}]},{"id":19768,"sort":8,"name":"11コメ 虎に立つ矢／12コメ 虎を描いて猫に類する","sites":[{"site":"qq","sort":8,"title":"第08话 点虎成金","url":"http://v.youku.com/v_show/id_XNDE2MTE1ODYw.html"},{"site":"bilibili","sort":8,"title":"08","url":"https://www.bilibili.com/bangumi/play/ep248399","time":"2018-09-08T06:59:17.000Z"}]},{"id":19769,"sort":9,"name":"13コメ 情けは虎の為ならず／20コメ 雀よ、さらば与えられん","sites":[{"site":"qq","sort":9,"title":"第09话 好虎有好报","url":"http://v.youku.com/v_show/id_XNDE2MTA0NTcy.html"},{"site":"bilibili","sort":9,"title":"09","url":"https://www.bilibili.com/bangumi/play/ep248400","time":"2018-09-08T06:59:17.000Z"}]},{"id":19770,"sort":10,"name":"15コメ 虎に翼","sites":[{"site":"qq","sort":10,"title":"第10话 如虎添翼","url":"http://v.youku.com/v_show/id_XNDE2MTA4NjIw.html"},{"site":"bilibili","sort":10,"title":"10","url":"https://www.bilibili.com/bangumi/play/ep248401","time":"2018-09-08T06:59:17.000Z"}]},{"id":19771,"sort":11,"name":"14コメ 虎口を逃れる","sites":[{"site":"qq","sort":11,"title":"第11话 虎口脱险","url":"http://v.youku.com/v_show/id_XNDE2MTIxNTk2.html"},{"site":"bilibili","sort":11,"title":"11","url":"https://www.bilibili.com/bangumi/play/ep248402","time":"2018-09-08T06:59:17.000Z"}]},{"id":19772,"sort":12,"name":"18コメ 一姫二太郎三虎子／19コメ 虎子故に迷う鬼心","sites":[{"site":"qq","sort":12,"title":"第12话 一姬二太郎三虎子","url":"http://v.youku.com/v_show/id_XNDE2MTIzMTQ4.html"},{"site":"bilibili","sort":12,"title":"12","url":"https://www.bilibili.com/bangumi/play/ep248403","time":"2018-09-08T06:59:17.000Z"}]},{"id":19773,"sort":13,"name":"四人虎を成す","sites":[{"site":"qq","sort":13,"title":"第13话 四人成虎","url":"http://v.youku.com/v_show/id_XNDE2MTEzMTQ4.html"},{"site":"bilibili","sort":13,"title":"13","url":"https://www.bilibili.com/bangumi/play/ep248404","time":"2018-09-08T06:59:17.000Z"}]}]}
+{
+ "id": "2942",
+ "name": "ヒャッコ",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "c/c3y3kinjq2hc3th",
+   "sort": 13
+  },
+  {
+   "site": "bilibili",
+   "id": "1223",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 19761,
+   "sort": 1,
+   "name": "1コメ 虎子相まみえる",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第01话 初遇虎子",
+     "url": "http://v.youku.com/v_show/id_XNDE2MDk5MTcy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "01",
+     "url": "https://www.bilibili.com/bangumi/play/ep248392",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19762,
+   "sort": 2,
+   "name": "2コメ 虎穴に入らずんば虎子を得ず",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "第02话 不入虎穴焉得虎子",
+     "url": "http://v.youku.com/v_show/id_XNDE2MDk2Mzcy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "02",
+     "url": "https://www.bilibili.com/bangumi/play/ep248393",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19763,
+   "sort": 3,
+   "name": "4コメ 前門の虎 校門も虎／9コメ 張子の虎",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "第03话 前门有虎 校门也有虎",
+     "url": "http://v.youku.com/v_show/id_XNDE2MTA4Mzcy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "03",
+     "url": "https://www.bilibili.com/bangumi/play/ep248394",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19764,
+   "sort": 4,
+   "name": "3コメ 牛飲馬食虎食／6コメ 虎は虎連れ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "第04话 牛饮狼吞虎咽",
+     "url": "http://v.youku.com/v_show/id_XNDE2MTA2MTY0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "04",
+     "url": "https://www.bilibili.com/bangumi/play/ep248395",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19765,
+   "sort": 5,
+   "name": "7コメ 合縁虎縁／5コメ 人には沿うてみよ、虎とは闘ってみよ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "第05话 虎缘巧合",
+     "url": "http://v.youku.com/v_show/id_XNDE2MDk5MDk2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "05",
+     "url": "https://www.bilibili.com/bangumi/play/ep248396",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19766,
+   "sort": 6,
+   "name": "10コメ 向こう三軒両側に虎",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "第06话 四面虎歌",
+     "url": "http://v.youku.com/v_show/id_XNDE2MTAxNTQ4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "06",
+     "url": "https://www.bilibili.com/bangumi/play/ep248397",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19767,
+   "sort": 7,
+   "name": "16コメ 狐虎で会ったが百年目／17コメ 虎の怒りを買う狐",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "第07话 狐虎千里来相会",
+     "url": "http://v.youku.com/v_show/id_XNDE2MTAzNzE2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "07",
+     "url": "https://www.bilibili.com/bangumi/play/ep248398",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19768,
+   "sort": 8,
+   "name": "11コメ 虎に立つ矢／12コメ 虎を描いて猫に類する",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "第08话 点虎成金",
+     "url": "http://v.youku.com/v_show/id_XNDE2MTE1ODYw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "08",
+     "url": "https://www.bilibili.com/bangumi/play/ep248399",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19769,
+   "sort": 9,
+   "name": "13コメ 情けは虎の為ならず／20コメ 雀よ、さらば与えられん",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "第09话 好虎有好报",
+     "url": "http://v.youku.com/v_show/id_XNDE2MTA0NTcy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "09",
+     "url": "https://www.bilibili.com/bangumi/play/ep248400",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19770,
+   "sort": 10,
+   "name": "15コメ 虎に翼",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "第10话 如虎添翼",
+     "url": "http://v.youku.com/v_show/id_XNDE2MTA4NjIw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "10",
+     "url": "https://www.bilibili.com/bangumi/play/ep248401",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19771,
+   "sort": 11,
+   "name": "14コメ 虎口を逃れる",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "第11话 虎口脱险",
+     "url": "http://v.youku.com/v_show/id_XNDE2MTIxNTk2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "11",
+     "url": "https://www.bilibili.com/bangumi/play/ep248402",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19772,
+   "sort": 12,
+   "name": "18コメ 一姫二太郎三虎子／19コメ 虎子故に迷う鬼心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "第12话 一姬二太郎三虎子",
+     "url": "http://v.youku.com/v_show/id_XNDE2MTIzMTQ4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "12",
+     "url": "https://www.bilibili.com/bangumi/play/ep248403",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19773,
+   "sort": 13,
+   "name": "四人虎を成す",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "第13话 四人成虎",
+     "url": "http://v.youku.com/v_show/id_XNDE2MTEzMTQ4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "13",
+     "url": "https://www.bilibili.com/bangumi/play/ep248404",
+     "time": "2018-09-08T06:59:17.000Z"
+    }
+   ]
+  }
+ ]
+}

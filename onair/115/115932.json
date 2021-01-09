@@ -1,1 +1,63 @@
-{"id":"115932","name":"憑物語","sites":[],"eps":[{"id":441211,"sort":1,"name":"よつぎドール 其ノ壹","sites":[{"site":"acfun","sort":1,"title":"余接与人偶 其一","url":"https://www.acfun.cn/bangumi/ab6003168_36188_1739762","time":"2020-07-11T15:59:55.157Z"}]},{"id":441212,"sort":2,"name":"よつぎドール 其ノ貳","sites":[{"site":"acfun","sort":2,"title":"余接与人偶 其二","url":"https://www.acfun.cn/bangumi/ab6003168_36188_1739763","time":"2020-07-11T15:59:55.157Z"}]},{"id":441213,"sort":3,"name":"よつぎドール 其ノ參","sites":[{"site":"acfun","sort":3,"title":"余接与人偶 其三","url":"https://www.acfun.cn/bangumi/ab6003168_36188_1739764","time":"2020-07-11T15:59:55.157Z"}]},{"id":441214,"sort":4,"name":"よつぎドール 其ノ肆","sites":[{"site":"acfun","sort":4,"title":"余接与人偶 其四","url":"https://www.acfun.cn/bangumi/ab6003168_36188_1739765","time":"2020-07-11T15:59:55.157Z"}]}]}
+{
+ "id": "115932",
+ "name": "憑物語",
+ "sites": [],
+ "eps": [
+  {
+   "id": 441211,
+   "sort": 1,
+   "name": "よつぎドール 其ノ壹",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "余接与人偶 其一",
+     "url": "https://www.acfun.cn/bangumi/ab6003168_36188_1739762",
+     "time": "2020-07-11T15:59:55.157Z"
+    }
+   ]
+  },
+  {
+   "id": 441212,
+   "sort": 2,
+   "name": "よつぎドール 其ノ貳",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 2,
+     "title": "余接与人偶 其二",
+     "url": "https://www.acfun.cn/bangumi/ab6003168_36188_1739763",
+     "time": "2020-07-11T15:59:55.157Z"
+    }
+   ]
+  },
+  {
+   "id": 441213,
+   "sort": 3,
+   "name": "よつぎドール 其ノ參",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 3,
+     "title": "余接与人偶 其三",
+     "url": "https://www.acfun.cn/bangumi/ab6003168_36188_1739764",
+     "time": "2020-07-11T15:59:55.157Z"
+    }
+   ]
+  },
+  {
+   "id": 441214,
+   "sort": 4,
+   "name": "よつぎドール 其ノ肆",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 4,
+     "title": "余接与人偶 其四",
+     "url": "https://www.acfun.cn/bangumi/ab6003168_36188_1739765",
+     "time": "2020-07-11T15:59:55.157Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,55 @@
-{"id":"85561","name":"夜桜四重奏 〜ツキニナク〜","sites":[{"site":"bilibili","id":"4383","sort":3}],"eps":[{"id":332203,"sort":1,"name":"第1話","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88863","time":"2016-06-03T06:31:15.000Z"}]},{"id":332204,"sort":2,"name":"第2話","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88864","time":"2016-06-03T06:31:36.000Z"}]},{"id":332205,"sort":3,"name":"第3話","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88865","time":"2016-06-03T06:32:04.000Z"}]}]}
+{
+ "id": "85561",
+ "name": "夜桜四重奏 〜ツキニナク〜",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4383",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 332203,
+   "sort": 1,
+   "name": "第1話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88863",
+     "time": "2016-06-03T06:31:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 332204,
+   "sort": 2,
+   "name": "第2話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88864",
+     "time": "2016-06-03T06:31:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 332205,
+   "sort": 3,
+   "name": "第3話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88865",
+     "time": "2016-06-03T06:32:04.000Z"
+    }
+   ]
+  }
+ ]
+}

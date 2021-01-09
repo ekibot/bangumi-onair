@@ -1,1 +1,27 @@
-{"id":"12351","name":"大人女子のアニメタイム「川面を滑る風」","sites":[{"site":"bilibili","id":"603","sort":1}],"eps":[{"id":71238,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep10864","time":"2013-03-12T08:21:00.000Z"}]}]}
+{
+ "id": "12351",
+ "name": "大人女子のアニメタイム「川面を滑る風」",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "603",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 71238,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep10864",
+     "time": "2013-03-12T08:21:00.000Z"
+    }
+   ]
+  }
+ ]
+}

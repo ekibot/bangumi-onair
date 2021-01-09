@@ -1,1 +1,27 @@
-{"id":"116747","name":"FASTENING DAYS","sites":[{"site":"bilibili","id":"5638","sort":1}],"eps":[{"id":444109,"sort":1,"name":"FASTENING DAYS","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep97085","time":"2016-10-31T02:11:29.000Z"}]}]}
+{
+ "id": "116747",
+ "name": "FASTENING DAYS",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5638",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 444109,
+   "sort": 1,
+   "name": "FASTENING DAYS",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep97085",
+     "time": "2016-10-31T02:11:29.000Z"
+    }
+   ]
+  }
+ ]
+}

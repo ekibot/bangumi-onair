@@ -1,1 +1,156 @@
-{"id":"2664","name":"機動戦士ガンダム 第08MS小隊","sites":[{"site":"qq","id":"8/87lrosxr1yta375","sort":12}],"eps":[{"id":27330,"sort":1,"name":"二人だけの戦争","sites":[{"site":"qq","sort":1,"title":"高达08MS小队01","url":"http://v.youku.com/v_show/id_XNjY2NTgwNDI4.html"}]},{"id":27331,"sort":2,"name":"密林のガンダム","sites":[{"site":"qq","sort":2,"title":"第02话 密林中的GUNDAM","url":"http://v.youku.com/v_show/id_XNTU3NTU3MzA0.html"}]},{"id":27332,"sort":3,"name":"信頼への限界時間","sites":[{"site":"qq","sort":3,"title":"第03话 受信赖的时间限制","url":"http://v.youku.com/v_show/id_XNTU3NTQ5OTYw.html"}]},{"id":27333,"sort":4,"name":"頭上の悪魔","sites":[{"site":"qq","sort":4,"title":"高达08MS小队04","url":"http://v.youku.com/v_show/id_XNjY2OTM0MTU2.html"}]},{"id":27334,"sort":5,"name":"破られた待機命令","sites":[{"site":"qq","sort":5,"title":"第05话 违反了待机命令","url":"http://v.youku.com/v_show/id_XNTU3NTU3MzEy.html"}]},{"id":27335,"sort":6,"name":"熱砂戦線","sites":[{"site":"qq","sort":6,"title":"第06话 热砂战线","url":"http://v.youku.com/v_show/id_XNTU3NTUwMTQ0.html"}]},{"id":27336,"sort":7,"name":"再会","sites":[{"site":"qq","sort":7,"title":"高达08MS小队07","url":"http://v.youku.com/v_show/id_XNjY2OTMzNDY0.html"}]},{"id":27337,"sort":8,"name":"軍務と理想","sites":[{"site":"qq","sort":8,"title":"高达08MS小队10","url":"http://v.youku.com/v_show/id_XNTU3NTU3MzE2.html"}]},{"id":27338,"sort":9,"name":"最前線","sites":[{"site":"qq","sort":9,"title":"第09话 最前线","url":"http://v.youku.com/v_show/id_XNTU3NTUwMTUy.html"}]},{"id":27339,"sort":10,"name":"震える山（前編）","sites":[{"site":"qq","sort":10,"title":"第10话 震动的山(后篇)","url":"http://v.youku.com/v_show/id_XNTU3NTU3MzIw.html"}]},{"id":27340,"sort":11,"name":"震える山（後編）","sites":[{"site":"qq","sort":11,"title":"第11话 震动的山(后篇)","url":"http://v.youku.com/v_show/id_XNTU3NTU3MzI0.html"}]}]}
+{
+ "id": "2664",
+ "name": "機動戦士ガンダム 第08MS小隊",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "8/87lrosxr1yta375",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 27330,
+   "sort": 1,
+   "name": "二人だけの戦争",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "高达08MS小队【01】",
+     "url": "http://v.youku.com/v_show/id_XODcyOTQyMDA=.html"
+    }
+   ]
+  },
+  {
+   "id": 27331,
+   "sort": 2,
+   "name": "密林のガンダム",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "第02话 密林中的GUNDAM",
+     "url": "http://v.youku.com/v_show/id_XNTU3NTU3MzA0.html"
+    }
+   ]
+  },
+  {
+   "id": 27332,
+   "sort": 3,
+   "name": "信頼への限界時間",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "第03话 受信赖的时间限制",
+     "url": "http://v.youku.com/v_show/id_XNTU3NTQ5OTYw.html"
+    }
+   ]
+  },
+  {
+   "id": 27333,
+   "sort": 4,
+   "name": "頭上の悪魔",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "高达08MS小队04",
+     "url": "http://v.youku.com/v_show/id_XNjY2OTM0MTU2.html"
+    }
+   ]
+  },
+  {
+   "id": 27334,
+   "sort": 5,
+   "name": "破られた待機命令",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "第05话 违反了待机命令",
+     "url": "http://v.youku.com/v_show/id_XNTU3NTU3MzEy.html"
+    }
+   ]
+  },
+  {
+   "id": 27335,
+   "sort": 6,
+   "name": "熱砂戦線",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "高达08MS小队  06",
+     "url": "http://v.youku.com/v_show/id_XMTAwOTc2MDUy.html"
+    }
+   ]
+  },
+  {
+   "id": 27336,
+   "sort": 7,
+   "name": "再会",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "高达08MS小队07",
+     "url": "http://v.youku.com/v_show/id_XNjY2OTMzNDY0.html"
+    }
+   ]
+  },
+  {
+   "id": 27337,
+   "sort": 8,
+   "name": "軍務と理想",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "高达08MS小队11",
+     "url": "http://v.youku.com/v_show/id_XNTU3NTU3MzE2.html"
+    }
+   ]
+  },
+  {
+   "id": 27338,
+   "sort": 9,
+   "name": "最前線",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "高达08MS小队  09",
+     "url": "http://v.youku.com/v_show/id_XMTAwOTc2MTU2.html"
+    }
+   ]
+  },
+  {
+   "id": 27339,
+   "sort": 10,
+   "name": "震える山（前編）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "第10话 震动的山(后篇)",
+     "url": "http://v.youku.com/v_show/id_XNTU3NTU3MzIw.html"
+    }
+   ]
+  },
+  {
+   "id": 27340,
+   "sort": 11,
+   "name": "震える山（後編）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "高达08MS小队第11话",
+     "url": "http://v.youku.com/v_show/id_XNTE0MDY5MDA=.html"
+    }
+   ]
+  }
+ ]
+}

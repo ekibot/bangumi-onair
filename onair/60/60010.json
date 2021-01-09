@@ -1,1 +1,27 @@
-{"id":"60010","name":"チョコタン!","sites":[{"site":"bilibili","id":"4432","sort":1}],"eps":[{"id":266856,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88907","time":"2016-06-05T03:40:38.000Z"}]}]}
+{
+ "id": "60010",
+ "name": "チョコタン!",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4432",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 266856,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88907",
+     "time": "2016-06-05T03:40:38.000Z"
+    }
+   ]
+  }
+ ]
+}

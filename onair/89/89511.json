@@ -1,1 +1,291 @@
-{"id":"89511","name":"バディ・コンプレックス","sites":[{"site":"iqiyi","id":"a_19rrgje7o1","sort":13},{"site":"bilibili","id":"1722","sort":15}],"eps":[{"id":353944,"sort":1,"name":"出会い","sites":[{"site":"iqiyi","sort":1,"title":"Buddy Complex 第1集","url":"http://www.iqiyi.com/v_19rrh1aqak.html","time":"2014-01-07T03:00:26.000Z"},{"site":"bilibili","sort":1,"title":"邂逅","url":"https://www.bilibili.com/bangumi/play/ep31734","time":"2015-01-07T09:26:14.000Z"}]},{"id":353945,"sort":2,"name":"ナイスカップリング","sites":[{"site":"iqiyi","sort":2,"title":"Buddy Complex 第2集","url":"http://www.iqiyi.com/v_19rrh0t1ig.html","time":"2014-01-14T03:00:21.000Z"},{"site":"bilibili","sort":2,"title":"良好联结","url":"https://www.bilibili.com/bangumi/play/ep31735","time":"2015-01-07T09:26:14.000Z"}]},{"id":353946,"sort":3,"name":"再会","sites":[{"site":"iqiyi","sort":3,"title":"Buddy Complex 第3集","url":"http://www.iqiyi.com/v_19rrgz2kn0.html","time":"2014-01-21T03:24:44.000Z"},{"site":"bilibili","sort":3,"title":"再会","url":"https://www.bilibili.com/bangumi/play/ep31736","time":"2015-01-07T09:26:14.000Z"}]},{"id":353947,"sort":4,"name":"決断の時","sites":[{"site":"iqiyi","sort":4,"title":"Buddy Complex 第4集","url":"http://www.iqiyi.com/v_19rrgylikg.html","time":"2014-01-28T03:00:09.000Z"},{"site":"bilibili","sort":4,"title":"决断之时","url":"https://www.bilibili.com/bangumi/play/ep31737","time":"2015-01-07T09:26:14.000Z"}]},{"id":355092,"sort":5,"name":"傷跡","sites":[{"site":"iqiyi","sort":5,"title":"Buddy Complex 第5集","url":"http://www.iqiyi.com/v_19rrgytdtc.html","time":"2014-02-04T03:00:23.000Z"},{"site":"bilibili","sort":5,"title":"伤痕","url":"https://www.bilibili.com/bangumi/play/ep31738","time":"2015-01-07T09:26:14.000Z"}]},{"id":355093,"sort":6,"name":"もう一人のカップラー","sites":[{"site":"iqiyi","sort":6,"title":"Buddy Complex 第6集","url":"http://www.iqiyi.com/v_19rrgxxs30.html","time":"2014-02-11T03:00:11.000Z"},{"site":"bilibili","sort":6,"title":"另一个联结者","url":"https://www.bilibili.com/bangumi/play/ep31739","time":"2015-01-07T09:26:14.000Z"}]},{"id":355094,"sort":7,"name":"バディ","sites":[{"site":"iqiyi","sort":7,"title":"Buddy Complex 第7集","url":"http://www.iqiyi.com/v_19rrgxc844.html","time":"2014-02-18T03:00:40.000Z"},{"site":"bilibili","sort":7,"title":"搭档","url":"https://www.bilibili.com/bangumi/play/ep31740","time":"2015-01-07T09:26:14.000Z"}]},{"id":355095,"sort":8,"name":"嵐の夜","sites":[{"site":"iqiyi","sort":8,"title":"Buddy Complex 第8集","url":"http://www.iqiyi.com/v_19rrh6plnw.html","time":"2014-02-25T03:00:23.000Z"},{"site":"bilibili","sort":8,"title":"暴风雨之夜","url":"https://www.bilibili.com/bangumi/play/ep31741","time":"2015-01-07T09:26:14.000Z"}]},{"id":355096,"sort":9,"name":"カップリングシステム","sites":[{"site":"iqiyi","sort":9,"title":"Buddy Complex 第9集","url":"http://www.iqiyi.com/v_19rrh61pb0.html","time":"2014-03-04T02:59:47.000Z"},{"site":"bilibili","sort":9,"title":"联结系统","url":"https://www.bilibili.com/bangumi/play/ep31742","time":"2015-01-07T09:26:14.000Z"}]},{"id":355097,"sort":10,"name":"父と子","sites":[{"site":"iqiyi","sort":10,"title":"Buddy Complex 第10集","url":"http://www.iqiyi.com/v_19rrh5ibuc.html","time":"2014-03-11T03:00:26.000Z"},{"site":"bilibili","sort":10,"title":"父与子","url":"https://www.bilibili.com/bangumi/play/ep31743","time":"2015-01-07T09:26:14.000Z"}]},{"id":355098,"sort":11,"name":"真実","sites":[{"site":"iqiyi","sort":11,"title":"Buddy Complex 第11集","url":"http://www.iqiyi.com/v_19rrh4yek4.html","time":"2014-03-18T03:00:18.000Z"},{"site":"bilibili","sort":11,"title":"真实","url":"https://www.bilibili.com/bangumi/play/ep31744","time":"2015-01-07T09:26:14.000Z"}]},{"id":355099,"sort":12,"name":"ふたりの絆","sites":[{"site":"iqiyi","sort":12,"title":"Buddy Complex 第12集","url":"http://www.iqiyi.com/v_19rrh4fv30.html","time":"2014-03-25T03:00:15.000Z"},{"site":"bilibili","sort":12,"title":"二人的羁绊","url":"https://www.bilibili.com/bangumi/play/ep31745","time":"2015-01-07T09:26:14.000Z"}]},{"id":355100,"sort":13,"name":"アクセプション","sites":[{"site":"iqiyi","sort":13,"title":"Buddy Complex 第13集","url":"http://www.iqiyi.com/v_19rrh3u0vs.html","time":"2014-04-01T03:06:14.000Z"},{"site":"bilibili","sort":13,"title":"接受","url":"https://www.bilibili.com/bangumi/play/ep31746","time":"2015-01-07T09:26:14.000Z"}]}]}
+{
+ "id": "89511",
+ "name": "バディ・コンプレックス",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrgje7o1",
+   "sort": 13
+  },
+  {
+   "site": "bilibili",
+   "id": "1722",
+   "sort": 15
+  }
+ ],
+ "eps": [
+  {
+   "id": 353944,
+   "sort": 1,
+   "name": "出会い",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "Buddy Complex 第1集",
+     "url": "http://www.iqiyi.com/v_19rrh1aqak.html",
+     "time": "2014-01-07T03:00:26.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "邂逅",
+     "url": "https://www.bilibili.com/bangumi/play/ep31734",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353945,
+   "sort": 2,
+   "name": "ナイスカップリング",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "Buddy Complex 第2集",
+     "url": "http://www.iqiyi.com/v_19rrh0t1ig.html",
+     "time": "2014-01-14T03:00:21.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "良好联结",
+     "url": "https://www.bilibili.com/bangumi/play/ep31735",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353946,
+   "sort": 3,
+   "name": "再会",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "Buddy Complex 第3集",
+     "url": "http://www.iqiyi.com/v_19rrgz2kn0.html",
+     "time": "2014-01-21T03:24:44.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "再会",
+     "url": "https://www.bilibili.com/bangumi/play/ep31736",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353947,
+   "sort": 4,
+   "name": "決断の時",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "Buddy Complex 第4集",
+     "url": "http://www.iqiyi.com/v_19rrgylikg.html",
+     "time": "2014-01-28T03:00:09.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "决断之时",
+     "url": "https://www.bilibili.com/bangumi/play/ep31737",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 355092,
+   "sort": 5,
+   "name": "傷跡",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "Buddy Complex 第5集",
+     "url": "http://www.iqiyi.com/v_19rrgytdtc.html",
+     "time": "2014-02-04T03:00:23.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "伤痕",
+     "url": "https://www.bilibili.com/bangumi/play/ep31738",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 355093,
+   "sort": 6,
+   "name": "もう一人のカップラー",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "Buddy Complex 第6集",
+     "url": "http://www.iqiyi.com/v_19rrgxxs30.html",
+     "time": "2014-02-11T03:00:11.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "另一个联结者",
+     "url": "https://www.bilibili.com/bangumi/play/ep31739",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 355094,
+   "sort": 7,
+   "name": "バディ",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "Buddy Complex 第7集",
+     "url": "http://www.iqiyi.com/v_19rrgxc844.html",
+     "time": "2014-02-18T03:00:40.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "搭档",
+     "url": "https://www.bilibili.com/bangumi/play/ep31740",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 355095,
+   "sort": 8,
+   "name": "嵐の夜",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "Buddy Complex 第8集",
+     "url": "http://www.iqiyi.com/v_19rrh6plnw.html",
+     "time": "2014-02-25T03:00:23.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "暴风雨之夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep31741",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 355096,
+   "sort": 9,
+   "name": "カップリングシステム",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "Buddy Complex 第9集",
+     "url": "http://www.iqiyi.com/v_19rrh61pb0.html",
+     "time": "2014-03-04T02:59:47.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "联结系统",
+     "url": "https://www.bilibili.com/bangumi/play/ep31742",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 355097,
+   "sort": 10,
+   "name": "父と子",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "Buddy Complex 第10集",
+     "url": "http://www.iqiyi.com/v_19rrh5ibuc.html",
+     "time": "2014-03-11T03:00:26.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "父与子",
+     "url": "https://www.bilibili.com/bangumi/play/ep31743",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 355098,
+   "sort": 11,
+   "name": "真実",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "Buddy Complex 第11集",
+     "url": "http://www.iqiyi.com/v_19rrh4yek4.html",
+     "time": "2014-03-18T03:00:18.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "真实",
+     "url": "https://www.bilibili.com/bangumi/play/ep31744",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 355099,
+   "sort": 12,
+   "name": "ふたりの絆",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "Buddy Complex 第12集",
+     "url": "http://www.iqiyi.com/v_19rrh4fv30.html",
+     "time": "2014-03-25T03:00:15.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "二人的羁绊",
+     "url": "https://www.bilibili.com/bangumi/play/ep31745",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 355100,
+   "sort": 13,
+   "name": "アクセプション",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 13,
+     "title": "Buddy Complex 第13集",
+     "url": "http://www.iqiyi.com/v_19rrh3u0vs.html",
+     "time": "2014-04-01T03:06:14.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "接受",
+     "url": "https://www.bilibili.com/bangumi/play/ep31746",
+     "time": "2015-01-07T09:26:14.000Z"
+    }
+   ]
+  }
+ ]
+}

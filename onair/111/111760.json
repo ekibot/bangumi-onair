@@ -1,1 +1,27 @@
-{"id":"111760","name":"新劇場版 頭文字D Legend2 -闘走-","sites":[{"site":"bilibili","id":"3839","sort":1}],"eps":[{"id":860490,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":" 头文字D Legend2 -斗走-","url":"https://www.bilibili.com/bangumi/play/ep86752","time":"2016-04-25T06:17:25.000Z"}]}]}
+{
+ "id": "111760",
+ "name": "新劇場版 頭文字D Legend2 -闘走-",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3839",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 860490,
+   "sort": 1,
+   "name": "頭文字D Legend2 -闘走-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": " 头文字D Legend2 -斗走-",
+     "url": "https://www.bilibili.com/bangumi/play/ep86752",
+     "time": "2016-04-25T06:17:25.000Z"
+    }
+   ]
+  }
+ ]
+}

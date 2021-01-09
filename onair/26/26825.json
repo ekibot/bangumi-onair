@@ -1,1 +1,181 @@
-{"id":"26825","name":"夏色キセキ","sites":[{"site":"bilibili","id":"787","sort":13}],"eps":[{"id":162439,"sort":1,"name":"11回目のナツヤスミ","sites":[{"site":"bilibili","sort":1,"title":"第11次暑假","url":"https://www.bilibili.com/bangumi/play/ep14073","time":"2012-03-31T18:38:27.000Z"}]},{"id":162440,"sort":2,"name":"ココロかさねて","sites":[{"site":"bilibili","sort":2,"title":"心心相连","url":"https://www.bilibili.com/bangumi/play/ep14072","time":"2012-04-12T22:45:49.000Z"}]},{"id":162441,"sort":3,"name":"下田ではトキドキ少女は空をとぶ","sites":[{"site":"bilibili","sort":3,"title":"下田的天空偶尔会有少女飞过","url":"https://www.bilibili.com/bangumi/play/ep14071","time":"2012-04-20T03:20:12.000Z"}]},{"id":162442,"sort":4,"name":"ユカまっしぐら","sites":[{"site":"bilibili","sort":4,"title":"优香全速前进","url":"https://www.bilibili.com/bangumi/play/ep14070","time":"2012-04-27T04:47:53.000Z"}]},{"id":162443,"sort":5,"name":"夏風邪とクジラ","sites":[{"site":"bilibili","sort":5,"title":"热伤风与鲸鱼","url":"https://www.bilibili.com/bangumi/play/ep14069","time":"2012-05-04T06:56:07.000Z"}]},{"id":162444,"sort":6,"name":"夏海のダブルス","sites":[{"site":"bilibili","sort":6,"title":"夏海的双打","url":"https://www.bilibili.com/bangumi/play/ep14068","time":"2012-05-11T05:50:54.000Z"}]},{"id":162445,"sort":7,"name":"雨にオネガイ","sites":[{"site":"bilibili","sort":7,"title":"向雨许愿","url":"https://www.bilibili.com/bangumi/play/ep14067","time":"2012-05-18T01:04:21.000Z"}]},{"id":162446,"sort":8,"name":"ゆううつフォートリップス","sites":[{"site":"bilibili","sort":8,"title":"忧郁的四人旅行","url":"https://www.bilibili.com/bangumi/play/ep14066","time":"2012-05-25T05:37:04.000Z"}]},{"id":162447,"sort":9,"name":"旅のソラのさきのさき","sites":[{"site":"bilibili","sort":9,"title":"旅途天空前方的前方","url":"https://www.bilibili.com/bangumi/play/ep14065","time":"2012-06-01T05:51:13.000Z"}]},{"id":162448,"sort":10,"name":"たいふうゆうれい、今日のオモイデ","sites":[{"site":"bilibili","sort":10,"title":"台风、幽灵、今天的回忆","url":"https://www.bilibili.com/bangumi/play/ep14064","time":"2012-06-08T04:04:04.000Z"}]},{"id":162449,"sort":11,"name":"当たって砕けろ！東京シンデレラツアー","sites":[{"site":"bilibili","sort":11,"title":"放手一搏！东京灰姑娘之旅","url":"https://www.bilibili.com/bangumi/play/ep14063","time":"2012-06-22T03:19:17.000Z"}]},{"id":162450,"sort":12,"name":"終わらない夏休み","sites":[{"site":"bilibili","sort":12,"title":"永无止境的暑假","url":"https://www.bilibili.com/bangumi/play/ep14062","time":"2012-06-29T01:17:56.000Z"}]}]}
+{
+ "id": "26825",
+ "name": "夏色キセキ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "787",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 162439,
+   "sort": 1,
+   "name": "11回目のナツヤスミ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "第11次暑假",
+     "url": "https://www.bilibili.com/bangumi/play/ep14073",
+     "time": "2012-03-31T18:38:27.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162440,
+   "sort": 2,
+   "name": "ココロかさねて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "心心相连",
+     "url": "https://www.bilibili.com/bangumi/play/ep14072",
+     "time": "2012-04-12T22:45:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162441,
+   "sort": 3,
+   "name": "下田ではトキドキ少女は空をとぶ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "下田的天空偶尔会有少女飞过",
+     "url": "https://www.bilibili.com/bangumi/play/ep14071",
+     "time": "2012-04-20T03:20:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162442,
+   "sort": 4,
+   "name": "ユカまっしぐら",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "优香全速前进",
+     "url": "https://www.bilibili.com/bangumi/play/ep14070",
+     "time": "2012-04-27T04:47:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162443,
+   "sort": 5,
+   "name": "夏風邪とクジラ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "热伤风与鲸鱼",
+     "url": "https://www.bilibili.com/bangumi/play/ep14069",
+     "time": "2012-05-04T06:56:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162444,
+   "sort": 6,
+   "name": "夏海のダブルス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "夏海的双打",
+     "url": "https://www.bilibili.com/bangumi/play/ep14068",
+     "time": "2012-05-11T05:50:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162445,
+   "sort": 7,
+   "name": "雨にオネガイ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "向雨许愿",
+     "url": "https://www.bilibili.com/bangumi/play/ep14067",
+     "time": "2012-05-18T01:04:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162446,
+   "sort": 8,
+   "name": "ゆううつフォートリップス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "忧郁的四人旅行",
+     "url": "https://www.bilibili.com/bangumi/play/ep14066",
+     "time": "2012-05-25T05:37:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162447,
+   "sort": 9,
+   "name": "旅のソラのさきのさき",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "旅途天空前方的前方",
+     "url": "https://www.bilibili.com/bangumi/play/ep14065",
+     "time": "2012-06-01T05:51:13.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162448,
+   "sort": 10,
+   "name": "たいふうゆうれい、今日のオモイデ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "台风、幽灵、今天的回忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep14064",
+     "time": "2012-06-08T04:04:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162449,
+   "sort": 11,
+   "name": "当たって砕けろ！東京シンデレラツアー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "放手一搏！东京灰姑娘之旅",
+     "url": "https://www.bilibili.com/bangumi/play/ep14063",
+     "time": "2012-06-22T03:19:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162450,
+   "sort": 12,
+   "name": "終わらない夏休み",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "永无止境的暑假",
+     "url": "https://www.bilibili.com/bangumi/play/ep14062",
+     "time": "2012-06-29T01:17:56.000Z"
+    }
+   ]
+  }
+ ]
+}

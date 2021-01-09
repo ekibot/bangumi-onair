@@ -1,1 +1,27 @@
-{"id":"178884","name":"planetarian～星の人～","sites":[{"site":"bilibili","id":"5051","sort":1}],"eps":[{"id":694377,"sort":1,"name":"planetarian～星の人～","sites":[{"site":"bilibili","sort":1,"title":"星之人","url":"https://www.bilibili.com/bangumi/play/ep102180","time":"2017-03-03T13:30:09.000Z"}]}]}
+{
+ "id": "178884",
+ "name": "planetarian～星の人～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5051",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 694377,
+   "sort": 1,
+   "name": "planetarian～星の人～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "星之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep102180",
+     "time": "2017-03-03T13:30:09.000Z"
+    }
+   ]
+  }
+ ]
+}

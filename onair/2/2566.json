@@ -1,1 +1,181 @@
-{"id":"2566","name":"11eyes","sites":[{"site":"bilibili","id":"4677","sort":12}],"eps":[{"id":15713,"sort":1,"name":"赤い夜~Piros éjszaka","sites":[{"site":"bilibili","sort":1,"title":"赤之夜","url":"https://www.bilibili.com/bangumi/play/ep100732","time":"2017-01-17T06:14:17.000Z"}]},{"id":15714,"sort":2,"name":"水晶の少女~egy lány -ban kristály","sites":[{"site":"bilibili","sort":2,"title":"水晶的少女","url":"https://www.bilibili.com/bangumi/play/ep100733","time":"2017-01-17T06:14:17.000Z"}]},{"id":15715,"sort":3,"name":"孤独な誇り~egyedülálló büszkeség","sites":[{"site":"bilibili","sort":3,"title":"孤独的骄傲","url":"https://www.bilibili.com/bangumi/play/ep100734","time":"2017-01-17T06:14:17.000Z"}]},{"id":15716,"sort":4,"name":"仮面の微笑~a doboz mögött maszk～","sites":[{"site":"bilibili","sort":4,"title":"虚假的微笑","url":"https://www.bilibili.com/bangumi/play/ep100735","time":"2017-01-17T06:14:17.000Z"}]},{"id":15717,"sort":5,"name":"友と明日のために~barátoknak, holnapra～","sites":[{"site":"bilibili","sort":5,"title":"为了朋友和明天","url":"https://www.bilibili.com/bangumi/play/ep100736","time":"2017-01-17T06:14:17.000Z"}]},{"id":15718,"sort":6,"name":"心乱れて~szíbtép fájdalom～","sites":[{"site":"bilibili","sort":6,"title":"心乱","url":"https://www.bilibili.com/bangumi/play/ep100737","time":"2017-01-17T06:14:17.000Z"}]},{"id":15719,"sort":7,"name":"歪んだ覚醒~kanyargós ébredés～","sites":[{"site":"bilibili","sort":7,"title":"扭曲的觉醒","url":"https://www.bilibili.com/bangumi/play/ep100738","time":"2017-01-17T06:14:17.000Z"}]},{"id":15720,"sort":8,"name":"逢魔が時~félhomály öv～","sites":[{"site":"bilibili","sort":8,"title":"遇魔之时","url":"https://www.bilibili.com/bangumi/play/ep100739","time":"2017-01-17T06:14:17.000Z"}]},{"id":15721,"sort":9,"name":"壊れた絆~törött kötés","sites":[{"site":"bilibili","sort":9,"title":"被破坏的羁绊","url":"https://www.bilibili.com/bangumi/play/ep100740","time":"2017-01-17T06:14:17.000Z"}]},{"id":15722,"sort":10,"name":"魔女覚醒~bukott angyal","sites":[{"site":"bilibili","sort":10,"title":"魔女觉醒","url":"https://www.bilibili.com/bangumi/play/ep100741","time":"2017-01-17T06:14:17.000Z"}]},{"id":15723,"sort":11,"name":"滅亡という選択~válogatott-hoz kialvás~","sites":[{"site":"bilibili","sort":11,"title":"名为灭亡的选择","url":"https://www.bilibili.com/bangumi/play/ep100742","time":"2017-01-17T06:14:17.000Z"}]},{"id":24958,"sort":12,"name":"闇夜の晓~a sōtét hajnal","sites":[{"site":"bilibili","sort":12,"title":"暗夜的破晓","url":"https://www.bilibili.com/bangumi/play/ep100743","time":"2017-01-17T06:14:17.000Z"}]}]}
+{
+ "id": "2566",
+ "name": "11eyes",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4677",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 15713,
+   "sort": 1,
+   "name": "赤い夜~Piros éjszaka",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "赤之夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep100732",
+     "time": "2017-01-17T06:14:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 15714,
+   "sort": 2,
+   "name": "水晶の少女~egy lány -ban kristály",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "水晶的少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep100733",
+     "time": "2017-01-17T06:14:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 15715,
+   "sort": 3,
+   "name": "孤独な誇り~egyedülálló büszkeség",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "孤独的骄傲",
+     "url": "https://www.bilibili.com/bangumi/play/ep100734",
+     "time": "2017-01-17T06:14:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 15716,
+   "sort": 4,
+   "name": "仮面の微笑~a doboz mögött maszk～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "虚假的微笑",
+     "url": "https://www.bilibili.com/bangumi/play/ep100735",
+     "time": "2017-01-17T06:14:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 15717,
+   "sort": 5,
+   "name": "友と明日のために~barátoknak, holnapra～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "为了朋友和明天",
+     "url": "https://www.bilibili.com/bangumi/play/ep100736",
+     "time": "2017-01-17T06:14:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 15718,
+   "sort": 6,
+   "name": "心乱れて~szíbtép fájdalom～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "心乱",
+     "url": "https://www.bilibili.com/bangumi/play/ep100737",
+     "time": "2017-01-17T06:14:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 15719,
+   "sort": 7,
+   "name": "歪んだ覚醒~kanyargós ébredés～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "扭曲的觉醒",
+     "url": "https://www.bilibili.com/bangumi/play/ep100738",
+     "time": "2017-01-17T06:14:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 15720,
+   "sort": 8,
+   "name": "逢魔が時~félhomály öv～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "遇魔之时",
+     "url": "https://www.bilibili.com/bangumi/play/ep100739",
+     "time": "2017-01-17T06:14:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 15721,
+   "sort": 9,
+   "name": "壊れた絆~törött kötés",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "被破坏的羁绊",
+     "url": "https://www.bilibili.com/bangumi/play/ep100740",
+     "time": "2017-01-17T06:14:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 15722,
+   "sort": 10,
+   "name": "魔女覚醒~bukott angyal",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "魔女觉醒",
+     "url": "https://www.bilibili.com/bangumi/play/ep100741",
+     "time": "2017-01-17T06:14:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 15723,
+   "sort": 11,
+   "name": "滅亡という選択~válogatott-hoz kialvás~",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "名为灭亡的选择",
+     "url": "https://www.bilibili.com/bangumi/play/ep100742",
+     "time": "2017-01-17T06:14:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 24958,
+   "sort": 12,
+   "name": "闇夜の晓~a sōtét hajnal",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "暗夜的破晓",
+     "url": "https://www.bilibili.com/bangumi/play/ep100743",
+     "time": "2017-01-17T06:14:17.000Z"
+    }
+   ]
+  }
+ ]
+}

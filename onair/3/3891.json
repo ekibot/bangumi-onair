@@ -1,1 +1,218 @@
-{"id":"3891","name":"破天荒遊戯","sites":[{"site":"qq","id":"f/fr3iyjjgnk32euk","sort":10},{"site":"bilibili","id":"1266","sort":10}],"eps":[{"id":28182,"sort":1,"name":"永遠のともしび","sites":[{"site":"qq","sort":1,"title":"第01话 永恒的灯火","url":"http://v.youku.com/v_show/id_XMjU3ODA0MzI=.html"},{"site":"bilibili","sort":1,"title":"永恒的灯火","url":"https://www.bilibili.com/bangumi/play/ep23038","time":"2013-03-31T15:08:43.000Z"}]},{"id":28183,"sort":2,"name":"きずあとのきず","sites":[{"site":"qq","sort":2,"title":"第02话 伤後边的伤","url":"http://v.youku.com/v_show/id_XNDk3NzY2MDQw.html"},{"site":"bilibili","sort":2,"title":"伤后边的伤","url":"https://www.bilibili.com/bangumi/play/ep23039","time":"2013-03-31T15:08:43.000Z"}]},{"id":28184,"sort":3,"name":"かくもささやかな子守唄","sites":[{"site":"qq","sort":3,"title":"第03话 如此细微的摇篮曲","url":"http://v.youku.com/v_show/id_XMjU3MzkzMDQ=.html"},{"site":"bilibili","sort":3,"title":"如此细微的摇篮曲","url":"https://www.bilibili.com/bangumi/play/ep23040","time":"2013-03-31T15:08:43.000Z"}]},{"id":28185,"sort":4,"name":"楽園に触れるなかれ","sites":[{"site":"qq","sort":4,"title":"第04话 禁触乐园","url":"http://v.youku.com/v_show/id_XNDk3NzY2NDQ0.html"},{"site":"bilibili","sort":4,"title":"禁触乐园","url":"https://www.bilibili.com/bangumi/play/ep23041","time":"2013-03-31T15:08:43.000Z"}]},{"id":28186,"sort":5,"name":"てのひらのたいよう・前編","sites":[{"site":"qq","sort":5,"title":"第05话 手掌中的太阳 前篇","url":"http://v.youku.com/v_show/id_XNDk3NzY2NjI4.html"},{"site":"bilibili","sort":5,"title":"手掌中的太阳 前篇","url":"https://www.bilibili.com/bangumi/play/ep23042","time":"2013-03-31T15:08:43.000Z"}]},{"id":28187,"sort":6,"name":"てのひらのたいよう・後編","sites":[{"site":"qq","sort":6,"title":"第06话 手掌中的太阳 後编","url":"http://v.youku.com/v_show/id_XMjU3ODI1MDA=.html"},{"site":"bilibili","sort":6,"title":"手掌中的太阳 后编","url":"https://www.bilibili.com/bangumi/play/ep23043","time":"2013-03-31T15:08:43.000Z"}]},{"id":28188,"sort":7,"name":"花が咲いたら","sites":[{"site":"qq","sort":7,"title":"第07话 花开之後","url":"http://v.youku.com/v_show/id_XNDk3NzY2ODA0.html?from=y1.6-100.3.1.cc006006962411de83b1"},{"site":"bilibili","sort":7,"title":"花开之后","url":"https://www.bilibili.com/bangumi/play/ep23044","time":"2013-03-31T15:08:43.000Z"}]},{"id":28189,"sort":8,"name":"ゆくさきをしらない・前編","sites":[{"site":"qq","sort":8,"title":"第08话 不知道去向何方 前篇","url":"http://v.youku.com/v_show/id_XMjU3ODM0MjA=.html"},{"site":"bilibili","sort":8,"title":"不知道去向何方 前篇","url":"https://www.bilibili.com/bangumi/play/ep23045","time":"2013-03-31T15:08:43.000Z"}]},{"id":28190,"sort":9,"name":"ゆくさきをしらない・後編","sites":[{"site":"qq","sort":9,"title":"第09话 不知道去向何方 後篇","url":"http://v.youku.com/v_show/id_XMjU1MDEyODA=.html"},{"site":"bilibili","sort":9,"title":"不知道去向何方 后篇","url":"https://www.bilibili.com/bangumi/play/ep23046","time":"2013-03-31T15:08:43.000Z"}]},{"id":28191,"sort":10,"name":"君に贈ろう","sites":[{"site":"qq","sort":10,"title":"第10话 赠送你","url":"http://v.youku.com/v_show/id_XNDk3Nzc2OTcy.html"},{"site":"bilibili","sort":10,"title":"赠送你","url":"https://www.bilibili.com/bangumi/play/ep23047","time":"2013-03-31T15:08:43.000Z"}]}]}
+{
+ "id": "3891",
+ "name": "破天荒遊戯",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "f/fr3iyjjgnk32euk",
+   "sort": 10
+  },
+  {
+   "site": "bilibili",
+   "id": "1266",
+   "sort": 10
+  }
+ ],
+ "eps": [
+  {
+   "id": 28182,
+   "sort": 1,
+   "name": "永遠のともしび",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第01话 永恒的灯火",
+     "url": "http://v.youku.com/v_show/id_XMjU3ODA0MzI=.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "永恒的灯火",
+     "url": "https://www.bilibili.com/bangumi/play/ep23038",
+     "time": "2013-03-31T15:08:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28183,
+   "sort": 2,
+   "name": "きずあとのきず",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "第02话 伤後边的伤",
+     "url": "http://v.youku.com/v_show/id_XNDk3NzY2MDQw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "伤后边的伤",
+     "url": "https://www.bilibili.com/bangumi/play/ep23039",
+     "time": "2013-03-31T15:08:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28184,
+   "sort": 3,
+   "name": "かくもささやかな子守唄",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "第03话 如此细微的摇篮曲",
+     "url": "http://v.youku.com/v_show/id_XMjU3MzkzMDQ=.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "如此细微的摇篮曲",
+     "url": "https://www.bilibili.com/bangumi/play/ep23040",
+     "time": "2013-03-31T15:08:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28185,
+   "sort": 4,
+   "name": "楽園に触れるなかれ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "第04话 禁触乐园",
+     "url": "http://v.youku.com/v_show/id_XNDk3NzY2NDQ0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "禁触乐园",
+     "url": "https://www.bilibili.com/bangumi/play/ep23041",
+     "time": "2013-03-31T15:08:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28186,
+   "sort": 5,
+   "name": "てのひらのたいよう・前編",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "第05话 手掌中的太阳 前篇",
+     "url": "http://v.youku.com/v_show/id_XNDk3NzY2NjI4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "手掌中的太阳 前篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep23042",
+     "time": "2013-03-31T15:08:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28187,
+   "sort": 6,
+   "name": "てのひらのたいよう・後編",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "第06话 手掌中的太阳 後编",
+     "url": "http://v.youku.com/v_show/id_XMjU3ODI1MDA=.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "手掌中的太阳 后编",
+     "url": "https://www.bilibili.com/bangumi/play/ep23043",
+     "time": "2013-03-31T15:08:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28188,
+   "sort": 7,
+   "name": "花が咲いたら",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "第07话 花开之後",
+     "url": "http://v.youku.com/v_show/id_XNDk3NzY2ODA0.html?from=y1.6-100.3.1.cc006006962411de83b1"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "花开之后",
+     "url": "https://www.bilibili.com/bangumi/play/ep23044",
+     "time": "2013-03-31T15:08:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28189,
+   "sort": 8,
+   "name": "ゆくさきをしらない・前編",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "第08话 不知道去向何方 前篇",
+     "url": "http://v.youku.com/v_show/id_XMjU3ODM0MjA=.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "不知道去向何方 前篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep23045",
+     "time": "2013-03-31T15:08:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28190,
+   "sort": 9,
+   "name": "ゆくさきをしらない・後編",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "第09话 不知道去向何方 後篇",
+     "url": "http://v.youku.com/v_show/id_XMjU1MDEyODA=.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "不知道去向何方 后篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep23046",
+     "time": "2013-03-31T15:08:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28191,
+   "sort": 10,
+   "name": "君に贈ろう",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "第10话 赠送你",
+     "url": "http://v.youku.com/v_show/id_XNDk3Nzc2OTcy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "赠送你",
+     "url": "https://www.bilibili.com/bangumi/play/ep23047",
+     "time": "2013-03-31T15:08:43.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,278 @@
-{"id":"1740","name":"うみものがたり～あなたがいてくれたコト～","sites":[{"site":"qq","id":"y/y8qu9f8n19viijw","sort":13},{"site":"bilibili","id":"1144","sort":13}],"eps":[{"id":7391,"sort":1,"name":"海の心 空の心","sites":[{"site":"qq","sort":1,"title":"海物语 ～有你相伴～  第01话","url":"http://v.youku.com/v_show/id_XMTAwOTM0MDIw.html"},{"site":"bilibili","sort":1,"title":"海之心 空之心","url":"https://www.bilibili.com/bangumi/play/ep20643","time":"2010-08-25T11:15:37.000Z"}]},{"id":7392,"sort":2,"name":"指輪の心 巫女の心","sites":[{"site":"qq","sort":2,"title":"海物语 有你相伴02","url":"http://v.youku.com/v_show/id_XMTAyNTI1NTAw.html"},{"site":"bilibili","sort":2,"title":"戒指之心 巫女之心","url":"https://www.bilibili.com/bangumi/play/ep20644","time":"2010-08-25T11:15:37.000Z"}]},{"id":7393,"sort":3,"name":"近づく心","sites":[{"site":"qq","sort":3,"title":"海物语-有你相伴[第3话]","url":"http://v.youku.com/v_show/id_XMTA0Mzg4MDA4.html"},{"site":"bilibili","sort":3,"title":"靠近的心","url":"https://www.bilibili.com/bangumi/play/ep20645","time":"2010-08-25T11:15:37.000Z"}]},{"id":7394,"sort":4,"name":"試さわる心","sites":[{"site":"qq","sort":4,"title":"海之物语 - 第4集","url":"http://v.youku.com/v_show/id_XMTA2MzI1Njky.html"},{"site":"bilibili","sort":4,"title":"遭逢试炼的心","url":"https://www.bilibili.com/bangumi/play/ep20646","time":"2010-08-25T11:15:37.000Z"}]},{"id":7395,"sort":5,"name":"光を覆う心","sites":[{"site":"qq","sort":5,"title":"海之物语 - 第5集","url":"http://v.youku.com/v_show/id_XMTA3Mzg2Mzk2.html"},{"site":"bilibili","sort":5,"title":"光照的心","url":"https://www.bilibili.com/bangumi/play/ep20647","time":"2010-08-25T11:15:37.000Z"}]},{"id":7396,"sort":6,"name":"堕ちる心","sites":[{"site":"qq","sort":6,"title":"海物语有你相伴 第6话","url":"http://v.youku.com/v_show/id_XMTA5MDMyMTEy.html"},{"site":"bilibili","sort":6,"title":"堕落的心","url":"https://www.bilibili.com/bangumi/play/ep20648","time":"2010-08-25T11:15:37.000Z"}]},{"id":7397,"sort":7,"name":"離れゆく心","sites":[{"site":"qq","sort":7,"title":"视频: 海物语 第7集","url":"http://v.youku.com/v_show/id_XMTEwNzU3OTM2.html"},{"site":"bilibili","sort":7,"title":"渐行渐远的心","url":"https://www.bilibili.com/bangumi/play/ep20649","time":"2010-08-25T11:15:37.000Z"}]},{"id":7398,"sort":8,"name":"求め合う心","sites":[{"site":"qq","sort":8,"title":"海物语 有你相伴 08","url":"http://v.youku.com/v_show/id_XMTIwMDc5NDky.html"},{"site":"bilibili","sort":8,"title":"相互寻求的心","url":"https://www.bilibili.com/bangumi/play/ep20650","time":"2010-08-25T11:15:37.000Z"}]},{"id":7399,"sort":9,"name":"愛する心","sites":[{"site":"qq","sort":9,"title":"海物语-有你相伴[第9话]","url":"http://v.youku.com/v_show/id_XMTMwMjQ5NTQw.html"},{"site":"bilibili","sort":9,"title":"热爱的心","url":"https://www.bilibili.com/bangumi/play/ep20651","time":"2010-08-25T11:15:37.000Z"}]},{"id":7400,"sort":10,"name":"沈黙する心","sites":[{"site":"qq","sort":10,"title":"海物语有你相伴 10","url":"http://v.youku.com/v_show/id_XMTE2Nzg2OTA0.html"},{"site":"bilibili","sort":10,"title":"沉默的心","url":"https://www.bilibili.com/bangumi/play/ep20652","time":"2010-08-25T11:15:37.000Z"}]},{"id":7401,"sort":11,"name":"光の心　闇の心","sites":[{"site":"qq","sort":11,"title":"视频: 海物语 第11集","url":"http://v.youku.com/v_show/id_XMTE4MTI3NDIw.html"},{"site":"bilibili","sort":11,"title":"光之心 暗之心","url":"https://www.bilibili.com/bangumi/play/ep20653","time":"2010-08-25T11:15:37.000Z"}]},{"id":15357,"sort":12,"name":"島の心　人の心","sites":[{"site":"qq","sort":12,"title":"海之物语 - 第12集","url":"http://v.youku.com/v_show/id_XMTE5NjgwNjQ4.html"},{"site":"bilibili","sort":12,"title":"岛之心 人之心","url":"https://www.bilibili.com/bangumi/play/ep20654","time":"2010-08-25T11:15:37.000Z"}]},{"id":32471,"sort":13,"name":"信じあう心","sites":[{"site":"qq","sort":13,"title":"第13话 互相信任的心","url":"http://v.youku.com/v_show/id_XMTkxNzU5NzAw.html"},{"site":"bilibili","sort":13,"title":"互相信任的心","url":"https://www.bilibili.com/bangumi/play/ep85869","time":"2016-04-09T09:41:30.000Z"}]}]}
+{
+ "id": "1740",
+ "name": "うみものがたり～あなたがいてくれたコト～",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "y/y8qu9f8n19viijw",
+   "sort": 13
+  },
+  {
+   "site": "bilibili",
+   "id": "1144",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 7391,
+   "sort": 1,
+   "name": "海の心 空の心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "海物语 ～有你相伴～  第01话",
+     "url": "http://v.youku.com/v_show/id_XMTAwOTM0MDIw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "海之心 空之心",
+     "url": "https://www.bilibili.com/bangumi/play/ep20643",
+     "time": "2010-08-25T11:15:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7392,
+   "sort": 2,
+   "name": "指輪の心 巫女の心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "海物语 有你相伴02",
+     "url": "http://v.youku.com/v_show/id_XMTAyNTI1NTAw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "戒指之心 巫女之心",
+     "url": "https://www.bilibili.com/bangumi/play/ep20644",
+     "time": "2010-08-25T11:15:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7393,
+   "sort": 3,
+   "name": "近づく心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "海物语-有你相伴[第3话]",
+     "url": "http://v.youku.com/v_show/id_XMTA0Mzg4MDA4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "靠近的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep20645",
+     "time": "2010-08-25T11:15:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7394,
+   "sort": 4,
+   "name": "試さわる心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "海之物语 - 第4集",
+     "url": "http://v.youku.com/v_show/id_XMTA2MzI1Njky.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "遭逢试炼的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep20646",
+     "time": "2010-08-25T11:15:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7395,
+   "sort": 5,
+   "name": "光を覆う心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "海之物语 - 第5集",
+     "url": "http://v.youku.com/v_show/id_XMTA3Mzg2Mzk2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "光照的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep20647",
+     "time": "2010-08-25T11:15:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7396,
+   "sort": 6,
+   "name": "堕ちる心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "海物语有你相伴 第6话",
+     "url": "http://v.youku.com/v_show/id_XMTA5MDMyMTEy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "堕落的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep20648",
+     "time": "2010-08-25T11:15:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7397,
+   "sort": 7,
+   "name": "離れゆく心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "视频: 海物语 第7集",
+     "url": "http://v.youku.com/v_show/id_XMTEwNzU3OTM2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "渐行渐远的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep20649",
+     "time": "2010-08-25T11:15:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7398,
+   "sort": 8,
+   "name": "求め合う心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "海物语 有你相伴 08",
+     "url": "http://v.youku.com/v_show/id_XMTIwMDc5NDky.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "相互寻求的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep20650",
+     "time": "2010-08-25T11:15:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7399,
+   "sort": 9,
+   "name": "愛する心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "海物语-有你相伴[第9话]",
+     "url": "http://v.youku.com/v_show/id_XMTMwMjQ5NTQw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "热爱的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep20651",
+     "time": "2010-08-25T11:15:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7400,
+   "sort": 10,
+   "name": "沈黙する心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "海物语有你相伴 10",
+     "url": "http://v.youku.com/v_show/id_XMTE2Nzg2OTA0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "沉默的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep20652",
+     "time": "2010-08-25T11:15:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7401,
+   "sort": 11,
+   "name": "光の心　闇の心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "视频: 海物语 第11集",
+     "url": "http://v.youku.com/v_show/id_XMTE4MTI3NDIw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "光之心 暗之心",
+     "url": "https://www.bilibili.com/bangumi/play/ep20653",
+     "time": "2010-08-25T11:15:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 15357,
+   "sort": 12,
+   "name": "島の心　人の心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "海之物语 - 第12集",
+     "url": "http://v.youku.com/v_show/id_XMTE5NjgwNjQ4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "岛之心 人之心",
+     "url": "https://www.bilibili.com/bangumi/play/ep20654",
+     "time": "2010-08-25T11:15:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32471,
+   "sort": 13,
+   "name": "信じあう心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "第13话 互相信任的心",
+     "url": "http://v.youku.com/v_show/id_XMTkxNzU5NzAw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "互相信任的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep85869",
+     "time": "2016-04-09T09:41:30.000Z"
+    }
+   ]
+  }
+ ]
+}

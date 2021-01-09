@@ -1,1 +1,195 @@
-{"id":"72942","name":"中二病でも恋がしたい！戀","sites":[{"site":"bilibili","id":"4349","sort":13}],"eps":[{"id":353146,"sort":1,"name":"復活の・・・邪王真眼","sites":[{"site":"bilibili","sort":1,"title":"复活的…邪王真眼","url":"https://www.bilibili.com/bangumi/play/ep92770","time":"2016-07-18T08:23:19.000Z"}]},{"id":353147,"sort":2,"name":"海豚の・・・恋人契約（ドルフィンリング・ストライカー）","sites":[{"site":"bilibili","sort":2,"title":"海豚的…恋人契约","url":"https://www.bilibili.com/bangumi/play/ep92771","time":"2016-07-18T08:23:31.000Z"}]},{"id":353148,"sort":3,"name":"迫撃の・・・魔法魔王少女","sites":[{"site":"bilibili","sort":3,"title":"迫击的…魔法魔王少女","url":"https://www.bilibili.com/bangumi/play/ep92772","time":"2016-07-18T08:23:41.000Z"}]},{"id":353149,"sort":4,"name":"無垢なる・・・生徒会長選挙（クイーンメーカー）","sites":[{"site":"bilibili","sort":4,"title":"纯洁的…学生会长选举","url":"https://www.bilibili.com/bangumi/play/ep92773","time":"2016-07-18T08:23:53.000Z"}]},{"id":353150,"sort":5,"name":"幻想の・・・昼寝迷宮（シエスタ・ラビリンス）","sites":[{"site":"bilibili","sort":5,"title":"幻想的…午睡迷宫","url":"https://www.bilibili.com/bangumi/play/ep92774","time":"2016-07-18T08:24:04.000Z"}]},{"id":353151,"sort":6,"name":"躊躇（ためら）いの・・・筑紫島周遊（ツクシノシマ・トラベリング）","sites":[{"site":"bilibili","sort":6,"title":"踌躇的…筑紫岛环游","url":"https://www.bilibili.com/bangumi/play/ep92775","time":"2016-07-18T08:24:17.000Z"}]},{"id":353152,"sort":7,"name":"すれ違いの・・・心模様（ヴォルケーノ・トライアングル）","sites":[{"site":"bilibili","sort":7,"title":"交错的…心境","url":"https://www.bilibili.com/bangumi/play/ep92776","time":"2016-07-18T08:24:30.000Z"}]},{"id":353153,"sort":8,"name":"偽りの・・・精霊聖母（モリサマー）","sites":[{"site":"bilibili","sort":8,"title":"虚假的…精灵圣母","url":"https://www.bilibili.com/bangumi/play/ep92777","time":"2016-07-18T08:24:41.000Z"}]},{"id":353154,"sort":9,"name":"波打際の・・・究極奥義（リゾート・ラストリゾート）","sites":[{"site":"bilibili","sort":9,"title":"海岸的…究极奥义","url":"https://www.bilibili.com/bangumi/play/ep92778","time":"2016-07-18T08:24:58.000Z"}]},{"id":353155,"sort":10,"name":"真夏の夜の・・・雨と鞭（Gauntlet of rain）","sites":[{"site":"bilibili","sort":10,"title":"仲夏夜的…雨与鞭","url":"https://www.bilibili.com/bangumi/play/ep92779","time":"2016-07-18T08:25:08.000Z"}]},{"id":353156,"sort":11,"name":"青き月の・・・最終決戦（ブルームーン・ラグナロク）","sites":[{"site":"bilibili","sort":11,"title":"蓝月下的…最终决战","url":"https://www.bilibili.com/bangumi/play/ep92780","time":"2016-07-18T08:25:19.000Z"}]},{"id":353157,"sort":12,"name":"黄昏の・・・上級契約（ハイヤーエンゲージ）","sites":[{"site":"bilibili","sort":12,"title":"黄昏的…高级契约","url":"https://www.bilibili.com/bangumi/play/ep92781","time":"2016-07-18T08:25:28.000Z"}]},{"id":388722,"sort":13,"name":"再生の･･･邪王真眼黙示録（The Rikka Wars）","sites":[{"site":"bilibili","sort":13,"title":"再生的･･･邪王真眼默示录","url":"https://www.bilibili.com/bangumi/play/ep92783","time":"2016-07-19T02:06:00.000Z"}]}]}
+{
+ "id": "72942",
+ "name": "中二病でも恋がしたい！戀",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4349",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 353146,
+   "sort": 1,
+   "name": "復活の・・・邪王真眼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "复活之…邪王真眼",
+     "url": "https://www.bilibili.com/bangumi/play/ep329016",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353147,
+   "sort": 2,
+   "name": "海豚の・・・恋人契約（ドルフィンリング・ストライカー）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": " 海豚之…恋人契约",
+     "url": "https://www.bilibili.com/bangumi/play/ep329017",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353148,
+   "sort": 3,
+   "name": "迫撃の・・・魔法魔王少女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "追击的…魔法魔王少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep329018",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353149,
+   "sort": 4,
+   "name": "無垢なる・・・生徒会長選挙（クイーンメーカー）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "纯洁的…学生会会长选举",
+     "url": "https://www.bilibili.com/bangumi/play/ep329019",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353150,
+   "sort": 5,
+   "name": "幻想の・・・昼寝迷宮（シエスタ・ラビリンス）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "幻想的…午睡迷宫",
+     "url": "https://www.bilibili.com/bangumi/play/ep329020",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353151,
+   "sort": 6,
+   "name": "躊躇（ためら）いの・・・筑紫島周遊（ツクシノシマ・トラベリング）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "踌躇的…筑紫岛周游 ",
+     "url": "https://www.bilibili.com/bangumi/play/ep329021",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353152,
+   "sort": 7,
+   "name": "すれ違いの・・・心模様（ヴォルケーノ・トライアングル）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "擦肩而过的…心境  ",
+     "url": "https://www.bilibili.com/bangumi/play/ep329022",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353153,
+   "sort": 8,
+   "name": "偽りの・・・精霊聖母（モリサマー）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "虚假的…精灵圣母",
+     "url": "https://www.bilibili.com/bangumi/play/ep329023",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353154,
+   "sort": 9,
+   "name": "波打際の・・・究極奥義（リゾート・ラストリゾート）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "海岸边的…终极奥义",
+     "url": "https://www.bilibili.com/bangumi/play/ep329024",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353155,
+   "sort": 10,
+   "name": "真夏の夜の・・・雨と鞭（Gauntlet of rain）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "盛夏之夜的…雨与鞭",
+     "url": "https://www.bilibili.com/bangumi/play/ep329026",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353156,
+   "sort": 11,
+   "name": "青き月の・・・最終決戦（ブルームーン・ラグナロク）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "苍月下的…最终决战",
+     "url": "https://www.bilibili.com/bangumi/play/ep329027",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353157,
+   "sort": 12,
+   "name": "黄昏の・・・上級契約（ハイヤーエンゲージ）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "黄昏之…上级契约",
+     "url": "https://www.bilibili.com/bangumi/play/ep329028",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 388722,
+   "sort": 13,
+   "name": "再生の･･･邪王真眼黙示録（The Rikka Wars）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "重生的…邪王真眼启示录  ",
+     "url": "https://www.bilibili.com/bangumi/play/ep329031",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,43 @@
-{"id":"11647","name":"劇場版 スレイヤーズごぅじゃす","sites":[{"site":"qq","id":"i/iatciy3zx6euxfz","sort":3},{"site":"bilibili","id":"3908","sort":1},{"site":"iqiyi","id":"a_19rrhwb7ed","sort":4}],"eps":[{"id":875519,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"第1话 迷宫","url":"http://v.youku.com/v_show/id_XNTIxMjQ4NjM2.html"},{"site":"iqiyi","sort":1,"title":"秀逗魔导士 剧场版","url":"http://www.iqiyi.com/v_19rxko47h4.html","time":"2020-02-25T08:39:21.000Z"}]}]}
+{
+ "id": "11647",
+ "name": "劇場版 スレイヤーズごぅじゃす",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "i/iatciy3zx6euxfz",
+   "sort": 3
+  },
+  {
+   "site": "bilibili",
+   "id": "3908",
+   "sort": 1
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhwb7ed",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 875519,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第1话 迷宫",
+     "url": "http://v.youku.com/v_show/id_XNTIxMjQ4NjM2.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "秀逗魔导士 剧场版",
+     "url": "http://www.iqiyi.com/v_19rxko47h4.html",
+     "time": "2020-02-25T08:39:21.000Z"
+    }
+   ]
+  }
+ ]
+}

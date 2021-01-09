@@ -1,1 +1,195 @@
-{"id":"1547","name":"十兵衛ちゃん －ラブリー眼帯の秘密－","sites":[{"site":"bilibili","id":"1946","sort":13}],"eps":[{"id":9294,"sort":1,"name":"二代目柳生十兵衛誕生","sites":[{"site":"bilibili","sort":1,"title":"第二代柳生十兵卫诞生","url":"https://www.bilibili.com/bangumi/play/ep41963","time":"2011-10-28T02:11:32.000Z"}]},{"id":9295,"sort":2,"name":"汝の敵に惚れていた","sites":[{"site":"bilibili","sort":2,"title":"迷上了你的敌人","url":"https://www.bilibili.com/bangumi/play/ep41964","time":"2011-10-28T02:11:32.000Z"}]},{"id":9296,"sort":3,"name":"男心が揺れていた","sites":[{"site":"bilibili","sort":3,"title":"男人的心动摇了","url":"https://www.bilibili.com/bangumi/play/ep41965","time":"2011-10-28T02:11:32.000Z"}]},{"id":9297,"sort":4,"name":"後には戻れぬ道だった","sites":[{"site":"bilibili","sort":4,"title":"再来就是不归路了","url":"https://www.bilibili.com/bangumi/play/ep41966","time":"2011-10-28T02:11:32.000Z"}]},{"id":9298,"sort":5,"name":"敵が思い出つれて来た","sites":[{"site":"bilibili","sort":5,"title":"敌人勾起回忆了","url":"https://www.bilibili.com/bangumi/play/ep41967","time":"2011-10-28T02:11:32.000Z"}]},{"id":9299,"sort":6,"name":"昨日の味方が敵だった","sites":[{"site":"bilibili","sort":6,"title":"昨日的友方竟成敌人","url":"https://www.bilibili.com/bangumi/play/ep41968","time":"2011-10-28T02:11:32.000Z"}]},{"id":9300,"sort":7,"name":"知らずに極意を掴んでた","sites":[{"site":"bilibili","sort":7,"title":"不知不觉抓到秘诀","url":"https://www.bilibili.com/bangumi/play/ep41969","time":"2011-10-28T02:11:32.000Z"}]},{"id":9301,"sort":8,"name":"頭にこんなの添えていた","sites":[{"site":"bilibili","sort":8,"title":"头上添了这玩意儿","url":"https://www.bilibili.com/bangumi/play/ep41970","time":"2011-10-28T02:11:32.000Z"}]},{"id":9302,"sort":9,"name":"恋の予感の父だった","sites":[{"site":"bilibili","sort":9,"title":"有恋爱预感的爸爸","url":"https://www.bilibili.com/bangumi/play/ep41971","time":"2011-10-28T02:11:32.000Z"}]},{"id":9303,"sort":10,"name":"努力のしどころ、ここだった","sites":[{"site":"bilibili","sort":10,"title":"所有的努力就到此了","url":"https://www.bilibili.com/bangumi/play/ep41972","time":"2011-10-28T02:11:32.000Z"}]},{"id":9304,"sort":11,"name":"ところが道が曲がってた","sites":[{"site":"bilibili","sort":11,"title":"可是路又曲折了","url":"https://www.bilibili.com/bangumi/play/ep41973","time":"2011-10-28T02:11:32.000Z"}]},{"id":9305,"sort":12,"name":"知らない娘に出会ってた","sites":[{"site":"bilibili","sort":12,"title":"遇上了不认识的女儿","url":"https://www.bilibili.com/bangumi/play/ep41974","time":"2011-10-28T02:11:32.000Z"}]},{"id":9306,"sort":13,"name":"夜が明けたら朝が来た","sites":[{"site":"bilibili","sort":13,"title":"黑夜过了就是黎明","url":"https://www.bilibili.com/bangumi/play/ep41975","time":"2011-10-28T02:11:32.000Z"}]}]}
+{
+ "id": "1547",
+ "name": "十兵衛ちゃん －ラブリー眼帯の秘密－",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1946",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 9294,
+   "sort": 1,
+   "name": "二代目柳生十兵衛誕生",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "第二代柳生十兵卫诞生",
+     "url": "https://www.bilibili.com/bangumi/play/ep41963",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9295,
+   "sort": 2,
+   "name": "汝の敵に惚れていた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "迷上了你的敌人",
+     "url": "https://www.bilibili.com/bangumi/play/ep41964",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9296,
+   "sort": 3,
+   "name": "男心が揺れていた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "男人的心动摇了",
+     "url": "https://www.bilibili.com/bangumi/play/ep41965",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9297,
+   "sort": 4,
+   "name": "後には戻れぬ道だった",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "再来就是不归路了",
+     "url": "https://www.bilibili.com/bangumi/play/ep41966",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9298,
+   "sort": 5,
+   "name": "敵が思い出つれて来た",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "敌人勾起回忆了",
+     "url": "https://www.bilibili.com/bangumi/play/ep41967",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9299,
+   "sort": 6,
+   "name": "昨日の味方が敵だった",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "昨日的友方竟成敌人",
+     "url": "https://www.bilibili.com/bangumi/play/ep41968",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9300,
+   "sort": 7,
+   "name": "知らずに極意を掴んでた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "不知不觉抓到秘诀",
+     "url": "https://www.bilibili.com/bangumi/play/ep41969",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9301,
+   "sort": 8,
+   "name": "頭にこんなの添えていた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "头上添了这玩意儿",
+     "url": "https://www.bilibili.com/bangumi/play/ep41970",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9302,
+   "sort": 9,
+   "name": "恋の予感の父だった",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "有恋爱预感的爸爸",
+     "url": "https://www.bilibili.com/bangumi/play/ep41971",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9303,
+   "sort": 10,
+   "name": "努力のしどころ、ここだった",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "所有的努力就到此了",
+     "url": "https://www.bilibili.com/bangumi/play/ep41972",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9304,
+   "sort": 11,
+   "name": "ところが道が曲がってた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "可是路又曲折了",
+     "url": "https://www.bilibili.com/bangumi/play/ep41973",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9305,
+   "sort": 12,
+   "name": "知らない娘に出会ってた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "遇上了不认识的女儿",
+     "url": "https://www.bilibili.com/bangumi/play/ep41974",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9306,
+   "sort": 13,
+   "name": "夜が明けたら朝が来た",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "黑夜过了就是黎明",
+     "url": "https://www.bilibili.com/bangumi/play/ep41975",
+     "time": "2011-10-28T02:11:32.000Z"
+    }
+   ]
+  }
+ ]
+}

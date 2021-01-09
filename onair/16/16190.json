@@ -1,1 +1,195 @@
-{"id":"16190","name":"火の鳥","sites":[{"site":"bilibili","id":"1903","sort":20}],"eps":[{"id":92752,"sort":1,"name":"黎明編 その一","sites":[{"site":"bilibili","sort":1,"title":"黎明編 之一","url":"https://www.bilibili.com/bangumi/play/ep40845","time":"2011-04-09T17:38:43.000Z"}]},{"id":92753,"sort":2,"name":"黎明編 その二","sites":[{"site":"bilibili","sort":2,"title":"黎明編 之二","url":"https://www.bilibili.com/bangumi/play/ep40846","time":"2011-04-09T17:38:43.000Z"}]},{"id":92754,"sort":3,"name":"黎明編 その三","sites":[{"site":"bilibili","sort":3,"title":"黎明編 之三","url":"https://www.bilibili.com/bangumi/play/ep40847","time":"2011-04-09T17:38:43.000Z"}]},{"id":92755,"sort":4,"name":"黎明編 その四","sites":[{"site":"bilibili","sort":4,"title":"黎明編 之四","url":"https://www.bilibili.com/bangumi/play/ep40848","time":"2011-04-09T17:38:43.000Z"}]},{"id":92756,"sort":5,"name":"復活編 その一","sites":[{"site":"bilibili","sort":5,"title":"复活編 之一","url":"https://www.bilibili.com/bangumi/play/ep40849","time":"2011-04-09T17:38:43.000Z"}]},{"id":92757,"sort":6,"name":"復活編 その二","sites":[{"site":"bilibili","sort":6,"title":"复活編 之二","url":"https://www.bilibili.com/bangumi/play/ep40850","time":"2011-04-09T17:38:43.000Z"}]},{"id":92758,"sort":7,"name":"異形編","sites":[{"site":"bilibili","sort":7,"title":"异形編","url":"https://www.bilibili.com/bangumi/play/ep40851","time":"2011-04-09T17:38:43.000Z"}]},{"id":92759,"sort":8,"name":"太陽編 その一","sites":[{"site":"bilibili","sort":8,"title":"太阳編 之一","url":"https://www.bilibili.com/bangumi/play/ep40852","time":"2011-04-09T17:38:43.000Z"}]},{"id":92760,"sort":9,"name":"太陽編 その二","sites":[{"site":"bilibili","sort":9,"title":"太阳編 之二","url":"https://www.bilibili.com/bangumi/play/ep40853","time":"2011-04-09T17:38:43.000Z"}]},{"id":92761,"sort":10,"name":"太陽編 その三","sites":[{"site":"bilibili","sort":10,"title":"太阳編 之三","url":"https://www.bilibili.com/bangumi/play/ep40854","time":"2011-04-09T17:38:43.000Z"}]},{"id":92762,"sort":11,"name":"太陽編 その四","sites":[{"site":"bilibili","sort":11,"title":"太阳編 之四","url":"https://www.bilibili.com/bangumi/play/ep40855","time":"2011-04-09T17:38:43.000Z"}]},{"id":92763,"sort":12,"name":"未来編 その一","sites":[{"site":"bilibili","sort":12,"title":"未来編 之一","url":"https://www.bilibili.com/bangumi/play/ep40856","time":"2011-04-09T17:38:43.000Z"}]},{"id":92764,"sort":13,"name":"未来編 その二","sites":[{"site":"bilibili","sort":13,"title":"未来編 之二","url":"https://www.bilibili.com/bangumi/play/ep40857","time":"2011-04-09T17:38:43.000Z"}]}]}
+{
+ "id": "16190",
+ "name": "火の鳥",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1903",
+   "sort": 20
+  }
+ ],
+ "eps": [
+  {
+   "id": 92752,
+   "sort": 1,
+   "name": "黎明編 その一",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "黎明編 之一",
+     "url": "https://www.bilibili.com/bangumi/play/ep40845",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92753,
+   "sort": 2,
+   "name": "黎明編 その二",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "黎明編 之二",
+     "url": "https://www.bilibili.com/bangumi/play/ep40846",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92754,
+   "sort": 3,
+   "name": "黎明編 その三",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "黎明編 之三",
+     "url": "https://www.bilibili.com/bangumi/play/ep40847",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92755,
+   "sort": 4,
+   "name": "黎明編 その四",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "黎明編 之四",
+     "url": "https://www.bilibili.com/bangumi/play/ep40848",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92756,
+   "sort": 5,
+   "name": "復活編 その一",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "复活編 之一",
+     "url": "https://www.bilibili.com/bangumi/play/ep40849",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92757,
+   "sort": 6,
+   "name": "復活編 その二",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "复活編 之二",
+     "url": "https://www.bilibili.com/bangumi/play/ep40850",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92758,
+   "sort": 7,
+   "name": "異形編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "异形編",
+     "url": "https://www.bilibili.com/bangumi/play/ep40851",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92759,
+   "sort": 8,
+   "name": "太陽編 その一",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "太阳編 之一",
+     "url": "https://www.bilibili.com/bangumi/play/ep40852",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92760,
+   "sort": 9,
+   "name": "太陽編 その二",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "太阳編 之二",
+     "url": "https://www.bilibili.com/bangumi/play/ep40853",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92761,
+   "sort": 10,
+   "name": "太陽編 その三",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "太阳編 之三",
+     "url": "https://www.bilibili.com/bangumi/play/ep40854",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92762,
+   "sort": 11,
+   "name": "太陽編 その四",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "太阳編 之四",
+     "url": "https://www.bilibili.com/bangumi/play/ep40855",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92763,
+   "sort": 12,
+   "name": "未来編 その一",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "未来編 之一",
+     "url": "https://www.bilibili.com/bangumi/play/ep40856",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92764,
+   "sort": 13,
+   "name": "未来編 その二",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "未来編 之二",
+     "url": "https://www.bilibili.com/bangumi/play/ep40857",
+     "time": "2011-04-09T17:38:43.000Z"
+    }
+   ]
+  }
+ ]
+}

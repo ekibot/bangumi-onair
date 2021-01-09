@@ -1,1 +1,54 @@
-{"id":"54614","name":"名探偵コナン 絶海の探偵","sites":[{"site":"iqiyi","id":"a_19rrh9zual","sort":19},{"site":"qq","id":"b/bu8qr3h1vbia2kd","sort":20},{"site":"bilibili","id":"28228959","sort":2}],"eps":[{"id":348519,"sort":1,"name":"","sites":[{"site":"iqiyi","sort":1,"title":"计时引爆摩天楼","url":"http://www.iqiyi.com/v_19rr95syu8.html","time":"2016-11-08T01:59:50.000Z"},{"site":"qq","sort":1,"title":"名侦探柯南剧场版1997：计时引爆摩天楼","url":"https://v.qq.com/x/cover/bu8qr3h1vbia2kd/e00247rx4hn.html"}]}]}
+{
+ "id": "54614",
+ "name": "名探偵コナン 絶海の探偵",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh9zual",
+   "sort": 19
+  },
+  {
+   "site": "qq",
+   "id": "b/bu8qr3h1vbia2kd",
+   "sort": 20
+  },
+  {
+   "site": "youku",
+   "id": "c69f7426427911e29013",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "28228959",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 348519,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "计时引爆摩天楼",
+     "url": "http://www.iqiyi.com/v_19rr95syu8.html",
+     "time": "2016-11-08T01:59:50.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "名侦探柯南剧场版1997：计时引爆摩天楼",
+     "url": "https://v.qq.com/x/cover/bu8qr3h1vbia2kd/e00247rx4hn.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "绝海的侦探 名侦探柯南剧场版第十七部",
+     "url": "https://v.youku.com/v_show/id_XNjIwMzUwNTg0.html?s=c69f7426427911e29013"
+    }
+   ]
+  }
+ ]
+}

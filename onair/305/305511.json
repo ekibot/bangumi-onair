@@ -1,0 +1,182 @@
+{
+ "id": "305511",
+ "name": "THE GOD OF HIGH SCHOOL ゴッド・オブ・ハイスクール",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "afdc3828a6cd4c36ad5b",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 962352,
+   "sort": 1,
+   "name": "set up/stand up",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "set up stand up",
+     "url": "https://v.youku.com/v_show/id_XNDc0MDIxODUxMg==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  },
+  {
+   "id": 962353,
+   "sort": 2,
+   "name": "renewal/soul",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "renewal soul",
+     "url": "https://v.youku.com/v_show/id_XNDc0OTEyMDY5Mg==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  },
+  {
+   "id": 962354,
+   "sort": 3,
+   "name": "wisdom/kingdom",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "wisdom kingdom",
+     "url": "https://v.youku.com/v_show/id_XNDc1ODkxODkxMg==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  },
+  {
+   "id": 962355,
+   "sort": 4,
+   "name": "marriage/bonds",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "marriage bonds",
+     "url": "https://v.youku.com/v_show/id_XNDc2OTAxODUzMg==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  },
+  {
+   "id": 962356,
+   "sort": 5,
+   "name": "ronde/hound",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "ronde hound",
+     "url": "https://v.youku.com/v_show/id_XNDc3OTY5MTUyOA==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  },
+  {
+   "id": 962357,
+   "sort": 6,
+   "name": "fear/SIX",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "fear six",
+     "url": "https://v.youku.com/v_show/id_XNDc5MDI1MTQ1Mg==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  },
+  {
+   "id": 962358,
+   "sort": 7,
+   "name": "anima/force",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "anima force",
+     "url": "https://v.youku.com/v_show/id_XNDgwMzgwMTYzNg==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  },
+  {
+   "id": 962359,
+   "sort": 8,
+   "name": "close/friend",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "close friend",
+     "url": "https://v.youku.com/v_show/id_XNDgxNDAwODQ2MA==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  },
+  {
+   "id": 962360,
+   "sort": 9,
+   "name": "curse/cornered",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "curse cornered",
+     "url": "https://v.youku.com/v_show/id_XNDgyNzU3NTYwMA==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  },
+  {
+   "id": 962361,
+   "sort": 10,
+   "name": "oath/meaning",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "oath meaning ",
+     "url": "https://v.youku.com/v_show/id_XNDg0MjkyNjQ4OA==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  },
+  {
+   "id": 962362,
+   "sort": 11,
+   "name": "lay/key",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "lay key",
+     "url": "https://v.youku.com/v_show/id_XNDg1NjQ2NDQwMA==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  },
+  {
+   "id": 962363,
+   "sort": 12,
+   "name": "FOX/GOD",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "fox god",
+     "url": "https://v.youku.com/v_show/id_XNDg2ODMyMzM2MA==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  },
+  {
+   "id": 967249,
+   "sort": 13,
+   "name": "GOD/GOD",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 13,
+     "title": "god god",
+     "url": "https://v.youku.com/v_show/id_XNDg4MDUwMTUxNg==.html?s=afdc3828a6cd4c36ad5b"
+    }
+   ]
+  }
+ ]
+}

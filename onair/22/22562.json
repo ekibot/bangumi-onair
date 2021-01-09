@@ -1,1 +1,181 @@
-{"id":"22562","name":"ハヤテのごとく！ CAN'T TAKE MY EYES OFF YOU","sites":[{"site":"bilibili","id":"4341","sort":12}],"eps":[{"id":198023,"sort":1,"name":"第一夜","sites":[{"site":"bilibili","sort":1,"title":"第一夜","url":"https://www.bilibili.com/bangumi/play/ep101611","time":"2017-02-08T06:37:17.000Z"}]},{"id":198024,"sort":2,"name":"第二夜","sites":[{"site":"bilibili","sort":2,"title":"第二夜","url":"https://www.bilibili.com/bangumi/play/ep101612","time":"2017-02-08T06:37:17.000Z"}]},{"id":198025,"sort":3,"name":"第三夜","sites":[{"site":"bilibili","sort":3,"title":"第三夜","url":"https://www.bilibili.com/bangumi/play/ep101613","time":"2017-02-08T06:37:17.000Z"}]},{"id":198026,"sort":4,"name":"第四夜","sites":[{"site":"bilibili","sort":4,"title":"第四夜","url":"https://www.bilibili.com/bangumi/play/ep101614","time":"2017-02-08T06:37:17.000Z"}]},{"id":198027,"sort":5,"name":"第五夜","sites":[{"site":"bilibili","sort":5,"title":"第五夜","url":"https://www.bilibili.com/bangumi/play/ep101615","time":"2017-02-08T06:37:17.000Z"}]},{"id":198028,"sort":6,"name":"第六夜","sites":[{"site":"bilibili","sort":6,"title":"第六夜","url":"https://www.bilibili.com/bangumi/play/ep101616","time":"2017-02-08T06:37:17.000Z"}]},{"id":198029,"sort":7,"name":"第七夜","sites":[{"site":"bilibili","sort":7,"title":"第七夜","url":"https://www.bilibili.com/bangumi/play/ep101617","time":"2017-02-08T06:37:17.000Z"}]},{"id":198030,"sort":8,"name":"第八夜","sites":[{"site":"bilibili","sort":8,"title":"第八夜","url":"https://www.bilibili.com/bangumi/play/ep101618","time":"2017-02-08T06:37:17.000Z"}]},{"id":198031,"sort":9,"name":"第九夜","sites":[{"site":"bilibili","sort":9,"title":"第九夜","url":"https://www.bilibili.com/bangumi/play/ep101619","time":"2017-02-08T06:37:17.000Z"}]},{"id":198032,"sort":10,"name":"第十夜","sites":[{"site":"bilibili","sort":10,"title":"第十夜","url":"https://www.bilibili.com/bangumi/play/ep101620","time":"2017-02-08T06:37:17.000Z"}]},{"id":198033,"sort":11,"name":"第十一夜","sites":[{"site":"bilibili","sort":11,"title":"第十一夜","url":"https://www.bilibili.com/bangumi/play/ep101621","time":"2017-02-08T06:37:17.000Z"}]},{"id":198034,"sort":12,"name":"最終夜","sites":[{"site":"bilibili","sort":12,"title":"最终夜","url":"https://www.bilibili.com/bangumi/play/ep101622","time":"2017-02-08T06:37:17.000Z"}]}]}
+{
+ "id": "22562",
+ "name": "ハヤテのごとく！ CAN'T TAKE MY EYES OFF YOU",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4341",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 198023,
+   "sort": 1,
+   "name": "第一夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "第一夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101611",
+     "time": "2017-02-08T06:37:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198024,
+   "sort": 2,
+   "name": "第二夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "第二夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101612",
+     "time": "2017-02-08T06:37:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198025,
+   "sort": 3,
+   "name": "第三夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "第三夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101613",
+     "time": "2017-02-08T06:37:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198026,
+   "sort": 4,
+   "name": "第四夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "第四夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101614",
+     "time": "2017-02-08T06:37:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198027,
+   "sort": 5,
+   "name": "第五夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "第五夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101615",
+     "time": "2017-02-08T06:37:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198028,
+   "sort": 6,
+   "name": "第六夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "第六夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101616",
+     "time": "2017-02-08T06:37:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198029,
+   "sort": 7,
+   "name": "第七夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "第七夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101617",
+     "time": "2017-02-08T06:37:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198030,
+   "sort": 8,
+   "name": "第八夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "第八夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101618",
+     "time": "2017-02-08T06:37:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198031,
+   "sort": 9,
+   "name": "第九夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "第九夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101619",
+     "time": "2017-02-08T06:37:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198032,
+   "sort": 10,
+   "name": "第十夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "第十夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101620",
+     "time": "2017-02-08T06:37:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198033,
+   "sort": 11,
+   "name": "第十一夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "第十一夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101621",
+     "time": "2017-02-08T06:37:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198034,
+   "sort": 12,
+   "name": "最終夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "最终夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101622",
+     "time": "2017-02-08T06:37:17.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "304827",
+ "name": "天地創造デザイン部",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231844",
+   "sort": 4
+  },
+  {
+   "site": "acfun",
+   "id": "6004593",
+   "week": 5,
+   "time": "0000"
+  }
+ ],
+ "eps": [
+  {
+   "id": 994774,
+   "sort": 1,
+   "name": "案件１",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep373936",
+     "time": "2021-01-07T16:00:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "开播声优特典",
+     "url": "https://www.bilibili.com/bangumi/play/ep377656",
+     "time": "2021-01-07T12:00:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "PV",
+     "url": "https://www.acfun.cn/bangumi/ab6004593_36188_1759350",
+     "time": "2021-01-07T15:59:59.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "案件一",
+     "url": "https://www.acfun.cn/bangumi/ab6004593_36188_1759348",
+     "time": "2021-01-07T16:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

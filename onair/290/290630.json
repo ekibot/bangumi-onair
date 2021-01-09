@@ -1,1 +1,181 @@
-{"id":"290630","name":"新サクラ大戦 the Animation","sites":[{"site":"bilibili","id":"28228269","week":5,"time":"2200","sort":13}],"eps":[{"id":940203,"sort":1,"name":"堂々開幕！新生華撃団","sites":[{"site":"bilibili","sort":1,"title":"震撼开幕 新生华击团","url":"https://www.bilibili.com/bangumi/play/ep317467","time":"2020-04-03T14:00:00.000Z"}]},{"id":940204,"sort":2,"name":"正体不明！謎の怪人現る","sites":[{"site":"bilibili","sort":2,"title":"身份不明 神秘怪人现身","url":"https://www.bilibili.com/bangumi/play/ep317468","time":"2020-04-10T13:59:59.000Z"}]},{"id":940205,"sort":3,"name":"帝都激震！新生莫斯科華撃団","sites":[{"site":"bilibili","sort":3,"title":"帝都剧震 新生莫斯科华击团","url":"https://www.bilibili.com/bangumi/play/ep317469","time":"2020-04-17T14:00:00.000Z"}]},{"id":940206,"sort":4,"name":"友情満開！千年桜","sites":[{"site":"bilibili","sort":4,"title":"友情盛放 千年樱","url":"https://www.bilibili.com/bangumi/play/ep317470","time":"2020-04-24T14:00:00.000Z"}]},{"id":940207,"sort":5,"name":"凸凹探偵！クラーラの秘密を探れ","sites":[{"site":"bilibili","sort":5,"title":"凹凸侦探 刺探克拉拉的秘密","url":"https://www.bilibili.com/bangumi/play/ep317471","time":"2020-05-01T14:00:00.000Z"}]},{"id":940208,"sort":6,"name":"奇々怪々！黒マントの正体","sites":[{"site":"bilibili","sort":6,"title":"奇奇怪怪 黑衣人的真面目","url":"https://www.bilibili.com/bangumi/play/ep317472","time":"2020-05-08T14:00:00.000Z"}]},{"id":940209,"sort":7,"name":"隠密作戦！デートを追え","sites":[{"site":"bilibili","sort":7,"title":"隐密作战 约会大追踪","url":"https://www.bilibili.com/bangumi/play/ep317473","time":"2020-05-15T14:00:00.000Z"}]},{"id":940210,"sort":8,"name":"波乱万丈！華撃団対戦","sites":[{"site":"bilibili","sort":8,"title":"起伏跌宕 华击团对战","url":"https://www.bilibili.com/bangumi/play/ep317474","time":"2020-05-22T14:00:00.000Z"}]},{"id":940211,"sort":9,"name":"驚天動地！クラーラの真実","sites":[{"site":"bilibili","sort":9,"title":"惊天动地 克拉拉的真面目","url":"https://www.bilibili.com/bangumi/play/ep317475","time":"2020-05-29T14:00:00.000Z"}]},{"id":940212,"sort":10,"name":"帝都壊滅？ツングースカの怒り","sites":[{"site":"bilibili","sort":10,"title":"帝都毁灭 通古斯之怒","url":"https://www.bilibili.com/bangumi/play/ep317476","time":"2020-06-05T14:00:00.000Z"}]},{"id":940213,"sort":11,"name":"悲恋幻想！レイラの想い","sites":[{"site":"bilibili","sort":11,"title":"悲恋幻想 蕾拉的心意","url":"https://www.bilibili.com/bangumi/play/ep317477","time":"2020-06-12T14:00:00.000Z"}]},{"id":940214,"sort":12,"name":"大団円！明日への希望","sites":[{"site":"bilibili","sort":12,"title":"大团圆 未来的希望","url":"https://www.bilibili.com/bangumi/play/ep317478","time":"2020-06-19T14:00:00.000Z"}]}]}
+{
+ "id": "290630",
+ "name": "新サクラ大戦 the Animation",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28228269",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 940203,
+   "sort": 1,
+   "name": "堂々開幕！新生華撃団",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "震撼开幕 新生华击团",
+     "url": "https://www.bilibili.com/bangumi/play/ep317467",
+     "time": "2020-04-03T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 940204,
+   "sort": 2,
+   "name": "正体不明！謎の怪人現る",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "身份不明 神秘怪人现身",
+     "url": "https://www.bilibili.com/bangumi/play/ep317468",
+     "time": "2020-04-10T13:59:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 940205,
+   "sort": 3,
+   "name": "帝都激震！新生莫斯科華撃団",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "帝都剧震 新生莫斯科华击团",
+     "url": "https://www.bilibili.com/bangumi/play/ep317469",
+     "time": "2020-04-17T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 940206,
+   "sort": 4,
+   "name": "友情満開！千年桜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "友情盛放 千年樱",
+     "url": "https://www.bilibili.com/bangumi/play/ep317470",
+     "time": "2020-04-24T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 940207,
+   "sort": 5,
+   "name": "凸凹探偵！クラーラの秘密を探れ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "凹凸侦探 刺探克拉拉的秘密",
+     "url": "https://www.bilibili.com/bangumi/play/ep317471",
+     "time": "2020-05-01T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 940208,
+   "sort": 6,
+   "name": "奇々怪々！黒マントの正体",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "奇奇怪怪 黑衣人的真面目",
+     "url": "https://www.bilibili.com/bangumi/play/ep317472",
+     "time": "2020-05-08T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 940209,
+   "sort": 7,
+   "name": "隠密作戦！デートを追え",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "隐密作战 约会大追踪",
+     "url": "https://www.bilibili.com/bangumi/play/ep317473",
+     "time": "2020-05-15T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 940210,
+   "sort": 8,
+   "name": "波乱万丈！華撃団対戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "起伏跌宕 华击团对战",
+     "url": "https://www.bilibili.com/bangumi/play/ep317474",
+     "time": "2020-05-22T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 940211,
+   "sort": 9,
+   "name": "驚天動地！クラーラの真実",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "惊天动地 克拉拉的真面目",
+     "url": "https://www.bilibili.com/bangumi/play/ep317475",
+     "time": "2020-05-29T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 940212,
+   "sort": 10,
+   "name": "帝都壊滅？ツングースカの怒り",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "帝都毁灭 通古斯之怒",
+     "url": "https://www.bilibili.com/bangumi/play/ep317476",
+     "time": "2020-06-05T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 940213,
+   "sort": 11,
+   "name": "悲恋幻想！レイラの想い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "悲恋幻想 蕾拉的心意",
+     "url": "https://www.bilibili.com/bangumi/play/ep317477",
+     "time": "2020-06-12T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 940214,
+   "sort": 12,
+   "name": "大団円！明日への希望",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "大团圆 未来的希望",
+     "url": "https://www.bilibili.com/bangumi/play/ep317478",
+     "time": "2020-06-19T14:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,284 @@
-{"id":"279457","name":"ソードアート・オンライン アリシゼーション War of Underworld","sites":[{"site":"bilibili","id":"28222723","sort":15},{"site":"iqiyi","id":"a_19rrhzrr7d","sort":12}],"eps":[{"id":906496,"sort":0,"name":"リフレクション","sites":[{"site":"bilibili","sort":0,"title":"Reflection","url":"https://www.bilibili.com/bangumi/play/ep285937","time":"2019-10-05T16:30:00.000Z"}]},{"id":905519,"sort":1,"name":"北の地にて","sites":[{"site":"bilibili","sort":1,"title":"在北方的土地上","url":"https://www.bilibili.com/bangumi/play/ep285938","time":"2019-10-12T16:30:00.000Z"},{"site":"iqiyi","sort":1,"title":"在北方的土地上","url":"http://www.iqiyi.com/v_19rtvm0gsg.html","time":"2019-10-12T16:30:07.000Z"}]},{"id":905520,"sort":2,"name":"襲撃","sites":[{"site":"bilibili","sort":2,"title":"袭击","url":"https://www.bilibili.com/bangumi/play/ep285939","time":"2019-10-19T16:30:00.000Z"},{"site":"iqiyi","sort":2,"title":"袭击","url":"http://www.iqiyi.com/v_19rvg52tlw.html","time":"2019-10-19T16:25:06.000Z"}]},{"id":905521,"sort":3,"name":"最終負荷実験","sites":[{"site":"bilibili","sort":3,"title":"最终负荷实验","url":"https://www.bilibili.com/bangumi/play/ep285940","time":"2019-10-26T16:30:00.000Z"},{"site":"iqiyi","sort":3,"title":"最终负荷试验","url":"http://www.iqiyi.com/v_19rvfwql34.html","time":"2019-10-26T16:30:05.000Z"}]},{"id":905522,"sort":4,"name":"ダークテリトリー","sites":[{"site":"bilibili","sort":4,"title":"暗黑帝国","url":"https://www.bilibili.com/bangumi/play/ep285941","time":"2019-11-02T16:30:00.000Z"},{"site":"iqiyi","sort":4,"title":"暗黑帝国","url":"http://www.iqiyi.com/v_19rviz93lg.html","time":"2019-11-02T16:25:05.000Z"}]},{"id":905523,"sort":5,"name":"開戦前夜","sites":[{"site":"bilibili","sort":5,"title":"开战前夜","url":"https://www.bilibili.com/bangumi/play/ep285942","time":"2019-11-09T16:30:00.000Z"},{"site":"iqiyi","sort":5,"title":"开战前夜","url":"http://www.iqiyi.com/v_19rv876x9k.html","time":"2019-11-09T16:25:07.000Z"}]},{"id":905524,"sort":6,"name":"騎士たちの戦い","sites":[{"site":"bilibili","sort":6,"title":"骑士们的战斗","url":"https://www.bilibili.com/bangumi/play/ep285943","time":"2019-11-16T16:30:00.000Z"},{"site":"iqiyi","sort":6,"title":"骑士们的战斗","url":"http://www.iqiyi.com/v_19rv6vnc2c.html","time":"2019-11-16T16:25:05.000Z"}]},{"id":905525,"sort":7,"name":"失格者の烙印","sites":[{"site":"bilibili","sort":7,"title":"失格者的烙印","url":"https://www.bilibili.com/bangumi/play/ep285944","time":"2019-11-23T16:30:00.000Z"},{"site":"iqiyi","sort":7,"title":"失格者的烙印","url":"http://www.iqiyi.com/v_19rvasnkfk.html","time":"2019-11-23T16:25:05.000Z"}]},{"id":905526,"sort":8,"name":"血と命","sites":[{"site":"bilibili","sort":8,"title":"血和命","url":"https://www.bilibili.com/bangumi/play/ep285945","time":"2019-11-30T16:30:00.000Z"},{"site":"iqiyi","sort":8,"title":"血与命","url":"http://www.iqiyi.com/v_19rux4hjrw.html","time":"2019-11-30T16:25:12.000Z"}]},{"id":905527,"sort":9,"name":"剣と拳","sites":[{"site":"bilibili","sort":9,"title":"剑与拳","url":"https://www.bilibili.com/bangumi/play/ep285946","time":"2019-12-07T16:30:00.000Z"},{"site":"iqiyi","sort":9,"title":"剑与拳","url":"http://www.iqiyi.com/v_19rv1sj1qk.html","time":"2019-12-07T16:30:06.000Z"}]},{"id":905528,"sort":10,"name":"創世神ステイシア","sites":[{"site":"bilibili","sort":10,"title":"创世神史提西亚","url":"https://www.bilibili.com/bangumi/play/ep285947","time":"2019-12-14T16:30:00.000Z"},{"site":"iqiyi","sort":10,"title":"创世神史提西亚","url":"http://www.iqiyi.com/v_19runqdexs.html","time":"2019-12-14T16:25:04.000Z"}]},{"id":905529,"sort":11,"name":"非情の選択","sites":[{"site":"bilibili","sort":11,"title":"无情的选择","url":"https://www.bilibili.com/bangumi/play/ep285948","time":"2019-12-21T16:30:00.000Z"},{"site":"iqiyi","sort":11,"title":"无情的选择","url":"http://www.iqiyi.com/v_19ruvoaet8.html","time":"2019-12-21T16:25:06.000Z"}]},{"id":905530,"sort":12,"name":"一筋の光","sites":[{"site":"bilibili","sort":12,"title":"一束光","url":"https://www.bilibili.com/bangumi/play/ep299983","time":"2019-12-28T16:30:00.000Z"},{"site":"iqiyi","sort":12,"title":"一束光","url":"http://www.iqiyi.com/v_19rwhntm78.html","time":"2019-12-28T16:25:05.000Z"}]}]}
+{
+ "id": "279457",
+ "name": "ソードアート・オンライン アリシゼーション War of Underworld",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28222723",
+   "sort": 15
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhzrr7d",
+   "sort": 23
+  }
+ ],
+ "eps": [
+  {
+   "id": 906496,
+   "sort": 0,
+   "name": "リフレクション",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 0,
+     "title": "Reflection",
+     "url": "https://www.bilibili.com/bangumi/play/ep285937",
+     "time": "2019-10-05T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905519,
+   "sort": 1,
+   "name": "北の地にて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "在北方的土地上",
+     "url": "https://www.bilibili.com/bangumi/play/ep285938",
+     "time": "2019-10-12T16:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "在北方的土地上",
+     "url": "http://www.iqiyi.com/v_19rtvm0gsg.html",
+     "time": "2019-10-12T16:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905520,
+   "sort": 2,
+   "name": "襲撃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "袭击",
+     "url": "https://www.bilibili.com/bangumi/play/ep285939",
+     "time": "2019-10-19T16:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "袭击",
+     "url": "http://www.iqiyi.com/v_19rvg52tlw.html",
+     "time": "2019-10-19T16:25:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905521,
+   "sort": 3,
+   "name": "最終負荷実験",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "最终负荷实验",
+     "url": "https://www.bilibili.com/bangumi/play/ep285940",
+     "time": "2019-10-26T16:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "最终负荷试验",
+     "url": "http://www.iqiyi.com/v_19rvfwql34.html",
+     "time": "2019-10-26T16:30:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905522,
+   "sort": 4,
+   "name": "ダークテリトリー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "暗黑帝国",
+     "url": "https://www.bilibili.com/bangumi/play/ep285941",
+     "time": "2019-11-02T16:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "暗黑帝国",
+     "url": "http://www.iqiyi.com/v_19rviz93lg.html",
+     "time": "2019-11-02T16:25:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905523,
+   "sort": 5,
+   "name": "開戦前夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "开战前夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep285942",
+     "time": "2019-11-09T16:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "开战前夜",
+     "url": "http://www.iqiyi.com/v_19rv876x9k.html",
+     "time": "2019-11-09T16:25:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905524,
+   "sort": 6,
+   "name": "騎士たちの戦い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "骑士们的战斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep285943",
+     "time": "2019-11-16T16:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "骑士们的战斗",
+     "url": "http://www.iqiyi.com/v_19rv6vnc2c.html",
+     "time": "2019-11-16T16:25:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905525,
+   "sort": 7,
+   "name": "失格者の烙印",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "失格者的烙印",
+     "url": "https://www.bilibili.com/bangumi/play/ep285944",
+     "time": "2019-11-23T16:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "失格者的烙印",
+     "url": "http://www.iqiyi.com/v_19rvasnkfk.html",
+     "time": "2019-11-23T16:25:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905526,
+   "sort": 8,
+   "name": "血と命",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "血和命",
+     "url": "https://www.bilibili.com/bangumi/play/ep285945",
+     "time": "2019-11-30T16:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "血与命",
+     "url": "http://www.iqiyi.com/v_19rux4hjrw.html",
+     "time": "2019-11-30T16:25:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905527,
+   "sort": 9,
+   "name": "剣と拳",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "剑与拳",
+     "url": "https://www.bilibili.com/bangumi/play/ep285946",
+     "time": "2019-12-07T16:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "剑与拳",
+     "url": "http://www.iqiyi.com/v_19rv1sj1qk.html",
+     "time": "2019-12-07T16:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905528,
+   "sort": 10,
+   "name": "創世神ステイシア",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "创世神史提西亚",
+     "url": "https://www.bilibili.com/bangumi/play/ep285947",
+     "time": "2019-12-14T16:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "创世神史提西亚",
+     "url": "http://www.iqiyi.com/v_19runqdexs.html",
+     "time": "2019-12-14T16:25:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905529,
+   "sort": 11,
+   "name": "非情の選択",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "无情的选择",
+     "url": "https://www.bilibili.com/bangumi/play/ep285948",
+     "time": "2019-12-21T16:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "无情的选择",
+     "url": "http://www.iqiyi.com/v_19ruvoaet8.html",
+     "time": "2019-12-21T16:25:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905530,
+   "sort": 12,
+   "name": "一筋の光",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "一束光",
+     "url": "https://www.bilibili.com/bangumi/play/ep299983",
+     "time": "2019-12-28T16:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "一束光",
+     "url": "http://www.iqiyi.com/v_19rwhntm78.html",
+     "time": "2019-12-28T16:25:05.000Z"
+    }
+   ]
+  }
+ ]
+}

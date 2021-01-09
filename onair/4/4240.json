@@ -1,1 +1,195 @@
-{"id":"4240","name":"Gift ～ギフト～ eternal rainbow","sites":[{"site":"bilibili","id":"1423","sort":13}],"eps":[{"id":31144,"sort":1,"name":"虹が宿る街","sites":[{"site":"bilibili","sort":1,"title":"彩虹之城","url":"https://www.bilibili.com/bangumi/play/ep26639","time":"2011-04-07T10:18:58.000Z"}]},{"id":31145,"sort":2,"name":"帰ってきた妹","sites":[{"site":"bilibili","sort":2,"title":"妹妹回来了","url":"https://www.bilibili.com/bangumi/play/ep26640","time":"2011-04-07T10:18:58.000Z"}]},{"id":31146,"sort":3,"name":"初恋の人","sites":[{"site":"bilibili","sort":3,"title":"初恋之人","url":"https://www.bilibili.com/bangumi/play/ep26641","time":"2011-04-07T10:18:58.000Z"}]},{"id":31147,"sort":4,"name":"すれ違う夏","sites":[{"site":"bilibili","sort":4,"title":"擦肩而过的夏天","url":"https://www.bilibili.com/bangumi/play/ep26642","time":"2011-04-07T10:18:58.000Z"}]},{"id":31148,"sort":5,"name":"閉ざされた場所で","sites":[{"site":"bilibili","sort":5,"title":"被封闭的地方","url":"https://www.bilibili.com/bangumi/play/ep26643","time":"2011-04-07T10:18:58.000Z"}]},{"id":31149,"sort":6,"name":"面影","sites":[{"site":"bilibili","sort":6,"title":"面容","url":"https://www.bilibili.com/bangumi/play/ep26644","time":"2011-04-07T10:18:58.000Z"}]},{"id":31150,"sort":7,"name":"幸せの意味","sites":[{"site":"bilibili","sort":7,"title":"幸福的含义","url":"https://www.bilibili.com/bangumi/play/ep26645","time":"2011-04-07T10:18:58.000Z"}]},{"id":31151,"sort":8,"name":"思い出の時間","sites":[{"site":"bilibili","sort":8,"title":"回忆的时间","url":"https://www.bilibili.com/bangumi/play/ep26646","time":"2011-04-07T10:18:58.000Z"}]},{"id":31152,"sort":9,"name":"つながる心、途切れた想い","sites":[{"site":"bilibili","sort":9,"title":"相连的心、中断的情","url":"https://www.bilibili.com/bangumi/play/ep26647","time":"2011-04-07T10:18:58.000Z"}]},{"id":31153,"sort":10,"name":"奪われた過去","sites":[{"site":"bilibili","sort":10,"title":"被夺走的过去","url":"https://www.bilibili.com/bangumi/play/ep26648","time":"2011-04-07T10:18:58.000Z"}]},{"id":31154,"sort":11,"name":"Giftの秘密","sites":[{"site":"bilibili","sort":11,"title":"Gift的秘密","url":"https://www.bilibili.com/bangumi/play/ep26649","time":"2011-04-07T10:18:58.000Z"}]},{"id":31155,"sort":12,"name":"永遠の虹","sites":[{"site":"bilibili","sort":12,"title":"永不消逝的彩虹","url":"https://www.bilibili.com/bangumi/play/ep26650","time":"2011-04-07T10:18:58.000Z"}]},{"id":41632,"sort":13,"name":"木之坂旅館 危機一髪！！","sites":[{"site":"bilibili","sort":13,"title":"木之板旅馆 千钧一发","url":"https://www.bilibili.com/bangumi/play/ep26651","time":"2011-04-07T10:18:58.000Z"}]}]}
+{
+ "id": "4240",
+ "name": "Gift ～ギフト～ eternal rainbow",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1423",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 31144,
+   "sort": 1,
+   "name": "虹が宿る街",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "彩虹之城",
+     "url": "https://www.bilibili.com/bangumi/play/ep26639",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 31145,
+   "sort": 2,
+   "name": "帰ってきた妹",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "妹妹回来了",
+     "url": "https://www.bilibili.com/bangumi/play/ep26640",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 31146,
+   "sort": 3,
+   "name": "初恋の人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "初恋之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep26641",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 31147,
+   "sort": 4,
+   "name": "すれ違う夏",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "擦肩而过的夏天",
+     "url": "https://www.bilibili.com/bangumi/play/ep26642",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 31148,
+   "sort": 5,
+   "name": "閉ざされた場所で",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "被封闭的地方",
+     "url": "https://www.bilibili.com/bangumi/play/ep26643",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 31149,
+   "sort": 6,
+   "name": "面影",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "面容",
+     "url": "https://www.bilibili.com/bangumi/play/ep26644",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 31150,
+   "sort": 7,
+   "name": "幸せの意味",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "幸福的含义",
+     "url": "https://www.bilibili.com/bangumi/play/ep26645",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 31151,
+   "sort": 8,
+   "name": "思い出の時間",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "回忆的时间",
+     "url": "https://www.bilibili.com/bangumi/play/ep26646",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 31152,
+   "sort": 9,
+   "name": "つながる心、途切れた想い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "相连的心、中断的情",
+     "url": "https://www.bilibili.com/bangumi/play/ep26647",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 31153,
+   "sort": 10,
+   "name": "奪われた過去",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "被夺走的过去",
+     "url": "https://www.bilibili.com/bangumi/play/ep26648",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 31154,
+   "sort": 11,
+   "name": "Giftの秘密",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "Gift的秘密",
+     "url": "https://www.bilibili.com/bangumi/play/ep26649",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 31155,
+   "sort": 12,
+   "name": "永遠の虹",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "永不消逝的彩虹",
+     "url": "https://www.bilibili.com/bangumi/play/ep26650",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 41632,
+   "sort": 13,
+   "name": "木之坂旅館 危機一髪！！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "木之板旅馆 千钧一发",
+     "url": "https://www.bilibili.com/bangumi/play/ep26651",
+     "time": "2011-04-07T10:18:58.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,195 @@
-{"id":"4015","name":"ダイバージェンス・イヴ","sites":[{"site":"bilibili","id":"5146","sort":13}],"eps":[{"id":28905,"sort":1,"name":"Mission2","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91751","time":"2016-07-08T08:43:00.000Z"}]},{"id":28906,"sort":2,"name":"量子障壁","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91752","time":"2016-07-08T08:43:00.000Z"}]},{"id":28907,"sort":3,"name":"死体兵","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91753","time":"2016-07-08T08:43:00.000Z"}]},{"id":28908,"sort":4,"name":"スペキュラー","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91754","time":"2016-07-08T08:43:00.000Z"}]},{"id":28909,"sort":5,"name":"セラフィム","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91755","time":"2016-07-08T08:43:00.000Z"}]},{"id":28910,"sort":6,"name":"ウォッチャーズ・ネスト","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91756","time":"2016-07-08T08:43:00.000Z"}]},{"id":28911,"sort":7,"name":"量子コア","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91757","time":"2016-07-08T08:43:00.000Z"}]},{"id":28912,"sort":8,"name":"アルケミー","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91758","time":"2016-07-08T08:43:00.000Z"}]},{"id":28913,"sort":9,"name":"ケルビムの惨劇","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91759","time":"2016-07-08T08:43:00.000Z"}]},{"id":28914,"sort":10,"name":"変容体","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91760","time":"2016-07-08T08:43:00.000Z"}]},{"id":28915,"sort":11,"name":"デザイナーズ・チルドレン","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91761","time":"2016-07-08T08:43:00.000Z"}]},{"id":28916,"sort":12,"name":"Mission1","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91762","time":"2016-07-08T08:43:00.000Z"}]},{"id":28917,"sort":13,"name":"Mission3","sites":[{"site":"bilibili","sort":13,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91763","time":"2016-07-08T08:43:00.000Z"}]}]}
+{
+ "id": "4015",
+ "name": "ダイバージェンス・イヴ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5146",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 28905,
+   "sort": 1,
+   "name": "Mission2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91751",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28906,
+   "sort": 2,
+   "name": "量子障壁",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91752",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28907,
+   "sort": 3,
+   "name": "死体兵",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91753",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28908,
+   "sort": 4,
+   "name": "スペキュラー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91754",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28909,
+   "sort": 5,
+   "name": "セラフィム",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91755",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28910,
+   "sort": 6,
+   "name": "ウォッチャーズ・ネスト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91756",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28911,
+   "sort": 7,
+   "name": "量子コア",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91757",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28912,
+   "sort": 8,
+   "name": "アルケミー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91758",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28913,
+   "sort": 9,
+   "name": "ケルビムの惨劇",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91759",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28914,
+   "sort": 10,
+   "name": "変容体",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91760",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28915,
+   "sort": 11,
+   "name": "デザイナーズ・チルドレン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91761",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28916,
+   "sort": 12,
+   "name": "Mission1",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91762",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28917,
+   "sort": 13,
+   "name": "Mission3",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91763",
+     "time": "2016-07-08T08:43:00.000Z"
+    }
+   ]
+  }
+ ]
+}

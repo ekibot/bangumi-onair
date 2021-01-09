@@ -1,1 +1,27 @@
-{"id":"116289","name":"大ちゃん、だいすき","sites":[{"site":"bilibili","id":"5432","sort":1}],"eps":[{"id":443055,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep94741","time":"2016-08-08T02:22:15.000Z"}]}]}
+{
+ "id": "116289",
+ "name": "大ちゃん、だいすき",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5432",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 443055,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep94741",
+     "time": "2016-08-08T02:22:15.000Z"
+    }
+   ]
+  }
+ ]
+}

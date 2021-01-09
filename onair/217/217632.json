@@ -1,1 +1,347 @@
-{"id":"217632","name":"食戟のソーマ 餐ノ皿","sites":[{"site":"iqiyi","id":"a_19rrhcadk5","sort":24},{"site":"bilibili","id":"28230229","sort":24}],"eps":[{"id":752202,"sort":1,"name":"十傑に挑む","sites":[{"site":"iqiyi","sort":1,"title":"挑战十杰","url":"http://www.iqiyi.com/v_19rrdzhl4s.html","time":"2017-10-03T16:25:05.000Z"},{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep342461","time":"2020-10-01T13:00:01.000Z"}]},{"id":752203,"sort":2,"name":"麻と辣","sites":[{"site":"iqiyi","sort":2,"title":"麻与辣","url":"http://www.iqiyi.com/v_19rrdwif8g.html","time":"2017-10-10T16:25:05.000Z"},{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep342462","time":"2020-10-01T13:00:01.000Z"}]},{"id":752204,"sort":3,"name":"月饗祭","sites":[{"site":"iqiyi","sort":3,"title":"月飨祭","url":"http://www.iqiyi.com/v_19rre3fw7g.html","time":"2017-10-17T16:25:09.000Z"},{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep342463","time":"2020-10-01T13:00:01.000Z"}]},{"id":752205,"sort":4,"name":"若き獅子たちの群れ","sites":[{"site":"iqiyi","sort":4,"title":"少狮群聚","url":"http://www.iqiyi.com/v_19rre1637w.html","time":"2017-10-24T16:25:06.000Z"},{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep342464","time":"2020-10-01T13:00:01.000Z"}]},{"id":752206,"sort":5,"name":"翳りゆく食卓","sites":[{"site":"iqiyi","sort":5,"title":"被阴影笼罩的餐桌","url":"http://www.iqiyi.com/v_19rrdowtzs.html","time":"2017-10-31T16:25:06.000Z"},{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep342465","time":"2020-10-01T13:00:01.000Z"}]},{"id":752207,"sort":6,"name":"囚われの女王","sites":[{"site":"iqiyi","sort":6,"title":"被囚禁的女王","url":"http://www.iqiyi.com/v_19rrdu6qzw.html","time":"2017-11-07T16:25:05.000Z"},{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep342466","time":"2020-10-01T13:00:01.000Z"}]},{"id":752208,"sort":7,"name":"崩れゆく学園","sites":[{"site":"iqiyi","sort":7,"title":"逐渐崩坏的学园","url":"http://www.iqiyi.com/v_19rrdqu72g.html","time":"2017-11-14T16:25:08.000Z"},{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep342467","time":"2020-10-01T13:00:01.000Z"}]},{"id":752209,"sort":8,"name":"錬金術師(アルキミスタ)","sites":[{"site":"iqiyi","sort":8,"title":"炼金术士","url":"http://www.iqiyi.com/v_19rregdy0c.html","time":"2017-11-21T16:25:06.000Z"},{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep342468","time":"2020-10-01T13:00:01.000Z"}]},{"id":752210,"sort":9,"name":"残党狩り","sites":[{"site":"iqiyi","sort":9,"title":"狩猎残党","url":"http://www.iqiyi.com/v_19rrelyr7c.html","time":"2017-11-28T16:25:06.000Z"},{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep342469","time":"2020-10-01T13:00:01.000Z"}]},{"id":752211,"sort":10,"name":"鮭は踊る","sites":[{"site":"iqiyi","sort":10,"title":"跃动的鲑鱼","url":"http://www.iqiyi.com/v_19rre6kp00.html","time":"2017-12-05T16:25:07.000Z"},{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep342470","time":"2020-10-01T13:00:01.000Z"}]},{"id":752212,"sort":11,"name":"食卓の白騎士","sites":[{"site":"iqiyi","sort":11,"title":"餐桌的白骑士","url":"http://www.iqiyi.com/v_19rrec9kfo.html","time":"2017-12-12T16:25:06.000Z"},{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep342471","time":"2020-10-01T13:00:01.000Z"}]},{"id":752213,"sort":12,"name":"頂を目指す者","sites":[{"site":"iqiyi","sort":12,"title":"向顶峰攀登之人","url":"http://www.iqiyi.com/v_19rrf1w68g.html","time":"2017-12-19T16:25:06.000Z"},{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep342472","time":"2020-10-01T13:00:01.000Z"}]}]}
+{
+ "id": "217632",
+ "name": "食戟のソーマ 餐ノ皿",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhcadk5",
+   "sort": 24
+  },
+  {
+   "site": "bilibili",
+   "id": "28230229",
+   "sort": 24
+  },
+  {
+   "site": "youku",
+   "id": "efbfbd4fefbfbd61efbf",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 752202,
+   "sort": 1,
+   "name": "十傑に挑む",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "挑战十杰",
+     "url": "http://www.iqiyi.com/v_19rrdzhl4s.html",
+     "time": "2017-10-03T16:25:05.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "挑战十杰",
+     "url": "https://www.bilibili.com/bangumi/play/ep342461",
+     "time": "2020-10-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 挑战十杰",
+     "url": "https://v.youku.com/v_show/id_XMzA3NTcxMzMwNA==.html?s=efbfbd4fefbfbd61efbf"
+    }
+   ]
+  },
+  {
+   "id": 752203,
+   "sort": 2,
+   "name": "麻と辣",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "麻与辣",
+     "url": "http://www.iqiyi.com/v_19rrdwif8g.html",
+     "time": "2017-10-10T16:25:05.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "麻与辣",
+     "url": "https://www.bilibili.com/bangumi/play/ep342462",
+     "time": "2020-10-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 麻与辣",
+     "url": "https://v.youku.com/v_show/id_XMzA3OTk2MTU3Mg==.html?s=efbfbd4fefbfbd61efbf"
+    }
+   ]
+  },
+  {
+   "id": 752204,
+   "sort": 3,
+   "name": "月饗祭",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "月飨祭",
+     "url": "http://www.iqiyi.com/v_19rre3fw7g.html",
+     "time": "2017-10-17T16:25:09.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "月飨祭",
+     "url": "https://www.bilibili.com/bangumi/play/ep342463",
+     "time": "2020-10-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 月飨祭",
+     "url": "https://v.youku.com/v_show/id_XMzA5NzQ5MzY5Ng==.html?s=efbfbd4fefbfbd61efbf"
+    }
+   ]
+  },
+  {
+   "id": 752205,
+   "sort": 4,
+   "name": "若き獅子たちの群れ",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "少狮群聚",
+     "url": "http://www.iqiyi.com/v_19rre1637w.html",
+     "time": "2017-10-24T16:25:06.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "少狮云集",
+     "url": "https://www.bilibili.com/bangumi/play/ep342464",
+     "time": "2020-10-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 群狮齐聚",
+     "url": "https://v.youku.com/v_show/id_XMzExMTMxMDQyMA==.html?s=efbfbd4fefbfbd61efbf"
+    }
+   ]
+  },
+  {
+   "id": 752206,
+   "sort": 5,
+   "name": "翳りゆく食卓",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "被阴影笼罩的餐桌",
+     "url": "http://www.iqiyi.com/v_19rrdowtzs.html",
+     "time": "2017-10-31T16:25:06.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "阴影笼罩的餐桌",
+     "url": "https://www.bilibili.com/bangumi/play/ep342465",
+     "time": "2020-10-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 阴影笼罩的餐桌",
+     "url": "https://v.youku.com/v_show/id_XMzEyODMyMDc1Ng==.html?s=efbfbd4fefbfbd61efbf"
+    }
+   ]
+  },
+  {
+   "id": 752207,
+   "sort": 6,
+   "name": "囚われの女王",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "被囚禁的女王",
+     "url": "http://www.iqiyi.com/v_19rrdu6qzw.html",
+     "time": "2017-11-07T16:25:05.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "被囚禁的女王",
+     "url": "https://www.bilibili.com/bangumi/play/ep342466",
+     "time": "2020-10-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 被囚禁的女王",
+     "url": "https://v.youku.com/v_show/id_XMzE0Nzk3MzI1Ng==.html?s=efbfbd4fefbfbd61efbf"
+    }
+   ]
+  },
+  {
+   "id": 752208,
+   "sort": 7,
+   "name": "崩れゆく学園",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "逐渐崩坏的学园",
+     "url": "http://www.iqiyi.com/v_19rrdqu72g.html",
+     "time": "2017-11-14T16:25:08.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "逐渐崩溃的学园",
+     "url": "https://www.bilibili.com/bangumi/play/ep342467",
+     "time": "2020-10-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 学园崩析",
+     "url": "https://v.youku.com/v_show/id_XMzE2MDkxMDMzNg==.html?s=efbfbd4fefbfbd61efbf"
+    }
+   ]
+  },
+  {
+   "id": 752209,
+   "sort": 8,
+   "name": "錬金術師(アルキミスタ)",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "炼金术士",
+     "url": "http://www.iqiyi.com/v_19rregdy0c.html",
+     "time": "2017-11-21T16:25:06.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "炼金术师",
+     "url": "https://www.bilibili.com/bangumi/play/ep342468",
+     "time": "2020-10-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 炼金术师",
+     "url": "https://v.youku.com/v_show/id_XMzE4MTA1Njk5Mg==.html?s=efbfbd4fefbfbd61efbf"
+    }
+   ]
+  },
+  {
+   "id": 752210,
+   "sort": 9,
+   "name": "残党狩り",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "狩猎残党",
+     "url": "http://www.iqiyi.com/v_19rrelyr7c.html",
+     "time": "2017-11-28T16:25:06.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "狩猎残党",
+     "url": "https://www.bilibili.com/bangumi/play/ep342469",
+     "time": "2020-10-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 清理余党",
+     "url": "https://v.youku.com/v_show/id_XMzE5NzA1NTM0NA==.html?s=efbfbd4fefbfbd61efbf"
+    }
+   ]
+  },
+  {
+   "id": 752211,
+   "sort": 10,
+   "name": "鮭は踊る",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "跃动的鲑鱼",
+     "url": "http://www.iqiyi.com/v_19rre6kp00.html",
+     "time": "2017-12-05T16:25:07.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "跃动的鲑鱼",
+     "url": "https://www.bilibili.com/bangumi/play/ep342470",
+     "time": "2020-10-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 鲑鱼的舞宴",
+     "url": "https://v.youku.com/v_show/id_XMzIxMTY5MTI3Mg==.html?s=efbfbd4fefbfbd61efbf"
+    }
+   ]
+  },
+  {
+   "id": 752212,
+   "sort": 11,
+   "name": "食卓の白騎士",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "餐桌的白骑士",
+     "url": "http://www.iqiyi.com/v_19rrec9kfo.html",
+     "time": "2017-12-12T16:25:06.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "餐桌的白骑士",
+     "url": "https://www.bilibili.com/bangumi/play/ep342471",
+     "time": "2020-10-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 餐桌上的白骑士",
+     "url": "https://v.youku.com/v_show/id_XMzIzMzQxMTgyMA==.html?s=efbfbd4fefbfbd61efbf"
+    }
+   ]
+  },
+  {
+   "id": 752213,
+   "sort": 12,
+   "name": "頂を目指す者",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "向顶峰攀登之人",
+     "url": "http://www.iqiyi.com/v_19rrf1w68g.html",
+     "time": "2017-12-19T16:25:06.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "向顶峰攀登之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep342472",
+     "time": "2020-10-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 挑战巅峰之人",
+     "url": "https://v.youku.com/v_show/id_XMzI1MzA1NDgyNA==.html?s=efbfbd4fefbfbd61efbf"
+    }
+   ]
+  }
+ ]
+}

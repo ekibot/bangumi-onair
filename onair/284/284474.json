@@ -1,1 +1,27 @@
-{"id":"284474","name":"サンタ・カンパニー ～クリスマスの秘密～","sites":[{"site":"bilibili","id":"28228384","sort":1}],"eps":[{"id":917290,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"全片","url":"https://www.bilibili.com/bangumi/play/ep316711","time":"2020-03-20T10:56:00.000Z"}]}]}
+{
+ "id": "284474",
+ "name": "サンタ・カンパニー ～クリスマスの秘密～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28228384",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 917290,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "全片",
+     "url": "https://www.bilibili.com/bangumi/play/ep316711",
+     "time": "2020-03-20T10:56:00.000Z"
+    }
+   ]
+  }
+ ]
+}

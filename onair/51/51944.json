@@ -1,1 +1,55 @@
-{"id":"51944","name":"堀さんと宮村くん","sites":[{"site":"bilibili","id":"4333","sort":3}],"eps":[{"id":204158,"sort":1,"name":"新学期","sites":[{"site":"bilibili","sort":1,"title":"新学期","url":"https://www.bilibili.com/bangumi/play/ep88820","time":"2016-06-02T03:46:56.000Z"}]},{"id":394040,"sort":2,"name":"突然の雨","sites":[{"site":"bilibili","sort":2,"title":"突然的雨","url":"https://www.bilibili.com/bangumi/play/ep88821","time":"2016-06-02T03:46:56.000Z"}]},{"id":415198,"sort":3,"name":"好きだ","sites":[{"site":"bilibili","sort":3,"title":"我喜欢","url":"https://www.bilibili.com/bangumi/play/ep88822","time":"2016-06-02T03:46:56.000Z"}]}]}
+{
+ "id": "51944",
+ "name": "堀さんと宮村くん",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4333",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 204158,
+   "sort": 1,
+   "name": "新学期",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "新学期",
+     "url": "https://www.bilibili.com/bangumi/play/ep88820",
+     "time": "2016-06-02T03:46:56.000Z"
+    }
+   ]
+  },
+  {
+   "id": 394040,
+   "sort": 2,
+   "name": "突然の雨",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "突然的雨",
+     "url": "https://www.bilibili.com/bangumi/play/ep88821",
+     "time": "2016-06-02T03:46:56.000Z"
+    }
+   ]
+  },
+  {
+   "id": 415198,
+   "sort": 3,
+   "name": "好きだ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "我喜欢",
+     "url": "https://www.bilibili.com/bangumi/play/ep88822",
+     "time": "2016-06-02T03:46:56.000Z"
+    }
+   ]
+  }
+ ]
+}

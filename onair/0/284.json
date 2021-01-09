@@ -1,1 +1,335 @@
-{"id":"284","name":"苺ましまろ","sites":[{"site":"qq","id":"s/skgqxqsq2uiylee","sort":12},{"site":"bilibili","id":"1856","sort":12}],"eps":[{"id":749,"sort":1,"name":"バースディ","sites":[{"site":"qq","sort":1,"title":"草莓棉花糖_01","url":"https://v.qq.com/x/cover/skgqxqsq2uiylee/y00333ptt2z.html"},{"site":"bilibili","sort":1,"title":"生日","url":"https://www.bilibili.com/bangumi/play/ep39735","time":"2011-07-03T19:48:45.000Z"}]},{"id":750,"sort":2,"name":"アナ","sites":[{"site":"qq","sort":2,"title":"草莓棉花糖_02","url":"https://v.qq.com/x/cover/skgqxqsq2uiylee/b0033s5be1x.html"},{"site":"bilibili","sort":2,"title":"安娜","url":"https://www.bilibili.com/bangumi/play/ep39736","time":"2011-07-03T19:48:45.000Z"}]},{"id":751,"sort":3,"name":"家庭訪問","sites":[{"site":"qq","sort":3,"title":"草莓棉花糖_03","url":"https://v.qq.com/x/cover/skgqxqsq2uiylee/x0033yg0k5l.html"},{"site":"bilibili","sort":3,"title":"家庭访问","url":"https://www.bilibili.com/bangumi/play/ep39737","time":"2011-07-03T19:48:45.000Z"}]},{"id":752,"sort":4,"name":"アルバイト","sites":[{"site":"qq","sort":4,"title":"草莓棉花糖_04","url":"https://v.qq.com/x/cover/skgqxqsq2uiylee/m0033ux36eo.html"},{"site":"bilibili","sort":4,"title":"打工","url":"https://www.bilibili.com/bangumi/play/ep39738","time":"2011-07-03T19:48:45.000Z"}]},{"id":753,"sort":5,"name":"そいね","sites":[{"site":"qq","sort":5,"title":"草莓棉花糖_05","url":"https://v.qq.com/x/cover/skgqxqsq2uiylee/s0033f727l6.html"},{"site":"bilibili","sort":5,"title":"睡在身边","url":"https://www.bilibili.com/bangumi/play/ep39739","time":"2011-07-03T19:48:45.000Z"}]},{"id":754,"sort":6,"name":"真夏日","sites":[{"site":"qq","sort":6,"title":"草莓棉花糖_06","url":"https://v.qq.com/x/cover/skgqxqsq2uiylee/z00339ldloh.html"},{"site":"bilibili","sort":6,"title":"仲夏之日","url":"https://www.bilibili.com/bangumi/play/ep39740","time":"2011-07-03T19:48:45.000Z"}]},{"id":755,"sort":7,"name":"海水浴","sites":[{"site":"qq","sort":7,"title":"草莓棉花糖_07","url":"https://v.qq.com/x/cover/skgqxqsq2uiylee/j00335ftrb9.html"},{"site":"bilibili","sort":7,"title":"海水浴","url":"https://www.bilibili.com/bangumi/play/ep39741","time":"2011-07-03T19:48:45.000Z"}]},{"id":756,"sort":8,"name":"お祭り","sites":[{"site":"qq","sort":8,"title":"草莓棉花糖_08","url":"https://v.qq.com/x/cover/skgqxqsq2uiylee/c0033ypztvq.html"},{"site":"bilibili","sort":8,"title":"祭典","url":"https://www.bilibili.com/bangumi/play/ep39742","time":"2011-07-03T19:48:45.000Z"}]},{"id":757,"sort":9,"name":"育ちざかり","sites":[{"site":"qq","sort":9,"title":"草莓棉花糖_09","url":"https://v.qq.com/x/cover/skgqxqsq2uiylee/j0033vcg49b.html"},{"site":"bilibili","sort":9,"title":"成长期","url":"https://www.bilibili.com/bangumi/play/ep39743","time":"2011-07-03T19:48:45.000Z"}]},{"id":758,"sort":10,"name":"花","sites":[{"site":"qq","sort":10,"title":"草莓棉花糖_10","url":"https://v.qq.com/x/cover/skgqxqsq2uiylee/m0033w74bea.html"},{"site":"bilibili","sort":10,"title":"花","url":"https://www.bilibili.com/bangumi/play/ep39744","time":"2011-07-03T19:48:45.000Z"}]},{"id":759,"sort":11,"name":"初雪","sites":[{"site":"qq","sort":11,"title":"草莓棉花糖_11","url":"https://v.qq.com/x/cover/skgqxqsq2uiylee/t0033vtu7du.html"},{"site":"bilibili","sort":11,"title":"初雪","url":"https://www.bilibili.com/bangumi/play/ep39745","time":"2011-07-03T19:48:45.000Z"}]},{"id":760,"sort":12,"name":"プレゼント","sites":[{"site":"qq","sort":12,"title":"草莓棉花糖_12","url":"https://v.qq.com/x/cover/skgqxqsq2uiylee/a00331hts7r.html"},{"site":"bilibili","sort":12,"title":"礼物","url":"https://www.bilibili.com/bangumi/play/ep39746","time":"2011-07-03T19:48:45.000Z"}]}]}
+{
+ "id": "284",
+ "name": "苺ましまろ",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "s/skgqxqsq2uiylee",
+   "sort": 12
+  },
+  {
+   "site": "bilibili",
+   "id": "1856",
+   "sort": 12
+  },
+  {
+   "site": "youku",
+   "id": "cc0030f4962411de83b1",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 749,
+   "sort": 1,
+   "name": "バースディ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "草莓棉花糖_01",
+     "url": "https://v.qq.com/x/cover/skgqxqsq2uiylee/y00333ptt2z.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "生日",
+     "url": "https://www.bilibili.com/bangumi/play/ep39735",
+     "time": "2011-07-03T19:48:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 生日",
+     "url": "https://v.youku.com/v_show/id_XNTAzNTE0NDA4.html?s=cc0030f4962411de83b1"
+    }
+   ]
+  },
+  {
+   "id": 750,
+   "sort": 2,
+   "name": "アナ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "草莓棉花糖_02",
+     "url": "https://v.qq.com/x/cover/skgqxqsq2uiylee/b0033s5be1x.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "安娜",
+     "url": "https://www.bilibili.com/bangumi/play/ep39736",
+     "time": "2011-07-03T19:48:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 安娜",
+     "url": "https://v.youku.com/v_show/id_XNDk0MDQ2MTQ4.html?s=cc0030f4962411de83b1"
+    }
+   ]
+  },
+  {
+   "id": 751,
+   "sort": 3,
+   "name": "家庭訪問",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "草莓棉花糖_03",
+     "url": "https://v.qq.com/x/cover/skgqxqsq2uiylee/x0033yg0k5l.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "家庭访问",
+     "url": "https://www.bilibili.com/bangumi/play/ep39737",
+     "time": "2011-07-03T19:48:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 家庭访问",
+     "url": "https://v.youku.com/v_show/id_XNDk0MDQ2NjUy.html?s=cc0030f4962411de83b1"
+    }
+   ]
+  },
+  {
+   "id": 752,
+   "sort": 4,
+   "name": "アルバイト",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "草莓棉花糖_04",
+     "url": "https://v.qq.com/x/cover/skgqxqsq2uiylee/m0033ux36eo.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "打工",
+     "url": "https://www.bilibili.com/bangumi/play/ep39738",
+     "time": "2011-07-03T19:48:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 打工",
+     "url": "https://v.youku.com/v_show/id_XNDk0MDQ1ODg4.html?s=cc0030f4962411de83b1"
+    }
+   ]
+  },
+  {
+   "id": 753,
+   "sort": 5,
+   "name": "そいね",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "草莓棉花糖_05",
+     "url": "https://v.qq.com/x/cover/skgqxqsq2uiylee/s0033f727l6.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "睡在身边",
+     "url": "https://www.bilibili.com/bangumi/play/ep39739",
+     "time": "2011-07-03T19:48:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 睡在身边",
+     "url": "https://v.youku.com/v_show/id_XNDk0MDQ2MjIw.html?s=cc0030f4962411de83b1"
+    }
+   ]
+  },
+  {
+   "id": 754,
+   "sort": 6,
+   "name": "真夏日",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "草莓棉花糖_06",
+     "url": "https://v.qq.com/x/cover/skgqxqsq2uiylee/z00339ldloh.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "仲夏之日",
+     "url": "https://www.bilibili.com/bangumi/play/ep39740",
+     "time": "2011-07-03T19:48:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 仲夏之日",
+     "url": "https://v.youku.com/v_show/id_XNDk0MDQ4ODQ4.html?s=cc0030f4962411de83b1"
+    }
+   ]
+  },
+  {
+   "id": 755,
+   "sort": 7,
+   "name": "海水浴",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "草莓棉花糖_07",
+     "url": "https://v.qq.com/x/cover/skgqxqsq2uiylee/j00335ftrb9.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "海水浴",
+     "url": "https://www.bilibili.com/bangumi/play/ep39741",
+     "time": "2011-07-03T19:48:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 海水浴",
+     "url": "https://v.youku.com/v_show/id_XNDk0MDQ4NTIw.html?s=cc0030f4962411de83b1"
+    }
+   ]
+  },
+  {
+   "id": 756,
+   "sort": 8,
+   "name": "お祭り",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "草莓棉花糖_08",
+     "url": "https://v.qq.com/x/cover/skgqxqsq2uiylee/c0033ypztvq.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "祭典",
+     "url": "https://www.bilibili.com/bangumi/play/ep39742",
+     "time": "2011-07-03T19:48:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 祭典",
+     "url": "https://v.youku.com/v_show/id_XNDk0MDQ2NzIw.html?s=cc0030f4962411de83b1"
+    }
+   ]
+  },
+  {
+   "id": 757,
+   "sort": 9,
+   "name": "育ちざかり",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "草莓棉花糖_09",
+     "url": "https://v.qq.com/x/cover/skgqxqsq2uiylee/j0033vcg49b.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "成长期",
+     "url": "https://www.bilibili.com/bangumi/play/ep39743",
+     "time": "2011-07-03T19:48:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 成长期",
+     "url": "https://v.youku.com/v_show/id_XNDk0MDQ3MTA4.html?s=cc0030f4962411de83b1"
+    }
+   ]
+  },
+  {
+   "id": 758,
+   "sort": 10,
+   "name": "花",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "草莓棉花糖_10",
+     "url": "https://v.qq.com/x/cover/skgqxqsq2uiylee/m0033w74bea.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "花",
+     "url": "https://www.bilibili.com/bangumi/play/ep39744",
+     "time": "2011-07-03T19:48:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 花",
+     "url": "https://v.youku.com/v_show/id_XNDkyODk3MDA0.html?s=cc0030f4962411de83b1"
+    }
+   ]
+  },
+  {
+   "id": 759,
+   "sort": 11,
+   "name": "初雪",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "草莓棉花糖_11",
+     "url": "https://v.qq.com/x/cover/skgqxqsq2uiylee/t0033vtu7du.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "初雪",
+     "url": "https://www.bilibili.com/bangumi/play/ep39745",
+     "time": "2011-07-03T19:48:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 初雪",
+     "url": "https://v.youku.com/v_show/id_XNDk0MDQ3NjA4.html?s=cc0030f4962411de83b1"
+    }
+   ]
+  },
+  {
+   "id": 760,
+   "sort": 12,
+   "name": "プレゼント",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "草莓棉花糖_12",
+     "url": "https://v.qq.com/x/cover/skgqxqsq2uiylee/a00331hts7r.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "礼物",
+     "url": "https://www.bilibili.com/bangumi/play/ep39746",
+     "time": "2011-07-03T19:48:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 礼物",
+     "url": "https://v.youku.com/v_show/id_XNDk0MDQ3NTY0.html?s=cc0030f4962411de83b1"
+    }
+   ]
+  }
+ ]
+}

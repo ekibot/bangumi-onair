@@ -1,1 +1,49 @@
-{"id":"171121","name":"黒子のバスケ ウインターカップ総集編 ～淚の先へ～","sites":[{"site":"iqiyi","id":"a_19rrh9ar91","sort":1},{"site":"qq","id":"a/a28jl6mtfi8vy08","sort":1},{"site":"youku","id":"0e30717290f211e69e06","sort":1},{"site":"bilibili","id":"5938","sort":3}],"eps":[{"id":662755,"sort":1,"name":"黒子のバスケ ウインターカップ総集編  淚の先へ","sites":[{"site":"iqiyi","sort":1,"title":"眼泪的前方","url":"http://www.iqiyi.com/v_19rraoxyv8.html","time":"2017-02-28T16:00:52.000Z"},{"site":"qq","sort":1,"title":"总集篇第二部 眼泪的前方","url":"https://v.qq.com/x/cover/a28jl6mtfi8vy08/a00317s75gz.html"},{"site":"bilibili","sort":1,"title":"影与光","url":"https://www.bilibili.com/bangumi/play/ep102286","time":"2017-03-15T02:24:00.000Z"}]}]}
+{
+ "id": "171121",
+ "name": "黒子のバスケ ウインターカップ総集編 ～淚の先へ～",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "a/a28jl6mtfi8vy08",
+   "sort": 1
+  },
+  {
+   "site": "youku",
+   "id": "0e30717290f211e69e06",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "5938",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 662755,
+   "sort": 1,
+   "name": "黒子のバスケ ウインターカップ総集編  淚の先へ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "总集篇第二部 眼泪的前方",
+     "url": "https://v.qq.com/x/cover/a28jl6mtfi8vy08/a00317s75gz.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "黑子的篮球 总集篇 第二部:眼泪的前方",
+     "url": "https://v.youku.com/v_show/id_XMTc3MjM5Mjk1Ng==.html?s=0e30717290f211e69e06"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "影与光",
+     "url": "https://www.bilibili.com/bangumi/play/ep102286",
+     "time": "2017-03-15T02:24:00.000Z"
+    }
+   ]
+  }
+ ]
+}

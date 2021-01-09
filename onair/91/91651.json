@@ -1,1 +1,97 @@
-{"id":"91651","name":"中二病でも恋がしたい！戀 Lite","sites":[{"site":"bilibili","id":"4351","sort":6}],"eps":[{"id":353060,"sort":1,"name":"こたつむり","sites":[{"site":"bilibili","sort":1,"title":"被炉","url":"https://www.bilibili.com/bangumi/play/ep88824","time":"2016-06-02T06:41:25.000Z"}]},{"id":353143,"sort":2,"name":"ものもらい、めばちこ 或いは めいば と言う名の病","sites":[{"site":"bilibili","sort":2,"title":"名为麦粒肿的病，又称针眼或偷针眼","url":"https://www.bilibili.com/bangumi/play/ep88825","time":"2016-06-02T06:41:25.000Z"}]},{"id":353144,"sort":3,"name":"邪王真眼風雲編","sites":[{"site":"bilibili","sort":3,"title":"邪王真眼风云篇","url":"https://www.bilibili.com/bangumi/play/ep88826","time":"2016-06-02T06:41:25.000Z"}]},{"id":359650,"sort":4,"name":"凸守 VS  丹生谷②","sites":[{"site":"bilibili","sort":4,"title":"凸守 VS  丹生谷②","url":"https://www.bilibili.com/bangumi/play/ep88827","time":"2016-06-02T06:41:25.000Z"}]},{"id":359651,"sort":5,"name":"私のお兄ちゃん③キャンプ编","sites":[{"site":"bilibili","sort":5,"title":"我的哥哥③露营篇","url":"https://www.bilibili.com/bangumi/play/ep88828","time":"2016-06-02T06:41:25.000Z"}]},{"id":359652,"sort":6,"name":"大天使召喚","sites":[{"site":"bilibili","sort":6,"title":"大天使召唤","url":"https://www.bilibili.com/bangumi/play/ep88829","time":"2016-06-02T06:41:25.000Z"}]}]}
+{
+ "id": "91651",
+ "name": "中二病でも恋がしたい！戀 Lite",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4351",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 353060,
+   "sort": 1,
+   "name": "こたつむり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "被炉",
+     "url": "https://www.bilibili.com/bangumi/play/ep88824",
+     "time": "2016-06-02T06:41:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353143,
+   "sort": 2,
+   "name": "ものもらい、めばちこ 或いは めいば と言う名の病",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "名为麦粒肿的病，又称针眼或偷针眼",
+     "url": "https://www.bilibili.com/bangumi/play/ep88825",
+     "time": "2016-06-02T06:41:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 353144,
+   "sort": 3,
+   "name": "邪王真眼風雲編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "邪王真眼风云篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep88826",
+     "time": "2016-06-02T06:41:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 359650,
+   "sort": 4,
+   "name": "凸守 VS  丹生谷②",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "凸守 VS  丹生谷②",
+     "url": "https://www.bilibili.com/bangumi/play/ep88827",
+     "time": "2016-06-02T06:41:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 359651,
+   "sort": 5,
+   "name": "私のお兄ちゃん③キャンプ编",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "我的哥哥③露营篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep88828",
+     "time": "2016-06-02T06:41:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 359652,
+   "sort": 6,
+   "name": "大天使召喚",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "大天使召唤",
+     "url": "https://www.bilibili.com/bangumi/play/ep88829",
+     "time": "2016-06-02T06:41:25.000Z"
+    }
+   ]
+  }
+ ]
+}

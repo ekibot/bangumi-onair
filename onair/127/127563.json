@@ -1,0 +1,169 @@
+{
+ "id": "127563",
+ "name": "ワンパンマン",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "0b39c5b6569311e5b2ad",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 564550,
+   "sort": 1,
+   "name": "最強の男",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "最强之人",
+     "url": "https://v.youku.com/v_show/id_XMTM1MTc4MDU3Ng==.html?s=0b39c5b6569311e5b2ad"
+    }
+   ]
+  },
+  {
+   "id": 564551,
+   "sort": 2,
+   "name": "孤高のサイボーグ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "孤傲的机器人",
+     "url": "https://v.youku.com/v_show/id_XMTM1NzI3MzE5Mg==.html?s=0b39c5b6569311e5b2ad"
+    }
+   ]
+  },
+  {
+   "id": 564552,
+   "sort": 3,
+   "name": "執念の科学者",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "执着的科学家",
+     "url": "https://v.youku.com/v_show/id_XMTM2MjcwNTAyMA==.html?s=0b39c5b6569311e5b2ad"
+    }
+   ]
+  },
+  {
+   "id": 564553,
+   "sort": 4,
+   "name": "今時の忍者",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "如今的忍者",
+     "url": "https://v.youku.com/v_show/id_XMTM2OTM3NTE0OA==.html?s=0b39c5b6569311e5b2ad"
+    }
+   ]
+  },
+  {
+   "id": 564554,
+   "sort": 5,
+   "name": "究極の師",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "终极之师",
+     "url": "https://v.youku.com/v_show/id_XMTM3NTA5NDM0OA==.html?s=0b39c5b6569311e5b2ad"
+    }
+   ]
+  },
+  {
+   "id": 564555,
+   "sort": 6,
+   "name": "最恐の都市",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "最恐怖的城市",
+     "url": "https://v.youku.com/v_show/id_XMTM4MTI0NjkwNA==.html?s=0b39c5b6569311e5b2ad"
+    }
+   ]
+  },
+  {
+   "id": 564556,
+   "sort": 7,
+   "name": "至高の弟子",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "至高的弟子",
+     "url": "https://v.youku.com/v_show/id_XMTM4NzI5MTc5Mg==.html?s=0b39c5b6569311e5b2ad"
+    }
+   ]
+  },
+  {
+   "id": 564557,
+   "sort": 8,
+   "name": "深海の王",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "深海之王",
+     "url": "https://v.youku.com/v_show/id_XMTM5MzIzNzgyMA==.html?s=0b39c5b6569311e5b2ad"
+    }
+   ]
+  },
+  {
+   "id": 564558,
+   "sort": 9,
+   "name": "不屈の正義",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "不屈的正义",
+     "url": "https://v.youku.com/v_show/id_XMTM5OTQwNzE2MA==.html?s=0b39c5b6569311e5b2ad"
+    }
+   ]
+  },
+  {
+   "id": 564559,
+   "sort": 10,
+   "name": "かつてない程の危機",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "前所未有的危机",
+     "url": "https://v.youku.com/v_show/id_XMTQwNTY1NTkyOA==.html?s=0b39c5b6569311e5b2ad"
+    }
+   ]
+  },
+  {
+   "id": 564560,
+   "sort": 11,
+   "name": "全宇宙の覇者",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "全宇宙的霸王",
+     "url": "https://v.youku.com/v_show/id_XMTQxMjQzNzIzMg==.html?s=0b39c5b6569311e5b2ad"
+    }
+   ]
+  },
+  {
+   "id": 564561,
+   "sort": 12,
+   "name": "最強のヒーロー",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "最强的英雄",
+     "url": "https://v.youku.com/v_show/id_XMTQxOTA4MzYzNg==.html?s=0b39c5b6569311e5b2ad"
+    }
+   ]
+  }
+ ]
+}

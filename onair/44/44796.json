@@ -1,1 +1,27 @@
-{"id":"44796","name":"まりもの花 〜最強武闘派小学生伝説〜","sites":[{"site":"bilibili","id":"4541","sort":1}],"eps":[{"id":186221,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep89176","time":"2016-06-07T03:01:00.000Z"}]}]}
+{
+ "id": "44796",
+ "name": "まりもの花 〜最強武闘派小学生伝説〜",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4541",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 186221,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep89176",
+     "time": "2016-06-07T03:01:00.000Z"
+    }
+   ]
+  }
+ ]
+}

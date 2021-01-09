@@ -1,1 +1,65 @@
-{"id":"23178","name":"鎧伝サムライトルーパー 輝煌帝伝説","sites":[{"site":"qq","id":"b/b1ay7tls3qg9sbx","sort":4}],"eps":[{"id":120587,"sort":1,"name":"太陽のムカラ","sites":[{"site":"qq","sort":1,"title":"魔神坛斗士OVA 辉煌帝传说_01","url":"https://v.qq.com/x/cover/b1ay7tls3qg9sbx/g00316tkwcz.html"}]},{"id":120588,"sort":2,"name":"黒い輝煌帝","sites":[{"site":"qq","sort":2,"title":"魔神坛斗士OVA 辉煌帝传说_02","url":"https://v.qq.com/x/cover/b1ay7tls3qg9sbx/n0031umck3i.html"}]},{"id":120589,"sort":3,"name":"走り始めた鎧","sites":[{"site":"qq","sort":3,"title":"魔神坛斗士OVA 辉煌帝传说_03","url":"https://v.qq.com/x/cover/b1ay7tls3qg9sbx/c003184989k.html"}]},{"id":120590,"sort":4,"name":"悲しみを超えるものを、求めて!","sites":[{"site":"qq","sort":4,"title":"魔神坛斗士OVA 辉煌帝传说_04","url":"https://v.qq.com/x/cover/b1ay7tls3qg9sbx/u00319fk6l8.html"}]}]}
+{
+ "id": "23178",
+ "name": "鎧伝サムライトルーパー 輝煌帝伝説",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "f1bde6aa61ad11e0bea1",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 120587,
+   "sort": 1,
+   "name": "太陽のムカラ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第1话 太阳之姆卡拉",
+     "url": "https://v.youku.com/v_show/id_XNTE2ODkzNzQ4.html?s=f1bde6aa61ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 120588,
+   "sort": 2,
+   "name": "黒い輝煌帝",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第2话 黑色辉煌帝",
+     "url": "https://v.youku.com/v_show/id_XNTE2ODkzNzUy.html?s=f1bde6aa61ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 120589,
+   "sort": 3,
+   "name": "走り始めた鎧",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第3话 开始奔驰的盔甲",
+     "url": "https://v.youku.com/v_show/id_XNTE2ODkzNzY0.html?s=f1bde6aa61ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 120590,
+   "sort": 4,
+   "name": "悲しみを超えるものを、求めて!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第4话 寻找超越悲伤的事物",
+     "url": "https://v.youku.com/v_show/id_XNTE2ODkzNzc2.html?s=f1bde6aa61ad11e0bea1"
+    }
+   ]
+  }
+ ]
+}

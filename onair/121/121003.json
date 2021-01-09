@@ -1,1 +1,195 @@
-{"id":"121003","name":"うーさーのその日暮らし 夢幻編","sites":[{"site":"bilibili","id":"2615","sort":13}],"eps":[{"id":531122,"sort":1,"name":"wooser's hand to mouth life is back again","sites":[{"site":"bilibili","sort":1,"title":"乌瑟的悲惨日常回归了","url":"https://www.bilibili.com/bangumi/play/ep63831","time":"2015-07-03T14:20:00.000Z"}]},{"id":531123,"sort":2,"name":"策士うーさー、その卑劣なる謀略","sites":[{"site":"bilibili","sort":2,"title":"谋士乌瑟，他那卑劣的谋略","url":"https://www.bilibili.com/bangumi/play/ep63913","time":"2015-07-10T14:20:44.000Z"}]},{"id":531124,"sort":3,"name":"うーさー先生、諦め切りとの戦い","sites":[{"site":"bilibili","sort":3,"title":"乌瑟老师，与截稿日的战斗","url":"https://www.bilibili.com/bangumi/play/ep63979","time":"2015-07-17T14:20:00.000Z"}]},{"id":531125,"sort":4,"name":"うーサー教授曰く、すべてはJ/Kになる","sites":[{"site":"bilibili","sort":4,"title":"乌瑟教授所言，一切归于J/K","url":"https://www.bilibili.com/bangumi/play/ep64169","time":"2015-07-24T14:20:00.000Z"}]},{"id":531126,"sort":5,"name":"うーさー53、私アイドルになります","sites":[{"site":"bilibili","sort":5,"title":"乌瑟53，我要成为偶像","url":"https://www.bilibili.com/bangumi/play/ep64266","time":"2015-07-31T14:20:00.000Z"}]},{"id":531127,"sort":6,"name":"うーさー監督、黄昏の映画狂時代","sites":[{"site":"bilibili","sort":6,"title":"乌瑟导演，黄昏的电影狂时代","url":"https://www.bilibili.com/bangumi/play/ep64517","time":"2015-08-07T14:20:00.000Z"}]},{"id":531128,"sort":7,"name":"村人うーさー、その獣の本性","sites":[{"site":"bilibili","sort":7,"title":"村民乌瑟、他野兽的本性","url":"https://www.bilibili.com/bangumi/play/ep65051","time":"2015-08-14T14:20:00.000Z"}]},{"id":531129,"sort":8,"name":"白昼夢うーさーの変身ふたたび","sites":[{"site":"bilibili","sort":8,"title":"白日梦乌瑟的再次变身","url":"https://www.bilibili.com/bangumi/play/ep65857","time":"2015-08-21T14:20:00.000Z"}]},{"id":531130,"sort":9,"name":"青い海白い砂浜、黒いうーさー","sites":[{"site":"bilibili","sort":9,"title":"碧海白沙黑乌瑟","url":"https://www.bilibili.com/bangumi/play/ep66475","time":"2015-08-28T14:20:00.000Z"}]},{"id":531131,"sort":10,"name":"ハンターうーさー、祭りの掟","sites":[{"site":"bilibili","sort":10,"title":"猎人乌瑟，祭典的规则","url":"https://www.bilibili.com/bangumi/play/ep67408","time":"2015-09-04T14:20:00.000Z"}]},{"id":531132,"sort":11,"name":"名探偵うーさー、最後の事件","sites":[{"site":"bilibili","sort":11,"title":"名侦探乌瑟，最后的案件","url":"https://www.bilibili.com/bangumi/play/ep68522","time":"2015-09-11T14:20:00.000Z"}]},{"id":531133,"sort":12,"name":"うーさーの優しい世界","sites":[{"site":"bilibili","sort":12,"title":"乌瑟的温柔世界","url":"https://www.bilibili.com/bangumi/play/ep69157","time":"2015-09-18T14:20:00.000Z"}]},{"id":531134,"sort":13,"name":"wooser's hand to mouth life a dream play…","sites":[{"site":"bilibili","sort":13,"title":"乌瑟的饭来张口日子不过是梦一场","url":"https://www.bilibili.com/bangumi/play/ep69720","time":"2015-09-25T14:20:00.000Z"}]}]}
+{
+ "id": "121003",
+ "name": "うーさーのその日暮らし 夢幻編",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2615",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 531122,
+   "sort": 1,
+   "name": "wooser's hand to mouth life is back again",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "乌瑟的悲惨日常回归了",
+     "url": "https://www.bilibili.com/bangumi/play/ep63831",
+     "time": "2015-07-03T14:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 531123,
+   "sort": 2,
+   "name": "策士うーさー、その卑劣なる謀略",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "谋士乌瑟，他那卑劣的谋略",
+     "url": "https://www.bilibili.com/bangumi/play/ep63913",
+     "time": "2015-07-10T14:20:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 531124,
+   "sort": 3,
+   "name": "うーさー先生、諦め切りとの戦い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "乌瑟老师，与截稿日的战斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep63979",
+     "time": "2015-07-17T14:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 531125,
+   "sort": 4,
+   "name": "うーサー教授曰く、すべてはJ/Kになる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "乌瑟教授所言，一切归于J/K",
+     "url": "https://www.bilibili.com/bangumi/play/ep64169",
+     "time": "2015-07-24T14:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 531126,
+   "sort": 5,
+   "name": "うーさー53、私アイドルになります",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "乌瑟53，我要成为偶像",
+     "url": "https://www.bilibili.com/bangumi/play/ep64266",
+     "time": "2015-07-31T14:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 531127,
+   "sort": 6,
+   "name": "うーさー監督、黄昏の映画狂時代",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "乌瑟导演，黄昏的电影狂时代",
+     "url": "https://www.bilibili.com/bangumi/play/ep64517",
+     "time": "2015-08-07T14:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 531128,
+   "sort": 7,
+   "name": "村人うーさー、その獣の本性",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "村民乌瑟、他野兽的本性",
+     "url": "https://www.bilibili.com/bangumi/play/ep65051",
+     "time": "2015-08-14T14:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 531129,
+   "sort": 8,
+   "name": "白昼夢うーさーの変身ふたたび",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "白日梦乌瑟的再次变身",
+     "url": "https://www.bilibili.com/bangumi/play/ep65857",
+     "time": "2015-08-21T14:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 531130,
+   "sort": 9,
+   "name": "青い海白い砂浜、黒いうーさー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "碧海白沙黑乌瑟",
+     "url": "https://www.bilibili.com/bangumi/play/ep66475",
+     "time": "2015-08-28T14:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 531131,
+   "sort": 10,
+   "name": "ハンターうーさー、祭りの掟",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "猎人乌瑟，祭典的规则",
+     "url": "https://www.bilibili.com/bangumi/play/ep67408",
+     "time": "2015-09-04T14:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 531132,
+   "sort": 11,
+   "name": "名探偵うーさー、最後の事件",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "名侦探乌瑟，最后的案件",
+     "url": "https://www.bilibili.com/bangumi/play/ep68522",
+     "time": "2015-09-11T14:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 531133,
+   "sort": 12,
+   "name": "うーさーの優しい世界",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "乌瑟的温柔世界",
+     "url": "https://www.bilibili.com/bangumi/play/ep69157",
+     "time": "2015-09-18T14:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 531134,
+   "sort": 13,
+   "name": "wooser's hand to mouth life a dream play…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "乌瑟的饭来张口日子不过是梦一场",
+     "url": "https://www.bilibili.com/bangumi/play/ep69720",
+     "time": "2015-09-25T14:20:00.000Z"
+    }
+   ]
+  }
+ ]
+}

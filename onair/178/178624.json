@@ -1,1 +1,181 @@
-{"id":"178624","name":"バトルガール ハイスクール","sites":[{"site":"bilibili","id":"6306","sort":12}],"eps":[{"id":728001,"sort":1,"name":"私たちガンバリます！","sites":[{"site":"bilibili","sort":1,"title":"我们要加油！","url":"https://www.bilibili.com/bangumi/play/ep113132","time":"2017-07-02T16:30:00.000Z"}]},{"id":728002,"sort":2,"name":"そこがツボなの？","sites":[{"site":"bilibili","sort":2,"title":"这是你的笑点吗？","url":"https://www.bilibili.com/bangumi/play/ep113133","time":"2017-07-09T16:30:00.000Z"}]},{"id":728003,"sort":3,"name":"リゾート×合宿×エスケープ","sites":[{"site":"bilibili","sort":3,"title":"度假村×合宿×逃脱?","url":"https://www.bilibili.com/bangumi/play/ep113134","time":"2017-07-16T16:30:00.000Z"}]},{"id":728004,"sort":4,"name":"歌に想いを","sites":[{"site":"bilibili","sort":4,"title":"歌声承载心意","url":"https://www.bilibili.com/bangumi/play/ep113135","time":"2017-07-23T16:30:00.000Z"}]},{"id":728005,"sort":5,"name":"アイリスの花言葉","sites":[{"site":"bilibili","sort":5,"title":"Iris的花语","url":"https://www.bilibili.com/bangumi/play/ep113136","time":"2017-07-30T16:30:00.000Z"}]},{"id":728006,"sort":6,"name":"れんげがくるみでくるみがれんげ","sites":[{"site":"bilibili","sort":6,"title":"莲华变胡桃胡桃变莲华","url":"https://www.bilibili.com/bangumi/play/ep113137","time":"2017-08-06T16:30:00.000Z"}]},{"id":728007,"sort":7,"name":"守る力","sites":[{"site":"bilibili","sort":7,"title":"守护之力","url":"https://www.bilibili.com/bangumi/play/ep113138","time":"2017-08-13T16:30:00.000Z"}]},{"id":728008,"sort":8,"name":"星守たちの休日","sites":[{"site":"bilibili","sort":8,"title":"星守们的假日","url":"https://www.bilibili.com/bangumi/play/ep113139","time":"2017-08-20T16:30:00.000Z"}]},{"id":728009,"sort":9,"name":"神樹祭","sites":[{"site":"bilibili","sort":9,"title":"神树祭","url":"https://www.bilibili.com/bangumi/play/ep113140","time":"2017-08-27T16:30:00.000Z"}]},{"id":728010,"sort":10,"name":"家族","sites":[{"site":"bilibili","sort":10,"title":"家人","url":"https://www.bilibili.com/bangumi/play/ep113141","time":"2017-09-03T16:30:00.000Z"}]},{"id":728011,"sort":11,"name":"真実","sites":[{"site":"bilibili","sort":11,"title":"真实","url":"https://www.bilibili.com/bangumi/play/ep113142","time":"2017-09-10T16:30:00.000Z"}]},{"id":728012,"sort":12,"name":"きずな","sites":[{"site":"bilibili","sort":12,"title":"羁绊","url":"https://www.bilibili.com/bangumi/play/ep113143","time":"2017-09-17T16:30:00.000Z"}]}]}
+{
+ "id": "178624",
+ "name": "バトルガール ハイスクール",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6306",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 728001,
+   "sort": 1,
+   "name": "私たちガンバリます！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "我们要加油！",
+     "url": "https://www.bilibili.com/bangumi/play/ep113132",
+     "time": "2017-07-02T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728002,
+   "sort": 2,
+   "name": "そこがツボなの？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "这是你的笑点吗？",
+     "url": "https://www.bilibili.com/bangumi/play/ep113133",
+     "time": "2017-07-09T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728003,
+   "sort": 3,
+   "name": "リゾート×合宿×エスケープ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "度假村×合宿×逃脱?",
+     "url": "https://www.bilibili.com/bangumi/play/ep113134",
+     "time": "2017-07-16T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728004,
+   "sort": 4,
+   "name": "歌に想いを",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "歌声承载心意",
+     "url": "https://www.bilibili.com/bangumi/play/ep113135",
+     "time": "2017-07-23T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728005,
+   "sort": 5,
+   "name": "アイリスの花言葉",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Iris的花语",
+     "url": "https://www.bilibili.com/bangumi/play/ep113136",
+     "time": "2017-07-30T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728006,
+   "sort": 6,
+   "name": "れんげがくるみでくるみがれんげ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "莲华变胡桃胡桃变莲华",
+     "url": "https://www.bilibili.com/bangumi/play/ep113137",
+     "time": "2017-08-06T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728007,
+   "sort": 7,
+   "name": "守る力",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "守护之力",
+     "url": "https://www.bilibili.com/bangumi/play/ep113138",
+     "time": "2017-08-13T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728008,
+   "sort": 8,
+   "name": "星守たちの休日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "星守们的假日",
+     "url": "https://www.bilibili.com/bangumi/play/ep113139",
+     "time": "2017-08-20T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728009,
+   "sort": 9,
+   "name": "神樹祭",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "神树祭",
+     "url": "https://www.bilibili.com/bangumi/play/ep113140",
+     "time": "2017-08-27T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728010,
+   "sort": 10,
+   "name": "家族",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "家人",
+     "url": "https://www.bilibili.com/bangumi/play/ep113141",
+     "time": "2017-09-03T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728011,
+   "sort": 11,
+   "name": "真実",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "真实",
+     "url": "https://www.bilibili.com/bangumi/play/ep113142",
+     "time": "2017-09-10T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728012,
+   "sort": 12,
+   "name": "きずな",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "羁绊",
+     "url": "https://www.bilibili.com/bangumi/play/ep113143",
+     "time": "2017-09-17T16:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

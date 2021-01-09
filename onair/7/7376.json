@@ -1,1 +1,377 @@
-{"id":"7376","name":"機神大戦 ギガンティック・フォーミュラ","sites":[{"site":"bilibili","id":"1277","sort":26}],"eps":[{"id":43644,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"觉醒","url":"https://www.bilibili.com/bangumi/play/ep23317","time":"2011-04-08T19:32:08.000Z"}]},{"id":43645,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"战斗","url":"https://www.bilibili.com/bangumi/play/ep23318","time":"2011-04-08T19:32:08.000Z"}]},{"id":43646,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"摩擦","url":"https://www.bilibili.com/bangumi/play/ep23319","time":"2011-04-08T19:32:08.000Z"}]},{"id":43647,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"眩惑","url":"https://www.bilibili.com/bangumi/play/ep23320","time":"2011-04-08T19:32:08.000Z"}]},{"id":43648,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"信赖","url":"https://www.bilibili.com/bangumi/play/ep23321","time":"2011-04-08T19:32:08.000Z"}]},{"id":43649,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"运命","url":"https://www.bilibili.com/bangumi/play/ep23322","time":"2011-04-08T19:32:08.000Z"}]},{"id":43650,"sort":7,"name":"","sites":[{"site":"bilibili","sort":7,"title":"闪光","url":"https://www.bilibili.com/bangumi/play/ep23323","time":"2011-04-08T19:32:08.000Z"}]},{"id":43651,"sort":8,"name":"","sites":[{"site":"bilibili","sort":8,"title":"矜持","url":"https://www.bilibili.com/bangumi/play/ep23324","time":"2011-04-08T19:32:08.000Z"}]},{"id":43652,"sort":9,"name":"","sites":[{"site":"bilibili","sort":9,"title":"无垢","url":"https://www.bilibili.com/bangumi/play/ep23325","time":"2011-04-08T19:32:08.000Z"}]},{"id":43653,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"猎人","url":"https://www.bilibili.com/bangumi/play/ep23326","time":"2011-04-08T19:32:08.000Z"}]},{"id":43654,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"土魂","url":"https://www.bilibili.com/bangumi/play/ep23327","time":"2011-04-08T19:32:08.000Z"}]},{"id":43655,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"遗人","url":"https://www.bilibili.com/bangumi/play/ep23328","time":"2011-04-08T19:32:08.000Z"}]},{"id":43656,"sort":13,"name":"","sites":[{"site":"bilibili","sort":13,"title":"动机","url":"https://www.bilibili.com/bangumi/play/ep23329","time":"2011-04-08T19:32:08.000Z"}]},{"id":43657,"sort":14,"name":"","sites":[{"site":"bilibili","sort":14,"title":"纯真","url":"https://www.bilibili.com/bangumi/play/ep23330","time":"2011-04-08T19:32:08.000Z"}]},{"id":43658,"sort":15,"name":"","sites":[{"site":"bilibili","sort":15,"title":"全能","url":"https://www.bilibili.com/bangumi/play/ep23331","time":"2011-04-08T19:32:08.000Z"}]},{"id":43659,"sort":16,"name":"","sites":[{"site":"bilibili","sort":16,"title":"不稳","url":"https://www.bilibili.com/bangumi/play/ep23332","time":"2011-04-08T19:32:08.000Z"}]},{"id":43660,"sort":17,"name":"","sites":[{"site":"bilibili","sort":17,"title":"出征","url":"https://www.bilibili.com/bangumi/play/ep23333","time":"2011-04-08T19:32:08.000Z"}]},{"id":43661,"sort":18,"name":"","sites":[{"site":"bilibili","sort":18,"title":"恸哭","url":"https://www.bilibili.com/bangumi/play/ep23334","time":"2011-04-08T19:32:08.000Z"}]},{"id":43662,"sort":19,"name":"","sites":[{"site":"bilibili","sort":19,"title":"惨酷","url":"https://www.bilibili.com/bangumi/play/ep23335","time":"2011-04-08T19:32:08.000Z"}]},{"id":43663,"sort":20,"name":"","sites":[{"site":"bilibili","sort":20,"title":"试练","url":"https://www.bilibili.com/bangumi/play/ep23336","time":"2011-04-08T19:32:08.000Z"}]},{"id":43664,"sort":21,"name":"","sites":[{"site":"bilibili","sort":21,"title":"冲动","url":"https://www.bilibili.com/bangumi/play/ep23337","time":"2011-04-08T19:32:08.000Z"}]},{"id":43665,"sort":22,"name":"","sites":[{"site":"bilibili","sort":22,"title":"誓约","url":"https://www.bilibili.com/bangumi/play/ep23338","time":"2011-04-08T19:32:08.000Z"}]},{"id":43666,"sort":23,"name":"","sites":[{"site":"bilibili","sort":23,"title":"罪智","url":"https://www.bilibili.com/bangumi/play/ep23339","time":"2011-04-08T19:32:08.000Z"}]},{"id":43667,"sort":24,"name":"","sites":[{"site":"bilibili","sort":24,"title":"对决","url":"https://www.bilibili.com/bangumi/play/ep23340","time":"2011-04-08T19:32:08.000Z"}]},{"id":43668,"sort":25,"name":"","sites":[{"site":"bilibili","sort":25,"title":"嫩叶","url":"https://www.bilibili.com/bangumi/play/ep23341","time":"2011-04-08T19:32:08.000Z"}]},{"id":43669,"sort":26,"name":"","sites":[{"site":"bilibili","sort":26,"title":"终极","url":"https://www.bilibili.com/bangumi/play/ep23342","time":"2011-04-08T19:32:08.000Z"}]}]}
+{
+ "id": "7376",
+ "name": "機神大戦 ギガンティック・フォーミュラ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1277",
+   "sort": 26
+  }
+ ],
+ "eps": [
+  {
+   "id": 43644,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "觉醒",
+     "url": "https://www.bilibili.com/bangumi/play/ep23317",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43645,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "战斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep23318",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43646,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "摩擦",
+     "url": "https://www.bilibili.com/bangumi/play/ep23319",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43647,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "眩惑",
+     "url": "https://www.bilibili.com/bangumi/play/ep23320",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43648,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "信赖",
+     "url": "https://www.bilibili.com/bangumi/play/ep23321",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43649,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "运命",
+     "url": "https://www.bilibili.com/bangumi/play/ep23322",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43650,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "闪光",
+     "url": "https://www.bilibili.com/bangumi/play/ep23323",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43651,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "矜持",
+     "url": "https://www.bilibili.com/bangumi/play/ep23324",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43652,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "无垢",
+     "url": "https://www.bilibili.com/bangumi/play/ep23325",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43653,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "猎人",
+     "url": "https://www.bilibili.com/bangumi/play/ep23326",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43654,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "土魂",
+     "url": "https://www.bilibili.com/bangumi/play/ep23327",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43655,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "遗人",
+     "url": "https://www.bilibili.com/bangumi/play/ep23328",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43656,
+   "sort": 13,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "动机",
+     "url": "https://www.bilibili.com/bangumi/play/ep23329",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43657,
+   "sort": 14,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "纯真",
+     "url": "https://www.bilibili.com/bangumi/play/ep23330",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43658,
+   "sort": 15,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "全能",
+     "url": "https://www.bilibili.com/bangumi/play/ep23331",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43659,
+   "sort": 16,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "不稳",
+     "url": "https://www.bilibili.com/bangumi/play/ep23332",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43660,
+   "sort": 17,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "出征",
+     "url": "https://www.bilibili.com/bangumi/play/ep23333",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43661,
+   "sort": 18,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "恸哭",
+     "url": "https://www.bilibili.com/bangumi/play/ep23334",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43662,
+   "sort": 19,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "惨酷",
+     "url": "https://www.bilibili.com/bangumi/play/ep23335",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43663,
+   "sort": 20,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "试练",
+     "url": "https://www.bilibili.com/bangumi/play/ep23336",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43664,
+   "sort": 21,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "冲动",
+     "url": "https://www.bilibili.com/bangumi/play/ep23337",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43665,
+   "sort": 22,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "誓约",
+     "url": "https://www.bilibili.com/bangumi/play/ep23338",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43666,
+   "sort": 23,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "罪智",
+     "url": "https://www.bilibili.com/bangumi/play/ep23339",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43667,
+   "sort": 24,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "对决",
+     "url": "https://www.bilibili.com/bangumi/play/ep23340",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43668,
+   "sort": 25,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 25,
+     "title": "嫩叶",
+     "url": "https://www.bilibili.com/bangumi/play/ep23341",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43669,
+   "sort": 26,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 26,
+     "title": "终极",
+     "url": "https://www.bilibili.com/bangumi/play/ep23342",
+     "time": "2011-04-08T19:32:08.000Z"
+    }
+   ]
+  }
+ ]
+}

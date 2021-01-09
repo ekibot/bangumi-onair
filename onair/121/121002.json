@@ -1,1 +1,97 @@
-{"id":"121002","name":"ロボットガールズZプラス","sites":[{"site":"bilibili","id":"3802","sort":6}],"eps":[{"id":460973,"sort":1,"name":"お待たせ!ロボットガールズZ","sites":[{"site":"bilibili","sort":1,"title":"让各位久等了！机器人少女Z","url":"https://www.bilibili.com/bangumi/play/ep86566","time":"2016-04-20T02:39:00.000Z"}]},{"id":460974,"sort":2,"name":"驚愕!チームG、大ピンチ!","sites":[{"site":"bilibili","sort":2,"title":"惊愕！G小队大危机！","url":"https://www.bilibili.com/bangumi/play/ep86567","time":"2016-04-20T02:39:00.000Z"}]},{"id":460975,"sort":3,"name":"決定!最強ロボットガールズ","sites":[{"site":"bilibili","sort":3,"title":"决定！最强盖塔系少女","url":"https://www.bilibili.com/bangumi/play/ep86568","time":"2016-04-20T02:39:00.000Z"}]},{"id":460976,"sort":4,"name":"進撃!!ガールズ軍団!","sites":[{"site":"bilibili","sort":4,"title":"进击！！少女队军团！","url":"https://www.bilibili.com/bangumi/play/ep86569","time":"2016-04-20T02:39:00.000Z"}]},{"id":460977,"sort":5,"name":"あ然呆然！ 練馬追放？！","sites":[{"site":"bilibili","sort":5,"title":"哑然呆然！ 练马追放？！","url":"https://www.bilibili.com/bangumi/play/ep86570","time":"2016-04-20T02:39:00.000Z"}]},{"id":460978,"sort":6,"name":"無敵！ チームZニューパワー！","sites":[{"site":"bilibili","sort":6,"title":"无敌！ Z小队新力量！","url":"https://www.bilibili.com/bangumi/play/ep86571","time":"2016-04-20T02:39:00.000Z"}]}]}
+{
+ "id": "121002",
+ "name": "ロボットガールズZプラス",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3802",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 460973,
+   "sort": 1,
+   "name": "お待たせ!ロボットガールズZ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "让各位久等了！机器人少女Z",
+     "url": "https://www.bilibili.com/bangumi/play/ep86566",
+     "time": "2016-04-20T02:39:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 460974,
+   "sort": 2,
+   "name": "驚愕!チームG、大ピンチ!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "惊愕！G小队大危机！",
+     "url": "https://www.bilibili.com/bangumi/play/ep86567",
+     "time": "2016-04-20T02:39:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 460975,
+   "sort": 3,
+   "name": "決定!最強ロボットガールズ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "决定！最强盖塔系少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep86568",
+     "time": "2016-04-20T02:39:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 460976,
+   "sort": 4,
+   "name": "進撃!!ガールズ軍団!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "进击！！少女队军团！",
+     "url": "https://www.bilibili.com/bangumi/play/ep86569",
+     "time": "2016-04-20T02:39:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 460977,
+   "sort": 5,
+   "name": "あ然呆然！ 練馬追放？！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "哑然呆然！ 练马追放？！",
+     "url": "https://www.bilibili.com/bangumi/play/ep86570",
+     "time": "2016-04-20T02:39:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 460978,
+   "sort": 6,
+   "name": "無敵！ チームZニューパワー！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "无敌！ Z小队新力量！",
+     "url": "https://www.bilibili.com/bangumi/play/ep86571",
+     "time": "2016-04-20T02:39:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,167 @@
-{"id":"3012","name":"もやしもん","sites":[{"site":"bilibili","id":"3405","sort":11}],"eps":[{"id":20179,"sort":1,"name":"農大菌物語","sites":[{"site":"bilibili","sort":1,"title":"农大菌物语","url":"https://www.bilibili.com/bangumi/play/ep84870","time":"2016-03-09T03:47:33.000Z"}]},{"id":20180,"sort":2,"name":"三億円の農大生","sites":[{"site":"bilibili","sort":2,"title":"三亿元的农大生","url":"https://www.bilibili.com/bangumi/play/ep84871","time":"2016-03-09T03:47:33.000Z"}]},{"id":20181,"sort":3,"name":"菌でかもすぞ！","sites":[{"site":"bilibili","sort":3,"title":"用菌酿了你哦！","url":"https://www.bilibili.com/bangumi/play/ep84872","time":"2016-03-09T03:47:33.000Z"}]},{"id":20182,"sort":4,"name":"あちにち菌祭リ","sites":[{"site":"bilibili","sort":4,"title":"无处不是菌节庆","url":"https://www.bilibili.com/bangumi/play/ep84873","time":"2016-03-09T03:47:33.000Z"}]},{"id":20183,"sort":5,"name":"怪奇！菌オバヶ","sites":[{"site":"bilibili","sort":5,"title":"怪异！菌鬼怪","url":"https://www.bilibili.com/bangumi/play/ep84874","time":"2016-03-09T03:47:33.000Z"}]},{"id":20184,"sort":6,"name":"悩殺！ミス農大","sites":[{"site":"bilibili","sort":6,"title":"神魂颠倒！农大小姐","url":"https://www.bilibili.com/bangumi/play/ep84875","time":"2016-03-09T03:47:33.000Z"}]},{"id":20185,"sort":7,"name":"開幕！農大春祭","sites":[{"site":"bilibili","sort":7,"title":"开幕！农大春祭","url":"https://www.bilibili.com/bangumi/play/ep84876","time":"2016-03-09T03:47:33.000Z"}]},{"id":20186,"sort":8,"name":"農大正門攻略戦","sites":[{"site":"bilibili","sort":8,"title":"农大正门攻略战","url":"https://www.bilibili.com/bangumi/play/ep84877","time":"2016-03-09T03:47:33.000Z"}]},{"id":20187,"sort":9,"name":"柔肌にとリつけ","sites":[{"site":"bilibili","sort":9,"title":"附着到嫩肤","url":"https://www.bilibili.com/bangumi/play/ep84878","time":"2016-03-09T03:47:33.000Z"}]},{"id":20188,"sort":10,"name":"ゴスロリキッス","sites":[{"site":"bilibili","sort":10,"title":"哥特萝莉之吻","url":"https://www.bilibili.com/bangumi/play/ep84879","time":"2016-03-09T03:47:33.000Z"}]},{"id":20189,"sort":11,"name":"煇く菌未來","sites":[{"site":"bilibili","sort":11,"title":"辉煌的菌未来","url":"https://www.bilibili.com/bangumi/play/ep84880","time":"2016-03-09T03:47:33.000Z"}]}]}
+{
+ "id": "3012",
+ "name": "もやしもん",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3405",
+   "sort": 11
+  }
+ ],
+ "eps": [
+  {
+   "id": 20179,
+   "sort": 1,
+   "name": "農大菌物語",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "农大菌物语",
+     "url": "https://www.bilibili.com/bangumi/play/ep84870",
+     "time": "2016-03-09T03:47:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 20180,
+   "sort": 2,
+   "name": "三億円の農大生",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "三亿元的农大生",
+     "url": "https://www.bilibili.com/bangumi/play/ep84871",
+     "time": "2016-03-09T03:47:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 20181,
+   "sort": 3,
+   "name": "菌でかもすぞ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "用菌酿了你哦！",
+     "url": "https://www.bilibili.com/bangumi/play/ep84872",
+     "time": "2016-03-09T03:47:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 20182,
+   "sort": 4,
+   "name": "あちにち菌祭リ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "无处不是菌节庆",
+     "url": "https://www.bilibili.com/bangumi/play/ep84873",
+     "time": "2016-03-09T03:47:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 20183,
+   "sort": 5,
+   "name": "怪奇！菌オバヶ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "怪异！菌鬼怪",
+     "url": "https://www.bilibili.com/bangumi/play/ep84874",
+     "time": "2016-03-09T03:47:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 20184,
+   "sort": 6,
+   "name": "悩殺！ミス農大",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "神魂颠倒！农大小姐",
+     "url": "https://www.bilibili.com/bangumi/play/ep84875",
+     "time": "2016-03-09T03:47:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 20185,
+   "sort": 7,
+   "name": "開幕！農大春祭",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "开幕！农大春祭",
+     "url": "https://www.bilibili.com/bangumi/play/ep84876",
+     "time": "2016-03-09T03:47:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 20186,
+   "sort": 8,
+   "name": "農大正門攻略戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "农大正门攻略战",
+     "url": "https://www.bilibili.com/bangumi/play/ep84877",
+     "time": "2016-03-09T03:47:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 20187,
+   "sort": 9,
+   "name": "柔肌にとリつけ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "附着到嫩肤",
+     "url": "https://www.bilibili.com/bangumi/play/ep84878",
+     "time": "2016-03-09T03:47:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 20188,
+   "sort": 10,
+   "name": "ゴスロリキッス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "哥特萝莉之吻",
+     "url": "https://www.bilibili.com/bangumi/play/ep84879",
+     "time": "2016-03-09T03:47:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 20189,
+   "sort": 11,
+   "name": "煇く菌未來",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "辉煌的菌未来",
+     "url": "https://www.bilibili.com/bangumi/play/ep84880",
+     "time": "2016-03-09T03:47:33.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,181 @@
-{"id":"214265","name":"少女☆歌劇 レヴュースタァライト","sites":[{"site":"bilibili","id":"102892","sort":12}],"eps":[{"id":805573,"sort":1,"name":"舞台少女","sites":[{"site":"bilibili","sort":1,"title":"舞台少女","url":"https://www.bilibili.com/bangumi/play/ep232367","time":"2018-07-13T06:30:00.000Z"}]},{"id":805574,"sort":2,"name":"運命の舞台","sites":[{"site":"bilibili","sort":2,"title":"命运之舞台","url":"https://www.bilibili.com/bangumi/play/ep232368","time":"2018-07-20T06:30:00.000Z"}]},{"id":805575,"sort":3,"name":"トップスタァ","sites":[{"site":"bilibili","sort":3,"title":"TopStar","url":"https://www.bilibili.com/bangumi/play/ep232369","time":"2018-07-27T06:30:00.000Z"}]},{"id":805576,"sort":4,"name":"約束タワー","sites":[{"site":"bilibili","sort":4,"title":"约定之塔","url":"https://www.bilibili.com/bangumi/play/ep232370","time":"2018-08-03T06:30:00.000Z"}]},{"id":805577,"sort":5,"name":"キラめきのありか","sites":[{"site":"bilibili","sort":5,"title":"闪耀之所在","url":"https://www.bilibili.com/bangumi/play/ep232371","time":"2018-08-10T06:30:00.000Z"}]},{"id":805578,"sort":6,"name":"ふたりの花道","sites":[{"site":"bilibili","sort":6,"title":"两人的花道","url":"https://www.bilibili.com/bangumi/play/ep232372","time":"2018-08-17T06:30:00.000Z"}]},{"id":805579,"sort":7,"name":"大場なな","sites":[{"site":"bilibili","sort":7,"title":"大场奈奈","url":"https://www.bilibili.com/bangumi/play/ep232373","time":"2018-08-24T06:30:31.000Z"}]},{"id":805580,"sort":8,"name":"ひかり、さす方へ","sites":[{"site":"bilibili","sort":8,"title":"光的指向","url":"https://www.bilibili.com/bangumi/play/ep232374","time":"2018-08-31T06:30:00.000Z"}]},{"id":805581,"sort":9,"name":"星祭りの夜に","sites":[{"site":"bilibili","sort":9,"title":"在星之庆典的夜晚","url":"https://www.bilibili.com/bangumi/play/ep232375","time":"2018-09-07T07:00:00.000Z"}]},{"id":805582,"sort":10,"name":"されど舞台はつづくThe Show Must Go On","sites":[{"site":"bilibili","sort":10,"title":"然而舞台还将继续","url":"https://www.bilibili.com/bangumi/play/ep232376","time":"2018-09-14T06:30:00.000Z"}]},{"id":805583,"sort":11,"name":"わたしたちは","sites":[{"site":"bilibili","sort":11,"title":"我们是","url":"https://www.bilibili.com/bangumi/play/ep232377","time":"2018-09-21T06:30:00.000Z"}]},{"id":805584,"sort":12,"name":"レヴュースタァライト","sites":[{"site":"bilibili","sort":12,"title":"RevueStarLight","url":"https://www.bilibili.com/bangumi/play/ep232378","time":"2018-09-28T06:30:00.000Z"}]}]}
+{
+ "id": "214265",
+ "name": "少女☆歌劇 レヴュースタァライト",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "102892",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 805573,
+   "sort": 1,
+   "name": "舞台少女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "舞台少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep232367",
+     "time": "2018-07-13T06:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805574,
+   "sort": 2,
+   "name": "運命の舞台",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "命运之舞台",
+     "url": "https://www.bilibili.com/bangumi/play/ep232368",
+     "time": "2018-07-20T06:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805575,
+   "sort": 3,
+   "name": "トップスタァ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "TopStar",
+     "url": "https://www.bilibili.com/bangumi/play/ep232369",
+     "time": "2018-07-27T06:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805576,
+   "sort": 4,
+   "name": "約束タワー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "约定之塔",
+     "url": "https://www.bilibili.com/bangumi/play/ep232370",
+     "time": "2018-08-03T06:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805577,
+   "sort": 5,
+   "name": "キラめきのありか",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "闪耀之所在",
+     "url": "https://www.bilibili.com/bangumi/play/ep232371",
+     "time": "2018-08-10T06:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805578,
+   "sort": 6,
+   "name": "ふたりの花道",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "两人的花道",
+     "url": "https://www.bilibili.com/bangumi/play/ep232372",
+     "time": "2018-08-17T06:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805579,
+   "sort": 7,
+   "name": "大場なな",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "大场奈奈",
+     "url": "https://www.bilibili.com/bangumi/play/ep232373",
+     "time": "2018-08-24T06:30:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805580,
+   "sort": 8,
+   "name": "ひかり、さす方へ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "光的指向",
+     "url": "https://www.bilibili.com/bangumi/play/ep232374",
+     "time": "2018-08-31T06:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805581,
+   "sort": 9,
+   "name": "星祭りの夜に",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "在星之庆典的夜晚",
+     "url": "https://www.bilibili.com/bangumi/play/ep232375",
+     "time": "2018-09-07T07:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805582,
+   "sort": 10,
+   "name": "されど舞台はつづくThe Show Must Go On",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "然而舞台还将继续",
+     "url": "https://www.bilibili.com/bangumi/play/ep232376",
+     "time": "2018-09-14T06:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805583,
+   "sort": 11,
+   "name": "わたしたちは",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "我们是",
+     "url": "https://www.bilibili.com/bangumi/play/ep232377",
+     "time": "2018-09-21T06:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805584,
+   "sort": 12,
+   "name": "レヴュースタァライト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "RevueStarLight",
+     "url": "https://www.bilibili.com/bangumi/play/ep232378",
+     "time": "2018-09-28T06:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

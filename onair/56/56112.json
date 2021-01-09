@@ -1,0 +1,169 @@
+{
+ "id": "56112",
+ "name": "神のみぞ知るセカイ 女神篇",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "fce4a04acfe311e2be40",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 288918,
+   "sort": 1,
+   "name": "When the Sun Goes Down",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 When the Sun Goes Down",
+     "url": "https://v.youku.com/v_show/id_XNTc5NjcwOTYw.html?s=fce4a04acfe311e2be40"
+    }
+   ]
+  },
+  {
+   "id": 288919,
+   "sort": 2,
+   "name": "スクランブルフォーメーション",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 Scramble Formation",
+     "url": "https://v.youku.com/v_show/id_XNTgyMjIwMDgw.html?s=fce4a04acfe311e2be40"
+    }
+   ]
+  },
+  {
+   "id": 294976,
+   "sort": 3,
+   "name": "5 HOME",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 5 Home",
+     "url": "https://v.youku.com/v_show/id_XNTg0OTY3OTQ0.html?s=fce4a04acfe311e2be40"
+    }
+   ]
+  },
+  {
+   "id": 288921,
+   "sort": 4,
+   "name": "Doll Roll Hall",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 Doll Roll Hall",
+     "url": "https://v.youku.com/v_show/id_XNTg3ODExNDg0.html?s=fce4a04acfe311e2be40"
+    }
+   ]
+  },
+  {
+   "id": 288922,
+   "sort": 5,
+   "name": "ぱんちDEでーと",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 一锤定音DE约会",
+     "url": "https://v.youku.com/v_show/id_XNTkyMDI1NDQ4.html?s=fce4a04acfe311e2be40"
+    }
+   ]
+  },
+  {
+   "id": 288923,
+   "sort": 6,
+   "name": "私について",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 关于我",
+     "url": "https://v.youku.com/v_show/id_XNTkzODM5Mjc2.html?s=fce4a04acfe311e2be40"
+    }
+   ]
+  },
+  {
+   "id": 288924,
+   "sort": 7,
+   "name": "Bad Medicine",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 Bad Medicine",
+     "url": "https://v.youku.com/v_show/id_XNTk4MTAzNjc2.html?s=fce4a04acfe311e2be40"
+    }
+   ]
+  },
+  {
+   "id": 288925,
+   "sort": 8,
+   "name": "めがみみくっす",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 女神MIX",
+     "url": "https://v.youku.com/v_show/id_XNTk5OTg4OTUy.html?s=fce4a04acfe311e2be40"
+    }
+   ]
+  },
+  {
+   "id": 288926,
+   "sort": 9,
+   "name": "Absent Lovers",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 Absent Lovers",
+     "url": "https://v.youku.com/v_show/id_XNjAyOTQwMzA0.html?s=fce4a04acfe311e2be40"
+    }
+   ]
+  },
+  {
+   "id": 288927,
+   "sort": 10,
+   "name": "ラブリンス",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 迷局",
+     "url": "https://v.youku.com/v_show/id_XNjA2ODkyNTcy.html?s=fce4a04acfe311e2be40"
+    }
+   ]
+  },
+  {
+   "id": 288928,
+   "sort": 11,
+   "name": "SHOW ME",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 SHOW ME",
+     "url": "https://v.youku.com/v_show/id_XNjA5NzkxMzA0.html?s=fce4a04acfe311e2be40"
+    }
+   ]
+  },
+  {
+   "id": 288920,
+   "sort": 12,
+   "name": "初めいて恋をした記憶",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 最终话 初恋记忆",
+     "url": "https://v.youku.com/v_show/id_XNjEyNTY0NjQw.html?s=fce4a04acfe311e2be40"
+    }
+   ]
+  }
+ ]
+}

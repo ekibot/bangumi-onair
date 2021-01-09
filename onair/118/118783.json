@@ -1,1 +1,167 @@
-{"id":"118783","name":"すべてがFになる THE PERFECT INSIDER","sites":[{"site":"bilibili","id":"2726","sort":11}],"eps":[{"id":564496,"sort":1,"name":"白い面会","sites":[{"site":"bilibili","sort":1,"title":"白色的会面","url":"https://www.bilibili.com/bangumi/play/ep71026","time":"2015-10-08T17:35:00.000Z"}]},{"id":564497,"sort":2,"name":"蒼色の邂逅","sites":[{"site":"bilibili","sort":2,"title":"苍色的邂逅","url":"https://www.bilibili.com/bangumi/play/ep72675","time":"2015-10-15T17:35:00.000Z"}]},{"id":564498,"sort":3,"name":"赤い魔法","sites":[{"site":"bilibili","sort":3,"title":"赤色的魔法","url":"https://www.bilibili.com/bangumi/play/ep74932","time":"2015-10-22T17:35:00.000Z"}]},{"id":564499,"sort":4,"name":"虹色の過去","sites":[{"site":"bilibili","sort":4,"title":"虹色的过去","url":"https://www.bilibili.com/bangumi/play/ep75818","time":"2015-10-29T20:10:00.000Z"}]},{"id":564500,"sort":5,"name":"銀色の希望","sites":[{"site":"bilibili","sort":5,"title":"银色的希望","url":"https://www.bilibili.com/bangumi/play/ep76458","time":"2015-11-05T17:35:00.000Z"}]},{"id":564501,"sort":6,"name":"真紅の決意","sites":[{"site":"bilibili","sort":6,"title":"鲜红色的决心","url":"https://www.bilibili.com/bangumi/play/ep77597","time":"2015-11-12T17:50:00.000Z"}]},{"id":564502,"sort":7,"name":"灰色の境界","sites":[{"site":"bilibili","sort":7,"title":"灰色的境界","url":"https://www.bilibili.com/bangumi/play/ep79169","time":"2015-11-19T17:35:00.000Z"}]},{"id":564503,"sort":8,"name":"紫色の夜明け","sites":[{"site":"bilibili","sort":8,"title":"紫色的黎明","url":"https://www.bilibili.com/bangumi/play/ep79447","time":"2015-11-26T17:35:00.000Z"}]},{"id":564504,"sort":9,"name":"黄色の死角","sites":[{"site":"bilibili","sort":9,"title":"黄色的死角","url":"https://www.bilibili.com/bangumi/play/ep80482","time":"2015-12-03T17:35:00.000Z"}]},{"id":564505,"sort":10,"name":"紫苑色の真実","sites":[{"site":"bilibili","sort":10,"title":"紫苑色的真实","url":"https://www.bilibili.com/bangumi/play/ep81213","time":"2015-12-10T17:35:00.000Z"}]},{"id":564506,"sort":11,"name":"無色の週末","sites":[{"site":"bilibili","sort":11,"title":"无色的周末","url":"https://www.bilibili.com/bangumi/play/ep81612","time":"2015-12-17T17:46:00.000Z"}]}]}
+{
+ "id": "118783",
+ "name": "すべてがFになる THE PERFECT INSIDER",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2726",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 564496,
+   "sort": 1,
+   "name": "白い面会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "白色的会面",
+     "url": "https://www.bilibili.com/bangumi/play/ep71026",
+     "time": "2015-10-08T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 564497,
+   "sort": 2,
+   "name": "蒼色の邂逅",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "苍色的邂逅",
+     "url": "https://www.bilibili.com/bangumi/play/ep72675",
+     "time": "2015-10-15T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 564498,
+   "sort": 3,
+   "name": "赤い魔法",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "赤色的魔法",
+     "url": "https://www.bilibili.com/bangumi/play/ep74932",
+     "time": "2015-10-22T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 564499,
+   "sort": 4,
+   "name": "虹色の過去",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "虹色的过去",
+     "url": "https://www.bilibili.com/bangumi/play/ep75818",
+     "time": "2015-10-29T20:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 564500,
+   "sort": 5,
+   "name": "銀色の希望",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "银色的希望",
+     "url": "https://www.bilibili.com/bangumi/play/ep76458",
+     "time": "2015-11-05T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 564501,
+   "sort": 6,
+   "name": "真紅の決意",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "鲜红色的决心",
+     "url": "https://www.bilibili.com/bangumi/play/ep77597",
+     "time": "2015-11-12T17:50:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 564502,
+   "sort": 7,
+   "name": "灰色の境界",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "灰色的境界",
+     "url": "https://www.bilibili.com/bangumi/play/ep79169",
+     "time": "2015-11-19T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 564503,
+   "sort": 8,
+   "name": "紫色の夜明け",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "紫色的黎明",
+     "url": "https://www.bilibili.com/bangumi/play/ep79447",
+     "time": "2015-11-26T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 564504,
+   "sort": 9,
+   "name": "黄色の死角",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "黄色的死角",
+     "url": "https://www.bilibili.com/bangumi/play/ep80482",
+     "time": "2015-12-03T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 564505,
+   "sort": 10,
+   "name": "紫苑色の真実",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "紫苑色的真实",
+     "url": "https://www.bilibili.com/bangumi/play/ep81213",
+     "time": "2015-12-10T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 564506,
+   "sort": 11,
+   "name": "無色の週末",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "无色的周末",
+     "url": "https://www.bilibili.com/bangumi/play/ep81612",
+     "time": "2015-12-17T17:46:00.000Z"
+    }
+   ]
+  }
+ ]
+}

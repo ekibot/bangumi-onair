@@ -1,1 +1,27 @@
-{"id":"189660","name":"青鬼 THE ANIMATION","sites":[{"site":"bilibili","id":"5929","sort":1}],"eps":[{"id":699005,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep101760","time":"2017-02-11T12:37:05.000Z"}]}]}
+{
+ "id": "189660",
+ "name": "青鬼 THE ANIMATION",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5929",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 699005,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep101760",
+     "time": "2017-02-11T12:37:05.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,38 @@
-{"id":"34025","name":"図書館戦争 革命のつばさ","sites":[{"site":"bilibili","id":"3805","sort":1},{"site":"qq","id":"m/mzc00200z3lzano","sort":1}],"eps":[{"id":237566,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"Toshokan_kakumei","url":"https://www.bilibili.com/bangumi/play/ep271879","time":"2019-05-11T04:24:30.000Z"},{"site":"qq","sort":1,"title":"图书馆战争：革命之翼","url":"https://v.qq.com/x/cover/mzc00200z3lzano/a3021kpmhni.html"}]}]}
+{
+ "id": "34025",
+ "name": "図書館戦争 革命のつばさ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3805",
+   "sort": 1
+  },
+  {
+   "site": "qq",
+   "id": "m/mzc00200z3lzano",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 237566,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Toshokan_kakumei",
+     "url": "https://www.bilibili.com/bangumi/play/ep271879",
+     "time": "2019-05-11T04:24:30.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "图书馆战争：革命之翼",
+     "url": "https://v.qq.com/x/cover/mzc00200z3lzano/a3021kpmhni.html"
+    }
+   ]
+  }
+ ]
+}

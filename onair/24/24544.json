@@ -1,1 +1,41 @@
-{"id":"24544","name":"るろうに剣心 -明治剣客浪漫譚- 新京都編","sites":[{"site":"bilibili","id":"28229024","sort":2}],"eps":[{"id":125750,"sort":1,"name":"焔の獄","sites":[{"site":"bilibili","sort":1,"title":"焰之狱","url":"https://www.bilibili.com/bangumi/play/ep86033","time":"2020-06-05T08:28:00.000Z"}]},{"id":125751,"sort":2,"name":"光の囀","sites":[{"site":"bilibili","sort":2,"title":"光明的啼鸣","url":"https://www.bilibili.com/bangumi/play/ep86034","time":"2020-06-05T08:29:00.000Z"}]}]}
+{
+ "id": "24544",
+ "name": "るろうに剣心 -明治剣客浪漫譚- 新京都編",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28229024",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 125750,
+   "sort": 1,
+   "name": "焔の獄",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "焰之狱",
+     "url": "https://www.bilibili.com/bangumi/play/ep86033",
+     "time": "2020-06-05T08:28:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 125751,
+   "sort": 2,
+   "name": "光の囀",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "光明的啼鸣",
+     "url": "https://www.bilibili.com/bangumi/play/ep86034",
+     "time": "2020-06-05T08:29:00.000Z"
+    }
+   ]
+  }
+ ]
+}

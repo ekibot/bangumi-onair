@@ -1,1 +1,50 @@
-{"id":"468","name":"ドラえもん のび太とロボット王国","sites":[{"site":"qq","id":"z/z8alyhrvkd3jp2y","sort":32},{"site":"iqiyi","id":"a_19rrh6mrdl","sort":1},{"site":"bilibili","id":"3866","sort":1}],"eps":[{"id":859542,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"1980：大雄的恐龙王国","url":"https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"},{"site":"iqiyi","sort":1,"title":"大雄与机器人王国","url":"http://www.iqiyi.com/v_19rr0jtue8.html","time":"2018-05-31T16:00:09.000Z"},{"site":"bilibili","sort":1,"title":"大雄与机器人王国","url":"https://www.bilibili.com/bangumi/play/ep86829","time":"2016-04-27T09:07:00.000Z"}]}]}
+{
+ "id": "468",
+ "name": "ドラえもん のび太とロボット王国",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "z/z8alyhrvkd3jp2y",
+   "sort": 31
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh6mrdl",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "3866",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 859542,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "1980：大雄与小恐龙",
+     "url": "https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "大雄与机器人王国",
+     "url": "http://www.iqiyi.com/v_19rr0jtue8.html",
+     "time": "2018-05-31T16:00:09.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "大雄与机器人王国",
+     "url": "https://www.bilibili.com/bangumi/play/ep86829",
+     "time": "2016-04-27T09:07:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,181 @@
-{"id":"93424","name":"それでも世界は美しい","sites":[{"site":"bilibili","id":"4152","sort":12}],"eps":[{"id":391021,"sort":1,"name":"晴れの大国","sites":[{"site":"bilibili","sort":1,"title":"晴之大国","url":"https://www.bilibili.com/bangumi/play/ep107669","time":"2017-05-26T10:06:40.000Z"}]},{"id":391022,"sort":2,"name":"雨の公女","sites":[{"site":"bilibili","sort":2,"title":"雨之公主","url":"https://www.bilibili.com/bangumi/play/ep107670","time":"2017-05-26T10:06:40.000Z"}]},{"id":391023,"sort":3,"name":"関白宣言","sites":[{"site":"bilibili","sort":3,"title":"关白宣言","url":"https://www.bilibili.com/bangumi/play/ep107671","time":"2017-05-26T10:06:40.000Z"}]},{"id":391024,"sort":4,"name":"Ring of tales①","sites":[{"site":"bilibili","sort":4,"title":"Ring of tales①","url":"https://www.bilibili.com/bangumi/play/ep107672","time":"2017-05-26T10:06:40.000Z"}]},{"id":391025,"sort":5,"name":"Ring of tales②","sites":[{"site":"bilibili","sort":5,"title":"Ring of tales②","url":"https://www.bilibili.com/bangumi/play/ep107673","time":"2017-05-26T10:06:40.000Z"}]},{"id":391026,"sort":6,"name":"Call my name","sites":[{"site":"bilibili","sort":6,"title":"Call my name","url":"https://www.bilibili.com/bangumi/play/ep107674","time":"2017-05-26T10:06:40.000Z"}]},{"id":391027,"sort":7,"name":"Wild waltz","sites":[{"site":"bilibili","sort":7,"title":"Wild Waltz","url":"https://www.bilibili.com/bangumi/play/ep107675","time":"2017-05-26T10:06:40.000Z"}]},{"id":391028,"sort":8,"name":"雨やどり","sites":[{"site":"bilibili","sort":8,"title":"避雨","url":"https://www.bilibili.com/bangumi/play/ep107676","time":"2017-05-26T10:06:40.000Z"}]},{"id":391029,"sort":9,"name":"雨の公国","sites":[{"site":"bilibili","sort":9,"title":"雨之公国","url":"https://www.bilibili.com/bangumi/play/ep107677","time":"2017-05-26T10:06:40.000Z"}]},{"id":391030,"sort":10,"name":"正しい国","sites":[{"site":"bilibili","sort":10,"title":"正确的国家","url":"https://www.bilibili.com/bangumi/play/ep107678","time":"2017-05-26T10:06:40.000Z"}]},{"id":391031,"sort":11,"name":"通り過ぎる風","sites":[{"site":"bilibili","sort":11,"title":"呼啸而去的风","url":"https://www.bilibili.com/bangumi/play/ep107679","time":"2017-05-26T10:06:40.000Z"}]},{"id":391032,"sort":12,"name":"帰還","sites":[{"site":"bilibili","sort":12,"title":"归来","url":"https://www.bilibili.com/bangumi/play/ep107680","time":"2017-05-26T10:06:40.000Z"}]}]}
+{
+ "id": "93424",
+ "name": "それでも世界は美しい",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4152",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 391021,
+   "sort": 1,
+   "name": "晴れの大国",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "晴之大国",
+     "url": "https://www.bilibili.com/bangumi/play/ep107669",
+     "time": "2017-05-26T10:06:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 391022,
+   "sort": 2,
+   "name": "雨の公女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "雨之公主",
+     "url": "https://www.bilibili.com/bangumi/play/ep107670",
+     "time": "2017-05-26T10:06:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 391023,
+   "sort": 3,
+   "name": "関白宣言",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "关白宣言",
+     "url": "https://www.bilibili.com/bangumi/play/ep107671",
+     "time": "2017-05-26T10:06:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 391024,
+   "sort": 4,
+   "name": "Ring of tales①",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Ring of tales①",
+     "url": "https://www.bilibili.com/bangumi/play/ep107672",
+     "time": "2017-05-26T10:06:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 391025,
+   "sort": 5,
+   "name": "Ring of tales②",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Ring of tales②",
+     "url": "https://www.bilibili.com/bangumi/play/ep107673",
+     "time": "2017-05-26T10:06:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 391026,
+   "sort": 6,
+   "name": "Call my name",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Call my name",
+     "url": "https://www.bilibili.com/bangumi/play/ep107674",
+     "time": "2017-05-26T10:06:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 391027,
+   "sort": 7,
+   "name": "Wild waltz",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "Wild Waltz",
+     "url": "https://www.bilibili.com/bangumi/play/ep107675",
+     "time": "2017-05-26T10:06:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 391028,
+   "sort": 8,
+   "name": "雨やどり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "避雨",
+     "url": "https://www.bilibili.com/bangumi/play/ep107676",
+     "time": "2017-05-26T10:06:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 391029,
+   "sort": 9,
+   "name": "雨の公国",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "雨之公国",
+     "url": "https://www.bilibili.com/bangumi/play/ep107677",
+     "time": "2017-05-26T10:06:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 391030,
+   "sort": 10,
+   "name": "正しい国",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "正确的国家",
+     "url": "https://www.bilibili.com/bangumi/play/ep107678",
+     "time": "2017-05-26T10:06:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 391031,
+   "sort": 11,
+   "name": "通り過ぎる風",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "呼啸而去的风",
+     "url": "https://www.bilibili.com/bangumi/play/ep107679",
+     "time": "2017-05-26T10:06:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 391032,
+   "sort": 12,
+   "name": "帰還",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "归来",
+     "url": "https://www.bilibili.com/bangumi/play/ep107680",
+     "time": "2017-05-26T10:06:40.000Z"
+    }
+   ]
+  }
+ ]
+}

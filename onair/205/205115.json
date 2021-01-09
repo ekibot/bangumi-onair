@@ -1,1 +1,195 @@
-{"id":"205115","name":"ようじょしぇんき","sites":[{"site":"bilibili","id":"5914","sort":13}],"eps":[{"id":688119,"sort":0,"name":"第0話","sites":[{"site":"bilibili","sort":0,"title":"","url":"https://www.bilibili.com/bangumi/play/ep101287","time":"2017-02-06T02:36:32.000Z"}]},{"id":688120,"sort":1,"name":"第1話","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep101288","time":"2017-02-06T02:36:58.000Z"}]},{"id":688121,"sort":2,"name":"第2話","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep101289","time":"2017-02-06T02:37:29.000Z"}]},{"id":688122,"sort":3,"name":"第3話","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep101290","time":"2017-02-06T02:37:48.000Z"}]},{"id":688123,"sort":4,"name":"第4話","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep101291","time":"2017-02-06T02:38:20.000Z"}]},{"id":688124,"sort":5,"name":"第5話","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep101496","time":"2017-02-07T02:31:22.000Z"}]},{"id":688125,"sort":6,"name":"第6話","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep101793","time":"2017-02-14T03:05:55.000Z"}]},{"id":688126,"sort":7,"name":"第7話","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep102111","time":"2017-02-28T02:15:18.000Z"}]},{"id":688127,"sort":8,"name":"第8話","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep102193","time":"2017-03-07T02:05:14.000Z"}]},{"id":688128,"sort":9,"name":"第9話","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep102278","time":"2017-03-14T02:43:11.000Z"}]},{"id":688129,"sort":10,"name":"第10話","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep103807","time":"2017-04-05T02:07:28.000Z"}]},{"id":688130,"sort":11,"name":"第11話","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep103808","time":"2017-04-05T02:07:49.000Z"}]},{"id":711416,"sort":12,"name":"第12話","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep103809","time":"2017-04-05T02:08:49.000Z"}]}]}
+{
+ "id": "205115",
+ "name": "ようじょしぇんき",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5914",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 688119,
+   "sort": 0,
+   "name": "第0話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 0,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep101287",
+     "time": "2017-02-06T02:36:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 688120,
+   "sort": 1,
+   "name": "第1話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep101288",
+     "time": "2017-02-06T02:36:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 688121,
+   "sort": 2,
+   "name": "第2話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep101289",
+     "time": "2017-02-06T02:37:29.000Z"
+    }
+   ]
+  },
+  {
+   "id": 688122,
+   "sort": 3,
+   "name": "第3話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep101290",
+     "time": "2017-02-06T02:37:48.000Z"
+    }
+   ]
+  },
+  {
+   "id": 688123,
+   "sort": 4,
+   "name": "第4話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep101291",
+     "time": "2017-02-06T02:38:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 688124,
+   "sort": 5,
+   "name": "第5話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep101496",
+     "time": "2017-02-07T02:31:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 688125,
+   "sort": 6,
+   "name": "第6話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep101793",
+     "time": "2017-02-14T03:05:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 688126,
+   "sort": 7,
+   "name": "第7話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep102111",
+     "time": "2017-02-28T02:15:18.000Z"
+    }
+   ]
+  },
+  {
+   "id": 688127,
+   "sort": 8,
+   "name": "第8話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep102193",
+     "time": "2017-03-07T02:05:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 688128,
+   "sort": 9,
+   "name": "第9話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep102278",
+     "time": "2017-03-14T02:43:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 688129,
+   "sort": 10,
+   "name": "第10話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep103807",
+     "time": "2017-04-05T02:07:28.000Z"
+    }
+   ]
+  },
+  {
+   "id": 688130,
+   "sort": 11,
+   "name": "第11話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep103808",
+     "time": "2017-04-05T02:07:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 711416,
+   "sort": 12,
+   "name": "第12話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep103809",
+     "time": "2017-04-05T02:08:49.000Z"
+    }
+   ]
+  }
+ ]
+}

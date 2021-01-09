@@ -1,1 +1,181 @@
-{"id":"28697","name":"シャイニング・ハーツ ～幸せのパン～","sites":[{"site":"bilibili","id":"797","sort":12}],"eps":[{"id":162461,"sort":1,"name":"ル・クールへようこそ","sites":[{"site":"bilibili","sort":1,"title":"欢迎光临 心","url":"https://www.bilibili.com/bangumi/play/ep14340","time":"2012-04-13T08:48:03.000Z"}]},{"id":162462,"sort":2,"name":"嵐の日","sites":[{"site":"bilibili","sort":2,"title":"风暴来临之日","url":"https://www.bilibili.com/bangumi/play/ep14339","time":"2012-04-20T13:02:11.000Z"}]},{"id":162463,"sort":3,"name":"灯火管制","sites":[{"site":"bilibili","sort":3,"title":"灯火管制","url":"https://www.bilibili.com/bangumi/play/ep14338","time":"2012-04-27T15:10:16.000Z"}]},{"id":162464,"sort":4,"name":"機械人形","sites":[{"site":"bilibili","sort":4,"title":"机器人","url":"https://www.bilibili.com/bangumi/play/ep14337","time":"2012-05-05T01:42:21.000Z"}]},{"id":162465,"sort":5,"name":"とろけるような","sites":[{"site":"bilibili","sort":5,"title":"像要融化一样","url":"https://www.bilibili.com/bangumi/play/ep14336","time":"2012-05-11T13:54:09.000Z"}]},{"id":162466,"sort":6,"name":"王子からの依頼","sites":[{"site":"bilibili","sort":6,"title":"来自王子的委托","url":"https://www.bilibili.com/bangumi/play/ep14335","time":"2012-05-18T14:35:26.000Z"}]},{"id":162467,"sort":7,"name":"それぞれのココロ","sites":[{"site":"bilibili","sort":7,"title":"各自的心","url":"https://www.bilibili.com/bangumi/play/ep14334","time":"2012-05-25T15:20:34.000Z"}]},{"id":162468,"sort":8,"name":"漂流人","sites":[{"site":"bilibili","sort":8,"title":"漂流人","url":"https://www.bilibili.com/bangumi/play/ep14333","time":"2012-06-02T02:37:34.000Z"}]},{"id":162469,"sort":9,"name":"怪盗再び","sites":[{"site":"bilibili","sort":9,"title":"怪盗再现","url":"https://www.bilibili.com/bangumi/play/ep14332","time":"2012-06-09T01:01:27.000Z"}]},{"id":162470,"sort":10,"name":"異世界からの使者","sites":[{"site":"bilibili","sort":10,"title":"来自异世界的使者","url":"https://www.bilibili.com/bangumi/play/ep14331","time":"2012-06-16T05:34:21.000Z"}]},{"id":162471,"sort":11,"name":"決戦","sites":[{"site":"bilibili","sort":11,"title":"决战","url":"https://www.bilibili.com/bangumi/play/ep14330","time":"2012-06-23T11:58:35.000Z"}]},{"id":162472,"sort":12,"name":"幸せのパン","sites":[{"site":"bilibili","sort":12,"title":"幸福的面包","url":"https://www.bilibili.com/bangumi/play/ep14329","time":"2012-07-01T07:56:03.000Z"}]}]}
+{
+ "id": "28697",
+ "name": "シャイニング・ハーツ ～幸せのパン～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "797",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 162461,
+   "sort": 1,
+   "name": "ル・クールへようこそ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "欢迎光临 心",
+     "url": "https://www.bilibili.com/bangumi/play/ep14340",
+     "time": "2012-04-13T08:48:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162462,
+   "sort": 2,
+   "name": "嵐の日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "风暴来临之日",
+     "url": "https://www.bilibili.com/bangumi/play/ep14339",
+     "time": "2012-04-20T13:02:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162463,
+   "sort": 3,
+   "name": "灯火管制",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "灯火管制",
+     "url": "https://www.bilibili.com/bangumi/play/ep14338",
+     "time": "2012-04-27T15:10:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162464,
+   "sort": 4,
+   "name": "機械人形",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "机器人",
+     "url": "https://www.bilibili.com/bangumi/play/ep14337",
+     "time": "2012-05-05T01:42:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162465,
+   "sort": 5,
+   "name": "とろけるような",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "像要融化一样",
+     "url": "https://www.bilibili.com/bangumi/play/ep14336",
+     "time": "2012-05-11T13:54:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162466,
+   "sort": 6,
+   "name": "王子からの依頼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "来自王子的委托",
+     "url": "https://www.bilibili.com/bangumi/play/ep14335",
+     "time": "2012-05-18T14:35:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162467,
+   "sort": 7,
+   "name": "それぞれのココロ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "各自的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep14334",
+     "time": "2012-05-25T15:20:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162468,
+   "sort": 8,
+   "name": "漂流人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "漂流人",
+     "url": "https://www.bilibili.com/bangumi/play/ep14333",
+     "time": "2012-06-02T02:37:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162469,
+   "sort": 9,
+   "name": "怪盗再び",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "怪盗再现",
+     "url": "https://www.bilibili.com/bangumi/play/ep14332",
+     "time": "2012-06-09T01:01:27.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162470,
+   "sort": 10,
+   "name": "異世界からの使者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "来自异世界的使者",
+     "url": "https://www.bilibili.com/bangumi/play/ep14331",
+     "time": "2012-06-16T05:34:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162471,
+   "sort": 11,
+   "name": "決戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "决战",
+     "url": "https://www.bilibili.com/bangumi/play/ep14330",
+     "time": "2012-06-23T11:58:35.000Z"
+    }
+   ]
+  },
+  {
+   "id": 162472,
+   "sort": 12,
+   "name": "幸せのパン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "幸福的面包",
+     "url": "https://www.bilibili.com/bangumi/play/ep14329",
+     "time": "2012-07-01T07:56:03.000Z"
+    }
+   ]
+  }
+ ]
+}

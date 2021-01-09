@@ -1,1 +1,54 @@
-{"id":"823","name":"名探偵コナン 瞳の中の暗殺者","sites":[{"site":"iqiyi","id":"a_19rrh9zual","sort":19},{"site":"qq","id":"b/bu8qr3h1vbia2kd","sort":20},{"site":"bilibili","id":"28228944","sort":2}],"eps":[{"id":264017,"sort":1,"name":"","sites":[{"site":"iqiyi","sort":1,"title":"计时引爆摩天楼","url":"http://www.iqiyi.com/v_19rr95syu8.html","time":"2016-11-08T01:59:50.000Z"},{"site":"qq","sort":1,"title":"名侦探柯南剧场版1997：计时引爆摩天楼","url":"https://v.qq.com/x/cover/bu8qr3h1vbia2kd/e00247rx4hn.html"}]}]}
+{
+ "id": "823",
+ "name": "名探偵コナン 瞳の中の暗殺者",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh9zual",
+   "sort": 19
+  },
+  {
+   "site": "qq",
+   "id": "b/bu8qr3h1vbia2kd",
+   "sort": 20
+  },
+  {
+   "site": "youku",
+   "id": "fa1f99ec61ad11e0bea1",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "28228944",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 264017,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "计时引爆摩天楼",
+     "url": "http://www.iqiyi.com/v_19rr95syu8.html",
+     "time": "2016-11-08T01:59:50.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "名侦探柯南剧场版1997：计时引爆摩天楼",
+     "url": "https://v.qq.com/x/cover/bu8qr3h1vbia2kd/e00247rx4hn.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "瞳孔中的暗杀者 名侦探柯南剧场版第四部",
+     "url": "https://v.youku.com/v_show/id_XNTMwNjUyNzE2.html?s=fa1f99ec61ad11e0bea1"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,258 @@
-{"id":"206700","name":"实验品家庭","sites":[{"site":"bilibili","id":"88872","sort":12},{"site":"qq","id":"g/g6da8tj74x97ebk","sort":12}],"eps":[{"id":787490,"sort":1,"name":"家庭","sites":[{"site":"bilibili","sort":1,"title":"家庭","url":"https://www.bilibili.com/bangumi/play/ep205206","time":"2018-04-28T02:00:00.000Z"},{"site":"qq","sort":1,"title":"实验品家庭_01","url":"https://v.qq.com/x/cover/g6da8tj74x97ebk/e00265q0t24.html"}]},{"id":787491,"sort":2,"name":"悸动","sites":[{"site":"bilibili","sort":2,"title":"悸动","url":"https://www.bilibili.com/bangumi/play/ep205207","time":"2018-04-28T02:00:00.000Z"},{"site":"qq","sort":2,"title":"实验品家庭_02","url":"https://v.qq.com/x/cover/g6da8tj74x97ebk/v0026r9250h.html"}]},{"id":787492,"sort":3,"name":"现实","sites":[{"site":"bilibili","sort":3,"title":"现实","url":"https://www.bilibili.com/bangumi/play/ep205208","time":"2018-04-28T02:00:00.000Z"},{"site":"qq","sort":3,"title":"实验品家庭_03","url":"https://v.qq.com/x/cover/g6da8tj74x97ebk/a0026xvnfdo.html"}]},{"id":787493,"sort":4,"name":"归巢","sites":[{"site":"bilibili","sort":4,"title":"归巢","url":"https://www.bilibili.com/bangumi/play/ep205209","time":"2018-04-28T02:00:00.000Z"},{"site":"qq","sort":4,"title":"实验品家庭_04","url":"https://v.qq.com/x/cover/g6da8tj74x97ebk/v0026usxwre.html"}]},{"id":787494,"sort":5,"name":"潜入","sites":[{"site":"bilibili","sort":5,"title":"潜入","url":"https://www.bilibili.com/bangumi/play/ep205210","time":"2018-05-01T02:00:00.000Z"},{"site":"qq","sort":5,"title":"实验品家庭_05","url":"https://v.qq.com/x/cover/g6da8tj74x97ebk/k0026p4jida.html"}]},{"id":787495,"sort":6,"name":"怪物","sites":[{"site":"bilibili","sort":6,"title":"怪物","url":"https://www.bilibili.com/bangumi/play/ep205211","time":"2018-05-08T02:00:00.000Z"},{"site":"qq","sort":6,"title":"实验品家庭_06","url":"https://v.qq.com/x/cover/g6da8tj74x97ebk/x0026abkp4i.html"}]},{"id":787496,"sort":7,"name":"姐妹","sites":[{"site":"bilibili","sort":7,"title":"姐妹","url":"https://www.bilibili.com/bangumi/play/ep205212","time":"2018-05-15T02:00:00.000Z"},{"site":"qq","sort":7,"title":"实验品家庭_07","url":"https://v.qq.com/x/cover/g6da8tj74x97ebk/w0026kh9w52.html"}]},{"id":787497,"sort":8,"name":"观测","sites":[{"site":"bilibili","sort":8,"title":"观测","url":"https://www.bilibili.com/bangumi/play/ep206215","time":"2018-05-22T02:00:00.000Z"},{"site":"qq","sort":8,"title":"实验品家庭_08","url":"https://v.qq.com/x/cover/g6da8tj74x97ebk/p002668hhih.html"}]},{"id":787498,"sort":9,"name":"心声","sites":[{"site":"bilibili","sort":9,"title":"心声","url":"https://www.bilibili.com/bangumi/play/ep205944","time":"2018-05-29T02:00:00.000Z"},{"site":"qq","sort":9,"title":"实验品家庭_09","url":"https://v.qq.com/x/cover/g6da8tj74x97ebk/p0026s063te.html"}]},{"id":787499,"sort":10,"name":"分裂","sites":[{"site":"bilibili","sort":10,"title":"分裂","url":"https://www.bilibili.com/bangumi/play/ep206570","time":"2018-06-05T02:00:00.000Z"},{"site":"qq","sort":10,"title":"实验品家庭_10","url":"https://v.qq.com/x/cover/g6da8tj74x97ebk/g0026vd5nfg.html"}]},{"id":787500,"sort":11,"name":"天平","sites":[{"site":"bilibili","sort":11,"title":"天平","url":"https://www.bilibili.com/bangumi/play/ep206961","time":"2018-06-12T02:00:00.000Z"},{"site":"qq","sort":11,"title":"实验品家庭_11","url":"https://v.qq.com/x/cover/g6da8tj74x97ebk/t0026vswtcf.html"}]},{"id":787501,"sort":12,"name":"实验品家庭","sites":[{"site":"bilibili","sort":12,"title":"实验品家庭","url":"https://www.bilibili.com/bangumi/play/ep212130","time":"2018-06-19T02:00:00.000Z"},{"site":"qq","sort":12,"title":"实验品家庭_12","url":"https://v.qq.com/x/cover/g6da8tj74x97ebk/a00262cnn4m.html"}]}]}
+{
+ "id": "206700",
+ "name": "实验品家庭",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "88872",
+   "sort": 12
+  },
+  {
+   "site": "qq",
+   "id": "g/g6da8tj74x97ebk",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 787490,
+   "sort": 1,
+   "name": "家庭",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "家庭",
+     "url": "https://www.bilibili.com/bangumi/play/ep205206",
+     "time": "2018-04-28T02:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "实验品家庭_01",
+     "url": "https://v.qq.com/x/cover/g6da8tj74x97ebk/e00265q0t24.html"
+    }
+   ]
+  },
+  {
+   "id": 787491,
+   "sort": 2,
+   "name": "悸动",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "悸动",
+     "url": "https://www.bilibili.com/bangumi/play/ep205207",
+     "time": "2018-04-28T02:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "实验品家庭_02",
+     "url": "https://v.qq.com/x/cover/g6da8tj74x97ebk/v0026r9250h.html"
+    }
+   ]
+  },
+  {
+   "id": 787492,
+   "sort": 3,
+   "name": "现实",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "现实",
+     "url": "https://www.bilibili.com/bangumi/play/ep205208",
+     "time": "2018-04-28T02:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "实验品家庭_03",
+     "url": "https://v.qq.com/x/cover/g6da8tj74x97ebk/a0026xvnfdo.html"
+    }
+   ]
+  },
+  {
+   "id": 787493,
+   "sort": 4,
+   "name": "归巢",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "归巢",
+     "url": "https://www.bilibili.com/bangumi/play/ep205209",
+     "time": "2018-04-28T02:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "实验品家庭_04",
+     "url": "https://v.qq.com/x/cover/g6da8tj74x97ebk/v0026usxwre.html"
+    }
+   ]
+  },
+  {
+   "id": 787494,
+   "sort": 5,
+   "name": "潜入",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "潜入",
+     "url": "https://www.bilibili.com/bangumi/play/ep205210",
+     "time": "2018-05-01T02:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "实验品家庭_05",
+     "url": "https://v.qq.com/x/cover/g6da8tj74x97ebk/k0026p4jida.html"
+    }
+   ]
+  },
+  {
+   "id": 787495,
+   "sort": 6,
+   "name": "怪物",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "怪物",
+     "url": "https://www.bilibili.com/bangumi/play/ep205211",
+     "time": "2018-05-08T02:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "实验品家庭_06",
+     "url": "https://v.qq.com/x/cover/g6da8tj74x97ebk/x0026abkp4i.html"
+    }
+   ]
+  },
+  {
+   "id": 787496,
+   "sort": 7,
+   "name": "姐妹",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "姐妹",
+     "url": "https://www.bilibili.com/bangumi/play/ep205212",
+     "time": "2018-05-15T02:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "实验品家庭_07",
+     "url": "https://v.qq.com/x/cover/g6da8tj74x97ebk/w0026kh9w52.html"
+    }
+   ]
+  },
+  {
+   "id": 787497,
+   "sort": 8,
+   "name": "观测",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "观测",
+     "url": "https://www.bilibili.com/bangumi/play/ep206215",
+     "time": "2018-05-22T02:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "实验品家庭_08",
+     "url": "https://v.qq.com/x/cover/g6da8tj74x97ebk/p002668hhih.html"
+    }
+   ]
+  },
+  {
+   "id": 787498,
+   "sort": 9,
+   "name": "心声",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "心声",
+     "url": "https://www.bilibili.com/bangumi/play/ep205944",
+     "time": "2018-05-29T02:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "实验品家庭_09",
+     "url": "https://v.qq.com/x/cover/g6da8tj74x97ebk/p0026s063te.html"
+    }
+   ]
+  },
+  {
+   "id": 787499,
+   "sort": 10,
+   "name": "分裂",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "分裂",
+     "url": "https://www.bilibili.com/bangumi/play/ep206570",
+     "time": "2018-06-05T02:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "实验品家庭_10",
+     "url": "https://v.qq.com/x/cover/g6da8tj74x97ebk/g0026vd5nfg.html"
+    }
+   ]
+  },
+  {
+   "id": 787500,
+   "sort": 11,
+   "name": "天平",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "天平",
+     "url": "https://www.bilibili.com/bangumi/play/ep206961",
+     "time": "2018-06-12T02:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "实验品家庭_11",
+     "url": "https://v.qq.com/x/cover/g6da8tj74x97ebk/t0026vswtcf.html"
+    }
+   ]
+  },
+  {
+   "id": 787501,
+   "sort": 12,
+   "name": "实验品家庭",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "实验品家庭",
+     "url": "https://www.bilibili.com/bangumi/play/ep212130",
+     "time": "2018-06-19T02:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "实验品家庭_12",
+     "url": "https://v.qq.com/x/cover/g6da8tj74x97ebk/a00262cnn4m.html"
+    }
+   ]
+  }
+ ]
+}

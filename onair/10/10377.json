@@ -1,1 +1,195 @@
-{"id":"10377","name":"電波女と青春男","sites":[{"site":"bilibili","id":"846","sort":13}],"eps":[{"id":84506,"sort":1,"name":"宇宙人の都会","sites":[{"site":"bilibili","sort":1,"title":"01","url":"https://www.bilibili.com/bangumi/play/ep247861","time":"2018-09-07T07:31:45.000Z"}]},{"id":84507,"sort":2,"name":"失踪する思春期のレヴェリー","sites":[{"site":"bilibili","sort":2,"title":"02","url":"https://www.bilibili.com/bangumi/play/ep247862","time":"2018-09-07T07:31:45.000Z"}]},{"id":84508,"sort":3,"name":"地を這う少女の不思議な刹那","sites":[{"site":"bilibili","sort":3,"title":"03","url":"https://www.bilibili.com/bangumi/play/ep247863","time":"2018-09-07T07:31:45.000Z"}]},{"id":84509,"sort":4,"name":"右腕骨折全治一箇月","sites":[{"site":"bilibili","sort":4,"title":"04","url":"https://www.bilibili.com/bangumi/play/ep247864","time":"2018-09-07T07:31:45.000Z"}]},{"id":84510,"sort":5,"name":"サンクスギビングの憂鬱","sites":[{"site":"bilibili","sort":5,"title":"05","url":"https://www.bilibili.com/bangumi/play/ep247865","time":"2018-09-07T07:31:45.000Z"}]},{"id":84511,"sort":6,"name":"リュウ『コ』さんのなんちゅーかもやーっと","sites":[{"site":"bilibili","sort":6,"title":"06","url":"https://www.bilibili.com/bangumi/play/ep247866","time":"2018-09-07T07:31:45.000Z"}]},{"id":84512,"sort":7,"name":"誰かさんの思い出になる日","sites":[{"site":"bilibili","sort":7,"title":"07","url":"https://www.bilibili.com/bangumi/play/ep247867","time":"2018-09-07T07:31:45.000Z"}]},{"id":84513,"sort":8,"name":"ツィオルコフスキーの祈り","sites":[{"site":"bilibili","sort":8,"title":"08","url":"https://www.bilibili.com/bangumi/play/ep247868","time":"2018-09-07T07:31:45.000Z"}]},{"id":84514,"sort":9,"name":"地域限定宇宙人事件","sites":[{"site":"bilibili","sort":9,"title":"09","url":"https://www.bilibili.com/bangumi/play/ep247869","time":"2018-09-07T07:31:45.000Z"}]},{"id":84515,"sort":10,"name":"軒下少女","sites":[{"site":"bilibili","sort":10,"title":"10","url":"https://www.bilibili.com/bangumi/play/ep247870","time":"2018-09-07T07:31:45.000Z"}]},{"id":84516,"sort":11,"name":"今年の夏はバスケと超能力と布団と天体観測と祭りと野球と女々たんと","sites":[{"site":"bilibili","sort":11,"title":"11","url":"https://www.bilibili.com/bangumi/play/ep247871","time":"2018-09-07T07:31:45.000Z"}]},{"id":84615,"sort":12,"name":"秒速0.00000000198センチメートル","sites":[{"site":"bilibili","sort":12,"title":"12","url":"https://www.bilibili.com/bangumi/play/ep247872","time":"2018-09-07T07:31:45.000Z"}]},{"id":113261,"sort":13,"name":"真夜中の太陽","sites":[{"site":"bilibili","sort":13,"title":"13","url":"https://www.bilibili.com/bangumi/play/ep247873","time":"2018-09-07T07:31:45.000Z"}]}]}
+{
+ "id": "10377",
+ "name": "電波女と青春男",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "846",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 84506,
+   "sort": 1,
+   "name": "宇宙人の都会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "01",
+     "url": "https://www.bilibili.com/bangumi/play/ep247861",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84507,
+   "sort": 2,
+   "name": "失踪する思春期のレヴェリー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "02",
+     "url": "https://www.bilibili.com/bangumi/play/ep247862",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84508,
+   "sort": 3,
+   "name": "地を這う少女の不思議な刹那",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "03",
+     "url": "https://www.bilibili.com/bangumi/play/ep247863",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84509,
+   "sort": 4,
+   "name": "右腕骨折全治一箇月",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "04",
+     "url": "https://www.bilibili.com/bangumi/play/ep247864",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84510,
+   "sort": 5,
+   "name": "サンクスギビングの憂鬱",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "05",
+     "url": "https://www.bilibili.com/bangumi/play/ep247865",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84511,
+   "sort": 6,
+   "name": "リュウ『コ』さんのなんちゅーかもやーっと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "06",
+     "url": "https://www.bilibili.com/bangumi/play/ep247866",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84512,
+   "sort": 7,
+   "name": "誰かさんの思い出になる日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "07",
+     "url": "https://www.bilibili.com/bangumi/play/ep247867",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84513,
+   "sort": 8,
+   "name": "ツィオルコフスキーの祈り",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "08",
+     "url": "https://www.bilibili.com/bangumi/play/ep247868",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84514,
+   "sort": 9,
+   "name": "地域限定宇宙人事件",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "09",
+     "url": "https://www.bilibili.com/bangumi/play/ep247869",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84515,
+   "sort": 10,
+   "name": "軒下少女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "10",
+     "url": "https://www.bilibili.com/bangumi/play/ep247870",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84516,
+   "sort": 11,
+   "name": "今年の夏はバスケと超能力と布団と天体観測と祭りと野球と女々たんと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "11",
+     "url": "https://www.bilibili.com/bangumi/play/ep247871",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84615,
+   "sort": 12,
+   "name": "秒速0.00000000198センチメートル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "12",
+     "url": "https://www.bilibili.com/bangumi/play/ep247872",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 113261,
+   "sort": 13,
+   "name": "真夜中の太陽",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "13",
+     "url": "https://www.bilibili.com/bangumi/play/ep247873",
+     "time": "2018-09-07T07:31:00.000Z"
+    }
+   ]
+  }
+ ]
+}

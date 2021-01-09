@@ -1,1 +1,27 @@
-{"id":"182406","name":"ガンダムビルドファイターズトライ アイランド・ウォーズ","sites":[{"site":"bilibili","id":"128792","sort":1}],"eps":[{"id":647981,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep246493","time":"2018-08-29T09:33:00.000Z"}]}]}
+{
+ "id": "182406",
+ "name": "ガンダムビルドファイターズトライ アイランド・ウォーズ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "128792",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 647981,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep246493",
+     "time": "2018-08-29T09:33:00.000Z"
+    }
+   ]
+  }
+ ]
+}

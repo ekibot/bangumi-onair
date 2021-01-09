@@ -1,1 +1,167 @@
-{"id":"99906","name":"史上最強の弟子ケンイチ ～闇の襲撃～","sites":[{"site":"iqiyi","id":"a_19rrhbysup","sort":11},{"site":"youku","id":"ddfa973ca43811e38b3f","sort":11},{"site":"bilibili","id":"3803","sort":11}],"eps":[{"id":385087,"sort":1,"name":"新たなる刺客","sites":[{"site":"iqiyi","sort":1,"title":"史上最强弟子兼一OVA 第1集","url":"http://www.iqiyi.com/v_19rrnaelo4.html","time":"2014-11-17T09:24:57.000Z"},{"site":"bilibili","sort":1,"title":"新的刺客","url":"https://www.bilibili.com/bangumi/play/ep207116","time":"2018-06-06T06:38:00.000Z"}]},{"id":385088,"sort":2,"name":"中国から来た少女","sites":[{"site":"iqiyi","sort":2,"title":"史上最强弟子兼一OVA 第2集","url":"http://www.iqiyi.com/v_19rrnaebe4.html","time":"2014-11-17T09:25:00.000Z"},{"site":"bilibili","sort":2,"title":"从中国来的少女","url":"https://www.bilibili.com/bangumi/play/ep207117","time":"2018-06-06T06:38:00.000Z"}]},{"id":385089,"sort":3,"name":"麗しき暗殺者","sites":[{"site":"iqiyi","sort":3,"title":"史上最强弟子兼一OVA 第3集","url":"http://www.iqiyi.com/v_19rrnaeaqo.html","time":"2014-11-17T09:24:57.000Z"},{"site":"bilibili","sort":3,"title":"华丽的暗杀者","url":"https://www.bilibili.com/bangumi/play/ep207118","time":"2018-06-06T06:38:00.000Z"}]},{"id":385090,"sort":4,"name":"美しき翼","sites":[{"site":"iqiyi","sort":4,"title":"史上最强弟子兼一OVA 第4集","url":"http://www.iqiyi.com/v_19rrnaeacs.html","time":"2014-11-17T09:24:59.000Z"},{"site":"bilibili","sort":4,"title":"美丽的翅膀","url":"https://www.bilibili.com/bangumi/play/ep207119","time":"2018-06-06T06:38:00.000Z"}]},{"id":385091,"sort":5,"name":"死神VS.惡魔","sites":[{"site":"iqiyi","sort":5,"title":"史上最强弟子兼一OVA 第5集","url":"http://www.iqiyi.com/v_19rrnaed2s.html","time":"2014-11-17T09:24:57.000Z"},{"site":"bilibili","sort":5,"title":"死神VS恶魔","url":"https://www.bilibili.com/bangumi/play/ep207120","time":"2018-06-06T06:38:00.000Z"}]},{"id":385092,"sort":6,"name":"ロシアから来た戦士","sites":[{"site":"iqiyi","sort":6,"title":"史上最强弟子兼一OVA 第6集","url":"http://www.iqiyi.com/v_19rrnaecgk.html","time":"2014-11-17T09:25:03.000Z"},{"site":"bilibili","sort":6,"title":"俄罗斯来的战士","url":"https://www.bilibili.com/bangumi/play/ep207121","time":"2018-06-06T06:38:00.000Z"}]},{"id":385093,"sort":7,"name":"拳に込めた信念","sites":[{"site":"iqiyi","sort":7,"title":"史上最强弟子兼一OVA 第7集","url":"http://www.iqiyi.com/v_19rrnaeds0.html","time":"2014-11-17T09:25:00.000Z"},{"site":"bilibili","sort":7,"title":"蕴藏在拳头里的信念","url":"https://www.bilibili.com/bangumi/play/ep207122","time":"2018-06-06T06:38:00.000Z"}]},{"id":385094,"sort":8,"name":"ガード下の破壊神","sites":[{"site":"iqiyi","sort":8,"title":"史上最强弟子兼一OVA 第8集","url":"http://www.iqiyi.com/v_19rrnaede4.html","time":"2014-11-17T09:24:57.000Z"},{"site":"bilibili","sort":8,"title":"天桥下的破坏神","url":"https://www.bilibili.com/bangumi/play/ep207123","time":"2018-06-06T06:38:00.000Z"}]},{"id":385095,"sort":9,"name":"匿名希望18歳❤","sites":[{"site":"iqiyi","sort":9,"title":"史上最强弟子兼一OVA 第9集","url":"http://www.iqiyi.com/v_19rrnaed5s.html","time":"2014-11-17T09:25:00.000Z"},{"site":"bilibili","sort":9,"title":"匿名希望的十八岁 ❤","url":"https://www.bilibili.com/bangumi/play/ep207124","time":"2018-06-06T06:38:00.000Z"}]},{"id":385096,"sort":10,"name":"ティダードの王(前編)","sites":[{"site":"iqiyi","sort":10,"title":"史上最强弟子兼一OVA 第10集","url":"http://www.iqiyi.com/v_19rrnaefxo.html","time":"2014-11-17T09:24:59.000Z"},{"site":"bilibili","sort":10,"title":"提达特之王(前篇)","url":"https://www.bilibili.com/bangumi/play/ep207125","time":"2018-06-06T06:38:00.000Z"}]},{"id":385097,"sort":11,"name":"ティダードの王(后編)","sites":[{"site":"iqiyi","sort":11,"title":"史上最强弟子兼一OVA 第11集","url":"http://www.iqiyi.com/v_19rrnaefko.html","time":"2014-11-17T09:24:57.000Z"},{"site":"bilibili","sort":11,"title":"提达特之王(后篇)","url":"https://www.bilibili.com/bangumi/play/ep207126","time":"2018-06-06T06:38:00.000Z"}]}]}
+{
+ "id": "99906",
+ "name": "史上最強の弟子ケンイチ ～闇の襲撃～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3803",
+   "sort": 11
+  }
+ ],
+ "eps": [
+  {
+   "id": 385087,
+   "sort": 1,
+   "name": "新たなる刺客",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "新的刺客",
+     "url": "https://www.bilibili.com/bangumi/play/ep207116",
+     "time": "2018-06-06T06:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385088,
+   "sort": 2,
+   "name": "中国から来た少女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "从中国来的少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep207117",
+     "time": "2018-06-06T06:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385089,
+   "sort": 3,
+   "name": "麗しき暗殺者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "华丽的暗杀者",
+     "url": "https://www.bilibili.com/bangumi/play/ep207118",
+     "time": "2018-06-06T06:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385090,
+   "sort": 4,
+   "name": "美しき翼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "美丽的翅膀",
+     "url": "https://www.bilibili.com/bangumi/play/ep207119",
+     "time": "2018-06-06T06:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385091,
+   "sort": 5,
+   "name": "死神VS.惡魔",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "死神VS恶魔",
+     "url": "https://www.bilibili.com/bangumi/play/ep207120",
+     "time": "2018-06-06T06:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385092,
+   "sort": 6,
+   "name": "ロシアから来た戦士",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "俄罗斯来的战士",
+     "url": "https://www.bilibili.com/bangumi/play/ep207121",
+     "time": "2018-06-06T06:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385093,
+   "sort": 7,
+   "name": "拳に込めた信念",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "蕴藏在拳头里的信念",
+     "url": "https://www.bilibili.com/bangumi/play/ep207122",
+     "time": "2018-06-06T06:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385094,
+   "sort": 8,
+   "name": "ガード下の破壊神",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "天桥下的破坏神",
+     "url": "https://www.bilibili.com/bangumi/play/ep207123",
+     "time": "2018-06-06T06:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385095,
+   "sort": 9,
+   "name": "匿名希望18歳❤",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "匿名希望的十八岁 ❤",
+     "url": "https://www.bilibili.com/bangumi/play/ep207124",
+     "time": "2018-06-06T06:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385096,
+   "sort": 10,
+   "name": "ティダードの王(前編)",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "提达特之王(前篇)",
+     "url": "https://www.bilibili.com/bangumi/play/ep207125",
+     "time": "2018-06-06T06:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385097,
+   "sort": 11,
+   "name": "ティダードの王(后編)",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "提达特之王(后篇)",
+     "url": "https://www.bilibili.com/bangumi/play/ep207126",
+     "time": "2018-06-06T06:38:00.000Z"
+    }
+   ]
+  }
+ ]
+}

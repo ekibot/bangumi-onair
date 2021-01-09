@@ -1,1 +1,195 @@
-{"id":"10435","name":"テレビまんが 昭和物語","sites":[{"site":"bilibili","id":"1739","sort":13}],"eps":[{"id":60851,"sort":1,"name":"昭和三十九年元旦","sites":[{"site":"bilibili","sort":1,"title":"昭和三十九年元旦","url":"https://www.bilibili.com/bangumi/play/ep32535","time":"2014-01-07T15:17:03.000Z"}]},{"id":60852,"sort":2,"name":"二十歳・太一の失恋","sites":[{"site":"bilibili","sort":2,"title":"二十岁・太一的失恋","url":"https://www.bilibili.com/bangumi/play/ep32536","time":"2014-01-07T15:17:03.000Z"}]},{"id":60853,"sort":3,"name":"クレイジーな大冒険","sites":[{"site":"bilibili","sort":3,"title":"狂热大冒险","url":"https://www.bilibili.com/bangumi/play/ep32537","time":"2014-01-07T15:17:03.000Z"}]},{"id":60854,"sort":4,"name":"春よ来い","sites":[{"site":"bilibili","sort":4,"title":"春天来了","url":"https://www.bilibili.com/bangumi/play/ep32538","time":"2014-01-07T15:17:03.000Z"}]},{"id":60855,"sort":5,"name":"小遣いとキャッチボール","sites":[{"site":"bilibili","sort":5,"title":"零用钱和投接球","url":"https://www.bilibili.com/bangumi/play/ep32539","time":"2014-01-07T15:17:03.000Z"}]},{"id":60856,"sort":6,"name":"最悪な子供の日！","sites":[{"site":"bilibili","sort":6,"title":"最糟糕的儿童节","url":"https://www.bilibili.com/bangumi/play/ep32540","time":"2014-01-07T15:17:03.000Z"}]},{"id":60857,"sort":7,"name":"ゆれる恋とプールサイド","sites":[{"site":"bilibili","sort":7,"title":"摇曳的爱情和泳池湖畔","url":"https://www.bilibili.com/bangumi/play/ep32541","time":"2014-01-07T15:17:03.000Z"}]},{"id":60858,"sort":8,"name":"離婚防衛軍","sites":[{"site":"bilibili","sort":8,"title":"离婚防卫军","url":"https://www.bilibili.com/bangumi/play/ep32542","time":"2014-01-07T15:17:03.000Z"}]},{"id":60859,"sort":9,"name":"爺ちゃんの幽霊！？","sites":[{"site":"bilibili","sort":9,"title":"爷爷的幽灵？","url":"https://www.bilibili.com/bangumi/play/ep32543","time":"2014-01-07T15:17:03.000Z"}]},{"id":60860,"sort":10,"name":"夏休みの終わり","sites":[{"site":"bilibili","sort":10,"title":"暑假的结束","url":"https://www.bilibili.com/bangumi/play/ep32544","time":"2014-01-07T15:17:03.000Z"}]},{"id":60861,"sort":11,"name":"ねえちゃんの星空","sites":[{"site":"bilibili","sort":11,"title":"姐姐的星空","url":"https://www.bilibili.com/bangumi/play/ep32545","time":"2014-01-07T15:17:03.000Z"}]},{"id":60862,"sort":12,"name":"秋風が泣いた、別れの日","sites":[{"site":"bilibili","sort":12,"title":"秋风号泣,离别之日","url":"https://www.bilibili.com/bangumi/play/ep32546","time":"2014-01-07T15:17:03.000Z"}]},{"id":60863,"sort":13,"name":"ボクたちのオリンピック","sites":[{"site":"bilibili","sort":13,"title":"我们的奥林匹克","url":"https://www.bilibili.com/bangumi/play/ep32547","time":"2014-01-07T15:17:03.000Z"}]}]}
+{
+ "id": "10435",
+ "name": "テレビまんが 昭和物語",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1739",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 60851,
+   "sort": 1,
+   "name": "昭和三十九年元旦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "昭和三十九年元旦",
+     "url": "https://www.bilibili.com/bangumi/play/ep32535",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60852,
+   "sort": 2,
+   "name": "二十歳・太一の失恋",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "二十岁・太一的失恋",
+     "url": "https://www.bilibili.com/bangumi/play/ep32536",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60853,
+   "sort": 3,
+   "name": "クレイジーな大冒険",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "狂热大冒险",
+     "url": "https://www.bilibili.com/bangumi/play/ep32537",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60854,
+   "sort": 4,
+   "name": "春よ来い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "春天来了",
+     "url": "https://www.bilibili.com/bangumi/play/ep32538",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60855,
+   "sort": 5,
+   "name": "小遣いとキャッチボール",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "零用钱和投接球",
+     "url": "https://www.bilibili.com/bangumi/play/ep32539",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60856,
+   "sort": 6,
+   "name": "最悪な子供の日！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "最糟糕的儿童节",
+     "url": "https://www.bilibili.com/bangumi/play/ep32540",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60857,
+   "sort": 7,
+   "name": "ゆれる恋とプールサイド",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "摇曳的爱情和泳池湖畔",
+     "url": "https://www.bilibili.com/bangumi/play/ep32541",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60858,
+   "sort": 8,
+   "name": "離婚防衛軍",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "离婚防卫军",
+     "url": "https://www.bilibili.com/bangumi/play/ep32542",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60859,
+   "sort": 9,
+   "name": "爺ちゃんの幽霊！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "爷爷的幽灵？",
+     "url": "https://www.bilibili.com/bangumi/play/ep32543",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60860,
+   "sort": 10,
+   "name": "夏休みの終わり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "暑假的结束",
+     "url": "https://www.bilibili.com/bangumi/play/ep32544",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60861,
+   "sort": 11,
+   "name": "ねえちゃんの星空",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "姐姐的星空",
+     "url": "https://www.bilibili.com/bangumi/play/ep32545",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60862,
+   "sort": 12,
+   "name": "秋風が泣いた、別れの日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "秋风号泣,离别之日",
+     "url": "https://www.bilibili.com/bangumi/play/ep32546",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60863,
+   "sort": 13,
+   "name": "ボクたちのオリンピック",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "我们的奥林匹克",
+     "url": "https://www.bilibili.com/bangumi/play/ep32547",
+     "time": "2014-01-07T15:17:03.000Z"
+    }
+   ]
+  }
+ ]
+}

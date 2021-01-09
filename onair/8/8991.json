@@ -1,1 +1,49 @@
-{"id":"8991","name":"クレヨンしんちゃん 嵐を呼ぶ!夕陽のカスカベボーイズ","sites":[{"site":"qq","id":"b/bymafsjpccgo4bw","sort":21},{"site":"bilibili","id":"35572","sort":1}],"eps":[{"id":857122,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"蜡笔小新1993剧场版：动感超人大战高叉魔王","url":"https://v.qq.com/x/cover/bymafsjpccgo4bw/x0014he9pm4.html"},{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep167392","time":"2018-01-02T16:00:00.000Z"}]}]}
+{
+ "id": "8991",
+ "name": "クレヨンしんちゃん 嵐を呼ぶ!夕陽のカスカベボーイズ",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "b/bymafsjpccgo4bw",
+   "sort": 21
+  },
+  {
+   "site": "bilibili",
+   "id": "35572",
+   "sort": 1
+  },
+  {
+   "site": "youku",
+   "id": "f10c4a5861ad11e0bea1",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 857122,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "蜡笔小新1993剧场版：动感超人大战高叉魔王",
+     "url": "https://v.qq.com/x/cover/bymafsjpccgo4bw/x0014he9pm4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep167392",
+     "time": "2018-01-02T16:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "蜡笔小新2004剧场版 夕阳下的春日部男孩",
+     "url": "https://v.youku.com/v_show/id_XNTI4NTI3NDA4.html?s=f10c4a5861ad11e0bea1"
+    }
+   ]
+  }
+ ]
+}

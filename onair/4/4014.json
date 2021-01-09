@@ -1,1 +1,26 @@
-{"id":"4014","name":"ストレンヂア 無皇刃譚","sites":[{"site":"qq","id":"n/n845812mqzji6l1","sort":1},{"site":"bilibili","id":"3151","sort":1}],"eps":[{"id":155908,"sort":1,"name":"ストレンヂア 無皇刃譚","sites":[{"site":"qq","sort":1,"title":"异邦人：无皇刃谭","url":"https://v.qq.com/x/cover/n845812mqzji6l1/v002737iwow.html"},{"site":"bilibili","sort":1,"title":"异邦人 无皇刃谭","url":"https://www.bilibili.com/bangumi/play/ep81230","time":"2015-12-07T12:54:05.000Z"}]}]}
+{
+ "id": "4014",
+ "name": "ストレンヂア 無皇刃譚",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "n/n845812mqzji6l1",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 155908,
+   "sort": 1,
+   "name": "ストレンヂア 無皇刃譚",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "异邦人：无皇刃谭",
+     "url": "https://v.qq.com/x/cover/n845812mqzji6l1/v002737iwow.html"
+    }
+   ]
+  }
+ ]
+}

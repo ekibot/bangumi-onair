@@ -1,1 +1,181 @@
-{"id":"175404","name":"ISLAND","sites":[{"site":"bilibili","id":"102292","sort":12}],"eps":[{"id":785365,"sort":1,"name":"Stage.01 またあえたねあなたと","sites":[{"site":"bilibili","sort":1,"title":"又与你相见了","url":"https://www.bilibili.com/bangumi/play/ep231926","time":"2018-07-01T13:00:00.000Z"}]},{"id":785366,"sort":2,"name":"Stage.02 くやまないでほしいから","sites":[{"site":"bilibili","sort":2,"title":"不想让你后悔","url":"https://www.bilibili.com/bangumi/play/ep231927","time":"2018-07-08T13:00:00.000Z"}]},{"id":785367,"sort":3,"name":"Stage.03 ただしいゆめのつむぎかた","sites":[{"site":"bilibili","sort":3,"title":"正确编织梦境的方法","url":"https://www.bilibili.com/bangumi/play/ep231928","time":"2018-07-15T13:00:00.000Z"}]},{"id":785368,"sort":4,"name":"Stage.04 このせかいはひみつだらけ","sites":[{"site":"bilibili","sort":4,"title":"这个世界充满秘密","url":"https://www.bilibili.com/bangumi/play/ep231929","time":"2018-07-22T13:00:00.000Z"}]},{"id":785369,"sort":5,"name":"Stage.05 だからあなたをしんじてる","sites":[{"site":"bilibili","sort":5,"title":"因此我相信着你","url":"https://www.bilibili.com/bangumi/play/ep231930","time":"2018-07-29T13:00:00.000Z"}]},{"id":785370,"sort":6,"name":"Stage.06 そこにあなたがいればいい","sites":[{"site":"bilibili","sort":6,"title":"只要有你在就足够了","url":"https://www.bilibili.com/bangumi/play/ep231931","time":"2018-08-05T13:00:00.000Z"}]},{"id":785371,"sort":7,"name":"Stage.07 ずっとすきでいたいのに","sites":[{"site":"bilibili","sort":7,"title":"明明想要永远喜欢你","url":"https://www.bilibili.com/bangumi/play/ep231932","time":"2018-08-12T13:00:00.000Z"}]},{"id":785372,"sort":8,"name":"Stage.08 またあえたらあいしてね","sites":[{"site":"bilibili","sort":8,"title":"若还能相见  要爱上我哦","url":"https://www.bilibili.com/bangumi/play/ep231933","time":"2018-08-19T13:00:00.000Z"}]},{"id":785373,"sort":9,"name":"Recursion.01 マタアエタナオマエト","sites":[{"site":"bilibili","sort":9,"title":"递归1：又和你见面了呢","url":"https://www.bilibili.com/bangumi/play/ep231934","time":"2018-08-26T13:00:00.000Z"}]},{"id":785374,"sort":10,"name":"Recursion.02 モウクヤミタクナイカラ","sites":[{"site":"bilibili","sort":10,"title":"递归2：再也不想后悔了","url":"https://www.bilibili.com/bangumi/play/ep231935","time":"2018-09-02T13:00:00.000Z"}]},{"id":785375,"sort":11,"name":"Jump.01 またあえたけどアナタは","sites":[{"site":"bilibili","sort":11,"title":"跳跃1：又见面了  但你…","url":"https://www.bilibili.com/bangumi/play/ep231936","time":"2018-09-09T13:00:00.000Z"}]},{"id":785376,"sort":12,"name":"Jump.02 てをつないでアシタへ","sites":[{"site":"bilibili","sort":12,"title":"跳跃2：携手迈向明天","url":"https://www.bilibili.com/bangumi/play/ep231937","time":"2018-09-16T13:00:00.000Z"}]}]}
+{
+ "id": "175404",
+ "name": "ISLAND",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "102292",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 785365,
+   "sort": 1,
+   "name": "Stage.01 またあえたねあなたと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "又与你相见了",
+     "url": "https://www.bilibili.com/bangumi/play/ep231926",
+     "time": "2018-07-01T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 785366,
+   "sort": 2,
+   "name": "Stage.02 くやまないでほしいから",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "不想让你后悔",
+     "url": "https://www.bilibili.com/bangumi/play/ep231927",
+     "time": "2018-07-08T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 785367,
+   "sort": 3,
+   "name": "Stage.03 ただしいゆめのつむぎかた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "正确编织梦境的方法",
+     "url": "https://www.bilibili.com/bangumi/play/ep231928",
+     "time": "2018-07-15T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 785368,
+   "sort": 4,
+   "name": "Stage.04 このせかいはひみつだらけ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "这个世界充满秘密",
+     "url": "https://www.bilibili.com/bangumi/play/ep231929",
+     "time": "2018-07-22T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 785369,
+   "sort": 5,
+   "name": "Stage.05 だからあなたをしんじてる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "因此我相信着你",
+     "url": "https://www.bilibili.com/bangumi/play/ep231930",
+     "time": "2018-07-29T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 785370,
+   "sort": 6,
+   "name": "Stage.06 そこにあなたがいればいい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "只要有你在就足够了",
+     "url": "https://www.bilibili.com/bangumi/play/ep231931",
+     "time": "2018-08-05T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 785371,
+   "sort": 7,
+   "name": "Stage.07 ずっとすきでいたいのに",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "明明想要永远喜欢你",
+     "url": "https://www.bilibili.com/bangumi/play/ep231932",
+     "time": "2018-08-12T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 785372,
+   "sort": 8,
+   "name": "Stage.08 またあえたらあいしてね",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "若还能相见  要爱上我哦",
+     "url": "https://www.bilibili.com/bangumi/play/ep231933",
+     "time": "2018-08-19T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 785373,
+   "sort": 9,
+   "name": "Recursion.01 マタアエタナオマエト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "递归1：又和你见面了呢",
+     "url": "https://www.bilibili.com/bangumi/play/ep231934",
+     "time": "2018-08-26T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 785374,
+   "sort": 10,
+   "name": "Recursion.02 モウクヤミタクナイカラ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "递归2：再也不想后悔了",
+     "url": "https://www.bilibili.com/bangumi/play/ep231935",
+     "time": "2018-09-02T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 785375,
+   "sort": 11,
+   "name": "Jump.01 またあえたけどアナタは",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "跳跃1：又见面了  但你…",
+     "url": "https://www.bilibili.com/bangumi/play/ep231936",
+     "time": "2018-09-09T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 785376,
+   "sort": 12,
+   "name": "Jump.02 てをつないでアシタへ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "跳跃2：携手迈向明天",
+     "url": "https://www.bilibili.com/bangumi/play/ep231937",
+     "time": "2018-09-16T13:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

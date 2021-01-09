@@ -1,0 +1,169 @@
+{
+ "id": "18004",
+ "name": "侵略!?イカ娘",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "e18c485861ad11e0bea1",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 106371,
+   "sort": 1,
+   "name": "侵略しなイカ!?／恋敵じゃなイカ!?／クラゲじゃなイカ!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "不侵略吗！？",
+     "url": "https://v.youku.com/v_show/id_XMzA5ODE5OTQ0.html?s=e18c485861ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 106382,
+   "sort": 2,
+   "name": "小学校に行かなイカ!?／コスプレじゃなイカ!?／軽くなイカ!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "不去小校吗？！",
+     "url": "https://v.youku.com/v_show/id_XMzA5ODc1NTU2.html?s=e18c485861ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 106383,
+   "sort": 3,
+   "name": "散歩しなイカ!?／体操しなイカ!?／助けなイカ!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "不散步吗！？",
+     "url": "https://v.youku.com/v_show/id_XMzEyNjA1OTY0.html?s=e18c485861ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 106384,
+   "sort": 4,
+   "name": "Englishじゃなイカ!?／止めなイカ!?／流れなイカ!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "不是英语吗！？",
+     "url": "https://v.youku.com/v_show/id_XNDM0MzI5MDk2.html?s=e18c485861ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 106385,
+   "sort": 5,
+   "name": "ラジコンじゃなイカ!?／七夕じゃなイカ!?／一人遊びしなイカ!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "不是遥控的吗！？",
+     "url": "https://v.youku.com/v_show/id_XNDM0MzI5NDcy.html?s=e18c485861ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 106386,
+   "sort": 6,
+   "name": "ジョギングしなイカ!?／ＳＰじゃなイカ!?／冒険しなイカ!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "不慢跑吗",
+     "url": "https://v.youku.com/v_show/id_XMzI0OTYyNDQw.html?s=e18c485861ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 106387,
+   "sort": 7,
+   "name": "もてなさなイカ!?／記憶喪失じゃなイカ!?／入部しなイカ!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "不招待吗",
+     "url": "https://v.youku.com/v_show/id_XNDM0MzMyMDAw.html?s=e18c485861ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 106388,
+   "sort": 8,
+   "name": "留守番しなイカ!?／断たなイカ!?／熱中症じゃなイカ!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "不看家吗！？",
+     "url": "https://v.youku.com/v_show/id_XNDM0MzMwODcy.html?s=e18c485861ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 106389,
+   "sort": 9,
+   "name": "おままごとしなイカ!?／予定じゃなイカ!?／遊園地に行かなイカ!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "不来玩过家家吗？",
+     "url": "https://v.youku.com/v_show/id_XNDM0MzMxMjIw.html?s=e18c485861ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 106390,
+   "sort": 10,
+   "name": "焼かなイカ!?／守らなイカ!?／寒くなイカ!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "不来烧烤吗？",
+     "url": "https://v.youku.com/v_show/id_XNDM0MzMxNDYw.html?s=e18c485861ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 106391,
+   "sort": 11,
+   "name": "催眠術じゃなイカ!?／組まなイカ!?／ふたりきりじゃなイカ!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "这不是催眠术吗？",
+     "url": "https://v.youku.com/v_show/id_XNDM0MzMyMTYw.html?s=e18c485861ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 106392,
+   "sort": 12,
+   "name": "訓練しなイカ!?／祭りじゃなイカ!?／やっぱり祭りじゃなイカ!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "不来训练吗？",
+     "url": "https://v.youku.com/v_show/id_XMzM3NDI2MDg0.html?s=e18c485861ad11e0bea1"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,195 @@
-{"id":"10639","name":"Fate/Zero","sites":[{"site":"bilibili","id":"1650","sort":13}],"eps":[{"id":117203,"sort":1,"name":"英霊召喚","sites":[{"site":"bilibili","sort":1,"title":"英灵召唤","url":"https://www.bilibili.com/bangumi/play/ep29919","time":"2014-10-10T04:36:20.000Z"}]},{"id":117204,"sort":2,"name":"偽りの戦端","sites":[{"site":"bilibili","sort":2,"title":"虚假的战争","url":"https://www.bilibili.com/bangumi/play/ep29920","time":"2014-10-10T04:36:20.000Z"}]},{"id":117205,"sort":3,"name":"冬木の地","sites":[{"site":"bilibili","sort":3,"title":"冬木之地","url":"https://www.bilibili.com/bangumi/play/ep29921","time":"2014-10-10T04:36:20.000Z"}]},{"id":117206,"sort":4,"name":"魔槍の刃","sites":[{"site":"bilibili","sort":4,"title":"魔枪之刃","url":"https://www.bilibili.com/bangumi/play/ep29922","time":"2014-10-10T04:36:20.000Z"}]},{"id":117207,"sort":5,"name":"凶獣咆吼","sites":[{"site":"bilibili","sort":5,"title":"凶兽咆吼","url":"https://www.bilibili.com/bangumi/play/ep29923","time":"2014-10-10T04:36:20.000Z"}]},{"id":117208,"sort":6,"name":"謀略の夜","sites":[{"site":"bilibili","sort":6,"title":"谋略之夜","url":"https://www.bilibili.com/bangumi/play/ep29924","time":"2014-10-10T04:36:20.000Z"}]},{"id":117209,"sort":7,"name":"魔境の森","sites":[{"site":"bilibili","sort":7,"title":"魔境森林","url":"https://www.bilibili.com/bangumi/play/ep29925","time":"2014-10-10T04:36:20.000Z"}]},{"id":117210,"sort":8,"name":"魔術師殺し","sites":[{"site":"bilibili","sort":8,"title":"魔术师杀手","url":"https://www.bilibili.com/bangumi/play/ep29926","time":"2014-10-10T04:36:20.000Z"}]},{"id":117211,"sort":9,"name":"主と従者","sites":[{"site":"bilibili","sort":9,"title":"主人与从者","url":"https://www.bilibili.com/bangumi/play/ep29927","time":"2014-10-10T04:36:20.000Z"}]},{"id":117212,"sort":10,"name":"凛の冒険","sites":[{"site":"bilibili","sort":10,"title":"凛的冒险","url":"https://www.bilibili.com/bangumi/play/ep29928","time":"2014-10-10T04:36:20.000Z"}]},{"id":117213,"sort":11,"name":"聖杯問答","sites":[{"site":"bilibili","sort":11,"title":"圣杯问答","url":"https://www.bilibili.com/bangumi/play/ep29929","time":"2014-10-10T04:36:20.000Z"}]},{"id":117214,"sort":12,"name":"聖杯の招き","sites":[{"site":"bilibili","sort":12,"title":"圣杯的召唤","url":"https://www.bilibili.com/bangumi/play/ep29930","time":"2014-10-10T04:36:20.000Z"}]},{"id":117215,"sort":13,"name":"禁断の狂宴","sites":[{"site":"bilibili","sort":13,"title":"禁忌的狂宴","url":"https://www.bilibili.com/bangumi/play/ep29931","time":"2014-10-10T04:36:20.000Z"}]}]}
+{
+ "id": "10639",
+ "name": "Fate/Zero",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1650",
+   "sort": 14
+  }
+ ],
+ "eps": [
+  {
+   "id": 117203,
+   "sort": 1,
+   "name": "英霊召喚",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "英灵召唤",
+     "url": "https://www.bilibili.com/bangumi/play/ep29919",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 117204,
+   "sort": 2,
+   "name": "偽りの戦端",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "虚假的战争",
+     "url": "https://www.bilibili.com/bangumi/play/ep29920",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 117205,
+   "sort": 3,
+   "name": "冬木の地",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "冬木之地",
+     "url": "https://www.bilibili.com/bangumi/play/ep29921",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 117206,
+   "sort": 4,
+   "name": "魔槍の刃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "魔枪之刃",
+     "url": "https://www.bilibili.com/bangumi/play/ep29922",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 117207,
+   "sort": 5,
+   "name": "凶獣咆吼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "凶兽咆吼",
+     "url": "https://www.bilibili.com/bangumi/play/ep29923",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 117208,
+   "sort": 6,
+   "name": "謀略の夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "谋略之夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep29924",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 117209,
+   "sort": 7,
+   "name": "魔境の森",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "魔境森林",
+     "url": "https://www.bilibili.com/bangumi/play/ep29925",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 117210,
+   "sort": 8,
+   "name": "魔術師殺し",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "魔术师杀手",
+     "url": "https://www.bilibili.com/bangumi/play/ep29926",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 117211,
+   "sort": 9,
+   "name": "主と従者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "主人与从者",
+     "url": "https://www.bilibili.com/bangumi/play/ep29927",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 117212,
+   "sort": 10,
+   "name": "凛の冒険",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "凛的冒险",
+     "url": "https://www.bilibili.com/bangumi/play/ep29928",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 117213,
+   "sort": 11,
+   "name": "聖杯問答",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "圣杯问答",
+     "url": "https://www.bilibili.com/bangumi/play/ep29929",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 117214,
+   "sort": 12,
+   "name": "聖杯の招き",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "圣杯的召唤",
+     "url": "https://www.bilibili.com/bangumi/play/ep29930",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 117215,
+   "sort": 13,
+   "name": "禁断の狂宴",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "禁忌的狂宴",
+     "url": "https://www.bilibili.com/bangumi/play/ep29931",
+     "time": "2014-10-10T04:36:20.000Z"
+    }
+   ]
+  }
+ ]
+}

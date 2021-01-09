@@ -1,1 +1,27 @@
-{"id":"13679","name":"きまぐれオレンジ☆ロード あの日にかえりたい","sites":[{"site":"bilibili","id":"4049","sort":2}],"eps":[{"id":898833,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"那年夏天的开始（上）","url":"https://www.bilibili.com/bangumi/play/ep88422","time":"2016-05-25T03:21:00.000Z"}]}]}
+{
+ "id": "13679",
+ "name": "きまぐれオレンジ☆ロード あの日にかえりたい",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4049",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 898833,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "那年夏天的开始（上）",
+     "url": "https://www.bilibili.com/bangumi/play/ep88422",
+     "time": "2016-05-25T03:21:00.000Z"
+    }
+   ]
+  }
+ ]
+}

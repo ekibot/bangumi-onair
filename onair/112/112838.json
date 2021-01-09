@@ -1,1 +1,181 @@
-{"id":"112838","name":"てさぐれ！部活もの すぴんおふ プルプルんシャルムと遊ぼう","sites":[{"site":"bilibili","id":"1580","sort":12}],"eps":[{"id":496577,"sort":1,"name":"女性型戦闘ロボとひとコマ漫画で遊ぼう","sites":[{"site":"bilibili","sort":1,"title":"来玩女性战斗机器人与一帧漫画吧","url":"https://www.bilibili.com/bangumi/play/ep29094","time":"2015-04-07T17:55:00.000Z"}]},{"id":496578,"sort":2,"name":"体操部とミュージカルで遊ぼう","sites":[{"site":"bilibili","sort":2,"title":"来玩体操和音乐吧","url":"https://www.bilibili.com/bangumi/play/ep29986","time":"2015-04-12T13:13:00.000Z"}]},{"id":496579,"sort":3,"name":"面接と卓球部で遊ぼう","sites":[{"site":"bilibili","sort":3,"title":"来玩会面与桌球吧","url":"https://www.bilibili.com/bangumi/play/ep30441","time":"2015-04-19T16:21:00.000Z"}]},{"id":496580,"sort":4,"name":"別荘と校歌で遊ぼう","sites":[{"site":"bilibili","sort":4,"title":"来玩别墅与校歌吧","url":"https://www.bilibili.com/bangumi/play/ep35263","time":"2015-04-27T02:17:00.000Z"}]},{"id":496581,"sort":5,"name":"遠足とお化け屋敷で遊ぼう","sites":[{"site":"bilibili","sort":5,"title":"来玩远足与鬼屋吧","url":"https://www.bilibili.com/bangumi/play/ep39757","time":"2015-05-04T07:29:00.000Z"}]},{"id":496582,"sort":6,"name":"歯医者と観覧車で遊ぼう","sites":[{"site":"bilibili","sort":6,"title":"来玩牙科医生和摩天轮吧","url":"https://www.bilibili.com/bangumi/play/ep47464","time":"2015-05-11T12:20:00.000Z"}]},{"id":496583,"sort":7,"name":"人狼と百合で遊ぼう①","sites":[{"site":"bilibili","sort":7,"title":"来玩人狼与百合吧①","url":"https://www.bilibili.com/bangumi/play/ep57943","time":"2015-05-18T10:55:00.000Z"}]},{"id":496584,"sort":8,"name":"人狼と百合で遊ぼう②","sites":[{"site":"bilibili","sort":8,"title":"来玩人狼与百合吧②","url":"https://www.bilibili.com/bangumi/play/ep62433","time":"2015-05-25T05:32:00.000Z"}]},{"id":496585,"sort":9,"name":"映画館と動物園で遊ぼう","sites":[{"site":"bilibili","sort":9,"title":"来玩电影院与动物园吧","url":"https://www.bilibili.com/bangumi/play/ep62758","time":"2015-06-08T02:45:00.000Z"}]},{"id":496586,"sort":10,"name":"美容院と川柳で遊ぼう","sites":[{"site":"bilibili","sort":10,"title":"来玩美容院与川柳吧","url":"https://www.bilibili.com/bangumi/play/ep62865","time":"2015-06-15T01:46:00.000Z"}]},{"id":496587,"sort":11,"name":"これまでの映像で遊ぼう","sites":[{"site":"bilibili","sort":11,"title":"来玩至今为止的映像吧","url":"https://www.bilibili.com/bangumi/play/ep63596","time":"2015-06-22T12:42:00.000Z"}]},{"id":496588,"sort":12,"name":"MAJI てさぐりグランプリで遊ぼう","sites":[{"site":"bilibili","sort":12,"title":"来玩MAJI·摸索大赛吧","url":"https://www.bilibili.com/bangumi/play/ep63736","time":"2015-06-29T06:27:00.000Z"}]}]}
+{
+ "id": "112838",
+ "name": "てさぐれ！部活もの すぴんおふ プルプルんシャルムと遊ぼう",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1580",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 496577,
+   "sort": 1,
+   "name": "女性型戦闘ロボとひとコマ漫画で遊ぼう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "来玩女性战斗机器人与一帧漫画吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep29094",
+     "time": "2015-04-07T17:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496578,
+   "sort": 2,
+   "name": "体操部とミュージカルで遊ぼう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "来玩体操和音乐吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep29986",
+     "time": "2015-04-12T13:13:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496579,
+   "sort": 3,
+   "name": "面接と卓球部で遊ぼう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "来玩会面与桌球吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep30441",
+     "time": "2015-04-19T16:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496580,
+   "sort": 4,
+   "name": "別荘と校歌で遊ぼう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "来玩别墅与校歌吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep35263",
+     "time": "2015-04-27T02:17:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496581,
+   "sort": 5,
+   "name": "遠足とお化け屋敷で遊ぼう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "来玩远足与鬼屋吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep39757",
+     "time": "2015-05-04T07:29:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496582,
+   "sort": 6,
+   "name": "歯医者と観覧車で遊ぼう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "来玩牙科医生和摩天轮吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep47464",
+     "time": "2015-05-11T12:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496583,
+   "sort": 7,
+   "name": "人狼と百合で遊ぼう①",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "来玩人狼与百合吧①",
+     "url": "https://www.bilibili.com/bangumi/play/ep57943",
+     "time": "2015-05-18T10:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496584,
+   "sort": 8,
+   "name": "人狼と百合で遊ぼう②",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "来玩人狼与百合吧②",
+     "url": "https://www.bilibili.com/bangumi/play/ep62433",
+     "time": "2015-05-25T05:32:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496585,
+   "sort": 9,
+   "name": "映画館と動物園で遊ぼう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "来玩电影院与动物园吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep62758",
+     "time": "2015-06-08T02:45:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496586,
+   "sort": 10,
+   "name": "美容院と川柳で遊ぼう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "来玩美容院与川柳吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep62865",
+     "time": "2015-06-15T01:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496587,
+   "sort": 11,
+   "name": "これまでの映像で遊ぼう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "来玩至今为止的映像吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep63596",
+     "time": "2015-06-22T12:42:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496588,
+   "sort": 12,
+   "name": "MAJI てさぐりグランプリで遊ぼう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "来玩MAJI·摸索大赛吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep63736",
+     "time": "2015-06-29T06:27:00.000Z"
+    }
+   ]
+  }
+ ]
+}

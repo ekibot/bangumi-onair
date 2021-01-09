@@ -1,1 +1,32 @@
-{"id":"226187","name":"フルメタル・パニック! ワン・ナイト・スタンド","sites":[{"site":"qq","id":"3/36jhyx8qq0i44or","sort":1},{"site":"bilibili","id":"100772","sort":3}],"eps":[{"id":799117,"sort":2,"name":"フルメタル・パニック! ワン・ナイト・スタンド","sites":[{"site":"bilibili","sort":2,"title":"全金属狂潮 总集篇 第二部：One Night Stand","url":"https://www.bilibili.com/bangumi/play/ep212466","time":"2018-06-12T09:35:23.000Z"}]}]}
+{
+ "id": "226187",
+ "name": "フルメタル・パニック! ワン・ナイト・スタンド",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "3/36jhyx8qq0i44or",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "100772",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 799117,
+   "sort": 2,
+   "name": "フルメタル・パニック! ワン・ナイト・スタンド",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "全金属狂潮 总集篇 第二部：One Night Stand",
+     "url": "https://www.bilibili.com/bangumi/play/ep212466",
+     "time": "2018-06-12T09:35:23.000Z"
+    }
+   ]
+  }
+ ]
+}

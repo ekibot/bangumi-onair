@@ -1,1 +1,195 @@
-{"id":"191523","name":"鬼平 ONIHEI","sites":[{"site":"bilibili","id":"5792","sort":13}],"eps":[{"id":679565,"sort":1,"name":"血頭の丹兵衛","sites":[{"site":"bilibili","sort":1,"title":"血头丹兵卫","url":"https://www.bilibili.com/bangumi/play/ep100454","time":"2017-01-09T17:35:00.000Z"}]},{"id":679566,"sort":2,"name":"本所・桜屋敷","sites":[{"site":"bilibili","sort":2,"title":"总所·樱宅","url":"https://www.bilibili.com/bangumi/play/ep100455","time":"2017-01-16T17:35:00.000Z"}]},{"id":679567,"sort":3,"name":"暗剣白梅香","sites":[{"site":"bilibili","sort":3,"title":"暗剑白梅香","url":"https://www.bilibili.com/bangumi/play/ep100456","time":"2017-01-23T17:35:00.000Z"}]},{"id":679568,"sort":4,"name":"血闘","sites":[{"site":"bilibili","sort":4,"title":"血斗","url":"https://www.bilibili.com/bangumi/play/ep100457","time":"2017-01-30T17:35:00.000Z"}]},{"id":679569,"sort":5,"name":"谷中・いろは茶屋","sites":[{"site":"bilibili","sort":5,"title":"谷中·伊吕波茶屋","url":"https://www.bilibili.com/bangumi/play/ep100458","time":"2017-02-06T17:35:00.000Z"}]},{"id":679570,"sort":6,"name":"盗法秘伝","sites":[{"site":"bilibili","sort":6,"title":"盗法秘传","url":"https://www.bilibili.com/bangumi/play/ep100459","time":"2017-02-13T17:35:00.000Z"}]},{"id":679571,"sort":7,"name":"瓶割り小僧","sites":[{"site":"bilibili","sort":7,"title":"砸缸小子","url":"https://www.bilibili.com/bangumi/play/ep100460","time":"2017-02-20T17:35:10.000Z"}]},{"id":679572,"sort":8,"name":"大川の隠居","sites":[{"site":"bilibili","sort":8,"title":"河里的隐居仙人","url":"https://www.bilibili.com/bangumi/play/ep100461","time":"2017-02-27T17:35:10.000Z"}]},{"id":679573,"sort":9,"name":"わかれ道","sites":[{"site":"bilibili","sort":9,"title":"岔道","url":"https://www.bilibili.com/bangumi/play/ep100462","time":"2017-03-06T17:35:10.000Z"}]},{"id":679574,"sort":10,"name":"泥鰌の和助始末","sites":[{"site":"bilibili","sort":10,"title":"泥鳅和助的始末","url":"https://www.bilibili.com/bangumi/play/ep100463","time":"2017-03-13T17:35:02.000Z"}]},{"id":679575,"sort":11,"name":"むかしの男","sites":[{"site":"bilibili","sort":11,"title":"昔日的男人","url":"https://www.bilibili.com/bangumi/play/ep100464","time":"2017-03-20T17:35:00.000Z"}]},{"id":679576,"sort":12,"name":"あきれた奴","sites":[{"site":"bilibili","sort":12,"title":"束手无策的人","url":"https://www.bilibili.com/bangumi/play/ep100465","time":"2017-03-27T17:35:00.000Z"}]},{"id":679577,"sort":13,"name":"狐火","sites":[{"site":"bilibili","sort":13,"title":"狐火","url":"https://www.bilibili.com/bangumi/play/ep100466","time":"2017-04-03T17:35:00.000Z"}]}]}
+{
+ "id": "191523",
+ "name": "鬼平 ONIHEI",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5792",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 679565,
+   "sort": 1,
+   "name": "血頭の丹兵衛",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "血头丹兵卫",
+     "url": "https://www.bilibili.com/bangumi/play/ep100454",
+     "time": "2017-01-09T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 679566,
+   "sort": 2,
+   "name": "本所・桜屋敷",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "总所·樱宅",
+     "url": "https://www.bilibili.com/bangumi/play/ep100455",
+     "time": "2017-01-16T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 679567,
+   "sort": 3,
+   "name": "暗剣白梅香",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "暗剑白梅香",
+     "url": "https://www.bilibili.com/bangumi/play/ep100456",
+     "time": "2017-01-23T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 679568,
+   "sort": 4,
+   "name": "血闘",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "血斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep100457",
+     "time": "2017-01-30T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 679569,
+   "sort": 5,
+   "name": "谷中・いろは茶屋",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "谷中·伊吕波茶屋",
+     "url": "https://www.bilibili.com/bangumi/play/ep100458",
+     "time": "2017-02-06T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 679570,
+   "sort": 6,
+   "name": "盗法秘伝",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "盗法秘传",
+     "url": "https://www.bilibili.com/bangumi/play/ep100459",
+     "time": "2017-02-13T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 679571,
+   "sort": 7,
+   "name": "瓶割り小僧",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "砸缸小子",
+     "url": "https://www.bilibili.com/bangumi/play/ep100460",
+     "time": "2017-02-20T17:35:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 679572,
+   "sort": 8,
+   "name": "大川の隠居",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "河里的隐居仙人",
+     "url": "https://www.bilibili.com/bangumi/play/ep100461",
+     "time": "2017-02-27T17:35:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 679573,
+   "sort": 9,
+   "name": "わかれ道",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "岔道",
+     "url": "https://www.bilibili.com/bangumi/play/ep100462",
+     "time": "2017-03-06T17:35:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 679574,
+   "sort": 10,
+   "name": "泥鰌の和助始末",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "泥鳅和助的始末",
+     "url": "https://www.bilibili.com/bangumi/play/ep100463",
+     "time": "2017-03-13T17:35:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 679575,
+   "sort": 11,
+   "name": "むかしの男",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "昔日的男人",
+     "url": "https://www.bilibili.com/bangumi/play/ep100464",
+     "time": "2017-03-20T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 679576,
+   "sort": 12,
+   "name": "あきれた奴",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "束手无策的人",
+     "url": "https://www.bilibili.com/bangumi/play/ep100465",
+     "time": "2017-03-27T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 679577,
+   "sort": 13,
+   "name": "狐火",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "狐火",
+     "url": "https://www.bilibili.com/bangumi/play/ep100466",
+     "time": "2017-04-03T17:35:00.000Z"
+    }
+   ]
+  }
+ ]
+}

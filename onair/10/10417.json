@@ -1,1 +1,377 @@
-{"id":"10417","name":"ベターマン","sites":[{"site":"bilibili","id":"2216","sort":26}],"eps":[{"id":60622,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"暗-YAMI-","url":"https://www.bilibili.com/bangumi/play/ep48384","time":"2011-10-11T07:46:15.000Z"}]},{"id":60623,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"声-KOE-","url":"https://www.bilibili.com/bangumi/play/ep48385","time":"2011-10-11T07:46:15.000Z"}]},{"id":60624,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"宙-SORA-","url":"https://www.bilibili.com/bangumi/play/ep48386","time":"2011-10-11T07:46:15.000Z"}]},{"id":60625,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"醒-MEZAME-","url":"https://www.bilibili.com/bangumi/play/ep48387","time":"2011-10-11T07:46:15.000Z"}]},{"id":60626,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"冥-ZIGOKU-","url":"https://www.bilibili.com/bangumi/play/ep48388","time":"2011-10-11T07:46:15.000Z"}]},{"id":60627,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"灵-KODAMA-","url":"https://www.bilibili.com/bangumi/play/ep48389","time":"2011-10-11T07:46:15.000Z"}]},{"id":60628,"sort":7,"name":"","sites":[{"site":"bilibili","sort":7,"title":"力-FORTE-","url":"https://www.bilibili.com/bangumi/play/ep48390","time":"2011-10-11T07:46:15.000Z"}]},{"id":60629,"sort":8,"name":"","sites":[{"site":"bilibili","sort":8,"title":"毒-DOKU-","url":"https://www.bilibili.com/bangumi/play/ep48391","time":"2011-10-11T07:46:15.000Z"}]},{"id":60630,"sort":9,"name":"","sites":[{"site":"bilibili","sort":9,"title":"海-AQUA-","url":"https://www.bilibili.com/bangumi/play/ep48392","time":"2011-10-11T07:46:15.000Z"}]},{"id":60631,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"虫-MUSI-","url":"https://www.bilibili.com/bangumi/play/ep48393","time":"2011-10-11T07:46:15.000Z"}]},{"id":60632,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"雾-NEBULA-","url":"https://www.bilibili.com/bangumi/play/ep48394","time":"2011-10-11T07:46:15.000Z"}]},{"id":60633,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"龙-DRAGON-","url":"https://www.bilibili.com/bangumi/play/ep48395","time":"2011-10-11T07:46:15.000Z"}]},{"id":60634,"sort":13,"name":"","sites":[{"site":"bilibili","sort":13,"title":"蜜-MITU-","url":"https://www.bilibili.com/bangumi/play/ep48396","time":"2011-10-11T07:46:15.000Z"}]},{"id":60635,"sort":14,"name":"","sites":[{"site":"bilibili","sort":14,"title":"魂-KOKORO-","url":"https://www.bilibili.com/bangumi/play/ep48397","time":"2011-10-11T07:46:15.000Z"}]},{"id":60636,"sort":15,"name":"","sites":[{"site":"bilibili","sort":15,"title":"翳-KAGE-","url":"https://www.bilibili.com/bangumi/play/ep48398","time":"2011-10-11T07:46:15.000Z"}]},{"id":60637,"sort":16,"name":"","sites":[{"site":"bilibili","sort":16,"title":"现-UTUTU-","url":"https://www.bilibili.com/bangumi/play/ep48399","time":"2011-10-11T07:46:15.000Z"}]},{"id":60638,"sort":17,"name":"","sites":[{"site":"bilibili","sort":17,"title":"梦-YUME-","url":"https://www.bilibili.com/bangumi/play/ep48400","time":"2011-10-11T07:46:15.000Z"}]},{"id":60639,"sort":18,"name":"","sites":[{"site":"bilibili","sort":18,"title":"饥-KAWAKI-","url":"https://www.bilibili.com/bangumi/play/ep48401","time":"2011-10-11T07:46:15.000Z"}]},{"id":60640,"sort":19,"name":"","sites":[{"site":"bilibili","sort":19,"title":"镜-ITUWARI-","url":"https://www.bilibili.com/bangumi/play/ep48402","time":"2011-10-11T07:46:15.000Z"}]},{"id":60641,"sort":20,"name":"","sites":[{"site":"bilibili","sort":20,"title":"罠-WANA-","url":"https://www.bilibili.com/bangumi/play/ep48403","time":"2011-10-11T07:46:15.000Z"}]},{"id":60642,"sort":21,"name":"","sites":[{"site":"bilibili","sort":21,"title":"亡-HOROBI-","url":"https://www.bilibili.com/bangumi/play/ep48404","time":"2011-10-11T07:46:15.000Z"}]},{"id":60643,"sort":22,"name":"","sites":[{"site":"bilibili","sort":22,"title":"生-MOGAKI-","url":"https://www.bilibili.com/bangumi/play/ep48405","time":"2011-10-11T07:46:15.000Z"}]},{"id":60644,"sort":23,"name":"","sites":[{"site":"bilibili","sort":23,"title":"贽-MITUGI-","url":"https://www.bilibili.com/bangumi/play/ep48406","time":"2011-10-11T07:46:15.000Z"}]},{"id":60645,"sort":24,"name":"","sites":[{"site":"bilibili","sort":24,"title":"死-WAKARE-","url":"https://www.bilibili.com/bangumi/play/ep48407","time":"2011-10-11T07:46:15.000Z"}]},{"id":60646,"sort":25,"name":"","sites":[{"site":"bilibili","sort":25,"title":"脑-KIOKU-","url":"https://www.bilibili.com/bangumi/play/ep48408","time":"2011-10-11T07:46:15.000Z"}]},{"id":60647,"sort":26,"name":"","sites":[{"site":"bilibili","sort":26,"title":"-MU-","url":"https://www.bilibili.com/bangumi/play/ep48409","time":"2011-10-11T07:46:15.000Z"}]}]}
+{
+ "id": "10417",
+ "name": "ベターマン",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2216",
+   "sort": 26
+  }
+ ],
+ "eps": [
+  {
+   "id": 60622,
+   "sort": 1,
+   "name": "闇-YAMI-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "暗-YAMI-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48384",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60623,
+   "sort": 2,
+   "name": "声-KOE-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "声-KOE-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48385",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60624,
+   "sort": 3,
+   "name": "宙-SORA-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "宙-SORA-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48386",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60625,
+   "sort": 4,
+   "name": "醒-MEZAME-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "醒-MEZAME-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48387",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60626,
+   "sort": 5,
+   "name": "冥-ZIGOKU-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "冥-ZIGOKU-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48388",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60627,
+   "sort": 6,
+   "name": "霊-KODAMA-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "灵-KODAMA-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48389",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60628,
+   "sort": 7,
+   "name": "力-FORTE-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "力-FORTE-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48390",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60629,
+   "sort": 8,
+   "name": "毒-DOKU-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "毒-DOKU-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48391",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60630,
+   "sort": 9,
+   "name": "海-AQUA-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "海-AQUA-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48392",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60631,
+   "sort": 10,
+   "name": "蟲-MUSI-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "虫-MUSI-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48393",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60632,
+   "sort": 11,
+   "name": "霧-NEBULA-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "雾-NEBULA-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48394",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60633,
+   "sort": 12,
+   "name": "龍-DRAGON-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "龙-DRAGON-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48395",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60634,
+   "sort": 13,
+   "name": "蜜-MITU-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "蜜-MITU-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48396",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60635,
+   "sort": 14,
+   "name": "魂-KOKORO-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "魂-KOKORO-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48397",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60636,
+   "sort": 15,
+   "name": "翳-KAGE-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "翳-KAGE-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48398",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60637,
+   "sort": 16,
+   "name": "現-UTUTU-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "现-UTUTU-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48399",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60638,
+   "sort": 17,
+   "name": "夢-YUME-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "梦-YUME-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48400",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60639,
+   "sort": 18,
+   "name": "飢-KAWAKI-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "饥-KAWAKI-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48401",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60640,
+   "sort": 19,
+   "name": "鏡-ITUWARI-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "镜-ITUWARI-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48402",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60641,
+   "sort": 20,
+   "name": "罠-WANA-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "罠-WANA-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48403",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60642,
+   "sort": 21,
+   "name": "亡-HOROBI-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "亡-HOROBI-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48404",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60643,
+   "sort": 22,
+   "name": "生-MOGAKI-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "生-MOGAKI-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48405",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60644,
+   "sort": 23,
+   "name": "贄-MITUGI-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "贽-MITUGI-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48406",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60645,
+   "sort": 24,
+   "name": "死-WAKARE-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "死-WAKARE-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48407",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60646,
+   "sort": 25,
+   "name": "脳-KIOKU-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 25,
+     "title": "脑-KIOKU-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48408",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 60647,
+   "sort": 26,
+   "name": "-MU-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 26,
+     "title": "-MU-",
+     "url": "https://www.bilibili.com/bangumi/play/ep48409",
+     "time": "2011-10-11T07:46:15.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,321 @@
-{"id":"8293","name":"しおんの王","sites":[{"site":"bilibili","id":"1330","sort":22}],"eps":[{"id":47724,"sort":1,"name":"しおんの道","sites":[{"site":"bilibili","sort":1,"title":"紫音之道","url":"https://www.bilibili.com/bangumi/play/ep24630","time":"2012-02-10T10:47:04.000Z"}]},{"id":47725,"sort":2,"name":"秘密","sites":[{"site":"bilibili","sort":2,"title":"秘密","url":"https://www.bilibili.com/bangumi/play/ep24631","time":"2012-02-10T10:47:04.000Z"}]},{"id":47726,"sort":3,"name":"駒音","sites":[{"site":"bilibili","sort":3,"title":"驹音","url":"https://www.bilibili.com/bangumi/play/ep24632","time":"2012-02-10T10:47:04.000Z"}]},{"id":47727,"sort":4,"name":"鬼手","sites":[{"site":"bilibili","sort":4,"title":"鬼手","url":"https://www.bilibili.com/bangumi/play/ep24633","time":"2012-02-10T10:47:04.000Z"}]},{"id":47728,"sort":5,"name":"勇気の一手","sites":[{"site":"bilibili","sort":5,"title":"勇气的一手","url":"https://www.bilibili.com/bangumi/play/ep24634","time":"2012-02-10T10:47:04.000Z"}]},{"id":47729,"sort":6,"name":"挑発","sites":[{"site":"bilibili","sort":6,"title":"挑拨","url":"https://www.bilibili.com/bangumi/play/ep24635","time":"2012-02-10T10:47:04.000Z"}]},{"id":47730,"sort":7,"name":"遊び駒","sites":[{"site":"bilibili","sort":7,"title":"废子","url":"https://www.bilibili.com/bangumi/play/ep24636","time":"2012-02-10T10:47:04.000Z"}]},{"id":47731,"sort":8,"name":"夢への扉","sites":[{"site":"bilibili","sort":8,"title":"通向梦想的门","url":"https://www.bilibili.com/bangumi/play/ep24637","time":"2012-02-10T10:47:04.000Z"}]},{"id":47732,"sort":9,"name":"師弟","sites":[{"site":"bilibili","sort":9,"title":"师徒","url":"https://www.bilibili.com/bangumi/play/ep24638","time":"2012-02-10T10:47:04.000Z"}]},{"id":47733,"sort":10,"name":"おまじない","sites":[{"site":"bilibili","sort":10,"title":"符咒","url":"https://www.bilibili.com/bangumi/play/ep24639","time":"2012-02-10T10:47:04.000Z"}]},{"id":47734,"sort":11,"name":"疑惑","sites":[{"site":"bilibili","sort":11,"title":"疑惑","url":"https://www.bilibili.com/bangumi/play/ep24640","time":"2012-02-10T10:47:04.000Z"}]},{"id":47735,"sort":12,"name":"狐の読み","sites":[{"site":"bilibili","sort":12,"title":"狐的盘算","url":"https://www.bilibili.com/bangumi/play/ep24641","time":"2012-02-10T10:47:04.000Z"}]},{"id":47736,"sort":13,"name":"表裏一体","sites":[{"site":"bilibili","sort":13,"title":"表里如一","url":"https://www.bilibili.com/bangumi/play/ep24642","time":"2012-02-10T10:47:04.000Z"}]},{"id":47737,"sort":14,"name":"挑戦の譜","sites":[{"site":"bilibili","sort":14,"title":"挑战之谱","url":"https://www.bilibili.com/bangumi/play/ep24643","time":"2012-02-10T10:47:04.000Z"}]},{"id":47738,"sort":15,"name":"時の答え","sites":[{"site":"bilibili","sort":15,"title":"时间的回答","url":"https://www.bilibili.com/bangumi/play/ep24644","time":"2012-02-10T10:47:04.000Z"}]},{"id":47739,"sort":16,"name":"天眼","sites":[{"site":"bilibili","sort":16,"title":"天眼","url":"https://www.bilibili.com/bangumi/play/ep24645","time":"2012-02-10T10:47:04.000Z"}]},{"id":47740,"sort":17,"name":"読心","sites":[{"site":"bilibili","sort":17,"title":"读心","url":"https://www.bilibili.com/bangumi/play/ep24646","time":"2012-02-10T10:47:04.000Z"}]},{"id":47741,"sort":18,"name":"止まった時間","sites":[{"site":"bilibili","sort":18,"title":"停滞的时间","url":"https://www.bilibili.com/bangumi/play/ep24647","time":"2012-02-10T10:47:04.000Z"}]},{"id":47742,"sort":19,"name":"甦る一手","sites":[{"site":"bilibili","sort":19,"title":"记忆复苏的一手","url":"https://www.bilibili.com/bangumi/play/ep24648","time":"2012-02-10T10:47:04.000Z"}]},{"id":47743,"sort":20,"name":"鬼殺し","sites":[{"site":"bilibili","sort":20,"title":"鬼杀","url":"https://www.bilibili.com/bangumi/play/ep24649","time":"2012-02-10T10:47:04.000Z"}]},{"id":47744,"sort":21,"name":"真犯人","sites":[{"site":"bilibili","sort":21,"title":"真凶","url":"https://www.bilibili.com/bangumi/play/ep24650","time":"2012-02-10T10:47:04.000Z"}]},{"id":47745,"sort":22,"name":"明日へ","sites":[{"site":"bilibili","sort":22,"title":"朝向明天","url":"https://www.bilibili.com/bangumi/play/ep24651","time":"2012-02-10T10:47:04.000Z"}]}]}
+{
+ "id": "8293",
+ "name": "しおんの王",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1330",
+   "sort": 22
+  }
+ ],
+ "eps": [
+  {
+   "id": 47724,
+   "sort": 1,
+   "name": "しおんの道",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "紫音之道",
+     "url": "https://www.bilibili.com/bangumi/play/ep24630",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47725,
+   "sort": 2,
+   "name": "秘密",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "秘密",
+     "url": "https://www.bilibili.com/bangumi/play/ep24631",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47726,
+   "sort": 3,
+   "name": "駒音",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "驹音",
+     "url": "https://www.bilibili.com/bangumi/play/ep24632",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47727,
+   "sort": 4,
+   "name": "鬼手",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "鬼手",
+     "url": "https://www.bilibili.com/bangumi/play/ep24633",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47728,
+   "sort": 5,
+   "name": "勇気の一手",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "勇气的一手",
+     "url": "https://www.bilibili.com/bangumi/play/ep24634",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47729,
+   "sort": 6,
+   "name": "挑発",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "挑拨",
+     "url": "https://www.bilibili.com/bangumi/play/ep24635",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47730,
+   "sort": 7,
+   "name": "遊び駒",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "废子",
+     "url": "https://www.bilibili.com/bangumi/play/ep24636",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47731,
+   "sort": 8,
+   "name": "夢への扉",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "通向梦想的门",
+     "url": "https://www.bilibili.com/bangumi/play/ep24637",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47732,
+   "sort": 9,
+   "name": "師弟",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "师徒",
+     "url": "https://www.bilibili.com/bangumi/play/ep24638",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47733,
+   "sort": 10,
+   "name": "おまじない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "符咒",
+     "url": "https://www.bilibili.com/bangumi/play/ep24639",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47734,
+   "sort": 11,
+   "name": "疑惑",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "疑惑",
+     "url": "https://www.bilibili.com/bangumi/play/ep24640",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47735,
+   "sort": 12,
+   "name": "狐の読み",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "狐的盘算",
+     "url": "https://www.bilibili.com/bangumi/play/ep24641",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47736,
+   "sort": 13,
+   "name": "表裏一体",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "表里如一",
+     "url": "https://www.bilibili.com/bangumi/play/ep24642",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47737,
+   "sort": 14,
+   "name": "挑戦の譜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "挑战之谱",
+     "url": "https://www.bilibili.com/bangumi/play/ep24643",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47738,
+   "sort": 15,
+   "name": "時の答え",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "时间的回答",
+     "url": "https://www.bilibili.com/bangumi/play/ep24644",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47739,
+   "sort": 16,
+   "name": "天眼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "天眼",
+     "url": "https://www.bilibili.com/bangumi/play/ep24645",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47740,
+   "sort": 17,
+   "name": "読心",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "读心",
+     "url": "https://www.bilibili.com/bangumi/play/ep24646",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47741,
+   "sort": 18,
+   "name": "止まった時間",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "停滞的时间",
+     "url": "https://www.bilibili.com/bangumi/play/ep24647",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47742,
+   "sort": 19,
+   "name": "甦る一手",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "记忆复苏的一手",
+     "url": "https://www.bilibili.com/bangumi/play/ep24648",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47743,
+   "sort": 20,
+   "name": "鬼殺し",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "鬼杀",
+     "url": "https://www.bilibili.com/bangumi/play/ep24649",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47744,
+   "sort": 21,
+   "name": "真犯人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "真凶",
+     "url": "https://www.bilibili.com/bangumi/play/ep24650",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 47745,
+   "sort": 22,
+   "name": "明日へ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "朝向明天",
+     "url": "https://www.bilibili.com/bangumi/play/ep24651",
+     "time": "2012-02-10T10:47:04.000Z"
+    }
+   ]
+  }
+ ]
+}

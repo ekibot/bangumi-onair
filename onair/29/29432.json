@@ -1,1 +1,41 @@
-{"id":"29432","name":"Aチャンネル+smile","sites":[{"site":"bilibili","id":"916","sort":3}],"eps":[{"id":151740,"sort":1,"name":"Smile Channel 1 やまもりパンケーキ An accident","sites":[{"site":"bilibili","sort":1,"title":"满满的煎饼","url":"https://www.bilibili.com/bangumi/play/ep16493","time":"2012-03-22T03:58:09.000Z"}]},{"id":151741,"sort":2,"name":"Smile Channel 2 絵馬にお願い A Happy new year","sites":[{"site":"bilibili","sort":2,"title":"拜托了绘马","url":"https://www.bilibili.com/bangumi/play/ep16492","time":"2012-03-22T05:46:55.000Z"}]}]}
+{
+ "id": "29432",
+ "name": "Aチャンネル+smile",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "916",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 151740,
+   "sort": 1,
+   "name": "Smile Channel 1 やまもりパンケーキ An accident",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "满满的煎饼",
+     "url": "https://www.bilibili.com/bangumi/play/ep16493",
+     "time": "2012-03-22T03:58:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 151741,
+   "sort": 2,
+   "name": "Smile Channel 2 絵馬にお願い A Happy new year",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "拜托了绘马",
+     "url": "https://www.bilibili.com/bangumi/play/ep16492",
+     "time": "2012-03-22T05:46:55.000Z"
+    }
+   ]
+  }
+ ]
+}

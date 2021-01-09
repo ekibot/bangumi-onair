@@ -1,1 +1,181 @@
-{"id":"58709","name":"ハヤテのごとく！ Cuties","sites":[{"site":"bilibili","id":"4435","sort":12}],"eps":[{"id":256117,"sort":1,"name":"綾崎ハヤテ","sites":[{"site":"bilibili","sort":1,"title":"绫崎飒","url":"https://www.bilibili.com/bangumi/play/ep101638","time":"2017-02-09T04:19:53.000Z"}]},{"id":256118,"sort":2,"name":"三千院ナギ","sites":[{"site":"bilibili","sort":2,"title":"三千院凪","url":"https://www.bilibili.com/bangumi/play/ep101639","time":"2017-02-09T04:19:53.000Z"}]},{"id":256119,"sort":3,"name":"天王州アテネ","sites":[{"site":"bilibili","sort":3,"title":"天王州雅典娜","url":"https://www.bilibili.com/bangumi/play/ep101640","time":"2017-02-09T04:19:53.000Z"}]},{"id":256120,"sort":4,"name":"鷺ノ宮伊澄と愛沢咲夜","sites":[{"site":"bilibili","sort":4,"title":"鹭之宫伊澄和爱泽咲夜","url":"https://www.bilibili.com/bangumi/play/ep101641","time":"2017-02-09T04:19:53.000Z"}]},{"id":256121,"sort":5,"name":"桂ヒナギク","sites":[{"site":"bilibili","sort":5,"title":"桂雏菊","url":"https://www.bilibili.com/bangumi/play/ep101642","time":"2017-02-09T04:19:53.000Z"}]},{"id":256122,"sort":6,"name":"瀬川泉と他2人","sites":[{"site":"bilibili","sort":6,"title":"濑川泉和其余二人","url":"https://www.bilibili.com/bangumi/play/ep101643","time":"2017-02-09T04:19:53.000Z"}]},{"id":256123,"sort":7,"name":"水蓮寺ルカ","sites":[{"site":"bilibili","sort":7,"title":"水莲寺璐珈","url":"https://www.bilibili.com/bangumi/play/ep101644","time":"2017-02-09T04:19:53.000Z"}]},{"id":256124,"sort":8,"name":"西沢歩","sites":[{"site":"bilibili","sort":8,"title":"西泽步","url":"https://www.bilibili.com/bangumi/play/ep101645","time":"2017-02-09T04:19:53.000Z"}]},{"id":256125,"sort":9,"name":"春風千桜と剣野カユラ","sites":[{"site":"bilibili","sort":9,"title":"春风千樱","url":"https://www.bilibili.com/bangumi/play/ep101646","time":"2017-02-09T04:19:53.000Z"}]},{"id":256126,"sort":10,"name":"マリア","sites":[{"site":"bilibili","sort":10,"title":"玛丽亚","url":"https://www.bilibili.com/bangumi/play/ep101647","time":"2017-02-09T04:19:53.000Z"}]},{"id":256127,"sort":11,"name":"ドアをノックするのは誰だ？","sites":[{"site":"bilibili","sort":11,"title":"是谁在敲门？","url":"https://www.bilibili.com/bangumi/play/ep101648","time":"2017-02-09T04:19:53.000Z"}]},{"id":256128,"sort":12,"name":"愛し愛されて生きるのさ","sites":[{"site":"bilibili","sort":12,"title":"接吻","url":"https://www.bilibili.com/bangumi/play/ep101649","time":"2017-02-09T04:19:53.000Z"}]}]}
+{
+ "id": "58709",
+ "name": "ハヤテのごとく！ Cuties",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4435",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 256117,
+   "sort": 1,
+   "name": "綾崎ハヤテ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "绫崎飒",
+     "url": "https://www.bilibili.com/bangumi/play/ep101638",
+     "time": "2017-02-09T04:19:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256118,
+   "sort": 2,
+   "name": "三千院ナギ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "三千院凪",
+     "url": "https://www.bilibili.com/bangumi/play/ep101639",
+     "time": "2017-02-09T04:19:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256119,
+   "sort": 3,
+   "name": "天王州アテネ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "天王州雅典娜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101640",
+     "time": "2017-02-09T04:19:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256120,
+   "sort": 4,
+   "name": "鷺ノ宮伊澄と愛沢咲夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "鹭之宫伊澄和爱泽咲夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep101641",
+     "time": "2017-02-09T04:19:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256121,
+   "sort": 5,
+   "name": "桂ヒナギク",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "桂雏菊",
+     "url": "https://www.bilibili.com/bangumi/play/ep101642",
+     "time": "2017-02-09T04:19:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256122,
+   "sort": 6,
+   "name": "瀬川泉と他2人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "濑川泉和其余二人",
+     "url": "https://www.bilibili.com/bangumi/play/ep101643",
+     "time": "2017-02-09T04:19:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256123,
+   "sort": 7,
+   "name": "水蓮寺ルカ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "水莲寺璐珈",
+     "url": "https://www.bilibili.com/bangumi/play/ep101644",
+     "time": "2017-02-09T04:19:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256124,
+   "sort": 8,
+   "name": "西沢歩",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "西泽步",
+     "url": "https://www.bilibili.com/bangumi/play/ep101645",
+     "time": "2017-02-09T04:19:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256125,
+   "sort": 9,
+   "name": "春風千桜と剣野カユラ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "春风千樱",
+     "url": "https://www.bilibili.com/bangumi/play/ep101646",
+     "time": "2017-02-09T04:19:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256126,
+   "sort": 10,
+   "name": "マリア",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "玛丽亚",
+     "url": "https://www.bilibili.com/bangumi/play/ep101647",
+     "time": "2017-02-09T04:19:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256127,
+   "sort": 11,
+   "name": "ドアをノックするのは誰だ？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "是谁在敲门？",
+     "url": "https://www.bilibili.com/bangumi/play/ep101648",
+     "time": "2017-02-09T04:19:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256128,
+   "sort": 12,
+   "name": "愛し愛されて生きるのさ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "接吻",
+     "url": "https://www.bilibili.com/bangumi/play/ep101649",
+     "time": "2017-02-09T04:19:53.000Z"
+    }
+   ]
+  }
+ ]
+}

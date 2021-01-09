@@ -1,1 +1,58 @@
-{"id":"38722","name":"真魔神英雄伝ワタル 魔神山編","sites":[{"site":"bilibili","id":"4000","sort":2},{"site":"qq","id":"d/d2w5ny7f4yxuch2","sort":2}],"eps":[{"id":166206,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"归來的救世主","url":"https://www.bilibili.com/bangumi/play/ep88069","time":"2016-05-17T03:45:00.000Z"},{"site":"qq","sort":1,"title":"魔神英雄传OVA魔神山_01","url":"https://v.qq.com/x/cover/d2w5ny7f4yxuch2/g00330ddidx.html"}]},{"id":166207,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"苏醒吧! 传说中的皇帝龙","url":"https://www.bilibili.com/bangumi/play/ep88070","time":"2016-05-17T03:45:00.000Z"},{"site":"qq","sort":2,"title":"魔神英雄传OVA魔神山_02","url":"https://v.qq.com/x/cover/d2w5ny7f4yxuch2/s00330q3rbt.html"}]}]}
+{
+ "id": "38722",
+ "name": "真魔神英雄伝ワタル 魔神山編",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4000",
+   "sort": 2
+  },
+  {
+   "site": "qq",
+   "id": "d/d2w5ny7f4yxuch2",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 166206,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "归來的救世主",
+     "url": "https://www.bilibili.com/bangumi/play/ep88069",
+     "time": "2016-05-17T03:45:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "魔神英雄传OVA魔神山_01",
+     "url": "https://v.qq.com/x/cover/d2w5ny7f4yxuch2/g00330ddidx.html"
+    }
+   ]
+  },
+  {
+   "id": 166207,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "苏醒吧! 传说中的皇帝龙",
+     "url": "https://www.bilibili.com/bangumi/play/ep88070",
+     "time": "2016-05-17T03:45:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "魔神英雄传OVA魔神山_02",
+     "url": "https://v.qq.com/x/cover/d2w5ny7f4yxuch2/s00330q3rbt.html"
+    }
+   ]
+  }
+ ]
+}

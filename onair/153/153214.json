@@ -1,1 +1,258 @@
-{"id":"153214","name":"ブブキ・ブランキ","sites":[{"site":"bilibili","id":"3128","sort":12}],"eps":[{"id":596877,"sort":1,"name":"魔女の息子","sites":[{"site":"bilibili","sort":1,"title":"魔女之子","url":"https://www.bilibili.com/bangumi/play/ep82808","time":"2016-01-09T14:30:59.000Z"}]},{"id":596878,"sort":2,"name":"炎の巨人","sites":[{"site":"bilibili","sort":2,"title":"炎之巨人","url":"https://www.bilibili.com/bangumi/play/ep82985","time":"2016-01-16T14:30:44.000Z"}]},{"id":596879,"sort":3,"name":"心臓と手足","sites":[{"site":"bilibili","sort":3,"title":"心脏与手足","url":"https://www.bilibili.com/bangumi/play/ep83244","time":"2016-01-23T14:30:59.000Z"}]},{"id":596880,"sort":4,"name":"右手と拳銃","sites":[{"site":"bilibili","sort":4,"title":"右手与手枪","url":"https://www.bilibili.com/bangumi/play/ep83534","time":"2016-01-30T14:31:59.000Z"}]},{"id":596881,"sort":5,"name":"剣と指輪","sites":[{"site":"bilibili","sort":5,"title":"剑与戒指","url":"https://www.bilibili.com/bangumi/play/ep83850","time":"2016-02-06T14:32:09.000Z"}]},{"id":596882,"sort":6,"name":"灰色の宝石","sites":[{"site":"bilibili","sort":6,"title":"灰色的宝石","url":"https://www.bilibili.com/bangumi/play/ep83880","time":"2016-02-13T14:31:00.000Z"}]},{"id":596883,"sort":7,"name":"首なし巨人","sites":[{"site":"bilibili","sort":7,"title":"无头巨人","url":"https://www.bilibili.com/bangumi/play/ep84270","time":"2016-02-20T14:31:01.000Z"}]},{"id":596884,"sort":8,"name":"止まった心臓","sites":[{"site":"bilibili","sort":8,"title":"停止的心脏","url":"https://www.bilibili.com/bangumi/play/ep84537","time":"2016-02-27T14:30:44.000Z"}]},{"id":596885,"sort":9,"name":"拳と拳","sites":[{"site":"bilibili","sort":9,"title":"拳与拳","url":"https://www.bilibili.com/bangumi/play/ep84732","time":"2016-03-05T14:30:01.000Z"}]},{"id":596886,"sort":10,"name":"砕かれる心臓","sites":[{"site":"bilibili","sort":10,"title":"破碎的心脏","url":"https://www.bilibili.com/bangumi/play/ep85027","time":"2016-03-12T14:30:02.000Z"}]},{"id":596887,"sort":11,"name":"不死の少女","sites":[{"site":"bilibili","sort":11,"title":"不死的少女","url":"https://www.bilibili.com/bangumi/play/ep85222","time":"2016-03-19T14:30:01.000Z"}]},{"id":596888,"sort":12,"name":"宝島の少年","sites":[{"site":"bilibili","sort":12,"title":"宝岛的少年","url":"https://www.bilibili.com/bangumi/play/ep85499","time":"2016-03-26T14:30:01.000Z"}]}]}
+{
+ "id": "153214",
+ "name": "ブブキ・ブランキ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3128",
+   "sort": 12
+  },
+  {
+   "site": "youku",
+   "id": "ae8ad3aea87d11e5be16",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 596877,
+   "sort": 1,
+   "name": "魔女の息子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "魔女之子",
+     "url": "https://www.bilibili.com/bangumi/play/ep82808",
+     "time": "2016-01-09T14:30:59.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 魔女的儿子",
+     "url": "https://v.youku.com/v_show/id_XMTQ0MDExOTQ4MA==.html?s=ae8ad3aea87d11e5be16"
+    }
+   ]
+  },
+  {
+   "id": 596878,
+   "sort": 2,
+   "name": "炎の巨人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "炎之巨人",
+     "url": "https://www.bilibili.com/bangumi/play/ep82985",
+     "time": "2016-01-16T14:30:44.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 火焰巨人",
+     "url": "https://v.youku.com/v_show/id_XMTQ0NzM0Nzg5Ng==.html?s=ae8ad3aea87d11e5be16"
+    }
+   ]
+  },
+  {
+   "id": 596879,
+   "sort": 3,
+   "name": "心臓と手足",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "心脏与手足",
+     "url": "https://www.bilibili.com/bangumi/play/ep83244",
+     "time": "2016-01-23T14:30:59.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 心脏和手足",
+     "url": "https://v.youku.com/v_show/id_XMTQ1NDM2MzY3Mg==.html?s=ae8ad3aea87d11e5be16"
+    }
+   ]
+  },
+  {
+   "id": 596880,
+   "sort": 4,
+   "name": "右手と拳銃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "右手与手枪",
+     "url": "https://www.bilibili.com/bangumi/play/ep83534",
+     "time": "2016-01-30T14:31:59.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 右手和手枪",
+     "url": "https://v.youku.com/v_show/id_XMTQ2MTA5NzA2NA==.html?s=ae8ad3aea87d11e5be16"
+    }
+   ]
+  },
+  {
+   "id": 596881,
+   "sort": 5,
+   "name": "剣と指輪",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "剑与戒指",
+     "url": "https://www.bilibili.com/bangumi/play/ep83850",
+     "time": "2016-02-06T14:32:09.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 剑和戒指",
+     "url": "https://v.youku.com/v_show/id_XMTQ2Njg1MjYwOA==.html?s=ae8ad3aea87d11e5be16"
+    }
+   ]
+  },
+  {
+   "id": 596882,
+   "sort": 6,
+   "name": "灰色の宝石",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "灰色的宝石",
+     "url": "https://www.bilibili.com/bangumi/play/ep83880",
+     "time": "2016-02-13T14:31:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 灰色的宝石",
+     "url": "https://v.youku.com/v_show/id_XMTQ2ODU0NzMxNg==.html?s=ae8ad3aea87d11e5be16"
+    }
+   ]
+  },
+  {
+   "id": 596883,
+   "sort": 7,
+   "name": "首なし巨人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "无头巨人",
+     "url": "https://www.bilibili.com/bangumi/play/ep84270",
+     "time": "2016-02-20T14:31:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 无头巨人",
+     "url": "https://v.youku.com/v_show/id_XMTQ3NzA5MTc5Mg==.html?s=ae8ad3aea87d11e5be16"
+    }
+   ]
+  },
+  {
+   "id": 596884,
+   "sort": 8,
+   "name": "止まった心臓",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "停止的心脏",
+     "url": "https://www.bilibili.com/bangumi/play/ep84537",
+     "time": "2016-02-27T14:30:44.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 停止跳动的心脏",
+     "url": "https://v.youku.com/v_show/id_XMTQ4NDA1NjQyNA==.html?s=ae8ad3aea87d11e5be16"
+    }
+   ]
+  },
+  {
+   "id": 596885,
+   "sort": 9,
+   "name": "拳と拳",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "拳与拳",
+     "url": "https://www.bilibili.com/bangumi/play/ep84732",
+     "time": "2016-03-05T14:30:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 拳头与拳头",
+     "url": "https://v.youku.com/v_show/id_XMTQ5MDg5Njg3Ng==.html?s=ae8ad3aea87d11e5be16"
+    }
+   ]
+  },
+  {
+   "id": 596886,
+   "sort": 10,
+   "name": "砕かれる心臓",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "破碎的心脏",
+     "url": "https://www.bilibili.com/bangumi/play/ep85027",
+     "time": "2016-03-12T14:30:02.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 破碎的心脏",
+     "url": "https://v.youku.com/v_show/id_XMTQ5NzgzOTE3Mg==.html?s=ae8ad3aea87d11e5be16"
+    }
+   ]
+  },
+  {
+   "id": 596887,
+   "sort": 11,
+   "name": "不死の少女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "不死的少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep85222",
+     "time": "2016-03-19T14:30:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 不死的少女",
+     "url": "https://v.youku.com/v_show/id_XMTUwNTA5MDY4OA==.html?s=ae8ad3aea87d11e5be16"
+    }
+   ]
+  },
+  {
+   "id": 596888,
+   "sort": 12,
+   "name": "宝島の少年",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "宝岛的少年",
+     "url": "https://www.bilibili.com/bangumi/play/ep85499",
+     "time": "2016-03-26T14:30:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 宝岛的少年",
+     "url": "https://v.youku.com/v_show/id_XMTUxMjQ4MjQ0NA==.html?s=ae8ad3aea87d11e5be16"
+    }
+   ]
+  }
+ ]
+}

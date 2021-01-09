@@ -1,1 +1,125 @@
-{"id":"46451","name":"ライチDE光クラブ","sites":[{"site":"bilibili","id":"1685","sort":8}],"eps":[{"id":198978,"sort":1,"name":"処刑DE光クラブ","sites":[{"site":"bilibili","sort":1,"title":"处刑DE光之俱乐部","url":"https://www.bilibili.com/bangumi/play/ep30449","time":"2012-10-02T09:33:35.000Z"}]},{"id":198979,"sort":2,"name":"改造DE光クラブ","sites":[{"site":"bilibili","sort":2,"title":"改造DE光之俱乐部","url":"https://www.bilibili.com/bangumi/play/ep30448","time":"2012-10-09T09:53:53.000Z"}]},{"id":198980,"sort":3,"name":"特許DE光クラブ","sites":[{"site":"bilibili","sort":3,"title":"特许DE光之俱乐部","url":"https://www.bilibili.com/bangumi/play/ep30447","time":"2012-10-16T17:11:51.000Z"}]},{"id":198981,"sort":4,"name":"検証DE光クラブ","sites":[{"site":"bilibili","sort":4,"title":"检证DE光之俱乐部","url":"https://www.bilibili.com/bangumi/play/ep30446","time":"2012-10-24T01:54:30.000Z"}]},{"id":198982,"sort":5,"name":"楽団DE光クラブ","sites":[{"site":"bilibili","sort":5,"title":"乐团DE光之俱乐部","url":"https://www.bilibili.com/bangumi/play/ep30445","time":"2012-11-01T00:06:05.000Z"}]},{"id":198983,"sort":6,"name":"燃料DE光クラブ","sites":[{"site":"bilibili","sort":6,"title":"燃料DE光之俱乐部","url":"https://www.bilibili.com/bangumi/play/ep30444","time":"2012-11-07T07:45:42.000Z"}]},{"id":198984,"sort":7,"name":"海原DE光クラブ","sites":[{"site":"bilibili","sort":7,"title":"海原DE光之俱乐部","url":"https://www.bilibili.com/bangumi/play/ep30443","time":"2012-11-14T01:27:22.000Z"}]},{"id":198985,"sort":8,"name":"忠誠DE光クラブ","sites":[{"site":"bilibili","sort":8,"title":"忠诚DE光之俱乐部","url":"https://www.bilibili.com/bangumi/play/ep30442","time":"2012-11-20T09:46:27.000Z"}]}]}
+{
+ "id": "46451",
+ "name": "ライチDE光クラブ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1685",
+   "sort": 8
+  }
+ ],
+ "eps": [
+  {
+   "id": 198978,
+   "sort": 1,
+   "name": "処刑DE光クラブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "处刑DE光之俱乐部",
+     "url": "https://www.bilibili.com/bangumi/play/ep30449",
+     "time": "2012-10-02T09:33:35.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198979,
+   "sort": 2,
+   "name": "改造DE光クラブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "改造DE光之俱乐部",
+     "url": "https://www.bilibili.com/bangumi/play/ep30448",
+     "time": "2012-10-09T09:53:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198980,
+   "sort": 3,
+   "name": "特許DE光クラブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "特许DE光之俱乐部",
+     "url": "https://www.bilibili.com/bangumi/play/ep30447",
+     "time": "2012-10-16T17:11:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198981,
+   "sort": 4,
+   "name": "検証DE光クラブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "检证DE光之俱乐部",
+     "url": "https://www.bilibili.com/bangumi/play/ep30446",
+     "time": "2012-10-24T01:54:30.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198982,
+   "sort": 5,
+   "name": "楽団DE光クラブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "乐团DE光之俱乐部",
+     "url": "https://www.bilibili.com/bangumi/play/ep30445",
+     "time": "2012-11-01T00:06:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198983,
+   "sort": 6,
+   "name": "燃料DE光クラブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "燃料DE光之俱乐部",
+     "url": "https://www.bilibili.com/bangumi/play/ep30444",
+     "time": "2012-11-07T07:45:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198984,
+   "sort": 7,
+   "name": "海原DE光クラブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "海原DE光之俱乐部",
+     "url": "https://www.bilibili.com/bangumi/play/ep30443",
+     "time": "2012-11-14T01:27:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198985,
+   "sort": 8,
+   "name": "忠誠DE光クラブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "忠诚DE光之俱乐部",
+     "url": "https://www.bilibili.com/bangumi/play/ep30442",
+     "time": "2012-11-20T09:46:27.000Z"
+    }
+   ]
+  }
+ ]
+}

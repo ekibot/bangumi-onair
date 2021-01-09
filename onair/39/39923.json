@@ -1,1 +1,55 @@
-{"id":"39923","name":"REVIVAL OF EVANGELION 新世紀エヴァンゲリオン劇場版 DEATH (TRUE)² / Air / まごころを、君に","sites":[{"site":"iqiyi","id":"a_19rrh9zj65","sort":6}],"eps":[{"id":172012,"sort":1,"name":"DEATH (TRUE)2","sites":[{"site":"iqiyi","sort":1,"title":"Evangelion 1.11 You Are Not Alone","url":"http://www.iqiyi.com/v_19rr98grq8.html","time":"2016-10-31T16:00:32.000Z"}]},{"id":172013,"sort":2,"name":"Air","sites":[{"site":"iqiyi","sort":2,"title":"Evangelion 2.22 You Can Not Advance","url":"http://www.iqiyi.com/v_19rr98h0ic.html","time":"2016-10-31T16:00:30.000Z"}]},{"id":741760,"sort":3,"name":"まごころを、君に","sites":[{"site":"iqiyi","sort":3,"title":"Evangelion 3.33 You Can (Not) Redo","url":"http://www.iqiyi.com/v_19rr98jps8.html","time":"2016-10-31T16:00:32.000Z"}]}]}
+{
+ "id": "39923",
+ "name": "REVIVAL OF EVANGELION 新世紀エヴァンゲリオン劇場版 DEATH (TRUE)² / Air / まごころを、君に",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh9zj65",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 172012,
+   "sort": 1,
+   "name": "DEATH (TRUE)2",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "Evangelion 1.11 You Are Not Alone",
+     "url": "http://www.iqiyi.com/v_19rr98grq8.html",
+     "time": "2016-10-31T16:00:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 172013,
+   "sort": 2,
+   "name": "Air",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "Evangelion 2.22 You Can Not Advance",
+     "url": "http://www.iqiyi.com/v_19rr98h0ic.html",
+     "time": "2016-10-31T16:00:30.000Z"
+    }
+   ]
+  },
+  {
+   "id": 741760,
+   "sort": 3,
+   "name": "まごころを、君に",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "Evangelion 3.33 You Can (Not) Redo",
+     "url": "http://www.iqiyi.com/v_19rr98jps8.html",
+     "time": "2016-10-31T16:00:32.000Z"
+    }
+   ]
+  }
+ ]
+}

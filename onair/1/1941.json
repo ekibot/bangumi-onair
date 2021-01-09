@@ -1,1 +1,26 @@
-{"id":"1941","name":"劇場版カードキャプターさくら","sites":[{"site":"qq","id":"a/a7i7zzprly7pmmj","sort":1},{"site":"iqiyi","id":"a_19rrhg0s71","sort":1}],"eps":[{"id":444322,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"魔卡少女樱剧场版：香港篇","url":"https://v.qq.com/x/cover/a7i7zzprly7pmmj/z0026f3h3hy.html"},{"site":"iqiyi","sort":1,"title":"魔卡少女樱剧场版1:香港篇","url":"http://www.iqiyi.com/v_19rrbln8tg.html","time":"2018-03-19T15:08:14.000Z"}]}]}
+{
+ "id": "1941",
+ "name": "劇場版カードキャプターさくら",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "a/a7i7zzprly7pmmj",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 444322,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "魔卡少女樱剧场版：香港篇",
+     "url": "https://v.qq.com/x/cover/a7i7zzprly7pmmj/z0026f3h3hy.html"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,181 @@
-{"id":"133403","name":"ハンドレッド","sites":[{"site":"bilibili","id":"3463","sort":12}],"eps":[{"id":621321,"sort":1,"name":"リトルガーデン","sites":[{"site":"bilibili","sort":1,"title":"Little Garden","url":"https://www.bilibili.com/bangumi/play/ep85787","time":"2016-04-04T18:05:02.000Z"}]},{"id":621322,"sort":2,"name":"絶対無敵の女王（パーフェクトクイーン）","sites":[{"site":"bilibili","sort":2,"title":"绝对无敌的女王","url":"https://www.bilibili.com/bangumi/play/ep85975","time":"2016-04-11T18:05:02.000Z"}]},{"id":621323,"sort":3,"name":"ヴァリアント覚醒","sites":[{"site":"bilibili","sort":3,"title":"变体觉醒","url":"https://www.bilibili.com/bangumi/play/ep86468","time":"2016-04-18T18:05:02.000Z"}]},{"id":621324,"sort":4,"name":"ボディーガード","sites":[{"site":"bilibili","sort":4,"title":"保镖","url":"https://www.bilibili.com/bangumi/play/ep86780","time":"2016-04-25T18:05:02.000Z"}]},{"id":621325,"sort":5,"name":"イミテーション・ガール","sites":[{"site":"bilibili","sort":5,"title":"仿冒・女孩","url":"https://www.bilibili.com/bangumi/play/ep87020","time":"2016-05-02T18:05:02.000Z"}]},{"id":621326,"sort":6,"name":"歌姫のラブソング","sites":[{"site":"bilibili","sort":6,"title":"歌姬的恋歌","url":"https://www.bilibili.com/bangumi/play/ep87739","time":"2016-05-09T18:05:02.000Z"}]},{"id":621327,"sort":7,"name":"囚われの荊姫（いばらひめ）","sites":[{"site":"bilibili","sort":7,"title":"被囚禁的荆姬","url":"https://www.bilibili.com/bangumi/play/ep87960","time":"2016-05-16T18:05:02.000Z"}]},{"id":621328,"sort":8,"name":"湖畔の夜","sites":[{"site":"bilibili","sort":8,"title":"湖畔之夜","url":"https://www.bilibili.com/bangumi/play/ep88395","time":"2016-05-23T18:05:02.000Z"}]},{"id":621329,"sort":9,"name":"新種（ドラゴンタイプ）","sites":[{"site":"bilibili","sort":9,"title":"新种","url":"https://www.bilibili.com/bangumi/play/ep88621","time":"2016-05-30T18:05:02.000Z"}]},{"id":621330,"sort":10,"name":"学園祭（フェスタ）","sites":[{"site":"bilibili","sort":10,"title":"学园祭","url":"https://www.bilibili.com/bangumi/play/ep88984","time":"2016-06-06T18:05:02.000Z"}]},{"id":621331,"sort":11,"name":"ガーデンズ・クライシス","sites":[{"site":"bilibili","sort":11,"title":"学园危机","url":"https://www.bilibili.com/bangumi/play/ep89008","time":"2016-06-13T18:05:07.000Z"}]},{"id":621332,"sort":12,"name":"仲間","sites":[{"site":"bilibili","sort":12,"title":"伙伴","url":"https://www.bilibili.com/bangumi/play/ep89009","time":"2016-06-20T18:30:02.000Z"}]}]}
+{
+ "id": "133403",
+ "name": "ハンドレッド",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3463",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 621321,
+   "sort": 1,
+   "name": "リトルガーデン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Little Garden",
+     "url": "https://www.bilibili.com/bangumi/play/ep85787",
+     "time": "2016-04-04T18:05:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 621322,
+   "sort": 2,
+   "name": "絶対無敵の女王（パーフェクトクイーン）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "绝对无敌的女王",
+     "url": "https://www.bilibili.com/bangumi/play/ep85975",
+     "time": "2016-04-11T18:05:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 621323,
+   "sort": 3,
+   "name": "ヴァリアント覚醒",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "变体觉醒",
+     "url": "https://www.bilibili.com/bangumi/play/ep86468",
+     "time": "2016-04-18T18:05:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 621324,
+   "sort": 4,
+   "name": "ボディーガード",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "保镖",
+     "url": "https://www.bilibili.com/bangumi/play/ep86780",
+     "time": "2016-04-25T18:05:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 621325,
+   "sort": 5,
+   "name": "イミテーション・ガール",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "仿冒・女孩",
+     "url": "https://www.bilibili.com/bangumi/play/ep87020",
+     "time": "2016-05-02T18:05:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 621326,
+   "sort": 6,
+   "name": "歌姫のラブソング",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "歌姬的恋歌",
+     "url": "https://www.bilibili.com/bangumi/play/ep87739",
+     "time": "2016-05-09T18:05:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 621327,
+   "sort": 7,
+   "name": "囚われの荊姫（いばらひめ）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "被囚禁的荆姬",
+     "url": "https://www.bilibili.com/bangumi/play/ep87960",
+     "time": "2016-05-16T18:05:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 621328,
+   "sort": 8,
+   "name": "湖畔の夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "湖畔之夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep88395",
+     "time": "2016-05-23T18:05:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 621329,
+   "sort": 9,
+   "name": "新種（ドラゴンタイプ）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "新种",
+     "url": "https://www.bilibili.com/bangumi/play/ep88621",
+     "time": "2016-05-30T18:05:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 621330,
+   "sort": 10,
+   "name": "学園祭（フェスタ）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "学园祭",
+     "url": "https://www.bilibili.com/bangumi/play/ep88984",
+     "time": "2016-06-06T18:05:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 621331,
+   "sort": 11,
+   "name": "ガーデンズ・クライシス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "学园危机",
+     "url": "https://www.bilibili.com/bangumi/play/ep89008",
+     "time": "2016-06-13T18:05:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 621332,
+   "sort": 12,
+   "name": "仲間",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "伙伴",
+     "url": "https://www.bilibili.com/bangumi/play/ep89009",
+     "time": "2016-06-20T18:30:02.000Z"
+    }
+   ]
+  }
+ ]
+}

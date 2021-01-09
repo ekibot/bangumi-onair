@@ -1,1 +1,181 @@
-{"id":"14667","name":"ダンタリアンの書架","sites":[{"site":"bilibili","id":"862","sort":12}],"eps":[{"id":103071,"sort":1,"name":"仕掛け絵本","sites":[{"site":"bilibili","sort":1,"title":"立体绘本","url":"https://www.bilibili.com/bangumi/play/ep15499","time":"2011-07-15T21:38:00.000Z"}]},{"id":103072,"sort":2,"name":"胎児の書","sites":[{"site":"bilibili","sort":2,"title":"胎儿之书","url":"https://www.bilibili.com/bangumi/play/ep15498","time":"2011-07-22T23:52:00.000Z"}]},{"id":103073,"sort":3,"name":"叡智の書 &amp; 月下美人","sites":[{"site":"bilibili","sort":3,"title":"睿智之书 & 月下美人","url":"https://www.bilibili.com/bangumi/play/ep15497","time":"2011-07-30T00:25:00.000Z"}]},{"id":103074,"sort":4,"name":"換魂の書","sites":[{"site":"bilibili","sort":4,"title":"换魂之书","url":"https://www.bilibili.com/bangumi/play/ep15496","time":"2011-08-06T03:03:00.000Z"}]},{"id":103075,"sort":5,"name":"魔術師の娘","sites":[{"site":"bilibili","sort":5,"title":"魔术师之女","url":"https://www.bilibili.com/bangumi/play/ep15495","time":"2011-08-13T04:47:00.000Z"}]},{"id":103076,"sort":6,"name":"焚書官","sites":[{"site":"bilibili","sort":6,"title":"焚书官","url":"https://www.bilibili.com/bangumi/play/ep15494","time":"2011-08-20T05:18:00.000Z"}]},{"id":103077,"sort":7,"name":"調香師","sites":[{"site":"bilibili","sort":7,"title":"调香师","url":"https://www.bilibili.com/bangumi/play/ep15493","time":"2011-08-27T03:02:00.000Z"}]},{"id":103078,"sort":8,"name":"等価の書 &amp; 連理の書","sites":[{"site":"bilibili","sort":8,"title":"等价之书 & 连理之书","url":"https://www.bilibili.com/bangumi/play/ep15492","time":"2011-09-03T02:21:00.000Z"}]},{"id":103079,"sort":9,"name":"黄昏の書","sites":[{"site":"bilibili","sort":9,"title":"黄昏之书","url":"https://www.bilibili.com/bangumi/play/ep15491","time":"2011-09-10T04:24:00.000Z"}]},{"id":103080,"sort":10,"name":"幻曲","sites":[{"site":"bilibili","sort":10,"title":"幻曲","url":"https://www.bilibili.com/bangumi/play/ep15490","time":"2011-09-17T04:32:00.000Z"}]},{"id":103081,"sort":11,"name":"ラジエルの書架","sites":[{"site":"bilibili","sort":11,"title":"拉洁爱尔的书架","url":"https://www.bilibili.com/bangumi/play/ep15489","time":"2011-09-23T23:12:00.000Z"}]},{"id":103082,"sort":12,"name":"まだ見ぬ明日の詩","sites":[{"site":"bilibili","sort":12,"title":"尚未见到的明日之诗","url":"https://www.bilibili.com/bangumi/play/ep15488","time":"2011-10-01T04:11:00.000Z"}]}]}
+{
+ "id": "14667",
+ "name": "ダンタリアンの書架",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "862",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 103071,
+   "sort": 1,
+   "name": "仕掛け絵本",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "立体绘本",
+     "url": "https://www.bilibili.com/bangumi/play/ep15499",
+     "time": "2011-07-15T21:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103072,
+   "sort": 2,
+   "name": "胎児の書",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "胎儿之书",
+     "url": "https://www.bilibili.com/bangumi/play/ep15498",
+     "time": "2011-07-22T23:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103073,
+   "sort": 3,
+   "name": "叡智の書 &amp; 月下美人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "睿智之书 & 月下美人",
+     "url": "https://www.bilibili.com/bangumi/play/ep15497",
+     "time": "2011-07-30T00:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103074,
+   "sort": 4,
+   "name": "換魂の書",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "换魂之书",
+     "url": "https://www.bilibili.com/bangumi/play/ep15496",
+     "time": "2011-08-06T03:03:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103075,
+   "sort": 5,
+   "name": "魔術師の娘",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "魔术师之女",
+     "url": "https://www.bilibili.com/bangumi/play/ep15495",
+     "time": "2011-08-13T04:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103076,
+   "sort": 6,
+   "name": "焚書官",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "焚书官",
+     "url": "https://www.bilibili.com/bangumi/play/ep15494",
+     "time": "2011-08-20T05:18:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103077,
+   "sort": 7,
+   "name": "調香師",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "调香师",
+     "url": "https://www.bilibili.com/bangumi/play/ep15493",
+     "time": "2011-08-27T03:02:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103078,
+   "sort": 8,
+   "name": "等価の書 &amp; 連理の書",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "等价之书 & 连理之书",
+     "url": "https://www.bilibili.com/bangumi/play/ep15492",
+     "time": "2011-09-03T02:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103079,
+   "sort": 9,
+   "name": "黄昏の書",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "黄昏之书",
+     "url": "https://www.bilibili.com/bangumi/play/ep15491",
+     "time": "2011-09-10T04:24:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103080,
+   "sort": 10,
+   "name": "幻曲",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "幻曲",
+     "url": "https://www.bilibili.com/bangumi/play/ep15490",
+     "time": "2011-09-17T04:32:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103081,
+   "sort": 11,
+   "name": "ラジエルの書架",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "拉洁爱尔的书架",
+     "url": "https://www.bilibili.com/bangumi/play/ep15489",
+     "time": "2011-09-23T23:12:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103082,
+   "sort": 12,
+   "name": "まだ見ぬ明日の詩",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "尚未见到的明日之诗",
+     "url": "https://www.bilibili.com/bangumi/play/ep15488",
+     "time": "2011-10-01T04:11:00.000Z"
+    }
+   ]
+  }
+ ]
+}

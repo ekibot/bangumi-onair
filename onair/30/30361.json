@@ -1,1 +1,49 @@
-{"id":"30361","name":"劇場版 FAIRY TAIL 鳳凰の巫女","sites":[{"site":"bilibili","id":"57752","sort":1},{"site":"qq","id":"f/f9lrdbfsgeuva4s","sort":1}],"eps":[{"id":249615,"sort":1,"name":"鳳凰の巫女","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep190652","time":"2018-01-18T16:00:00.000Z"},{"site":"qq","sort":1,"title":"妖精的尾巴剧场版 凤凰的巫女","url":"https://v.qq.com/x/cover/f9lrdbfsgeuva4s/d0033mlybpz.html"}]}]}
+{
+ "id": "30361",
+ "name": "劇場版 FAIRY TAIL 鳳凰の巫女",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "57752",
+   "sort": 1
+  },
+  {
+   "site": "qq",
+   "id": "f/f9lrdbfsgeuva4s",
+   "sort": 1
+  },
+  {
+   "site": "youku",
+   "id": "65014bf8fc8e11e1a19e",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 249615,
+   "sort": 1,
+   "name": "鳳凰の巫女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep190652",
+     "time": "2018-01-18T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "妖精的尾巴剧场版 凤凰的巫女",
+     "url": "https://v.qq.com/x/cover/f9lrdbfsgeuva4s/d0033mlybpz.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "妖精的尾巴 凤凰的巫女",
+     "url": "https://v.youku.com/v_show/id_XNTg1NTI2ODY4.html?s=65014bf8fc8e11e1a19e"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,41 @@
-{"id":"45414","name":"リコーダーとランドセル OAD","sites":[{"site":"bilibili","id":"1676","sort":2}],"eps":[{"id":188084,"sort":1,"name":"夏天&amp;游泳池","sites":[{"site":"bilibili","sort":1,"title":"夏天and游泳池","url":"https://www.bilibili.com/bangumi/play/ep30340","time":"2012-07-25T15:19:40.000Z"}]},{"id":188085,"sort":2,"name":"敦志&amp;酒保","sites":[{"site":"bilibili","sort":2,"title":"敦志and酒保","url":"https://www.bilibili.com/bangumi/play/ep30341","time":"2012-07-25T15:19:40.000Z"}]}]}
+{
+ "id": "45414",
+ "name": "リコーダーとランドセル OAD",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1676",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 188084,
+   "sort": 1,
+   "name": "夏天&amp;游泳池",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "夏天and游泳池",
+     "url": "https://www.bilibili.com/bangumi/play/ep30340",
+     "time": "2012-07-25T15:19:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 188085,
+   "sort": 2,
+   "name": "敦志&amp;酒保",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "敦志and酒保",
+     "url": "https://www.bilibili.com/bangumi/play/ep30341",
+     "time": "2012-07-25T15:19:40.000Z"
+    }
+   ]
+  }
+ ]
+}

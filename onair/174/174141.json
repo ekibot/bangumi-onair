@@ -1,1 +1,167 @@
-{"id":"174141","name":"バッテリー","sites":[{"site":"bilibili","id":"5059","sort":11}],"eps":[{"id":640326,"sort":1,"name":"出会いの日","sites":[{"site":"bilibili","sort":1,"title":"相遇的日子","url":"https://www.bilibili.com/bangumi/play/ep92645","time":"2016-07-15T05:58:59.000Z"}]},{"id":640327,"sort":2,"name":"池のほとり","sites":[{"site":"bilibili","sort":2,"title":"在池边","url":"https://www.bilibili.com/bangumi/play/ep93113","time":"2016-07-24T10:06:47.000Z"}]},{"id":640328,"sort":3,"name":"いさかい","sites":[{"site":"bilibili","sort":3,"title":"争执","url":"https://www.bilibili.com/bangumi/play/ep94714","time":"2016-08-04T13:58:13.000Z"}]},{"id":640329,"sort":4,"name":"グラウンドに立つ","sites":[{"site":"bilibili","sort":4,"title":"立于球场","url":"https://www.bilibili.com/bangumi/play/ep94739","time":"2016-08-07T14:12:51.000Z"}]},{"id":640330,"sort":5,"name":"密室の出来事","sites":[{"site":"bilibili","sort":5,"title":"密室风波","url":"https://www.bilibili.com/bangumi/play/ep95086","time":"2016-08-15T03:35:45.000Z"}]},{"id":640331,"sort":6,"name":"強豪校への挑戦","sites":[{"site":"bilibili","sort":6,"title":"向强校发起的挑战","url":"https://www.bilibili.com/bangumi/play/ep95335","time":"2016-08-22T04:30:11.000Z"}]},{"id":640332,"sort":7,"name":"対決の時","sites":[{"site":"bilibili","sort":7,"title":"对决之时","url":"https://www.bilibili.com/bangumi/play/ep95584","time":"2016-08-26T08:26:45.000Z"}]},{"id":640333,"sort":8,"name":"終わりの秋","sites":[{"site":"bilibili","sort":8,"title":"结束之秋","url":"https://www.bilibili.com/bangumi/play/ep95712","time":"2016-09-02T08:50:19.000Z"}]},{"id":640334,"sort":9,"name":"バックホーム","sites":[{"site":"bilibili","sort":9,"title":"回传本垒","url":"https://www.bilibili.com/bangumi/play/ep95796","time":"2016-09-11T02:13:02.000Z"}]},{"id":640335,"sort":10,"name":"その日を再び","sites":[{"site":"bilibili","sort":10,"title":"那一天再一度","url":"https://www.bilibili.com/bangumi/play/ep96000","time":"2016-09-24T05:15:28.000Z"}]},{"id":640336,"sort":11,"name":"二人の春","sites":[{"site":"bilibili","sort":11,"title":"两人的春天","url":"https://www.bilibili.com/bangumi/play/ep96018","time":"2016-09-26T02:36:14.000Z"}]}]}
+{
+ "id": "174141",
+ "name": "バッテリー",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5059",
+   "sort": 11
+  }
+ ],
+ "eps": [
+  {
+   "id": 640326,
+   "sort": 1,
+   "name": "出会いの日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "相遇的日子",
+     "url": "https://www.bilibili.com/bangumi/play/ep92645",
+     "time": "2016-07-15T05:58:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640327,
+   "sort": 2,
+   "name": "池のほとり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "在池边",
+     "url": "https://www.bilibili.com/bangumi/play/ep93113",
+     "time": "2016-07-24T10:06:47.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640328,
+   "sort": 3,
+   "name": "いさかい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "争执",
+     "url": "https://www.bilibili.com/bangumi/play/ep94714",
+     "time": "2016-08-04T13:58:13.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640329,
+   "sort": 4,
+   "name": "グラウンドに立つ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "立于球场",
+     "url": "https://www.bilibili.com/bangumi/play/ep94739",
+     "time": "2016-08-07T14:12:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640330,
+   "sort": 5,
+   "name": "密室の出来事",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "密室风波",
+     "url": "https://www.bilibili.com/bangumi/play/ep95086",
+     "time": "2016-08-15T03:35:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640331,
+   "sort": 6,
+   "name": "強豪校への挑戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "向强校发起的挑战",
+     "url": "https://www.bilibili.com/bangumi/play/ep95335",
+     "time": "2016-08-22T04:30:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640332,
+   "sort": 7,
+   "name": "対決の時",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "对决之时",
+     "url": "https://www.bilibili.com/bangumi/play/ep95584",
+     "time": "2016-08-26T08:26:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640333,
+   "sort": 8,
+   "name": "終わりの秋",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "结束之秋",
+     "url": "https://www.bilibili.com/bangumi/play/ep95712",
+     "time": "2016-09-02T08:50:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640334,
+   "sort": 9,
+   "name": "バックホーム",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "回传本垒",
+     "url": "https://www.bilibili.com/bangumi/play/ep95796",
+     "time": "2016-09-11T02:13:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640335,
+   "sort": 10,
+   "name": "その日を再び",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "那一天再一度",
+     "url": "https://www.bilibili.com/bangumi/play/ep96000",
+     "time": "2016-09-24T05:15:28.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640336,
+   "sort": 11,
+   "name": "二人の春",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "两人的春天",
+     "url": "https://www.bilibili.com/bangumi/play/ep96018",
+     "time": "2016-09-26T02:36:14.000Z"
+    }
+   ]
+  }
+ ]
+}

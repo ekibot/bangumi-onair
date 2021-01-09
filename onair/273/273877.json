@@ -1,1 +1,181 @@
-{"id":"273877","name":"彼方のアストラ","sites":[{"site":"bilibili","id":"28221416","sort":12}],"eps":[{"id":893694,"sort":1,"name":"PLANET CAMP","sites":[{"site":"bilibili","sort":1,"title":"行星露營","url":"https://www.bilibili.com/bangumi/play/ep276761","time":"2019-07-03T13:00:00.000Z"}]},{"id":893695,"sort":2,"name":"WILDERNESS","sites":[{"site":"bilibili","sort":2,"title":"WILDERNESS","url":"https://www.bilibili.com/bangumi/play/ep276762","time":"2019-07-10T13:00:00.000Z"}]},{"id":893696,"sort":3,"name":"METEOR","sites":[{"site":"bilibili","sort":3,"title":"METEOR","url":"https://www.bilibili.com/bangumi/play/ep276763","time":"2019-07-17T13:00:00.000Z"}]},{"id":893697,"sort":4,"name":"STAR OF HOPE","sites":[{"site":"bilibili","sort":4,"title":"STAR OF HOPE","url":"https://www.bilibili.com/bangumi/play/ep276764","time":"2019-07-24T13:00:00.000Z"}]},{"id":893698,"sort":5,"name":"PARADISE","sites":[{"site":"bilibili","sort":5,"title":"PARADISE","url":"https://www.bilibili.com/bangumi/play/ep276765","time":"2019-07-31T13:00:00.000Z"}]},{"id":893699,"sort":6,"name":"SECRET","sites":[{"site":"bilibili","sort":6,"title":"SECRET","url":"https://www.bilibili.com/bangumi/play/ep276766","time":"2019-08-07T13:00:00.000Z"}]},{"id":893700,"sort":7,"name":"PAST","sites":[{"site":"bilibili","sort":7,"title":"PAST","url":"https://www.bilibili.com/bangumi/play/ep276767","time":"2019-08-14T13:00:00.000Z"}]},{"id":893701,"sort":8,"name":"LOST AND FOUND","sites":[{"site":"bilibili","sort":8,"title":"LOST AND FOUND","url":"https://www.bilibili.com/bangumi/play/ep276768","time":"2019-08-21T13:00:00.000Z"}]},{"id":893702,"sort":9,"name":"REVELATION","sites":[{"site":"bilibili","sort":9,"title":"REVELATION","url":"https://www.bilibili.com/bangumi/play/ep276769","time":"2019-08-28T13:00:00.000Z"}]},{"id":893703,"sort":10,"name":"CULPRIT","sites":[{"site":"bilibili","sort":10,"title":"CULPRIT","url":"https://www.bilibili.com/bangumi/play/ep276770","time":"2019-09-04T13:00:00.000Z"}]},{"id":893704,"sort":11,"name":"CONFESSION","sites":[{"site":"bilibili","sort":11,"title":"CONFESSION","url":"https://www.bilibili.com/bangumi/play/ep276771","time":"2019-09-11T13:00:00.000Z"}]},{"id":893705,"sort":12,"name":"FRIEND-SHIP","sites":[{"site":"bilibili","sort":12,"title":"FRIEND-SHIP","url":"https://www.bilibili.com/bangumi/play/ep276772","time":"2019-09-18T13:00:00.000Z"}]}]}
+{
+ "id": "273877",
+ "name": "彼方のアストラ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28221416",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 893694,
+   "sort": 1,
+   "name": "PLANET CAMP",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "行星露營",
+     "url": "https://www.bilibili.com/bangumi/play/ep276761",
+     "time": "2019-07-03T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893695,
+   "sort": 2,
+   "name": "WILDERNESS",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "WILDERNESS",
+     "url": "https://www.bilibili.com/bangumi/play/ep276762",
+     "time": "2019-07-10T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893696,
+   "sort": 3,
+   "name": "METEOR",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "METEOR",
+     "url": "https://www.bilibili.com/bangumi/play/ep276763",
+     "time": "2019-07-17T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893697,
+   "sort": 4,
+   "name": "STAR OF HOPE",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "STAR OF HOPE",
+     "url": "https://www.bilibili.com/bangumi/play/ep276764",
+     "time": "2019-07-24T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893698,
+   "sort": 5,
+   "name": "PARADISE",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "PARADISE",
+     "url": "https://www.bilibili.com/bangumi/play/ep276765",
+     "time": "2019-07-31T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893699,
+   "sort": 6,
+   "name": "SECRET",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "SECRET",
+     "url": "https://www.bilibili.com/bangumi/play/ep276766",
+     "time": "2019-08-07T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893700,
+   "sort": 7,
+   "name": "PAST",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "PAST",
+     "url": "https://www.bilibili.com/bangumi/play/ep276767",
+     "time": "2019-08-14T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893701,
+   "sort": 8,
+   "name": "LOST AND FOUND",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "LOST AND FOUND",
+     "url": "https://www.bilibili.com/bangumi/play/ep276768",
+     "time": "2019-08-21T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893702,
+   "sort": 9,
+   "name": "REVELATION",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "REVELATION",
+     "url": "https://www.bilibili.com/bangumi/play/ep276769",
+     "time": "2019-08-28T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893703,
+   "sort": 10,
+   "name": "CULPRIT",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "CULPRIT",
+     "url": "https://www.bilibili.com/bangumi/play/ep276770",
+     "time": "2019-09-04T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893704,
+   "sort": 11,
+   "name": "CONFESSION",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "CONFESSION",
+     "url": "https://www.bilibili.com/bangumi/play/ep276771",
+     "time": "2019-09-11T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893705,
+   "sort": 12,
+   "name": "FRIEND-SHIP",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "FRIEND-SHIP",
+     "url": "https://www.bilibili.com/bangumi/play/ep276772",
+     "time": "2019-09-18T13:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

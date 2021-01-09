@@ -1,1 +1,97 @@
-{"id":"23618","name":"エンゼルコップ","sites":[{"site":"bilibili","id":"2059","sort":24}],"eps":[{"id":123349,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"Depth/Space -深渊-","url":"https://www.bilibili.com/bangumi/play/ep44725","time":"2011-04-20T09:30:50.000Z"}]},{"id":123350,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"Tight/Bind -重力-","url":"https://www.bilibili.com/bangumi/play/ep44726","time":"2011-04-20T09:30:50.000Z"}]},{"id":123351,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"Prisoner/Escort -虜囚-","url":"https://www.bilibili.com/bangumi/play/ep44727","time":"2011-04-20T09:30:50.000Z"}]},{"id":123352,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"High/Speed -超速-","url":"https://www.bilibili.com/bangumi/play/ep44728","time":"2011-04-20T09:30:50.000Z"}]},{"id":123353,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"Day/Off -休日-","url":"https://www.bilibili.com/bangumi/play/ep44729","time":"2011-04-20T09:30:50.000Z"}]},{"id":123354,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"Twin/Star -双璧-","url":"https://www.bilibili.com/bangumi/play/ep44730","time":"2011-04-20T09:30:50.000Z"}]}]}
+{
+ "id": "23618",
+ "name": "エンゼルコップ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2059",
+   "sort": 24
+  }
+ ],
+ "eps": [
+  {
+   "id": 123349,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Depth/Space -深渊-",
+     "url": "https://www.bilibili.com/bangumi/play/ep44725",
+     "time": "2011-04-20T09:30:50.000Z"
+    }
+   ]
+  },
+  {
+   "id": 123350,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "Tight/Bind -重力-",
+     "url": "https://www.bilibili.com/bangumi/play/ep44726",
+     "time": "2011-04-20T09:30:50.000Z"
+    }
+   ]
+  },
+  {
+   "id": 123351,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Prisoner/Escort -虜囚-",
+     "url": "https://www.bilibili.com/bangumi/play/ep44727",
+     "time": "2011-04-20T09:30:50.000Z"
+    }
+   ]
+  },
+  {
+   "id": 123352,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "High/Speed -超速-",
+     "url": "https://www.bilibili.com/bangumi/play/ep44728",
+     "time": "2011-04-20T09:30:50.000Z"
+    }
+   ]
+  },
+  {
+   "id": 123353,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Day/Off -休日-",
+     "url": "https://www.bilibili.com/bangumi/play/ep44729",
+     "time": "2011-04-20T09:30:50.000Z"
+    }
+   ]
+  },
+  {
+   "id": 123354,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Twin/Star -双璧-",
+     "url": "https://www.bilibili.com/bangumi/play/ep44730",
+     "time": "2011-04-20T09:30:50.000Z"
+    }
+   ]
+  }
+ ]
+}

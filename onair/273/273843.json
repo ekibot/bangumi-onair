@@ -1,1 +1,181 @@
-{"id":"273843","name":"BEASTARS","sites":[{"site":"bilibili","id":"28222618","sort":17}],"eps":[{"id":905345,"sort":1,"name":"満月は照らす獣を選んでる","sites":[{"site":"bilibili","sort":1,"title":"满月在选择照亮的动物","url":"https://www.bilibili.com/bangumi/play/ep285054","time":"2019-10-09T21:05:00.000Z"}]},{"id":905346,"sort":2,"name":"学園の心臓部は庭園にあり","sites":[{"site":"bilibili","sort":2,"title":"学校的中心在庭园里","url":"https://www.bilibili.com/bangumi/play/ep285055","time":"2019-10-16T19:35:00.000Z"}]},{"id":905347,"sort":3,"name":"オスオオカミ出生のとき","sites":[{"site":"bilibili","sort":3,"title":"公狼出生的时候","url":"https://www.bilibili.com/bangumi/play/ep285056","time":"2019-10-23T19:25:00.000Z"}]},{"id":905348,"sort":4,"name":"君は聖杯までふやかして","sites":[{"site":"bilibili","sort":4,"title":"你连圣杯一起浸泡","url":"https://www.bilibili.com/bangumi/play/ep285057","time":"2019-10-30T20:05:00.000Z"}]},{"id":905349,"sort":5,"name":"しっぽの汚れにも理由を見出すお年頃","sites":[{"site":"bilibili","sort":5,"title":"连尾巴脏了都能看出原因的年纪","url":"https://www.bilibili.com/bangumi/play/ep285058","time":"2019-11-06T19:35:00.000Z"}]},{"id":905350,"sort":6,"name":"視界の滲み 夢か現か","sites":[{"site":"bilibili","sort":6,"title":"视野的洇痕 是梦还是真","url":"https://www.bilibili.com/bangumi/play/ep285059","time":"2019-11-13T19:25:00.000Z"}]},{"id":905351,"sort":7,"name":"制服と被毛のそのまた下の","sites":[{"site":"bilibili","sort":7,"title":"校服和被毛更深处的","url":"https://www.bilibili.com/bangumi/play/ep285060","time":"2019-11-20T19:35:00.000Z"}]},{"id":905352,"sort":8,"name":"犬歯に糸ようじひっかけるように","sites":[{"site":"bilibili","sort":8,"title":"就像牙线棒卡在犬牙上","url":"https://www.bilibili.com/bangumi/play/ep285061","time":"2019-11-27T19:25:00.000Z"}]},{"id":905353,"sort":9,"name":"エレベーター最上階の戦慄","sites":[{"site":"bilibili","sort":9,"title":"电梯最上层的战栗","url":"https://www.bilibili.com/bangumi/play/ep285062","time":"2019-12-04T19:25:00.000Z"}]},{"id":905354,"sort":10,"name":"綿毛、地の果てまで追うならば","sites":[{"site":"bilibili","sort":10,"title":"绒毛，若要追到天涯海角","url":"https://www.bilibili.com/bangumi/play/ep285063","time":"2019-12-11T19:35:00.000Z"}]},{"id":905355,"sort":11,"name":"ゆきゆきて 夏のネオン街","sites":[{"site":"bilibili","sort":11,"title":"一路向前 夏日霓虹街","url":"https://www.bilibili.com/bangumi/play/ep285064","time":"2019-12-18T20:40:00.000Z"}]},{"id":905356,"sort":12,"name":"夏嵐の後ろ姿","sites":[{"site":"bilibili","sort":12,"title":"夏日风暴的背影","url":"https://www.bilibili.com/bangumi/play/ep285065","time":"2019-12-25T19:55:00.000Z"}]}]}
+{
+ "id": "273843",
+ "name": "BEASTARS",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28222618",
+   "sort": 17
+  }
+ ],
+ "eps": [
+  {
+   "id": 905345,
+   "sort": 1,
+   "name": "満月は照らす獣を選んでる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "满月在选择照亮的动物",
+     "url": "https://www.bilibili.com/bangumi/play/ep285054",
+     "time": "2019-10-09T21:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905346,
+   "sort": 2,
+   "name": "学園の心臓部は庭園にあり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "学校的中心在庭园里",
+     "url": "https://www.bilibili.com/bangumi/play/ep285055",
+     "time": "2019-10-16T19:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905347,
+   "sort": 3,
+   "name": "オスオオカミ出生のとき",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "公狼出生的时候",
+     "url": "https://www.bilibili.com/bangumi/play/ep285056",
+     "time": "2019-10-23T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905348,
+   "sort": 4,
+   "name": "君は聖杯までふやかして",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "你连圣杯一起浸泡",
+     "url": "https://www.bilibili.com/bangumi/play/ep285057",
+     "time": "2019-10-30T20:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905349,
+   "sort": 5,
+   "name": "しっぽの汚れにも理由を見出すお年頃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "连尾巴脏了都能看出原因的年纪",
+     "url": "https://www.bilibili.com/bangumi/play/ep285058",
+     "time": "2019-11-06T19:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905350,
+   "sort": 6,
+   "name": "視界の滲み 夢か現か",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "视野的洇痕 是梦还是真",
+     "url": "https://www.bilibili.com/bangumi/play/ep285059",
+     "time": "2019-11-13T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905351,
+   "sort": 7,
+   "name": "制服と被毛のそのまた下の",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "校服和被毛更深处的",
+     "url": "https://www.bilibili.com/bangumi/play/ep285060",
+     "time": "2019-11-20T19:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905352,
+   "sort": 8,
+   "name": "犬歯に糸ようじひっかけるように",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "就像牙线棒卡在犬牙上",
+     "url": "https://www.bilibili.com/bangumi/play/ep285061",
+     "time": "2019-11-27T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905353,
+   "sort": 9,
+   "name": "エレベーター最上階の戦慄",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "电梯最上层的战栗",
+     "url": "https://www.bilibili.com/bangumi/play/ep285062",
+     "time": "2019-12-04T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905354,
+   "sort": 10,
+   "name": "綿毛、地の果てまで追うならば",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "绒毛，若要追到天涯海角",
+     "url": "https://www.bilibili.com/bangumi/play/ep285063",
+     "time": "2019-12-11T19:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905355,
+   "sort": 11,
+   "name": "ゆきゆきて 夏のネオン街",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "一路向前 夏日霓虹街",
+     "url": "https://www.bilibili.com/bangumi/play/ep285064",
+     "time": "2019-12-18T20:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905356,
+   "sort": 12,
+   "name": "夏嵐の後ろ姿",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "夏日风暴的背影",
+     "url": "https://www.bilibili.com/bangumi/play/ep285065",
+     "time": "2019-12-25T19:55:00.000Z"
+    }
+   ]
+  }
+ ]
+}

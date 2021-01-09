@@ -1,1 +1,349 @@
-{"id":"86670","name":"ヤマノススメ セカンドシーズン","sites":[{"site":"bilibili","id":"102352","sort":24}],"eps":[{"id":411002,"sort":1,"name":"テントに泊まろう！","sites":[{"site":"bilibili","sort":1,"title":"01","url":"https://www.bilibili.com/bangumi/play/ep250902","time":"2018-09-27T06:51:19.000Z"}]},{"id":411003,"sort":2,"name":"富士山を見に行こう！！","sites":[{"site":"bilibili","sort":2,"title":"02","url":"https://www.bilibili.com/bangumi/play/ep250903","time":"2018-09-27T06:51:19.000Z"}]},{"id":411004,"sort":3,"name":"山に登るということ","sites":[{"site":"bilibili","sort":3,"title":"03","url":"https://www.bilibili.com/bangumi/play/ep250904","time":"2018-09-27T06:51:19.000Z"}]},{"id":411005,"sort":4,"name":"降りた後の楽しみ！","sites":[{"site":"bilibili","sort":4,"title":"04","url":"https://www.bilibili.com/bangumi/play/ep250905","time":"2018-09-27T06:51:19.000Z"}]},{"id":411006,"sort":5,"name":"ゆるして、あげない！","sites":[{"site":"bilibili","sort":5,"title":"05","url":"https://www.bilibili.com/bangumi/play/ep250906","time":"2018-09-27T06:51:19.000Z"}]},{"id":411007,"sort":6,"name":"好きな事をするために","sites":[{"site":"bilibili","sort":6,"title":"06","url":"https://www.bilibili.com/bangumi/play/ep250907","time":"2018-09-27T06:51:19.000Z"}]},{"id":411008,"sort":7,"name":"カワノススメ？","sites":[{"site":"bilibili","sort":7,"title":"07","url":"https://www.bilibili.com/bangumi/play/ep250908","time":"2018-09-27T06:51:19.000Z"}]},{"id":411009,"sort":8,"name":"素敵な思い出を","sites":[{"site":"bilibili","sort":8,"title":"08","url":"https://www.bilibili.com/bangumi/play/ep250909","time":"2018-09-27T06:51:19.000Z"}]},{"id":411010,"sort":9,"name":"初めまして、富士山","sites":[{"site":"bilibili","sort":9,"title":"09","url":"https://www.bilibili.com/bangumi/play/ep250910","time":"2018-09-27T06:51:19.000Z"}]},{"id":411011,"sort":10,"name":"富士山って、甘くない…","sites":[{"site":"bilibili","sort":10,"title":"10","url":"https://www.bilibili.com/bangumi/play/ep250911","time":"2018-09-27T06:51:19.000Z"}]},{"id":411012,"sort":11,"name":"もぉ、やだ！！","sites":[{"site":"bilibili","sort":11,"title":"11","url":"https://www.bilibili.com/bangumi/play/ep250912","time":"2018-09-27T06:51:19.000Z"}]},{"id":411013,"sort":12,"name":"Dear My Friend","sites":[{"site":"bilibili","sort":12,"title":"12","url":"https://www.bilibili.com/bangumi/play/ep250913","time":"2018-09-27T06:51:19.000Z"}]},{"id":411014,"sort":13,"name":"不思議なホタルの物語","sites":[{"site":"bilibili","sort":13,"title":"13","url":"https://www.bilibili.com/bangumi/play/ep250914","time":"2018-09-27T06:51:19.000Z"}]},{"id":411015,"sort":14,"name":"お母さんと霧ヶ峰！","sites":[{"site":"bilibili","sort":14,"title":"14","url":"https://www.bilibili.com/bangumi/play/ep250915","time":"2018-09-27T06:51:19.000Z"}]},{"id":411016,"sort":15,"name":"雨具の記憶　～ねぇ、ゆうか。今なにしてるの？","sites":[{"site":"bilibili","sort":15,"title":"15","url":"https://www.bilibili.com/bangumi/play/ep250916","time":"2018-09-27T06:51:19.000Z"}]},{"id":411017,"sort":16,"name":"思いをうけついで","sites":[{"site":"bilibili","sort":16,"title":"16","url":"https://www.bilibili.com/bangumi/play/ep250917","time":"2018-09-27T06:51:19.000Z"}]},{"id":411018,"sort":17,"name":"高いところって、平気？","sites":[{"site":"bilibili","sort":17,"title":"17","url":"https://www.bilibili.com/bangumi/play/ep250918","time":"2018-09-27T06:51:19.000Z"}]},{"id":411019,"sort":18,"name":"アルバイト、始めます！","sites":[{"site":"bilibili","sort":18,"title":"18","url":"https://www.bilibili.com/bangumi/play/ep250919","time":"2018-09-27T06:51:19.000Z"}]},{"id":411020,"sort":19,"name":"宿題が終わらないよぉ","sites":[{"site":"bilibili","sort":19,"title":"19","url":"https://www.bilibili.com/bangumi/play/ep250920","time":"2018-09-27T06:51:19.000Z"}]},{"id":411021,"sort":20,"name":"ここなの飯能大冒険","sites":[{"site":"bilibili","sort":20,"title":"20","url":"https://www.bilibili.com/bangumi/play/ep250921","time":"2018-09-27T06:51:19.000Z"}]},{"id":411022,"sort":21,"name":"思い出の山へ","sites":[{"site":"bilibili","sort":21,"title":"21","url":"https://www.bilibili.com/bangumi/play/ep250922","time":"2018-09-27T06:51:19.000Z"}]},{"id":411023,"sort":22,"name":"ともだちになろ？","sites":[{"site":"bilibili","sort":22,"title":"22","url":"https://www.bilibili.com/bangumi/play/ep250923","time":"2018-09-27T06:51:19.000Z"}]},{"id":411024,"sort":23,"name":"約束","sites":[{"site":"bilibili","sort":23,"title":"23","url":"https://www.bilibili.com/bangumi/play/ep250924","time":"2018-09-27T06:51:19.000Z"}]},{"id":411025,"sort":24,"name":"さよなら、わたしたちの夏","sites":[{"site":"bilibili","sort":24,"title":"24","url":"https://www.bilibili.com/bangumi/play/ep250925","time":"2018-09-27T06:51:19.000Z"}]}]}
+{
+ "id": "86670",
+ "name": "ヤマノススメ セカンドシーズン",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "102352",
+   "sort": 24
+  }
+ ],
+ "eps": [
+  {
+   "id": 411002,
+   "sort": 1,
+   "name": "テントに泊まろう！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "01",
+     "url": "https://www.bilibili.com/bangumi/play/ep250902",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411003,
+   "sort": 2,
+   "name": "富士山を見に行こう！！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "02",
+     "url": "https://www.bilibili.com/bangumi/play/ep250903",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411004,
+   "sort": 3,
+   "name": "山に登るということ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "03",
+     "url": "https://www.bilibili.com/bangumi/play/ep250904",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411005,
+   "sort": 4,
+   "name": "降りた後の楽しみ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "04",
+     "url": "https://www.bilibili.com/bangumi/play/ep250905",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411006,
+   "sort": 5,
+   "name": "ゆるして、あげない！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "05",
+     "url": "https://www.bilibili.com/bangumi/play/ep250906",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411007,
+   "sort": 6,
+   "name": "好きな事をするために",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "06",
+     "url": "https://www.bilibili.com/bangumi/play/ep250907",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411008,
+   "sort": 7,
+   "name": "カワノススメ？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "07",
+     "url": "https://www.bilibili.com/bangumi/play/ep250908",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411009,
+   "sort": 8,
+   "name": "素敵な思い出を",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "08",
+     "url": "https://www.bilibili.com/bangumi/play/ep250909",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411010,
+   "sort": 9,
+   "name": "初めまして、富士山",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "09",
+     "url": "https://www.bilibili.com/bangumi/play/ep250910",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411011,
+   "sort": 10,
+   "name": "富士山って、甘くない…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "10",
+     "url": "https://www.bilibili.com/bangumi/play/ep250911",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411012,
+   "sort": 11,
+   "name": "もぉ、やだ！！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "11",
+     "url": "https://www.bilibili.com/bangumi/play/ep250912",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411013,
+   "sort": 12,
+   "name": "Dear My Friend",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "12",
+     "url": "https://www.bilibili.com/bangumi/play/ep250913",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411014,
+   "sort": 13,
+   "name": "不思議なホタルの物語",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "13",
+     "url": "https://www.bilibili.com/bangumi/play/ep250914",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411015,
+   "sort": 14,
+   "name": "お母さんと霧ヶ峰！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "14",
+     "url": "https://www.bilibili.com/bangumi/play/ep250915",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411016,
+   "sort": 15,
+   "name": "雨具の記憶　～ねぇ、ゆうか。今なにしてるの？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "15",
+     "url": "https://www.bilibili.com/bangumi/play/ep250916",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411017,
+   "sort": 16,
+   "name": "思いをうけついで",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "16",
+     "url": "https://www.bilibili.com/bangumi/play/ep250917",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411018,
+   "sort": 17,
+   "name": "高いところって、平気？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "17",
+     "url": "https://www.bilibili.com/bangumi/play/ep250918",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411019,
+   "sort": 18,
+   "name": "アルバイト、始めます！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "18",
+     "url": "https://www.bilibili.com/bangumi/play/ep250919",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411020,
+   "sort": 19,
+   "name": "宿題が終わらないよぉ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "19",
+     "url": "https://www.bilibili.com/bangumi/play/ep250920",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411021,
+   "sort": 20,
+   "name": "ここなの飯能大冒険",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "20",
+     "url": "https://www.bilibili.com/bangumi/play/ep250921",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411022,
+   "sort": 21,
+   "name": "思い出の山へ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "21",
+     "url": "https://www.bilibili.com/bangumi/play/ep250922",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411023,
+   "sort": 22,
+   "name": "ともだちになろ？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "22",
+     "url": "https://www.bilibili.com/bangumi/play/ep250923",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411024,
+   "sort": 23,
+   "name": "約束",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "23",
+     "url": "https://www.bilibili.com/bangumi/play/ep250924",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 411025,
+   "sort": 24,
+   "name": "さよなら、わたしたちの夏",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "24",
+     "url": "https://www.bilibili.com/bangumi/play/ep250925",
+     "time": "2018-09-27T06:51:19.000Z"
+    }
+   ]
+  }
+ ]
+}

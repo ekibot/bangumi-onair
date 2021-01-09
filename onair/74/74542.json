@@ -1,1 +1,26 @@
-{"id":"74542","name":"ブラック・ジャック 劇場版","sites":[{"site":"qq","id":"w/w3dxfhabkakknbj","sort":1}],"eps":[{"id":857112,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"怪医黑杰克 剧场版","url":"https://v.qq.com/x/cover/w3dxfhabkakknbj/t00343sndrd.html"}]}]}
+{
+ "id": "74542",
+ "name": "ブラック・ジャック 劇場版",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "w/w3dxfhabkakknbj",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 857112,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "怪医黑杰克 剧场版",
+     "url": "https://v.qq.com/x/cover/w3dxfhabkakknbj/t00343sndrd.html"
+    }
+   ]
+  }
+ ]
+}

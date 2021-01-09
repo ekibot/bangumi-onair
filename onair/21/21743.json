@@ -1,1 +1,27 @@
-{"id":"21743","name":"劇場版イナズマイレブン 最強軍団オーガ襲来","sites":[{"site":"bilibili","id":"95312","sort":1}],"eps":[{"id":881761,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"01","url":"https://www.bilibili.com/bangumi/play/ep206758","time":"2018-05-31T02:32:51.000Z"}]}]}
+{
+ "id": "21743",
+ "name": "劇場版イナズマイレブン 最強軍団オーガ襲来",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "95312",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 881761,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "01",
+     "url": "https://www.bilibili.com/bangumi/play/ep206758",
+     "time": "2018-05-31T02:32:51.000Z"
+    }
+   ]
+  }
+ ]
+}

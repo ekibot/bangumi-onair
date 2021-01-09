@@ -1,1 +1,167 @@
-{"id":"529","name":"働きマン","sites":[{"site":"bilibili","id":"1412","sort":11}],"eps":[{"id":92351,"sort":1,"name":"女の働きマン","sites":[{"site":"bilibili","sort":1,"title":"女性工作狂人","url":"https://www.bilibili.com/bangumi/play/ep26417","time":"2013-11-12T05:59:40.000Z"}]},{"id":92352,"sort":2,"name":"張り込みマン","sites":[{"site":"bilibili","sort":2,"title":"跟监之人","url":"https://www.bilibili.com/bangumi/play/ep26418","time":"2013-11-12T05:59:40.000Z"}]},{"id":92353,"sort":3,"name":"ラーメンマン","sites":[{"site":"bilibili","sort":3,"title":"拉面之人","url":"https://www.bilibili.com/bangumi/play/ep26419","time":"2013-11-12T05:59:40.000Z"}]},{"id":92354,"sort":4,"name":"あやまりマン","sites":[{"site":"bilibili","sort":4,"title":"道歉之人","url":"https://www.bilibili.com/bangumi/play/ep26420","time":"2013-11-12T05:59:40.000Z"}]},{"id":92355,"sort":5,"name":"振り向きマン","sites":[{"site":"bilibili","sort":5,"title":"回首之人","url":"https://www.bilibili.com/bangumi/play/ep26421","time":"2013-11-12T05:59:40.000Z"}]},{"id":92356,"sort":6,"name":"お姫さマン","sites":[{"site":"bilibili","sort":6,"title":"公主之人","url":"https://www.bilibili.com/bangumi/play/ep26422","time":"2013-11-12T05:59:40.000Z"}]},{"id":92357,"sort":7,"name":"こだわりマン","sites":[{"site":"bilibili","sort":7,"title":"执著之人","url":"https://www.bilibili.com/bangumi/play/ep26423","time":"2013-11-12T05:59:40.000Z"}]},{"id":92358,"sort":8,"name":"報われマン","sites":[{"site":"bilibili","sort":8,"title":"回报之人","url":"https://www.bilibili.com/bangumi/play/ep26424","time":"2013-11-12T05:59:40.000Z"}]},{"id":92359,"sort":9,"name":"一人前の働きマン","sites":[{"site":"bilibili","sort":9,"title":"独当一面的工作狂人","url":"https://www.bilibili.com/bangumi/play/ep26425","time":"2013-11-12T05:59:40.000Z"}]},{"id":92360,"sort":10,"name":"働かないマン","sites":[{"site":"bilibili","sort":10,"title":"无法工作之人","url":"https://www.bilibili.com/bangumi/play/ep26426","time":"2013-11-12T05:59:40.000Z"}]},{"id":92361,"sort":11,"name":"それでも働きマン","sites":[{"site":"bilibili","sort":11,"title":"仍旧愿做工作狂人","url":"https://www.bilibili.com/bangumi/play/ep26427","time":"2013-11-12T05:59:40.000Z"}]}]}
+{
+ "id": "529",
+ "name": "働きマン",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1412",
+   "sort": 11
+  }
+ ],
+ "eps": [
+  {
+   "id": 92351,
+   "sort": 1,
+   "name": "女の働きマン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "女性工作狂人",
+     "url": "https://www.bilibili.com/bangumi/play/ep26417",
+     "time": "2013-11-12T05:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92352,
+   "sort": 2,
+   "name": "張り込みマン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "跟监之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep26418",
+     "time": "2013-11-12T05:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92353,
+   "sort": 3,
+   "name": "ラーメンマン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "拉面之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep26419",
+     "time": "2013-11-12T05:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92354,
+   "sort": 4,
+   "name": "あやまりマン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "道歉之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep26420",
+     "time": "2013-11-12T05:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92355,
+   "sort": 5,
+   "name": "振り向きマン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "回首之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep26421",
+     "time": "2013-11-12T05:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92356,
+   "sort": 6,
+   "name": "お姫さマン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "公主之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep26422",
+     "time": "2013-11-12T05:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92357,
+   "sort": 7,
+   "name": "こだわりマン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "执著之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep26423",
+     "time": "2013-11-12T05:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92358,
+   "sort": 8,
+   "name": "報われマン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "回报之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep26424",
+     "time": "2013-11-12T05:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92359,
+   "sort": 9,
+   "name": "一人前の働きマン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "独当一面的工作狂人",
+     "url": "https://www.bilibili.com/bangumi/play/ep26425",
+     "time": "2013-11-12T05:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92360,
+   "sort": 10,
+   "name": "働かないマン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "无法工作之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep26426",
+     "time": "2013-11-12T05:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 92361,
+   "sort": 11,
+   "name": "それでも働きマン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "仍旧愿做工作狂人",
+     "url": "https://www.bilibili.com/bangumi/play/ep26427",
+     "time": "2013-11-12T05:59:40.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,181 @@
-{"id":"192485","name":"アイドル事変","sites":[{"site":"bilibili","id":"5787","sort":12}],"eps":[{"id":681855,"sort":1,"name":"私が国会議員になっても","sites":[{"site":"bilibili","sort":1,"title":"就算我成了国会议员","url":"https://www.bilibili.com/bangumi/play/ep100355","time":"2017-01-08T15:00:09.000Z"}]},{"id":681856,"sort":2,"name":"少女S","sites":[{"site":"bilibili","sort":2,"title":"少女S","url":"https://www.bilibili.com/bangumi/play/ep100356","time":"2017-01-15T15:00:09.000Z"}]},{"id":681857,"sort":3,"name":"Nyanway Generation","sites":[{"site":"bilibili","sort":3,"title":"Nyanway Generation","url":"https://www.bilibili.com/bangumi/play/ep100357","time":"2017-01-22T15:00:09.000Z"}]},{"id":681858,"sort":4,"name":"ゆ・れ・て湘南ビーチ","sites":[{"site":"bilibili","sort":4,"title":"摇摆吧湘南海滩","url":"https://www.bilibili.com/bangumi/play/ep100358","time":"2017-01-29T15:00:09.000Z"}]},{"id":681859,"sort":5,"name":"保育園天国","sites":[{"site":"bilibili","sort":5,"title":"幼儿园天堂","url":"https://www.bilibili.com/bangumi/play/ep100359","time":"2017-02-05T15:00:09.000Z"}]},{"id":681860,"sort":6,"name":"TOO SHY SHY GIRL!","sites":[{"site":"bilibili","sort":6,"title":"TOO SHY SHY GIRL!","url":"https://www.bilibili.com/bangumi/play/ep100360","time":"2017-02-12T15:00:09.000Z"}]},{"id":681861,"sort":7,"name":"飾りじゃないのよマイクは","sites":[{"site":"bilibili","sort":7,"title":"麦克风可不是装饰","url":"https://www.bilibili.com/bangumi/play/ep100361","time":"2017-02-19T15:00:09.000Z"}]},{"id":681862,"sort":8,"name":"MISSしてロンリネス","sites":[{"site":"bilibili","sort":8,"title":"MISS我吧寂寞","url":"https://www.bilibili.com/bangumi/play/ep100362","time":"2017-02-26T15:00:09.000Z"}]},{"id":681863,"sort":9,"name":"議員服と機関銃","sites":[{"site":"bilibili","sort":9,"title":"议员服与机关枪","url":"https://www.bilibili.com/bangumi/play/ep100363","time":"2017-03-05T15:00:09.000Z"}]},{"id":681864,"sort":10,"name":"ダンシング・ヒロイン","sites":[{"site":"bilibili","sort":10,"title":"Dancing Heroine","url":"https://www.bilibili.com/bangumi/play/ep100364","time":"2017-03-12T15:00:02.000Z"}]},{"id":681865,"sort":11,"name":"MajiでLiveの5秒前","sites":[{"site":"bilibili","sort":11,"title":"真要Live的5秒前","url":"https://www.bilibili.com/bangumi/play/ep100365","time":"2017-03-19T15:00:02.000Z"}]},{"id":681866,"sort":12,"name":"なんてったってアイドル議員！","sites":[{"site":"bilibili","sort":12,"title":"再怎么说也是偶像议员!","url":"https://www.bilibili.com/bangumi/play/ep100366","time":"2017-03-26T15:00:02.000Z"}]}]}
+{
+ "id": "192485",
+ "name": "アイドル事変",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5787",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 681855,
+   "sort": 1,
+   "name": "私が国会議員になっても",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "就算我成了国会议员",
+     "url": "https://www.bilibili.com/bangumi/play/ep100355",
+     "time": "2017-01-08T15:00:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 681856,
+   "sort": 2,
+   "name": "少女S",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "少女S",
+     "url": "https://www.bilibili.com/bangumi/play/ep100356",
+     "time": "2017-01-15T15:00:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 681857,
+   "sort": 3,
+   "name": "Nyanway Generation",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Nyanway Generation",
+     "url": "https://www.bilibili.com/bangumi/play/ep100357",
+     "time": "2017-01-22T15:00:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 681858,
+   "sort": 4,
+   "name": "ゆ・れ・て湘南ビーチ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "摇摆吧湘南海滩",
+     "url": "https://www.bilibili.com/bangumi/play/ep100358",
+     "time": "2017-01-29T15:00:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 681859,
+   "sort": 5,
+   "name": "保育園天国",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "幼儿园天堂",
+     "url": "https://www.bilibili.com/bangumi/play/ep100359",
+     "time": "2017-02-05T15:00:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 681860,
+   "sort": 6,
+   "name": "TOO SHY SHY GIRL!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "TOO SHY SHY GIRL!",
+     "url": "https://www.bilibili.com/bangumi/play/ep100360",
+     "time": "2017-02-12T15:00:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 681861,
+   "sort": 7,
+   "name": "飾りじゃないのよマイクは",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "麦克风可不是装饰",
+     "url": "https://www.bilibili.com/bangumi/play/ep100361",
+     "time": "2017-02-19T15:00:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 681862,
+   "sort": 8,
+   "name": "MISSしてロンリネス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "MISS我吧寂寞",
+     "url": "https://www.bilibili.com/bangumi/play/ep100362",
+     "time": "2017-02-26T15:00:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 681863,
+   "sort": 9,
+   "name": "議員服と機関銃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "议员服与机关枪",
+     "url": "https://www.bilibili.com/bangumi/play/ep100363",
+     "time": "2017-03-05T15:00:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 681864,
+   "sort": 10,
+   "name": "ダンシング・ヒロイン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "Dancing Heroine",
+     "url": "https://www.bilibili.com/bangumi/play/ep100364",
+     "time": "2017-03-12T15:00:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 681865,
+   "sort": 11,
+   "name": "MajiでLiveの5秒前",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "真要Live的5秒前",
+     "url": "https://www.bilibili.com/bangumi/play/ep100365",
+     "time": "2017-03-19T15:00:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 681866,
+   "sort": 12,
+   "name": "なんてったってアイドル議員！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "再怎么说也是偶像议员!",
+     "url": "https://www.bilibili.com/bangumi/play/ep100366",
+     "time": "2017-03-26T15:00:02.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,363 @@
-{"id":"37290","name":"機甲界ガリアン","sites":[{"site":"bilibili","id":"2431","sort":25}],"eps":[{"id":160371,"sort":1,"name":"伝説の始まり","sites":[{"site":"bilibili","sort":1,"title":"1","url":"https://www.bilibili.com/bangumi/play/ep58356","time":"2013-06-23T14:46:37.000Z"}]},{"id":160372,"sort":2,"name":"ガリアンの目覚め","sites":[{"site":"bilibili","sort":2,"title":"2","url":"https://www.bilibili.com/bangumi/play/ep58357","time":"2013-06-23T14:46:37.000Z"}]},{"id":160373,"sort":3,"name":"白い谷の闘い","sites":[{"site":"bilibili","sort":3,"title":"3","url":"https://www.bilibili.com/bangumi/play/ep58358","time":"2013-06-23T14:46:37.000Z"}]},{"id":160374,"sort":4,"name":"チュルルを追って","sites":[{"site":"bilibili","sort":4,"title":"4","url":"https://www.bilibili.com/bangumi/play/ep58359","time":"2013-06-23T14:46:37.000Z"}]},{"id":160375,"sort":5,"name":"無重力の谷","sites":[{"site":"bilibili","sort":5,"title":"5","url":"https://www.bilibili.com/bangumi/play/ep58360","time":"2013-06-23T14:46:37.000Z"}]},{"id":160376,"sort":6,"name":"地底に眠る秘密","sites":[{"site":"bilibili","sort":6,"title":"6","url":"https://www.bilibili.com/bangumi/play/ep58361","time":"2013-06-23T14:46:37.000Z"}]},{"id":160377,"sort":7,"name":"ローダン軍接近","sites":[{"site":"bilibili","sort":7,"title":"7","url":"https://www.bilibili.com/bangumi/play/ep58362","time":"2013-06-23T14:46:37.000Z"}]},{"id":160378,"sort":8,"name":"マーダルの告発","sites":[{"site":"bilibili","sort":8,"title":"8","url":"https://www.bilibili.com/bangumi/play/ep58363","time":"2013-06-23T14:46:37.000Z"}]},{"id":160379,"sort":9,"name":"裁かれるヒルムカ","sites":[{"site":"bilibili","sort":9,"title":"9","url":"https://www.bilibili.com/bangumi/play/ep58364","time":"2013-06-23T14:46:37.000Z"}]},{"id":160380,"sort":10,"name":"火を吹く重装改","sites":[{"site":"bilibili","sort":10,"title":"10","url":"https://www.bilibili.com/bangumi/play/ep58365","time":"2013-06-23T14:46:37.000Z"}]},{"id":160381,"sort":11,"name":"騎士と勇者","sites":[{"site":"bilibili","sort":11,"title":"11","url":"https://www.bilibili.com/bangumi/play/ep58366","time":"2013-06-23T14:46:37.000Z"}]},{"id":160382,"sort":12,"name":"マーダルの正体","sites":[{"site":"bilibili","sort":12,"title":"12","url":"https://www.bilibili.com/bangumi/play/ep58367","time":"2013-06-23T14:46:37.000Z"}]},{"id":160383,"sort":13,"name":"ジョジョの悩み","sites":[{"site":"bilibili","sort":13,"title":"13","url":"https://www.bilibili.com/bangumi/play/ep58368","time":"2013-06-23T14:46:37.000Z"}]},{"id":160384,"sort":14,"name":"ああ、ものいわぬ母","sites":[{"site":"bilibili","sort":14,"title":"14","url":"https://www.bilibili.com/bangumi/play/ep58369","time":"2013-06-23T14:46:37.000Z"}]},{"id":160385,"sort":15,"name":"鉄の城脱出","sites":[{"site":"bilibili","sort":15,"title":"15","url":"https://www.bilibili.com/bangumi/play/ep58370","time":"2013-06-23T14:46:37.000Z"}]},{"id":160386,"sort":16,"name":"マーダル出陣","sites":[{"site":"bilibili","sort":16,"title":"16","url":"https://www.bilibili.com/bangumi/play/ep58371","time":"2013-06-23T14:46:37.000Z"}]},{"id":160387,"sort":17,"name":"運命の対決","sites":[{"site":"bilibili","sort":17,"title":"17","url":"https://www.bilibili.com/bangumi/play/ep58372","time":"2013-06-23T14:46:37.000Z"}]},{"id":160388,"sort":18,"name":"アズベスの最期","sites":[{"site":"bilibili","sort":18,"title":"18","url":"https://www.bilibili.com/bangumi/play/ep58373","time":"2013-06-23T14:46:37.000Z"}]},{"id":160389,"sort":19,"name":"白い谷崩壊","sites":[{"site":"bilibili","sort":19,"title":"19","url":"https://www.bilibili.com/bangumi/play/ep58374","time":"2013-06-23T14:46:37.000Z"}]},{"id":160390,"sort":20,"name":"そびえたつ野望","sites":[{"site":"bilibili","sort":20,"title":"20","url":"https://www.bilibili.com/bangumi/play/ep58375","time":"2013-06-23T14:46:37.000Z"}]},{"id":160391,"sort":21,"name":"動乱の都","sites":[{"site":"bilibili","sort":21,"title":"21","url":"https://www.bilibili.com/bangumi/play/ep58376","time":"2013-06-23T14:46:37.000Z"}]},{"id":160392,"sort":22,"name":"フェリア再生","sites":[{"site":"bilibili","sort":22,"title":"22","url":"https://www.bilibili.com/bangumi/play/ep58377","time":"2013-06-23T14:46:37.000Z"}]},{"id":160393,"sort":23,"name":"惑星ランプレート","sites":[{"site":"bilibili","sort":23,"title":"23","url":"https://www.bilibili.com/bangumi/play/ep58378","time":"2013-06-23T14:46:37.000Z"}]},{"id":160394,"sort":24,"name":"幻想の崩壊","sites":[{"site":"bilibili","sort":24,"title":"24","url":"https://www.bilibili.com/bangumi/play/ep58379","time":"2013-06-23T14:46:37.000Z"}]},{"id":160395,"sort":25,"name":"伝説の光芒","sites":[{"site":"bilibili","sort":25,"title":"25","url":"https://www.bilibili.com/bangumi/play/ep58380","time":"2013-06-23T14:46:37.000Z"}]}]}
+{
+ "id": "37290",
+ "name": "機甲界ガリアン",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2431",
+   "sort": 25
+  }
+ ],
+ "eps": [
+  {
+   "id": 160371,
+   "sort": 1,
+   "name": "伝説の始まり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "1",
+     "url": "https://www.bilibili.com/bangumi/play/ep58356",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160372,
+   "sort": 2,
+   "name": "ガリアンの目覚め",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "2",
+     "url": "https://www.bilibili.com/bangumi/play/ep58357",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160373,
+   "sort": 3,
+   "name": "白い谷の闘い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "3",
+     "url": "https://www.bilibili.com/bangumi/play/ep58358",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160374,
+   "sort": 4,
+   "name": "チュルルを追って",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "4",
+     "url": "https://www.bilibili.com/bangumi/play/ep58359",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160375,
+   "sort": 5,
+   "name": "無重力の谷",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "5",
+     "url": "https://www.bilibili.com/bangumi/play/ep58360",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160376,
+   "sort": 6,
+   "name": "地底に眠る秘密",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "6",
+     "url": "https://www.bilibili.com/bangumi/play/ep58361",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160377,
+   "sort": 7,
+   "name": "ローダン軍接近",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "7",
+     "url": "https://www.bilibili.com/bangumi/play/ep58362",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160378,
+   "sort": 8,
+   "name": "マーダルの告発",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "8",
+     "url": "https://www.bilibili.com/bangumi/play/ep58363",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160379,
+   "sort": 9,
+   "name": "裁かれるヒルムカ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "9",
+     "url": "https://www.bilibili.com/bangumi/play/ep58364",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160380,
+   "sort": 10,
+   "name": "火を吹く重装改",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "10",
+     "url": "https://www.bilibili.com/bangumi/play/ep58365",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160381,
+   "sort": 11,
+   "name": "騎士と勇者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "11",
+     "url": "https://www.bilibili.com/bangumi/play/ep58366",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160382,
+   "sort": 12,
+   "name": "マーダルの正体",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "12",
+     "url": "https://www.bilibili.com/bangumi/play/ep58367",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160383,
+   "sort": 13,
+   "name": "ジョジョの悩み",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "13",
+     "url": "https://www.bilibili.com/bangumi/play/ep58368",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160384,
+   "sort": 14,
+   "name": "ああ、ものいわぬ母",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "14",
+     "url": "https://www.bilibili.com/bangumi/play/ep58369",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160385,
+   "sort": 15,
+   "name": "鉄の城脱出",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "15",
+     "url": "https://www.bilibili.com/bangumi/play/ep58370",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160386,
+   "sort": 16,
+   "name": "マーダル出陣",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "16",
+     "url": "https://www.bilibili.com/bangumi/play/ep58371",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160387,
+   "sort": 17,
+   "name": "運命の対決",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "17",
+     "url": "https://www.bilibili.com/bangumi/play/ep58372",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160388,
+   "sort": 18,
+   "name": "アズベスの最期",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "18",
+     "url": "https://www.bilibili.com/bangumi/play/ep58373",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160389,
+   "sort": 19,
+   "name": "白い谷崩壊",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "19",
+     "url": "https://www.bilibili.com/bangumi/play/ep58374",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160390,
+   "sort": 20,
+   "name": "そびえたつ野望",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "20",
+     "url": "https://www.bilibili.com/bangumi/play/ep58375",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160391,
+   "sort": 21,
+   "name": "動乱の都",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "21",
+     "url": "https://www.bilibili.com/bangumi/play/ep58376",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160392,
+   "sort": 22,
+   "name": "フェリア再生",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "22",
+     "url": "https://www.bilibili.com/bangumi/play/ep58377",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160393,
+   "sort": 23,
+   "name": "惑星ランプレート",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "23",
+     "url": "https://www.bilibili.com/bangumi/play/ep58378",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160394,
+   "sort": 24,
+   "name": "幻想の崩壊",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "24",
+     "url": "https://www.bilibili.com/bangumi/play/ep58379",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 160395,
+   "sort": 25,
+   "name": "伝説の光芒",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 25,
+     "title": "25",
+     "url": "https://www.bilibili.com/bangumi/play/ep58380",
+     "time": "2013-06-23T14:46:37.000Z"
+    }
+   ]
+  }
+ ]
+}

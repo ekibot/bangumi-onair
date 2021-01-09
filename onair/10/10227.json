@@ -1,1 +1,181 @@
-{"id":"10227","name":"Aチャンネル","sites":[{"site":"bilibili","id":"915","sort":12}],"eps":[{"id":84550,"sort":1,"name":"好き -An April day-","sites":[{"site":"bilibili","sort":1,"title":"喜欢 An April day","url":"https://www.bilibili.com/bangumi/play/ep16491","time":"2011-04-08T04:02:49.000Z"}]},{"id":84551,"sort":2,"name":"雨の日はお風呂 -As rain fell-","sites":[{"site":"bilibili","sort":2,"title":"下雨天就来泡澡吧 As rain fell","url":"https://www.bilibili.com/bangumi/play/ep16490","time":"2011-04-15T07:00:00.000Z"}]},{"id":84552,"sort":3,"name":"同級生-All good to go-","sites":[{"site":"bilibili","sort":3,"title":"同学 All good to go","url":"https://www.bilibili.com/bangumi/play/ep16489","time":"2011-04-22T06:39:43.000Z"}]},{"id":84553,"sort":4,"name":"きろぐらむ -Attention to your weight-","sites":[{"site":"bilibili","sort":4,"title":"公斤 Attention to your weight","url":"https://www.bilibili.com/bangumi/play/ep16488","time":"2011-04-29T09:51:48.000Z"}]},{"id":84554,"sort":5,"name":"海 -An ocean far away-","sites":[{"site":"bilibili","sort":5,"title":"海 An ocean far away","url":"https://www.bilibili.com/bangumi/play/ep16487","time":"2011-05-06T11:13:12.000Z"}]},{"id":84555,"sort":6,"name":"真夏の夜の… -A school in summer-","sites":[{"site":"bilibili","sort":6,"title":"盛夏的夜晚… A school in summer","url":"https://www.bilibili.com/bangumi/play/ep16486","time":"2011-05-13T07:18:21.000Z"}]},{"id":84556,"sort":7,"name":"夏祭り -August's end-","sites":[{"site":"bilibili","sort":7,"title":"夏日祭 August's end","url":"https://www.bilibili.com/bangumi/play/ep16485","time":"2011-05-20T06:09:32.000Z"}]},{"id":84557,"sort":8,"name":"新学期 Abnormal circumstance","sites":[{"site":"bilibili","sort":8,"title":"新学期 Abnormal circumstance","url":"https://www.bilibili.com/bangumi/play/ep16484","time":"2011-05-27T07:14:36.000Z"}]},{"id":84558,"sort":9,"name":"プレゼント Abstract art","sites":[{"site":"bilibili","sort":9,"title":"礼物 Abstract art","url":"https://www.bilibili.com/bangumi/play/ep16483","time":"2011-06-03T06:47:43.000Z"}]},{"id":84559,"sort":10,"name":"炭酸　－Act up","sites":[{"site":"bilibili","sort":10,"title":"碳酸 Act up","url":"https://www.bilibili.com/bangumi/play/ep16482","time":"2011-06-10T07:16:12.000Z"}]},{"id":84560,"sort":11,"name":"たんじょうび Allow me","sites":[{"site":"bilibili","sort":11,"title":"生日 Allow me","url":"https://www.bilibili.com/bangumi/play/ep16481","time":"2011-06-17T06:06:40.000Z"}]},{"id":84763,"sort":12,"name":"宇宙人 Anytime","sites":[{"site":"bilibili","sort":12,"title":"宇宙人 Anytime","url":"https://www.bilibili.com/bangumi/play/ep16480","time":"2011-06-24T07:44:09.000Z"}]}]}
+{
+ "id": "10227",
+ "name": "Aチャンネル",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "915",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 84550,
+   "sort": 1,
+   "name": "好き -An April day-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "喜欢 An April day",
+     "url": "https://www.bilibili.com/bangumi/play/ep16491",
+     "time": "2011-04-08T04:02:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84551,
+   "sort": 2,
+   "name": "雨の日はお風呂 -As rain fell-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "下雨天就来泡澡吧 As rain fell",
+     "url": "https://www.bilibili.com/bangumi/play/ep16490",
+     "time": "2011-04-15T07:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84552,
+   "sort": 3,
+   "name": "同級生-All good to go-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "同学 All good to go",
+     "url": "https://www.bilibili.com/bangumi/play/ep16489",
+     "time": "2011-04-22T06:39:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84553,
+   "sort": 4,
+   "name": "きろぐらむ -Attention to your weight-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "公斤 Attention to your weight",
+     "url": "https://www.bilibili.com/bangumi/play/ep16488",
+     "time": "2011-04-29T09:51:48.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84554,
+   "sort": 5,
+   "name": "海 -An ocean far away-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "海 An ocean far away",
+     "url": "https://www.bilibili.com/bangumi/play/ep16487",
+     "time": "2011-05-06T11:13:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84555,
+   "sort": 6,
+   "name": "真夏の夜の… -A school in summer-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "盛夏的夜晚… A school in summer",
+     "url": "https://www.bilibili.com/bangumi/play/ep16486",
+     "time": "2011-05-13T07:18:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84556,
+   "sort": 7,
+   "name": "夏祭り -August's end-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "夏日祭 August's end",
+     "url": "https://www.bilibili.com/bangumi/play/ep16485",
+     "time": "2011-05-20T06:09:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84557,
+   "sort": 8,
+   "name": "新学期 Abnormal circumstance",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "新学期 Abnormal circumstance",
+     "url": "https://www.bilibili.com/bangumi/play/ep16484",
+     "time": "2011-05-27T07:14:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84558,
+   "sort": 9,
+   "name": "プレゼント Abstract art",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "礼物 Abstract art",
+     "url": "https://www.bilibili.com/bangumi/play/ep16483",
+     "time": "2011-06-03T06:47:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84559,
+   "sort": 10,
+   "name": "炭酸　－Act up",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "碳酸 Act up",
+     "url": "https://www.bilibili.com/bangumi/play/ep16482",
+     "time": "2011-06-10T07:16:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84560,
+   "sort": 11,
+   "name": "たんじょうび Allow me",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "生日 Allow me",
+     "url": "https://www.bilibili.com/bangumi/play/ep16481",
+     "time": "2011-06-17T06:06:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84763,
+   "sort": 12,
+   "name": "宇宙人 Anytime",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "宇宙人 Anytime",
+     "url": "https://www.bilibili.com/bangumi/play/ep16480",
+     "time": "2011-06-24T07:44:09.000Z"
+    }
+   ]
+  }
+ ]
+}

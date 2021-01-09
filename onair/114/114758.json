@@ -1,1 +1,181 @@
-{"id":"114758","name":"ニセコイ:","sites":[{"site":"bilibili","id":"1574","sort":12}],"eps":[{"id":512842,"sort":1,"name":"コレカラ/キヅイテ","sites":[{"site":"bilibili","sort":1,"title":"从此以后／快点发现","url":"https://www.bilibili.com/bangumi/play/ep29098","time":"2015-04-10T15:30:00.000Z"}]},{"id":512843,"sort":2,"name":"インネン/ショウブ","sites":[{"site":"bilibili","sort":2,"title":"命中注定／一决胜负","url":"https://www.bilibili.com/bangumi/play/ep29972","time":"2015-04-17T15:30:00.000Z"}]},{"id":512844,"sort":3,"name":"ヒツヨウ","sites":[{"site":"bilibili","sort":3,"title":"必要存在","url":"https://www.bilibili.com/bangumi/play/ep35280","time":"2015-04-24T15:30:00.000Z"}]},{"id":512845,"sort":4,"name":"ハハオヤ","sites":[{"site":"bilibili","sort":4,"title":"母亲","url":"https://www.bilibili.com/bangumi/play/ep36286","time":"2015-05-01T15:30:39.000Z"}]},{"id":512846,"sort":5,"name":"オシエテ/ラクサマ","sites":[{"site":"bilibili","sort":5,"title":"教教我吧/乐大人","url":"https://www.bilibili.com/bangumi/play/ep45736","time":"2015-05-08T15:30:32.000Z"}]},{"id":512847,"sort":6,"name":"オイシイ","sites":[{"site":"bilibili","sort":6,"title":"美味","url":"https://www.bilibili.com/bangumi/play/ep54234","time":"2015-05-15T15:30:17.000Z"}]},{"id":512848,"sort":7,"name":"イモウト","sites":[{"site":"bilibili","sort":7,"title":"妹妹","url":"https://www.bilibili.com/bangumi/play/ep62400","time":"2015-05-22T15:37:00.000Z"}]},{"id":512849,"sort":8,"name":"マジカルパティシエ小咲ちゃん!!/ハタラケ","sites":[{"site":"bilibili","sort":8,"title":"魔法糕点师小咲!!／工作","url":"https://www.bilibili.com/bangumi/play/ep62678","time":"2015-05-29T15:30:17.000Z"}]},{"id":512850,"sort":9,"name":"オソウジ／ オミマウ","sites":[{"site":"bilibili","sort":9,"title":"打扫／探病","url":"https://www.bilibili.com/bangumi/play/ep62736","time":"2015-06-05T15:30:00.000Z"}]},{"id":512851,"sort":10,"name":"オウエン","sites":[{"site":"bilibili","sort":10,"title":"支持","url":"https://www.bilibili.com/bangumi/play/ep62849","time":"2015-06-12T15:30:00.000Z"}]},{"id":512852,"sort":11,"name":"ヤセタイ／ オハヨウ","sites":[{"site":"bilibili","sort":11,"title":"想瘦身／早安","url":"https://www.bilibili.com/bangumi/play/ep63580","time":"2015-06-19T15:30:00.000Z"}]},{"id":512853,"sort":12,"name":"ソウサク／ オタメシ","sites":[{"site":"bilibili","sort":12,"title":"寻找／尝试","url":"https://www.bilibili.com/bangumi/play/ep63726","time":"2015-06-26T15:30:00.000Z"}]}]}
+{
+ "id": "114758",
+ "name": "ニセコイ:",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1574",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 512842,
+   "sort": 1,
+   "name": "コレカラ/キヅイテ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "从此以后／快点发现",
+     "url": "https://www.bilibili.com/bangumi/play/ep29098",
+     "time": "2015-04-10T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 512843,
+   "sort": 2,
+   "name": "インネン/ショウブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "命中注定／一决胜负",
+     "url": "https://www.bilibili.com/bangumi/play/ep29972",
+     "time": "2015-04-17T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 512844,
+   "sort": 3,
+   "name": "ヒツヨウ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "必要存在",
+     "url": "https://www.bilibili.com/bangumi/play/ep35280",
+     "time": "2015-04-24T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 512845,
+   "sort": 4,
+   "name": "ハハオヤ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "母亲",
+     "url": "https://www.bilibili.com/bangumi/play/ep36286",
+     "time": "2015-05-01T15:30:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 512846,
+   "sort": 5,
+   "name": "オシエテ/ラクサマ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "教教我吧/乐大人",
+     "url": "https://www.bilibili.com/bangumi/play/ep45736",
+     "time": "2015-05-08T15:30:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 512847,
+   "sort": 6,
+   "name": "オイシイ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "美味",
+     "url": "https://www.bilibili.com/bangumi/play/ep54234",
+     "time": "2015-05-15T15:30:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 512848,
+   "sort": 7,
+   "name": "イモウト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "妹妹",
+     "url": "https://www.bilibili.com/bangumi/play/ep62400",
+     "time": "2015-05-22T15:37:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 512849,
+   "sort": 8,
+   "name": "マジカルパティシエ小咲ちゃん!!/ハタラケ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "魔法糕点师小咲!!／工作",
+     "url": "https://www.bilibili.com/bangumi/play/ep62678",
+     "time": "2015-05-29T15:30:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 512850,
+   "sort": 9,
+   "name": "オソウジ／ オミマウ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "打扫／探病",
+     "url": "https://www.bilibili.com/bangumi/play/ep62736",
+     "time": "2015-06-05T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 512851,
+   "sort": 10,
+   "name": "オウエン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "支持",
+     "url": "https://www.bilibili.com/bangumi/play/ep62849",
+     "time": "2015-06-12T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 512852,
+   "sort": 11,
+   "name": "ヤセタイ／ オハヨウ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "想瘦身／早安",
+     "url": "https://www.bilibili.com/bangumi/play/ep63580",
+     "time": "2015-06-19T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 512853,
+   "sort": 12,
+   "name": "ソウサク／ オタメシ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "寻找／尝试",
+     "url": "https://www.bilibili.com/bangumi/play/ep63726",
+     "time": "2015-06-26T15:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

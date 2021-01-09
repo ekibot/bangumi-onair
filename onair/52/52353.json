@@ -1,1 +1,27 @@
-{"id":"52353","name":"カーニバル・ファンタズム EX Season","sites":[{"site":"bilibili","id":"3552","sort":1}],"eps":[{"id":133119,"sort":1,"name":"EX Season","sites":[{"site":"bilibili","sort":1,"title":"幻想嘉年华 EX Season","url":"https://www.bilibili.com/bangumi/play/ep85878","time":"2016-04-10T08:33:31.000Z"}]}]}
+{
+ "id": "52353",
+ "name": "カーニバル・ファンタズム EX Season",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3552",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 133119,
+   "sort": 1,
+   "name": "EX Season",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "幻想嘉年华 EX Season",
+     "url": "https://www.bilibili.com/bangumi/play/ep85878",
+     "time": "2016-04-10T08:33:00.000Z"
+    }
+   ]
+  }
+ ]
+}

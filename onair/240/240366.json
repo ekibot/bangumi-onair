@@ -1,1 +1,181 @@
-{"id":"240366","name":"音楽少女","sites":[{"site":"bilibili","id":"102032","sort":12}],"eps":[{"id":805441,"sort":1,"name":"100億人に一人のアイドル","sites":[{"site":"bilibili","sort":1,"title":"100亿人中才出一个的偶像","url":"https://www.bilibili.com/bangumi/play/ep232492","time":"2018-07-07T17:30:00.000Z"}]},{"id":805442,"sort":2,"name":"アイドルなめんな","sites":[{"site":"bilibili","sort":2,"title":"别小瞧偶像","url":"https://www.bilibili.com/bangumi/play/ep232493","time":"2018-07-14T17:30:00.000Z"}]},{"id":805443,"sort":3,"name":"アイドル 心 共鳴","sites":[{"site":"bilibili","sort":3,"title":"偶像 心 共鸣","url":"https://www.bilibili.com/bangumi/play/ep232494","time":"2018-07-21T17:30:00.000Z"}]},{"id":805444,"sort":4,"name":"はだかのアイドル","sites":[{"site":"bilibili","sort":4,"title":"真诚的偶像","url":"https://www.bilibili.com/bangumi/play/ep232495","time":"2018-07-28T17:30:00.000Z"}]},{"id":805445,"sort":5,"name":"アイドルのレシピ","sites":[{"site":"bilibili","sort":5,"title":"偶像食谱","url":"https://www.bilibili.com/bangumi/play/ep232496","time":"2018-08-04T17:30:00.000Z"}]},{"id":805446,"sort":6,"name":"ニクとアイドル","sites":[{"site":"bilibili","sort":6,"title":"肉和偶像","url":"https://www.bilibili.com/bangumi/play/ep232497","time":"2018-08-11T17:30:08.000Z"}]},{"id":805447,"sort":7,"name":"アイドルの涙は紙飛行機に乗せて","sites":[{"site":"bilibili","sort":7,"title":"偶像的眼泪就由纸飞机来带走吧","url":"https://www.bilibili.com/bangumi/play/ep232498","time":"2018-08-18T17:30:21.000Z"}]},{"id":805448,"sort":8,"name":"can't stop IDOL","sites":[{"site":"bilibili","sort":8,"title":"Can't stop IDOL","url":"https://www.bilibili.com/bangumi/play/ep232499","time":"2018-08-25T17:30:33.000Z"}]},{"id":805449,"sort":9,"name":"アイドルはつらいよ","sites":[{"site":"bilibili","sort":9,"title":"偶像不好当","url":"https://www.bilibili.com/bangumi/play/ep232500","time":"2018-09-01T17:29:59.000Z"}]},{"id":805450,"sort":10,"name":"歌と少女とアイドル","sites":[{"site":"bilibili","sort":10,"title":"歌&少女&偶像","url":"https://www.bilibili.com/bangumi/play/ep232501","time":"2018-09-08T17:30:00.000Z"}]},{"id":805451,"sort":11,"name":"最高のアイドル","sites":[{"site":"bilibili","sort":11,"title":"最棒的偶像","url":"https://www.bilibili.com/bangumi/play/ep232502","time":"2018-09-15T17:30:00.000Z"}]},{"id":805452,"sort":12,"name":"アイドルの一片","sites":[{"site":"bilibili","sort":12,"title":"Idol Piece","url":"https://www.bilibili.com/bangumi/play/ep232503","time":"2018-09-22T17:30:00.000Z"}]}]}
+{
+ "id": "240366",
+ "name": "音楽少女",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "102032",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 805441,
+   "sort": 1,
+   "name": "100億人に一人のアイドル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "100亿人中才出一个的偶像",
+     "url": "https://www.bilibili.com/bangumi/play/ep232492",
+     "time": "2018-07-07T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805442,
+   "sort": 2,
+   "name": "アイドルなめんな",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "别小瞧偶像",
+     "url": "https://www.bilibili.com/bangumi/play/ep232493",
+     "time": "2018-07-14T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805443,
+   "sort": 3,
+   "name": "アイドル 心 共鳴",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "偶像 心 共鸣",
+     "url": "https://www.bilibili.com/bangumi/play/ep232494",
+     "time": "2018-07-21T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805444,
+   "sort": 4,
+   "name": "はだかのアイドル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "真诚的偶像",
+     "url": "https://www.bilibili.com/bangumi/play/ep232495",
+     "time": "2018-07-28T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805445,
+   "sort": 5,
+   "name": "アイドルのレシピ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "偶像食谱",
+     "url": "https://www.bilibili.com/bangumi/play/ep232496",
+     "time": "2018-08-04T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805446,
+   "sort": 6,
+   "name": "ニクとアイドル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "肉和偶像",
+     "url": "https://www.bilibili.com/bangumi/play/ep232497",
+     "time": "2018-08-11T17:30:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805447,
+   "sort": 7,
+   "name": "アイドルの涙は紙飛行機に乗せて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "偶像的眼泪就由纸飞机来带走吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep232498",
+     "time": "2018-08-18T17:30:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805448,
+   "sort": 8,
+   "name": "can't stop IDOL",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "Can't stop IDOL",
+     "url": "https://www.bilibili.com/bangumi/play/ep232499",
+     "time": "2018-08-25T17:30:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805449,
+   "sort": 9,
+   "name": "アイドルはつらいよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "偶像不好当",
+     "url": "https://www.bilibili.com/bangumi/play/ep232500",
+     "time": "2018-09-01T17:29:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805450,
+   "sort": 10,
+   "name": "歌と少女とアイドル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "歌&少女&偶像",
+     "url": "https://www.bilibili.com/bangumi/play/ep232501",
+     "time": "2018-09-08T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805451,
+   "sort": 11,
+   "name": "最高のアイドル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "最棒的偶像",
+     "url": "https://www.bilibili.com/bangumi/play/ep232502",
+     "time": "2018-09-15T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 805452,
+   "sort": 12,
+   "name": "アイドルの一片",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "Idol Piece",
+     "url": "https://www.bilibili.com/bangumi/play/ep232503",
+     "time": "2018-09-22T17:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

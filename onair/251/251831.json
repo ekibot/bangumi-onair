@@ -1,1 +1,58 @@
-{"id":"251831","name":"斉木楠雄のΨ難 完結編","sites":[{"site":"iqiyi","id":"a_19rrhvm9yx","sort":2},{"site":"bilibili","id":"5195852","sort":2}],"eps":[{"id":843526,"sort":1,"name":"十人十色、多Ψな進路／完全Ψ現!?楠Ω／勃発!Ψキックバトル／激突!Ψキックバトル／Ψ後の戦い","sites":[{"site":"iqiyi","sort":1,"title":"人各有志 五花八门的志愿!","url":"http://www.iqiyi.com/v_19rqpog72c.html","time":"2018-12-27T23:30:16.000Z"},{"site":"bilibili","sort":1,"title":"人各有志 多彩志愿","url":"https://www.bilibili.com/bangumi/play/ep258942","time":"2018-12-28T00:00:00.000Z"}]},{"id":849156,"sort":2,"name":"旅行計画の詳Ψを詰めよう／見どころ満Ψ!忍舞観光旅行!／Ψ悪の天Ψから世界を救Ψせよ!／斉木楠雄の最後(前編)／斉木楠雄の最後(後編)","sites":[{"site":"iqiyi","sort":2,"title":"齐木楠雄的结局","url":"http://www.iqiyi.com/v_19rqpog6y0.html","time":"2018-12-27T23:35:09.000Z"},{"site":"bilibili","sort":2,"title":"规划好旅行计划的细节吧","url":"https://www.bilibili.com/bangumi/play/ep258943","time":"2018-12-28T00:00:00.000Z"}]}]}
+{
+ "id": "251831",
+ "name": "斉木楠雄のΨ難 完結編",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5195852",
+   "sort": 2
+  },
+  {
+   "site": "youku",
+   "id": "f41aa66f58ee4943a067",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 843526,
+   "sort": 1,
+   "name": "十人十色、多Ψな進路／完全Ψ現!?楠Ω／勃発!Ψキックバトル／激突!Ψキックバトル／Ψ後の戦い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "人各有志 多彩志愿",
+     "url": "https://www.bilibili.com/bangumi/play/ep258942",
+     "time": "2018-12-28T00:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "十人十色 多彩的志愿",
+     "url": "https://v.youku.com/v_show/id_XMzk4NDg4MDg2NA==.html?s=f41aa66f58ee4943a067"
+    }
+   ]
+  },
+  {
+   "id": 849156,
+   "sort": 2,
+   "name": "旅行計画の詳Ψを詰めよう／見どころ満Ψ!忍舞観光旅行!／Ψ悪の天Ψから世界を救Ψせよ!／斉木楠雄の最後(前編)／斉木楠雄の最後(後編)",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "规划好旅行计划的细节吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep258943",
+     "time": "2018-12-28T00:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "决定详细的旅行计划",
+     "url": "https://v.youku.com/v_show/id_XMzk4NDg4MDg2OA==.html?s=f41aa66f58ee4943a067"
+    }
+   ]
+  }
+ ]
+}

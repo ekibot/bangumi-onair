@@ -1,1 +1,69 @@
-{"id":"4480","name":"テイルズ オブ シンフォニア THE ANIMATION テセアラ編","sites":[{"site":"bilibili","id":"3975","sort":4}],"eps":[{"id":32773,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"1","url":"https://www.bilibili.com/bangumi/play/ep87699","time":"2016-05-09T07:28:06.000Z"}]},{"id":32774,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"2","url":"https://www.bilibili.com/bangumi/play/ep87700","time":"2016-05-09T07:28:06.000Z"}]},{"id":32775,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"3","url":"https://www.bilibili.com/bangumi/play/ep87701","time":"2016-05-09T07:28:06.000Z"}]},{"id":32776,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"4","url":"https://www.bilibili.com/bangumi/play/ep87702","time":"2016-05-09T07:28:06.000Z"}]}]}
+{
+ "id": "4480",
+ "name": "テイルズ オブ シンフォニア THE ANIMATION テセアラ編",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3975",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 32773,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "1",
+     "url": "https://www.bilibili.com/bangumi/play/ep87699",
+     "time": "2016-05-09T07:28:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32774,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "2",
+     "url": "https://www.bilibili.com/bangumi/play/ep87700",
+     "time": "2016-05-09T07:28:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32775,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "3",
+     "url": "https://www.bilibili.com/bangumi/play/ep87701",
+     "time": "2016-05-09T07:28:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32776,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "4",
+     "url": "https://www.bilibili.com/bangumi/play/ep87702",
+     "time": "2016-05-09T07:28:06.000Z"
+    }
+   ]
+  }
+ ]
+}

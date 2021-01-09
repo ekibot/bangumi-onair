@@ -1,1 +1,27 @@
-{"id":"149078","name":"少女たちは荒野を目指す OVA","sites":[{"site":"bilibili","id":"3780","sort":1}],"eps":[{"id":575119,"sort":1,"name":"戦略的ゲームバンドル版…と言うべきものかしら","sites":[{"site":"bilibili","sort":1,"title":"戦略的ゲームバンドル版…と言うべきものかしら","url":"https://www.bilibili.com/bangumi/play/ep86472","time":"2016-04-19T03:09:46.000Z"}]}]}
+{
+ "id": "149078",
+ "name": "少女たちは荒野を目指す OVA",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3780",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 575119,
+   "sort": 1,
+   "name": "戦略的ゲームバンドル版…と言うべきものかしら",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "戦略的ゲームバンドル版…と言うべきものかしら",
+     "url": "https://www.bilibili.com/bangumi/play/ep86472",
+     "time": "2016-04-19T03:09:46.000Z"
+    }
+   ]
+  }
+ ]
+}

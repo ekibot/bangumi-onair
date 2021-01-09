@@ -1,1 +1,27 @@
-{"id":"44693","name":"劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語","sites":[{"site":"bilibili","id":"28220105","sort":1}],"eps":[{"id":332049,"sort":3,"name":"叛逆の物語","sites":[{"site":"bilibili","sort":3,"title":"叛逆的物语","url":"https://www.bilibili.com/bangumi/play/ep282474","time":"2019-08-30T10:00:00.000Z"}]}]}
+{
+ "id": "44693",
+ "name": "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28220105",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 332049,
+   "sort": 3,
+   "name": "叛逆の物語",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "叛逆的物语",
+     "url": "https://www.bilibili.com/bangumi/play/ep282474",
+     "time": "2019-08-30T10:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

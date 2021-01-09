@@ -1,1 +1,181 @@
-{"id":"19704","name":"イノセント・ヴィーナス","sites":[{"site":"bilibili","id":"1437","sort":12}],"eps":[{"id":108238,"sort":1,"name":"奈落","sites":[{"site":"bilibili","sort":1,"title":"奈落","url":"https://www.bilibili.com/bangumi/play/ep26873","time":"2013-02-27T20:27:45.000Z"}]},{"id":108239,"sort":2,"name":"凶気","sites":[{"site":"bilibili","sort":2,"title":"凶気","url":"https://www.bilibili.com/bangumi/play/ep26874","time":"2013-02-27T20:27:45.000Z"}]},{"id":108240,"sort":3,"name":"倭寇","sites":[{"site":"bilibili","sort":3,"title":"倭寇","url":"https://www.bilibili.com/bangumi/play/ep26875","time":"2013-02-27T20:27:45.000Z"}]},{"id":108241,"sort":4,"name":"襲来","sites":[{"site":"bilibili","sort":4,"title":"袭来","url":"https://www.bilibili.com/bangumi/play/ep26876","time":"2013-02-27T20:27:45.000Z"}]},{"id":108242,"sort":5,"name":"連弾","sites":[{"site":"bilibili","sort":5,"title":"连弹","url":"https://www.bilibili.com/bangumi/play/ep26877","time":"2013-02-27T20:27:45.000Z"}]},{"id":108243,"sort":6,"name":"暴走","sites":[{"site":"bilibili","sort":6,"title":"暴走","url":"https://www.bilibili.com/bangumi/play/ep26878","time":"2013-02-27T20:27:45.000Z"}]},{"id":108244,"sort":7,"name":"策謀","sites":[{"site":"bilibili","sort":7,"title":"策谋","url":"https://www.bilibili.com/bangumi/play/ep26879","time":"2013-02-27T20:27:45.000Z"}]},{"id":108245,"sort":8,"name":"喪失","sites":[{"site":"bilibili","sort":8,"title":"丧失","url":"https://www.bilibili.com/bangumi/play/ep26880","time":"2013-02-27T20:27:45.000Z"}]},{"id":108246,"sort":9,"name":"救済","sites":[{"site":"bilibili","sort":9,"title":"救济","url":"https://www.bilibili.com/bangumi/play/ep26881","time":"2013-02-27T20:27:45.000Z"}]},{"id":108247,"sort":10,"name":"決意","sites":[{"site":"bilibili","sort":10,"title":"决意","url":"https://www.bilibili.com/bangumi/play/ep26882","time":"2013-02-27T20:27:45.000Z"}]},{"id":108248,"sort":11,"name":"美神","sites":[{"site":"bilibili","sort":11,"title":"美神","url":"https://www.bilibili.com/bangumi/play/ep26883","time":"2013-02-27T20:27:45.000Z"}]},{"id":108249,"sort":12,"name":"世界","sites":[{"site":"bilibili","sort":12,"title":"世界","url":"https://www.bilibili.com/bangumi/play/ep26884","time":"2013-02-27T20:27:45.000Z"}]}]}
+{
+ "id": "19704",
+ "name": "イノセント・ヴィーナス",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1437",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 108238,
+   "sort": 1,
+   "name": "奈落",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "奈落",
+     "url": "https://www.bilibili.com/bangumi/play/ep26873",
+     "time": "2013-02-27T20:27:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 108239,
+   "sort": 2,
+   "name": "凶気",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "凶気",
+     "url": "https://www.bilibili.com/bangumi/play/ep26874",
+     "time": "2013-02-27T20:27:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 108240,
+   "sort": 3,
+   "name": "倭寇",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "倭寇",
+     "url": "https://www.bilibili.com/bangumi/play/ep26875",
+     "time": "2013-02-27T20:27:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 108241,
+   "sort": 4,
+   "name": "襲来",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "袭来",
+     "url": "https://www.bilibili.com/bangumi/play/ep26876",
+     "time": "2013-02-27T20:27:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 108242,
+   "sort": 5,
+   "name": "連弾",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "连弹",
+     "url": "https://www.bilibili.com/bangumi/play/ep26877",
+     "time": "2013-02-27T20:27:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 108243,
+   "sort": 6,
+   "name": "暴走",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "暴走",
+     "url": "https://www.bilibili.com/bangumi/play/ep26878",
+     "time": "2013-02-27T20:27:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 108244,
+   "sort": 7,
+   "name": "策謀",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "策谋",
+     "url": "https://www.bilibili.com/bangumi/play/ep26879",
+     "time": "2013-02-27T20:27:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 108245,
+   "sort": 8,
+   "name": "喪失",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "丧失",
+     "url": "https://www.bilibili.com/bangumi/play/ep26880",
+     "time": "2013-02-27T20:27:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 108246,
+   "sort": 9,
+   "name": "救済",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "救济",
+     "url": "https://www.bilibili.com/bangumi/play/ep26881",
+     "time": "2013-02-27T20:27:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 108247,
+   "sort": 10,
+   "name": "決意",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "决意",
+     "url": "https://www.bilibili.com/bangumi/play/ep26882",
+     "time": "2013-02-27T20:27:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 108248,
+   "sort": 11,
+   "name": "美神",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "美神",
+     "url": "https://www.bilibili.com/bangumi/play/ep26883",
+     "time": "2013-02-27T20:27:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 108249,
+   "sort": 12,
+   "name": "世界",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "世界",
+     "url": "https://www.bilibili.com/bangumi/play/ep26884",
+     "time": "2013-02-27T20:27:45.000Z"
+    }
+   ]
+  }
+ ]
+}

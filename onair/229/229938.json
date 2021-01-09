@@ -1,1 +1,38 @@
-{"id":"229938","name":"劇場版 SERVAMP -サーヴァンプ- Alice in the Garden","sites":[{"site":"bilibili","id":"1340832","sort":1},{"site":"qq","id":"s/snzs99rlt7a71n8","sort":1}],"eps":[{"id":857000,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep254105","time":"2018-11-01T16:00:00.000Z"},{"site":"qq","sort":1,"title":"吸血鬼仆人 -alice in the garden_01","url":"https://v.qq.com/x/cover/snzs99rlt7a71n8/n00320lxzdh.html"}]}]}
+{
+ "id": "229938",
+ "name": "劇場版 SERVAMP -サーヴァンプ- Alice in the Garden",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1340832",
+   "sort": 1
+  },
+  {
+   "site": "qq",
+   "id": "s/snzs99rlt7a71n8",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 857000,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep254105",
+     "time": "2018-11-01T16:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "吸血鬼仆人 -alice in the garden_01",
+     "url": "https://v.qq.com/x/cover/snzs99rlt7a71n8/n00320lxzdh.html"
+    }
+   ]
+  }
+ ]
+}

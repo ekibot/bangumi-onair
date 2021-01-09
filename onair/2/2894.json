@@ -1,1 +1,55 @@
-{"id":"2894","name":"ツバサ TOKYO REVELATIONS","sites":[{"site":"bilibili","id":"2854","sort":3}],"eps":[{"id":19128,"sort":1,"name":"魔術師の伝言","sites":[{"site":"bilibili","sort":1,"title":"魔术师的传说","url":"https://www.bilibili.com/bangumi/play/ep74328","time":"2015-10-15T16:18:00.000Z"}]},{"id":19129,"sort":2,"name":"少年の右目","sites":[{"site":"bilibili","sort":2,"title":"少年的右眼","url":"https://www.bilibili.com/bangumi/play/ep74329","time":"2015-10-15T16:18:00.000Z"}]},{"id":19130,"sort":3,"name":"姫君の視た夢","sites":[{"site":"bilibili","sort":3,"title":"公主所见的梦","url":"https://www.bilibili.com/bangumi/play/ep74330","time":"2015-10-15T16:18:00.000Z"}]}]}
+{
+ "id": "2894",
+ "name": "ツバサ TOKYO REVELATIONS",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2854",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 19128,
+   "sort": 1,
+   "name": "魔術師の伝言",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "魔术师的传说",
+     "url": "https://www.bilibili.com/bangumi/play/ep74328",
+     "time": "2015-10-15T16:18:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19129,
+   "sort": 2,
+   "name": "少年の右目",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "少年的右眼",
+     "url": "https://www.bilibili.com/bangumi/play/ep74329",
+     "time": "2015-10-15T16:18:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19130,
+   "sort": 3,
+   "name": "姫君の視た夢",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "公主所见的梦",
+     "url": "https://www.bilibili.com/bangumi/play/ep74330",
+     "time": "2015-10-15T16:18:00.000Z"
+    }
+   ]
+  }
+ ]
+}

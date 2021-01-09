@@ -1,1 +1,83 @@
-{"id":"2842","name":"戦闘妖精雪風","sites":[{"site":"bilibili","id":"2702","sort":5}],"eps":[{"id":18681,"sort":1,"name":"OPERATION 1","sites":[{"site":"bilibili","sort":1,"title":"OPERATION 1","url":"https://www.bilibili.com/bangumi/play/ep67075","time":"2011-12-13T15:41:46.000Z"}]},{"id":18682,"sort":2,"name":"OPERATION 2","sites":[{"site":"bilibili","sort":2,"title":"OPERATION 2","url":"https://www.bilibili.com/bangumi/play/ep67076","time":"2011-12-13T15:41:46.000Z"}]},{"id":18683,"sort":3,"name":"OPERATION 3","sites":[{"site":"bilibili","sort":3,"title":"OPERATION 3","url":"https://www.bilibili.com/bangumi/play/ep67077","time":"2011-12-13T15:41:46.000Z"}]},{"id":18684,"sort":4,"name":"OPERATION 4","sites":[{"site":"bilibili","sort":4,"title":"OPERATION 4","url":"https://www.bilibili.com/bangumi/play/ep67078","time":"2011-12-13T15:41:46.000Z"}]},{"id":18685,"sort":5,"name":"OPERATION 5","sites":[{"site":"bilibili","sort":5,"title":"OPERATION 5","url":"https://www.bilibili.com/bangumi/play/ep67079","time":"2011-12-13T15:41:46.000Z"}]}]}
+{
+ "id": "2842",
+ "name": "戦闘妖精雪風",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2702",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 18681,
+   "sort": 1,
+   "name": "OPERATION 1",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "OPERATION 1",
+     "url": "https://www.bilibili.com/bangumi/play/ep67075",
+     "time": "2011-12-13T15:41:46.000Z"
+    }
+   ]
+  },
+  {
+   "id": 18682,
+   "sort": 2,
+   "name": "OPERATION 2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "OPERATION 2",
+     "url": "https://www.bilibili.com/bangumi/play/ep67076",
+     "time": "2011-12-13T15:41:46.000Z"
+    }
+   ]
+  },
+  {
+   "id": 18683,
+   "sort": 3,
+   "name": "OPERATION 3",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "OPERATION 3",
+     "url": "https://www.bilibili.com/bangumi/play/ep67077",
+     "time": "2011-12-13T15:41:46.000Z"
+    }
+   ]
+  },
+  {
+   "id": 18684,
+   "sort": 4,
+   "name": "OPERATION 4",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "OPERATION 4",
+     "url": "https://www.bilibili.com/bangumi/play/ep67078",
+     "time": "2011-12-13T15:41:46.000Z"
+    }
+   ]
+  },
+  {
+   "id": 18685,
+   "sort": 5,
+   "name": "OPERATION 5",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "OPERATION 5",
+     "url": "https://www.bilibili.com/bangumi/play/ep67079",
+     "time": "2011-12-13T15:41:46.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,97 @@
-{"id":"221295","name":"聖闘士星矢: Knights of the Zodiac","sites":[{"site":"iqiyi","id":"a_19rrhvm9ul","sort":12}],"eps":[{"id":740994,"sort":1,"name":"星矢","sites":[{"site":"iqiyi","sort":1,"title":"SEIYA","url":"http://www.iqiyi.com/v_19rrznrods.html","time":"2019-07-19T07:00:09.000Z"}]},{"id":740995,"sort":2,"name":"コスモを燃やせ","sites":[{"site":"iqiyi","sort":2,"title":"Burn Your Cosmo","url":"http://www.iqiyi.com/v_19rrznsrao.html","time":"2019-07-19T07:00:06.000Z"}]},{"id":740996,"sort":3,"name":"ドラゴン登場","sites":[{"site":"iqiyi","sort":3,"title":"Enter the Dragon","url":"http://www.iqiyi.com/v_19rs4kjkk8.html","time":"2019-07-19T07:00:05.000Z"}]},{"id":740997,"sort":4,"name":"星雲鎖 (ネビュラチェーン)","sites":[{"site":"iqiyi","sort":4,"title":"Nebula Chain","url":"http://www.iqiyi.com/v_19rs4jj1aw.html","time":"2019-07-19T07:00:08.000Z"}]},{"id":740998,"sort":5,"name":"暗黒聖闘士","sites":[{"site":"iqiyi","sort":5,"title":"The Black Knights","url":"http://www.iqiyi.com/v_19rs4ixf0g.html","time":"2019-07-19T07:00:06.000Z"}]},{"id":740999,"sort":6,"name":"蘇る不死鳥 (フェニックス)","sites":[{"site":"iqiyi","sort":6,"title":"Phoenix Rising","url":"http://www.iqiyi.com/v_19rs4nsgdo.html","time":"2019-07-19T07:00:08.000Z"}]}]}
+{
+ "id": "221295",
+ "name": "聖闘士星矢: Knights of the Zodiac",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhvm9ul",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 740994,
+   "sort": 1,
+   "name": "星矢",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "SEIYA",
+     "url": "http://www.iqiyi.com/v_19rrznrods.html",
+     "time": "2019-07-19T07:00:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 740995,
+   "sort": 2,
+   "name": "コスモを燃やせ",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "Burn Your Cosmo",
+     "url": "http://www.iqiyi.com/v_19rrznsrao.html",
+     "time": "2019-07-19T07:00:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 740996,
+   "sort": 3,
+   "name": "ドラゴン登場",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "Enter the Dragon",
+     "url": "http://www.iqiyi.com/v_19rs4kjkk8.html",
+     "time": "2019-07-19T07:00:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 740997,
+   "sort": 4,
+   "name": "星雲鎖 (ネビュラチェーン)",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "Nebula Chain",
+     "url": "http://www.iqiyi.com/v_19rs4jj1aw.html",
+     "time": "2019-07-19T07:00:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 740998,
+   "sort": 5,
+   "name": "暗黒聖闘士",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "The Black Knights",
+     "url": "http://www.iqiyi.com/v_19rs4ixf0g.html",
+     "time": "2019-07-19T07:00:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 740999,
+   "sort": 6,
+   "name": "蘇る不死鳥 (フェニックス)",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "Phoenix Rising",
+     "url": "http://www.iqiyi.com/v_19rs4nsgdo.html",
+     "time": "2019-07-19T07:00:08.000Z"
+    }
+   ]
+  }
+ ]
+}

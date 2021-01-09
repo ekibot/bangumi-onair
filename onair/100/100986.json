@@ -1,0 +1,117 @@
+{
+ "id": "100986",
+ "name": "真 ストレンジ・プラス",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "fb9af3d4cdc011e3b8b7",
+   "sort": 8
+  }
+ ],
+ "eps": [
+  {
+   "id": 410988,
+   "sort": 1,
+   "name": "RECONDUCT",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 Recondut",
+     "url": "https://v.youku.com/v_show/id_XNzM4ODMzOTY4.html?s=fb9af3d4cdc011e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 410990,
+   "sort": 3,
+   "name": "CRIME",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 Crime",
+     "url": "https://v.youku.com/v_show/id_XNzQ2MTkxNTIw.html?s=fb9af3d4cdc011e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 410991,
+   "sort": 4,
+   "name": "PRINCESS",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 Princess",
+     "url": "https://v.youku.com/v_show/id_XNzUxMTgxNTI0.html?s=fb9af3d4cdc011e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 410992,
+   "sort": 5,
+   "name": "RESISTANS",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 Resistans",
+     "url": "https://v.youku.com/v_show/id_XNzUyOTIwODA4.html?s=fb9af3d4cdc011e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 410993,
+   "sort": 6,
+   "name": "ESCAPE",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 Escape",
+     "url": "https://v.youku.com/v_show/id_XNzYyNjM4ODYw.html?s=fb9af3d4cdc011e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 410994,
+   "sort": 7,
+   "name": "RESTRAINS",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 Restrains",
+     "url": "https://v.youku.com/v_show/id_XNzYyNjQwNDMy.html?s=fb9af3d4cdc011e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 410995,
+   "sort": 8,
+   "name": "HOMEWORK",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 作业",
+     "url": "https://v.youku.com/v_show/id_XNzcyMTgwNzQ0.html?s=fb9af3d4cdc011e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 410996,
+   "sort": 9,
+   "name": "INFLUENCE",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 影响力",
+     "url": "https://v.youku.com/v_show/id_XODAyNjQxMjcy.html?s=fb9af3d4cdc011e3b8b7"
+    }
+   ]
+  }
+ ]
+}

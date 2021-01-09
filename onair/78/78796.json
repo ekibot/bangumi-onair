@@ -1,1 +1,27 @@
-{"id":"78796","name":"新劇場版 頭文字D Legend1 -覚醒-","sites":[{"site":"bilibili","id":"3838","sort":1}],"eps":[{"id":875525,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"头文字D Legend1 -觉醒-","url":"https://www.bilibili.com/bangumi/play/ep86751","time":"2016-04-25T06:15:21.000Z"}]}]}
+{
+ "id": "78796",
+ "name": "新劇場版 頭文字D Legend1 -覚醒-",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3838",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 875525,
+   "sort": 1,
+   "name": "頭文字D Legend1 -覚醒-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "头文字D Legend1 -觉醒-",
+     "url": "https://www.bilibili.com/bangumi/play/ep86751",
+     "time": "2016-04-25T06:15:21.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,175 @@
-{"id":"282433","name":"映像研には手を出すな！","sites":[],"eps":[{"id":924371,"sort":1,"name":"最強の世界！","sites":[{"site":"acfun","sort":1,"title":"最强的世界！","url":"https://www.acfun.cn/bangumi/ab6000902_36188_1707488","time":"2020-01-05T17:00:00.000Z"}]},{"id":924372,"sort":2,"name":"映像研、爆誕す！","sites":[{"site":"acfun","sort":2,"title":"映像研，爆炸诞生！","url":"https://www.acfun.cn/bangumi/ab6000902_36188_1708585","time":"2020-01-12T17:00:00.000Z"}]},{"id":924373,"sort":3,"name":"実績を打ち立てろ！","sites":[{"site":"acfun","sort":3,"title":"创造实绩吧！","url":"https://www.acfun.cn/bangumi/ab6000902_36188_1709072","time":"2020-01-19T17:00:00.000Z"}]},{"id":924374,"sort":4,"name":"そのマチェットを強く握れ！","sites":[{"site":"acfun","sort":4,"title":"握紧手中的开山刀！","url":"https://www.acfun.cn/bangumi/ab6000902_36188_1709599","time":"2020-01-26T17:00:00.000Z"}]},{"id":924375,"sort":5,"name":"鉄巨人あらわる！","sites":[{"site":"acfun","sort":5,"title":"铁巨人登场！","url":"https://www.acfun.cn/bangumi/ab6000902_36188_1710240","time":"2020-02-02T17:00:00.000Z"}]},{"id":924376,"sort":6,"name":"前作より進歩するべし！","sites":[{"site":"acfun","sort":6,"title":"比前作更进一步","url":"https://www.acfun.cn/bangumi/ab6000902_36188_1710766","time":"2020-02-09T17:00:00.000Z"}]},{"id":924377,"sort":7,"name":"私は私を救うんだ！","sites":[{"site":"acfun","sort":7,"title":"由我来拯救我！","url":"https://www.acfun.cn/bangumi/ab6000902_36188_1711799","time":"2020-02-16T17:00:00.000Z"}]},{"id":924378,"sort":8,"name":"大芝浜祭！","sites":[{"site":"acfun","sort":8,"title":"大芝滨祭！","url":"https://www.acfun.cn/bangumi/ab6000902_36188_1712774","time":"2020-02-23T17:00:00.000Z"}]},{"id":924379,"sort":9,"name":"コメットAを目指せ！","sites":[{"site":"acfun","sort":9,"title":"目标是彗星-A！","url":"https://www.acfun.cn/bangumi/ab6000902_36188_1714602","time":"2020-03-01T17:00:00.000Z"}]},{"id":924380,"sort":10,"name":"独自世界の対立！","sites":[{"site":"acfun","sort":10,"title":"各自世界的对立！","url":"https://www.acfun.cn/bangumi/ab6000902_36188_1715588","time":"2020-03-08T17:00:00.000Z"}]},{"id":924381,"sort":11,"name":"それぞれの存在！","sites":[{"site":"acfun","sort":11,"title":"各自的存在","url":"https://www.acfun.cn/bangumi/ab6000902_36188_1716700","time":"2020-03-15T17:00:00.000Z"}]},{"id":924382,"sort":12,"name":"芝浜UFO大戦！","sites":[{"site":"acfun","sort":12,"title":"芝滨UFO大战","url":"https://www.acfun.cn/bangumi/ab6000902_36188_1717696","time":"2020-03-22T17:00:00.000Z"}]}]}
+{
+ "id": "282433",
+ "name": "映像研には手を出すな！",
+ "sites": [],
+ "eps": [
+  {
+   "id": 924371,
+   "sort": 1,
+   "name": "最強の世界！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "最强的世界！",
+     "url": "https://www.acfun.cn/bangumi/ab6000902_36188_1707488",
+     "time": "2020-01-05T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924372,
+   "sort": 2,
+   "name": "映像研、爆誕す！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 2,
+     "title": "映像研，爆炸诞生！",
+     "url": "https://www.acfun.cn/bangumi/ab6000902_36188_1708585",
+     "time": "2020-01-12T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924373,
+   "sort": 3,
+   "name": "実績を打ち立てろ！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 3,
+     "title": "创造实绩吧！",
+     "url": "https://www.acfun.cn/bangumi/ab6000902_36188_1709072",
+     "time": "2020-01-19T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924374,
+   "sort": 4,
+   "name": "そのマチェットを強く握れ！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 4,
+     "title": "握紧手中的开山刀！",
+     "url": "https://www.acfun.cn/bangumi/ab6000902_36188_1709599",
+     "time": "2020-01-26T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924375,
+   "sort": 5,
+   "name": "鉄巨人あらわる！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 5,
+     "title": "铁巨人登场！",
+     "url": "https://www.acfun.cn/bangumi/ab6000902_36188_1710240",
+     "time": "2020-02-02T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924376,
+   "sort": 6,
+   "name": "前作より進歩するべし！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 6,
+     "title": "比前作更进一步",
+     "url": "https://www.acfun.cn/bangumi/ab6000902_36188_1710766",
+     "time": "2020-02-09T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924377,
+   "sort": 7,
+   "name": "私は私を救うんだ！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 7,
+     "title": "由我来拯救我！",
+     "url": "https://www.acfun.cn/bangumi/ab6000902_36188_1711799",
+     "time": "2020-02-16T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924378,
+   "sort": 8,
+   "name": "大芝浜祭！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 8,
+     "title": "大芝滨祭！",
+     "url": "https://www.acfun.cn/bangumi/ab6000902_36188_1712774",
+     "time": "2020-02-23T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924379,
+   "sort": 9,
+   "name": "コメットAを目指せ！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 9,
+     "title": "目标是彗星-A！",
+     "url": "https://www.acfun.cn/bangumi/ab6000902_36188_1714602",
+     "time": "2020-03-01T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924380,
+   "sort": 10,
+   "name": "独自世界の対立！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 10,
+     "title": "各自世界的对立！",
+     "url": "https://www.acfun.cn/bangumi/ab6000902_36188_1715588",
+     "time": "2020-03-08T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924381,
+   "sort": 11,
+   "name": "それぞれの存在！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 11,
+     "title": "各自的存在",
+     "url": "https://www.acfun.cn/bangumi/ab6000902_36188_1716700",
+     "time": "2020-03-15T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924382,
+   "sort": 12,
+   "name": "芝浜UFO大戦！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 12,
+     "title": "芝滨UFO大战",
+     "url": "https://www.acfun.cn/bangumi/ab6000902_36188_1717696",
+     "time": "2020-03-22T17:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

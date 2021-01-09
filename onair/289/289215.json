@@ -1,1 +1,63 @@
-{"id":"289215","name":"機甲英雄 機鬥勇者","sites":[{"site":"acfun","id":"6000035","week":3,"time":"2056"}],"eps":[{"id":905289,"sort":1,"name":"特別篇1","sites":[{"site":"acfun","sort":1,"title":"第1话","url":"https://www.acfun.cn/bangumi/ab6000035_36188_334534","time":"2019-09-04T12:58:31.000Z"}]},{"id":905290,"sort":2,"name":"特別篇2","sites":[{"site":"acfun","sort":2,"title":"第2话","url":"https://www.acfun.cn/bangumi/ab6000035_36188_334535","time":"2019-09-04T12:58:31.000Z"}]},{"id":905291,"sort":3,"name":"特別篇3","sites":[{"site":"acfun","sort":3,"title":"第3话","url":"https://www.acfun.cn/bangumi/ab6000035_36188_337243","time":"2019-09-27T05:53:55.000Z"}]},{"id":905292,"sort":4,"name":"","sites":[{"site":"acfun","sort":4,"title":"第4话","url":"https://www.acfun.cn/bangumi/ab6000035_36188_339630","time":"2019-10-18T13:25:53.000Z"}]}]}
+{
+ "id": "289215",
+ "name": "機甲英雄 機鬥勇者",
+ "sites": [],
+ "eps": [
+  {
+   "id": 905289,
+   "sort": 1,
+   "name": "特別篇1",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "第1话",
+     "url": "https://www.acfun.cn/bangumi/ab6000035_36188_334534",
+     "time": "2019-09-04T12:58:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905290,
+   "sort": 2,
+   "name": "特別篇2",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 2,
+     "title": "第2话",
+     "url": "https://www.acfun.cn/bangumi/ab6000035_36188_334535",
+     "time": "2019-09-04T12:58:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905291,
+   "sort": 3,
+   "name": "特別篇3",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 3,
+     "title": "第3话",
+     "url": "https://www.acfun.cn/bangumi/ab6000035_36188_337243",
+     "time": "2019-09-27T05:53:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905292,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 4,
+     "title": "第4话",
+     "url": "https://www.acfun.cn/bangumi/ab6000035_36188_339630",
+     "time": "2019-10-18T13:25:53.000Z"
+    }
+   ]
+  }
+ ]
+}

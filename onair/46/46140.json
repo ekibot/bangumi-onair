@@ -1,1 +1,291 @@
-{"id":"46140","name":"BUZZER BEATER","sites":[{"site":"iqiyi","id":"a_19rrgi9s11","sort":13},{"site":"bilibili","id":"1373","sort":13}],"eps":[{"id":190065,"sort":1,"name":"THROW IN","sites":[{"site":"iqiyi","sort":1,"title":"零秒出手第一季 第1集","url":"http://www.iqiyi.com/v_19rrhu5ynk.html","time":"2014-05-05T09:58:28.000Z"},{"site":"bilibili","sort":1,"title":"THROW IN","url":"https://www.bilibili.com/bangumi/play/ep25455","time":"2014-04-11T01:46:33.000Z"}]},{"id":190066,"sort":2,"name":"TRANSITION","sites":[{"site":"iqiyi","sort":2,"title":"零秒出手第一季 第2集","url":"http://www.iqiyi.com/v_19rrhu61a8.html","time":"2014-05-05T09:58:32.000Z"},{"site":"bilibili","sort":2,"title":"TRANSITION","url":"https://www.bilibili.com/bangumi/play/ep25456","time":"2014-04-11T01:46:33.000Z"}]},{"id":190067,"sort":3,"name":"Chucker","sites":[{"site":"iqiyi","sort":3,"title":"零秒出手第一季 第3集","url":"http://www.iqiyi.com/v_19rrhu60qs.html","time":"2014-05-05T09:58:42.000Z"},{"site":"bilibili","sort":3,"title":"Chucker","url":"https://www.bilibili.com/bangumi/play/ep25457","time":"2014-04-11T01:46:33.000Z"}]},{"id":190068,"sort":4,"name":"PG","sites":[{"site":"iqiyi","sort":4,"title":"零秒出手第一季 第4集","url":"http://www.iqiyi.com/v_19rrhu60eg.html","time":"2014-05-05T09:58:34.000Z"},{"site":"bilibili","sort":4,"title":"PG","url":"https://www.bilibili.com/bangumi/play/ep25458","time":"2014-04-11T01:46:33.000Z"}]},{"id":190069,"sort":5,"name":"Tip off","sites":[{"site":"iqiyi","sort":5,"title":"零秒出手第一季 第5集","url":"http://www.iqiyi.com/v_19rrhu608w.html","time":"2014-05-05T09:58:46.000Z"},{"site":"bilibili","sort":5,"title":"Tip off","url":"https://www.bilibili.com/bangumi/play/ep25459","time":"2014-04-11T01:46:33.000Z"}]},{"id":190070,"sort":6,"name":"Charging","sites":[{"site":"iqiyi","sort":6,"title":"零秒出手第一季 第6集","url":"http://www.iqiyi.com/v_19rrhu5qdo.html","time":"2014-05-05T09:58:27.000Z"},{"site":"bilibili","sort":6,"title":"Charging","url":"https://www.bilibili.com/bangumi/play/ep25460","time":"2014-04-11T01:46:33.000Z"}]},{"id":190071,"sort":7,"name":"SIXTH MAN","sites":[{"site":"iqiyi","sort":7,"title":"零秒出手第一季 第7集","url":"http://www.iqiyi.com/v_19rrhu5q5c.html","time":"2014-05-05T09:58:37.000Z"},{"site":"bilibili","sort":7,"title":"SIXTH MAN","url":"https://www.bilibili.com/bangumi/play/ep25461","time":"2014-04-11T01:46:33.000Z"}]},{"id":190072,"sort":8,"name":"FAST BREAK","sites":[{"site":"iqiyi","sort":8,"title":"零秒出手第一季 第8集","url":"http://www.iqiyi.com/v_19rrhu5phk.html","time":"2014-05-05T09:58:42.000Z"},{"site":"bilibili","sort":8,"title":"FAST BREAK","url":"https://www.bilibili.com/bangumi/play/ep25462","time":"2014-04-11T01:46:33.000Z"}]},{"id":190073,"sort":9,"name":"TRIPLE DOUBLE","sites":[{"site":"iqiyi","sort":9,"title":"零秒出手 第一季 第9集","url":"http://www.iqiyi.com/v_19rrhu5pa4.html","time":"2014-05-05T09:58:32.000Z"},{"site":"bilibili","sort":9,"title":"TRIPLE DOUBLE","url":"https://www.bilibili.com/bangumi/play/ep25463","time":"2014-04-11T01:46:33.000Z"}]},{"id":190074,"sort":10,"name":"J","sites":[{"site":"iqiyi","sort":10,"title":"零秒出手 第一季 第10集","url":"http://www.iqiyi.com/v_19rrhu5s14.html","time":"2014-05-05T09:58:39.000Z"},{"site":"bilibili","sort":10,"title":"J","url":"https://www.bilibili.com/bangumi/play/ep25464","time":"2014-04-11T01:46:33.000Z"}]},{"id":190075,"sort":11,"name":"HANG TIME","sites":[{"site":"iqiyi","sort":11,"title":"零秒出手第一季 第11集","url":"http://www.iqiyi.com/v_19rrhu5ry0.html","time":"2014-05-05T09:58:46.000Z"},{"site":"bilibili","sort":11,"title":"HANG TIME","url":"https://www.bilibili.com/bangumi/play/ep25465","time":"2014-04-11T01:46:33.000Z"}]},{"id":190076,"sort":12,"name":"CLUTCH SHOT","sites":[{"site":"iqiyi","sort":12,"title":"零秒出手第一季 第12集","url":"http://www.iqiyi.com/v_19rrhu5rsg.html","time":"2014-05-05T09:58:32.000Z"},{"site":"bilibili","sort":12,"title":"CLUTCH SHOT","url":"https://www.bilibili.com/bangumi/play/ep25466","time":"2014-04-11T01:46:33.000Z"}]},{"id":190077,"sort":13,"name":"BUZZER BEATER","sites":[{"site":"iqiyi","sort":13,"title":"零秒出手第一季 第13集","url":"http://www.iqiyi.com/v_19rrht2mdo.html","time":"2014-05-07T03:29:55.000Z"},{"site":"bilibili","sort":13,"title":"BUZZER BEATER","url":"https://www.bilibili.com/bangumi/play/ep25467","time":"2014-04-11T01:46:33.000Z"}]}]}
+{
+ "id": "46140",
+ "name": "BUZZER BEATER",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrgi9s11",
+   "sort": 13
+  },
+  {
+   "site": "bilibili",
+   "id": "1373",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 190065,
+   "sort": 1,
+   "name": "THROW IN",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "零秒出手第一季 第1集",
+     "url": "http://www.iqiyi.com/v_19rrhu5ynk.html",
+     "time": "2014-05-05T09:58:28.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "THROW IN",
+     "url": "https://www.bilibili.com/bangumi/play/ep25455",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 190066,
+   "sort": 2,
+   "name": "TRANSITION",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "零秒出手第一季 第2集",
+     "url": "http://www.iqiyi.com/v_19rrhu61a8.html",
+     "time": "2014-05-05T09:58:32.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "TRANSITION",
+     "url": "https://www.bilibili.com/bangumi/play/ep25456",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 190067,
+   "sort": 3,
+   "name": "Chucker",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "零秒出手第一季 第3集",
+     "url": "http://www.iqiyi.com/v_19rrhu60qs.html",
+     "time": "2014-05-05T09:58:42.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Chucker",
+     "url": "https://www.bilibili.com/bangumi/play/ep25457",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 190068,
+   "sort": 4,
+   "name": "PG",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "零秒出手第一季 第4集",
+     "url": "http://www.iqiyi.com/v_19rrhu60eg.html",
+     "time": "2014-05-05T09:58:34.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "PG",
+     "url": "https://www.bilibili.com/bangumi/play/ep25458",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 190069,
+   "sort": 5,
+   "name": "Tip off",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "零秒出手第一季 第5集",
+     "url": "http://www.iqiyi.com/v_19rrhu608w.html",
+     "time": "2014-05-05T09:58:46.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Tip off",
+     "url": "https://www.bilibili.com/bangumi/play/ep25459",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 190070,
+   "sort": 6,
+   "name": "Charging",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "零秒出手第一季 第6集",
+     "url": "http://www.iqiyi.com/v_19rrhu5qdo.html",
+     "time": "2014-05-05T09:58:27.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Charging",
+     "url": "https://www.bilibili.com/bangumi/play/ep25460",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 190071,
+   "sort": 7,
+   "name": "SIXTH MAN",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "零秒出手第一季 第7集",
+     "url": "http://www.iqiyi.com/v_19rrhu5q5c.html",
+     "time": "2014-05-05T09:58:37.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "SIXTH MAN",
+     "url": "https://www.bilibili.com/bangumi/play/ep25461",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 190072,
+   "sort": 8,
+   "name": "FAST BREAK",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "零秒出手第一季 第8集",
+     "url": "http://www.iqiyi.com/v_19rrhu5phk.html",
+     "time": "2014-05-05T09:58:42.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "FAST BREAK",
+     "url": "https://www.bilibili.com/bangumi/play/ep25462",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 190073,
+   "sort": 9,
+   "name": "TRIPLE DOUBLE",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "零秒出手 第一季 第9集",
+     "url": "http://www.iqiyi.com/v_19rrhu5pa4.html",
+     "time": "2014-05-05T09:58:32.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "TRIPLE DOUBLE",
+     "url": "https://www.bilibili.com/bangumi/play/ep25463",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 190074,
+   "sort": 10,
+   "name": "J",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "零秒出手 第一季 第10集",
+     "url": "http://www.iqiyi.com/v_19rrhu5s14.html",
+     "time": "2014-05-05T09:58:39.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "J",
+     "url": "https://www.bilibili.com/bangumi/play/ep25464",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 190075,
+   "sort": 11,
+   "name": "HANG TIME",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "零秒出手第一季 第11集",
+     "url": "http://www.iqiyi.com/v_19rrhu5ry0.html",
+     "time": "2014-05-05T09:58:46.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "HANG TIME",
+     "url": "https://www.bilibili.com/bangumi/play/ep25465",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 190076,
+   "sort": 12,
+   "name": "CLUTCH SHOT",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "零秒出手第一季 第12集",
+     "url": "http://www.iqiyi.com/v_19rrhu5rsg.html",
+     "time": "2014-05-05T09:58:32.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "CLUTCH SHOT",
+     "url": "https://www.bilibili.com/bangumi/play/ep25466",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 190077,
+   "sort": 13,
+   "name": "BUZZER BEATER",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 13,
+     "title": "零秒出手第一季 第13集",
+     "url": "http://www.iqiyi.com/v_19rrht2mdo.html",
+     "time": "2014-05-07T03:29:55.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "BUZZER BEATER",
+     "url": "https://www.bilibili.com/bangumi/play/ep25467",
+     "time": "2014-04-11T01:46:33.000Z"
+    }
+   ]
+  }
+ ]
+}

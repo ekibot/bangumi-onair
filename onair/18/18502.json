@@ -1,1 +1,363 @@
-{"id":"18502","name":"クラスターエッジ","sites":[{"site":"bilibili","id":"4993","sort":25}],"eps":[{"id":101987,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"名为阿加特的少年","url":"https://www.bilibili.com/bangumi/play/ep90423","time":"2016-06-21T02:42:07.000Z"}]},{"id":101988,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"白瑞的剑","url":"https://www.bilibili.com/bangumi/play/ep90424","time":"2016-06-21T02:42:07.000Z"}]},{"id":101989,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"冷弹","url":"https://www.bilibili.com/bangumi/play/ep90425","time":"2016-06-21T02:42:07.000Z"}]},{"id":101990,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"漆黑的克罗姆团登场","url":"https://www.bilibili.com/bangumi/play/ep90426","time":"2016-06-21T02:42:07.000Z"}]},{"id":101991,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"奇迹的比赛","url":"https://www.bilibili.com/bangumi/play/ep90427","time":"2016-06-21T02:42:07.000Z"}]},{"id":101992,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"教授和冯","url":"https://www.bilibili.com/bangumi/play/ep90428","time":"2016-06-21T02:42:07.000Z"}]},{"id":101993,"sort":7,"name":"","sites":[{"site":"bilibili","sort":7,"title":"去往过去的旅行","url":"https://www.bilibili.com/bangumi/play/ep90429","time":"2016-06-21T02:42:07.000Z"}]},{"id":101994,"sort":8,"name":"","sites":[{"site":"bilibili","sort":8,"title":"学生会选举","url":"https://www.bilibili.com/bangumi/play/ep90430","time":"2016-06-21T02:42:07.000Z"}]},{"id":101995,"sort":9,"name":"","sites":[{"site":"bilibili","sort":9,"title":"馆之亡灵","url":"https://www.bilibili.com/bangumi/play/ep90431","time":"2016-06-21T02:42:07.000Z"}]},{"id":101996,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"命运之路","url":"https://www.bilibili.com/bangumi/play/ep90432","time":"2016-06-21T02:42:07.000Z"}]},{"id":101997,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"所有的想法","url":"https://www.bilibili.com/bangumi/play/ep90433","time":"2016-06-21T02:42:07.000Z"}]},{"id":101998,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"阿加特的呼喊","url":"https://www.bilibili.com/bangumi/play/ep90434","time":"2016-06-21T02:42:07.000Z"}]},{"id":101999,"sort":13,"name":"","sites":[{"site":"bilibili","sort":13,"title":"卡鲁斯留下的东西","url":"https://www.bilibili.com/bangumi/play/ep90435","time":"2016-06-21T02:42:07.000Z"}]},{"id":102000,"sort":14,"name":"","sites":[{"site":"bilibili","sort":14,"title":"吹向明天的风","url":"https://www.bilibili.com/bangumi/play/ep90436","time":"2016-06-21T02:42:07.000Z"}]},{"id":102001,"sort":15,"name":"","sites":[{"site":"bilibili","sort":15,"title":"写给赫玛的信","url":"https://www.bilibili.com/bangumi/play/ep90437","time":"2016-06-21T02:42:07.000Z"}]},{"id":102002,"sort":16,"name":"","sites":[{"site":"bilibili","sort":16,"title":"克罗姆和阿加特","url":"https://www.bilibili.com/bangumi/play/ep90438","time":"2016-06-21T02:42:07.000Z"}]},{"id":102003,"sort":17,"name":"","sites":[{"site":"bilibili","sort":17,"title":"怯懦的瞳","url":"https://www.bilibili.com/bangumi/play/ep90439","time":"2016-06-21T02:42:07.000Z"}]},{"id":102004,"sort":18,"name":"","sites":[{"site":"bilibili","sort":18,"title":"机翼之下","url":"https://www.bilibili.com/bangumi/play/ep90440","time":"2016-06-21T02:42:07.000Z"}]},{"id":102005,"sort":19,"name":"","sites":[{"site":"bilibili","sort":19,"title":"去往天空的牵绊","url":"https://www.bilibili.com/bangumi/play/ep90441","time":"2016-06-21T02:42:07.000Z"}]},{"id":102006,"sort":20,"name":"","sites":[{"site":"bilibili","sort":20,"title":"流浪的人造兵","url":"https://www.bilibili.com/bangumi/play/ep90442","time":"2016-06-21T02:42:07.000Z"}]},{"id":102007,"sort":21,"name":"","sites":[{"site":"bilibili","sort":21,"title":"决意之时","url":"https://www.bilibili.com/bangumi/play/ep90443","time":"2016-06-21T02:42:07.000Z"}]},{"id":102008,"sort":22,"name":"","sites":[{"site":"bilibili","sort":22,"title":"悲痛的愤怒","url":"https://www.bilibili.com/bangumi/play/ep90444","time":"2016-06-21T02:42:07.000Z"}]},{"id":102009,"sort":23,"name":"","sites":[{"site":"bilibili","sort":23,"title":"遗言","url":"https://www.bilibili.com/bangumi/play/ep90445","time":"2016-06-21T02:42:07.000Z"}]},{"id":102010,"sort":24,"name":"","sites":[{"site":"bilibili","sort":24,"title":"走向破灭的序曲","url":"https://www.bilibili.com/bangumi/play/ep90446","time":"2016-06-21T02:42:07.000Z"}]},{"id":102011,"sort":25,"name":"","sites":[{"site":"bilibili","sort":25,"title":"制裁之火，向着明天","url":"https://www.bilibili.com/bangumi/play/ep90447","time":"2016-06-21T02:42:07.000Z"}]}]}
+{
+ "id": "18502",
+ "name": "クラスターエッジ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4993",
+   "sort": 25
+  }
+ ],
+ "eps": [
+  {
+   "id": 101987,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "名为阿加特的少年",
+     "url": "https://www.bilibili.com/bangumi/play/ep90423",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 101988,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "白瑞的剑",
+     "url": "https://www.bilibili.com/bangumi/play/ep90424",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 101989,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "冷弹",
+     "url": "https://www.bilibili.com/bangumi/play/ep90425",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 101990,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "漆黑的克罗姆团登场",
+     "url": "https://www.bilibili.com/bangumi/play/ep90426",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 101991,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "奇迹的比赛",
+     "url": "https://www.bilibili.com/bangumi/play/ep90427",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 101992,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "教授和冯",
+     "url": "https://www.bilibili.com/bangumi/play/ep90428",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 101993,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "去往过去的旅行",
+     "url": "https://www.bilibili.com/bangumi/play/ep90429",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 101994,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "学生会选举",
+     "url": "https://www.bilibili.com/bangumi/play/ep90430",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 101995,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "馆之亡灵",
+     "url": "https://www.bilibili.com/bangumi/play/ep90431",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 101996,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "命运之路",
+     "url": "https://www.bilibili.com/bangumi/play/ep90432",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 101997,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "所有的想法",
+     "url": "https://www.bilibili.com/bangumi/play/ep90433",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 101998,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "阿加特的呼喊",
+     "url": "https://www.bilibili.com/bangumi/play/ep90434",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 101999,
+   "sort": 13,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "卡鲁斯留下的东西",
+     "url": "https://www.bilibili.com/bangumi/play/ep90435",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102000,
+   "sort": 14,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "吹向明天的风",
+     "url": "https://www.bilibili.com/bangumi/play/ep90436",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102001,
+   "sort": 15,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "写给赫玛的信",
+     "url": "https://www.bilibili.com/bangumi/play/ep90437",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102002,
+   "sort": 16,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "克罗姆和阿加特",
+     "url": "https://www.bilibili.com/bangumi/play/ep90438",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102003,
+   "sort": 17,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "怯懦的瞳",
+     "url": "https://www.bilibili.com/bangumi/play/ep90439",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102004,
+   "sort": 18,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "机翼之下",
+     "url": "https://www.bilibili.com/bangumi/play/ep90440",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102005,
+   "sort": 19,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "去往天空的牵绊",
+     "url": "https://www.bilibili.com/bangumi/play/ep90441",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102006,
+   "sort": 20,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "流浪的人造兵",
+     "url": "https://www.bilibili.com/bangumi/play/ep90442",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102007,
+   "sort": 21,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "决意之时",
+     "url": "https://www.bilibili.com/bangumi/play/ep90443",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102008,
+   "sort": 22,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "悲痛的愤怒",
+     "url": "https://www.bilibili.com/bangumi/play/ep90444",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102009,
+   "sort": 23,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "遗言",
+     "url": "https://www.bilibili.com/bangumi/play/ep90445",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102010,
+   "sort": 24,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "走向破灭的序曲",
+     "url": "https://www.bilibili.com/bangumi/play/ep90446",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102011,
+   "sort": 25,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 25,
+     "title": "制裁之火，向着明天",
+     "url": "https://www.bilibili.com/bangumi/play/ep90447",
+     "time": "2016-06-21T02:42:07.000Z"
+    }
+   ]
+  }
+ ]
+}

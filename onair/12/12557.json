@@ -1,1 +1,181 @@
-{"id":"12557","name":"ましろ色シンフォニー -The color of lovers-","sites":[{"site":"bilibili","id":"868","sort":12}],"eps":[{"id":119951,"sort":1,"name":"ましろ色の出会い","sites":[{"site":"bilibili","sort":1,"title":"纯白色的相遇","url":"https://www.bilibili.com/bangumi/play/ep15578","time":"2011-10-04T21:09:51.000Z"}]},{"id":119952,"sort":2,"name":"きょぜつ色のクッキング","sites":[{"site":"bilibili","sort":2,"title":"拒绝色的烹饪","url":"https://www.bilibili.com/bangumi/play/ep15577","time":"2011-10-12T02:18:10.000Z"}]},{"id":119953,"sort":3,"name":"イライラ色のドキドキ","sites":[{"site":"bilibili","sort":3,"title":"烦恼色的心跳加速","url":"https://www.bilibili.com/bangumi/play/ep15576","time":"2011-10-19T01:29:25.000Z"}]},{"id":119954,"sort":4,"name":"アイリ色のひみつ","sites":[{"site":"bilibili","sort":4,"title":"爱理色的秘密","url":"https://www.bilibili.com/bangumi/play/ep15575","time":"2011-10-26T02:18:44.000Z"}]},{"id":119955,"sort":5,"name":"あなた色のメイドです","sites":[{"site":"bilibili","sort":5,"title":"君色的女仆","url":"https://www.bilibili.com/bangumi/play/ep15574","time":"2011-11-02T04:32:11.000Z"}]},{"id":119956,"sort":6,"name":"てさぐり色のバスタイム","sites":[{"site":"bilibili","sort":6,"title":"探索色的洗澡时间","url":"https://www.bilibili.com/bangumi/play/ep15573","time":"2011-11-09T02:58:25.000Z"}]},{"id":119957,"sort":7,"name":"たそがれ色のブランコ","sites":[{"site":"bilibili","sort":7,"title":"黄昏色的秋千","url":"https://www.bilibili.com/bangumi/play/ep15572","time":"2011-11-16T07:31:26.000Z"}]},{"id":119958,"sort":8,"name":"こねこ色の黒と白","sites":[{"site":"bilibili","sort":8,"title":"幼猫色的黑白","url":"https://www.bilibili.com/bangumi/play/ep15571","time":"2011-11-23T02:06:43.000Z"}]},{"id":119959,"sort":9,"name":"おなじ色のフタリ","sites":[{"site":"bilibili","sort":9,"title":"相同色的二人","url":"https://www.bilibili.com/bangumi/play/ep15570","time":"2011-11-30T01:09:07.000Z"}]},{"id":119960,"sort":10,"name":"なみだ色の雨やどり","sites":[{"site":"bilibili","sort":10,"title":"眼泪色的避雨","url":"https://www.bilibili.com/bangumi/play/ep15569","time":"2011-12-07T01:30:50.000Z"}]},{"id":119961,"sort":11,"name":"ましろ色シンフォニー","sites":[{"site":"bilibili","sort":11,"title":"纯白交响曲","url":"https://www.bilibili.com/bangumi/play/ep15568","time":"2011-12-14T05:09:07.000Z"}]},{"id":135684,"sort":12,"name":"はじまり色の季節","sites":[{"site":"bilibili","sort":12,"title":"起始色的季节","url":"https://www.bilibili.com/bangumi/play/ep15567","time":"2011-12-21T00:51:39.000Z"}]}]}
+{
+ "id": "12557",
+ "name": "ましろ色シンフォニー -The color of lovers-",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "868",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 119951,
+   "sort": 1,
+   "name": "ましろ色の出会い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "纯白色的相遇",
+     "url": "https://www.bilibili.com/bangumi/play/ep15578",
+     "time": "2011-10-04T21:09:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 119952,
+   "sort": 2,
+   "name": "きょぜつ色のクッキング",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "拒绝色的烹饪",
+     "url": "https://www.bilibili.com/bangumi/play/ep15577",
+     "time": "2011-10-12T02:18:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 119953,
+   "sort": 3,
+   "name": "イライラ色のドキドキ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "烦恼色的心跳加速",
+     "url": "https://www.bilibili.com/bangumi/play/ep15576",
+     "time": "2011-10-19T01:29:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 119954,
+   "sort": 4,
+   "name": "アイリ色のひみつ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "爱理色的秘密",
+     "url": "https://www.bilibili.com/bangumi/play/ep15575",
+     "time": "2011-10-26T02:18:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 119955,
+   "sort": 5,
+   "name": "あなた色のメイドです",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "君色的女仆",
+     "url": "https://www.bilibili.com/bangumi/play/ep15574",
+     "time": "2011-11-02T04:32:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 119956,
+   "sort": 6,
+   "name": "てさぐり色のバスタイム",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "探索色的洗澡时间",
+     "url": "https://www.bilibili.com/bangumi/play/ep15573",
+     "time": "2011-11-09T02:58:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 119957,
+   "sort": 7,
+   "name": "たそがれ色のブランコ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "黄昏色的秋千",
+     "url": "https://www.bilibili.com/bangumi/play/ep15572",
+     "time": "2011-11-16T07:31:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 119958,
+   "sort": 8,
+   "name": "こねこ色の黒と白",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "幼猫色的黑白",
+     "url": "https://www.bilibili.com/bangumi/play/ep15571",
+     "time": "2011-11-23T02:06:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 119959,
+   "sort": 9,
+   "name": "おなじ色のフタリ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "相同色的二人",
+     "url": "https://www.bilibili.com/bangumi/play/ep15570",
+     "time": "2011-11-30T01:09:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 119960,
+   "sort": 10,
+   "name": "なみだ色の雨やどり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "眼泪色的避雨",
+     "url": "https://www.bilibili.com/bangumi/play/ep15569",
+     "time": "2011-12-07T01:30:50.000Z"
+    }
+   ]
+  },
+  {
+   "id": 119961,
+   "sort": 11,
+   "name": "ましろ色シンフォニー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "纯白交响曲",
+     "url": "https://www.bilibili.com/bangumi/play/ep15568",
+     "time": "2011-12-14T05:09:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 135684,
+   "sort": 12,
+   "name": "はじまり色の季節",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "起始色的季节",
+     "url": "https://www.bilibili.com/bangumi/play/ep15567",
+     "time": "2011-12-21T00:51:39.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,27 @@
-{"id":"175581","name":"ゼーガペイン ADP","sites":[{"site":"bilibili","id":"5926","sort":1}],"eps":[{"id":860130,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep101608","time":"2017-02-08T02:54:00.000Z"}]}]}
+{
+ "id": "175581",
+ "name": "ゼーガペイン ADP",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5926",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 860130,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep101608",
+     "time": "2017-02-08T02:54:00.000Z"
+    }
+   ]
+  }
+ ]
+}

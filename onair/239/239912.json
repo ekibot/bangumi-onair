@@ -1,1 +1,349 @@
-{"id":"239912","name":"キャロル&チューズデイ","sites":[{"site":"bilibili","id":"24097891","sort":26}],"eps":[{"id":872295,"sort":1,"name":"True Colors","sites":[{"site":"bilibili","sort":1,"title":"True Colors","url":"https://www.bilibili.com/bangumi/play/ep267692","time":"2019-04-10T20:30:00.000Z"}]},{"id":872296,"sort":2,"name":"Born to Run","sites":[{"site":"bilibili","sort":2,"title":"Born to Run","url":"https://www.bilibili.com/bangumi/play/ep269568","time":"2019-04-17T20:30:00.000Z"}]},{"id":872297,"sort":3,"name":"Fire and Rain","sites":[{"site":"bilibili","sort":3,"title":"Fire and Rain","url":"https://www.bilibili.com/bangumi/play/ep269569","time":"2019-04-24T20:30:00.000Z"}]},{"id":872298,"sort":4,"name":"Video Killed the Radio Star","sites":[{"site":"bilibili","sort":4,"title":"Video Killed the Radio Star","url":"https://www.bilibili.com/bangumi/play/ep269570","time":"2019-05-01T20:30:00.000Z"}]},{"id":872299,"sort":5,"name":"Every Breath You Take","sites":[{"site":"bilibili","sort":5,"title":"Every Breath You Take","url":"https://www.bilibili.com/bangumi/play/ep269571","time":"2019-05-08T20:30:00.000Z"}]},{"id":872300,"sort":6,"name":"Life is A Carnival","sites":[{"site":"bilibili","sort":6,"title":"Life is a Carnival","url":"https://www.bilibili.com/bangumi/play/ep269572","time":"2019-05-15T20:30:00.000Z"}]},{"id":872301,"sort":7,"name":"Show Me The Way","sites":[{"site":"bilibili","sort":7,"title":"Show Me The Way","url":"https://www.bilibili.com/bangumi/play/ep269573","time":"2019-05-22T20:30:00.000Z"}]},{"id":872302,"sort":8,"name":"All The Young Dudes","sites":[{"site":"bilibili","sort":8,"title":"All The Young Dudes","url":"https://www.bilibili.com/bangumi/play/ep269574","time":"2019-05-29T20:30:00.000Z"}]},{"id":872303,"sort":9,"name":"Dancing Queen","sites":[{"site":"bilibili","sort":9,"title":"Dancing Queen","url":"https://www.bilibili.com/bangumi/play/ep269575","time":"2019-06-05T20:30:00.000Z"}]},{"id":872304,"sort":10,"name":"River Deep, Mountain High","sites":[{"site":"bilibili","sort":10,"title":"River Deep，Mountain High","url":"https://www.bilibili.com/bangumi/play/ep269576","time":"2019-06-12T20:30:00.000Z"}]},{"id":872305,"sort":11,"name":"With or Without You","sites":[{"site":"bilibili","sort":11,"title":"With or Without You","url":"https://www.bilibili.com/bangumi/play/ep269577","time":"2019-06-19T20:30:00.000Z"}]},{"id":872306,"sort":12,"name":"We've Only Just Begun","sites":[{"site":"bilibili","sort":12,"title":"We've Only Just Begun","url":"https://www.bilibili.com/bangumi/play/ep269578","time":"2019-06-26T20:30:00.000Z"}]},{"id":872307,"sort":13,"name":"Walk This Way","sites":[{"site":"bilibili","sort":13,"title":"Walk This Way","url":"https://www.bilibili.com/bangumi/play/ep269580","time":"2019-07-10T20:30:00.000Z"}]},{"id":872308,"sort":14,"name":"The Kids are Alright","sites":[{"site":"bilibili","sort":14,"title":"The Kids are Alright","url":"https://www.bilibili.com/bangumi/play/ep269581","time":"2019-07-17T20:30:00.000Z"}]},{"id":872309,"sort":15,"name":"God Only Knows","sites":[{"site":"bilibili","sort":15,"title":"God Only Knows","url":"https://www.bilibili.com/bangumi/play/ep269582","time":"2019-07-31T20:30:00.000Z"}]},{"id":872310,"sort":16,"name":"A Natural Woman","sites":[{"site":"bilibili","sort":16,"title":"A Natural Woman","url":"https://www.bilibili.com/bangumi/play/ep269583","time":"2019-08-07T20:30:00.000Z"}]},{"id":872311,"sort":17,"name":"Head Over Heels","sites":[{"site":"bilibili","sort":17,"title":"Head Over Heels","url":"https://www.bilibili.com/bangumi/play/ep269584","time":"2019-08-14T20:30:00.000Z"}]},{"id":872312,"sort":18,"name":"Only Love Can Break Your Heart","sites":[{"site":"bilibili","sort":18,"title":"Only Love Can Break Your Heart","url":"https://www.bilibili.com/bangumi/play/ep269585","time":"2019-08-21T20:30:00.000Z"}]},{"id":872313,"sort":19,"name":"People Get Ready","sites":[{"site":"bilibili","sort":19,"title":"People Get Ready","url":"https://www.bilibili.com/bangumi/play/ep269586","time":"2019-08-28T20:30:00.000Z"}]},{"id":872314,"sort":20,"name":"Immigrant Song","sites":[{"site":"bilibili","sort":20,"title":"Immigrant Song","url":"https://www.bilibili.com/bangumi/play/ep269587","time":"2019-09-04T20:30:00.000Z"}]},{"id":872315,"sort":21,"name":"It's Too Late","sites":[{"site":"bilibili","sort":21,"title":"It's Too Late","url":"https://www.bilibili.com/bangumi/play/ep269588","time":"2019-09-11T20:30:00.000Z"}]},{"id":872316,"sort":22,"name":"Just Like Heaven","sites":[{"site":"bilibili","sort":22,"title":"Just Like Heaven","url":"https://www.bilibili.com/bangumi/play/ep269589","time":"2019-09-18T20:30:00.000Z"}]},{"id":872317,"sort":23,"name":"Don’t Stop Believin’","sites":[{"site":"bilibili","sort":23,"title":"Don't Stop Believin'","url":"https://www.bilibili.com/bangumi/play/ep269590","time":"2019-09-25T20:30:00.000Z"}]},{"id":872318,"sort":24,"name":"A Change is Gonna Come","sites":[{"site":"bilibili","sort":24,"title":"A Change is Gonna Come","url":"https://www.bilibili.com/bangumi/play/ep283827","time":"2019-10-02T20:30:00.000Z"}]}]}
+{
+ "id": "239912",
+ "name": "キャロル&チューズデイ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "24097891",
+   "sort": 26
+  }
+ ],
+ "eps": [
+  {
+   "id": 872295,
+   "sort": 1,
+   "name": "True Colors",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "True Colors",
+     "url": "https://www.bilibili.com/bangumi/play/ep267692",
+     "time": "2019-04-10T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872296,
+   "sort": 2,
+   "name": "Born to Run",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "Born to Run",
+     "url": "https://www.bilibili.com/bangumi/play/ep269568",
+     "time": "2019-04-17T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872297,
+   "sort": 3,
+   "name": "Fire and Rain",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Fire and Rain",
+     "url": "https://www.bilibili.com/bangumi/play/ep269569",
+     "time": "2019-04-24T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872298,
+   "sort": 4,
+   "name": "Video Killed the Radio Star",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Video Killed the Radio Star",
+     "url": "https://www.bilibili.com/bangumi/play/ep269570",
+     "time": "2019-05-01T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872299,
+   "sort": 5,
+   "name": "Every Breath You Take",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Every Breath You Take",
+     "url": "https://www.bilibili.com/bangumi/play/ep269571",
+     "time": "2019-05-08T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872300,
+   "sort": 6,
+   "name": "Life is A Carnival",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Life is a Carnival",
+     "url": "https://www.bilibili.com/bangumi/play/ep269572",
+     "time": "2019-05-15T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872301,
+   "sort": 7,
+   "name": "Show Me The Way",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "Show Me The Way",
+     "url": "https://www.bilibili.com/bangumi/play/ep269573",
+     "time": "2019-05-22T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872302,
+   "sort": 8,
+   "name": "All The Young Dudes",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "All The Young Dudes",
+     "url": "https://www.bilibili.com/bangumi/play/ep269574",
+     "time": "2019-05-29T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872303,
+   "sort": 9,
+   "name": "Dancing Queen",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "Dancing Queen",
+     "url": "https://www.bilibili.com/bangumi/play/ep269575",
+     "time": "2019-06-05T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872304,
+   "sort": 10,
+   "name": "River Deep, Mountain High",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "River Deep，Mountain High",
+     "url": "https://www.bilibili.com/bangumi/play/ep269576",
+     "time": "2019-06-12T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872305,
+   "sort": 11,
+   "name": "With or Without You",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "With or Without You",
+     "url": "https://www.bilibili.com/bangumi/play/ep269577",
+     "time": "2019-06-19T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872306,
+   "sort": 12,
+   "name": "We've Only Just Begun",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "We've Only Just Begun",
+     "url": "https://www.bilibili.com/bangumi/play/ep269578",
+     "time": "2019-06-26T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872307,
+   "sort": 13,
+   "name": "Walk This Way",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "Walk This Way",
+     "url": "https://www.bilibili.com/bangumi/play/ep269580",
+     "time": "2019-07-10T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872308,
+   "sort": 14,
+   "name": "The Kids are Alright",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "The Kids are Alright",
+     "url": "https://www.bilibili.com/bangumi/play/ep269581",
+     "time": "2019-07-17T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872309,
+   "sort": 15,
+   "name": "God Only Knows",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "God Only Knows",
+     "url": "https://www.bilibili.com/bangumi/play/ep269582",
+     "time": "2019-07-31T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872310,
+   "sort": 16,
+   "name": "A Natural Woman",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "A Natural Woman",
+     "url": "https://www.bilibili.com/bangumi/play/ep269583",
+     "time": "2019-08-07T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872311,
+   "sort": 17,
+   "name": "Head Over Heels",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "Head Over Heels",
+     "url": "https://www.bilibili.com/bangumi/play/ep269584",
+     "time": "2019-08-14T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872312,
+   "sort": 18,
+   "name": "Only Love Can Break Your Heart",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "Only Love Can Break Your Heart",
+     "url": "https://www.bilibili.com/bangumi/play/ep269585",
+     "time": "2019-08-21T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872313,
+   "sort": 19,
+   "name": "People Get Ready",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "People Get Ready",
+     "url": "https://www.bilibili.com/bangumi/play/ep269586",
+     "time": "2019-08-28T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872314,
+   "sort": 20,
+   "name": "Immigrant Song",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "Immigrant Song",
+     "url": "https://www.bilibili.com/bangumi/play/ep269587",
+     "time": "2019-09-04T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872315,
+   "sort": 21,
+   "name": "It's Too Late",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "It's Too Late",
+     "url": "https://www.bilibili.com/bangumi/play/ep269588",
+     "time": "2019-09-11T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872316,
+   "sort": 22,
+   "name": "Just Like Heaven",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "Just Like Heaven",
+     "url": "https://www.bilibili.com/bangumi/play/ep269589",
+     "time": "2019-09-18T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872317,
+   "sort": 23,
+   "name": "Don’t Stop Believin’",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "Don't Stop Believin'",
+     "url": "https://www.bilibili.com/bangumi/play/ep269590",
+     "time": "2019-09-25T20:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 872318,
+   "sort": 24,
+   "name": "A Change is Gonna Come",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "A Change is Gonna Come",
+     "url": "https://www.bilibili.com/bangumi/play/ep283827",
+     "time": "2019-10-02T20:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

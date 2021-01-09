@@ -1,1 +1,26 @@
-{"id":"6816","name":"いばらの王 -King of Thorn-","sites":[{"site":"qq","id":"m/mzc00200iv63n9k","sort":1}],"eps":[{"id":55923,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"古城荆棘王","url":"https://v.qq.com/x/cover/mzc00200iv63n9k/w3021lmygrc.html"}]}]}
+{
+ "id": "6816",
+ "name": "いばらの王 -King of Thorn-",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "m/mzc00200iv63n9k",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 55923,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "古城荆棘王",
+     "url": "https://v.qq.com/x/cover/mzc00200iv63n9k/k00349p047f.html"
+    }
+   ]
+  }
+ ]
+}

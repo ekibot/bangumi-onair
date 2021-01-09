@@ -1,1 +1,27 @@
-{"id":"1868","name":"灼眼のシャナ特別編 「恋と温泉の校外学習！」","sites":[{"site":"bilibili","id":"1607","sort":1}],"eps":[{"id":9024,"sort":1,"name":"恋と温泉の校外学習！","sites":[{"site":"bilibili","sort":1,"title":"恋爱与温泉的校外学习","url":"https://www.bilibili.com/bangumi/play/ep29439","time":"2015-02-06T06:26:10.000Z"}]}]}
+{
+ "id": "1868",
+ "name": "灼眼のシャナ特別編 「恋と温泉の校外学習！」",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1607",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 9024,
+   "sort": 1,
+   "name": "恋と温泉の校外学習！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "恋爱与温泉的校外学习",
+     "url": "https://www.bilibili.com/bangumi/play/ep29439",
+     "time": "2015-02-06T06:26:10.000Z"
+    }
+   ]
+  }
+ ]
+}

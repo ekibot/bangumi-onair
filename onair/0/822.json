@@ -1,1 +1,144 @@
-{"id":"822","name":"フリクリ","sites":[{"site":"bilibili","id":"2988","sort":6},{"site":"iqiyi","id":"a_19rrh7p811","sort":6}],"eps":[{"id":3470,"sort":1,"name":"フリクリ","sites":[{"site":"bilibili","sort":1,"title":"Furikuri","url":"https://www.bilibili.com/bangumi/play/ep77567","time":"2015-11-10T12:02:57.000Z"},{"site":"iqiyi","sort":1,"title":"Furikuri","url":"http://www.iqiyi.com/v_19rrekrxqk.html","time":"2017-11-30T10:13:43.000Z"}]},{"id":3471,"sort":2,"name":"ファイスタ","sites":[{"site":"bilibili","sort":2,"title":"Faisuta","url":"https://www.bilibili.com/bangumi/play/ep77568","time":"2015-11-10T12:02:57.000Z"},{"site":"iqiyi","sort":2,"title":"Faisuta","url":"http://www.iqiyi.com/v_19rrekrwug.html","time":"2017-11-30T10:13:53.000Z"}]},{"id":3472,"sort":3,"name":"マルラバ","sites":[{"site":"bilibili","sort":3,"title":"Maruraba","url":"https://www.bilibili.com/bangumi/play/ep77569","time":"2015-11-10T12:02:57.000Z"},{"site":"iqiyi","sort":3,"title":"Maruraba","url":"http://www.iqiyi.com/v_19rrekrwb0.html","time":"2017-11-30T10:14:03.000Z"}]},{"id":3473,"sort":4,"name":"フリキリ","sites":[{"site":"bilibili","sort":4,"title":"Furikiri","url":"https://www.bilibili.com/bangumi/play/ep77570","time":"2015-11-10T12:02:57.000Z"},{"site":"iqiyi","sort":4,"title":"Furikiri","url":"http://www.iqiyi.com/v_19rrekrm1w.html","time":"2017-11-30T10:14:09.000Z"}]},{"id":3474,"sort":5,"name":"ブラブレ","sites":[{"site":"bilibili","sort":5,"title":"Buraburu","url":"https://www.bilibili.com/bangumi/play/ep77571","time":"2015-11-10T12:02:57.000Z"},{"site":"iqiyi","sort":5,"title":"Buraburu","url":"http://www.iqiyi.com/v_19rrekro94.html","time":"2017-11-30T10:14:16.000Z"}]},{"id":3475,"sort":6,"name":"フリクラ","sites":[{"site":"bilibili","sort":6,"title":"Furikura","url":"https://www.bilibili.com/bangumi/play/ep77572","time":"2015-11-10T12:02:57.000Z"},{"site":"iqiyi","sort":6,"title":"Furikura","url":"http://www.iqiyi.com/v_19rrekrnm8.html","time":"2017-11-30T10:14:26.000Z"}]}]}
+{
+ "id": "822",
+ "name": "フリクリ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2988",
+   "sort": 6
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh7p811",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 3470,
+   "sort": 1,
+   "name": "フリクリ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Furikuri",
+     "url": "https://www.bilibili.com/bangumi/play/ep77567",
+     "time": "2015-11-10T12:02:57.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "Furikuri",
+     "url": "http://www.iqiyi.com/v_19rrekrxqk.html",
+     "time": "2017-11-30T10:13:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3471,
+   "sort": 2,
+   "name": "ファイスタ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "Faisuta",
+     "url": "https://www.bilibili.com/bangumi/play/ep77568",
+     "time": "2015-11-10T12:02:57.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "Faisuta",
+     "url": "http://www.iqiyi.com/v_19rrekrwug.html",
+     "time": "2017-11-30T10:13:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3472,
+   "sort": 3,
+   "name": "マルラバ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Maruraba",
+     "url": "https://www.bilibili.com/bangumi/play/ep77569",
+     "time": "2015-11-10T12:02:57.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "Maruraba",
+     "url": "http://www.iqiyi.com/v_19rrekrwb0.html",
+     "time": "2017-11-30T10:14:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3473,
+   "sort": 4,
+   "name": "フリキリ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Furikiri",
+     "url": "https://www.bilibili.com/bangumi/play/ep77570",
+     "time": "2015-11-10T12:02:57.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "Furikiri",
+     "url": "http://www.iqiyi.com/v_19rrekrm1w.html",
+     "time": "2017-11-30T10:14:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3474,
+   "sort": 5,
+   "name": "ブラブレ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Buraburu",
+     "url": "https://www.bilibili.com/bangumi/play/ep77571",
+     "time": "2015-11-10T12:02:57.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "Buraburu",
+     "url": "http://www.iqiyi.com/v_19rrekro94.html",
+     "time": "2017-11-30T10:14:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3475,
+   "sort": 6,
+   "name": "フリクラ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Furikura",
+     "url": "https://www.bilibili.com/bangumi/play/ep77572",
+     "time": "2015-11-10T12:02:57.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "Furikura",
+     "url": "http://www.iqiyi.com/v_19rrekrnm8.html",
+     "time": "2017-11-30T10:14:26.000Z"
+    }
+   ]
+  }
+ ]
+}

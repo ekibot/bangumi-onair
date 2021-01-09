@@ -1,1 +1,69 @@
-{"id":"112649","name":"古町と団五郎","sites":[{"site":"bilibili","id":"4277","sort":4}],"eps":[{"id":428835,"sort":1,"name":"ラグーンストーンを探せ！","sites":[{"site":"bilibili","sort":1,"title":"寻找潟石！","url":"https://www.bilibili.com/bangumi/play/ep88657","time":"2016-06-01T03:34:39.000Z"}]},{"id":428836,"sort":2,"name":"謎の巨大魚をつかまえろ！","sites":[{"site":"bilibili","sort":2,"title":"抓住迷之巨鱼！","url":"https://www.bilibili.com/bangumi/play/ep88658","time":"2016-06-01T03:34:39.000Z"}]},{"id":613733,"sort":3,"name":"光る鯛車を取り戻せ！","sites":[{"site":"bilibili","sort":3,"title":"取回发光的鲷鱼车！","url":"https://www.bilibili.com/bangumi/play/ep88659","time":"2016-06-01T03:34:53.000Z"}]},{"id":613734,"sort":4,"name":"夢のビーチ♡古町のアイドルオーディション！","sites":[{"site":"bilibili","sort":4,"title":"梦的海滩❤古町的偶像选拔！","url":"https://www.bilibili.com/bangumi/play/ep88660","time":"2016-06-01T03:34:53.000Z"}]}]}
+{
+ "id": "112649",
+ "name": "古町と団五郎",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4277",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 428835,
+   "sort": 1,
+   "name": "ラグーンストーンを探せ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "寻找潟石！",
+     "url": "https://www.bilibili.com/bangumi/play/ep88657",
+     "time": "2016-06-01T03:34:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 428836,
+   "sort": 2,
+   "name": "謎の巨大魚をつかまえろ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "抓住迷之巨鱼！",
+     "url": "https://www.bilibili.com/bangumi/play/ep88658",
+     "time": "2016-06-01T03:34:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 613733,
+   "sort": 3,
+   "name": "光る鯛車を取り戻せ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "取回发光的鲷鱼车！",
+     "url": "https://www.bilibili.com/bangumi/play/ep88659",
+     "time": "2016-06-01T03:34:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 613734,
+   "sort": 4,
+   "name": "夢のビーチ♡古町のアイドルオーディション！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "梦的海滩❤古町的偶像选拔！",
+     "url": "https://www.bilibili.com/bangumi/play/ep88660",
+     "time": "2016-06-01T03:34:53.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,49 @@
-{"id":"84501","name":"夏目友人帳 いつかゆきのひに","sites":[{"site":"iqiyi","id":"a_19rrh9hxl1","sort":1},{"site":"qq","id":"z/z2tp25sjzxa4200","sort":1},{"site":"bilibili","id":"3446","sort":2}],"eps":[{"id":322591,"sort":1,"name":"いつかゆきのひに","sites":[{"site":"iqiyi","sort":1,"title":"夏目友人帐 第4季 OVA 曾几何时下雪之日","url":"http://www.iqiyi.com/v_19rrbb52b0.html","time":"2017-04-12T06:05:29.000Z"},{"site":"qq","sort":1,"title":"曾几何时下雪之日","url":"https://v.qq.com/x/cover/z2tp25sjzxa4200/b0031b4pwbi.html"},{"site":"bilibili","sort":1,"title":"夏目友人帐 和猫咪老师的第一次跑腿","url":"https://www.bilibili.com/bangumi/play/ep85191","time":"2016-03-17T08:21:00.000Z"}]}]}
+{
+ "id": "84501",
+ "name": "夏目友人帳 いつかゆきのひに",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "z/z2tp25sjzxa4200",
+   "sort": 1
+  },
+  {
+   "site": "youku",
+   "id": "7043b282362e11e3a705",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "3446",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 322591,
+   "sort": 1,
+   "name": "いつかゆきのひに",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "曾几何时下雪之日",
+     "url": "https://v.qq.com/x/cover/z2tp25sjzxa4200/b0031b4pwbi.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "曾几何时下雪之日",
+     "url": "https://v.youku.com/v_show/id_XMjcwMTEzMTUwMA==.html?s=7043b282362e11e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "夏目友人帐 和猫咪老师的第一次跑腿",
+     "url": "https://www.bilibili.com/bangumi/play/ep85191",
+     "time": "2016-03-17T08:21:00.000Z"
+    }
+   ]
+  }
+ ]
+}

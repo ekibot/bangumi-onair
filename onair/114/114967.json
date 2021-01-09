@@ -1,1 +1,153 @@
-{"id":"114967","name":"デュラララ!!×2 転","sites":[{"site":"bilibili","id":"2595","sort":12},{"site":"qq","id":"4/4gmobofw9fltve9","sort":34},{"site":"iqiyi","id":"a_19rrhb5awh","sort":12}],"eps":[{"id":537976,"sort":13,"name":"汝の敵を愛せよ","sites":[{"site":"qq","sort":13,"title":"无头骑士异闻录第2季_13","url":"https://v.qq.com/x/cover/4gmobofw9fltve9/d0016dbug8h.html"}]},{"id":537977,"sort":14,"name":"邯鄲の夢","sites":[{"site":"qq","sort":14,"title":"无头骑士异闻录第2季_14","url":"https://v.qq.com/x/cover/4gmobofw9fltve9/e0017ubt00i.html"}]},{"id":537978,"sort":15,"name":"縁は異なもの、味なもの","sites":[{"site":"qq","sort":15,"title":"无头骑士异闻录第2季_15","url":"https://v.qq.com/x/cover/4gmobofw9fltve9/t00174mdnzl.html"}]},{"id":537980,"sort":17,"name":"寝ても覚めても","sites":[{"site":"qq","sort":17,"title":"无头骑士异闻录第2季_17","url":"https://v.qq.com/x/cover/4gmobofw9fltve9/i00176hl15e.html"}]},{"id":537981,"sort":18,"name":"花に嵐","sites":[{"site":"qq","sort":18,"title":"无头骑士异闻录第2季_18","url":"https://v.qq.com/x/cover/4gmobofw9fltve9/x0017gw6cn4.html"}]},{"id":537983,"sort":20,"name":"口に蜜、心に針","sites":[{"site":"qq","sort":20,"title":"无头骑士异闻录第2季_20","url":"https://v.qq.com/x/cover/4gmobofw9fltve9/x0017yrblpv.html"}]},{"id":537984,"sort":21,"name":"口八丁手八丁","sites":[{"site":"qq","sort":21,"title":"无头骑士异闻录第2季_21","url":"https://v.qq.com/x/cover/4gmobofw9fltve9/p00171bvu9e.html"}]},{"id":537985,"sort":22,"name":"愚か者に福あり","sites":[{"site":"qq","sort":22,"title":"无头骑士异闻录第2季_22","url":"https://v.qq.com/x/cover/4gmobofw9fltve9/w001786vt75.html"}]},{"id":537986,"sort":23,"name":"同じ穴の狢","sites":[{"site":"qq","sort":23,"title":"无头骑士异闻录第2季_23","url":"https://v.qq.com/x/cover/4gmobofw9fltve9/t0018arlwlh.html"}]},{"id":537987,"sort":24,"name":"蛇の道は蛇","sites":[{"site":"qq","sort":24,"title":"无头骑士异闻录第2季_24","url":"https://v.qq.com/x/cover/4gmobofw9fltve9/b00183f24ag.html"}]}]}
+{
+ "id": "114967",
+ "name": "デュラララ!!×2 転",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2595",
+   "sort": 12
+  },
+  {
+   "site": "qq",
+   "id": "4/4gmobofw9fltve9",
+   "sort": 34
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhb5awh",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 537976,
+   "sort": 13,
+   "name": "汝の敵を愛せよ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "无头骑士异闻录第2季_13",
+     "url": "https://v.qq.com/x/cover/4gmobofw9fltve9/d0016dbug8h.html"
+    }
+   ]
+  },
+  {
+   "id": 537977,
+   "sort": 14,
+   "name": "邯鄲の夢",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 14,
+     "title": "无头骑士异闻录第2季_14",
+     "url": "https://v.qq.com/x/cover/4gmobofw9fltve9/e0017ubt00i.html"
+    }
+   ]
+  },
+  {
+   "id": 537978,
+   "sort": 15,
+   "name": "縁は異なもの、味なもの",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 15,
+     "title": "无头骑士异闻录第2季_15",
+     "url": "https://v.qq.com/x/cover/4gmobofw9fltve9/t00174mdnzl.html"
+    }
+   ]
+  },
+  {
+   "id": 537980,
+   "sort": 17,
+   "name": "寝ても覚めても",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 17,
+     "title": "无头骑士异闻录第2季_17",
+     "url": "https://v.qq.com/x/cover/4gmobofw9fltve9/i00176hl15e.html"
+    }
+   ]
+  },
+  {
+   "id": 537981,
+   "sort": 18,
+   "name": "花に嵐",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 18,
+     "title": "无头骑士异闻录第2季_18",
+     "url": "https://v.qq.com/x/cover/4gmobofw9fltve9/x0017gw6cn4.html"
+    }
+   ]
+  },
+  {
+   "id": 537983,
+   "sort": 20,
+   "name": "口に蜜、心に針",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 20,
+     "title": "无头骑士异闻录第2季_20",
+     "url": "https://v.qq.com/x/cover/4gmobofw9fltve9/x0017yrblpv.html"
+    }
+   ]
+  },
+  {
+   "id": 537984,
+   "sort": 21,
+   "name": "口八丁手八丁",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 21,
+     "title": "无头骑士异闻录第2季_21",
+     "url": "https://v.qq.com/x/cover/4gmobofw9fltve9/p00171bvu9e.html"
+    }
+   ]
+  },
+  {
+   "id": 537985,
+   "sort": 22,
+   "name": "愚か者に福あり",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 22,
+     "title": "无头骑士异闻录第2季_22",
+     "url": "https://v.qq.com/x/cover/4gmobofw9fltve9/w001786vt75.html"
+    }
+   ]
+  },
+  {
+   "id": 537986,
+   "sort": 23,
+   "name": "同じ穴の狢",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 23,
+     "title": "无头骑士异闻录第2季_23",
+     "url": "https://v.qq.com/x/cover/4gmobofw9fltve9/t0018arlwlh.html"
+    }
+   ]
+  },
+  {
+   "id": 537987,
+   "sort": 24,
+   "name": "蛇の道は蛇",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 24,
+     "title": "无头骑士异闻录第2季_24",
+     "url": "https://v.qq.com/x/cover/4gmobofw9fltve9/b00183f24ag.html"
+    }
+   ]
+  }
+ ]
+}

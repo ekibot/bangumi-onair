@@ -1,1 +1,70 @@
-{"id":"3022","name":"劇場版ポケットモンスター ミュウツーの逆襲","sites":[{"site":"iqiyi","id":"a_19rrhb8sh9","sort":21},{"site":"qq","id":"e/ejr0xfirssdm33y","sort":19},{"site":"bilibili","id":"5758","sort":1}],"eps":[{"id":133740,"sort":1,"name":"ミュウツーの誕生","sites":[{"site":"iqiyi","sort":1,"title":"超梦的逆袭","url":"http://www.iqiyi.com/v_19rrobr42w.html","time":"2015-09-17T05:39:45.000Z"},{"site":"qq","sort":1,"title":"精灵宝可梦1998剧场版：超梦的逆袭","url":"https://v.qq.com/x/cover/ejr0xfirssdm33y/f0016nuw81n.html"},{"site":"bilibili","sort":1,"title":"【剧场版】精灵宝可梦剧场版1 超梦的逆袭","url":"https://www.bilibili.com/bangumi/play/ep97475","time":"2016-12-07T06:54:04.000Z"}]},{"id":133741,"sort":2,"name":"サトシの旅立ち","sites":[{"site":"iqiyi","sort":2,"title":"洛奇亚爆诞；皮卡丘的探险队","url":"http://www.iqiyi.com/v_19rrobr69g.html","time":"2015-09-17T05:39:45.000Z"},{"site":"qq","sort":2,"title":"精灵宝可梦1999剧场版：梦幻的精灵宝可梦 洛奇亚爆诞","url":"https://v.qq.com/x/cover/ejr0xfirssdm33y/x0016w862tv.html"}]}]}
+{
+ "id": "3022",
+ "name": "劇場版ポケットモンスター ミュウツーの逆襲",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhb8sh9",
+   "sort": 21
+  },
+  {
+   "site": "qq",
+   "id": "e/ejr0xfirssdm33y",
+   "sort": 19
+  },
+  {
+   "site": "bilibili",
+   "id": "5758",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 133740,
+   "sort": 1,
+   "name": "ミュウツーの誕生",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "超梦的逆袭",
+     "url": "http://www.iqiyi.com/v_19rrobr42w.html",
+     "time": "2015-09-17T05:39:45.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "精灵宝可梦1998剧场版：超梦的逆袭",
+     "url": "https://v.qq.com/x/cover/ejr0xfirssdm33y/f0016nuw81n.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "【剧场版】精灵宝可梦剧场版1 超梦的逆袭",
+     "url": "https://www.bilibili.com/bangumi/play/ep97475",
+     "time": "2016-12-07T06:54:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 133741,
+   "sort": 2,
+   "name": "サトシの旅立ち",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "洛奇亚爆诞；皮卡丘的探险队",
+     "url": "http://www.iqiyi.com/v_19rrobr69g.html",
+     "time": "2015-09-17T05:39:45.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "精灵宝可梦1999剧场版：梦幻的精灵宝可梦 洛奇亚爆诞",
+     "url": "https://v.qq.com/x/cover/ejr0xfirssdm33y/x0016w862tv.html"
+    }
+   ]
+  }
+ ]
+}

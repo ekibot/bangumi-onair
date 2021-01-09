@@ -1,1 +1,195 @@
-{"id":"246429","name":"BanG Dream! 2nd Season","sites":[{"site":"bilibili","id":"4762002","sort":13}],"eps":[{"id":847317,"sort":1,"name":"Happy Party!","sites":[{"site":"bilibili","sort":1,"title":"Happy Party!","url":"https://www.bilibili.com/bangumi/play/ep259794","time":"2019-01-03T15:30:00.000Z"}]},{"id":847318,"sort":2,"name":"黒き咆哮","sites":[{"site":"bilibili","sort":2,"title":"黑色咆哮","url":"https://www.bilibili.com/bangumi/play/ep259795","time":"2019-01-10T15:30:00.000Z"}]},{"id":847319,"sort":3,"name":"Sing Girls","sites":[{"site":"bilibili","sort":3,"title":"Sing Girls","url":"https://www.bilibili.com/bangumi/play/ep259796","time":"2019-01-17T15:30:00.000Z"}]},{"id":847320,"sort":4,"name":"ゴーカ！ごーかい！？のっびのびワールド！","sites":[{"site":"bilibili","sort":4,"title":"豪华！爽快！？活力的世界！","url":"https://www.bilibili.com/bangumi/play/ep259797","time":"2019-01-24T15:30:00.000Z"}]},{"id":847321,"sort":5,"name":"雨のRing-Dong-Dance","sites":[{"site":"bilibili","sort":5,"title":"雨中的圆舞曲","url":"https://www.bilibili.com/bangumi/play/ep259798","time":"2019-01-31T15:30:00.000Z"}]},{"id":847322,"sort":6,"name":"You Only Live Once","sites":[{"site":"bilibili","sort":6,"title":"时光不再来","url":"https://www.bilibili.com/bangumi/play/ep259799","time":"2019-02-07T15:30:00.000Z"}]},{"id":847323,"sort":7,"name":"ナカナ　イナ　カナイ","sites":[{"site":"bilibili","sort":7,"title":"我不 哭我 不哭","url":"https://www.bilibili.com/bangumi/play/ep259800","time":"2019-02-14T15:30:00.000Z"}]},{"id":847324,"sort":8,"name":"ひとりじゃないんだから","sites":[{"site":"bilibili","sort":8,"title":"只因不是孤身一人","url":"https://www.bilibili.com/bangumi/play/ep259801","time":"2019-02-21T15:30:00.000Z"}]},{"id":847325,"sort":9,"name":"スクール・フェスティバル・シンフォニー","sites":[{"site":"bilibili","sort":9,"title":"校园文化节交响曲","url":"https://www.bilibili.com/bangumi/play/ep259802","time":"2019-02-28T15:30:00.000Z"}]},{"id":847326,"sort":10,"name":"R·I·O·T","sites":[{"site":"bilibili","sort":10,"title":"R·I·O·T","url":"https://www.bilibili.com/bangumi/play/ep259803","time":"2019-03-07T15:30:00.000Z"}]},{"id":847327,"sort":11,"name":"ホシノナミダ","sites":[{"site":"bilibili","sort":11,"title":"星辰的泪水","url":"https://www.bilibili.com/bangumi/play/ep259804","time":"2019-03-14T15:30:00.000Z"}]},{"id":847328,"sort":12,"name":"Returns","sites":[{"site":"bilibili","sort":12,"title":"Returns","url":"https://www.bilibili.com/bangumi/play/ep259805","time":"2019-03-21T15:30:00.000Z"}]},{"id":847329,"sort":13,"name":"キズナミュージック♪","sites":[{"site":"bilibili","sort":13,"title":"友谊的华丽乐章","url":"https://www.bilibili.com/bangumi/play/ep265614","time":"2019-03-28T15:30:00.000Z"}]}]}
+{
+ "id": "246429",
+ "name": "BanG Dream! 2nd Season",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4762002",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 847317,
+   "sort": 1,
+   "name": "Happy Party!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Happy Party!",
+     "url": "https://www.bilibili.com/bangumi/play/ep259794",
+     "time": "2019-01-03T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 847318,
+   "sort": 2,
+   "name": "黒き咆哮",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "黑色咆哮",
+     "url": "https://www.bilibili.com/bangumi/play/ep259795",
+     "time": "2019-01-10T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 847319,
+   "sort": 3,
+   "name": "Sing Girls",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Sing Girls",
+     "url": "https://www.bilibili.com/bangumi/play/ep259796",
+     "time": "2019-01-17T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 847320,
+   "sort": 4,
+   "name": "ゴーカ！ごーかい！？のっびのびワールド！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "豪华！爽快！？活力的世界！",
+     "url": "https://www.bilibili.com/bangumi/play/ep259797",
+     "time": "2019-01-24T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 847321,
+   "sort": 5,
+   "name": "雨のRing-Dong-Dance",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "雨中的圆舞曲",
+     "url": "https://www.bilibili.com/bangumi/play/ep259798",
+     "time": "2019-01-31T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 847322,
+   "sort": 6,
+   "name": "You Only Live Once",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "时光不再来",
+     "url": "https://www.bilibili.com/bangumi/play/ep259799",
+     "time": "2019-02-07T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 847323,
+   "sort": 7,
+   "name": "ナカナ　イナ　カナイ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "我不 哭我 不哭",
+     "url": "https://www.bilibili.com/bangumi/play/ep259800",
+     "time": "2019-02-14T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 847324,
+   "sort": 8,
+   "name": "ひとりじゃないんだから",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "只因不是孤身一人",
+     "url": "https://www.bilibili.com/bangumi/play/ep259801",
+     "time": "2019-02-21T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 847325,
+   "sort": 9,
+   "name": "スクール・フェスティバル・シンフォニー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "校园文化节交响曲",
+     "url": "https://www.bilibili.com/bangumi/play/ep259802",
+     "time": "2019-02-28T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 847326,
+   "sort": 10,
+   "name": "R·I·O·T",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "R·I·O·T",
+     "url": "https://www.bilibili.com/bangumi/play/ep259803",
+     "time": "2019-03-07T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 847327,
+   "sort": 11,
+   "name": "ホシノナミダ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "星辰的泪水",
+     "url": "https://www.bilibili.com/bangumi/play/ep259804",
+     "time": "2019-03-14T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 847328,
+   "sort": 12,
+   "name": "Returns",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "Returns",
+     "url": "https://www.bilibili.com/bangumi/play/ep259805",
+     "time": "2019-03-21T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 847329,
+   "sort": 13,
+   "name": "キズナミュージック♪",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "友谊的华丽乐章",
+     "url": "https://www.bilibili.com/bangumi/play/ep265614",
+     "time": "2019-03-28T15:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

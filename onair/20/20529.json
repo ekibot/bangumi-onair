@@ -1,1 +1,195 @@
-{"id":"20529","name":"RAY THE ANIMATION","sites":[{"site":"bilibili","id":"1482","sort":13}],"eps":[{"id":111069,"sort":1,"name":"神の目","sites":[{"site":"bilibili","sort":1,"title":"神的眼睛","url":"https://www.bilibili.com/bangumi/play/ep27798","time":"2012-05-27T15:09:31.000Z"}]},{"id":111070,"sort":2,"name":"パートナー","sites":[{"site":"bilibili","sort":2,"title":"伙伴","url":"https://www.bilibili.com/bangumi/play/ep27799","time":"2012-05-27T15:09:31.000Z"}]},{"id":111071,"sort":3,"name":"ガラス越しの風景","sites":[{"site":"bilibili","sort":3,"title":"玻璃窗外的风景","url":"https://www.bilibili.com/bangumi/play/ep27800","time":"2012-05-27T15:09:31.000Z"}]},{"id":111072,"sort":4,"name":"赤いリボン","sites":[{"site":"bilibili","sort":4,"title":"红色丝带","url":"https://www.bilibili.com/bangumi/play/ep27801","time":"2012-05-27T15:09:31.000Z"}]},{"id":111073,"sort":5,"name":"成り代わり","sites":[{"site":"bilibili","sort":5,"title":"替代","url":"https://www.bilibili.com/bangumi/play/ep27802","time":"2012-05-27T15:09:31.000Z"}]},{"id":111074,"sort":6,"name":"贈りもの","sites":[{"site":"bilibili","sort":6,"title":"赠品","url":"https://www.bilibili.com/bangumi/play/ep27803","time":"2012-05-27T15:09:31.000Z"}]},{"id":111075,"sort":7,"name":"想い人","sites":[{"site":"bilibili","sort":7,"title":"思念的人","url":"https://www.bilibili.com/bangumi/play/ep27804","time":"2012-05-27T15:09:31.000Z"}]},{"id":111076,"sort":8,"name":"蠢く過去","sites":[{"site":"bilibili","sort":8,"title":"蠢蠢欲动的过去","url":"https://www.bilibili.com/bangumi/play/ep27805","time":"2012-05-27T15:09:31.000Z"}]},{"id":111077,"sort":9,"name":"現し身","sites":[{"site":"bilibili","sort":9,"title":"身影显露","url":"https://www.bilibili.com/bangumi/play/ep27806","time":"2012-05-27T15:09:31.000Z"}]},{"id":111078,"sort":10,"name":"再会","sites":[{"site":"bilibili","sort":10,"title":"重逢","url":"https://www.bilibili.com/bangumi/play/ep27807","time":"2012-05-27T15:09:31.000Z"}]},{"id":111079,"sort":11,"name":"哀してる…","sites":[{"site":"bilibili","sort":11,"title":"悲伤","url":"https://www.bilibili.com/bangumi/play/ep27808","time":"2012-05-27T15:09:31.000Z"}]},{"id":111080,"sort":12,"name":"嘆きの楽園","sites":[{"site":"bilibili","sort":12,"title":"叹息的乐园","url":"https://www.bilibili.com/bangumi/play/ep27809","time":"2012-05-27T15:09:31.000Z"}]},{"id":111081,"sort":13,"name":"命","sites":[{"site":"bilibili","sort":13,"title":"命","url":"https://www.bilibili.com/bangumi/play/ep27810","time":"2012-05-27T15:09:31.000Z"}]}]}
+{
+ "id": "20529",
+ "name": "RAY THE ANIMATION",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1482",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 111069,
+   "sort": 1,
+   "name": "神の目",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "神的眼睛",
+     "url": "https://www.bilibili.com/bangumi/play/ep27798",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 111070,
+   "sort": 2,
+   "name": "パートナー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "伙伴",
+     "url": "https://www.bilibili.com/bangumi/play/ep27799",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 111071,
+   "sort": 3,
+   "name": "ガラス越しの風景",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "玻璃窗外的风景",
+     "url": "https://www.bilibili.com/bangumi/play/ep27800",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 111072,
+   "sort": 4,
+   "name": "赤いリボン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "红色丝带",
+     "url": "https://www.bilibili.com/bangumi/play/ep27801",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 111073,
+   "sort": 5,
+   "name": "成り代わり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "替代",
+     "url": "https://www.bilibili.com/bangumi/play/ep27802",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 111074,
+   "sort": 6,
+   "name": "贈りもの",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "赠品",
+     "url": "https://www.bilibili.com/bangumi/play/ep27803",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 111075,
+   "sort": 7,
+   "name": "想い人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "思念的人",
+     "url": "https://www.bilibili.com/bangumi/play/ep27804",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 111076,
+   "sort": 8,
+   "name": "蠢く過去",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "蠢蠢欲动的过去",
+     "url": "https://www.bilibili.com/bangumi/play/ep27805",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 111077,
+   "sort": 9,
+   "name": "現し身",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "身影显露",
+     "url": "https://www.bilibili.com/bangumi/play/ep27806",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 111078,
+   "sort": 10,
+   "name": "再会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "重逢",
+     "url": "https://www.bilibili.com/bangumi/play/ep27807",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 111079,
+   "sort": 11,
+   "name": "哀してる…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "悲伤",
+     "url": "https://www.bilibili.com/bangumi/play/ep27808",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 111080,
+   "sort": 12,
+   "name": "嘆きの楽園",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "叹息的乐园",
+     "url": "https://www.bilibili.com/bangumi/play/ep27809",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 111081,
+   "sort": 13,
+   "name": "命",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "命",
+     "url": "https://www.bilibili.com/bangumi/play/ep27810",
+     "time": "2012-05-27T15:09:31.000Z"
+    }
+   ]
+  }
+ ]
+}

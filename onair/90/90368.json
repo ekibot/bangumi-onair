@@ -1,1 +1,50 @@
-{"id":"90368","name":"ポケモン・ザ・ムービーXY 破壊の繭とディアンシー","sites":[{"site":"iqiyi","id":"a_19rrhb8sh9","sort":21},{"site":"bilibili","id":"6389","sort":1},{"site":"youku","id":"ed78a85ca74911e3a705","sort":1}],"eps":[{"id":875165,"sort":1,"name":"ポケモン・ザ・ムービーXY 破壊の繭とディアンシー","sites":[{"site":"iqiyi","sort":1,"title":"超梦的逆袭","url":"http://www.iqiyi.com/v_19rrobr42w.html","time":"2015-09-17T05:39:45.000Z"},{"site":"bilibili","sort":1,"title":"破坏之茧与蒂安希","url":"https://www.bilibili.com/bangumi/play/ep113990","time":"2017-08-08T06:24:51.000Z"}]}]}
+{
+ "id": "90368",
+ "name": "ポケモン・ザ・ムービーXY 破壊の繭とディアンシー",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhb8sh9",
+   "sort": 21
+  },
+  {
+   "site": "bilibili",
+   "id": "6389",
+   "sort": 1
+  },
+  {
+   "site": "youku",
+   "id": "ed78a85ca74911e3a705",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 875165,
+   "sort": 1,
+   "name": "ポケモン・ザ・ムービーXY 破壊の繭とディアンシー",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "超梦的逆袭",
+     "url": "http://www.iqiyi.com/v_19rrobr42w.html",
+     "time": "2015-09-17T05:39:45.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "破坏之茧与蒂安希",
+     "url": "https://www.bilibili.com/bangumi/play/ep113990",
+     "time": "2017-08-08T06:24:51.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "精灵宝可梦 破坏之茧与蒂安希",
+     "url": "https://v.youku.com/v_show/id_XMTQ3NDI3OTg2OA==.html?s=ed78a85ca74911e3a705"
+    }
+   ]
+  }
+ ]
+}

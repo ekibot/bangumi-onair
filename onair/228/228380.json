@@ -1,1 +1,181 @@
-{"id":"228380","name":"ピアノの森(TVシリーズ)","sites":[{"site":"bilibili","id":"78372","sort":12}],"eps":[{"id":787418,"sort":1,"name":"選ばれた手","sites":[{"site":"bilibili","sort":1,"title":"被选中的手","url":"https://www.bilibili.com/bangumi/play/ep200482","time":"2018-04-08T18:40:00.000Z"}]},{"id":787419,"sort":2,"name":"ショパンを弾くために","sites":[{"site":"bilibili","sort":2,"title":"为了弹奏肖邦的曲子","url":"https://www.bilibili.com/bangumi/play/ep200483","time":"2018-04-15T18:40:00.000Z"}]},{"id":787420,"sort":3,"name":"モーツァルトの遺言","sites":[{"site":"bilibili","sort":3,"title":"莫扎特的遗言","url":"https://www.bilibili.com/bangumi/play/ep200484","time":"2018-04-22T18:40:00.000Z"}]},{"id":787421,"sort":4,"name":"一番のピアノ","sites":[{"site":"bilibili","sort":4,"title":"最棒的演奏","url":"https://www.bilibili.com/bangumi/play/ep200485","time":"2018-04-29T18:40:00.000Z"}]},{"id":787422,"sort":5,"name":"コンクールの神様","sites":[{"site":"bilibili","sort":5,"title":"大赛的神明","url":"https://www.bilibili.com/bangumi/play/ep200486","time":"2018-05-06T18:40:00.000Z"}]},{"id":787423,"sort":6,"name":"森のピアノ","sites":[{"site":"bilibili","sort":6,"title":"森林里的钢琴","url":"https://www.bilibili.com/bangumi/play/ep200487","time":"2018-05-13T18:40:00.000Z"}]},{"id":787424,"sort":7,"name":"再会","sites":[{"site":"bilibili","sort":7,"title":"重逢","url":"https://www.bilibili.com/bangumi/play/ep200488","time":"2018-05-20T18:40:00.000Z"}]},{"id":787425,"sort":8,"name":"挑戦状","sites":[{"site":"bilibili","sort":8,"title":"挑战书","url":"https://www.bilibili.com/bangumi/play/ep200489","time":"2018-05-27T18:40:00.000Z"}]},{"id":787426,"sort":9,"name":"ワルシャワの胎動","sites":[{"site":"bilibili","sort":9,"title":"华沙的胎动","url":"https://www.bilibili.com/bangumi/play/ep200490","time":"2018-06-03T18:40:00.000Z"}]},{"id":787427,"sort":10,"name":"ショパン・コンクール","sites":[{"site":"bilibili","sort":10,"title":"肖邦大赛","url":"https://www.bilibili.com/bangumi/play/ep200491","time":"2018-06-10T18:40:00.000Z"}]},{"id":787428,"sort":11,"name":"ポーランドの新星","sites":[{"site":"bilibili","sort":11,"title":"波兰的新星","url":"https://www.bilibili.com/bangumi/play/ep200492","time":"2018-06-24T18:40:00.000Z"}]},{"id":787429,"sort":12,"name":"fff(フォルティッシッシモ)","sites":[{"site":"bilibili","sort":12,"title":"fff（Forte Fortissimo）","url":"https://www.bilibili.com/bangumi/play/ep200493","time":"2018-07-01T18:39:59.000Z"}]}]}
+{
+ "id": "228380",
+ "name": "ピアノの森(TVシリーズ)",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "78372",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 787418,
+   "sort": 1,
+   "name": "選ばれた手",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "被选中的手",
+     "url": "https://www.bilibili.com/bangumi/play/ep200482",
+     "time": "2018-04-08T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787419,
+   "sort": 2,
+   "name": "ショパンを弾くために",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "为了弹奏肖邦的曲子",
+     "url": "https://www.bilibili.com/bangumi/play/ep200483",
+     "time": "2018-04-15T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787420,
+   "sort": 3,
+   "name": "モーツァルトの遺言",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "莫扎特的遗言",
+     "url": "https://www.bilibili.com/bangumi/play/ep200484",
+     "time": "2018-04-22T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787421,
+   "sort": 4,
+   "name": "一番のピアノ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "最棒的演奏",
+     "url": "https://www.bilibili.com/bangumi/play/ep200485",
+     "time": "2018-04-29T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787422,
+   "sort": 5,
+   "name": "コンクールの神様",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "大赛的神明",
+     "url": "https://www.bilibili.com/bangumi/play/ep200486",
+     "time": "2018-05-06T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787423,
+   "sort": 6,
+   "name": "森のピアノ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "森林里的钢琴",
+     "url": "https://www.bilibili.com/bangumi/play/ep200487",
+     "time": "2018-05-13T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787424,
+   "sort": 7,
+   "name": "再会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "重逢",
+     "url": "https://www.bilibili.com/bangumi/play/ep200488",
+     "time": "2018-05-20T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787425,
+   "sort": 8,
+   "name": "挑戦状",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "挑战书",
+     "url": "https://www.bilibili.com/bangumi/play/ep200489",
+     "time": "2018-05-27T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787426,
+   "sort": 9,
+   "name": "ワルシャワの胎動",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "华沙的胎动",
+     "url": "https://www.bilibili.com/bangumi/play/ep200490",
+     "time": "2018-06-03T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787427,
+   "sort": 10,
+   "name": "ショパン・コンクール",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "肖邦大赛",
+     "url": "https://www.bilibili.com/bangumi/play/ep200491",
+     "time": "2018-06-10T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787428,
+   "sort": 11,
+   "name": "ポーランドの新星",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "波兰的新星",
+     "url": "https://www.bilibili.com/bangumi/play/ep200492",
+     "time": "2018-06-24T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787429,
+   "sort": 12,
+   "name": "fff(フォルティッシッシモ)",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "fff（Forte Fortissimo）",
+     "url": "https://www.bilibili.com/bangumi/play/ep200493",
+     "time": "2018-07-01T18:39:59.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,83 @@
-{"id":"189638","name":"ちばペダル","sites":[{"site":"bilibili","id":"5405","sort":5}],"eps":[{"id":656302,"sort":1,"name":"自転車は「車」の仲間","sites":[{"site":"bilibili","sort":1,"title":"自行车是汽车的伙伴","url":"https://www.bilibili.com/bangumi/play/ep94226","time":"2016-07-29T10:44:48.000Z"}]},{"id":656303,"sort":2,"name":"歩道は歩行者優先","sites":[{"site":"bilibili","sort":2,"title":"人行道上请让行人先行","url":"https://www.bilibili.com/bangumi/play/ep94227","time":"2016-07-29T10:45:06.000Z"}]},{"id":656304,"sort":3,"name":"その乗り方、危険です","sites":[{"site":"bilibili","sort":3,"title":"这种骑车方法很危险哟","url":"https://www.bilibili.com/bangumi/play/ep94228","time":"2016-07-29T10:45:24.000Z"}]},{"id":656305,"sort":4,"name":"自分の愛車を整備しよう","sites":[{"site":"bilibili","sort":4,"title":"事先保养好自己的爱车","url":"https://www.bilibili.com/bangumi/play/ep95021","time":"2016-08-12T02:06:06.000Z"}]},{"id":656306,"sort":5,"name":"自転車の放置はやめましょう","sites":[{"site":"bilibili","sort":5,"title":"不要随意停放自行车","url":"https://www.bilibili.com/bangumi/play/ep95616","time":"2016-08-29T04:25:56.000Z"}]}]}
+{
+ "id": "189638",
+ "name": "ちばペダル",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5405",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 656302,
+   "sort": 1,
+   "name": "自転車は「車」の仲間",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "自行车是汽车的伙伴",
+     "url": "https://www.bilibili.com/bangumi/play/ep94226",
+     "time": "2016-07-29T10:44:48.000Z"
+    }
+   ]
+  },
+  {
+   "id": 656303,
+   "sort": 2,
+   "name": "歩道は歩行者優先",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "人行道上请让行人先行",
+     "url": "https://www.bilibili.com/bangumi/play/ep94227",
+     "time": "2016-07-29T10:45:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 656304,
+   "sort": 3,
+   "name": "その乗り方、危険です",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "这种骑车方法很危险哟",
+     "url": "https://www.bilibili.com/bangumi/play/ep94228",
+     "time": "2016-07-29T10:45:24.000Z"
+    }
+   ]
+  },
+  {
+   "id": 656305,
+   "sort": 4,
+   "name": "自分の愛車を整備しよう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "事先保养好自己的爱车",
+     "url": "https://www.bilibili.com/bangumi/play/ep95021",
+     "time": "2016-08-12T02:06:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 656306,
+   "sort": 5,
+   "name": "自転車の放置はやめましょう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "不要随意停放自行车",
+     "url": "https://www.bilibili.com/bangumi/play/ep95616",
+     "time": "2016-08-29T04:25:56.000Z"
+    }
+   ]
+  }
+ ]
+}

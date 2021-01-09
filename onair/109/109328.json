@@ -1,1 +1,258 @@
-{"id":"109328","name":"結城友奈は勇者である","sites":[{"site":"bilibili","id":"95992","sort":12},{"site":"qq","id":"z/zh02dih6uczmc8m","sort":12}],"eps":[{"id":435598,"sort":1,"name":"乙女の真心","sites":[{"site":"bilibili","sort":1,"title":"少女的真心","url":"https://www.bilibili.com/bangumi/play/ep206997","time":"2018-06-05T02:55:51.000Z"},{"site":"qq","sort":1,"title":"结城友奈是勇者_01","url":"https://v.qq.com/x/cover/zh02dih6uczmc8m/j00333ih87k.html"}]},{"id":435599,"sort":2,"name":"ろうたけたる思い","sites":[{"site":"bilibili","sort":2,"title":"美丽而文雅的思念","url":"https://www.bilibili.com/bangumi/play/ep206998","time":"2018-06-05T02:55:51.000Z"},{"site":"qq","sort":2,"title":"结城友奈是勇者_02","url":"https://v.qq.com/x/cover/zh02dih6uczmc8m/u0033ogap2t.html"}]},{"id":435600,"sort":3,"name":"風格ある振る舞い","sites":[{"site":"bilibili","sort":3,"title":"风度翩翩","url":"https://www.bilibili.com/bangumi/play/ep206999","time":"2018-06-05T02:55:51.000Z"},{"site":"qq","sort":3,"title":"结城友奈是勇者_03","url":"https://v.qq.com/x/cover/zh02dih6uczmc8m/u0033xudn6g.html"}]},{"id":435601,"sort":4,"name":"輝く心","sites":[{"site":"bilibili","sort":4,"title":"闪耀的心","url":"https://www.bilibili.com/bangumi/play/ep207000","time":"2018-06-05T02:55:51.000Z"},{"site":"qq","sort":4,"title":"结城友奈是勇者_04","url":"https://v.qq.com/x/cover/zh02dih6uczmc8m/a0033amzcm6.html"}]},{"id":435602,"sort":5,"name":"困難に打ち勝つ","sites":[{"site":"bilibili","sort":5,"title":"战胜困难","url":"https://www.bilibili.com/bangumi/play/ep207001","time":"2018-06-05T02:55:51.000Z"},{"site":"qq","sort":5,"title":"结城友奈是勇者_05","url":"https://v.qq.com/x/cover/zh02dih6uczmc8m/j0033t78589.html"}]},{"id":435603,"sort":6,"name":"明日に期待して","sites":[{"site":"bilibili","sort":6,"title":"期待明天","url":"https://www.bilibili.com/bangumi/play/ep207002","time":"2018-06-05T02:55:51.000Z"},{"site":"qq","sort":6,"title":"结城友奈是勇者_06","url":"https://v.qq.com/x/cover/zh02dih6uczmc8m/l0033g6prr0.html"}]},{"id":435604,"sort":7,"name":"牧歌的な喜び","sites":[{"site":"bilibili","sort":7,"title":"田园般的喜悦","url":"https://www.bilibili.com/bangumi/play/ep207003","time":"2018-06-05T02:55:51.000Z"},{"site":"qq","sort":7,"title":"结城友奈是勇者_07","url":"https://v.qq.com/x/cover/zh02dih6uczmc8m/g0033lgmmbb.html"}]},{"id":435605,"sort":8,"name":"神の祝福","sites":[{"site":"bilibili","sort":8,"title":"神的祝福","url":"https://www.bilibili.com/bangumi/play/ep207004","time":"2018-06-05T02:55:51.000Z"},{"site":"qq","sort":8,"title":"结城友奈是勇者_08","url":"https://v.qq.com/x/cover/zh02dih6uczmc8m/a00338u8fan.html"}]},{"id":435606,"sort":9,"name":"心の痛みを判る人","sites":[{"site":"bilibili","sort":9,"title":"明白心痛的人","url":"https://www.bilibili.com/bangumi/play/ep207005","time":"2018-06-05T02:55:51.000Z"},{"site":"qq","sort":9,"title":"结城友奈是勇者_09","url":"https://v.qq.com/x/cover/zh02dih6uczmc8m/t00332lcb98.html"}]},{"id":435607,"sort":10,"name":"愛情の絆","sites":[{"site":"bilibili","sort":10,"title":"爱的牵绊","url":"https://www.bilibili.com/bangumi/play/ep207006","time":"2018-06-05T02:55:51.000Z"},{"site":"qq","sort":10,"title":"结城友奈是勇者_10","url":"https://v.qq.com/x/cover/zh02dih6uczmc8m/y0033h6xl4s.html"}]},{"id":435608,"sort":11,"name":"情熱","sites":[{"site":"bilibili","sort":11,"title":"热情","url":"https://www.bilibili.com/bangumi/play/ep207007","time":"2018-06-05T02:55:51.000Z"},{"site":"qq","sort":11,"title":"结城友奈是勇者_11","url":"https://v.qq.com/x/cover/zh02dih6uczmc8m/c0033yte44x.html"}]},{"id":435609,"sort":12,"name":"貴方に微笑む","sites":[{"site":"bilibili","sort":12,"title":"向你微笑","url":"https://www.bilibili.com/bangumi/play/ep207008","time":"2018-06-05T02:55:51.000Z"},{"site":"qq","sort":12,"title":"结城友奈是勇者_12","url":"https://v.qq.com/x/cover/zh02dih6uczmc8m/r0033kdlw8i.html"}]}]}
+{
+ "id": "109328",
+ "name": "結城友奈は勇者である",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "95992",
+   "sort": 12
+  },
+  {
+   "site": "qq",
+   "id": "z/zh02dih6uczmc8m",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 435598,
+   "sort": 1,
+   "name": "乙女の真心",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "少女的真心",
+     "url": "https://www.bilibili.com/bangumi/play/ep206997",
+     "time": "2018-06-05T02:55:51.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "结城友奈是勇者_01",
+     "url": "https://v.qq.com/x/cover/zh02dih6uczmc8m/j00333ih87k.html"
+    }
+   ]
+  },
+  {
+   "id": 435599,
+   "sort": 2,
+   "name": "ろうたけたる思い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "美丽而文雅的思念",
+     "url": "https://www.bilibili.com/bangumi/play/ep206998",
+     "time": "2018-06-05T02:55:51.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "结城友奈是勇者_02",
+     "url": "https://v.qq.com/x/cover/zh02dih6uczmc8m/u0033ogap2t.html"
+    }
+   ]
+  },
+  {
+   "id": 435600,
+   "sort": 3,
+   "name": "風格ある振る舞い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "风度翩翩",
+     "url": "https://www.bilibili.com/bangumi/play/ep206999",
+     "time": "2018-06-05T02:55:51.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "结城友奈是勇者_03",
+     "url": "https://v.qq.com/x/cover/zh02dih6uczmc8m/u0033xudn6g.html"
+    }
+   ]
+  },
+  {
+   "id": 435601,
+   "sort": 4,
+   "name": "輝く心",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "闪耀的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep207000",
+     "time": "2018-06-05T02:55:51.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "结城友奈是勇者_04",
+     "url": "https://v.qq.com/x/cover/zh02dih6uczmc8m/a0033amzcm6.html"
+    }
+   ]
+  },
+  {
+   "id": 435602,
+   "sort": 5,
+   "name": "困難に打ち勝つ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "战胜困难",
+     "url": "https://www.bilibili.com/bangumi/play/ep207001",
+     "time": "2018-06-05T02:55:51.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "结城友奈是勇者_05",
+     "url": "https://v.qq.com/x/cover/zh02dih6uczmc8m/j0033t78589.html"
+    }
+   ]
+  },
+  {
+   "id": 435603,
+   "sort": 6,
+   "name": "明日に期待して",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "期待明天",
+     "url": "https://www.bilibili.com/bangumi/play/ep207002",
+     "time": "2018-06-05T02:55:51.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "结城友奈是勇者_06",
+     "url": "https://v.qq.com/x/cover/zh02dih6uczmc8m/l0033g6prr0.html"
+    }
+   ]
+  },
+  {
+   "id": 435604,
+   "sort": 7,
+   "name": "牧歌的な喜び",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "田园般的喜悦",
+     "url": "https://www.bilibili.com/bangumi/play/ep207003",
+     "time": "2018-06-05T02:55:51.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "结城友奈是勇者_07",
+     "url": "https://v.qq.com/x/cover/zh02dih6uczmc8m/g0033lgmmbb.html"
+    }
+   ]
+  },
+  {
+   "id": 435605,
+   "sort": 8,
+   "name": "神の祝福",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "神的祝福",
+     "url": "https://www.bilibili.com/bangumi/play/ep207004",
+     "time": "2018-06-05T02:55:51.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "结城友奈是勇者_08",
+     "url": "https://v.qq.com/x/cover/zh02dih6uczmc8m/a00338u8fan.html"
+    }
+   ]
+  },
+  {
+   "id": 435606,
+   "sort": 9,
+   "name": "心の痛みを判る人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "明白心痛的人",
+     "url": "https://www.bilibili.com/bangumi/play/ep207005",
+     "time": "2018-06-05T02:55:51.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "结城友奈是勇者_09",
+     "url": "https://v.qq.com/x/cover/zh02dih6uczmc8m/t00332lcb98.html"
+    }
+   ]
+  },
+  {
+   "id": 435607,
+   "sort": 10,
+   "name": "愛情の絆",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "爱的牵绊",
+     "url": "https://www.bilibili.com/bangumi/play/ep207006",
+     "time": "2018-06-05T02:55:51.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "结城友奈是勇者_10",
+     "url": "https://v.qq.com/x/cover/zh02dih6uczmc8m/y0033h6xl4s.html"
+    }
+   ]
+  },
+  {
+   "id": 435608,
+   "sort": 11,
+   "name": "情熱",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "热情",
+     "url": "https://www.bilibili.com/bangumi/play/ep207007",
+     "time": "2018-06-05T02:55:51.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "结城友奈是勇者_11",
+     "url": "https://v.qq.com/x/cover/zh02dih6uczmc8m/c0033yte44x.html"
+    }
+   ]
+  },
+  {
+   "id": 435609,
+   "sort": 12,
+   "name": "貴方に微笑む",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "向你微笑",
+     "url": "https://www.bilibili.com/bangumi/play/ep207008",
+     "time": "2018-06-05T02:55:51.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "结城友奈是勇者_12",
+     "url": "https://v.qq.com/x/cover/zh02dih6uczmc8m/r0033kdlw8i.html"
+    }
+   ]
+  }
+ ]
+}

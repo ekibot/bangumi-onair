@@ -1,1 +1,139 @@
-{"id":"887","name":"空を見上げる少女の瞳に映る世界","sites":[{"site":"bilibili","id":"1117","sort":9}],"eps":[{"id":1330,"sort":1,"name":"知ること","sites":[{"site":"bilibili","sort":1,"title":"知道","url":"https://www.bilibili.com/bangumi/play/ep19940","time":"2012-10-15T04:40:21.000Z"}]},{"id":1331,"sort":2,"name":"逃げること","sites":[{"site":"bilibili","sort":2,"title":"逃跑","url":"https://www.bilibili.com/bangumi/play/ep19941","time":"2012-10-15T04:40:21.000Z"}]},{"id":1332,"sort":3,"name":"立ち向かうこと","sites":[{"site":"bilibili","sort":3,"title":"请求","url":"https://www.bilibili.com/bangumi/play/ep19942","time":"2012-10-15T04:40:21.000Z"}]},{"id":1333,"sort":4,"name":"求めること","sites":[{"site":"bilibili","sort":4,"title":"寻求","url":"https://www.bilibili.com/bangumi/play/ep19943","time":"2012-10-15T04:40:21.000Z"}]},{"id":1334,"sort":5,"name":"迷うこと","sites":[{"site":"bilibili","sort":5,"title":"迷失","url":"https://www.bilibili.com/bangumi/play/ep19944","time":"2012-10-15T04:40:21.000Z"}]},{"id":1335,"sort":6,"name":"信じること","sites":[{"site":"bilibili","sort":6,"title":"相信","url":"https://www.bilibili.com/bangumi/play/ep19945","time":"2012-10-15T04:40:21.000Z"}]},{"id":1336,"sort":7,"name":"許すこと","sites":[{"site":"bilibili","sort":7,"title":"原谅","url":"https://www.bilibili.com/bangumi/play/ep19946","time":"2012-10-15T04:40:21.000Z"}]},{"id":1337,"sort":8,"name":"諦めないこと","sites":[{"site":"bilibili","sort":8,"title":"不能放弃","url":"https://www.bilibili.com/bangumi/play/ep19947","time":"2012-10-15T04:40:21.000Z"}]},{"id":1338,"sort":9,"name":"愛すること","sites":[{"site":"bilibili","sort":9,"title":"爱","url":"https://www.bilibili.com/bangumi/play/ep19948","time":"2012-10-15T04:40:21.000Z"}]}]}
+{
+ "id": "887",
+ "name": "空を見上げる少女の瞳に映る世界",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1117",
+   "sort": 9
+  }
+ ],
+ "eps": [
+  {
+   "id": 1330,
+   "sort": 1,
+   "name": "知ること",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "知道",
+     "url": "https://www.bilibili.com/bangumi/play/ep19940",
+     "time": "2012-10-15T04:40:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1331,
+   "sort": 2,
+   "name": "逃げること",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "逃跑",
+     "url": "https://www.bilibili.com/bangumi/play/ep19941",
+     "time": "2012-10-15T04:40:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1332,
+   "sort": 3,
+   "name": "立ち向かうこと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "请求",
+     "url": "https://www.bilibili.com/bangumi/play/ep19942",
+     "time": "2012-10-15T04:40:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1333,
+   "sort": 4,
+   "name": "求めること",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "寻求",
+     "url": "https://www.bilibili.com/bangumi/play/ep19943",
+     "time": "2012-10-15T04:40:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1334,
+   "sort": 5,
+   "name": "迷うこと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "迷失",
+     "url": "https://www.bilibili.com/bangumi/play/ep19944",
+     "time": "2012-10-15T04:40:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1335,
+   "sort": 6,
+   "name": "信じること",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "相信",
+     "url": "https://www.bilibili.com/bangumi/play/ep19945",
+     "time": "2012-10-15T04:40:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1336,
+   "sort": 7,
+   "name": "許すこと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "原谅",
+     "url": "https://www.bilibili.com/bangumi/play/ep19946",
+     "time": "2012-10-15T04:40:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1337,
+   "sort": 8,
+   "name": "諦めないこと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "不能放弃",
+     "url": "https://www.bilibili.com/bangumi/play/ep19947",
+     "time": "2012-10-15T04:40:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1338,
+   "sort": 9,
+   "name": "愛すること",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "爱",
+     "url": "https://www.bilibili.com/bangumi/play/ep19948",
+     "time": "2012-10-15T04:40:21.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"id":"315574","name":"ウマ娘 プリティーダービー Season 2","sites":[{"site":"bilibili","id":"28232238","week":1,"time":"2300","sort":3}],"eps":[{"id":996731,"sort":1,"name":"トウカイテイオー","sites":[{"site":"bilibili","sort":1,"title":"东海帝皇","url":"https://www.bilibili.com/bangumi/play/ep374306","time":"2021-01-04T15:00:01.000Z"}]}]}
+{
+ "id": "315574",
+ "name": "ウマ娘 プリティーダービー Season 2",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28232238",
+   "week": 1,
+   "time": "2300",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 996731,
+   "sort": 1,
+   "name": "トウカイテイオー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "东海帝皇",
+     "url": "https://www.bilibili.com/bangumi/play/ep374306",
+     "time": "2021-01-04T15:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

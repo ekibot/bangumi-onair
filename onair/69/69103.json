@@ -1,0 +1,286 @@
+{
+ "id": "69103",
+ "name": "となりの関くん",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "b302b478144711e38b3f",
+   "sort": 21
+  }
+ ],
+ "eps": [
+  {
+   "id": 355101,
+   "sort": 1,
+   "name": "ドミノ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 多米诺",
+     "url": "https://v.youku.com/v_show/id_XNjU2NTExMjcy.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 355102,
+   "sort": 2,
+   "name": "将棋",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 将棋",
+     "url": "https://v.youku.com/v_show/id_XNjU5OTg5Mzg0.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 355103,
+   "sort": 3,
+   "name": "机みがき",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 打磨课桌",
+     "url": "https://v.youku.com/v_show/id_XNjYzMjYwMzA4.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 355104,
+   "sort": 4,
+   "name": "囲碁",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 围棋",
+     "url": "https://v.youku.com/v_show/id_XNjY0ODY1Njc2.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 355105,
+   "sort": 5,
+   "name": "消しゴムはんこ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 橡皮印章",
+     "url": "https://v.youku.com/v_show/id_XNjY3MTkzMDg0.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 355106,
+   "sort": 6,
+   "name": "避難訓練",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 避难演习",
+     "url": "https://v.youku.com/v_show/id_XNjcwMjAzNTI0.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 355107,
+   "sort": 7,
+   "name": "手紙まわし",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 传纸条",
+     "url": "https://v.youku.com/v_show/id_XNjcxMjEwMTIw.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 355108,
+   "sort": 8,
+   "name": "将棋②",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 将棋②",
+     "url": "https://v.youku.com/v_show/id_XNjc1MjQwNTQ4.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 355109,
+   "sort": 9,
+   "name": "編み物",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 毛织",
+     "url": "https://v.youku.com/v_show/id_XNjc4MjE2Mjky.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 355110,
+   "sort": 10,
+   "name": "ゴルフ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 高尔夫",
+     "url": "https://v.youku.com/v_show/id_XNjgwNjk5Nzcy.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 355111,
+   "sort": 11,
+   "name": "登山",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 登山",
+     "url": "https://v.youku.com/v_show/id_XNjg0MDc0NjYw.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 355112,
+   "sort": 12,
+   "name": "ラジコン",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 遥控车",
+     "url": "https://v.youku.com/v_show/id_XNjg4MTIyMzI4.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 386588,
+   "sort": 13,
+   "name": "プール",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 13,
+     "title": "第13话 泳池",
+     "url": "https://v.youku.com/v_show/id_XNjkxMjA3OTgw.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 390161,
+   "sort": 14,
+   "name": "お弁当",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 14,
+     "title": "第14话 便当",
+     "url": "https://v.youku.com/v_show/id_XNjkzOTU3MzYw.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 390718,
+   "sort": 15,
+   "name": "紙ずもう",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 15,
+     "title": "第15话 纸人相扑",
+     "url": "https://v.youku.com/v_show/id_XNjk2MDUyMjYw.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 390719,
+   "sort": 16,
+   "name": "将棋VSチェス",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 16,
+     "title": "第16话 将棋VS国际象棋",
+     "url": "https://v.youku.com/v_show/id_XNjk5OTMwNzE2.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 390720,
+   "sort": 17,
+   "name": "福笑い",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 17,
+     "title": "第17话 蒙眼摸像",
+     "url": "https://v.youku.com/v_show/id_XNzAyMjQyMzA0.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 390721,
+   "sort": 18,
+   "name": "手品",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 18,
+     "title": "第18话 变戏法",
+     "url": "https://v.youku.com/v_show/id_XNzA1Mjk5NzIw.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 390722,
+   "sort": 19,
+   "name": "眼鏡",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 19,
+     "title": "第19话 眼镜",
+     "url": "https://v.youku.com/v_show/id_XNzA5MjI1MjQ0.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 390723,
+   "sort": 20,
+   "name": "パラパラ漫画",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 20,
+     "title": "第20话 翻页漫画",
+     "url": "https://v.youku.com/v_show/id_XNzExNDYwODky.html?s=b302b478144711e38b3f"
+    }
+   ]
+  },
+  {
+   "id": 390724,
+   "sort": 21,
+   "name": "持ち物検査",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 21,
+     "title": "第21话 随身物品检查",
+     "url": "https://v.youku.com/v_show/id_XNzE0NTMwMDUy.html?s=b302b478144711e38b3f"
+    }
+   ]
+  }
+ ]
+}

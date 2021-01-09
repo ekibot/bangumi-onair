@@ -1,1 +1,175 @@
-{"id":"207195","name":"ゆるキャン△","sites":[],"eps":[{"id":762290,"sort":1,"name":"ふじさんとカレーめん","sites":[{"site":"acfun","sort":1,"title":"第1话","url":"https://www.acfun.cn/bangumi/ab6000991_36188_1707217","time":"2019-12-31T07:07:55.000Z"}]},{"id":762291,"sort":2,"name":"ようこそ野クルへ！","sites":[{"site":"acfun","sort":2,"title":"第2话","url":"https://www.acfun.cn/bangumi/ab6000991_36188_1707218","time":"2019-12-31T07:07:55.000Z"}]},{"id":762292,"sort":3,"name":"ふじさんとまったりお鍋キャンプ","sites":[{"site":"acfun","sort":3,"title":"第3话","url":"https://www.acfun.cn/bangumi/ab6000991_36188_1707219","time":"2019-12-31T07:07:55.000Z"}]},{"id":762293,"sort":4,"name":"野クルとソロキャンプガール","sites":[{"site":"acfun","sort":4,"title":"第4话","url":"https://www.acfun.cn/bangumi/ab6000991_36188_1707220","time":"2019-12-31T07:07:55.000Z"}]},{"id":762294,"sort":5,"name":"二つのキャンプ、二人の景色","sites":[{"site":"acfun","sort":5,"title":"第5话","url":"https://www.acfun.cn/bangumi/ab6000991_36188_1707221","time":"2019-12-31T07:07:55.000Z"}]},{"id":762295,"sort":6,"name":"お肉と紅葉と謎の湖","sites":[{"site":"acfun","sort":6,"title":"第6话","url":"https://www.acfun.cn/bangumi/ab6000991_36188_1707223","time":"2019-12-31T07:07:55.000Z"}]},{"id":762296,"sort":7,"name":"湖畔の夜とキャンプの人々","sites":[{"site":"acfun","sort":7,"title":"第7话","url":"https://www.acfun.cn/bangumi/ab6000991_36188_1707224","time":"2019-12-31T07:07:55.000Z"}]},{"id":762297,"sort":8,"name":"テスト、カリブー、まんじゅううまい","sites":[{"site":"acfun","sort":8,"title":"第8话","url":"https://www.acfun.cn/bangumi/ab6000991_36188_1707225","time":"2019-12-31T07:07:55.000Z"}]},{"id":762298,"sort":9,"name":"なでしこナビと湯けむりの夜","sites":[{"site":"acfun","sort":9,"title":"第9话","url":"https://www.acfun.cn/bangumi/ab6000991_36188_1707226","time":"2019-12-31T07:07:55.000Z"}]},{"id":762299,"sort":10,"name":"旅下手さんとキャンプ会議","sites":[{"site":"acfun","sort":10,"title":"第10话","url":"https://www.acfun.cn/bangumi/ab6000991_36188_1707227","time":"2019-12-31T07:07:55.000Z"}]},{"id":762300,"sort":11,"name":"クリキャン！","sites":[{"site":"acfun","sort":11,"title":"第11话","url":"https://www.acfun.cn/bangumi/ab6000991_36188_1707228","time":"2019-12-31T07:07:55.000Z"}]},{"id":762301,"sort":12,"name":"ふじさんとゆるキャンガール","sites":[{"site":"acfun","sort":12,"title":"第12话","url":"https://www.acfun.cn/bangumi/ab6000991_36188_1707229","time":"2019-12-31T07:07:55.000Z"}]}]}
+{
+ "id": "207195",
+ "name": "ゆるキャン△",
+ "sites": [],
+ "eps": [
+  {
+   "id": 762290,
+   "sort": 1,
+   "name": "ふじさんとカレーめん",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "第1话",
+     "url": "https://www.acfun.cn/bangumi/ab6000991_36188_1707217",
+     "time": "2019-12-31T07:07:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 762291,
+   "sort": 2,
+   "name": "ようこそ野クルへ！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 2,
+     "title": "第2话",
+     "url": "https://www.acfun.cn/bangumi/ab6000991_36188_1707218",
+     "time": "2019-12-31T07:07:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 762292,
+   "sort": 3,
+   "name": "ふじさんとまったりお鍋キャンプ",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 3,
+     "title": "第3话",
+     "url": "https://www.acfun.cn/bangumi/ab6000991_36188_1707219",
+     "time": "2019-12-31T07:07:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 762293,
+   "sort": 4,
+   "name": "野クルとソロキャンプガール",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 4,
+     "title": "第4话",
+     "url": "https://www.acfun.cn/bangumi/ab6000991_36188_1707220",
+     "time": "2019-12-31T07:07:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 762294,
+   "sort": 5,
+   "name": "二つのキャンプ、二人の景色",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 5,
+     "title": "第5话",
+     "url": "https://www.acfun.cn/bangumi/ab6000991_36188_1707221",
+     "time": "2019-12-31T07:07:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 762295,
+   "sort": 6,
+   "name": "お肉と紅葉と謎の湖",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 6,
+     "title": "第6话",
+     "url": "https://www.acfun.cn/bangumi/ab6000991_36188_1707223",
+     "time": "2019-12-31T07:07:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 762296,
+   "sort": 7,
+   "name": "湖畔の夜とキャンプの人々",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 7,
+     "title": "第7话",
+     "url": "https://www.acfun.cn/bangumi/ab6000991_36188_1707224",
+     "time": "2019-12-31T07:07:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 762297,
+   "sort": 8,
+   "name": "テスト、カリブー、まんじゅううまい",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 8,
+     "title": "第8话",
+     "url": "https://www.acfun.cn/bangumi/ab6000991_36188_1707225",
+     "time": "2019-12-31T07:07:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 762298,
+   "sort": 9,
+   "name": "なでしこナビと湯けむりの夜",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 9,
+     "title": "第9话",
+     "url": "https://www.acfun.cn/bangumi/ab6000991_36188_1707226",
+     "time": "2019-12-31T07:07:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 762299,
+   "sort": 10,
+   "name": "旅下手さんとキャンプ会議",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 10,
+     "title": "第10话",
+     "url": "https://www.acfun.cn/bangumi/ab6000991_36188_1707227",
+     "time": "2019-12-31T07:07:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 762300,
+   "sort": 11,
+   "name": "クリキャン！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 11,
+     "title": "第11话",
+     "url": "https://www.acfun.cn/bangumi/ab6000991_36188_1707228",
+     "time": "2019-12-31T07:07:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 762301,
+   "sort": 12,
+   "name": "ふじさんとゆるキャンガール",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 12,
+     "title": "第12话",
+     "url": "https://www.acfun.cn/bangumi/ab6000991_36188_1707229",
+     "time": "2019-12-31T07:07:55.000Z"
+    }
+   ]
+  }
+ ]
+}

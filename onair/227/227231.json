@@ -1,1 +1,181 @@
-{"id":"227231","name":"奴隷区 The Animation","sites":[{"site":"bilibili","id":"78592","sort":12}],"eps":[{"id":787555,"sort":1,"name":"選択 -sentaku-","sites":[{"site":"bilibili","sort":1,"title":"選擇","url":"https://www.bilibili.com/bangumi/play/ep200077","time":"2018-04-12T17:00:00.000Z"}]},{"id":787556,"sort":2,"name":"束縛 -sokubaku-","sites":[{"site":"bilibili","sort":2,"title":"束縛","url":"https://www.bilibili.com/bangumi/play/ep200078","time":"2018-04-19T17:00:00.000Z"}]},{"id":787557,"sort":3,"name":"被虐 -higyaku-","sites":[{"site":"bilibili","sort":3,"title":"受虐","url":"https://www.bilibili.com/bangumi/play/ep200079","time":"2018-04-26T17:00:00.000Z"}]},{"id":787558,"sort":4,"name":"計画 -keikaku-","sites":[{"site":"bilibili","sort":4,"title":"計劃","url":"https://www.bilibili.com/bangumi/play/ep200080","time":"2018-05-03T17:00:00.000Z"}]},{"id":787559,"sort":5,"name":"困惑 -konwaku-","sites":[{"site":"bilibili","sort":5,"title":"困惑","url":"https://www.bilibili.com/bangumi/play/ep200081","time":"2018-05-10T17:00:00.000Z"}]},{"id":787560,"sort":6,"name":"自覚 -jikaku-","sites":[{"site":"bilibili","sort":6,"title":"自覺","url":"https://www.bilibili.com/bangumi/play/ep200082","time":"2018-05-17T17:00:00.000Z"}]},{"id":787561,"sort":7,"name":"隷属 -reizoku-","sites":[{"site":"bilibili","sort":7,"title":"隸屬","url":"https://www.bilibili.com/bangumi/play/ep200083","time":"2018-05-24T17:00:00.000Z"}]},{"id":787562,"sort":8,"name":"発覚 -hakkaku-","sites":[{"site":"bilibili","sort":8,"title":"發覺","url":"https://www.bilibili.com/bangumi/play/ep200084","time":"2018-05-31T17:00:00.000Z"}]},{"id":787563,"sort":9,"name":"交錯 -kousaku-","sites":[{"site":"bilibili","sort":9,"title":"交錯","url":"https://www.bilibili.com/bangumi/play/ep200085","time":"2018-06-07T17:00:00.000Z"}]},{"id":787564,"sort":10,"name":"転落 -tenraku-","sites":[{"site":"bilibili","sort":10,"title":"墜落","url":"https://www.bilibili.com/bangumi/play/ep200086","time":"2018-06-14T17:00:00.000Z"}]},{"id":787565,"sort":11,"name":"収穫 -syukaku-","sites":[{"site":"bilibili","sort":11,"title":"收穫","url":"https://www.bilibili.com/bangumi/play/ep200087","time":"2018-06-21T17:00:00.000Z"}]},{"id":787566,"sort":12,"name":"起爆 -kibaku-","sites":[{"site":"bilibili","sort":12,"title":"起爆","url":"https://www.bilibili.com/bangumi/play/ep200088","time":"2018-06-28T17:00:00.000Z"}]}]}
+{
+ "id": "227231",
+ "name": "奴隷区 The Animation",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "78592",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 787555,
+   "sort": 1,
+   "name": "選択 -sentaku-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "選擇",
+     "url": "https://www.bilibili.com/bangumi/play/ep200077",
+     "time": "2018-04-12T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787556,
+   "sort": 2,
+   "name": "束縛 -sokubaku-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "束縛",
+     "url": "https://www.bilibili.com/bangumi/play/ep200078",
+     "time": "2018-04-19T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787557,
+   "sort": 3,
+   "name": "被虐 -higyaku-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "受虐",
+     "url": "https://www.bilibili.com/bangumi/play/ep200079",
+     "time": "2018-04-26T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787558,
+   "sort": 4,
+   "name": "計画 -keikaku-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "計劃",
+     "url": "https://www.bilibili.com/bangumi/play/ep200080",
+     "time": "2018-05-03T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787559,
+   "sort": 5,
+   "name": "困惑 -konwaku-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "困惑",
+     "url": "https://www.bilibili.com/bangumi/play/ep200081",
+     "time": "2018-05-10T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787560,
+   "sort": 6,
+   "name": "自覚 -jikaku-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "自覺",
+     "url": "https://www.bilibili.com/bangumi/play/ep200082",
+     "time": "2018-05-17T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787561,
+   "sort": 7,
+   "name": "隷属 -reizoku-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "隸屬",
+     "url": "https://www.bilibili.com/bangumi/play/ep200083",
+     "time": "2018-05-24T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787562,
+   "sort": 8,
+   "name": "発覚 -hakkaku-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "發覺",
+     "url": "https://www.bilibili.com/bangumi/play/ep200084",
+     "time": "2018-05-31T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787563,
+   "sort": 9,
+   "name": "交錯 -kousaku-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "交錯",
+     "url": "https://www.bilibili.com/bangumi/play/ep200085",
+     "time": "2018-06-07T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787564,
+   "sort": 10,
+   "name": "転落 -tenraku-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "墜落",
+     "url": "https://www.bilibili.com/bangumi/play/ep200086",
+     "time": "2018-06-14T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787565,
+   "sort": 11,
+   "name": "収穫 -syukaku-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "收穫",
+     "url": "https://www.bilibili.com/bangumi/play/ep200087",
+     "time": "2018-06-21T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787566,
+   "sort": 12,
+   "name": "起爆 -kibaku-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "起爆",
+     "url": "https://www.bilibili.com/bangumi/play/ep200088",
+     "time": "2018-06-28T17:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

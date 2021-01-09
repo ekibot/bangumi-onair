@@ -1,1 +1,195 @@
-{"id":"175424","name":"活撃 刀剣乱舞","sites":[{"site":"bilibili","id":"6302","sort":13},{"site":"iqiyi","id":"a_19rrh83a4d","sort":13}],"eps":[{"id":727941,"sort":1,"name":"出陣","sites":[{"site":"bilibili","sort":1,"title":"出陣","url":"https://www.bilibili.com/bangumi/play/ep113106","time":"2017-07-01T17:00:00.000Z"},{"site":"iqiyi","sort":1,"title":"出阵","url":"http://www.iqiyi.com/v_19rr815fyk.html","time":"2017-07-01T16:55:34.000Z"}]},{"id":727942,"sort":2,"name":"部隊長","sites":[{"site":"bilibili","sort":2,"title":"部隊長","url":"https://www.bilibili.com/bangumi/play/ep113107","time":"2017-07-08T17:00:00.000Z"},{"site":"iqiyi","sort":2,"title":"部队长","url":"http://www.iqiyi.com/v_19rr7x9yb8.html","time":"2017-07-08T16:55:13.000Z"}]},{"id":727943,"sort":3,"name":"主の命","sites":[{"site":"bilibili","sort":3,"title":"主人的命令","url":"https://www.bilibili.com/bangumi/play/ep113108","time":"2017-07-15T17:00:00.000Z"},{"site":"iqiyi","sort":3,"title":"主人的命令","url":"http://www.iqiyi.com/v_19rr7kesow.html","time":"2017-07-15T16:55:07.000Z"}]},{"id":727944,"sort":4,"name":"守りたかったもの","sites":[{"site":"bilibili","sort":4,"title":"想保護的東西","url":"https://www.bilibili.com/bangumi/play/ep113109","time":"2017-07-22T17:00:00.000Z"},{"site":"iqiyi","sort":4,"title":"想要守护的东西","url":"http://www.iqiyi.com/v_19rr7o3rj8.html","time":"2017-07-22T16:55:11.000Z"}]},{"id":727945,"sort":5,"name":"戦火","sites":[{"site":"bilibili","sort":5,"title":"戰火","url":"https://www.bilibili.com/bangumi/play/ep113110","time":"2017-07-29T17:00:00.000Z"},{"site":"iqiyi","sort":5,"title":"战火","url":"http://www.iqiyi.com/v_19rr8ekuss.html","time":"2017-07-29T16:55:07.000Z"}]},{"id":727946,"sort":6,"name":"本丸","sites":[{"site":"bilibili","sort":6,"title":"本丸","url":"https://www.bilibili.com/bangumi/play/ep113111","time":"2017-08-05T17:00:00.000Z"},{"site":"iqiyi","sort":6,"title":"本丸","url":"http://www.iqiyi.com/v_19rr8jp0fc.html","time":"2017-08-05T16:55:10.000Z"}]},{"id":727947,"sort":7,"name":"第一部隊","sites":[{"site":"bilibili","sort":7,"title":"第一部隊","url":"https://www.bilibili.com/bangumi/play/ep113112","time":"2017-08-12T17:00:00.000Z"},{"site":"iqiyi","sort":7,"title":"第一部队","url":"http://www.iqiyi.com/v_19rr864tp0.html","time":"2017-08-12T16:55:10.000Z"}]},{"id":727948,"sort":8,"name":"歴史を守る","sites":[{"site":"bilibili","sort":8,"title":"保護歷史","url":"https://www.bilibili.com/bangumi/play/ep113113","time":"2017-08-19T17:00:00.000Z"},{"site":"iqiyi","sort":8,"title":"守护历史","url":"http://www.iqiyi.com/v_19rr81naoc.html","time":"2017-08-19T16:55:06.000Z"}]},{"id":727949,"sort":9,"name":"元の主","sites":[{"site":"bilibili","sort":9,"title":"原來的主人","url":"https://www.bilibili.com/bangumi/play/ep113114","time":"2017-08-26T17:45:00.000Z"},{"site":"iqiyi","sort":9,"title":"原主","url":"http://www.iqiyi.com/v_19rr88c9uw.html","time":"2017-08-26T16:55:09.000Z"}]},{"id":727950,"sort":10,"name":"忠義の向かう先","sites":[{"site":"bilibili","sort":10,"title":"忠義的去向","url":"https://www.bilibili.com/bangumi/play/ep113115","time":"2017-09-02T17:00:00.000Z"},{"site":"iqiyi","sort":10,"title":"忠义的前方","url":"http://www.iqiyi.com/v_19rr8xn6fs.html","time":"2017-09-02T16:55:07.000Z"}]},{"id":727951,"sort":11,"name":"鉄の掟","sites":[{"site":"bilibili","sort":11,"title":"鐵之紀律","url":"https://www.bilibili.com/bangumi/play/ep113116","time":"2017-09-09T17:00:00.000Z"},{"site":"iqiyi","sort":11,"title":"铁律","url":"http://www.iqiyi.com/v_19rr933qxk.html","time":"2017-09-09T16:55:06.000Z"}]},{"id":727952,"sort":12,"name":"箱館戦争","sites":[{"site":"bilibili","sort":12,"title":"箱館戰爭","url":"https://www.bilibili.com/bangumi/play/ep113117","time":"2017-09-16T17:00:00.000Z"},{"site":"iqiyi","sort":12,"title":"箱馆战争","url":"http://www.iqiyi.com/v_19rr8p03oc.html","time":"2017-09-16T16:55:06.000Z"}]},{"id":730210,"sort":13,"name":"活撃","sites":[{"site":"bilibili","sort":13,"title":"活擊","url":"https://www.bilibili.com/bangumi/play/ep114740","time":"2017-09-23T17:00:00.000Z"},{"site":"iqiyi","sort":13,"title":"活击","url":"http://www.iqiyi.com/v_19rr8ueq2s.html","time":"2017-09-23T16:55:07.000Z"}]}]}
+{
+ "id": "175424",
+ "name": "活撃 刀剣乱舞",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6302",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 727941,
+   "sort": 1,
+   "name": "出陣",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "出陣",
+     "url": "https://www.bilibili.com/bangumi/play/ep113106",
+     "time": "2017-07-01T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727942,
+   "sort": 2,
+   "name": "部隊長",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "部隊長",
+     "url": "https://www.bilibili.com/bangumi/play/ep113107",
+     "time": "2017-07-08T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727943,
+   "sort": 3,
+   "name": "主の命",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "主人的命令",
+     "url": "https://www.bilibili.com/bangumi/play/ep113108",
+     "time": "2017-07-15T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727944,
+   "sort": 4,
+   "name": "守りたかったもの",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "想保護的東西",
+     "url": "https://www.bilibili.com/bangumi/play/ep113109",
+     "time": "2017-07-22T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727945,
+   "sort": 5,
+   "name": "戦火",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "戰火",
+     "url": "https://www.bilibili.com/bangumi/play/ep113110",
+     "time": "2017-07-29T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727946,
+   "sort": 6,
+   "name": "本丸",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "本丸",
+     "url": "https://www.bilibili.com/bangumi/play/ep113111",
+     "time": "2017-08-05T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727947,
+   "sort": 7,
+   "name": "第一部隊",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "第一部隊",
+     "url": "https://www.bilibili.com/bangumi/play/ep113112",
+     "time": "2017-08-12T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727948,
+   "sort": 8,
+   "name": "歴史を守る",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "保護歷史",
+     "url": "https://www.bilibili.com/bangumi/play/ep113113",
+     "time": "2017-08-19T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727949,
+   "sort": 9,
+   "name": "元の主",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "原來的主人",
+     "url": "https://www.bilibili.com/bangumi/play/ep113114",
+     "time": "2017-08-26T17:45:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727950,
+   "sort": 10,
+   "name": "忠義の向かう先",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "忠義的去向",
+     "url": "https://www.bilibili.com/bangumi/play/ep113115",
+     "time": "2017-09-02T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727951,
+   "sort": 11,
+   "name": "鉄の掟",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "鐵之紀律",
+     "url": "https://www.bilibili.com/bangumi/play/ep113116",
+     "time": "2017-09-09T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727952,
+   "sort": 12,
+   "name": "箱館戦争",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "箱館戰爭",
+     "url": "https://www.bilibili.com/bangumi/play/ep113117",
+     "time": "2017-09-16T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 730210,
+   "sort": 13,
+   "name": "活撃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "活擊",
+     "url": "https://www.bilibili.com/bangumi/play/ep114740",
+     "time": "2017-09-23T17:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

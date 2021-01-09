@@ -1,1 +1,181 @@
-{"id":"208754","name":"徒然チルドレン","sites":[{"site":"bilibili","id":"6312","sort":12}],"eps":[{"id":727911,"sort":1,"name":"告白 / 不真面目な彼女 / 生徒会長の悩み / スピカ","sites":[{"site":"bilibili","sort":1,"title":"告白","url":"https://www.bilibili.com/bangumi/play/ep113292","time":"2017-07-04T14:30:00.000Z"}]},{"id":727912,"sort":2,"name":"春 / お兄ちゃんの彼女 / コンタクト / 雨","sites":[{"site":"bilibili","sort":2,"title":"春天","url":"https://www.bilibili.com/bangumi/play/ep113293","time":"2017-07-11T14:30:00.000Z"}]},{"id":727913,"sort":3,"name":"至近距離恋愛 / 先輩殺す / 恋はカッコ悪い / 掃除当番","sites":[{"site":"bilibili","sort":3,"title":"近距离恋爱","url":"https://www.bilibili.com/bangumi/play/ep113294","time":"2017-07-18T14:30:00.000Z"}]},{"id":727914,"sort":4,"name":"ラブコメディ / 確かめてみよう / 返事 / 君は輝いている","sites":[{"site":"bilibili","sort":4,"title":"恋爱喜剧","url":"https://www.bilibili.com/bangumi/play/ep113295","time":"2017-07-25T14:30:00.000Z"}]},{"id":727915,"sort":5,"name":"遠くから君を見てる / Re: / 幼なじみ","sites":[{"site":"bilibili","sort":5,"title":"远远地看着你","url":"https://www.bilibili.com/bangumi/play/ep113296","time":"2017-08-01T14:30:00.000Z"}]},{"id":727916,"sort":6,"name":"俺達に女はいらない / 独裁 / Xファイル / 恋愛マスター","sites":[{"site":"bilibili","sort":6,"title":"我们不需要女人","url":"https://www.bilibili.com/bangumi/play/ep113297","time":"2017-08-08T14:30:00.000Z"}]},{"id":727917,"sort":7,"name":"全部熱のせい / 罠 / 聞かせてよ / アドバイス","sites":[{"site":"bilibili","sort":7,"title":"都是发烧惹的祸","url":"https://www.bilibili.com/bangumi/play/ep113298","time":"2017-08-15T14:30:00.000Z"}]},{"id":727918,"sort":8,"name":"傷だらけの天使 / もっと欲しくなる / シュート / おっぱい","sites":[{"site":"bilibili","sort":8,"title":"伤痕累累的天使","url":"https://www.bilibili.com/bangumi/play/ep113299","time":"2017-08-22T14:30:00.000Z"}]},{"id":727919,"sort":9,"name":"ふりだし / 視線 / もう一度 / 好き","sites":[{"site":"bilibili","sort":9,"title":"出发点","url":"https://www.bilibili.com/bangumi/play/ep113300","time":"2017-08-29T14:34:09.000Z"}]},{"id":727920,"sort":10,"name":"恋人たち / 俺の屍を越えてゆけ / 嫉妬 / 泡","sites":[{"site":"bilibili","sort":10,"title":"恋人们","url":"https://www.bilibili.com/bangumi/play/ep113301","time":"2017-09-05T14:30:00.000Z"}]},{"id":727921,"sort":11,"name":"チューニング / 水に流して / テスト","sites":[{"site":"bilibili","sort":11,"title":"调音","url":"https://www.bilibili.com/bangumi/play/ep113302","time":"2017-09-12T14:30:00.000Z"}]},{"id":727922,"sort":12,"name":"球技大会 / 夏が始まる","sites":[{"site":"bilibili","sort":12,"title":"夏天开始了","url":"https://www.bilibili.com/bangumi/play/ep113303","time":"2017-09-19T14:30:00.000Z"}]}]}
+{
+ "id": "208754",
+ "name": "徒然チルドレン",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6312",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 727911,
+   "sort": 1,
+   "name": "告白 / 不真面目な彼女 / 生徒会長の悩み / スピカ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "告白",
+     "url": "https://www.bilibili.com/bangumi/play/ep113292",
+     "time": "2017-07-04T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727912,
+   "sort": 2,
+   "name": "春 / お兄ちゃんの彼女 / コンタクト / 雨",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "春天",
+     "url": "https://www.bilibili.com/bangumi/play/ep113293",
+     "time": "2017-07-11T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727913,
+   "sort": 3,
+   "name": "至近距離恋愛 / 先輩殺す / 恋はカッコ悪い / 掃除当番",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "近距离恋爱",
+     "url": "https://www.bilibili.com/bangumi/play/ep113294",
+     "time": "2017-07-18T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727914,
+   "sort": 4,
+   "name": "ラブコメディ / 確かめてみよう / 返事 / 君は輝いている",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "恋爱喜剧",
+     "url": "https://www.bilibili.com/bangumi/play/ep113295",
+     "time": "2017-07-25T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727915,
+   "sort": 5,
+   "name": "遠くから君を見てる / Re: / 幼なじみ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "远远地看着你",
+     "url": "https://www.bilibili.com/bangumi/play/ep113296",
+     "time": "2017-08-01T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727916,
+   "sort": 6,
+   "name": "俺達に女はいらない / 独裁 / Xファイル / 恋愛マスター",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "我们不需要女人",
+     "url": "https://www.bilibili.com/bangumi/play/ep113297",
+     "time": "2017-08-08T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727917,
+   "sort": 7,
+   "name": "全部熱のせい / 罠 / 聞かせてよ / アドバイス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "都是发烧惹的祸",
+     "url": "https://www.bilibili.com/bangumi/play/ep113298",
+     "time": "2017-08-15T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727918,
+   "sort": 8,
+   "name": "傷だらけの天使 / もっと欲しくなる / シュート / おっぱい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "伤痕累累的天使",
+     "url": "https://www.bilibili.com/bangumi/play/ep113299",
+     "time": "2017-08-22T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727919,
+   "sort": 9,
+   "name": "ふりだし / 視線 / もう一度 / 好き",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "出发点",
+     "url": "https://www.bilibili.com/bangumi/play/ep113300",
+     "time": "2017-08-29T14:34:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727920,
+   "sort": 10,
+   "name": "恋人たち / 俺の屍を越えてゆけ / 嫉妬 / 泡",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "恋人们",
+     "url": "https://www.bilibili.com/bangumi/play/ep113301",
+     "time": "2017-09-05T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727921,
+   "sort": 11,
+   "name": "チューニング / 水に流して / テスト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "调音",
+     "url": "https://www.bilibili.com/bangumi/play/ep113302",
+     "time": "2017-09-12T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727922,
+   "sort": 12,
+   "name": "球技大会 / 夏が始まる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "夏天开始了",
+     "url": "https://www.bilibili.com/bangumi/play/ep113303",
+     "time": "2017-09-19T14:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

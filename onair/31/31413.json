@@ -1,0 +1,130 @@
+{
+ "id": "31413",
+ "name": "織田信奈の野望",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "05024d3e10ca11e1a046",
+   "sort": 9
+  }
+ ],
+ "eps": [
+  {
+   "id": 183574,
+   "sort": 1,
+   "name": "信奈とサル",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 信奈与猴子",
+     "url": "https://v.youku.com/v_show/id_XNTExMjU5Mzg0.html?s=05024d3e10ca11e1a046"
+    }
+   ]
+  },
+  {
+   "id": 183575,
+   "sort": 2,
+   "name": "織田家、お家騒動",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 织田家 家中内乱",
+     "url": "https://v.youku.com/v_show/id_XNTExMjU5NTMy.html?s=05024d3e10ca11e1a046"
+    }
+   ]
+  },
+  {
+   "id": 183576,
+   "sort": 3,
+   "name": "美濃動乱",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 美浓动乱",
+     "url": "https://v.youku.com/v_show/id_XNTExMjU5NjMy.html?s=05024d3e10ca11e1a046"
+    }
+   ]
+  },
+  {
+   "id": 183577,
+   "sort": 4,
+   "name": "風雲！桶狭間！",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 风云!桶狭间!",
+     "url": "https://v.youku.com/v_show/id_XNTExMjU5NzQw.html?s=05024d3e10ca11e1a046"
+    }
+   ]
+  },
+  {
+   "id": 183578,
+   "sort": 5,
+   "name": "天才軍師調略",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 游说天才军事",
+     "url": "https://v.youku.com/v_show/id_XNTExMjU5ODY4.html?s=05024d3e10ca11e1a046"
+    }
+   ]
+  },
+  {
+   "id": 183579,
+   "sort": 6,
+   "name": "墨俣一夜城",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 墨俣一夜城",
+     "url": "https://v.youku.com/v_show/id_XNTExMjU5OTIw.html?s=05024d3e10ca11e1a046"
+    }
+   ]
+  },
+  {
+   "id": 183580,
+   "sort": 7,
+   "name": "信奈上洛",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 信奈上洛",
+     "url": "https://v.youku.com/v_show/id_XNTExMjYwMDIw.html?s=05024d3e10ca11e1a046"
+    }
+   ]
+  },
+  {
+   "id": 183581,
+   "sort": 8,
+   "name": "黄金の自由都市・堺",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 黄金自由都市·堺",
+     "url": "https://v.youku.com/v_show/id_XNTExMjYwMTAw.html?s=05024d3e10ca11e1a046"
+    }
+   ]
+  },
+  {
+   "id": 183583,
+   "sort": 10,
+   "name": "信奈絶体絶命",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 信奈命悬一线",
+     "url": "https://v.youku.com/v_show/id_XNTExMjYwMjcy.html?s=05024d3e10ca11e1a046"
+    }
+   ]
+  }
+ ]
+}

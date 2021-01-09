@@ -1,1 +1,198 @@
-{"id":"184285","name":"学園ハンサム","sites":[{"site":"bilibili","id":"5543","sort":13},{"site":"qq","id":"s/s5zkprukr9sj2eo","sort":2}],"eps":[{"id":640350,"sort":1,"name":"薔薇門高校へようこそ","sites":[{"site":"bilibili","sort":1,"title":"欢迎来到蔷薇门高中","url":"https://www.bilibili.com/bangumi/play/ep96250","time":"2016-10-03T13:30:09.000Z"},{"site":"qq","sort":1,"title":"【OVA】学园Handsome The Animation 动画声优版","url":"http://www.letv.com/ptv/vplay/23807451.html"}]},{"id":640351,"sort":2,"name":"ときめきいっぱい！薔薇門高校","sites":[{"site":"bilibili","sort":2,"title":"满满的心动！蔷薇门高中","url":"https://www.bilibili.com/bangumi/play/ep96262","time":"2016-10-10T16:00:10.000Z"},{"site":"qq","sort":2,"title":"【OVA】学园Handsome The Animation 游戏声优版","url":"http://www.letv.com/ptv/vplay/23807456.html"}]},{"id":640352,"sort":3,"name":"志賀君はご機嫌ななめ！？","sites":[{"site":"bilibili","sort":3,"title":"志贺君心烦意乱！？","url":"https://www.bilibili.com/bangumi/play/ep96263","time":"2016-10-17T16:00:10.000Z"}]},{"id":640353,"sort":4,"name":"激闘！イケメン軍団","sites":[{"site":"bilibili","sort":4,"title":"激战！美男军团","url":"https://www.bilibili.com/bangumi/play/ep96264","time":"2016-10-24T16:00:09.000Z"}]},{"id":640354,"sort":5,"name":"ハリキリ運動会でGOGOGO！","sites":[{"site":"bilibili","sort":5,"title":"全力以赴 运动会GOGOGO!","url":"https://www.bilibili.com/bangumi/play/ep96265","time":"2016-10-31T16:00:10.000Z"}]},{"id":640355,"sort":6,"name":"鏡君のエレガントな一日","sites":[{"site":"bilibili","sort":6,"title":"镜君优雅的一天","url":"https://www.bilibili.com/bangumi/play/ep96266","time":"2016-11-07T16:00:10.000Z"}]},{"id":640356,"sort":7,"name":"美剣先輩読モ伝説","sites":[{"site":"bilibili","sort":7,"title":"美剑学长的读者模特传说（前篇）","url":"https://www.bilibili.com/bangumi/play/ep96267","time":"2016-11-14T16:00:10.000Z"}]},{"id":640357,"sort":8,"name":"美剣先輩読モ伝説（後編）","sites":[{"site":"bilibili","sort":8,"title":"美剑学长的读者模特传说（后篇）","url":"https://www.bilibili.com/bangumi/play/ep96268","time":"2016-11-21T16:00:10.000Z"}]},{"id":640358,"sort":9,"name":"極上！猫カフェ委員長","sites":[{"site":"bilibili","sort":9,"title":"太棒了！猫咪咖啡委员长","url":"https://www.bilibili.com/bangumi/play/ep96269","time":"2016-11-28T16:00:10.000Z"}]},{"id":640359,"sort":10,"name":"お好みレボ☆リューション","sites":[{"site":"bilibili","sort":10,"title":"御好烧Revo☆lution","url":"https://www.bilibili.com/bangumi/play/ep96270","time":"2016-12-05T16:00:10.000Z"}]},{"id":640360,"sort":11,"name":"ノンストップ！アート革命","sites":[{"site":"bilibili","sort":11,"title":"不停止！艺术革命","url":"https://www.bilibili.com/bangumi/play/ep96271","time":"2016-12-12T16:00:10.000Z"}]},{"id":640361,"sort":12,"name":"イケメンは永遠！","sites":[{"site":"bilibili","sort":12,"title":"帅哥永恒！","url":"https://www.bilibili.com/bangumi/play/ep96272","time":"2016-12-19T16:00:10.000Z"}]}]}
+{
+ "id": "184285",
+ "name": "学園ハンサム",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5543",
+   "sort": 13
+  },
+  {
+   "site": "qq",
+   "id": "s/s5zkprukr9sj2eo",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 640350,
+   "sort": 1,
+   "name": "薔薇門高校へようこそ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "欢迎来到蔷薇门高中",
+     "url": "https://www.bilibili.com/bangumi/play/ep96250",
+     "time": "2016-10-03T13:30:09.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "【OVA】学园Handsome The Animation 动画声优版",
+     "url": "http://www.letv.com/ptv/vplay/23807451.html"
+    }
+   ]
+  },
+  {
+   "id": 640351,
+   "sort": 2,
+   "name": "ときめきいっぱい！薔薇門高校",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "满满的心动！蔷薇门高中",
+     "url": "https://www.bilibili.com/bangumi/play/ep96262",
+     "time": "2016-10-10T16:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "【OVA】学园Handsome The Animation 游戏声优版",
+     "url": "http://www.letv.com/ptv/vplay/23807456.html"
+    }
+   ]
+  },
+  {
+   "id": 640352,
+   "sort": 3,
+   "name": "志賀君はご機嫌ななめ！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "志贺君心烦意乱！？",
+     "url": "https://www.bilibili.com/bangumi/play/ep96263",
+     "time": "2016-10-17T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640353,
+   "sort": 4,
+   "name": "激闘！イケメン軍団",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "激战！美男军团",
+     "url": "https://www.bilibili.com/bangumi/play/ep96264",
+     "time": "2016-10-24T16:00:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640354,
+   "sort": 5,
+   "name": "ハリキリ運動会でGOGOGO！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "全力以赴 运动会GOGOGO!",
+     "url": "https://www.bilibili.com/bangumi/play/ep96265",
+     "time": "2016-10-31T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640355,
+   "sort": 6,
+   "name": "鏡君のエレガントな一日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "镜君优雅的一天",
+     "url": "https://www.bilibili.com/bangumi/play/ep96266",
+     "time": "2016-11-07T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640356,
+   "sort": 7,
+   "name": "美剣先輩読モ伝説",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "美剑学长的读者模特传说（前篇）",
+     "url": "https://www.bilibili.com/bangumi/play/ep96267",
+     "time": "2016-11-14T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640357,
+   "sort": 8,
+   "name": "美剣先輩読モ伝説（後編）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "美剑学长的读者模特传说（后篇）",
+     "url": "https://www.bilibili.com/bangumi/play/ep96268",
+     "time": "2016-11-21T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640358,
+   "sort": 9,
+   "name": "極上！猫カフェ委員長",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "太棒了！猫咪咖啡委员长",
+     "url": "https://www.bilibili.com/bangumi/play/ep96269",
+     "time": "2016-11-28T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640359,
+   "sort": 10,
+   "name": "お好みレボ☆リューション",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "御好烧Revo☆lution",
+     "url": "https://www.bilibili.com/bangumi/play/ep96270",
+     "time": "2016-12-05T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640360,
+   "sort": 11,
+   "name": "ノンストップ！アート革命",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "不停止！艺术革命",
+     "url": "https://www.bilibili.com/bangumi/play/ep96271",
+     "time": "2016-12-12T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640361,
+   "sort": 12,
+   "name": "イケメンは永遠！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "帅哥永恒！",
+     "url": "https://www.bilibili.com/bangumi/play/ep96272",
+     "time": "2016-12-19T16:00:10.000Z"
+    }
+   ]
+  }
+ ]
+}

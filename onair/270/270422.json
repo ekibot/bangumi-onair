@@ -1,1 +1,258 @@
-{"id":"270422","name":"コップクラフト","sites":[{"site":"bilibili","id":"28221410","sort":14},{"site":"qq","id":"w/w9gve1bs4mqvkup","sort":13}],"eps":[{"id":893922,"sort":1,"name":"COP SHOW, WITCH CRAFT","sites":[{"site":"bilibili","sort":1,"title":"COP SHOW,WITCH CRAFT","url":"https://www.bilibili.com/bangumi/play/ep276625","time":"2019-07-08T16:30:00.000Z"},{"site":"qq","sort":1,"title":"COP CRAFT_01","url":"https://v.qq.com/x/cover/w9gve1bs4mqvkup/n003181remk.html"}]},{"id":893923,"sort":2,"name":"DRAGNET MIRAGE","sites":[{"site":"bilibili","sort":2,"title":"DRAGNET MIRAGE","url":"https://www.bilibili.com/bangumi/play/ep276626","time":"2019-07-15T16:30:00.000Z"},{"site":"qq","sort":2,"title":"COP CRAFT_02","url":"https://v.qq.com/x/cover/w9gve1bs4mqvkup/y00311p182c.html"}]},{"id":893924,"sort":3,"name":"MIDNIGHT TRAIN","sites":[{"site":"bilibili","sort":3,"title":"MIDNIGHT TRAIN","url":"https://www.bilibili.com/bangumi/play/ep276627","time":"2019-07-22T16:30:00.000Z"},{"site":"qq","sort":3,"title":"COP CRAFT_03","url":"https://v.qq.com/x/cover/w9gve1bs4mqvkup/d00317p5x0t.html"}]},{"id":893925,"sort":4,"name":"IN THE AIR TONIGHT","sites":[{"site":"bilibili","sort":4,"title":"IN THE AIR TONIGHT","url":"https://www.bilibili.com/bangumi/play/ep276628","time":"2019-07-29T16:30:00.000Z"},{"site":"qq","sort":4,"title":"COP CRAFT_04","url":"https://v.qq.com/x/cover/w9gve1bs4mqvkup/r0031ojjr54.html"}]},{"id":893926,"sort":5,"name":"LONESOME VAMPIRE","sites":[{"site":"bilibili","sort":5,"title":"LONESOME VAMPIRE","url":"https://www.bilibili.com/bangumi/play/ep276629","time":"2019-08-05T16:30:00.000Z"},{"site":"qq","sort":5,"title":"COP CRAFT_05","url":"https://v.qq.com/x/cover/w9gve1bs4mqvkup/w00310mnncu.html"}]},{"id":893927,"sort":6,"name":"NEED FOR SPEED","sites":[{"site":"bilibili","sort":6,"title":"NEED FOR SPEED","url":"https://www.bilibili.com/bangumi/play/ep276630","time":"2019-08-12T16:30:00.000Z"},{"site":"qq","sort":6,"title":"COP CRAFT_06","url":"https://v.qq.com/x/cover/w9gve1bs4mqvkup/x0031bh3swv.html"}]},{"id":893928,"sort":7,"name":"GIRLS ON ICE","sites":[{"site":"bilibili","sort":7,"title":"GIRLS ON ICE","url":"https://www.bilibili.com/bangumi/play/ep276631","time":"2019-08-19T16:30:00.000Z"},{"site":"qq","sort":7,"title":"COP CRAFT_07","url":"https://v.qq.com/x/cover/w9gve1bs4mqvkup/f0031rdz3of.html"}]},{"id":893929,"sort":8,"name":"SMELLS LIKE TOON SPIRITS","sites":[{"site":"bilibili","sort":8,"title":"SMELLS LIKE TOON SPIRITS","url":"https://www.bilibili.com/bangumi/play/ep276632","time":"2019-08-26T16:30:00.000Z"},{"site":"qq","sort":8,"title":"COP CRAFT_08","url":"https://v.qq.com/x/cover/w9gve1bs4mqvkup/n0032etzsc8.html"}]},{"id":893930,"sort":9,"name":"A KING MAKER","sites":[{"site":"bilibili","sort":9,"title":"A KING MAKER","url":"https://www.bilibili.com/bangumi/play/ep276633","time":"2019-09-02T16:30:00.000Z"},{"site":"qq","sort":9,"title":"COP CRAFT_09","url":"https://v.qq.com/x/cover/w9gve1bs4mqvkup/i0032o80m3a.html"}]},{"id":893931,"sort":10,"name":"COCK ROBIN, JOHN DOE","sites":[{"site":"bilibili","sort":10,"title":"COCK ROBIN, JOHN DOE","url":"https://www.bilibili.com/bangumi/play/ep276635","time":"2019-09-16T16:30:00.000Z"},{"site":"qq","sort":10,"title":"COP CRAFT_10","url":"https://v.qq.com/x/cover/w9gve1bs4mqvkup/o00321ato7t.html"}]},{"id":893932,"sort":11,"name":"TRANSITIONAL CRISES","sites":[{"site":"bilibili","sort":11,"title":"TRANSITIONAL CRISES","url":"https://www.bilibili.com/bangumi/play/ep276636","time":"2019-09-23T16:30:00.000Z"},{"site":"qq","sort":11,"title":"COP CRAFT_11","url":"https://v.qq.com/x/cover/w9gve1bs4mqvkup/q0032159cy7.html"}]},{"id":893933,"sort":12,"name":"TWO WORLDS, TWO JUSTICES","sites":[{"site":"bilibili","sort":12,"title":"TWO WORLDS,TWO JUSTICES","url":"https://www.bilibili.com/bangumi/play/ep283652","time":"2019-09-30T16:30:00.000Z"},{"site":"qq","sort":12,"title":"COP CRAFT_12","url":"https://v.qq.com/x/cover/w9gve1bs4mqvkup/y00327j0dpj.html"}]}]}
+{
+ "id": "270422",
+ "name": "コップクラフト",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28221410",
+   "sort": 14
+  },
+  {
+   "site": "qq",
+   "id": "w/w9gve1bs4mqvkup",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 893922,
+   "sort": 1,
+   "name": "COP SHOW, WITCH CRAFT",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "COP SHOW,WITCH CRAFT",
+     "url": "https://www.bilibili.com/bangumi/play/ep276625",
+     "time": "2019-07-08T16:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "COP CRAFT_01",
+     "url": "https://v.qq.com/x/cover/w9gve1bs4mqvkup/n003181remk.html"
+    }
+   ]
+  },
+  {
+   "id": 893923,
+   "sort": 2,
+   "name": "DRAGNET MIRAGE",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "DRAGNET MIRAGE",
+     "url": "https://www.bilibili.com/bangumi/play/ep276626",
+     "time": "2019-07-15T16:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "COP CRAFT_02",
+     "url": "https://v.qq.com/x/cover/w9gve1bs4mqvkup/y00311p182c.html"
+    }
+   ]
+  },
+  {
+   "id": 893924,
+   "sort": 3,
+   "name": "MIDNIGHT TRAIN",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "MIDNIGHT TRAIN",
+     "url": "https://www.bilibili.com/bangumi/play/ep276627",
+     "time": "2019-07-22T16:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "COP CRAFT_03",
+     "url": "https://v.qq.com/x/cover/w9gve1bs4mqvkup/d00317p5x0t.html"
+    }
+   ]
+  },
+  {
+   "id": 893925,
+   "sort": 4,
+   "name": "IN THE AIR TONIGHT",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "IN THE AIR TONIGHT",
+     "url": "https://www.bilibili.com/bangumi/play/ep276628",
+     "time": "2019-07-29T16:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "COP CRAFT_04",
+     "url": "https://v.qq.com/x/cover/w9gve1bs4mqvkup/r0031ojjr54.html"
+    }
+   ]
+  },
+  {
+   "id": 893926,
+   "sort": 5,
+   "name": "LONESOME VAMPIRE",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "LONESOME VAMPIRE",
+     "url": "https://www.bilibili.com/bangumi/play/ep276629",
+     "time": "2019-08-05T16:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "COP CRAFT_05",
+     "url": "https://v.qq.com/x/cover/w9gve1bs4mqvkup/w00310mnncu.html"
+    }
+   ]
+  },
+  {
+   "id": 893927,
+   "sort": 6,
+   "name": "NEED FOR SPEED",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "NEED FOR SPEED",
+     "url": "https://www.bilibili.com/bangumi/play/ep276630",
+     "time": "2019-08-12T16:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "COP CRAFT_06",
+     "url": "https://v.qq.com/x/cover/w9gve1bs4mqvkup/x0031bh3swv.html"
+    }
+   ]
+  },
+  {
+   "id": 893928,
+   "sort": 7,
+   "name": "GIRLS ON ICE",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "GIRLS ON ICE",
+     "url": "https://www.bilibili.com/bangumi/play/ep276631",
+     "time": "2019-08-19T16:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "COP CRAFT_07",
+     "url": "https://v.qq.com/x/cover/w9gve1bs4mqvkup/f0031rdz3of.html"
+    }
+   ]
+  },
+  {
+   "id": 893929,
+   "sort": 8,
+   "name": "SMELLS LIKE TOON SPIRITS",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "SMELLS LIKE TOON SPIRITS",
+     "url": "https://www.bilibili.com/bangumi/play/ep276632",
+     "time": "2019-08-26T16:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "COP CRAFT_08",
+     "url": "https://v.qq.com/x/cover/w9gve1bs4mqvkup/n0032etzsc8.html"
+    }
+   ]
+  },
+  {
+   "id": 893930,
+   "sort": 9,
+   "name": "A KING MAKER",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "A KING MAKER",
+     "url": "https://www.bilibili.com/bangumi/play/ep276633",
+     "time": "2019-09-02T16:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "COP CRAFT_09",
+     "url": "https://v.qq.com/x/cover/w9gve1bs4mqvkup/i0032o80m3a.html"
+    }
+   ]
+  },
+  {
+   "id": 893931,
+   "sort": 10,
+   "name": "COCK ROBIN, JOHN DOE",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "COCK ROBIN, JOHN DOE",
+     "url": "https://www.bilibili.com/bangumi/play/ep276635",
+     "time": "2019-09-16T16:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "COP CRAFT_10",
+     "url": "https://v.qq.com/x/cover/w9gve1bs4mqvkup/o00321ato7t.html"
+    }
+   ]
+  },
+  {
+   "id": 893932,
+   "sort": 11,
+   "name": "TRANSITIONAL CRISES",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "TRANSITIONAL CRISES",
+     "url": "https://www.bilibili.com/bangumi/play/ep276636",
+     "time": "2019-09-23T16:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "COP CRAFT_11",
+     "url": "https://v.qq.com/x/cover/w9gve1bs4mqvkup/q0032159cy7.html"
+    }
+   ]
+  },
+  {
+   "id": 893933,
+   "sort": 12,
+   "name": "TWO WORLDS, TWO JUSTICES",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "TWO WORLDS,TWO JUSTICES",
+     "url": "https://www.bilibili.com/bangumi/play/ep283652",
+     "time": "2019-09-30T16:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "COP CRAFT_12",
+     "url": "https://v.qq.com/x/cover/w9gve1bs4mqvkup/y00327j0dpj.html"
+    }
+   ]
+  }
+ ]
+}

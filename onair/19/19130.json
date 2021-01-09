@@ -1,1 +1,50 @@
-{"id":"19130","name":"映画ドラえもん 新・のび太と鉄人兵団 ～はばたけ 天使たち～","sites":[{"site":"qq","id":"z/z8alyhrvkd3jp2y","sort":32},{"site":"iqiyi","id":"a_19rrh6mmzt","sort":1},{"site":"bilibili","id":"3900","sort":1}],"eps":[{"id":188122,"sort":1,"name":"新・のび太と鉄人兵団","sites":[{"site":"qq","sort":1,"title":"1980：大雄的恐龙王国","url":"https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"},{"site":"iqiyi","sort":1,"title":"新大雄与铁人兵团","url":"http://www.iqiyi.com/v_19rr0t7xp0.html","time":"2018-05-31T16:05:23.000Z"},{"site":"bilibili","sort":1,"title":"新·大雄与铁人兵团","url":"https://www.bilibili.com/bangumi/play/ep86845","time":"2016-04-28T06:12:00.000Z"}]}]}
+{
+ "id": "19130",
+ "name": "映画ドラえもん 新・のび太と鉄人兵団 ～はばたけ 天使たち～",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "z/z8alyhrvkd3jp2y",
+   "sort": 31
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh6mmzt",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "3900",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 188122,
+   "sort": 1,
+   "name": "新・のび太と鉄人兵団",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "1980：大雄与小恐龙",
+     "url": "https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "新大雄与铁人兵团",
+     "url": "http://www.iqiyi.com/v_19rr0t7xp0.html",
+     "time": "2018-05-31T16:05:23.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "新·大雄与铁人兵团",
+     "url": "https://www.bilibili.com/bangumi/play/ep86845",
+     "time": "2016-04-28T06:12:00.000Z"
+    }
+   ]
+  }
+ ]
+}

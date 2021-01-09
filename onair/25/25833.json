@@ -1,1 +1,27 @@
-{"id":"25833","name":"魔法少女まどか☆マギカ [前編] 始まりの物語","sites":[{"site":"bilibili","id":"28220103","sort":1}],"eps":[{"id":129883,"sort":1,"name":"始まりの物語","sites":[{"site":"bilibili","sort":1,"title":"起始的物语","url":"https://www.bilibili.com/bangumi/play/ep282472","time":"2019-08-30T10:00:00.000Z"}]}]}
+{
+ "id": "25833",
+ "name": "魔法少女まどか☆マギカ [前編] 始まりの物語",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28220103",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 129883,
+   "sort": 1,
+   "name": "始まりの物語",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "起始的物语",
+     "url": "https://www.bilibili.com/bangumi/play/ep282472",
+     "time": "2019-08-30T10:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

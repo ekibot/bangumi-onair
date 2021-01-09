@@ -1,1 +1,181 @@
-{"id":"278658","name":"Levius -レビウス-","sites":[{"site":"bilibili","id":"28229026","sort":12}],"eps":[{"id":919926,"sort":1,"name":"肘にかかる負荷が半端ねぇんだよ!","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep326537","time":"2020-05-28T10:06:00.000Z"}]},{"id":919927,"sort":2,"name":"あの子とはうまくやれそうかい?","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep326538","time":"2020-05-28T10:07:00.000Z"}]},{"id":919928,"sort":3,"name":"あんなので、まだ肘当てって言えんの?","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep326539","time":"2020-05-28T10:08:00.000Z"}]},{"id":919929,"sort":4,"name":"あいつ、あいつはやっぱり・・・","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep326540","time":"2020-05-28T10:08:00.000Z"}]},{"id":919930,"sort":5,"name":"闘う前に負けることを考えるバカにみえるか?","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep326541","time":"2020-05-28T10:09:00.000Z"}]},{"id":919931,"sort":6,"name":"「助けて!」って言ったんだ・・・","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep326542","time":"2020-05-28T10:10:00.000Z"}]},{"id":919932,"sort":7,"name":"僕のこと･･･覚えてるかな?","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep326543","time":"2020-05-28T10:10:00.000Z"}]},{"id":919933,"sort":8,"name":"腹が立つな、その才能には・・・","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep326545","time":"2020-05-28T10:11:00.000Z"}]},{"id":919934,"sort":9,"name":"まだ続けるかね?","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep326546","time":"2020-05-28T10:12:00.000Z"}]},{"id":919935,"sort":10,"name":"アンタをボコボコにすんのはアタシだろうが!","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep326547","time":"2020-05-28T10:13:00.000Z"}]},{"id":919936,"sort":11,"name":"可能性は限りなくゼロに近い!","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep326548","time":"2020-05-28T10:13:00.000Z"}]},{"id":919937,"sort":12,"name":"今日はいつもより晴れてるね","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep326549","time":"2020-05-28T10:15:00.000Z"}]}]}
+{
+ "id": "278658",
+ "name": "Levius -レビウス-",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28229026",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 919926,
+   "sort": 1,
+   "name": "肘にかかる負荷が半端ねぇんだよ!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep326537",
+     "time": "2020-05-28T10:06:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 919927,
+   "sort": 2,
+   "name": "あの子とはうまくやれそうかい?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep326538",
+     "time": "2020-05-28T10:07:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 919928,
+   "sort": 3,
+   "name": "あんなので、まだ肘当てって言えんの?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep326539",
+     "time": "2020-05-28T10:08:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 919929,
+   "sort": 4,
+   "name": "あいつ、あいつはやっぱり・・・",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep326540",
+     "time": "2020-05-28T10:08:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 919930,
+   "sort": 5,
+   "name": "闘う前に負けることを考えるバカにみえるか?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep326541",
+     "time": "2020-05-28T10:09:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 919931,
+   "sort": 6,
+   "name": "「助けて!」って言ったんだ・・・",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep326542",
+     "time": "2020-05-28T10:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 919932,
+   "sort": 7,
+   "name": "僕のこと･･･覚えてるかな?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep326543",
+     "time": "2020-05-28T10:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 919933,
+   "sort": 8,
+   "name": "腹が立つな、その才能には・・・",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep326545",
+     "time": "2020-05-28T10:11:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 919934,
+   "sort": 9,
+   "name": "まだ続けるかね?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep326546",
+     "time": "2020-05-28T10:12:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 919935,
+   "sort": 10,
+   "name": "アンタをボコボコにすんのはアタシだろうが!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep326547",
+     "time": "2020-05-28T10:13:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 919936,
+   "sort": 11,
+   "name": "可能性は限りなくゼロに近い!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep326548",
+     "time": "2020-05-28T10:13:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 919937,
+   "sort": 12,
+   "name": "今日はいつもより晴れてるね",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep326549",
+     "time": "2020-05-28T10:15:00.000Z"
+    }
+   ]
+  }
+ ]
+}

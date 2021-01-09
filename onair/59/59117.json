@@ -1,0 +1,169 @@
+{
+ "id": "59117",
+ "name": "魔界王子 devils and realist",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "f0ab2acccfe011e296ac",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 288930,
+   "sort": 1,
+   "name": "devil and realist",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "恶魔与现实主义者",
+     "url": "https://v.youku.com/v_show/id_XNTc5MzQzMTQ4.html?s=f0ab2acccfe011e296ac"
+    }
+   ]
+  },
+  {
+   "id": 288931,
+   "sort": 2,
+   "name": "human and angel",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "人类与天使",
+     "url": "https://v.youku.com/v_show/id_XNTgxNzE4NTY4.html?s=f0ab2acccfe011e296ac"
+    }
+   ]
+  },
+  {
+   "id": 288932,
+   "sort": 3,
+   "name": "exorcist and ghost",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "驱魔师与凶灵",
+     "url": "https://v.youku.com/v_show/id_XNTg0ODA5Nzky.html?s=f0ab2acccfe011e296ac"
+    }
+   ]
+  },
+  {
+   "id": 288933,
+   "sort": 4,
+   "name": "an old love story",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "一个古老的爱情故事",
+     "url": "https://v.youku.com/v_show/id_XNTg3NDAxMTM2.html?s=f0ab2acccfe011e296ac"
+    }
+   ]
+  },
+  {
+   "id": 288934,
+   "sort": 5,
+   "name": "mill and flour",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "磨坊与面粉",
+     "url": "https://v.youku.com/v_show/id_XNTkwMzgwMjky.html?s=f0ab2acccfe011e296ac"
+    }
+   ]
+  },
+  {
+   "id": 288935,
+   "sort": 6,
+   "name": "the one who scheme",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "幕后黑手",
+     "url": "https://v.youku.com/v_show/id_XNTkzNzg3NTk2.html?s=f0ab2acccfe011e296ac"
+    }
+   ]
+  },
+  {
+   "id": 288936,
+   "sort": 7,
+   "name": "party and battle",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "离开与争斗",
+     "url": "https://v.youku.com/v_show/id_XNTk2ODE4MjMy.html?s=f0ab2acccfe011e296ac"
+    }
+   ]
+  },
+  {
+   "id": 288937,
+   "sort": 8,
+   "name": "pain and ecstasy",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": " 疼痛与狂热",
+     "url": "https://v.youku.com/v_show/id_XNTk5OTY0NTcy.html?s=f0ab2acccfe011e296ac"
+    }
+   ]
+  },
+  {
+   "id": 288938,
+   "sort": 9,
+   "name": "vice and virginity",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "恶德与圣洁",
+     "url": "https://v.youku.com/v_show/id_XNjAyOTk3ODk2.html?s=f0ab2acccfe011e296ac"
+    }
+   ]
+  },
+  {
+   "id": 288939,
+   "sort": 10,
+   "name": "Another Battle -as an intermission-",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "另一场战斗 幕间休息",
+     "url": "https://v.youku.com/v_show/id_XNjA1ODcxMjQ4.html?s=f0ab2acccfe011e296ac"
+    }
+   ]
+  },
+  {
+   "id": 306204,
+   "sort": 11,
+   "name": "king and ring",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "王与戒指",
+     "url": "https://v.youku.com/v_show/id_XNjA4NzEyNjA4.html?s=f0ab2acccfe011e296ac"
+    }
+   ]
+  },
+  {
+   "id": 306205,
+   "sort": 12,
+   "name": "realist but romanticist",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "现实主义者也是浪漫主义者",
+     "url": "https://v.youku.com/v_show/id_XNjExNjM0MjA4.html?s=f0ab2acccfe011e296ac"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,181 @@
-{"id":"238006","name":"ゴブリンスレイヤー","sites":[{"site":"iqiyi","id":"a_19rrh709x1","sort":13}],"eps":[{"id":831354,"sort":1,"name":"ある冒険者たちの結末","sites":[{"site":"iqiyi","sort":1,"title":"某批冒险者的结局","url":"http://www.iqiyi.com/v_19rr5a1lx4.html","time":"2018-10-06T16:55:06.000Z"}]},{"id":831355,"sort":2,"name":"小鬼を殺す者","sites":[{"site":"iqiyi","sort":2,"title":"杀小鬼者","url":"http://www.iqiyi.com/v_19rr6a7qr8.html","time":"2018-10-13T16:55:06.000Z"}]},{"id":831356,"sort":3,"name":"思いがけない来客","sites":[{"site":"iqiyi","sort":3,"title":"意料之外的访客","url":"http://www.iqiyi.com/v_19rr6oeyig.html","time":"2018-10-20T16:55:06.000Z"}]},{"id":831357,"sort":4,"name":"強き者ども","sites":[{"site":"iqiyi","sort":4,"title":"强者们","url":"http://www.iqiyi.com/v_19rr2vzh5g.html","time":"2018-10-27T16:55:06.000Z"}]},{"id":831358,"sort":5,"name":"冒険と日常と","sites":[{"site":"iqiyi","sort":5,"title":"冒险与日常","url":"http://www.iqiyi.com/v_19rr2p5xbc.html","time":"2018-11-03T16:55:06.000Z"}]},{"id":831359,"sort":6,"name":"水の街の小鬼殺し","sites":[{"site":"iqiyi","sort":6,"title":"水之都的小鬼杀手","url":"http://www.iqiyi.com/v_19rr38pj0o.html","time":"2018-11-10T16:55:11.000Z"}]},{"id":831360,"sort":7,"name":"死へ進め","sites":[{"site":"iqiyi","sort":7,"title":"迈向死亡","url":"http://www.iqiyi.com/v_19rr3sr210.html","time":"2018-11-17T16:55:06.000Z"}]},{"id":831361,"sort":8,"name":"囁きと祈りと詠唱","sites":[{"site":"iqiyi","sort":8,"title":"耳语 祈祷与咏唱","url":"http://www.iqiyi.com/v_19rr4eboqs.html","time":"2018-11-24T16:55:07.000Z"}]},{"id":831362,"sort":9,"name":"往きて、還りし","sites":[{"site":"iqiyi","sort":9,"title":"前去 归来","url":"http://www.iqiyi.com/v_19rqrmirjg.html","time":"2018-12-01T16:55:10.000Z"}]},{"id":831363,"sort":10,"name":"まどろみの中で","sites":[{"site":"iqiyi","sort":10,"title":"于小寐之中","url":"http://www.iqiyi.com/v_19rqs6y854.html","time":"2018-12-08T16:55:07.000Z"}]},{"id":831365,"sort":11,"name":"冒険者の饗宴","sites":[{"site":"iqiyi","sort":11,"title":"总集篇","url":"http://www.iqiyi.com/v_19rqsixf78.html","time":"2018-12-15T16:55:07.000Z"}]},{"id":845474,"sort":12,"name":"ある冒険者の結末","sites":[{"site":"iqiyi","sort":12,"title":"冒险者的飨宴","url":"http://www.iqiyi.com/v_19rqt4rumw.html","time":"2018-12-22T16:25:09.000Z"}]}]}
+{
+ "id": "238006",
+ "name": "ゴブリンスレイヤー",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh709x1",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 831354,
+   "sort": 1,
+   "name": "ある冒険者たちの結末",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "某批冒险者的结局",
+     "url": "http://www.iqiyi.com/v_19rr5a1lx4.html",
+     "time": "2018-10-06T16:55:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831355,
+   "sort": 2,
+   "name": "小鬼を殺す者",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "杀小鬼者",
+     "url": "http://www.iqiyi.com/v_19rr6a7qr8.html",
+     "time": "2018-10-13T16:55:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831356,
+   "sort": 3,
+   "name": "思いがけない来客",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "意料之外的访客",
+     "url": "http://www.iqiyi.com/v_19rr6oeyig.html",
+     "time": "2018-10-20T16:55:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831357,
+   "sort": 4,
+   "name": "強き者ども",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "强者们",
+     "url": "http://www.iqiyi.com/v_19rr2vzh5g.html",
+     "time": "2018-10-27T16:55:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831358,
+   "sort": 5,
+   "name": "冒険と日常と",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "冒险与日常",
+     "url": "http://www.iqiyi.com/v_19rr2p5xbc.html",
+     "time": "2018-11-03T16:55:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831359,
+   "sort": 6,
+   "name": "水の街の小鬼殺し",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "水之都的小鬼杀手",
+     "url": "http://www.iqiyi.com/v_19rr38pj0o.html",
+     "time": "2018-11-10T16:55:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831360,
+   "sort": 7,
+   "name": "死へ進め",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "迈向死亡",
+     "url": "http://www.iqiyi.com/v_19rr3sr210.html",
+     "time": "2018-11-17T16:55:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831361,
+   "sort": 8,
+   "name": "囁きと祈りと詠唱",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "耳语 祈祷与咏唱",
+     "url": "http://www.iqiyi.com/v_19rr4eboqs.html",
+     "time": "2018-11-24T16:55:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831362,
+   "sort": 9,
+   "name": "往きて、還りし",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "前去 归来",
+     "url": "http://www.iqiyi.com/v_19rqrmirjg.html",
+     "time": "2018-12-01T16:55:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831363,
+   "sort": 10,
+   "name": "まどろみの中で",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "于小寐之中",
+     "url": "http://www.iqiyi.com/v_19rqs6y854.html",
+     "time": "2018-12-08T16:55:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831365,
+   "sort": 11,
+   "name": "冒険者の饗宴",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "总集篇",
+     "url": "http://www.iqiyi.com/v_19rqsixf78.html",
+     "time": "2018-12-15T16:55:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 845474,
+   "sort": 12,
+   "name": "ある冒険者の結末",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "冒险者的飨宴",
+     "url": "http://www.iqiyi.com/v_19rqt4rumw.html",
+     "time": "2018-12-22T16:25:09.000Z"
+    }
+   ]
+  }
+ ]
+}

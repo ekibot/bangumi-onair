@@ -1,1 +1,41 @@
-{"id":"137062","name":"普通の女子校生が【ろこどる】やってみた。 OVA","sites":[{"site":"bilibili","id":"4125","sort":2}],"eps":[{"id":583747,"sort":1,"name":"みんなでお祝いしてみた。","sites":[{"site":"bilibili","sort":1,"title":"试着大家一起办庆祝会","url":"https://www.bilibili.com/bangumi/play/ep88557","time":"2017-01-23T11:31:00.000Z"}]},{"id":596632,"sort":2,"name":"PV作ってみた。","sites":[{"site":"bilibili","sort":2,"title":"试着做PV","url":"https://www.bilibili.com/bangumi/play/ep100948","time":"2017-01-23T11:34:00.000Z"}]}]}
+{
+ "id": "137062",
+ "name": "普通の女子校生が【ろこどる】やってみた。 OVA",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4125",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 583747,
+   "sort": 1,
+   "name": "みんなでお祝いしてみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "试着大家一起办庆祝会",
+     "url": "https://www.bilibili.com/bangumi/play/ep88557",
+     "time": "2017-01-23T11:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596632,
+   "sort": 2,
+   "name": "PV作ってみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "试着做PV",
+     "url": "https://www.bilibili.com/bangumi/play/ep100948",
+     "time": "2017-01-23T11:34:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,181 @@
-{"id":"45842","name":"変態王子と笑わない猫。","sites":[{"site":"bilibili","id":"413","sort":12}],"eps":[{"id":256053,"sort":1,"name":"変態さんと笑わない猫","sites":[{"site":"bilibili","sort":1,"title":"变态和不笑猫","url":"https://www.bilibili.com/bangumi/play/ep7823","time":"2013-04-13T21:45:00.000Z"}]},{"id":256054,"sort":2,"name":"妖精さんは怒らない","sites":[{"site":"bilibili","sort":2,"title":"精灵小姐不会生气","url":"https://www.bilibili.com/bangumi/play/ep7822","time":"2013-04-21T04:35:00.000Z"}]},{"id":256055,"sort":3,"name":"哀しむ前に声を出せ","sites":[{"site":"bilibili","sort":3,"title":"悲伤之前先出声","url":"https://www.bilibili.com/bangumi/play/ep7821","time":"2013-04-28T06:10:00.000Z"}]},{"id":256056,"sort":4,"name":"気楽な王の斃し方","sites":[{"site":"bilibili","sort":4,"title":"轻松打倒王的办法","url":"https://www.bilibili.com/bangumi/play/ep7820","time":"2013-05-05T06:47:00.000Z"}]},{"id":256057,"sort":5,"name":"さよならマイホーム","sites":[{"site":"bilibili","sort":5,"title":"再见了我的家","url":"https://www.bilibili.com/bangumi/play/ep7819","time":"2013-05-11T18:42:00.000Z"}]},{"id":256058,"sort":6,"name":"ようこそマイフレンド","sites":[{"site":"bilibili","sort":6,"title":"欢迎你我的朋友","url":"https://www.bilibili.com/bangumi/play/ep7818","time":"2013-05-18T18:36:00.000Z"}]},{"id":256059,"sort":7,"name":"いつかはマイファミリー","sites":[{"site":"bilibili","sort":7,"title":"总有一天会成为我的家人","url":"https://www.bilibili.com/bangumi/play/ep7817","time":"2013-05-25T18:30:00.000Z"}]},{"id":256060,"sort":8,"name":"100%の女の子","sites":[{"site":"bilibili","sort":8,"title":"100%的女孩纸","url":"https://www.bilibili.com/bangumi/play/ep7816","time":"2013-06-01T18:05:00.000Z"}]},{"id":256061,"sort":9,"name":"幸福な王子","sites":[{"site":"bilibili","sort":9,"title":"幸福的王子","url":"https://www.bilibili.com/bangumi/play/ep7815","time":"2013-06-08T23:35:00.000Z"}]},{"id":256062,"sort":10,"name":"一番長いということ","sites":[{"site":"bilibili","sort":10,"title":"最漫长的事情","url":"https://www.bilibili.com/bangumi/play/ep7814","time":"2013-06-15T22:45:00.000Z"}]},{"id":256063,"sort":11,"name":"筒隠さんの家の中","sites":[{"site":"bilibili","sort":11,"title":"筒隐小姐的家中","url":"https://www.bilibili.com/bangumi/play/ep7813","time":"2013-06-22T18:56:00.000Z"}]},{"id":287221,"sort":12,"name":"変態王子と記憶の外","sites":[{"site":"bilibili","sort":12,"title":"变态王子与记忆之外","url":"https://www.bilibili.com/bangumi/play/ep7812","time":"2013-06-29T23:58:00.000Z"}]}]}
+{
+ "id": "45842",
+ "name": "変態王子と笑わない猫。",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "413",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 256053,
+   "sort": 1,
+   "name": "変態さんと笑わない猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "变态和不笑猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep7823",
+     "time": "2013-04-13T21:45:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256054,
+   "sort": 2,
+   "name": "妖精さんは怒らない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "精灵小姐不会生气",
+     "url": "https://www.bilibili.com/bangumi/play/ep7822",
+     "time": "2013-04-21T04:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256055,
+   "sort": 3,
+   "name": "哀しむ前に声を出せ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "悲伤之前先出声",
+     "url": "https://www.bilibili.com/bangumi/play/ep7821",
+     "time": "2013-04-28T06:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256056,
+   "sort": 4,
+   "name": "気楽な王の斃し方",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "轻松打倒王的办法",
+     "url": "https://www.bilibili.com/bangumi/play/ep7820",
+     "time": "2013-05-05T06:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256057,
+   "sort": 5,
+   "name": "さよならマイホーム",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "再见了我的家",
+     "url": "https://www.bilibili.com/bangumi/play/ep7819",
+     "time": "2013-05-11T18:42:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256058,
+   "sort": 6,
+   "name": "ようこそマイフレンド",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "欢迎你我的朋友",
+     "url": "https://www.bilibili.com/bangumi/play/ep7818",
+     "time": "2013-05-18T18:36:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256059,
+   "sort": 7,
+   "name": "いつかはマイファミリー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "总有一天会成为我的家人",
+     "url": "https://www.bilibili.com/bangumi/play/ep7817",
+     "time": "2013-05-25T18:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256060,
+   "sort": 8,
+   "name": "100%の女の子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "100%的女孩纸",
+     "url": "https://www.bilibili.com/bangumi/play/ep7816",
+     "time": "2013-06-01T18:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256061,
+   "sort": 9,
+   "name": "幸福な王子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "幸福的王子",
+     "url": "https://www.bilibili.com/bangumi/play/ep7815",
+     "time": "2013-06-08T23:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256062,
+   "sort": 10,
+   "name": "一番長いということ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "最漫长的事情",
+     "url": "https://www.bilibili.com/bangumi/play/ep7814",
+     "time": "2013-06-15T22:45:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256063,
+   "sort": 11,
+   "name": "筒隠さんの家の中",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "筒隐小姐的家中",
+     "url": "https://www.bilibili.com/bangumi/play/ep7813",
+     "time": "2013-06-22T18:56:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 287221,
+   "sort": 12,
+   "name": "変態王子と記憶の外",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "变态王子与记忆之外",
+     "url": "https://www.bilibili.com/bangumi/play/ep7812",
+     "time": "2013-06-29T23:58:00.000Z"
+    }
+   ]
+  }
+ ]
+}

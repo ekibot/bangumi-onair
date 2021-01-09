@@ -1,1 +1,195 @@
-{"id":"38216","name":"高橋留美子劇場","sites":[{"site":"bilibili","id":"1970","sort":13}],"eps":[{"id":164339,"sort":1,"name":"Pの悲劇","sites":[{"site":"bilibili","sort":1,"title":"P之悲剧（Pの悲剧）","url":"https://www.bilibili.com/bangumi/play/ep42370","time":"2010-11-22T11:22:31.000Z"}]},{"id":164340,"sort":2,"name":"浪漫の商人（あきんど）","sites":[{"site":"bilibili","sort":2,"title":"浪漫的商人（浪漫の商人）","url":"https://www.bilibili.com/bangumi/play/ep42371","time":"2010-11-22T11:22:31.000Z"}]},{"id":164341,"sort":3,"name":"おやじローティーン","sites":[{"site":"bilibili","sort":3,"title":"13岁的老爸（おやじローティーン）","url":"https://www.bilibili.com/bangumi/play/ep42372","time":"2010-11-22T11:22:31.000Z"}]},{"id":164342,"sort":4,"name":"鉢の中","sites":[{"site":"bilibili","sort":4,"title":"花盆之中（钵の中）","url":"https://www.bilibili.com/bangumi/play/ep42373","time":"2010-11-22T11:22:31.000Z"}]},{"id":164343,"sort":5,"name":"迷走家族F（ファイヤー）","sites":[{"site":"bilibili","sort":5,"title":"迷走家族F（ファイアー）","url":"https://www.bilibili.com/bangumi/play/ep42374","time":"2010-11-22T11:22:31.000Z"}]},{"id":164344,"sort":6,"name":"君がいるだけで","sites":[{"site":"bilibili","sort":6,"title":"只因有你（君がいるだけで）","url":"https://www.bilibili.com/bangumi/play/ep42375","time":"2010-11-22T11:22:31.000Z"}]},{"id":164345,"sort":7,"name":"百年の恋","sites":[{"site":"bilibili","sort":7,"title":"百年之恋（百年の恋）","url":"https://www.bilibili.com/bangumi/play/ep42376","time":"2010-11-22T11:22:31.000Z"}]},{"id":164346,"sort":8,"name":"お礼にかえて","sites":[{"site":"bilibili","sort":8,"title":"礼尚往来（お礼にかえて）","url":"https://www.bilibili.com/bangumi/play/ep42377","time":"2010-11-22T11:22:31.000Z"}]},{"id":164347,"sort":9,"name":"茶の間のラブソング","sites":[{"site":"bilibili","sort":9,"title":"客厅中的情歌（茶の间のラブソング）","url":"https://www.bilibili.com/bangumi/play/ep42378","time":"2010-11-22T11:22:31.000Z"}]},{"id":164348,"sort":10,"name":"ポイの家","sites":[{"site":"bilibili","sort":10,"title":"垃圾之家（ポイの家）","url":"https://www.bilibili.com/bangumi/play/ep42379","time":"2010-11-22T11:22:31.000Z"}]},{"id":164349,"sort":11,"name":"日帰りの夢","sites":[{"site":"bilibili","sort":11,"title":"好梦一日游（日帰りの梦）","url":"https://www.bilibili.com/bangumi/play/ep42380","time":"2010-11-22T11:22:31.000Z"}]},{"id":164350,"sort":12,"name":"Lサイズの幸福（しあわせ）","sites":[{"site":"bilibili","sort":12,"title":"大号的幸福（Lサイズの幸福）","url":"https://www.bilibili.com/bangumi/play/ep42381","time":"2010-11-22T11:22:31.000Z"}]},{"id":164351,"sort":13,"name":"専務の犬","sites":[{"site":"bilibili","sort":13,"title":"专务之犬（専务の犬）","url":"https://www.bilibili.com/bangumi/play/ep42382","time":"2010-11-22T11:22:31.000Z"}]}]}
+{
+ "id": "38216",
+ "name": "高橋留美子劇場",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1970",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 164339,
+   "sort": 1,
+   "name": "Pの悲劇",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "P之悲剧（Pの悲剧）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42370",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 164340,
+   "sort": 2,
+   "name": "浪漫の商人（あきんど）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "浪漫的商人（浪漫の商人）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42371",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 164341,
+   "sort": 3,
+   "name": "おやじローティーン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "13岁的老爸（おやじローティーン）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42372",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 164342,
+   "sort": 4,
+   "name": "鉢の中",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "花盆之中（钵の中）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42373",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 164343,
+   "sort": 5,
+   "name": "迷走家族F（ファイヤー）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "迷走家族F（ファイアー）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42374",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 164344,
+   "sort": 6,
+   "name": "君がいるだけで",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "只因有你（君がいるだけで）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42375",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 164345,
+   "sort": 7,
+   "name": "百年の恋",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "百年之恋（百年の恋）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42376",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 164346,
+   "sort": 8,
+   "name": "お礼にかえて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "礼尚往来（お礼にかえて）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42377",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 164347,
+   "sort": 9,
+   "name": "茶の間のラブソング",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "客厅中的情歌（茶の间のラブソング）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42378",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 164348,
+   "sort": 10,
+   "name": "ポイの家",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "垃圾之家（ポイの家）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42379",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 164349,
+   "sort": 11,
+   "name": "日帰りの夢",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "好梦一日游（日帰りの梦）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42380",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 164350,
+   "sort": 12,
+   "name": "Lサイズの幸福（しあわせ）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "大号的幸福（Lサイズの幸福）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42381",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 164351,
+   "sort": 13,
+   "name": "専務の犬",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "专务之犬（専务の犬）",
+     "url": "https://www.bilibili.com/bangumi/play/ep42382",
+     "time": "2010-11-22T11:22:31.000Z"
+    }
+   ]
+  }
+ ]
+}

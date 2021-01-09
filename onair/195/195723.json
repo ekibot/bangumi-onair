@@ -1,1 +1,29 @@
-{"id":"195723","name":"ゲキドル","sites":[{"site":"bilibili","id":"28231932","week":2,"time":"2030","sort":2}],"eps":[{"id":673082,"sort":1,"name":"芝居","sites":[{"site":"bilibili","sort":1,"title":"「演戏」","url":"https://www.bilibili.com/bangumi/play/ep374342","time":"2021-01-05T12:30:01.000Z"}]}]}
+{
+ "id": "195723",
+ "name": "ゲキドル",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231932",
+   "week": 2,
+   "time": "2030",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 673082,
+   "sort": 1,
+   "name": "芝居",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "「演戏」",
+     "url": "https://www.bilibili.com/bangumi/play/ep374342",
+     "time": "2021-01-05T12:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,27 @@
-{"id":"46213","name":"劇場版 あの日見た花の名前を僕達はまだ知らない。","sites":[{"site":"bilibili","id":"8292","sort":1}],"eps":[{"id":381922,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"我们仍未知道那天所看见的花的名字。 剧场版","url":"https://www.bilibili.com/bangumi/play/ep118478","time":"2017-11-09T08:35:00.000Z"}]}]}
+{
+ "id": "46213",
+ "name": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "8292",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 381922,
+   "sort": 1,
+   "name": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "我们仍未知道那天所看见的花的名字。 剧场版",
+     "url": "https://www.bilibili.com/bangumi/play/ep118478",
+     "time": "2017-11-09T08:35:00.000Z"
+    }
+   ]
+  }
+ ]
+}

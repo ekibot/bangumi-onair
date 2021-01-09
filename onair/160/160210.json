@@ -1,1 +1,69 @@
-{"id":"160210","name":"旅街レイトショー","sites":[{"site":"bilibili","id":"3286","sort":4}],"eps":[{"id":591072,"sort":1,"name":"レシピ","sites":[{"site":"bilibili","sort":1,"title":"食谱","url":"https://www.bilibili.com/bangumi/play/ep82885","time":"2016-01-12T10:56:05.000Z"}]},{"id":591073,"sort":2,"name":"トランジスタ・スマートフォン","sites":[{"site":"bilibili","sort":2,"title":"半导体智能手机","url":"https://www.bilibili.com/bangumi/play/ep82978","time":"2016-01-15T15:31:59.000Z"}]},{"id":591074,"sort":3,"name":"夏祭り","sites":[{"site":"bilibili","sort":3,"title":"夏日祭典","url":"https://www.bilibili.com/bangumi/play/ep83238","time":"2016-01-22T15:31:00.000Z"}]},{"id":591075,"sort":4,"name":"Clover","sites":[{"site":"bilibili","sort":4,"title":"Clover","url":"https://www.bilibili.com/bangumi/play/ep83529","time":"2016-01-29T15:32:00.000Z"}]}]}
+{
+ "id": "160210",
+ "name": "旅街レイトショー",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3286",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 591072,
+   "sort": 1,
+   "name": "レシピ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "食谱",
+     "url": "https://www.bilibili.com/bangumi/play/ep82885",
+     "time": "2016-01-12T10:56:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 591073,
+   "sort": 2,
+   "name": "トランジスタ・スマートフォン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "半导体智能手机",
+     "url": "https://www.bilibili.com/bangumi/play/ep82978",
+     "time": "2016-01-15T15:31:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 591074,
+   "sort": 3,
+   "name": "夏祭り",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "夏日祭典",
+     "url": "https://www.bilibili.com/bangumi/play/ep83238",
+     "time": "2016-01-22T15:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 591075,
+   "sort": 4,
+   "name": "Clover",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Clover",
+     "url": "https://www.bilibili.com/bangumi/play/ep83529",
+     "time": "2016-01-29T15:32:00.000Z"
+    }
+   ]
+  }
+ ]
+}

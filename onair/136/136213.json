@@ -1,0 +1,169 @@
+{
+ "id": "136213",
+ "name": "ハルチカ～ハルタとチカは青春する～",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "3c4dc504a85411e59e2a",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 596556,
+   "sort": 1,
+   "name": "メロディアスな暗号",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 优美的暗号",
+     "url": "https://v.youku.com/v_show/id_XMTQzNzQ0NDc2OA==.html?s=3c4dc504a85411e59e2a"
+    }
+   ]
+  },
+  {
+   "id": 596557,
+   "sort": 2,
+   "name": "クロスキューブ(Cross Cube)",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 魔方",
+     "url": "https://v.youku.com/v_show/id_XMTQ0NDY0MzcyMA==.html?s=3c4dc504a85411e59e2a"
+    }
+   ]
+  },
+  {
+   "id": 596558,
+   "sort": 3,
+   "name": "退出ゲーム",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 退出游戏",
+     "url": "https://v.youku.com/v_show/id_XMTQ1MTg1NjAyOA==.html?s=3c4dc504a85411e59e2a"
+    }
+   ]
+  },
+  {
+   "id": 596559,
+   "sort": 4,
+   "name": "ヴァナキュラー・モダニズム(Vernacular Modernism)",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 乡土主义",
+     "url": "https://v.youku.com/v_show/id_XMTQ1ODU0MDc4NA==.html?s=3c4dc504a85411e59e2a"
+    }
+   ]
+  },
+  {
+   "id": 596560,
+   "sort": 5,
+   "name": "エレファンツ・ブレス(Elephant's Breath)",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 Elephants Breath",
+     "url": "https://v.youku.com/v_show/id_XMTQ2NDgwODAyMA==.html?s=3c4dc504a85411e59e2a"
+    }
+   ]
+  },
+  {
+   "id": 596561,
+   "sort": 6,
+   "name": "スプリングラフィ(Spring Laughy)",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 Stringraphy",
+     "url": "https://v.youku.com/v_show/id_XMTQ2OTA3ODQ0MA==.html?s=3c4dc504a85411e59e2a"
+    }
+   ]
+  },
+  {
+   "id": 596562,
+   "sort": 7,
+   "name": "周波数は77.4MHz",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 波段数为77.4MHz",
+     "url": "https://v.youku.com/v_show/id_XMTQ3NDU1NTI0MA==.html?s=3c4dc504a85411e59e2a"
+    }
+   ]
+  },
+  {
+   "id": 596563,
+   "sort": 8,
+   "name": "初恋ソムリエ(sommelier)",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 初恋侍酒师",
+     "url": "https://v.youku.com/v_show/id_XMTQ4MTM2MDgwNA==.html?s=3c4dc504a85411e59e2a"
+    }
+   ]
+  },
+  {
+   "id": 596564,
+   "sort": 9,
+   "name": "アスモデウスの視線(Asmodeus)",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 视线之阿斯摩太",
+     "url": "https://v.youku.com/v_show/id_XMTQ4ODE3MDE2OA==.html?s=3c4dc504a85411e59e2a"
+    }
+   ]
+  },
+  {
+   "id": 596565,
+   "sort": 10,
+   "name": "ジャバウォックの鑑札(Jabberwocky)",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 贾巴沃克的狗证",
+     "url": "https://v.youku.com/v_show/id_XMTQ5NTI1Mzk3Mg==.html?s=3c4dc504a85411e59e2a"
+    }
+   ]
+  },
+  {
+   "id": 596566,
+   "sort": 11,
+   "name": "エデンの谷",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 伊甸谷",
+     "url": "https://v.youku.com/v_show/id_XMTUwMjQ4NzY0MA==.html?s=3c4dc504a85411e59e2a"
+    }
+   ]
+  },
+  {
+   "id": 596567,
+   "sort": 12,
+   "name": "共鳴トライアングル",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 共鸣三角铁",
+     "url": "https://v.youku.com/v_show/id_XMTUxMDA4MzU1Ng==.html?s=3c4dc504a85411e59e2a"
+    }
+   ]
+  }
+ ]
+}

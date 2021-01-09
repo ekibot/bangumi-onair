@@ -1,1 +1,27 @@
-{"id":"71734","name":"劇場版 薄桜鬼 第一章 京都乱舞","sites":[{"site":"bilibili","id":"3833","sort":1},{"site":"youku","id":"8f2d018003e311e3a705","sort":1}],"eps":[{"id":574183,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"薄樱鬼 第一章 京都乱舞","url":"https://www.bilibili.com/bangumi/play/ep86727","time":"2016-04-25T03:22:10.000Z"}]}]}
+{
+ "id": "71734",
+ "name": "劇場版 薄桜鬼 第一章 京都乱舞",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3833",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 574183,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "薄樱鬼 第一章 京都乱舞",
+     "url": "https://www.bilibili.com/bangumi/play/ep86727",
+     "time": "2016-04-25T03:22:10.000Z"
+    }
+   ]
+  }
+ ]
+}

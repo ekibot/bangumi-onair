@@ -1,0 +1,169 @@
+{
+ "id": "161704",
+ "name": "クオリディア・コード",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "f387c01e3db711e6b32f",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 640988,
+   "sort": 1,
+   "name": "残存世界のグロリア",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 残存世界的Gloria",
+     "url": "https://v.youku.com/v_show/id_XMTYzNDc0NTY5Mg==.html?s=f387c01e3db711e6b32f"
+    }
+   ]
+  },
+  {
+   "id": 640989,
+   "sort": 2,
+   "name": "紺碧のカリカチュア",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 绀碧的Caricature",
+     "url": "https://v.youku.com/v_show/id_XMTY0MzcxNDM0NA==.html?s=f387c01e3db711e6b32f"
+    }
+   ]
+  },
+  {
+   "id": 640990,
+   "sort": 3,
+   "name": "森閑のアリア",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 寂静的Aria",
+     "url": "https://v.youku.com/v_show/id_XMTY1MzkxODQ0NA==.html?s=f387c01e3db711e6b32f"
+    }
+   ]
+  },
+  {
+   "id": 640991,
+   "sort": 4,
+   "name": "炭鉱のカナリア",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 炭矿的canaria",
+     "url": "https://v.youku.com/v_show/id_XMTY2NDYzMjM2OA==.html?s=f387c01e3db711e6b32f"
+    }
+   ]
+  },
+  {
+   "id": 640992,
+   "sort": 5,
+   "name": "小公女のレガリア",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 小公主的regalia",
+     "url": "https://v.youku.com/v_show/id_XMTY3MzQwOTA1Ng==.html?s=f387c01e3db711e6b32f"
+    }
+   ]
+  },
+  {
+   "id": 640993,
+   "sort": 6,
+   "name": "救世のメモリア",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 救世的memoria",
+     "url": "https://v.youku.com/v_show/id_XMTY4Mjk1MjAyNA==.html?s=f387c01e3db711e6b32f"
+    }
+   ]
+  },
+  {
+   "id": 640994,
+   "sort": 7,
+   "name": "救済のパラノイア",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 救济的Paranoia",
+     "url": "https://v.youku.com/v_show/id_XMTY5MjI3ODUzMg==.html?s=f387c01e3db711e6b32f"
+    }
+   ]
+  },
+  {
+   "id": 640995,
+   "sort": 8,
+   "name": "反転のクオリア",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 反转的Qualia",
+     "url": "https://v.youku.com/v_show/id_XMTcwMjQzMzMyOA==.html?s=f387c01e3db711e6b32f"
+    }
+   ]
+  },
+  {
+   "id": 640996,
+   "sort": 9,
+   "name": "反獄のイデア",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 反狱的Idea",
+     "url": "https://v.youku.com/v_show/id_XMTcxMTc2NTc1Ng==.html?s=f387c01e3db711e6b32f"
+    }
+   ]
+  },
+  {
+   "id": 640997,
+   "sort": 10,
+   "name": "福音のフオークロア",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 福音的Folklore",
+     "url": "https://v.youku.com/v_show/id_XMTcyMDUxODExMg==.html?s=f387c01e3db711e6b32f"
+    }
+   ]
+  },
+  {
+   "id": 640998,
+   "sort": 11,
+   "name": "双極のファミリア",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 双极的Familia",
+     "url": "https://v.youku.com/v_show/id_XMTcyODYxMTk1Mg==.html?s=f387c01e3db711e6b32f"
+    }
+   ]
+  },
+  {
+   "id": 640999,
+   "sort": 12,
+   "name": "燦然世界のクオリディア",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 灿然世界的Qualidea",
+     "url": "https://v.youku.com/v_show/id_XMTczNjU5NTgwOA==.html?s=f387c01e3db711e6b32f"
+    }
+   ]
+  }
+ ]
+}

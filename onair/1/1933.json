@@ -1,1 +1,102 @@
-{"id":"1933","name":"青の6号","sites":[{"site":"iqiyi","id":"a_19rrginde9","sort":4},{"site":"bilibili","id":"3274","sort":4}],"eps":[{"id":9572,"sort":1,"name":"Blues","sites":[{"site":"iqiyi","sort":1,"title":"Blues","url":"http://www.iqiyi.com/v_19rrhnpwek.html","time":"2014-07-23T05:05:41.000Z"},{"site":"bilibili","sort":1,"title":"Blues","url":"https://www.bilibili.com/bangumi/play/ep82725","time":"2016-01-07T10:04:15.000Z"}]},{"id":9573,"sort":2,"name":"Pilots","sites":[{"site":"iqiyi","sort":2,"title":"Pilots","url":"http://www.iqiyi.com/v_19rrhnpvys.html","time":"2014-07-23T05:05:57.000Z"},{"site":"bilibili","sort":2,"title":"Pilots","url":"https://www.bilibili.com/bangumi/play/ep82726","time":"2016-01-07T10:04:15.000Z"}]},{"id":9574,"sort":3,"name":"Hearts","sites":[{"site":"iqiyi","sort":3,"title":"Hearts","url":"http://www.iqiyi.com/v_19rrhnpm7w.html","time":"2014-07-23T05:06:01.000Z"},{"site":"bilibili","sort":3,"title":"Hearts","url":"https://www.bilibili.com/bangumi/play/ep82727","time":"2016-01-07T10:04:15.000Z"}]},{"id":9575,"sort":4,"name":"Minasoko","sites":[{"site":"iqiyi","sort":4,"title":"Minasoko","url":"http://www.iqiyi.com/v_19rrhnplt4.html","time":"2014-07-23T05:05:55.000Z"},{"site":"bilibili","sort":4,"title":"Minasoko","url":"https://www.bilibili.com/bangumi/play/ep82728","time":"2016-01-07T10:04:15.000Z"}]}]}
+{
+ "id": "1933",
+ "name": "青の6号",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrginde9",
+   "sort": 4
+  },
+  {
+   "site": "bilibili",
+   "id": "3274",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 9572,
+   "sort": 1,
+   "name": "Blues",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "Blues",
+     "url": "http://www.iqiyi.com/v_19rrhnpwek.html",
+     "time": "2014-07-23T05:05:41.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Blues",
+     "url": "https://www.bilibili.com/bangumi/play/ep82725",
+     "time": "2016-01-07T10:04:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9573,
+   "sort": 2,
+   "name": "Pilots",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "Pilots",
+     "url": "http://www.iqiyi.com/v_19rrhnpvys.html",
+     "time": "2014-07-23T05:05:57.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "Pilots",
+     "url": "https://www.bilibili.com/bangumi/play/ep82726",
+     "time": "2016-01-07T10:04:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9574,
+   "sort": 3,
+   "name": "Hearts",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "Hearts",
+     "url": "http://www.iqiyi.com/v_19rrhnpm7w.html",
+     "time": "2014-07-23T05:06:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Hearts",
+     "url": "https://www.bilibili.com/bangumi/play/ep82727",
+     "time": "2016-01-07T10:04:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9575,
+   "sort": 4,
+   "name": "Minasoko",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "Minasoko",
+     "url": "http://www.iqiyi.com/v_19rrhnplt4.html",
+     "time": "2014-07-23T05:05:55.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Minasoko",
+     "url": "https://www.bilibili.com/bangumi/play/ep82728",
+     "time": "2016-01-07T10:04:15.000Z"
+    }
+   ]
+  }
+ ]
+}

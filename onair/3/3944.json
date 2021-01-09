@@ -1,1 +1,93 @@
-{"id":"3944","name":"舞-乙HiME Zwei","sites":[{"site":"qq","id":"1/1tzf4brkxs07agw","sort":4}],"eps":[{"id":28569,"sort":1,"name":"ユメノ☆ツヅキ","sites":[{"site":"qq","sort":1,"title":"舞-乙HIME Zwei OVA_01","url":"https://v.qq.com/x/cover/1tzf4brkxs07agw/s0033hn1lv7.html"},{"site":"acfun","sort":1,"title":"梦的延续","url":"https://www.acfun.cn/bangumi/ab6002266_36188_1723935","time":"2020-04-30T16:00:00.000Z"}]},{"id":28570,"sort":2,"name":"ア・ラ・シの予感","sites":[{"site":"qq","sort":2,"title":"舞-乙HIME Zwei OVA_02","url":"https://v.qq.com/x/cover/1tzf4brkxs07agw/i00339ms3c8.html"},{"site":"acfun","sort":2,"title":"暴·风·雨的预感","url":"https://www.acfun.cn/bangumi/ab6002266_36188_1723936","time":"2020-04-30T16:00:00.000Z"}]},{"id":28571,"sort":3,"name":"縞の舞/乙女の迷宮","sites":[{"site":"qq","sort":3,"title":"舞-乙HIME Zwei OVA_03","url":"https://v.qq.com/x/cover/1tzf4brkxs07agw/d0033j2pq75.html"},{"site":"acfun","sort":3,"title":"缟之舞/少女的迷宫","url":"https://www.acfun.cn/bangumi/ab6002266_36188_1723937","time":"2020-04-30T16:00:00.000Z"}]},{"id":28572,"sort":4,"name":"つながるゆめ","sites":[{"site":"qq","sort":4,"title":"舞-乙HIME Zwei OVA_04","url":"https://v.qq.com/x/cover/1tzf4brkxs07agw/x0033nwc47p.html"},{"site":"acfun","sort":4,"title":"连接起来的梦想","url":"https://www.acfun.cn/bangumi/ab6002266_36188_1723938","time":"2020-04-30T16:00:00.000Z"}]}]}
+{
+ "id": "3944",
+ "name": "舞-乙HiME Zwei",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "1/1tzf4brkxs07agw",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 28569,
+   "sort": 1,
+   "name": "ユメノ☆ツヅキ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "舞-乙HIME Zwei OVA_01",
+     "url": "https://v.qq.com/x/cover/1tzf4brkxs07agw/s0033hn1lv7.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "梦的延续",
+     "url": "https://www.acfun.cn/bangumi/ab6002266_36188_1723935",
+     "time": "2020-04-30T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28570,
+   "sort": 2,
+   "name": "ア・ラ・シの予感",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "舞-乙HIME Zwei OVA_02",
+     "url": "https://v.qq.com/x/cover/1tzf4brkxs07agw/i00339ms3c8.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 2,
+     "title": "暴·风·雨的预感",
+     "url": "https://www.acfun.cn/bangumi/ab6002266_36188_1723936",
+     "time": "2020-04-30T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28571,
+   "sort": 3,
+   "name": "縞の舞/乙女の迷宮",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "舞-乙HIME Zwei OVA_03",
+     "url": "https://v.qq.com/x/cover/1tzf4brkxs07agw/d0033j2pq75.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 3,
+     "title": "缟之舞/少女的迷宫",
+     "url": "https://www.acfun.cn/bangumi/ab6002266_36188_1723937",
+     "time": "2020-04-30T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28572,
+   "sort": 4,
+   "name": "つながるゆめ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "舞-乙HIME Zwei OVA_04",
+     "url": "https://v.qq.com/x/cover/1tzf4brkxs07agw/x0033nwc47p.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 4,
+     "title": "连接起来的梦想",
+     "url": "https://www.acfun.cn/bangumi/ab6002266_36188_1723938",
+     "time": "2020-04-30T16:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

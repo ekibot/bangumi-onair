@@ -1,1 +1,181 @@
-{"id":"256528","name":"同居人はひざ、時々、頭のうえ。","sites":[{"site":"bilibili","id":"4762694","sort":12}],"eps":[{"id":848334,"sort":1,"name":"未知との遭遇","sites":[{"site":"bilibili","sort":1,"title":"与未知的遭遇","url":"https://www.bilibili.com/bangumi/play/ep259806","time":"2019-01-09T16:00:00.000Z"}]},{"id":848335,"sort":2,"name":"君を呼ぶ","sites":[{"site":"bilibili","sort":2,"title":"呼唤你","url":"https://www.bilibili.com/bangumi/play/ep259807","time":"2019-01-16T16:00:00.000Z"}]},{"id":848336,"sort":3,"name":"君に触れる","sites":[{"site":"bilibili","sort":3,"title":"触碰你","url":"https://www.bilibili.com/bangumi/play/ep259808","time":"2019-01-23T16:00:00.000Z"}]},{"id":848337,"sort":4,"name":"君のため","sites":[{"site":"bilibili","sort":4,"title":"为了你","url":"https://www.bilibili.com/bangumi/play/ep259809","time":"2019-01-30T16:00:00.000Z"}]},{"id":848338,"sort":5,"name":"君に伝えたいこと","sites":[{"site":"bilibili","sort":5,"title":"想传达给你的","url":"https://www.bilibili.com/bangumi/play/ep259810","time":"2019-02-06T16:00:00.000Z"}]},{"id":848339,"sort":6,"name":"つながるもの","sites":[{"site":"bilibili","sort":6,"title":"连系之物","url":"https://www.bilibili.com/bangumi/play/ep259811","time":"2019-02-13T16:00:00.000Z"}]},{"id":848340,"sort":7,"name":"御せぬ君たち","sites":[{"site":"bilibili","sort":7,"title":"控制不住的你们","url":"https://www.bilibili.com/bangumi/play/ep259812","time":"2019-02-20T16:00:00.000Z"}]},{"id":848341,"sort":8,"name":"君がいるから","sites":[{"site":"bilibili","sort":8,"title":"因为有你","url":"https://www.bilibili.com/bangumi/play/ep259813","time":"2019-02-27T16:00:00.000Z"}]},{"id":848342,"sort":9,"name":"君にさしだす","sites":[{"site":"bilibili","sort":9,"title":"向你伸出手","url":"https://www.bilibili.com/bangumi/play/ep259814","time":"2019-03-06T16:00:00.000Z"}]},{"id":848343,"sort":10,"name":"いっしょごはん","sites":[{"site":"bilibili","sort":10,"title":"一起吃饭","url":"https://www.bilibili.com/bangumi/play/ep259815","time":"2019-03-13T16:00:00.000Z"}]},{"id":848344,"sort":11,"name":"巡る想い","sites":[{"site":"bilibili","sort":11,"title":"轮转的思念","url":"https://www.bilibili.com/bangumi/play/ep259816","time":"2019-03-20T16:00:00.000Z"}]},{"id":848345,"sort":12,"name":"君と僕と","sites":[{"site":"bilibili","sort":12,"title":"你和我","url":"https://www.bilibili.com/bangumi/play/ep259817","time":"2019-03-27T16:00:00.000Z"}]}]}
+{
+ "id": "256528",
+ "name": "同居人はひざ、時々、頭のうえ。",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4762694",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 848334,
+   "sort": 1,
+   "name": "未知との遭遇",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "与未知的遭遇",
+     "url": "https://www.bilibili.com/bangumi/play/ep259806",
+     "time": "2019-01-09T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 848335,
+   "sort": 2,
+   "name": "君を呼ぶ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "呼唤你",
+     "url": "https://www.bilibili.com/bangumi/play/ep259807",
+     "time": "2019-01-16T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 848336,
+   "sort": 3,
+   "name": "君に触れる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "触碰你",
+     "url": "https://www.bilibili.com/bangumi/play/ep259808",
+     "time": "2019-01-23T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 848337,
+   "sort": 4,
+   "name": "君のため",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "为了你",
+     "url": "https://www.bilibili.com/bangumi/play/ep259809",
+     "time": "2019-01-30T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 848338,
+   "sort": 5,
+   "name": "君に伝えたいこと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "想传达给你的",
+     "url": "https://www.bilibili.com/bangumi/play/ep259810",
+     "time": "2019-02-06T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 848339,
+   "sort": 6,
+   "name": "つながるもの",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "连系之物",
+     "url": "https://www.bilibili.com/bangumi/play/ep259811",
+     "time": "2019-02-13T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 848340,
+   "sort": 7,
+   "name": "御せぬ君たち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "控制不住的你们",
+     "url": "https://www.bilibili.com/bangumi/play/ep259812",
+     "time": "2019-02-20T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 848341,
+   "sort": 8,
+   "name": "君がいるから",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "因为有你",
+     "url": "https://www.bilibili.com/bangumi/play/ep259813",
+     "time": "2019-02-27T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 848342,
+   "sort": 9,
+   "name": "君にさしだす",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "向你伸出手",
+     "url": "https://www.bilibili.com/bangumi/play/ep259814",
+     "time": "2019-03-06T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 848343,
+   "sort": 10,
+   "name": "いっしょごはん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "一起吃饭",
+     "url": "https://www.bilibili.com/bangumi/play/ep259815",
+     "time": "2019-03-13T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 848344,
+   "sort": 11,
+   "name": "巡る想い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "轮转的思念",
+     "url": "https://www.bilibili.com/bangumi/play/ep259816",
+     "time": "2019-03-20T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 848345,
+   "sort": 12,
+   "name": "君と僕と",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "你和我",
+     "url": "https://www.bilibili.com/bangumi/play/ep259817",
+     "time": "2019-03-27T16:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

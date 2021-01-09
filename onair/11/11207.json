@@ -1,1 +1,41 @@
-{"id":"11207","name":"うさるさん","sites":[{"site":"bilibili","id":"4678","sort":2}],"eps":[{"id":66687,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"01&02","url":"https://www.bilibili.com/bangumi/play/ep102999","time":"2017-03-29T02:19:54.000Z"}]},{"id":66688,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"03&04","url":"https://www.bilibili.com/bangumi/play/ep103000","time":"2017-03-29T02:19:54.000Z"}]}]}
+{
+ "id": "11207",
+ "name": "うさるさん",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4678",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 66687,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "01&02",
+     "url": "https://www.bilibili.com/bangumi/play/ep102999",
+     "time": "2017-03-29T02:19:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66688,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "03&04",
+     "url": "https://www.bilibili.com/bangumi/play/ep103000",
+     "time": "2017-03-29T02:19:54.000Z"
+    }
+   ]
+  }
+ ]
+}

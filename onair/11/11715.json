@@ -1,1 +1,55 @@
-{"id":"11715","name":".hack//Quantum","sites":[{"site":"bilibili","id":"2933","sort":3}],"eps":[{"id":67751,"sort":1,"name":"Walking par†y","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep76192","time":"2015-10-31T13:12:21.000Z"}]},{"id":67752,"sort":2,"name":"Wired Prisφner","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep76193","time":"2015-10-31T13:12:21.000Z"}]},{"id":67753,"sort":3,"name":"the ωorldend Pallbearer","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep76194","time":"2015-10-31T13:12:21.000Z"}]}]}
+{
+ "id": "11715",
+ "name": ".hack//Quantum",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2933",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 67751,
+   "sort": 1,
+   "name": "Walking par†y",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep76192",
+     "time": "2015-10-31T13:12:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 67752,
+   "sort": 2,
+   "name": "Wired Prisφner",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep76193",
+     "time": "2015-10-31T13:12:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 67753,
+   "sort": 3,
+   "name": "the ωorldend Pallbearer",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep76194",
+     "time": "2015-10-31T13:12:21.000Z"
+    }
+   ]
+  }
+ ]
+}

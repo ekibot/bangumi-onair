@@ -1,1 +1,181 @@
-{"id":"175410","name":"ラグナストライクエンジェルズ","sites":[{"site":"bilibili","id":"4762","sort":12}],"eps":[{"id":624007,"sort":1,"name":"プロローグ -邂逅-","sites":[{"site":"bilibili","sort":1,"title":"序章 -邂逅-","url":"https://www.bilibili.com/bangumi/play/ep89695","time":"2016-06-13T09:28:30.000Z"}]},{"id":624008,"sort":2,"name":"まどろみの炬燵","sites":[{"site":"bilibili","sort":2,"title":"浅眠暖桌","url":"https://www.bilibili.com/bangumi/play/ep89696","time":"2016-06-13T09:28:44.000Z"}]},{"id":624009,"sort":3,"name":"あったかいんです","sites":[{"site":"bilibili","sort":3,"title":"好暖和","url":"https://www.bilibili.com/bangumi/play/ep89697","time":"2016-06-13T09:29:03.000Z"}]},{"id":624010,"sort":4,"name":"綾乃、いきます！","sites":[{"site":"bilibili","sort":4,"title":"绫乃、出动！","url":"https://www.bilibili.com/bangumi/play/ep89698","time":"2016-06-13T09:29:18.000Z"}]},{"id":624011,"sort":5,"name":"だって女の子だもん","sites":[{"site":"bilibili","sort":5,"title":"因为是女生嘛","url":"https://www.bilibili.com/bangumi/play/ep89699","time":"2016-06-13T09:29:36.000Z"}]},{"id":624012,"sort":6,"name":"フィアレム迎撃戦","sites":[{"site":"bilibili","sort":6,"title":"费亚雷姆迎击战","url":"https://www.bilibili.com/bangumi/play/ep89700","time":"2016-06-13T09:29:52.000Z"}]},{"id":624013,"sort":7,"name":"戦士にだってお風呂は必要なんです！","sites":[{"site":"bilibili","sort":7,"title":"就算是战士泡澡也是必要的！","url":"https://www.bilibili.com/bangumi/play/ep89701","time":"2016-06-13T09:30:09.000Z"}]},{"id":624014,"sort":8,"name":"ナイストーク！！","sites":[{"site":"bilibili","sort":8,"title":"Nice talk!!","url":"https://www.bilibili.com/bangumi/play/ep89702","time":"2016-06-13T09:30:28.000Z"}]},{"id":624015,"sort":9,"name":"ぷしっ","sites":[{"site":"bilibili","sort":9,"title":"啊嚏","url":"https://www.bilibili.com/bangumi/play/ep89703","time":"2016-06-13T09:30:41.000Z"}]},{"id":624016,"sort":10,"name":"すべてを守るために","sites":[{"site":"bilibili","sort":10,"title":"为了守护全部","url":"https://www.bilibili.com/bangumi/play/ep89704","time":"2016-06-13T09:30:56.000Z"}]},{"id":624017,"sort":11,"name":"絶望の空","sites":[{"site":"bilibili","sort":11,"title":"绝望之空","url":"https://www.bilibili.com/bangumi/play/ep89705","time":"2016-06-13T09:31:09.000Z"}]},{"id":624018,"sort":12,"name":"希望 -ラグナストライカーズ-","sites":[{"site":"bilibili","sort":12,"title":"希望 -Ragna Strikers-","url":"https://www.bilibili.com/bangumi/play/ep102822","time":"2017-03-25T07:11:34.000Z"}]}]}
+{
+ "id": "175410",
+ "name": "ラグナストライクエンジェルズ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4762",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 624007,
+   "sort": 1,
+   "name": "プロローグ -邂逅-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "序章 -邂逅-",
+     "url": "https://www.bilibili.com/bangumi/play/ep89695",
+     "time": "2016-06-13T09:28:30.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624008,
+   "sort": 2,
+   "name": "まどろみの炬燵",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "浅眠暖桌",
+     "url": "https://www.bilibili.com/bangumi/play/ep89696",
+     "time": "2016-06-13T09:28:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624009,
+   "sort": 3,
+   "name": "あったかいんです",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "好暖和",
+     "url": "https://www.bilibili.com/bangumi/play/ep89697",
+     "time": "2016-06-13T09:29:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624010,
+   "sort": 4,
+   "name": "綾乃、いきます！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "绫乃、出动！",
+     "url": "https://www.bilibili.com/bangumi/play/ep89698",
+     "time": "2016-06-13T09:29:18.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624011,
+   "sort": 5,
+   "name": "だって女の子だもん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "因为是女生嘛",
+     "url": "https://www.bilibili.com/bangumi/play/ep89699",
+     "time": "2016-06-13T09:29:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624012,
+   "sort": 6,
+   "name": "フィアレム迎撃戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "费亚雷姆迎击战",
+     "url": "https://www.bilibili.com/bangumi/play/ep89700",
+     "time": "2016-06-13T09:29:52.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624013,
+   "sort": 7,
+   "name": "戦士にだってお風呂は必要なんです！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "就算是战士泡澡也是必要的！",
+     "url": "https://www.bilibili.com/bangumi/play/ep89701",
+     "time": "2016-06-13T09:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624014,
+   "sort": 8,
+   "name": "ナイストーク！！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "Nice talk!!",
+     "url": "https://www.bilibili.com/bangumi/play/ep89702",
+     "time": "2016-06-13T09:30:28.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624015,
+   "sort": 9,
+   "name": "ぷしっ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "啊嚏",
+     "url": "https://www.bilibili.com/bangumi/play/ep89703",
+     "time": "2016-06-13T09:30:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624016,
+   "sort": 10,
+   "name": "すべてを守るために",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "为了守护全部",
+     "url": "https://www.bilibili.com/bangumi/play/ep89704",
+     "time": "2016-06-13T09:30:56.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624017,
+   "sort": 11,
+   "name": "絶望の空",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "绝望之空",
+     "url": "https://www.bilibili.com/bangumi/play/ep89705",
+     "time": "2016-06-13T09:31:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624018,
+   "sort": 12,
+   "name": "希望 -ラグナストライカーズ-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "希望 -Ragna Strikers-",
+     "url": "https://www.bilibili.com/bangumi/play/ep102822",
+     "time": "2017-03-25T07:11:34.000Z"
+    }
+   ]
+  }
+ ]
+}

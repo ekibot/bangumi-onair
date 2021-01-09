@@ -1,1 +1,195 @@
-{"id":"29648","name":"中二病でも恋がしたい！","sites":[{"site":"bilibili","id":"4340","sort":13}],"eps":[{"id":198011,"sort":1,"name":"邂逅の・・・邪王真眼","sites":[{"site":"bilibili","sort":1,"title":"邂逅的邪王真眼","url":"https://www.bilibili.com/bangumi/play/ep92744","time":"2016-07-18T07:12:20.000Z"}]},{"id":198012,"sort":2,"name":"旋律の・・・聖調理人（プリーステス）","sites":[{"site":"bilibili","sort":2,"title":"旋律的圣调理人","url":"https://www.bilibili.com/bangumi/play/ep92745","time":"2016-07-18T07:12:20.000Z"}]},{"id":198013,"sort":3,"name":"異端なる・・・双尾娘（ツインテール）","sites":[{"site":"bilibili","sort":3,"title":"异端的双尾娘","url":"https://www.bilibili.com/bangumi/play/ep92746","time":"2016-07-18T07:12:20.000Z"}]},{"id":198014,"sort":4,"name":"痛恨の・・・闇聖典（マビノギオン）","sites":[{"site":"bilibili","sort":4,"title":"痛恨的暗圣典","url":"https://www.bilibili.com/bangumi/play/ep92747","time":"2016-07-18T07:12:20.000Z"}]},{"id":198015,"sort":5,"name":"束縛の・・・十字架（ハード・スタディ）","sites":[{"site":"bilibili","sort":5,"title":"束缚的十字架","url":"https://www.bilibili.com/bangumi/play/ep92748","time":"2016-07-18T07:12:20.000Z"}]},{"id":198016,"sort":6,"name":"贖罪の・・・救世主（イノセント）","sites":[{"site":"bilibili","sort":6,"title":"赎罪的救世主","url":"https://www.bilibili.com/bangumi/play/ep92749","time":"2016-07-18T07:12:20.000Z"}]},{"id":198017,"sort":7,"name":"追憶の・・・ 楽園喪失（パラダイス・ロスト）","sites":[{"site":"bilibili","sort":7,"title":"追忆的乐园丧失","url":"https://www.bilibili.com/bangumi/play/ep92750","time":"2016-07-18T07:12:20.000Z"}]},{"id":198018,"sort":8,"name":"二人だけの・・・逃避行(エグザイル)","sites":[{"site":"bilibili","sort":8,"title":"只属二人的逃避行","url":"https://www.bilibili.com/bangumi/play/ep92751","time":"2016-07-18T07:12:20.000Z"}]},{"id":198019,"sort":9,"name":"混沌の・・・ 初恋煩（カオス・ハート）","sites":[{"site":"bilibili","sort":9,"title":"混沌的初恋烦","url":"https://www.bilibili.com/bangumi/play/ep92752","time":"2016-07-18T07:12:20.000Z"}]},{"id":198020,"sort":10,"name":"聖母の・・・弁当箱(パンドラズ・ボックス)","sites":[{"site":"bilibili","sort":10,"title":"圣母的便当盒","url":"https://www.bilibili.com/bangumi/play/ep92753","time":"2016-07-18T07:12:20.000Z"}]},{"id":198021,"sort":11,"name":"片翼の 堕天使（フォーリン・エンジェル）","sites":[{"site":"bilibili","sort":11,"title":"单翼的堕天使​","url":"https://www.bilibili.com/bangumi/play/ep92754","time":"2016-07-18T07:12:20.000Z"}]},{"id":198022,"sort":12,"name":"終天の契約（エターナル・エンゲージ）","sites":[{"site":"bilibili","sort":12,"title":"终天的契约","url":"https://www.bilibili.com/bangumi/play/ep92755","time":"2016-07-18T07:12:20.000Z"}]},{"id":227091,"sort":13,"name":"煌めきの・・・聖爆誕祭(スラップスティック・ノエル)","sites":[{"site":"bilibili","sort":13,"title":"闪亮的圣爆诞祭","url":"https://www.bilibili.com/bangumi/play/ep92756","time":"2016-07-18T07:12:20.000Z"}]}]}
+{
+ "id": "29648",
+ "name": "中二病でも恋がしたい！",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4340",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 198011,
+   "sort": 1,
+   "name": "邂逅の・・・邪王真眼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "邂逅的…邪王真眼",
+     "url": "https://www.bilibili.com/bangumi/play/ep329002",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198012,
+   "sort": 2,
+   "name": "旋律の・・・聖調理人（プリーステス）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "旋律的…圣调理人",
+     "url": "https://www.bilibili.com/bangumi/play/ep329003",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198013,
+   "sort": 3,
+   "name": "異端なる・・・双尾娘（ツインテール）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "异端的…双马尾 ",
+     "url": "https://www.bilibili.com/bangumi/play/ep329004",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198014,
+   "sort": 4,
+   "name": "痛恨の・・・闇聖典（マビノギオン）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "可恨的…黑暗圣典",
+     "url": "https://www.bilibili.com/bangumi/play/ep329005",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198015,
+   "sort": 5,
+   "name": "束縛の・・・十字架（ハード・スタディ）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "束缚的…十字架",
+     "url": "https://www.bilibili.com/bangumi/play/ep329006",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198016,
+   "sort": 6,
+   "name": "贖罪の・・・救世主（イノセント）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "赎罪的…救世主 ",
+     "url": "https://www.bilibili.com/bangumi/play/ep329007",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198017,
+   "sort": 7,
+   "name": "追憶の・・・ 楽園喪失（パラダイス・ロスト）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "追忆的…失乐园",
+     "url": "https://www.bilibili.com/bangumi/play/ep329009",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198018,
+   "sort": 8,
+   "name": "二人だけの・・・逃避行(エグザイル)",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "仅属于两人的…逃避之旅",
+     "url": "https://www.bilibili.com/bangumi/play/ep329010",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198019,
+   "sort": 9,
+   "name": "混沌の・・・ 初恋煩（カオス・ハート）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "混沌的…初恋烦恼 ",
+     "url": "https://www.bilibili.com/bangumi/play/ep329011",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198020,
+   "sort": 10,
+   "name": "聖母の・・・弁当箱(パンドラズ・ボックス)",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "圣母的…便当盒",
+     "url": "https://www.bilibili.com/bangumi/play/ep329012",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198021,
+   "sort": 11,
+   "name": "片翼の 堕天使（フォーリン・エンジェル）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "单翼的…堕天使",
+     "url": "https://www.bilibili.com/bangumi/play/ep329013",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198022,
+   "sort": 12,
+   "name": "終天の契約（エターナル・エンゲージ）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "终天之契约",
+     "url": "https://www.bilibili.com/bangumi/play/ep329014",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 227091,
+   "sort": 13,
+   "name": "煌めきの・・・聖爆誕祭(スラップスティック・ノエル)",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "闪光的…圣爆诞祭  ",
+     "url": "https://www.bilibili.com/bangumi/play/ep329015",
+     "time": "2020-06-19T10:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,209 @@
-{"id":"228378","name":"ツルネ ―風舞高校弓道部―","sites":[{"site":"bilibili","id":"139292","sort":14}],"eps":[{"id":831856,"sort":1,"name":"少年は矢庭に","sites":[{"site":"bilibili","sort":1,"title":"少年在射箭场","url":"https://www.bilibili.com/bangumi/play/ep251116","time":"2018-10-21T17:10:00.000Z"}]},{"id":831857,"sort":2,"name":"矢も楯の堪らず","sites":[{"site":"bilibili","sort":2,"title":"迫不及待","url":"https://www.bilibili.com/bangumi/play/ep251117","time":"2018-10-28T17:10:00.000Z"}]},{"id":831858,"sort":3,"name":"出会いの矢先","sites":[{"site":"bilibili","sort":3,"title":"正当相遇之时","url":"https://www.bilibili.com/bangumi/play/ep251118","time":"2018-11-04T17:10:00.000Z"}]},{"id":831859,"sort":4,"name":"合わない筈","sites":[{"site":"bilibili","sort":4,"title":"不协调的箭尾","url":"https://www.bilibili.com/bangumi/play/ep251119","time":"2018-11-11T17:10:00.000Z"}]},{"id":831860,"sort":5,"name":"矢の使いで","sites":[{"site":"bilibili","sort":5,"title":"事出突然","url":"https://www.bilibili.com/bangumi/play/ep251120","time":"2018-11-18T17:10:00.000Z"}]},{"id":831861,"sort":6,"name":"弓引く理由","sites":[{"site":"bilibili","sort":6,"title":"拉弓的理由","url":"https://www.bilibili.com/bangumi/play/ep251121","time":"2018-11-25T17:10:00.000Z"}]},{"id":831862,"sort":7,"name":"再、会","sites":[{"site":"bilibili","sort":7,"title":"再会","url":"https://www.bilibili.com/bangumi/play/ep251122","time":"2018-12-02T17:10:00.000Z"}]},{"id":831863,"sort":8,"name":"矢を向けて","sites":[{"site":"bilibili","sort":8,"title":"箭矢所向","url":"https://www.bilibili.com/bangumi/play/ep251123","time":"2018-12-09T17:10:00.000Z"}]},{"id":831864,"sort":9,"name":"明かせぬ手の内","sites":[{"site":"bilibili","sort":9,"title":"猜不透的想法","url":"https://www.bilibili.com/bangumi/play/ep251124","time":"2018-12-16T17:10:00.000Z"}]},{"id":831865,"sort":10,"name":"離れぬ心","sites":[{"site":"bilibili","sort":10,"title":"永不分离的心","url":"https://www.bilibili.com/bangumi/play/ep251125","time":"2018-12-23T17:10:00.000Z"}]},{"id":831866,"sort":11,"name":"空筈の痛み","sites":[{"site":"bilibili","sort":11,"title":"脱弦的痛楚","url":"https://www.bilibili.com/bangumi/play/ep251126","time":"2019-01-06T17:10:00.000Z"}]},{"id":831867,"sort":12,"name":"五本の矢","sites":[{"site":"bilibili","sort":12,"title":"五支箭","url":"https://www.bilibili.com/bangumi/play/ep251127","time":"2019-01-13T17:10:00.000Z"}]},{"id":831868,"sort":13,"name":"かけがえのない","sites":[{"site":"bilibili","sort":13,"title":"无可替代","url":"https://www.bilibili.com/bangumi/play/ep260661","time":"2019-01-20T17:10:00.000Z"}]},{"id":848434,"sort":14,"name":"矢場い","sites":[{"site":"bilibili","sort":14,"title":"大事不妙","url":"https://www.bilibili.com/bangumi/play/ep270882","time":"2019-04-30T15:00:00.000Z"}]}]}
+{
+ "id": "228378",
+ "name": "ツルネ ―風舞高校弓道部―",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "139292",
+   "sort": 14
+  }
+ ],
+ "eps": [
+  {
+   "id": 831856,
+   "sort": 1,
+   "name": "少年は矢庭に",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "少年在射箭场",
+     "url": "https://www.bilibili.com/bangumi/play/ep251116",
+     "time": "2018-10-21T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831857,
+   "sort": 2,
+   "name": "矢も楯の堪らず",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "迫不及待",
+     "url": "https://www.bilibili.com/bangumi/play/ep251117",
+     "time": "2018-10-28T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831858,
+   "sort": 3,
+   "name": "出会いの矢先",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "正当相遇之时",
+     "url": "https://www.bilibili.com/bangumi/play/ep251118",
+     "time": "2018-11-04T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831859,
+   "sort": 4,
+   "name": "合わない筈",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "不协调的箭尾",
+     "url": "https://www.bilibili.com/bangumi/play/ep251119",
+     "time": "2018-11-11T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831860,
+   "sort": 5,
+   "name": "矢の使いで",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "事出突然",
+     "url": "https://www.bilibili.com/bangumi/play/ep251120",
+     "time": "2018-11-18T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831861,
+   "sort": 6,
+   "name": "弓引く理由",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "拉弓的理由",
+     "url": "https://www.bilibili.com/bangumi/play/ep251121",
+     "time": "2018-11-25T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831862,
+   "sort": 7,
+   "name": "再、会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "再会",
+     "url": "https://www.bilibili.com/bangumi/play/ep251122",
+     "time": "2018-12-02T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831863,
+   "sort": 8,
+   "name": "矢を向けて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "箭矢所向",
+     "url": "https://www.bilibili.com/bangumi/play/ep251123",
+     "time": "2018-12-09T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831864,
+   "sort": 9,
+   "name": "明かせぬ手の内",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "猜不透的想法",
+     "url": "https://www.bilibili.com/bangumi/play/ep251124",
+     "time": "2018-12-16T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831865,
+   "sort": 10,
+   "name": "離れぬ心",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "永不分离的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep251125",
+     "time": "2018-12-23T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831866,
+   "sort": 11,
+   "name": "空筈の痛み",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "脱弦的痛楚",
+     "url": "https://www.bilibili.com/bangumi/play/ep251126",
+     "time": "2019-01-06T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831867,
+   "sort": 12,
+   "name": "五本の矢",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "五支箭",
+     "url": "https://www.bilibili.com/bangumi/play/ep251127",
+     "time": "2019-01-13T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 831868,
+   "sort": 13,
+   "name": "かけがえのない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "无可替代",
+     "url": "https://www.bilibili.com/bangumi/play/ep260661",
+     "time": "2019-01-20T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 848434,
+   "sort": 14,
+   "name": "矢場い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "大事不妙",
+     "url": "https://www.bilibili.com/bangumi/play/ep270882",
+     "time": "2019-04-30T15:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

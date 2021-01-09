@@ -1,1 +1,41 @@
-{"id":"7365","name":"セイント・ビースト ～幾千の昼と夜 編～","sites":[{"site":"bilibili","id":"1976","sort":2}],"eps":[{"id":43549,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"四圣兽 ～几千个昼与夜篇～ 上","url":"https://www.bilibili.com/bangumi/play/ep42440","time":"2013-01-29T16:27:29.000Z"}]},{"id":43550,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"四圣兽 ～几千个昼与夜篇～ 下","url":"https://www.bilibili.com/bangumi/play/ep42441","time":"2013-01-29T16:27:29.000Z"}]}]}
+{
+ "id": "7365",
+ "name": "セイント・ビースト ～幾千の昼と夜 編～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1976",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 43549,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "四圣兽 ～几千个昼与夜篇～ 上",
+     "url": "https://www.bilibili.com/bangumi/play/ep42440",
+     "time": "2013-01-29T16:27:29.000Z"
+    }
+   ]
+  },
+  {
+   "id": 43550,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "四圣兽 ～几千个昼与夜篇～ 下",
+     "url": "https://www.bilibili.com/bangumi/play/ep42441",
+     "time": "2013-01-29T16:27:29.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,195 @@
-{"id":"1730","name":"よくわかる現代魔法","sites":[{"site":"bilibili","id":"3129","sort":13}],"eps":[{"id":12553,"sort":0,"name":"cruncha cruncha cruncha","sites":[{"site":"bilibili","sort":0,"title":"cruncha cruncha cruncha","url":"https://www.bilibili.com/bangumi/play/ep80748","time":"2015-12-02T10:06:26.000Z"}]},{"id":7280,"sort":1,"name":"hello, world","sites":[{"site":"bilibili","sort":1,"title":"hello, world","url":"https://www.bilibili.com/bangumi/play/ep80749","time":"2015-12-02T10:06:26.000Z"}]},{"id":7281,"sort":2,"name":"wizardry","sites":[{"site":"bilibili","sort":2,"title":"wizardry","url":"https://www.bilibili.com/bangumi/play/ep80750","time":"2015-12-02T10:06:26.000Z"}]},{"id":7282,"sort":3,"name":"Deus In Machina","sites":[{"site":"bilibili","sort":3,"title":"Deus In Machina","url":"https://www.bilibili.com/bangumi/play/ep80751","time":"2015-12-02T10:06:26.000Z"}]},{"id":7283,"sort":4,"name":"jini","sites":[{"site":"bilibili","sort":4,"title":"jini","url":"https://www.bilibili.com/bangumi/play/ep80752","time":"2015-12-02T10:06:26.000Z"}]},{"id":7284,"sort":5,"name":"jump off into never-never land","sites":[{"site":"bilibili","sort":5,"title":"jump off into never-never land","url":"https://www.bilibili.com/bangumi/play/ep80753","time":"2015-12-02T10:06:26.000Z"}]},{"id":7285,"sort":6,"name":"ghostscript","sites":[{"site":"bilibili","sort":6,"title":"ghostscript","url":"https://www.bilibili.com/bangumi/play/ep80754","time":"2015-12-02T10:06:26.000Z"}]},{"id":7286,"sort":7,"name":"voodoo programming","sites":[{"site":"bilibili","sort":7,"title":"voodoo programming","url":"https://www.bilibili.com/bangumi/play/ep80755","time":"2015-12-02T10:06:26.000Z"}]},{"id":7287,"sort":8,"name":"scratch monkey","sites":[{"site":"bilibili","sort":8,"title":"scratch monkey","url":"https://www.bilibili.com/bangumi/play/ep80756","time":"2015-12-02T10:06:26.000Z"}]},{"id":7288,"sort":9,"name":"Open DeathTrap","sites":[{"site":"bilibili","sort":9,"title":"Open DeathTrap","url":"https://www.bilibili.com/bangumi/play/ep80757","time":"2015-12-02T10:06:26.000Z"}]},{"id":7289,"sort":10,"name":"quick-and-dirty","sites":[{"site":"bilibili","sort":10,"title":"quick-and-dirty","url":"https://www.bilibili.com/bangumi/play/ep80758","time":"2015-12-02T10:06:26.000Z"}]},{"id":7290,"sort":11,"name":"Dragon Book","sites":[{"site":"bilibili","sort":11,"title":"Dragon Book","url":"https://www.bilibili.com/bangumi/play/ep80759","time":"2015-12-02T10:06:26.000Z"}]},{"id":7291,"sort":12,"name":"TMTOWTDI","sites":[{"site":"bilibili","sort":12,"title":"TMTOWTDI","url":"https://www.bilibili.com/bangumi/play/ep80760","time":"2015-12-02T10:06:26.000Z"}]}]}
+{
+ "id": "1730",
+ "name": "よくわかる現代魔法",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3129",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 12553,
+   "sort": 0,
+   "name": "cruncha cruncha cruncha",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 0,
+     "title": "cruncha cruncha cruncha",
+     "url": "https://www.bilibili.com/bangumi/play/ep80748",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7280,
+   "sort": 1,
+   "name": "hello, world",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "hello, world",
+     "url": "https://www.bilibili.com/bangumi/play/ep80749",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7281,
+   "sort": 2,
+   "name": "wizardry",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "wizardry",
+     "url": "https://www.bilibili.com/bangumi/play/ep80750",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7282,
+   "sort": 3,
+   "name": "Deus In Machina",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Deus In Machina",
+     "url": "https://www.bilibili.com/bangumi/play/ep80751",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7283,
+   "sort": 4,
+   "name": "jini",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "jini",
+     "url": "https://www.bilibili.com/bangumi/play/ep80752",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7284,
+   "sort": 5,
+   "name": "jump off into never-never land",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "jump off into never-never land",
+     "url": "https://www.bilibili.com/bangumi/play/ep80753",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7285,
+   "sort": 6,
+   "name": "ghostscript",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "ghostscript",
+     "url": "https://www.bilibili.com/bangumi/play/ep80754",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7286,
+   "sort": 7,
+   "name": "voodoo programming",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "voodoo programming",
+     "url": "https://www.bilibili.com/bangumi/play/ep80755",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7287,
+   "sort": 8,
+   "name": "scratch monkey",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "scratch monkey",
+     "url": "https://www.bilibili.com/bangumi/play/ep80756",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7288,
+   "sort": 9,
+   "name": "Open DeathTrap",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "Open DeathTrap",
+     "url": "https://www.bilibili.com/bangumi/play/ep80757",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7289,
+   "sort": 10,
+   "name": "quick-and-dirty",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "quick-and-dirty",
+     "url": "https://www.bilibili.com/bangumi/play/ep80758",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7290,
+   "sort": 11,
+   "name": "Dragon Book",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "Dragon Book",
+     "url": "https://www.bilibili.com/bangumi/play/ep80759",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 7291,
+   "sort": 12,
+   "name": "TMTOWTDI",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "TMTOWTDI",
+     "url": "https://www.bilibili.com/bangumi/play/ep80760",
+     "time": "2015-12-02T10:06:26.000Z"
+    }
+   ]
+  }
+ ]
+}

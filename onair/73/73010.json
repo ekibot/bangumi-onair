@@ -1,1 +1,278 @@
-{"id":"73010","name":"おとぎストーリー 天使のしっぽ","sites":[{"site":"qq","id":"f/fataqofbrg3l7y8","sort":14},{"site":"bilibili","id":"2094","sort":13}],"eps":[{"id":269601,"sort":1,"name":"忘れえぬ絆","sites":[{"site":"qq","sort":1,"title":"天使的尾巴01","url":"http://www.letv.com/ptv/vplay/412781.html"},{"site":"bilibili","sort":1,"title":"忘不了的牵绊","url":"https://www.bilibili.com/bangumi/play/ep45558","time":"2015-01-27T11:23:40.000Z"}]},{"id":269602,"sort":2,"name":"トラウマなんて、こわくない!","sites":[{"site":"qq","sort":2,"title":"天使的尾巴02","url":"http://www.letv.com/ptv/vplay/412782.html"},{"site":"bilibili","sort":2,"title":"心灵创伤 我不怕!","url":"https://www.bilibili.com/bangumi/play/ep45559","time":"2015-01-27T11:23:40.000Z"}]},{"id":269603,"sort":3,"name":"お世話はおまかせ、ご主人様!","sites":[{"site":"qq","sort":3,"title":"天使的尾巴03","url":"http://www.letv.com/ptv/vplay/412783.html"},{"site":"bilibili","sort":3,"title":"让我来照顾您吧 主人!","url":"https://www.bilibili.com/bangumi/play/ep45560","time":"2015-01-27T11:23:40.000Z"}]},{"id":269604,"sort":4,"name":"いやだよ、サヨナラ…","sites":[{"site":"qq","sort":4,"title":"天使的尾巴04","url":"http://www.letv.com/ptv/vplay/412784.html"},{"site":"bilibili","sort":4,"title":"我不要说再见…","url":"https://www.bilibili.com/bangumi/play/ep45561","time":"2015-01-27T11:23:40.000Z"}]},{"id":269605,"sort":5,"name":"思い出して、ご主人様","sites":[{"site":"qq","sort":5,"title":"天使的尾巴05","url":"http://www.letv.com/ptv/vplay/412785.html"},{"site":"bilibili","sort":5,"title":"请回想起来 主人","url":"https://www.bilibili.com/bangumi/play/ep45562","time":"2015-01-27T11:23:40.000Z"}]},{"id":269606,"sort":6,"name":"おソバ屋さんのご主人様","sites":[{"site":"qq","sort":6,"title":"天使的尾巴06","url":"http://www.letv.com/ptv/vplay/412786.html"},{"site":"bilibili","sort":6,"title":"荞麦面店的主人","url":"https://www.bilibili.com/bangumi/play/ep45564","time":"2015-01-27T11:23:40.000Z"}]},{"id":269607,"sort":7,"name":"ちっちゃな天使の小学校","sites":[{"site":"qq","sort":7,"title":"天使的尾巴07","url":"http://www.letv.com/ptv/vplay/412788.html"},{"site":"bilibili","sort":7,"title":"小小天使的小学","url":"https://www.bilibili.com/bangumi/play/ep45565","time":"2015-01-27T11:23:40.000Z"}]},{"id":269608,"sort":8,"name":"危険なアルバイト!?","sites":[{"site":"qq","sort":8,"title":"天使的尾巴08","url":"http://www.letv.com/ptv/vplay/412790.html"},{"site":"bilibili","sort":8,"title":"危险的打工!?","url":"https://www.bilibili.com/bangumi/play/ep45566","time":"2015-01-27T11:23:40.000Z"}]},{"id":269609,"sort":9,"name":"芽生えはじめたキモチ","sites":[{"site":"qq","sort":9,"title":"天使的尾巴09","url":"http://www.letv.com/ptv/vplay/412793.html"},{"site":"bilibili","sort":9,"title":"萌芽的心情","url":"https://www.bilibili.com/bangumi/play/ep45567","time":"2015-01-27T11:23:40.000Z"}]},{"id":269610,"sort":10,"name":"この身にかえてもお守りします!","sites":[{"site":"qq","sort":10,"title":"天使的尾巴10","url":"http://www.letv.com/ptv/vplay/412797.html"},{"site":"bilibili","sort":10,"title":"即使赌上性命也要守护您","url":"https://www.bilibili.com/bangumi/play/ep45568","time":"2015-01-27T11:23:40.000Z"}]},{"id":269611,"sort":11,"name":"…別れはいつも、突然に","sites":[{"site":"qq","sort":11,"title":"天使的尾巴11","url":"http://www.letv.com/ptv/vplay/412801.html"},{"site":"bilibili","sort":11,"title":"离别总是突然来临…","url":"https://www.bilibili.com/bangumi/play/ep45569","time":"2015-01-27T11:23:40.000Z"}]},{"id":269612,"sort":12,"name":"ご主人様、だ～いすきっ!","sites":[{"site":"qq","sort":12,"title":"天使的尾巴12","url":"http://www.letv.com/ptv/vplay/412933.html"},{"site":"bilibili","sort":12,"title":"我最喜欢主人了","url":"https://www.bilibili.com/bangumi/play/ep45570","time":"2015-01-27T11:23:40.000Z"}]},{"id":727767,"sort":13,"name":"忘れえぬ…人","sites":[{"site":"qq","sort":13,"title":"天使的尾巴13","url":"http://www.letv.com/ptv/vplay/412981.html"},{"site":"bilibili","sort":13,"title":"难忘的人","url":"https://www.bilibili.com/bangumi/play/ep45571","time":"2015-01-27T11:23:40.000Z"}]}]}
+{
+ "id": "73010",
+ "name": "おとぎストーリー 天使のしっぽ",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "f/fataqofbrg3l7y8",
+   "sort": 14
+  },
+  {
+   "site": "bilibili",
+   "id": "2094",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 269601,
+   "sort": 1,
+   "name": "忘れえぬ絆",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "天使的尾巴01",
+     "url": "http://www.letv.com/ptv/vplay/412781.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "忘不了的牵绊",
+     "url": "https://www.bilibili.com/bangumi/play/ep45558",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 269602,
+   "sort": 2,
+   "name": "トラウマなんて、こわくない!",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "天使的尾巴02",
+     "url": "http://www.letv.com/ptv/vplay/412782.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "心灵创伤 我不怕!",
+     "url": "https://www.bilibili.com/bangumi/play/ep45559",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 269603,
+   "sort": 3,
+   "name": "お世話はおまかせ、ご主人様!",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "天使的尾巴03",
+     "url": "http://www.letv.com/ptv/vplay/412783.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "让我来照顾您吧 主人!",
+     "url": "https://www.bilibili.com/bangumi/play/ep45560",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 269604,
+   "sort": 4,
+   "name": "いやだよ、サヨナラ…",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "天使的尾巴04",
+     "url": "http://www.letv.com/ptv/vplay/412784.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "我不要说再见…",
+     "url": "https://www.bilibili.com/bangumi/play/ep45561",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 269605,
+   "sort": 5,
+   "name": "思い出して、ご主人様",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "天使的尾巴05",
+     "url": "http://www.letv.com/ptv/vplay/412785.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "请回想起来 主人",
+     "url": "https://www.bilibili.com/bangumi/play/ep45562",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 269606,
+   "sort": 6,
+   "name": "おソバ屋さんのご主人様",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "天使的尾巴06",
+     "url": "http://www.letv.com/ptv/vplay/412786.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "荞麦面店的主人",
+     "url": "https://www.bilibili.com/bangumi/play/ep45564",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 269607,
+   "sort": 7,
+   "name": "ちっちゃな天使の小学校",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "天使的尾巴07",
+     "url": "http://www.letv.com/ptv/vplay/412788.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "小小天使的小学",
+     "url": "https://www.bilibili.com/bangumi/play/ep45565",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 269608,
+   "sort": 8,
+   "name": "危険なアルバイト!?",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "天使的尾巴08",
+     "url": "http://www.letv.com/ptv/vplay/412790.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "危险的打工!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep45566",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 269609,
+   "sort": 9,
+   "name": "芽生えはじめたキモチ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "天使的尾巴09",
+     "url": "http://www.letv.com/ptv/vplay/412793.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "萌芽的心情",
+     "url": "https://www.bilibili.com/bangumi/play/ep45567",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 269610,
+   "sort": 10,
+   "name": "この身にかえてもお守りします!",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "天使的尾巴10",
+     "url": "http://www.letv.com/ptv/vplay/412797.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "即使赌上性命也要守护您",
+     "url": "https://www.bilibili.com/bangumi/play/ep45568",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 269611,
+   "sort": 11,
+   "name": "…別れはいつも、突然に",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "天使的尾巴11",
+     "url": "http://www.letv.com/ptv/vplay/412801.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "离别总是突然来临…",
+     "url": "https://www.bilibili.com/bangumi/play/ep45569",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 269612,
+   "sort": 12,
+   "name": "ご主人様、だ～いすきっ!",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "天使的尾巴12",
+     "url": "http://www.letv.com/ptv/vplay/412933.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "我最喜欢主人了",
+     "url": "https://www.bilibili.com/bangumi/play/ep45570",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727767,
+   "sort": 13,
+   "name": "忘れえぬ…人",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "天使的尾巴13",
+     "url": "http://www.letv.com/ptv/vplay/412981.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "难忘的人",
+     "url": "https://www.bilibili.com/bangumi/play/ep45571",
+     "time": "2015-01-27T11:23:40.000Z"
+    }
+   ]
+  }
+ ]
+}

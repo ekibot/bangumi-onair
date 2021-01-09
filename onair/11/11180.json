@@ -1,0 +1,676 @@
+{
+ "id": "11180",
+ "name": "プリティーリズム・オーロラドリーム",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "0135845889d111e0a046",
+   "sort": 51
+  }
+ ],
+ "eps": [
+  {
+   "id": 84654,
+   "sort": 1,
+   "name": "スタア誕生!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 明星诞生",
+     "url": "https://v.youku.com/v_show/id_XNDk3MzczMTI0.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 84655,
+   "sort": 2,
+   "name": "りずむ、心のジャンプ!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 律舞 为了心中的一跳",
+     "url": "https://v.youku.com/v_show/id_XNDk3MzczMjY4.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 84656,
+   "sort": 3,
+   "name": "これがコーチ!?ラビチとベアチ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话  这个就是教练?拉维奇和贝尔奇",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzc0NTE2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 84657,
+   "sort": 4,
+   "name": "イースターは胸キュン体験!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 复活节的心跳体验",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzc0Nzg4.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 84658,
+   "sort": 5,
+   "name": "パパにはナイショでファッションショー",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 对爸爸保密的时装表演",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzc1Njg0.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 84659,
+   "sort": 6,
+   "name": "プリズムの輝きはいつもここに",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 Prism的光辉一直在这里",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzc1OTQw.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 84660,
+   "sort": 7,
+   "name": "絶交!?あいらとりずむの大ゲンカ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 绝交!?爱良和律舞闹别扭",
+     "url": "https://v.youku.com/v_show/id_XNDk3MzgzNTk2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 84661,
+   "sort": 8,
+   "name": "りずむピンチ!お勉強大作戦",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 律舞大危机 学习大作战",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzg0ODYw.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 84662,
+   "sort": 9,
+   "name": "学園祭と秘密の約束",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 学园祭和秘密的约定",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzc3MjUy.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 84663,
+   "sort": 10,
+   "name": "雨のちラブリーレインボー",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 雨后架起爱的彩虹",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzc3Mjc2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 84664,
+   "sort": 11,
+   "name": "開幕!ティアラカップ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 开幕 tiaracub",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzc4NDc2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 84665,
+   "sort": 12,
+   "name": "勝利の栄冠（ティアラ）は誰の手に!?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 胜利的荣冠会向谁微笑",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzc4Mzcy.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 84666,
+   "sort": 13,
+   "name": "アンディの涙",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 13,
+     "title": "第13话 安迪的眼泪",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzc5NzYw.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113443,
+   "sort": 14,
+   "name": "みおんスイッチオン",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 14,
+     "title": "第14话 美音 switch on",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzc5ODgw.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113456,
+   "sort": 15,
+   "name": "めらめらハートがあつくなる!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 15,
+     "title": "第15话 魅惑之心变得火热",
+     "url": "https://v.youku.com/v_show/id_XNDk3MzgwODM2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113457,
+   "sort": 16,
+   "name": "ネコチの試練",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 16,
+     "title": "第16话 猫地的试炼",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzg5NDQ4.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113458,
+   "sort": 17,
+   "name": "ハピラキサマーはケーキで特訓!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 17,
+     "title": "第17话 happy lucky summer就要进行蛋糕训练",
+     "url": "https://v.youku.com/v_show/id_XNDk3MzgzNzYw.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113459,
+   "sort": 18,
+   "name": "夜空に花咲く恋ゴコロ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 18,
+     "title": "第18话 绽放于夜空的恋爱心火",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzg0OTM2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113460,
+   "sort": 19,
+   "name": "デュオ決定!運命のガールズ・デート",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 19,
+     "title": "第19话 组合决定!命运的女生约会",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzg1NjYw.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113461,
+   "sort": 20,
+   "name": "ライバルは関西っ娘!セレナと花音登場!!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 20,
+     "title": "第20话 对手是关西人!萨莉娜和花音登场!",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzg1ODk2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113462,
+   "sort": 21,
+   "name": "嵐のサマークイーンカップ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 21,
+     "title": "第21话 暴风雨的夏日王后杯",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzg3NDQ0.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113463,
+   "sort": 22,
+   "name": "スケート座の祝福を君に!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 22,
+     "title": "第22话 把冰鞋座的祝福送给你",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzk0MjQw.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113464,
+   "sort": 23,
+   "name": "MARsドキドキ芸能界デビュー",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 23,
+     "title": "第23话 MARs心跳加速的演艺界出道",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzk0Njc2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113465,
+   "sort": 24,
+   "name": "修学旅行でお笑い対決",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 24,
+     "title": "第24话 修学旅行的搞笑对决",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzg5OTI0.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113466,
+   "sort": 25,
+   "name": "友情の誓い!オーロラの翼",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 25,
+     "title": "第25话 友情的誓言!彩虹的翅膀",
+     "url": "https://v.youku.com/v_show/id_XNDk3MzkwMjM2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113504,
+   "sort": 26,
+   "name": "こねてまとめる!勝負のプリティーレシピ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 26,
+     "title": "第26话 总结过往!胜负之美妙菜谱",
+     "url": "https://v.youku.com/v_show/id_XNDk3MzkwNTgw.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113505,
+   "sort": 27,
+   "name": "南国ビーチのドルフィンビーナス",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 27,
+     "title": "第27话 南国沙滩的海豚维纳斯",
+     "url": "https://v.youku.com/v_show/id_XNDk3MzkwODg0.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113506,
+   "sort": 28,
+   "name": "頑固オヤジにはちみつキッス",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 28,
+     "title": "第28话 给顽固大爷 一个蜂蜜般的吻",
+     "url": "https://v.youku.com/v_show/id_XNDk3MzkxMzQ4.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113507,
+   "sort": 29,
+   "name": "トリオでジャンプ!Hip Hop Win!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 29,
+     "title": "第29话 三重奏的跳跃!Hip Hop Win!",
+     "url": "https://v.youku.com/v_show/id_XNDk3MzkxOTY0.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113508,
+   "sort": 30,
+   "name": "ドキドキハロウィンはときめきじゃナイト☆",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 30,
+     "title": "第30话 心跳万圣节就得心跳不已",
+     "url": "https://v.youku.com/v_show/id_XNTE0NDA1NjMy.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113509,
+   "sort": 31,
+   "name": "あいらとふれあ、コラボっちゃお♥",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 31,
+     "title": "第31话 爱良和芙莉亚 共同创作吧",
+     "url": "https://v.youku.com/v_show/id_XNDk3MzkyODAw.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113510,
+   "sort": 32,
+   "name": "爆笑!せれのん浅草漫才修行",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 32,
+     "title": "第32话 爆笑 萨莉音浅草漫才修行",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDAxMDc2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113511,
+   "sort": 33,
+   "name": "あいら in ワンダーガール",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 33,
+     "title": "第33话 爱良 in 奇迹少女",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzk2MjM2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113512,
+   "sort": 34,
+   "name": "これって恋!?芸能界ラブバトル",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 34,
+     "title": "第34话 这就是恋爱!?演艺界爱情之战",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzk1NTQ0.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113513,
+   "sort": 35,
+   "name": "MARsドリームライブ!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 35,
+     "title": "第35话 MARs 如梦般的演唱会!",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzk3NDM2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113514,
+   "sort": 36,
+   "name": "かなめは天使(エンジェル)?それとも悪魔(デビル)?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 36,
+     "title": "第36话 小要是天使?亦或是恶魔?",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzk4OTY0.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113515,
+   "sort": 37,
+   "name": "激闘!クリスタルハイヒールカップ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 37,
+     "title": "第37话 激斗!水晶鞋杯!",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzk4MDM2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113516,
+   "sort": 38,
+   "name": "ミラクル・スノーの降る夜に",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 38,
+     "title": "第38话 在奇迹之雪降临之夜",
+     "url": "https://v.youku.com/v_show/id_XNDk3Mzk5NTQ0.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113517,
+   "sort": 39,
+   "name": "新春特番・プリズムショーの魅力に迫る!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 39,
+     "title": "第39话 新春特别节目 零距离解析Prism Show的魅力",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDA0OTQ4.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113518,
+   "sort": 40,
+   "name": "それぞれの決意",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 40,
+     "title": "第40话 各自的决心",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDAwMzA0.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113519,
+   "sort": 41,
+   "name": "ピュアプレミアムウェディングの願い",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 41,
+     "title": "第41话 纯洁至尊婚纱的心愿",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDA2MzA4.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113520,
+   "sort": 42,
+   "name": "りずむとそなた、運命の再会",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 42,
+     "title": "第42话 律舞和其方 命运的重逢",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDAxMjk2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113521,
+   "sort": 43,
+   "name": "友情のピュアホワイトウェディング",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 43,
+     "title": "第43话 友情的纯白婚纱",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDAxNjQw.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113522,
+   "sort": 44,
+   "name": "スイート&amp;ビターバレンタイン",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 44,
+     "title": "第44话 甜美而苦涩的情人节",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDAxODQ4.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113523,
+   "sort": 45,
+   "name": "光訪ねてブエノスアイレス",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 45,
+     "title": "第45话 早放光芒的布宜诺斯艾利斯",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDAyMjU2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113528,
+   "sort": 46,
+   "name": "対決! あいらVSりずむ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 46,
+     "title": "第46话 对决!爱良VS律舞",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDAyODI4.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113529,
+   "sort": 47,
+   "name": "ファイナリストをかけて",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 47,
+     "title": "第47话 为决赛而战",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDAzNDUy.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113530,
+   "sort": 48,
+   "name": "そなたの冬",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 48,
+     "title": "第48话 其方的寒冬",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDAzODg0.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113531,
+   "sort": 49,
+   "name": "舞い上がれ! オーロラの翼",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 49,
+     "title": "第49话 起舞吧 极光之翼",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDA5NDM2.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113532,
+   "sort": 50,
+   "name": "新プリズムクイーン誕生!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 50,
+     "title": "第50话 新三棱镜女王诞生!",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDA1NDAw.html?s=0135845889d111e0a046"
+    }
+   ]
+  },
+  {
+   "id": 113533,
+   "sort": 51,
+   "name": "Dream goes on…",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 51,
+     "title": "第51话 Dream goes on",
+     "url": "https://v.youku.com/v_show/id_XNDk3NDA3MzEy.html?s=0135845889d111e0a046"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,138 @@
-{"id":"1839","name":"半分の月がのぼる空","sites":[{"site":"qq","id":"s/s1rh268oro7uo8c","sort":6},{"site":"bilibili","id":"1391","sort":6}],"eps":[{"id":8666,"sort":1,"name":"亜希子さんと少女と芥川龍之介","sites":[{"site":"qq","sort":1,"title":"仰望半月的夜空第1话","url":"http://www.tudou.com/programs/view/XEEAGt7cXZ4/"},{"site":"bilibili","sort":1,"title":"亚希子小姐与少女与芥川龙之介","url":"https://www.bilibili.com/bangumi/play/ep25926","time":"2011-01-18T00:17:16.000Z"}]},{"id":8667,"sort":2,"name":"多田コレクションの相続","sites":[{"site":"qq","sort":2,"title":"仰望半月的夜空02","url":"http://www.tudou.com/programs/view/83AQhSFVox8/"},{"site":"bilibili","sort":2,"title":"多田收藏的相传","url":"https://www.bilibili.com/bangumi/play/ep25927","time":"2011-01-18T00:17:16.000Z"}]},{"id":8668,"sort":3,"name":"戎崎コレクションの終焉～そして","sites":[{"site":"qq","sort":3,"title":"仰望半月的夜空 (3)","url":"http://www.tudou.com/programs/view/jyPnrb1bf7k/"},{"site":"bilibili","sort":3,"title":"戎崎收藏的末日～接下来","url":"https://www.bilibili.com/bangumi/play/ep25928","time":"2011-01-18T00:17:16.000Z"}]},{"id":8669,"sort":4,"name":"一日だけのスクールライフ","sites":[{"site":"qq","sort":4,"title":"仰望半月的夜空04[超高清]","url":"http://www.tudou.com/programs/view/C69hhzy-c24/"},{"site":"bilibili","sort":4,"title":"只有一天的学校生活","url":"https://www.bilibili.com/bangumi/play/ep25929","time":"2011-01-18T00:17:16.000Z"}]},{"id":8670,"sort":5,"name":"とめられた一分","sites":[{"site":"qq","sort":5,"title":"仰望半月的夜空05","url":"http://www.tudou.com/programs/view/KKOENwWWEpk/"},{"site":"bilibili","sort":5,"title":"被停止的一分钟","url":"https://www.bilibili.com/bangumi/play/ep25930","time":"2011-01-18T00:17:16.000Z"}]},{"id":8671,"sort":6,"name":"僕たちの両手は","sites":[{"site":"qq","sort":6,"title":"[仰望半月的夜空] 第6话,","url":"http://www.tudou.com/programs/view/n80VJ1Ve44Y/"},{"site":"bilibili","sort":6,"title":"我们俩的双手","url":"https://www.bilibili.com/bangumi/play/ep25931","time":"2011-01-18T00:17:16.000Z"}]}]}
+{
+ "id": "1839",
+ "name": "半分の月がのぼる空",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "s/s1rh268oro7uo8c",
+   "sort": 6
+  },
+  {
+   "site": "bilibili",
+   "id": "1391",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 8666,
+   "sort": 1,
+   "name": "亜希子さんと少女と芥川龍之介",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "仰望半月的夜空第1话",
+     "url": "http://www.tudou.com/programs/view/XEEAGt7cXZ4/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "亚希子小姐与少女与芥川龙之介",
+     "url": "https://www.bilibili.com/bangumi/play/ep25926",
+     "time": "2011-01-18T00:17:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 8667,
+   "sort": 2,
+   "name": "多田コレクションの相続",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "仰望半月的夜空02",
+     "url": "http://www.tudou.com/programs/view/83AQhSFVox8/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "多田收藏的相传",
+     "url": "https://www.bilibili.com/bangumi/play/ep25927",
+     "time": "2011-01-18T00:17:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 8668,
+   "sort": 3,
+   "name": "戎崎コレクションの終焉～そして",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "仰望半月的夜空 (3)",
+     "url": "http://www.tudou.com/programs/view/jyPnrb1bf7k/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "戎崎收藏的末日～接下来",
+     "url": "https://www.bilibili.com/bangumi/play/ep25928",
+     "time": "2011-01-18T00:17:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 8669,
+   "sort": 4,
+   "name": "一日だけのスクールライフ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "仰望半月的夜空04[超高清]",
+     "url": "http://www.tudou.com/programs/view/C69hhzy-c24/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "只有一天的学校生活",
+     "url": "https://www.bilibili.com/bangumi/play/ep25929",
+     "time": "2011-01-18T00:17:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 8670,
+   "sort": 5,
+   "name": "とめられた一分",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "仰望半月的夜空05",
+     "url": "http://www.tudou.com/programs/view/KKOENwWWEpk/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "被停止的一分钟",
+     "url": "https://www.bilibili.com/bangumi/play/ep25930",
+     "time": "2011-01-18T00:17:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 8671,
+   "sort": 6,
+   "name": "僕たちの両手は",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "[仰望半月的夜空] 第6话,",
+     "url": "http://www.tudou.com/programs/view/n80VJ1Ve44Y/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "我们俩的双手",
+     "url": "https://www.bilibili.com/bangumi/play/ep25931",
+     "time": "2011-01-18T00:17:16.000Z"
+    }
+   ]
+  }
+ ]
+}

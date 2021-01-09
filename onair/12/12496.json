@@ -1,1 +1,41 @@
-{"id":"12496","name":"バカとテストと召喚獣 〜祭〜","sites":[{"site":"bilibili","id":"3486","sort":2}],"eps":[{"id":71984,"sort":1,"name":"僕とメイドと新たなる旅立ち","sites":[{"site":"bilibili","sort":1,"title":"我，女仆，新的旅程","url":"https://www.bilibili.com/bangumi/play/ep85413","time":"2016-03-23T06:34:09.000Z"}]},{"id":71985,"sort":2,"name":"バカと花火と召喚大会","sites":[{"site":"bilibili","sort":2,"title":"笨蛋，烟花，召唤大会","url":"https://www.bilibili.com/bangumi/play/ep85414","time":"2016-03-23T06:34:37.000Z"}]}]}
+{
+ "id": "12496",
+ "name": "バカとテストと召喚獣 〜祭〜",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3486",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 71984,
+   "sort": 1,
+   "name": "僕とメイドと新たなる旅立ち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "我，女仆，新的旅程",
+     "url": "https://www.bilibili.com/bangumi/play/ep85413",
+     "time": "2016-03-23T06:34:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 71985,
+   "sort": 2,
+   "name": "バカと花火と召喚大会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "笨蛋，烟花，召唤大会",
+     "url": "https://www.bilibili.com/bangumi/play/ep85414",
+     "time": "2016-03-23T06:34:37.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,181 @@
-{"id":"186447","name":"Cannon Busters","sites":[{"site":"bilibili","id":"22020937","sort":13}],"eps":[{"id":741364,"sort":1,"name":"バルーンタウンへくりだそう","sites":[{"site":"bilibili","sort":1,"title":"高风险 低回报","url":"https://www.bilibili.com/bangumi/play/ep282436","time":"2019-08-29T04:00:00.000Z"}]},{"id":741365,"sort":2,"name":"ハメられて大ピンチ","sites":[{"site":"bilibili","sort":2,"title":"骗子要行骗了","url":"https://www.bilibili.com/bangumi/play/ep282437","time":"2019-08-29T04:00:00.000Z"}]},{"id":741366,"sort":3,"name":"ウェット・スポットにご用心","sites":[{"site":"bilibili","sort":3,"title":"小心水坑","url":"https://www.bilibili.com/bangumi/play/ep282438","time":"2019-08-29T04:00:00.000Z"}]},{"id":741367,"sort":4,"name":"ナインあらわる","sites":[{"site":"bilibili","sort":4,"title":"9INE现身","url":"https://www.bilibili.com/bangumi/play/ep282439","time":"2019-08-29T04:00:00.000Z"}]},{"id":741368,"sort":5,"name":"21・ザ・ハード・ウェイ","sites":[{"site":"bilibili","sort":5,"title":"路途艰险","url":"https://www.bilibili.com/bangumi/play/ep282440","time":"2019-08-29T04:00:00.000Z"}]},{"id":741369,"sort":6,"name":"フェッターと囚われの街","sites":[{"site":"bilibili","sort":6,"title":"不受束缚","url":"https://www.bilibili.com/bangumi/play/ep282441","time":"2019-08-29T04:00:00.000Z"}]},{"id":741370,"sort":7,"name":"レディー・アンド・ザ・キッド","sites":[{"site":"bilibili","sort":7,"title":"女士和泽·基德","url":"https://www.bilibili.com/bangumi/play/ep282442","time":"2019-08-29T04:00:00.000Z"}]},{"id":741371,"sort":8,"name":"機械仕掛けのターンバックル","sites":[{"site":"bilibili","sort":8,"title":"机器女孩腾巴克尔","url":"https://www.bilibili.com/bangumi/play/ep282443","time":"2019-08-29T04:00:00.000Z"}]},{"id":741372,"sort":9,"name":"星くずのララバイ","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep282444","time":"2019-08-29T04:00:00.000Z"}]},{"id":741373,"sort":10,"name":"スクイーキング・スプリングス","sites":[{"site":"bilibili","sort":10,"title":"斯库金·斯普林斯的午后时光","url":"https://www.bilibili.com/bangumi/play/ep282445","time":"2019-08-29T04:00:00.000Z"}]},{"id":741374,"sort":11,"name":"取り戻せないイノセンス 前編","sites":[{"site":"bilibili","sort":11,"title":"纯真不再 上篇","url":"https://www.bilibili.com/bangumi/play/ep282446","time":"2019-08-29T04:00:00.000Z"}]},{"id":741375,"sort":12,"name":"取り戻せないイノセンス 後編","sites":[{"site":"bilibili","sort":12,"title":"纯真不再 下篇","url":"https://www.bilibili.com/bangumi/play/ep282447","time":"2019-08-29T04:00:00.000Z"}]}]}
+{
+ "id": "186447",
+ "name": "Cannon Busters",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "22020937",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 741364,
+   "sort": 1,
+   "name": "バルーンタウンへくりだそう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "高风险 低回报",
+     "url": "https://www.bilibili.com/bangumi/play/ep282436",
+     "time": "2019-08-29T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 741365,
+   "sort": 2,
+   "name": "ハメられて大ピンチ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "骗子要行骗了",
+     "url": "https://www.bilibili.com/bangumi/play/ep282437",
+     "time": "2019-08-29T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 741366,
+   "sort": 3,
+   "name": "ウェット・スポットにご用心",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "小心水坑",
+     "url": "https://www.bilibili.com/bangumi/play/ep282438",
+     "time": "2019-08-29T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 741367,
+   "sort": 4,
+   "name": "ナインあらわる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "9INE现身",
+     "url": "https://www.bilibili.com/bangumi/play/ep282439",
+     "time": "2019-08-29T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 741368,
+   "sort": 5,
+   "name": "21・ザ・ハード・ウェイ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "路途艰险",
+     "url": "https://www.bilibili.com/bangumi/play/ep282440",
+     "time": "2019-08-29T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 741369,
+   "sort": 6,
+   "name": "フェッターと囚われの街",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "不受束缚",
+     "url": "https://www.bilibili.com/bangumi/play/ep282441",
+     "time": "2019-08-29T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 741370,
+   "sort": 7,
+   "name": "レディー・アンド・ザ・キッド",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "女士和泽·基德",
+     "url": "https://www.bilibili.com/bangumi/play/ep282442",
+     "time": "2019-08-29T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 741371,
+   "sort": 8,
+   "name": "機械仕掛けのターンバックル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "机器女孩腾巴克尔",
+     "url": "https://www.bilibili.com/bangumi/play/ep282443",
+     "time": "2019-08-29T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 741372,
+   "sort": 9,
+   "name": "星くずのララバイ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep282444",
+     "time": "2019-08-29T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 741373,
+   "sort": 10,
+   "name": "スクイーキング・スプリングス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "斯库金·斯普林斯的午后时光",
+     "url": "https://www.bilibili.com/bangumi/play/ep282445",
+     "time": "2019-08-29T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 741374,
+   "sort": 11,
+   "name": "取り戻せないイノセンス 前編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "纯真不再 上篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep282446",
+     "time": "2019-08-29T04:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 741375,
+   "sort": 12,
+   "name": "取り戻せないイノセンス 後編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "纯真不再 下篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep282447",
+     "time": "2019-08-29T04:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

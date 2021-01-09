@@ -1,1 +1,27 @@
-{"id":"271662","name":"劇場版 Free!-Road to the World-夢","sites":[{"site":"bilibili","id":"28228860","sort":1}],"eps":[{"id":875534,"sort":1,"name":"劇場版 Free!-Road to the World-夢","sites":[{"site":"acfun","sort":1,"title":"第三季总集篇剧场版","url":"https://www.acfun.cn/bangumi/ab6002431_36188_1742155","time":"2020-07-31T09:13:21.845Z"}]}]}
+{
+ "id": "271662",
+ "name": "劇場版 Free!-Road to the World-夢",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28228860",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 875534,
+   "sort": 1,
+   "name": "劇場版 Free!-Road to the World-夢",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "第三季总集篇剧场版",
+     "url": "https://www.acfun.cn/bangumi/ab6002431_36188_1742155",
+     "time": "2020-07-31T09:13:21.845Z"
+    }
+   ]
+  }
+ ]
+}

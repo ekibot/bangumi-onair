@@ -1,1 +1,49 @@
-{"id":"231970","name":"劇場版 ポケットモンスター みんなの物語","sites":[{"site":"qq","id":"m/mzc00200zyzgesv","sort":1},{"site":"bilibili","id":"28228298","sort":1}],"eps":[{"id":857242,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"宝可梦 我们的故事","url":"https://v.qq.com/x/cover/mzc00200zyzgesv/u0033ynsdb1.html"},{"site":"bilibili","sort":1,"title":"全片","url":"https://www.bilibili.com/bangumi/play/ep316646","time":"2020-03-20T04:01:00.000Z"}]}]}
+{
+ "id": "231970",
+ "name": "劇場版 ポケットモンスター みんなの物語",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "34d5a5beda334772994f",
+   "sort": 1
+  },
+  {
+   "site": "qq",
+   "id": "m/mzc00200zyzgesv",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "28228298",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 857242,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "精灵宝可梦：大家的故事",
+     "url": "https://v.youku.com/v_show/id_XMzk3NDQ3NjkwMA==.html?s=34d5a5beda334772994f"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "宝可梦 我们的故事",
+     "url": "https://v.qq.com/x/cover/mzc00200zyzgesv/u0033ynsdb1.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "全片",
+     "url": "https://www.bilibili.com/bangumi/play/ep316646",
+     "time": "2020-03-20T04:01:00.000Z"
+    }
+   ]
+  }
+ ]
+}

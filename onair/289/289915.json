@@ -1,1 +1,181 @@
-{"id":"289915","name":"池袋ウエストゲートパーク","sites":[{"site":"bilibili","id":"28229883","week":2,"time":"2100","sort":14}],"eps":[{"id":978670,"sort":1,"name":"北口スモークタワー","sites":[{"site":"bilibili","sort":1,"title":"北口排烟囱","url":"https://www.bilibili.com/bangumi/play/ep341111","time":"2020-10-06T13:00:01.000Z"}]},{"id":978671,"sort":2,"name":"西一番街ブラックバイト","sites":[{"site":"bilibili","sort":2,"title":"西一番街黑工","url":"https://www.bilibili.com/bangumi/play/ep341112","time":"2020-10-13T13:00:01.000Z"}]},{"id":978672,"sort":3,"name":"ゼタムーバー＠芸術劇場","sites":[{"site":"bilibili","sort":3,"title":"ZettaMovier&艺术剧场","url":"https://www.bilibili.com/bangumi/play/ep341113","time":"2020-10-20T13:00:01.000Z"}]},{"id":978673,"sort":4,"name":"ワルツ・フォー・ベビー","sites":[{"site":"bilibili","sort":4,"title":"孩子的华尔兹","url":"https://www.bilibili.com/bangumi/play/ep341114","time":"2020-10-27T13:00:01.000Z"}]},{"id":978674,"sort":5,"name":"ドラゴン・ティアーズ","sites":[{"site":"bilibili","sort":5,"title":"龙之泪","url":"https://www.bilibili.com/bangumi/play/ep341115","time":"2020-11-03T13:00:01.000Z"}]},{"id":978675,"sort":6,"name":"Gボーイズ冬戦争・前編","sites":[{"site":"bilibili","sort":6,"title":"G-Boys 冬季战争 前篇","url":"https://www.bilibili.com/bangumi/play/ep341116","time":"2020-11-10T13:00:01.000Z"}]},{"id":978676,"sort":7,"name":"Gボーイズ冬戦争・後編","sites":[{"site":"bilibili","sort":7,"title":"G-Boys 冬季战争 后篇","url":"https://www.bilibili.com/bangumi/play/ep341117","time":"2020-11-19T13:00:01.000Z"}]},{"id":978677,"sort":8,"name":"千川フォールアウト・マザー","sites":[{"site":"bilibili","sort":8,"title":"千川失足妈妈","url":"https://www.bilibili.com/bangumi/play/ep341118","time":"2020-11-24T13:00:01.000Z"}]},{"id":978678,"sort":9,"name":"憎悪のパレード","sites":[{"site":"bilibili","sort":9,"title":"憎恶的游行","url":"https://www.bilibili.com/bangumi/play/ep341119","time":"2020-12-01T13:00:01.000Z"}]},{"id":978679,"sort":10,"name":"野獣とリユニオン","sites":[{"site":"bilibili","sort":10,"title":"和野兽reunion","url":"https://www.bilibili.com/bangumi/play/ep341120","time":"2020-12-08T13:00:01.000Z"}]},{"id":978680,"sort":11,"name":"サンシャイン通り内戦（シビルウォー）・前編","sites":[{"site":"bilibili","sort":11,"title":"阳光大街内战 前篇","url":"https://www.bilibili.com/bangumi/play/ep341121","time":"2020-12-15T13:00:01.000Z"}]},{"id":978681,"sort":12,"name":"サンシャイン通り内戦（シヴィルウォー）・後編","sites":[{"site":"bilibili","sort":12,"title":"阳光大街内战 后篇","url":"https://www.bilibili.com/bangumi/play/ep341122","time":"2020-12-22T13:00:00.000Z"}]}]}
+{
+ "id": "289915",
+ "name": "池袋ウエストゲートパーク",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28229883",
+   "sort": 14
+  }
+ ],
+ "eps": [
+  {
+   "id": 978670,
+   "sort": 1,
+   "name": "北口スモークタワー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "北口排烟囱",
+     "url": "https://www.bilibili.com/bangumi/play/ep341111",
+     "time": "2020-10-06T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978671,
+   "sort": 2,
+   "name": "西一番街ブラックバイト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "西一番街黑工",
+     "url": "https://www.bilibili.com/bangumi/play/ep341112",
+     "time": "2020-10-13T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978672,
+   "sort": 3,
+   "name": "ゼタムーバー＠芸術劇場",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "ZettaMovier&艺术剧场",
+     "url": "https://www.bilibili.com/bangumi/play/ep341113",
+     "time": "2020-10-20T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978673,
+   "sort": 4,
+   "name": "ワルツ・フォー・ベビー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "孩子的华尔兹",
+     "url": "https://www.bilibili.com/bangumi/play/ep341114",
+     "time": "2020-10-27T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978674,
+   "sort": 5,
+   "name": "ドラゴン・ティアーズ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "龙之泪",
+     "url": "https://www.bilibili.com/bangumi/play/ep341115",
+     "time": "2020-11-03T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978675,
+   "sort": 6,
+   "name": "Gボーイズ冬戦争・前編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "G-Boys 冬季战争 前篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep341116",
+     "time": "2020-11-10T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978676,
+   "sort": 7,
+   "name": "Gボーイズ冬戦争・後編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "G-Boys 冬季战争 后篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep341117",
+     "time": "2020-11-19T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978677,
+   "sort": 8,
+   "name": "千川フォールアウト・マザー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "千川失足妈妈",
+     "url": "https://www.bilibili.com/bangumi/play/ep341118",
+     "time": "2020-11-24T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978678,
+   "sort": 9,
+   "name": "憎悪のパレード",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "憎恶的游行",
+     "url": "https://www.bilibili.com/bangumi/play/ep341119",
+     "time": "2020-12-01T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978679,
+   "sort": 10,
+   "name": "野獣とリユニオン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "和野兽reunion",
+     "url": "https://www.bilibili.com/bangumi/play/ep341120",
+     "time": "2020-12-08T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978680,
+   "sort": 11,
+   "name": "サンシャイン通り内戦（シビルウォー）・前編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "阳光大街内战 前篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep341121",
+     "time": "2020-12-15T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978681,
+   "sort": 12,
+   "name": "サンシャイン通り内戦（シヴィルウォー）・後編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "阳光大街内战 后篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep341122",
+     "time": "2020-12-22T13:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

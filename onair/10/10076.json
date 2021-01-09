@@ -1,1 +1,181 @@
-{"id":"10076","name":"這いよる！ニャルアニ リメンバー・マイ・ラブ(クラフト先生)","sites":[{"site":"bilibili","id":"408","sort":12}],"eps":[{"id":58633,"sort":1,"name":"人じゃありませんから","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep7744","time":"2012-07-22T06:26:34.000Z"}]},{"id":58634,"sort":2,"name":"エンドレス クリスマス","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep7745","time":"2012-07-22T06:26:34.000Z"}]},{"id":58635,"sort":3,"name":"いざ 即売会へ","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep7746","time":"2012-07-22T06:26:34.000Z"}]},{"id":58636,"sort":4,"name":"真尋、はじめての裸エプロン！","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep7747","time":"2012-07-22T06:26:34.000Z"}]},{"id":58637,"sort":5,"name":"ニャル子と真尋のラブラブ湯けむり温泉旅行","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep7748","time":"2012-07-22T06:26:34.000Z"}]},{"id":58638,"sort":6,"name":"生き埋め","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep7749","time":"2012-07-22T06:26:34.000Z"}]},{"id":58639,"sort":7,"name":"きのこマスター","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep7750","time":"2012-07-22T06:26:34.000Z"}]},{"id":58640,"sort":8,"name":"","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep7751","time":"2012-07-22T06:26:34.000Z"}]},{"id":58641,"sort":9,"name":"銀河系を滅ぼし兼ねない危機が迫り来たとて、それを虫の知らせ程に感じとることも適わない一介の高校生である真尋にとって明日の太陽が必ずしもいつもと同じ方角から同じ速","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep7752","time":"2012-07-22T06:26:34.000Z"}]},{"id":58642,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep7753","time":"2012-07-22T06:26:34.000Z"}]},{"id":58643,"sort":11,"name":"リメンバー・マイ・ラブ","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep7754","time":"2012-07-22T06:26:34.000Z"}]},{"id":77794,"sort":12,"name":"後日談的な","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep7755","time":"2012-07-22T06:26:34.000Z"}]}]}
+{
+ "id": "10076",
+ "name": "這いよる！ニャルアニ リメンバー・マイ・ラブ(クラフト先生)",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "408",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 58633,
+   "sort": 1,
+   "name": "人じゃありませんから",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep7744",
+     "time": "2012-07-22T06:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 58634,
+   "sort": 2,
+   "name": "エンドレス クリスマス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep7745",
+     "time": "2012-07-22T06:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 58635,
+   "sort": 3,
+   "name": "いざ 即売会へ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep7746",
+     "time": "2012-07-22T06:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 58636,
+   "sort": 4,
+   "name": "真尋、はじめての裸エプロン！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep7747",
+     "time": "2012-07-22T06:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 58637,
+   "sort": 5,
+   "name": "ニャル子と真尋のラブラブ湯けむり温泉旅行",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep7748",
+     "time": "2012-07-22T06:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 58638,
+   "sort": 6,
+   "name": "生き埋め",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep7749",
+     "time": "2012-07-22T06:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 58639,
+   "sort": 7,
+   "name": "きのこマスター",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep7750",
+     "time": "2012-07-22T06:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 58640,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep7751",
+     "time": "2012-07-22T06:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 58641,
+   "sort": 9,
+   "name": "銀河系を滅ぼし兼ねない危機が迫り来たとて、それを虫の知らせ程に感じとることも適わない一介の高校生である真尋にとって明日の太陽が必ずしもいつもと同じ方角から同じ速",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep7752",
+     "time": "2012-07-22T06:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 58642,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep7753",
+     "time": "2012-07-22T06:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 58643,
+   "sort": 11,
+   "name": "リメンバー・マイ・ラブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep7754",
+     "time": "2012-07-22T06:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 77794,
+   "sort": 12,
+   "name": "後日談的な",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep7755",
+     "time": "2012-07-22T06:26:34.000Z"
+    }
+   ]
+  }
+ ]
+}

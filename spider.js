@@ -165,7 +165,7 @@ function getChinaDate(item, sites) {
             const dirPath = path.dirname(filePath);
             if (!fs.existsSync(dirPath)) fs.mkdirSync(dirPath);
             this.log.v(`- writing ${data.eps.length} eps`);
-            fs.writeFileSync(filePath, JSON.stringify(data));
+            fs.writeFileSync(filePath, JSON.stringify(data, null, 1));
         }
         /**
          * 时间表

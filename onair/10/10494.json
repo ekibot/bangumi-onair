@@ -1,1 +1,55 @@
-{"id":"10494","name":"カッコカワイイ宣言！","sites":[{"site":"bilibili","id":"1757","sort":4}],"eps":[{"id":61459,"sort":1,"name":"ドジっ娘かおちゃん","sites":[{"site":"bilibili","sort":1,"title":"很帅很可爱宣言！第1话【轻国】","url":"https://www.bilibili.com/bangumi/play/ep33224","time":"2012-10-15T19:12:32.000Z"}]},{"id":61460,"sort":2,"name":"脱げそう","sites":[{"site":"bilibili","sort":2,"title":"很帅很可爱宣言！第2话【轻国】","url":"https://www.bilibili.com/bangumi/play/ep33223","time":"2012-10-15T19:05:00.000Z"}]},{"id":61959,"sort":5,"name":"彼女いるの？","sites":[{"site":"bilibili","sort":5,"title":"很帅很可爱宣言！第5 话 轻国","url":"https://www.bilibili.com/bangumi/play/ep33221","time":"2010-12-22T14:28:22.000Z"}]}]}
+{
+ "id": "10494",
+ "name": "カッコカワイイ宣言！",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1757",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 61459,
+   "sort": 1,
+   "name": "ドジっ娘かおちゃん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "很帅很可爱宣言！第1话【轻国】",
+     "url": "https://www.bilibili.com/bangumi/play/ep33224",
+     "time": "2012-10-15T19:12:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61460,
+   "sort": 2,
+   "name": "脱げそう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "很帅很可爱宣言！第2话【轻国】",
+     "url": "https://www.bilibili.com/bangumi/play/ep33223",
+     "time": "2012-10-15T19:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61959,
+   "sort": 5,
+   "name": "彼女いるの？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "很帅很可爱宣言！第5 话 轻国",
+     "url": "https://www.bilibili.com/bangumi/play/ep33221",
+     "time": "2010-12-22T14:28:22.000Z"
+    }
+   ]
+  }
+ ]
+}

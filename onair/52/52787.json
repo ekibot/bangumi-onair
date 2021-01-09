@@ -1,1 +1,143 @@
-{"id":"52787","name":"ブラック・ジャック OVA","sites":[{"site":"qq","id":"r/rvgznkzbxzhrpcn","sort":12}],"eps":[{"id":207183,"sort":1,"name":"流氷、キマイラの男","sites":[{"site":"qq","sort":1,"title":"怪医黑杰克OVA_01","url":"https://v.qq.com/x/cover/rvgznkzbxzhrpcn/j00335tqvnf.html"}]},{"id":207184,"sort":2,"name":"葬列遊戯","sites":[{"site":"qq","sort":2,"title":"怪医黑杰克OVA_02","url":"https://v.qq.com/x/cover/rvgznkzbxzhrpcn/y0033z2z4a9.html"}]},{"id":207185,"sort":3,"name":"マリア達の勲章","sites":[{"site":"qq","sort":3,"title":"怪医黑杰克OVA_03","url":"https://v.qq.com/x/cover/rvgznkzbxzhrpcn/x0033rk0lwq.html"}]},{"id":207186,"sort":4,"name":"拒食、ふたりの黒い医者","sites":[{"site":"qq","sort":4,"title":"怪医黑杰克OVA_04","url":"https://v.qq.com/x/cover/rvgznkzbxzhrpcn/r0033ftpdk4.html"}]},{"id":207187,"sort":5,"name":"サンメリーダの鴞","sites":[{"site":"qq","sort":5,"title":"怪医黑杰克OVA_05","url":"https://v.qq.com/x/cover/rvgznkzbxzhrpcn/t00330fhri6.html"}]},{"id":207188,"sort":6,"name":"雪の夜話、恋姫","sites":[{"site":"qq","sort":6,"title":"怪医黑杰克OVA_06","url":"https://v.qq.com/x/cover/rvgznkzbxzhrpcn/x0033b69f5x.html"}]},{"id":207189,"sort":7,"name":"白い正義","sites":[{"site":"qq","sort":7,"title":"怪医黑杰克OVA_07","url":"https://v.qq.com/x/cover/rvgznkzbxzhrpcn/i0033aecfgr.html"}]},{"id":207190,"sort":8,"name":"緑の想い","sites":[{"site":"qq","sort":8,"title":"怪医黑杰克OVA_08","url":"https://v.qq.com/x/cover/rvgznkzbxzhrpcn/a0033j7i5wf.html"}]},{"id":207191,"sort":9,"name":"人面瘡","sites":[{"site":"qq","sort":9,"title":"怪医黑杰克OVA_09","url":"https://v.qq.com/x/cover/rvgznkzbxzhrpcn/p0033xqdc08.html"}]},{"id":207192,"sort":10,"name":"しずむ女","sites":[{"site":"qq","sort":10,"title":"怪医黑杰克OVA_10","url":"https://v.qq.com/x/cover/rvgznkzbxzhrpcn/z0033q7wfkv.html"}]}]}
+{
+ "id": "52787",
+ "name": "ブラック・ジャック OVA",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "r/rvgznkzbxzhrpcn",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 207183,
+   "sort": 1,
+   "name": "流氷、キマイラの男",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "怪医黑杰克OVA_01",
+     "url": "https://v.qq.com/x/cover/rvgznkzbxzhrpcn/j00335tqvnf.html"
+    }
+   ]
+  },
+  {
+   "id": 207184,
+   "sort": 2,
+   "name": "葬列遊戯",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "怪医黑杰克OVA_02",
+     "url": "https://v.qq.com/x/cover/rvgznkzbxzhrpcn/y0033z2z4a9.html"
+    }
+   ]
+  },
+  {
+   "id": 207185,
+   "sort": 3,
+   "name": "マリア達の勲章",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "怪医黑杰克OVA_03",
+     "url": "https://v.qq.com/x/cover/rvgznkzbxzhrpcn/x0033rk0lwq.html"
+    }
+   ]
+  },
+  {
+   "id": 207186,
+   "sort": 4,
+   "name": "拒食、ふたりの黒い医者",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "怪医黑杰克OVA_04",
+     "url": "https://v.qq.com/x/cover/rvgznkzbxzhrpcn/r0033ftpdk4.html"
+    }
+   ]
+  },
+  {
+   "id": 207187,
+   "sort": 5,
+   "name": "サンメリーダの鴞",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "怪医黑杰克OVA_05",
+     "url": "https://v.qq.com/x/cover/rvgznkzbxzhrpcn/t00330fhri6.html"
+    }
+   ]
+  },
+  {
+   "id": 207188,
+   "sort": 6,
+   "name": "雪の夜話、恋姫",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "怪医黑杰克OVA_06",
+     "url": "https://v.qq.com/x/cover/rvgznkzbxzhrpcn/x0033b69f5x.html"
+    }
+   ]
+  },
+  {
+   "id": 207189,
+   "sort": 7,
+   "name": "白い正義",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "怪医黑杰克OVA_07",
+     "url": "https://v.qq.com/x/cover/rvgznkzbxzhrpcn/i0033aecfgr.html"
+    }
+   ]
+  },
+  {
+   "id": 207190,
+   "sort": 8,
+   "name": "緑の想い",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "怪医黑杰克OVA_08",
+     "url": "https://v.qq.com/x/cover/rvgznkzbxzhrpcn/a0033j7i5wf.html"
+    }
+   ]
+  },
+  {
+   "id": 207191,
+   "sort": 9,
+   "name": "人面瘡",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "怪医黑杰克OVA_09",
+     "url": "https://v.qq.com/x/cover/rvgznkzbxzhrpcn/p0033xqdc08.html"
+    }
+   ]
+  },
+  {
+   "id": 207192,
+   "sort": 10,
+   "name": "しずむ女",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "怪医黑杰克OVA_10",
+     "url": "https://v.qq.com/x/cover/rvgznkzbxzhrpcn/z0033q7wfkv.html"
+    }
+   ]
+  }
+ ]
+}

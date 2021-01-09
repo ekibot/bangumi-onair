@@ -1,1 +1,27 @@
-{"id":"34585","name":"魔法先生ネギま! ANIME FINAL","sites":[{"site":"bilibili","id":"3775","sort":1}],"eps":[{"id":566207,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"魔法老师！ANIME.FINAL","url":"https://www.bilibili.com/bangumi/play/ep86460","time":"2016-04-18T06:22:44.000Z"}]}]}
+{
+ "id": "34585",
+ "name": "魔法先生ネギま! ANIME FINAL",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3775",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 566207,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "魔法老师！ANIME.FINAL",
+     "url": "https://www.bilibili.com/bangumi/play/ep86460",
+     "time": "2016-04-18T06:22:44.000Z"
+    }
+   ]
+  }
+ ]
+}

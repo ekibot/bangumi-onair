@@ -1,1 +1,29 @@
-{"id":"278031","name":"転生したらスライムだった件 第2期 第1部","sites":[{"site":"bilibili","id":"28231812","week":2,"time":"2330","sort":3}],"eps":[{"id":999980,"sort":24.9,"name":"閑話：ヒナタ・サカグチ","sites":[{"site":"bilibili","sort":24.9,"title":"闲话：日向·坂口","url":"https://www.bilibili.com/bangumi/play/ep374000","time":"2021-01-05T15:30:01.000Z"}]}]}
+{
+ "id": "278031",
+ "name": "転生したらスライムだった件 第2期 第1部",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231812",
+   "week": 2,
+   "time": "2330",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 999980,
+   "sort": 24.9,
+   "name": "閑話：ヒナタ・サカグチ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24.9,
+     "title": "闲话：日向·坂口",
+     "url": "https://www.bilibili.com/bangumi/play/ep374000",
+     "time": "2021-01-05T15:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

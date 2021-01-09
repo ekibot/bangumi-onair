@@ -1,1 +1,38 @@
-{"id":"3761","name":"超劇場版ケロロ軍曹","sites":[{"site":"iqiyi","id":"a_19rrhw703p","sort":5},{"site":"qq","id":"h/hshpaiw3kpxepms","sort":5}],"eps":[{"id":875516,"sort":1,"name":"","sites":[{"site":"iqiyi","sort":1,"title":"超剧场版 KERORO军曹","url":"http://www.iqiyi.com/v_19rvt3luqc.html","time":"2020-02-19T01:05:40.000Z"},{"site":"qq","sort":1,"title":"第01集 军曹","url":"https://v.qq.com/x/cover/hshpaiw3kpxepms/n0033in3xq7.html"}]}]}
+{
+ "id": "3761",
+ "name": "超劇場版ケロロ軍曹",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhw703p",
+   "sort": 5
+  },
+  {
+   "site": "qq",
+   "id": "h/hshpaiw3kpxepms",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 875516,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "超剧场版 KERORO军曹",
+     "url": "http://www.iqiyi.com/v_19rvt3luqc.html",
+     "time": "2020-02-19T01:05:40.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第01集 军曹",
+     "url": "https://v.qq.com/x/cover/hshpaiw3kpxepms/n0033in3xq7.html"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,43 @@
-{"id":"295766","name":"スケートリーディング☆スターズ","sites":[{"site":"bilibili","id":"28231924","week":7,"time":"2200","sort":3}],"eps":[{"id":998755,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"盟约","url":"https://www.bilibili.com/bangumi/play/ep374036","time":"2020-12-27T14:00:01.000Z"}]},{"id":998756,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"空白期","url":"https://www.bilibili.com/bangumi/play/ep374037","time":"2021-01-03T14:00:01.000Z"}]}]}
+{
+ "id": "295766",
+ "name": "スケートリーディング☆スターズ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231924",
+   "week": 7,
+   "time": "2200",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 998755,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "盟约",
+     "url": "https://www.bilibili.com/bangumi/play/ep374036",
+     "time": "2020-12-27T14:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 998756,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "空白期",
+     "url": "https://www.bilibili.com/bangumi/play/ep374037",
+     "time": "2021-01-03T14:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

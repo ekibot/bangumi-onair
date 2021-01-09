@@ -1,1 +1,38 @@
-{"id":"840","name":"千年女優","sites":[{"site":"qq","id":"r/r4bi7ga6fd7yovx","sort":1},{"site":"bilibili","id":"5297","sort":1}],"eps":[{"id":110003,"sort":1,"name":"千年女優","sites":[{"site":"qq","sort":1,"title":"千年女优","url":"http://v.youku.com/v_show/id_XMjQ0MDc4MjY0.html"},{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep93081","time":"2016-07-22T03:52:00.000Z"}]}]}
+{
+ "id": "840",
+ "name": "千年女優",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "r/r4bi7ga6fd7yovx",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "5297",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 110003,
+   "sort": 1,
+   "name": "千年女優",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "千年女优",
+     "url": "http://v.youku.com/v_show/id_XMjQ0MDc4MjY0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep93081",
+     "time": "2016-07-22T03:52:00.000Z"
+    }
+   ]
+  }
+ ]
+}

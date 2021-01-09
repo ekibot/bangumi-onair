@@ -1,1 +1,169 @@
-{"id":"3444","name":"おおかみかくし","sites":[{"site":"qq","id":"w/wc73ikus18i9wm7","sort":12}],"eps":[{"id":24797,"sort":1,"name":"嫦娥町","sites":[{"site":"qq","sort":1,"title":"神隐之狼01","url":"http://www.56.com/w36/play_album-aid-7854097_vid-NDg4MTg2NjQ.html"}]},{"id":24798,"sort":2,"name":"兄妹","sites":[{"site":"qq","sort":2,"title":"神隐之狼02","url":"http://www.56.com/w36/play_album-aid-7854097_vid-NDg5NjY3Nzk.html"}]},{"id":24799,"sort":3,"name":"衝動","sites":[{"site":"qq","sort":3,"title":"神隐之狼03","url":"http://www.56.com/u49/v_NTAwMDYzMDI.html"}]},{"id":24800,"sort":4,"name":"予感","sites":[{"site":"qq","sort":4,"title":"神隐之狼04","url":"http://www.56.com/u62/v_NTQzODgwMTE.html"}]},{"id":24801,"sort":5,"name":"暴走","sites":[{"site":"qq","sort":5,"title":"神隐之狼05","url":"http://www.56.com/u59/v_NDk0NjA0NDg.html"}]},{"id":24802,"sort":6,"name":"恋","sites":[{"site":"qq","sort":6,"title":"神隐之狼06","url":"http://www.56.com/w36/play_album-aid-7854097_vid-NDk1Mjc4NTA.html"}]},{"id":24803,"sort":7,"name":"喪失","sites":[{"site":"qq","sort":7,"title":"神隐之狼07","url":"http://www.56.com/w36/play_album-aid-7854097_vid-NDk2MzE4OTk.html"}]},{"id":24804,"sort":8,"name":"錯綜","sites":[{"site":"qq","sort":8,"title":"神隐之狼08","url":"http://www.56.com/u90/v_NDk3NzA2Nzk.html"}]},{"id":24805,"sort":9,"name":"密室","sites":[{"site":"qq","sort":9,"title":"神隐之狼09","url":"http://www.56.com/w36/play_album-aid-7854097_vid-NTAwMjUyMzg.html"}]},{"id":24806,"sort":10,"name":"八朔祭","sites":[{"site":"qq","sort":10,"title":"神隐之狼10","url":"http://www.56.com/w36/play_album-aid-7854097_vid-NTAyMDA1ODU.html"}]},{"id":24807,"sort":11,"name":"終焉","sites":[{"site":"qq","sort":11,"title":"神隐之狼11","url":"http://www.56.com/w36/play_album-aid-7854097_vid-NTAzMDIyNTg.html"}]},{"id":24808,"sort":12,"name":"嫦娥町奇譚","sites":[{"site":"qq","sort":12,"title":"神隐之狼12","url":"http://www.56.com/u76/v_NTQzODgwMjU.html"}]}]}
+{
+ "id": "3444",
+ "name": "おおかみかくし",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "w/wc73ikus18i9wm7",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 24797,
+   "sort": 1,
+   "name": "嫦娥町",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "神隐之狼01",
+     "url": "http://www.56.com/w36/play_album-aid-7854097_vid-NDg4MTg2NjQ.html"
+    }
+   ]
+  },
+  {
+   "id": 24798,
+   "sort": 2,
+   "name": "兄妹",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "神隐之狼02",
+     "url": "http://www.56.com/w36/play_album-aid-7854097_vid-NDg5NjY3Nzk.html"
+    }
+   ]
+  },
+  {
+   "id": 24799,
+   "sort": 3,
+   "name": "衝動",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "神隐之狼03",
+     "url": "http://www.56.com/u49/v_NTAwMDYzMDI.html"
+    }
+   ]
+  },
+  {
+   "id": 24800,
+   "sort": 4,
+   "name": "予感",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "神隐之狼04",
+     "url": "http://www.56.com/u62/v_NTQzODgwMTE.html"
+    }
+   ]
+  },
+  {
+   "id": 24801,
+   "sort": 5,
+   "name": "暴走",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "神隐之狼05",
+     "url": "http://www.56.com/u59/v_NDk0NjA0NDg.html"
+    }
+   ]
+  },
+  {
+   "id": 24802,
+   "sort": 6,
+   "name": "恋",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "神隐之狼06",
+     "url": "http://www.56.com/w36/play_album-aid-7854097_vid-NDk1Mjc4NTA.html"
+    }
+   ]
+  },
+  {
+   "id": 24803,
+   "sort": 7,
+   "name": "喪失",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "神隐之狼07",
+     "url": "http://www.56.com/w36/play_album-aid-7854097_vid-NDk2MzE4OTk.html"
+    }
+   ]
+  },
+  {
+   "id": 24804,
+   "sort": 8,
+   "name": "錯綜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "神隐之狼08",
+     "url": "http://www.56.com/u90/v_NDk3NzA2Nzk.html"
+    }
+   ]
+  },
+  {
+   "id": 24805,
+   "sort": 9,
+   "name": "密室",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "神隐之狼09",
+     "url": "http://www.56.com/w36/play_album-aid-7854097_vid-NTAwMjUyMzg.html"
+    }
+   ]
+  },
+  {
+   "id": 24806,
+   "sort": 10,
+   "name": "八朔祭",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "神隐之狼10",
+     "url": "http://www.56.com/w36/play_album-aid-7854097_vid-NTAyMDA1ODU.html"
+    }
+   ]
+  },
+  {
+   "id": 24807,
+   "sort": 11,
+   "name": "終焉",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "神隐之狼11",
+     "url": "http://www.56.com/w36/play_album-aid-7854097_vid-NTAzMDIyNTg.html"
+    }
+   ]
+  },
+  {
+   "id": 24808,
+   "sort": 12,
+   "name": "嫦娥町奇譚",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "神隐之狼12",
+     "url": "http://www.56.com/u76/v_NTQzODgwMjU.html"
+    }
+   ]
+  }
+ ]
+}

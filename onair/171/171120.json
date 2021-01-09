@@ -1,1 +1,38 @@
-{"id":"171120","name":"黒子のバスケ ウインターカップ総集編 ～影と光～","sites":[{"site":"iqiyi","id":"a_19rrh9arix","sort":1},{"site":"qq","id":"k/kjvy7zcxog1541e","sort":1},{"site":"bilibili","id":"5938","sort":3}],"eps":[{"id":662636,"sort":1,"name":"黑子的篮球 Winter Cup总集篇 ～影与光～","sites":[{"site":"iqiyi","sort":1,"title":"影与光","url":"http://www.iqiyi.com/v_19rraoxwqs.html","time":"2017-02-28T16:00:52.000Z"},{"site":"qq","sort":1,"title":"总集篇第一部 影与光","url":"https://v.qq.com/x/cover/kjvy7zcxog1541e/u00319ue0kq.html"},{"site":"bilibili","sort":1,"title":"影与光","url":"https://www.bilibili.com/bangumi/play/ep102286","time":"2017-03-15T02:24:00.000Z"}]}]}
+{
+ "id": "171120",
+ "name": "黒子のバスケ ウインターカップ総集編 ～影と光～",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "k/kjvy7zcxog1541e",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "5938",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 662636,
+   "sort": 1,
+   "name": "黑子的篮球 Winter Cup总集篇 ～影与光～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "总集篇第一部 影与光",
+     "url": "https://v.qq.com/x/cover/kjvy7zcxog1541e/u00319ue0kq.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "影与光",
+     "url": "https://www.bilibili.com/bangumi/play/ep102286",
+     "time": "2017-03-15T02:24:00.000Z"
+    }
+   ]
+  }
+ ]
+}

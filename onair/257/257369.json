@@ -1,1 +1,195 @@
-{"id":"257369","name":"ぼくたちは勉強ができない","sites":[{"site":"bilibili","id":"21986963","sort":14}],"eps":[{"id":874133,"sort":1,"name":"天才と[Ｘ]は表裏一体である","sites":[{"site":"bilibili","sort":1,"title":"天才与[X]是表里一体的","url":"https://www.bilibili.com/bangumi/play/ep267879","time":"2019-04-06T17:00:00.000Z"}]},{"id":874134,"sort":2,"name":"魚心あれば、天才に[Ｘ]心あり","sites":[{"site":"bilibili","sort":2,"title":"若有鱼心（若有好感） 天才亦有[X]心","url":"https://www.bilibili.com/bangumi/play/ep267880","time":"2019-04-13T17:00:00.000Z"}]},{"id":874135,"sort":3,"name":"天才は[Ｘ]にも心通ずるものと知る","sites":[{"site":"bilibili","sort":3,"title":"天才知晓[X]也是通心之物","url":"https://www.bilibili.com/bangumi/play/ep267881","time":"2019-04-20T17:00:00.000Z"}]},{"id":874136,"sort":4,"name":"彼女が天才に望むもの即ち[Ｘ]である","sites":[{"site":"bilibili","sort":4,"title":"她向天才所期望的东西即是[X]","url":"https://www.bilibili.com/bangumi/play/ep267882","time":"2019-04-27T17:00:00.000Z"}]},{"id":874137,"sort":5,"name":"林間の天才は[Ｘ]に迷走する","sites":[{"site":"bilibili","sort":5,"title":"林间的天才迷路于[X]","url":"https://www.bilibili.com/bangumi/play/ep267883","time":"2019-05-04T17:00:00.000Z"}]},{"id":874138,"sort":6,"name":"天才[Ｘ]たちは、かくして勉強ができない","sites":[{"site":"bilibili","sort":6,"title":"天才[X]们如此这般无法学习","url":"https://www.bilibili.com/bangumi/play/ep267884","time":"2019-05-11T17:00:00.000Z"}]},{"id":874139,"sort":7,"name":"前任者の秘匿領域は[Ｘ]な有様である","sites":[{"site":"bilibili","sort":7,"title":"前任者的秘密领域正如[X]","url":"https://www.bilibili.com/bangumi/play/ep267885","time":"2019-05-18T17:00:00.000Z"}]},{"id":874140,"sort":8,"name":"天才の一挙手一投足は時に[Ｘ]を翻弄する","sites":[{"site":"bilibili","sort":8,"title":"天才的一举手一投足有时会玩弄[X]","url":"https://www.bilibili.com/bangumi/play/ep267886","time":"2019-05-25T17:00:00.000Z"}]},{"id":874141,"sort":9,"name":"禁断の地にて彼は、[Ｘ]が為奮闘する","sites":[{"site":"bilibili","sort":9,"title":"在禁断之地的他为了[X]而奋斗","url":"https://www.bilibili.com/bangumi/play/ep267887","time":"2019-06-01T17:00:00.000Z"}]},{"id":874142,"sort":10,"name":"かの新天地にて迷える子羊は[Ｘ]と邂逅する","sites":[{"site":"bilibili","sort":10,"title":"在那片新天地 迷路的羔羊与[X]邂逅","url":"https://www.bilibili.com/bangumi/play/ep267888","time":"2019-06-08T17:00:00.000Z"}]},{"id":874143,"sort":11,"name":"威厳ある先任者は時に[Ｘ]にかしづく","sites":[{"site":"bilibili","sort":11,"title":"有威严的前任者有时会照顾[X]","url":"https://www.bilibili.com/bangumi/play/ep267889","time":"2019-06-15T17:00:00.000Z"}]},{"id":874144,"sort":12,"name":"天才は時に[Ｘ]をともに分かち追懐する","sites":[{"site":"bilibili","sort":12,"title":"天才有时会与[X]一同追忆过去","url":"https://www.bilibili.com/bangumi/play/ep267890","time":"2019-06-22T17:00:00.000Z"}]},{"id":892845,"sort":13,"name":"天才の目に天の光はすべて[ x ]である","sites":[{"site":"bilibili","sort":13,"title":"在天才眼里 上天的光全都是[X]","url":"https://www.bilibili.com/bangumi/play/ep267891","time":"2019-06-29T17:00:00.000Z"}]}]}
+{
+ "id": "257369",
+ "name": "ぼくたちは勉強ができない",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "21986963",
+   "sort": 14
+  }
+ ],
+ "eps": [
+  {
+   "id": 874133,
+   "sort": 1,
+   "name": "天才と[Ｘ]は表裏一体である",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "天才与[X]是表里一体的",
+     "url": "https://www.bilibili.com/bangumi/play/ep267879",
+     "time": "2019-04-06T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874134,
+   "sort": 2,
+   "name": "魚心あれば、天才に[Ｘ]心あり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "若有鱼心（若有好感） 天才亦有[X]心",
+     "url": "https://www.bilibili.com/bangumi/play/ep267880",
+     "time": "2019-04-13T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874135,
+   "sort": 3,
+   "name": "天才は[Ｘ]にも心通ずるものと知る",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "天才知晓[X]也是通心之物",
+     "url": "https://www.bilibili.com/bangumi/play/ep267881",
+     "time": "2019-04-20T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874136,
+   "sort": 4,
+   "name": "彼女が天才に望むもの即ち[Ｘ]である",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "她向天才所期望的东西即是[X]",
+     "url": "https://www.bilibili.com/bangumi/play/ep267882",
+     "time": "2019-04-27T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874137,
+   "sort": 5,
+   "name": "林間の天才は[Ｘ]に迷走する",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "林间的天才迷路于[X]",
+     "url": "https://www.bilibili.com/bangumi/play/ep267883",
+     "time": "2019-05-04T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874138,
+   "sort": 6,
+   "name": "天才[Ｘ]たちは、かくして勉強ができない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "天才[X]们如此这般无法学习",
+     "url": "https://www.bilibili.com/bangumi/play/ep267884",
+     "time": "2019-05-11T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874139,
+   "sort": 7,
+   "name": "前任者の秘匿領域は[Ｘ]な有様である",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "前任者的秘密领域正如[X]",
+     "url": "https://www.bilibili.com/bangumi/play/ep267885",
+     "time": "2019-05-18T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874140,
+   "sort": 8,
+   "name": "天才の一挙手一投足は時に[Ｘ]を翻弄する",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "天才的一举手一投足有时会玩弄[X]",
+     "url": "https://www.bilibili.com/bangumi/play/ep267886",
+     "time": "2019-05-25T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874141,
+   "sort": 9,
+   "name": "禁断の地にて彼は、[Ｘ]が為奮闘する",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "在禁断之地的他为了[X]而奋斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep267887",
+     "time": "2019-06-01T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874142,
+   "sort": 10,
+   "name": "かの新天地にて迷える子羊は[Ｘ]と邂逅する",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "在那片新天地 迷路的羔羊与[X]邂逅",
+     "url": "https://www.bilibili.com/bangumi/play/ep267888",
+     "time": "2019-06-08T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874143,
+   "sort": 11,
+   "name": "威厳ある先任者は時に[Ｘ]にかしづく",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "有威严的前任者有时会照顾[X]",
+     "url": "https://www.bilibili.com/bangumi/play/ep267889",
+     "time": "2019-06-15T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874144,
+   "sort": 12,
+   "name": "天才は時に[Ｘ]をともに分かち追懐する",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "天才有时会与[X]一同追忆过去",
+     "url": "https://www.bilibili.com/bangumi/play/ep267890",
+     "time": "2019-06-22T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 892845,
+   "sort": 13,
+   "name": "天才の目に天の光はすべて[ x ]である",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "在天才眼里 上天的光全都是[X]",
+     "url": "https://www.bilibili.com/bangumi/play/ep267891",
+     "time": "2019-06-29T17:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

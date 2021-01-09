@@ -1,1 +1,169 @@
-{"id":"124778","name":"DIABOLIK LOVERS MORE,BLOOD","sites":[{"site":"qq","id":"n/ndd165x9imhawbd","sort":12},{"site":"youku","id":"64d9893a55d011e5b5ce","sort":1}],"eps":[{"id":557024,"sort":1,"name":"episode.Ⅰ","sites":[{"site":"qq","sort":1,"title":"魔鬼恋人第2季第1集","url":"https://v.qq.com/x/cover/ndd165x9imhawbd/b0018qs80fv.html"}]},{"id":557025,"sort":2,"name":"episode.Ⅱ","sites":[{"site":"qq","sort":2,"title":"魔鬼恋人第2季第2集","url":"https://v.qq.com/x/cover/ndd165x9imhawbd/u001895m8qx.html"}]},{"id":557026,"sort":3,"name":"episode.Ⅲ","sites":[{"site":"qq","sort":3,"title":"魔鬼恋人第2季第3集","url":"https://v.qq.com/x/cover/ndd165x9imhawbd/b0018nwfob8.html"}]},{"id":557027,"sort":4,"name":"episode.Ⅳ","sites":[{"site":"qq","sort":4,"title":"魔鬼恋人第2季第4集","url":"https://v.qq.com/x/cover/ndd165x9imhawbd/t0018n6dzj1.html"}]},{"id":557028,"sort":5,"name":"episode.Ⅴ","sites":[{"site":"qq","sort":5,"title":"魔鬼恋人第2季第5集","url":"https://v.qq.com/x/cover/ndd165x9imhawbd/o00188sg1mo.html"}]},{"id":557029,"sort":6,"name":"episode.Ⅵ","sites":[{"site":"qq","sort":6,"title":"魔鬼恋人第2季第6集","url":"https://v.qq.com/x/cover/ndd165x9imhawbd/e0018j89kr2.html"}]},{"id":557030,"sort":7,"name":"episode.Ⅶ","sites":[{"site":"qq","sort":7,"title":"魔鬼恋人第2季第7集","url":"https://v.qq.com/x/cover/ndd165x9imhawbd/y00186k79sy.html"}]},{"id":557031,"sort":8,"name":"episode.Ⅷ","sites":[{"site":"qq","sort":8,"title":"魔鬼恋人第2季第8集","url":"https://v.qq.com/x/cover/ndd165x9imhawbd/k00183jdp1h.html"}]},{"id":557032,"sort":9,"name":"episode.Ⅸ","sites":[{"site":"qq","sort":9,"title":"魔鬼恋人第2季第9集","url":"https://v.qq.com/x/cover/ndd165x9imhawbd/h0019lstlqw.html"}]},{"id":557033,"sort":10,"name":"episode.Ⅹ","sites":[{"site":"qq","sort":10,"title":"魔鬼恋人第2季第10集","url":"https://v.qq.com/x/cover/ndd165x9imhawbd/n0019b9p4qf.html"}]},{"id":557034,"sort":11,"name":"episode.Ⅺ","sites":[{"site":"qq","sort":11,"title":"魔鬼恋人第2季第11集","url":"https://v.qq.com/x/cover/ndd165x9imhawbd/h001973aq8g.html"}]},{"id":557035,"sort":12,"name":"episode.Ⅻ","sites":[{"site":"qq","sort":12,"title":"魔鬼恋人第2季第12集","url":"https://v.qq.com/x/cover/ndd165x9imhawbd/n0019vygxpi.html"}]}]}
+{
+ "id": "124778",
+ "name": "DIABOLIK LOVERS MORE,BLOOD",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "n/ndd165x9imhawbd",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 557024,
+   "sort": 1,
+   "name": "episode.Ⅰ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "魔鬼恋人第2季第1集",
+     "url": "https://v.qq.com/x/cover/ndd165x9imhawbd/b0018qs80fv.html"
+    }
+   ]
+  },
+  {
+   "id": 557025,
+   "sort": 2,
+   "name": "episode.Ⅱ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "魔鬼恋人第2季第2集",
+     "url": "https://v.qq.com/x/cover/ndd165x9imhawbd/u001895m8qx.html"
+    }
+   ]
+  },
+  {
+   "id": 557026,
+   "sort": 3,
+   "name": "episode.Ⅲ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "魔鬼恋人第2季第3集",
+     "url": "https://v.qq.com/x/cover/ndd165x9imhawbd/b0018nwfob8.html"
+    }
+   ]
+  },
+  {
+   "id": 557027,
+   "sort": 4,
+   "name": "episode.Ⅳ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "魔鬼恋人第2季第4集",
+     "url": "https://v.qq.com/x/cover/ndd165x9imhawbd/t0018n6dzj1.html"
+    }
+   ]
+  },
+  {
+   "id": 557028,
+   "sort": 5,
+   "name": "episode.Ⅴ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "魔鬼恋人第2季第5集",
+     "url": "https://v.qq.com/x/cover/ndd165x9imhawbd/o00188sg1mo.html"
+    }
+   ]
+  },
+  {
+   "id": 557029,
+   "sort": 6,
+   "name": "episode.Ⅵ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "魔鬼恋人第2季第6集",
+     "url": "https://v.qq.com/x/cover/ndd165x9imhawbd/e0018j89kr2.html"
+    }
+   ]
+  },
+  {
+   "id": 557030,
+   "sort": 7,
+   "name": "episode.Ⅶ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "魔鬼恋人第2季第7集",
+     "url": "https://v.qq.com/x/cover/ndd165x9imhawbd/y00186k79sy.html"
+    }
+   ]
+  },
+  {
+   "id": 557031,
+   "sort": 8,
+   "name": "episode.Ⅷ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "魔鬼恋人第2季第8集",
+     "url": "https://v.qq.com/x/cover/ndd165x9imhawbd/k00183jdp1h.html"
+    }
+   ]
+  },
+  {
+   "id": 557032,
+   "sort": 9,
+   "name": "episode.Ⅸ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "魔鬼恋人第2季第9集",
+     "url": "https://v.qq.com/x/cover/ndd165x9imhawbd/h0019lstlqw.html"
+    }
+   ]
+  },
+  {
+   "id": 557033,
+   "sort": 10,
+   "name": "episode.Ⅹ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "魔鬼恋人第2季第10集",
+     "url": "https://v.qq.com/x/cover/ndd165x9imhawbd/n0019b9p4qf.html"
+    }
+   ]
+  },
+  {
+   "id": 557034,
+   "sort": 11,
+   "name": "episode.Ⅺ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "魔鬼恋人第2季第11集",
+     "url": "https://v.qq.com/x/cover/ndd165x9imhawbd/h001973aq8g.html"
+    }
+   ]
+  },
+  {
+   "id": 557035,
+   "sort": 12,
+   "name": "episode.Ⅻ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "魔鬼恋人第2季第12集",
+     "url": "https://v.qq.com/x/cover/ndd165x9imhawbd/n0019vygxpi.html"
+    }
+   ]
+  }
+ ]
+}

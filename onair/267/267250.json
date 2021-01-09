@@ -1,1 +1,181 @@
-{"id":"267250","name":"RobiHachi","sites":[{"site":"bilibili","id":"24554900","sort":12}],"eps":[{"id":874325,"sort":1,"name":"旅は道連れ Journey to the Star","sites":[{"site":"bilibili","sort":1,"title":"旅行就要拖家带口 Journey to the Star","url":"https://www.bilibili.com/bangumi/play/ep267427","time":"2019-04-08T15:30:00.000Z"}]},{"id":874326,"sort":2,"name":"タコから出た真実","sites":[{"site":"bilibili","sort":2,"title":"来自章鱼的真相","url":"https://www.bilibili.com/bangumi/play/ep267428","time":"2019-04-15T15:30:00.000Z"}]},{"id":874327,"sort":3,"name":"冥王星の惑星恨み","sites":[{"site":"bilibili","sort":3,"title":"冥王星的行星怨念","url":"https://www.bilibili.com/bangumi/play/ep267429","time":"2019-04-22T15:30:00.000Z"}]},{"id":874328,"sort":4,"name":"竿の先に半魚人","sites":[{"site":"bilibili","sort":4,"title":"鱼竿钓起了半人鱼","url":"https://www.bilibili.com/bangumi/play/ep267430","time":"2019-04-29T15:30:00.000Z"}]},{"id":874329,"sort":5,"name":"地獄の沙汰もドン次第","sites":[{"site":"bilibili","sort":5,"title":"有权能使鬼推磨","url":"https://www.bilibili.com/bangumi/play/ep267431","time":"2019-05-06T15:30:00.000Z"}]},{"id":874330,"sort":6,"name":"寝耳にウナギ","sites":[{"site":"bilibili","sort":6,"title":"寝耳之鳗鱼","url":"https://www.bilibili.com/bangumi/play/ep267432","time":"2019-05-13T15:30:00.000Z"}]},{"id":874331,"sort":7,"name":"一寸先は夢の国","sites":[{"site":"bilibili","sort":7,"title":"梦之国近在眼前","url":"https://www.bilibili.com/bangumi/play/ep267433","time":"2019-05-20T15:30:00.000Z"}]},{"id":874332,"sort":8,"name":"メカるが勝ち","sites":[{"site":"bilibili","sort":8,"title":"机甲的胜利","url":"https://www.bilibili.com/bangumi/play/ep267434","time":"2019-05-27T15:30:00.000Z"}]},{"id":874333,"sort":9,"name":"亭主の好きなヒザクリガー","sites":[{"site":"bilibili","sort":9,"title":"老公喜欢的希扎库立卡","url":"https://www.bilibili.com/bangumi/play/ep267435","time":"2019-06-03T15:30:00.000Z"}]},{"id":874334,"sort":10,"name":"相棒喧嘩は犬も喰わない","sites":[{"site":"bilibili","sort":10,"title":"搭档吵架狗都懒得理","url":"https://www.bilibili.com/bangumi/play/ep267436","time":"2019-06-10T15:30:00.000Z"}]},{"id":874335,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"传闻中的极乐 伊赛坎达尔","url":"https://www.bilibili.com/bangumi/play/ep267437","time":"2019-06-17T15:30:00.000Z"}]},{"id":874336,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"月之梦 地球之梦","url":"https://www.bilibili.com/bangumi/play/ep267438","time":"2019-06-24T15:30:00.000Z"}]}]}
+{
+ "id": "267250",
+ "name": "RobiHachi",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "24554900",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 874325,
+   "sort": 1,
+   "name": "旅は道連れ Journey to the Star",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "旅行就要拖家带口 Journey to the Star",
+     "url": "https://www.bilibili.com/bangumi/play/ep267427",
+     "time": "2019-04-08T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874326,
+   "sort": 2,
+   "name": "タコから出た真実",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "来自章鱼的真相",
+     "url": "https://www.bilibili.com/bangumi/play/ep267428",
+     "time": "2019-04-15T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874327,
+   "sort": 3,
+   "name": "冥王星の惑星恨み",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "冥王星的行星怨念",
+     "url": "https://www.bilibili.com/bangumi/play/ep267429",
+     "time": "2019-04-22T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874328,
+   "sort": 4,
+   "name": "竿の先に半魚人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "鱼竿钓起了半人鱼",
+     "url": "https://www.bilibili.com/bangumi/play/ep267430",
+     "time": "2019-04-29T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874329,
+   "sort": 5,
+   "name": "地獄の沙汰もドン次第",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "有权能使鬼推磨",
+     "url": "https://www.bilibili.com/bangumi/play/ep267431",
+     "time": "2019-05-06T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874330,
+   "sort": 6,
+   "name": "寝耳にウナギ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "寝耳之鳗鱼",
+     "url": "https://www.bilibili.com/bangumi/play/ep267432",
+     "time": "2019-05-13T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874331,
+   "sort": 7,
+   "name": "一寸先は夢の国",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "梦之国近在眼前",
+     "url": "https://www.bilibili.com/bangumi/play/ep267433",
+     "time": "2019-05-20T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874332,
+   "sort": 8,
+   "name": "メカるが勝ち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "机甲的胜利",
+     "url": "https://www.bilibili.com/bangumi/play/ep267434",
+     "time": "2019-05-27T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874333,
+   "sort": 9,
+   "name": "亭主の好きなヒザクリガー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "老公喜欢的希扎库立卡",
+     "url": "https://www.bilibili.com/bangumi/play/ep267435",
+     "time": "2019-06-03T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874334,
+   "sort": 10,
+   "name": "相棒喧嘩は犬も喰わない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "搭档吵架狗都懒得理",
+     "url": "https://www.bilibili.com/bangumi/play/ep267436",
+     "time": "2019-06-10T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874335,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "传闻中的极乐 伊赛坎达尔",
+     "url": "https://www.bilibili.com/bangumi/play/ep267437",
+     "time": "2019-06-17T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874336,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "月之梦 地球之梦",
+     "url": "https://www.bilibili.com/bangumi/play/ep267438",
+     "time": "2019-06-24T15:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

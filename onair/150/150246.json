@@ -1,1 +1,258 @@
-{"id":"150246","name":"フルメタル・パニック！ Invisible Victory","sites":[{"site":"bilibili","id":"78432","sort":12},{"site":"iqiyi","id":"a_19rrh1sayt","sort":12}],"eps":[{"id":785195,"sort":1,"name":"ゼロアワー","sites":[{"site":"bilibili","sort":1,"title":"Zero Hour","url":"https://www.bilibili.com/bangumi/play/ep200023","time":"2018-04-13T12:59:59.000Z"},{"site":"iqiyi","sort":1,"title":"ZERO HOUR","url":"http://www.iqiyi.com/v_19rrc6qyd4.html","time":"2018-04-13T12:57:57.000Z"}]},{"id":785196,"sort":2,"name":"損害制御","sites":[{"site":"bilibili","sort":2,"title":"控制损失","url":"https://www.bilibili.com/bangumi/play/ep200024","time":"2018-04-20T13:00:00.000Z"},{"site":"iqiyi","sort":2,"title":"控制损失","url":"http://www.iqiyi.com/v_19rrct9l5g.html","time":"2018-04-20T12:55:08.000Z"}]},{"id":785197,"sort":3,"name":"BIG ONE PERCENT","sites":[{"site":"bilibili","sort":3,"title":"BIG ONE PERCENT","url":"https://www.bilibili.com/bangumi/play/ep200025","time":"2018-04-27T13:00:00.000Z"},{"site":"iqiyi","sort":3,"title":"ONE BIG PERCENT","url":"http://www.iqiyi.com/v_19rrcxjd7w.html","time":"2018-04-27T12:55:09.000Z"}]},{"id":785198,"sort":4,"name":"オン·マイ·オウン","sites":[{"site":"bilibili","sort":4,"title":"ON MY OWN","url":"https://www.bilibili.com/bangumi/play/ep200026","time":"2018-05-04T13:00:00.000Z"},{"site":"iqiyi","sort":4,"title":"ON MY OWN","url":"http://www.iqiyi.com/v_19rrcpi0f0.html","time":"2018-05-04T12:55:11.000Z"}]},{"id":785199,"sort":5,"name":"WELCOME TO THE JUNGLE","sites":[{"site":"bilibili","sort":5,"title":"WELCOME TO THE JUNGLE","url":"https://www.bilibili.com/bangumi/play/ep200027","time":"2018-05-18T13:00:00.000Z"},{"site":"iqiyi","sort":5,"title":"Welcome to the jungle","url":"http://www.iqiyi.com/v_19rrd5u9zs.html","time":"2018-05-18T12:55:12.000Z"}]},{"id":785200,"sort":6,"name":"腐敗のまどろみ","sites":[{"site":"bilibili","sort":6,"title":"腐败的小憩","url":"https://www.bilibili.com/bangumi/play/ep200028","time":"2018-05-25T14:00:00.000Z"},{"site":"iqiyi","sort":6,"title":"腐败的小憩","url":"http://www.iqiyi.com/v_19rrd7oxyw.html","time":"2018-05-25T13:55:11.000Z"}]},{"id":785201,"sort":7,"name":"ジャイアント·キリング","sites":[{"site":"bilibili","sort":7,"title":"GIANT KILLING","url":"https://www.bilibili.com/bangumi/play/ep200029","time":"2018-06-01T13:00:00.000Z"},{"site":"iqiyi","sort":7,"title":"GIANT KILLING","url":"http://www.iqiyi.com/v_19rr0sdpgw.html","time":"2018-06-01T12:55:12.000Z"}]},{"id":785202,"sort":8,"name":"ワン・マン・フォース","sites":[{"site":"bilibili","sort":8,"title":"ONE MAN FORCE","url":"https://www.bilibili.com/bangumi/play/ep200030","time":"2018-06-08T15:00:00.000Z"},{"site":"iqiyi","sort":8,"title":"ONE MAN FORCE","url":"http://www.iqiyi.com/v_19rr0jigqo.html","time":"2018-06-08T14:54:51.000Z"}]},{"id":785203,"sort":9,"name":"堕ちた魔女","sites":[{"site":"bilibili","sort":9,"title":"堕落凡尘的魔女","url":"https://www.bilibili.com/bangumi/play/ep200031","time":"2018-06-22T15:00:00.000Z"},{"site":"iqiyi","sort":9,"title":"堕落凡尘的魔女","url":"http://www.iqiyi.com/v_19rr0wrodg.html","time":"2018-06-22T14:55:10.000Z"}]},{"id":785204,"sort":10,"name":"前へ、前へ","sites":[{"site":"bilibili","sort":10,"title":"向前、向前","url":"https://www.bilibili.com/bangumi/play/ep200032","time":"2018-06-29T15:00:00.000Z"},{"site":"iqiyi","sort":10,"title":"向前向前","url":"http://www.iqiyi.com/v_19rr1rl094.html","time":"2018-06-29T14:55:14.000Z"}]},{"id":785205,"sort":11,"name":"ストーミー・ナイト","sites":[{"site":"bilibili","sort":11,"title":"STORMY NIGHT","url":"https://www.bilibili.com/bangumi/play/ep200033","time":"2018-07-18T18:00:00.000Z"},{"site":"iqiyi","sort":11,"title":"STORMY NIGHT","url":"http://www.iqiyi.com/v_19rr2fwtcg.html","time":"2018-07-18T17:55:17.000Z"}]},{"id":785206,"sort":12,"name":"メイク・マイ・デイ","sites":[{"site":"bilibili","sort":12,"title":"MAKE MY DAY","url":"https://www.bilibili.com/bangumi/play/ep200034","time":"2018-07-18T18:00:00.000Z"},{"site":"iqiyi","sort":12,"title":"MAKE MY DAY","url":"http://www.iqiyi.com/v_19rr2fwwo0.html","time":"2018-07-18T17:55:27.000Z"}]}]}
+{
+ "id": "150246",
+ "name": "フルメタル・パニック！ Invisible Victory",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "78432",
+   "sort": 12
+  },
+  {
+   "site": "youku",
+   "id": "efbfbdefbfbd0e4aefbf",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 785195,
+   "sort": 1,
+   "name": "ゼロアワー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Zero Hour",
+     "url": "https://www.bilibili.com/bangumi/play/ep200023",
+     "time": "2018-04-13T12:59:59.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 Zero Hour",
+     "url": "https://v.youku.com/v_show/id_XMzUzNTcxMTA4OA==.html?s=efbfbdefbfbd0e4aefbf"
+    }
+   ]
+  },
+  {
+   "id": 785196,
+   "sort": 2,
+   "name": "損害制御",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "控制损失",
+     "url": "https://www.bilibili.com/bangumi/play/ep200024",
+     "time": "2018-04-20T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 控制损失",
+     "url": "https://v.youku.com/v_show/id_XMzU1MjY3NDgwMA==.html?s=efbfbdefbfbd0e4aefbf"
+    }
+   ]
+  },
+  {
+   "id": 785197,
+   "sort": 3,
+   "name": "BIG ONE PERCENT",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "BIG ONE PERCENT",
+     "url": "https://www.bilibili.com/bangumi/play/ep200025",
+     "time": "2018-04-27T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 BIG ONE PERCENT",
+     "url": "https://v.youku.com/v_show/id_XMzU2ODczODE5Mg==.html?s=efbfbdefbfbd0e4aefbf"
+    }
+   ]
+  },
+  {
+   "id": 785198,
+   "sort": 4,
+   "name": "オン·マイ·オウン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "ON MY OWN",
+     "url": "https://www.bilibili.com/bangumi/play/ep200026",
+     "time": "2018-05-04T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 ON MY OWN",
+     "url": "https://v.youku.com/v_show/id_XMzU4MzU0NDk2NA==.html?s=efbfbdefbfbd0e4aefbf"
+    }
+   ]
+  },
+  {
+   "id": 785199,
+   "sort": 5,
+   "name": "WELCOME TO THE JUNGLE",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "WELCOME TO THE JUNGLE",
+     "url": "https://www.bilibili.com/bangumi/play/ep200027",
+     "time": "2018-05-18T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 WELCOME TO THE JUNGLE",
+     "url": "https://v.youku.com/v_show/id_XMzYxMzQ0OTE2NA==.html?s=efbfbdefbfbd0e4aefbf"
+    }
+   ]
+  },
+  {
+   "id": 785200,
+   "sort": 6,
+   "name": "腐敗のまどろみ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "腐败的小憩",
+     "url": "https://www.bilibili.com/bangumi/play/ep200028",
+     "time": "2018-05-25T14:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 腐败的小憩",
+     "url": "https://v.youku.com/v_show/id_XMzYyNjUwOTU2NA==.html?s=efbfbdefbfbd0e4aefbf"
+    }
+   ]
+  },
+  {
+   "id": 785201,
+   "sort": 7,
+   "name": "ジャイアント·キリング",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "GIANT KILLING",
+     "url": "https://www.bilibili.com/bangumi/play/ep200029",
+     "time": "2018-06-01T13:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 GIANT KILLING",
+     "url": "https://v.youku.com/v_show/id_XMzYzOTQ3NjgwMA==.html?s=efbfbdefbfbd0e4aefbf"
+    }
+   ]
+  },
+  {
+   "id": 785202,
+   "sort": 8,
+   "name": "ワン・マン・フォース",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "ONE MAN FORCE",
+     "url": "https://www.bilibili.com/bangumi/play/ep200030",
+     "time": "2018-06-08T15:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 ONE MAN FORCE",
+     "url": "https://v.youku.com/v_show/id_XMzY1MzM2ODk0MA==.html?s=efbfbdefbfbd0e4aefbf"
+    }
+   ]
+  },
+  {
+   "id": 785203,
+   "sort": 9,
+   "name": "堕ちた魔女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "堕落凡尘的魔女",
+     "url": "https://www.bilibili.com/bangumi/play/ep200031",
+     "time": "2018-06-22T15:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 堕落凡尘的魔女",
+     "url": "https://v.youku.com/v_show/id_XMzY4MDgyNDc5Mg==.html?s=efbfbdefbfbd0e4aefbf"
+    }
+   ]
+  },
+  {
+   "id": 785204,
+   "sort": 10,
+   "name": "前へ、前へ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "向前、向前",
+     "url": "https://www.bilibili.com/bangumi/play/ep200032",
+     "time": "2018-06-29T15:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 向前 向前",
+     "url": "https://v.youku.com/v_show/id_XMzY5NTAxMjg0OA==.html?s=efbfbdefbfbd0e4aefbf"
+    }
+   ]
+  },
+  {
+   "id": 785205,
+   "sort": 11,
+   "name": "ストーミー・ナイト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "STORMY NIGHT",
+     "url": "https://www.bilibili.com/bangumi/play/ep200033",
+     "time": "2018-07-18T18:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 STORMY NIGHT",
+     "url": "https://v.youku.com/v_show/id_XMzczMTQ4Njk1Ng==.html?s=efbfbdefbfbd0e4aefbf"
+    }
+   ]
+  },
+  {
+   "id": 785206,
+   "sort": 12,
+   "name": "メイク・マイ・デイ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "MAKE MY DAY",
+     "url": "https://www.bilibili.com/bangumi/play/ep200034",
+     "time": "2018-07-18T18:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 MAKE MY DAY",
+     "url": "https://v.youku.com/v_show/id_XMzczMTM1MjI5Ng==.html?s=efbfbdefbfbd0e4aefbf"
+    }
+   ]
+  }
+ ]
+}

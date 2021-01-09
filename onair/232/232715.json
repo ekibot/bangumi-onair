@@ -1,1 +1,72 @@
-{"id":"232715","name":"テニスの王子様 BEST GAMES!!","sites":[{"site":"qq","id":"m/mzc00200umkgan6","sort":2},{"site":"bilibili","id":"28222933","sort":3}],"eps":[{"id":764439,"sort":1,"name":"手塚 VS 跡部","sites":[{"site":"qq","sort":1,"title":"第01集 乾・海堂vs宍户・凤","url":"https://v.qq.com/x/cover/mzc00200umkgan6/c003201bymu.html"},{"site":"bilibili","sort":1,"title":"「乾・海堂vs宍户・凤」","url":"https://www.bilibili.com/bangumi/play/ep286363","time":"2019-10-02T10:00:00.000Z"}]},{"id":855260,"sort":2,"name":"乾・海堂vs宍戸・鳳／大石・菊丸vs仁王・柳生","sites":[{"site":"qq","sort":2,"title":"第02集 大石・菊丸vs仁王・柳生","url":"https://v.qq.com/x/cover/mzc00200umkgan6/c0032ecpg45.html"},{"site":"bilibili","sort":2,"title":"「大石・菊丸vs仁王・柳生」","url":"https://www.bilibili.com/bangumi/play/ep286403","time":"2019-10-02T10:00:00.000Z"}]},{"id":855261,"sort":3,"name":"不二vs切原","sites":[{"site":"bilibili","sort":3,"title":"「不二VS切原」","url":"https://www.bilibili.com/bangumi/play/ep312184","time":"2020-02-02T10:00:00.000Z"}]}]}
+{
+ "id": "232715",
+ "name": "テニスの王子様 BEST GAMES!!",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "m/mzc00200umkgan6",
+   "sort": 2
+  },
+  {
+   "site": "bilibili",
+   "id": "28222933",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 764439,
+   "sort": 1,
+   "name": "手塚 VS 跡部",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第01集 乾・海堂vs宍户・凤",
+     "url": "https://v.qq.com/x/cover/mzc00200umkgan6/c003201bymu.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "「乾・海堂vs宍户・凤」",
+     "url": "https://www.bilibili.com/bangumi/play/ep286363",
+     "time": "2019-10-02T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 855260,
+   "sort": 2,
+   "name": "乾・海堂vs宍戸・鳳／大石・菊丸vs仁王・柳生",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "第02集 大石・菊丸vs仁王・柳生",
+     "url": "https://v.qq.com/x/cover/mzc00200umkgan6/c0032ecpg45.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "「大石・菊丸vs仁王・柳生」",
+     "url": "https://www.bilibili.com/bangumi/play/ep286403",
+     "time": "2019-10-02T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 855261,
+   "sort": 3,
+   "name": "不二vs切原",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "「不二VS切原」",
+     "url": "https://www.bilibili.com/bangumi/play/ep312184",
+     "time": "2020-02-02T10:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

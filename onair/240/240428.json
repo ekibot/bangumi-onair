@@ -1,1 +1,169 @@
-{"id":"240428","name":"ムヒョとロージーの魔法律相談事務所","sites":[{"site":"qq","id":"g/gfjzjo0ea0f5oqn","sort":12}],"eps":[{"id":812942,"sort":1,"name":"リエとタエコ","sites":[{"site":"qq","sort":1,"title":"魔法律事务所_01","url":"https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/r0027m192xt.html"}]},{"id":812943,"sort":2,"name":"ケンジとナナ","sites":[{"site":"qq","sort":2,"title":"魔法律事务所_02","url":"https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/w0027z6o5ae.html"}]},{"id":812944,"sort":3,"name":"才能","sites":[{"site":"qq","sort":3,"title":"魔法律事务所_03","url":"https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/l00278p505h.html"}]},{"id":812945,"sort":4,"name":"前兆","sites":[{"site":"qq","sort":4,"title":"魔法律事务所_04","url":"https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/n002718zoum.html"}]},{"id":812946,"sort":5,"name":"狂気","sites":[{"site":"qq","sort":5,"title":"魔法律事务所_05","url":"https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/z0027zi5ipe.html"}]},{"id":812947,"sort":6,"name":"夜の蝶","sites":[{"site":"qq","sort":6,"title":"魔法律事务所_06","url":"https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/y0027lsybc7.html"}]},{"id":812948,"sort":7,"name":"魔監獄","sites":[{"site":"qq","sort":7,"title":"魔法律事务所_07","url":"https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/w0027vh5yql.html"}]},{"id":812949,"sort":8,"name":"なりかわり","sites":[{"site":"qq","sort":8,"title":"魔法律事务所_08","url":"https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/e00275xtt1r.html"}]},{"id":812950,"sort":9,"name":"ソフィー","sites":[{"site":"qq","sort":9,"title":"魔法律事务所_09","url":"https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/c00277nsn0b.html"}]},{"id":812951,"sort":10,"name":"木イチゴ","sites":[{"site":"qq","sort":10,"title":"魔法律事务所_10","url":"https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/q0027lh02da.html"}]},{"id":812952,"sort":11,"name":"賭け","sites":[{"site":"qq","sort":11,"title":"魔法律事务所_11","url":"https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/d0027qps4mc.html"}]},{"id":812953,"sort":12,"name":"〜風の中のツバメ〜","sites":[{"site":"qq","sort":12,"title":"魔法律事务所_12","url":"https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/h002727o4th.html"}]}]}
+{
+ "id": "240428",
+ "name": "ムヒョとロージーの魔法律相談事務所",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "g/gfjzjo0ea0f5oqn",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 812942,
+   "sort": 1,
+   "name": "リエとタエコ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "魔法律事务所_01",
+     "url": "https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/r0027m192xt.html"
+    }
+   ]
+  },
+  {
+   "id": 812943,
+   "sort": 2,
+   "name": "ケンジとナナ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "魔法律事务所_02",
+     "url": "https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/w0027z6o5ae.html"
+    }
+   ]
+  },
+  {
+   "id": 812944,
+   "sort": 3,
+   "name": "才能",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "魔法律事务所_03",
+     "url": "https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/l00278p505h.html"
+    }
+   ]
+  },
+  {
+   "id": 812945,
+   "sort": 4,
+   "name": "前兆",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "魔法律事务所_04",
+     "url": "https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/n002718zoum.html"
+    }
+   ]
+  },
+  {
+   "id": 812946,
+   "sort": 5,
+   "name": "狂気",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "魔法律事务所_05",
+     "url": "https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/z0027zi5ipe.html"
+    }
+   ]
+  },
+  {
+   "id": 812947,
+   "sort": 6,
+   "name": "夜の蝶",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "魔法律事务所_06",
+     "url": "https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/y0027lsybc7.html"
+    }
+   ]
+  },
+  {
+   "id": 812948,
+   "sort": 7,
+   "name": "魔監獄",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "魔法律事务所_07",
+     "url": "https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/w0027vh5yql.html"
+    }
+   ]
+  },
+  {
+   "id": 812949,
+   "sort": 8,
+   "name": "なりかわり",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "魔法律事务所_08",
+     "url": "https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/e00275xtt1r.html"
+    }
+   ]
+  },
+  {
+   "id": 812950,
+   "sort": 9,
+   "name": "ソフィー",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "魔法律事务所_09",
+     "url": "https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/c00277nsn0b.html"
+    }
+   ]
+  },
+  {
+   "id": 812951,
+   "sort": 10,
+   "name": "木イチゴ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "魔法律事务所_10",
+     "url": "https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/q0027lh02da.html"
+    }
+   ]
+  },
+  {
+   "id": 812952,
+   "sort": 11,
+   "name": "賭け",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "魔法律事务所_11",
+     "url": "https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/d0027qps4mc.html"
+    }
+   ]
+  },
+  {
+   "id": 812953,
+   "sort": 12,
+   "name": "〜風の中のツバメ〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "魔法律事务所_12",
+     "url": "https://v.qq.com/x/cover/gfjzjo0ea0f5oqn/h002727o4th.html"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,27 @@
-{"id":"84122","name":"振り子","sites":[{"site":"bilibili","id":"4600","sort":1}],"eps":[{"id":575181,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep89397","time":"2016-06-08T09:44:26.000Z"}]}]}
+{
+ "id": "84122",
+ "name": "振り子",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4600",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 575181,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep89397",
+     "time": "2016-06-08T09:44:26.000Z"
+    }
+   ]
+  }
+ ]
+}

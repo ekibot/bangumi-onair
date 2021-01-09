@@ -1,1 +1,27 @@
-{"id":"118784","name":"屍者の帝国","sites":[{"site":"bilibili","id":"4098","sort":1}],"eps":[{"id":613157,"sort":1,"name":"屍者の帝国","sites":[{"site":"bilibili","sort":1,"title":"尸者的帝国","url":"https://www.bilibili.com/bangumi/play/ep88519","time":"2016-05-27T02:53:05.000Z"}]}]}
+{
+ "id": "118784",
+ "name": "屍者の帝国",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4098",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 613157,
+   "sort": 1,
+   "name": "屍者の帝国",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "尸者的帝国",
+     "url": "https://www.bilibili.com/bangumi/play/ep88519",
+     "time": "2016-05-27T02:53:05.000Z"
+    }
+   ]
+  }
+ ]
+}

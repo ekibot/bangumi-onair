@@ -1,1 +1,27 @@
-{"id":"35866","name":"コードギアス 反逆のルルーシュ ナナリーinワンダーランド","sites":[{"site":"bilibili","id":"4446","sort":1}],"eps":[{"id":151645,"sort":1,"name":"コードギアス 反逆のルルーシュ ナナリーinワンダーランド","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88929","time":"2016-06-05T07:29:00.000Z"}]}]}
+{
+ "id": "35866",
+ "name": "コードギアス 反逆のルルーシュ ナナリーinワンダーランド",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4446",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 151645,
+   "sort": 1,
+   "name": "コードギアス 反逆のルルーシュ ナナリーinワンダーランド",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88929",
+     "time": "2016-06-05T07:29:00.000Z"
+    }
+   ]
+  }
+ ]
+}

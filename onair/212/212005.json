@@ -1,1 +1,97 @@
-{"id":"212005","name":"いつだって僕らの恋は10センチだった。","sites":[{"site":"bilibili","id":"6470","sort":6}],"eps":[{"id":746004,"sort":1,"name":"春、初恋、桜色。","sites":[{"site":"bilibili","sort":1,"title":"春天、初恋、樱花的颜色","url":"https://www.bilibili.com/bangumi/play/ep115196","time":"2017-11-24T16:30:00.000Z"}]},{"id":746005,"sort":2,"name":"夏、花火、恋の色。","sites":[{"site":"bilibili","sort":2,"title":"夏天、烟花、恋爱的颜色","url":"https://www.bilibili.com/bangumi/play/ep115197","time":"2017-12-01T16:30:00.000Z"}]},{"id":746006,"sort":3,"name":"秘密、孤独、夕暮れ色。","sites":[{"site":"bilibili","sort":3,"title":"秘密、孤独、黄昏的颜色","url":"https://www.bilibili.com/bangumi/play/ep115198","time":"2017-12-08T16:30:00.000Z"}]},{"id":746007,"sort":4,"name":"留学、未来図、心の色。","sites":[{"site":"bilibili","sort":4,"title":"留学、未来蓝图、心的颜色","url":"https://www.bilibili.com/bangumi/play/ep115199","time":"2017-12-15T16:30:00.000Z"}]},{"id":746008,"sort":5,"name":"初雪、夢、涙の色。","sites":[{"site":"bilibili","sort":5,"title":"初雪、梦想、眼泪的颜色","url":"https://www.bilibili.com/bangumi/play/ep115200","time":"2017-12-22T16:30:00.000Z"}]},{"id":746009,"sort":6,"name":"卒業、旅立ち、未来の色。","sites":[{"site":"bilibili","sort":6,"title":"毕业、启程、未来的颜色","url":"https://www.bilibili.com/bangumi/play/ep115201","time":"2017-12-29T16:30:00.000Z"}]}]}
+{
+ "id": "212005",
+ "name": "いつだって僕らの恋は10センチだった。",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6470",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 746004,
+   "sort": 1,
+   "name": "春、初恋、桜色。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "春天、初恋、樱花的颜色",
+     "url": "https://www.bilibili.com/bangumi/play/ep115196",
+     "time": "2017-11-24T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746005,
+   "sort": 2,
+   "name": "夏、花火、恋の色。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "夏天、烟花、恋爱的颜色",
+     "url": "https://www.bilibili.com/bangumi/play/ep115197",
+     "time": "2017-12-01T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746006,
+   "sort": 3,
+   "name": "秘密、孤独、夕暮れ色。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "秘密、孤独、黄昏的颜色",
+     "url": "https://www.bilibili.com/bangumi/play/ep115198",
+     "time": "2017-12-08T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746007,
+   "sort": 4,
+   "name": "留学、未来図、心の色。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "留学、未来蓝图、心的颜色",
+     "url": "https://www.bilibili.com/bangumi/play/ep115199",
+     "time": "2017-12-15T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746008,
+   "sort": 5,
+   "name": "初雪、夢、涙の色。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "初雪、梦想、眼泪的颜色",
+     "url": "https://www.bilibili.com/bangumi/play/ep115200",
+     "time": "2017-12-22T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746009,
+   "sort": 6,
+   "name": "卒業、旅立ち、未来の色。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "毕业、启程、未来的颜色",
+     "url": "https://www.bilibili.com/bangumi/play/ep115201",
+     "time": "2017-12-29T16:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

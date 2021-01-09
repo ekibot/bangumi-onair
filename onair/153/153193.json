@@ -1,1 +1,181 @@
-{"id":"153193","name":"薄桜鬼～御伽草子～","sites":[{"site":"bilibili","id":"3377","sort":12}],"eps":[{"id":617645,"sort":1,"name":"父さまを探して/続・父さまを探して","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep85794","time":"2016-04-05T12:55:01.000Z"}]},{"id":617646,"sort":2,"name":"鏡/美食家、風間/沖田のイタズラ","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep85997","time":"2016-04-12T12:55:02.000Z"}]},{"id":617647,"sort":3,"name":"ナニユエ斉藤さん/薩摩藩の動きが･･･！/真面目な男、斉藤","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep86559","time":"2016-04-19T13:10:14.000Z"}]},{"id":617648,"sort":4,"name":"\b薫のどす黒い策略/千鶴への贈り物","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep86794","time":"2016-04-26T12:55:02.000Z"}]},{"id":617649,"sort":5,"name":"原田の夜/風呂","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep87285","time":"2016-05-03T12:55:02.000Z"}]},{"id":617650,"sort":6,"name":"新選組の真剣会議/続・美食家、風間/山崎の休日","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep87767","time":"2016-05-10T12:55:01.000Z"}]},{"id":617651,"sort":7,"name":"伊東さんへの隠し事/山南さんの薬","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88140","time":"2016-05-17T12:55:01.000Z"}]},{"id":617652,"sort":8,"name":"天霧の好み/花の女鬼会","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88417","time":"2016-05-24T12:55:01.000Z"}]},{"id":617653,"sort":9,"name":"薫の復讐","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88642","time":"2016-05-31T12:55:01.000Z"}]},{"id":617654,"sort":10,"name":"迎えに来たぞ/こだわりの風間","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep89052","time":"2016-06-07T12:55:01.000Z"}]},{"id":617655,"sort":11,"name":"隊士の協力/緊急事態","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep89053","time":"2016-06-14T12:55:01.000Z"}]},{"id":617656,"sort":12,"name":"父さまへ･･･","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep89055","time":"2016-06-28T12:55:02.000Z"}]}]}
+{
+ "id": "153193",
+ "name": "薄桜鬼～御伽草子～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3377",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 617645,
+   "sort": 1,
+   "name": "父さまを探して/続・父さまを探して",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep85794",
+     "time": "2016-04-05T12:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 617646,
+   "sort": 2,
+   "name": "鏡/美食家、風間/沖田のイタズラ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep85997",
+     "time": "2016-04-12T12:55:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 617647,
+   "sort": 3,
+   "name": "ナニユエ斉藤さん/薩摩藩の動きが･･･！/真面目な男、斉藤",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep86559",
+     "time": "2016-04-19T13:10:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 617648,
+   "sort": 4,
+   "name": "\b薫のどす黒い策略/千鶴への贈り物",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep86794",
+     "time": "2016-04-26T12:55:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 617649,
+   "sort": 5,
+   "name": "原田の夜/風呂",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep87285",
+     "time": "2016-05-03T12:55:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 617650,
+   "sort": 6,
+   "name": "新選組の真剣会議/続・美食家、風間/山崎の休日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep87767",
+     "time": "2016-05-10T12:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 617651,
+   "sort": 7,
+   "name": "伊東さんへの隠し事/山南さんの薬",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88140",
+     "time": "2016-05-17T12:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 617652,
+   "sort": 8,
+   "name": "天霧の好み/花の女鬼会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88417",
+     "time": "2016-05-24T12:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 617653,
+   "sort": 9,
+   "name": "薫の復讐",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88642",
+     "time": "2016-05-31T12:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 617654,
+   "sort": 10,
+   "name": "迎えに来たぞ/こだわりの風間",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep89052",
+     "time": "2016-06-07T12:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 617655,
+   "sort": 11,
+   "name": "隊士の協力/緊急事態",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep89053",
+     "time": "2016-06-14T12:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 617656,
+   "sort": 12,
+   "name": "父さまへ･･･",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep89055",
+     "time": "2016-06-28T12:55:02.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "297370",
+ "name": "オルタンシア・サーガ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231926",
+   "week": 4,
+   "time": "0100",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 997834,
+   "sort": 1,
+   "name": "覚悟 ～カメリアとの戦い～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "觉悟 ~与加梅里亚的战斗~",
+     "url": "https://www.bilibili.com/bangumi/play/ep374504",
+     "time": "2021-01-06T17:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

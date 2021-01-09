@@ -1,1 +1,181 @@
-{"id":"165972","name":"ステラのまほう","sites":[{"site":"bilibili","id":"5540","sort":12}],"eps":[{"id":668432,"sort":1,"name":"スタート地点","sites":[{"site":"bilibili","sort":1,"title":"出发点","url":"https://www.bilibili.com/bangumi/play/ep96238","time":"2016-10-03T14:30:09.000Z"}]},{"id":668433,"sort":2,"name":"たのしい創作","sites":[{"site":"bilibili","sort":2,"title":"开心的创作","url":"https://www.bilibili.com/bangumi/play/ep96239","time":"2016-10-10T14:30:10.000Z"}]},{"id":668434,"sort":3,"name":"伝導アイテム","sites":[{"site":"bilibili","sort":3,"title":"传导道具","url":"https://www.bilibili.com/bangumi/play/ep96240","time":"2016-10-17T14:30:10.000Z"}]},{"id":668435,"sort":4,"name":"スキルアップ","sites":[{"site":"bilibili","sort":4,"title":"提升技能","url":"https://www.bilibili.com/bangumi/play/ep96241","time":"2016-10-24T14:30:10.000Z"}]},{"id":668436,"sort":5,"name":"カウントダウン","sites":[{"site":"bilibili","sort":5,"title":"倒计时","url":"https://www.bilibili.com/bangumi/play/ep96242","time":"2016-10-31T14:30:10.000Z"}]},{"id":668437,"sort":6,"name":"そくばいかい","sites":[{"site":"bilibili","sort":6,"title":"同人展会","url":"https://www.bilibili.com/bangumi/play/ep96243","time":"2016-11-07T14:30:10.000Z"}]},{"id":668438,"sort":7,"name":"はじめての思い出","sites":[{"site":"bilibili","sort":7,"title":"初次回忆","url":"https://www.bilibili.com/bangumi/play/ep96244","time":"2016-11-14T14:30:10.000Z"}]},{"id":668439,"sort":8,"name":"デバッグなめたらダメだよ?","sites":[{"site":"bilibili","sort":8,"title":"不要小看测试员","url":"https://www.bilibili.com/bangumi/play/ep96245","time":"2016-11-21T14:30:09.000Z"}]},{"id":668440,"sort":9,"name":"スキルアップその2","sites":[{"site":"bilibili","sort":9,"title":"提升技能之二","url":"https://www.bilibili.com/bangumi/play/ep96246","time":"2016-11-28T14:30:09.000Z"}]},{"id":668441,"sort":10,"name":"精密機械","sites":[{"site":"bilibili","sort":10,"title":"精密机械","url":"https://www.bilibili.com/bangumi/play/ep96247","time":"2016-12-05T14:30:09.000Z"}]},{"id":668442,"sort":11,"name":"お困りですかお嬢さん","sites":[{"site":"bilibili","sort":11,"title":"小姐 需要帮助吗","url":"https://www.bilibili.com/bangumi/play/ep96248","time":"2016-12-12T14:30:09.000Z"}]},{"id":668443,"sort":12,"name":"もう一度スタート地点","sites":[{"site":"bilibili","sort":12,"title":"重回初心","url":"https://www.bilibili.com/bangumi/play/ep96249","time":"2016-12-19T14:30:09.000Z"}]}]}
+{
+ "id": "165972",
+ "name": "ステラのまほう",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5540",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 668432,
+   "sort": 1,
+   "name": "スタート地点",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "出发点",
+     "url": "https://www.bilibili.com/bangumi/play/ep96238",
+     "time": "2016-10-03T14:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 668433,
+   "sort": 2,
+   "name": "たのしい創作",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "开心的创作",
+     "url": "https://www.bilibili.com/bangumi/play/ep96239",
+     "time": "2016-10-10T14:30:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 668434,
+   "sort": 3,
+   "name": "伝導アイテム",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "传导道具",
+     "url": "https://www.bilibili.com/bangumi/play/ep96240",
+     "time": "2016-10-17T14:30:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 668435,
+   "sort": 4,
+   "name": "スキルアップ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "提升技能",
+     "url": "https://www.bilibili.com/bangumi/play/ep96241",
+     "time": "2016-10-24T14:30:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 668436,
+   "sort": 5,
+   "name": "カウントダウン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "倒计时",
+     "url": "https://www.bilibili.com/bangumi/play/ep96242",
+     "time": "2016-10-31T14:30:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 668437,
+   "sort": 6,
+   "name": "そくばいかい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "同人展会",
+     "url": "https://www.bilibili.com/bangumi/play/ep96243",
+     "time": "2016-11-07T14:30:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 668438,
+   "sort": 7,
+   "name": "はじめての思い出",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "初次回忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep96244",
+     "time": "2016-11-14T14:30:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 668439,
+   "sort": 8,
+   "name": "デバッグなめたらダメだよ?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "不要小看测试员",
+     "url": "https://www.bilibili.com/bangumi/play/ep96245",
+     "time": "2016-11-21T14:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 668440,
+   "sort": 9,
+   "name": "スキルアップその2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "提升技能之二",
+     "url": "https://www.bilibili.com/bangumi/play/ep96246",
+     "time": "2016-11-28T14:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 668441,
+   "sort": 10,
+   "name": "精密機械",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "精密机械",
+     "url": "https://www.bilibili.com/bangumi/play/ep96247",
+     "time": "2016-12-05T14:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 668442,
+   "sort": 11,
+   "name": "お困りですかお嬢さん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "小姐 需要帮助吗",
+     "url": "https://www.bilibili.com/bangumi/play/ep96248",
+     "time": "2016-12-12T14:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 668443,
+   "sort": 12,
+   "name": "もう一度スタート地点",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "重回初心",
+     "url": "https://www.bilibili.com/bangumi/play/ep96249",
+     "time": "2016-12-19T14:30:09.000Z"
+    }
+   ]
+  }
+ ]
+}

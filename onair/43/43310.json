@@ -1,1 +1,27 @@
-{"id":"43310","name":"AURA 〜魔竜院光牙最後の闘い〜","sites":[{"site":"bilibili","id":"28224170","sort":1}],"eps":[{"id":338328,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"AURA ～魔龙院光牙最后的战斗～","url":"https://www.bilibili.com/bangumi/play/ep300242","time":"2019-12-11T09:48:00.000Z"}]}]}
+{
+ "id": "43310",
+ "name": "AURA 〜魔竜院光牙最後の闘い〜",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28224170",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 338328,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "AURA ～魔龙院光牙最后的战斗～",
+     "url": "https://www.bilibili.com/bangumi/play/ep300242",
+     "time": "2019-12-11T09:48:00.000Z"
+    }
+   ]
+  }
+ ]
+}

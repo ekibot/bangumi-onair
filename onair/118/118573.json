@@ -1,1 +1,38 @@
-{"id":"118573","name":"真救世主伝説 北斗の拳 ラオウ伝 激闘の章","sites":[{"site":"qq","id":"4/4tohd6zvnip5odc","sort":1},{"site":"bilibili","id":"4018","sort":1}],"eps":[{"id":890905,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"真救世主传说—北斗神拳:拉奥传 激斗之章","url":"http://www.iqiyi.com/v_19rqycetbk.html?vfm=m_103_txsp"},{"site":"bilibili","sort":1,"title":"北斗神拳 拉奥传 激斗之章","url":"https://www.bilibili.com/bangumi/play/ep88260","time":"2016-05-20T03:00:02.000Z"}]}]}
+{
+ "id": "118573",
+ "name": "真救世主伝説 北斗の拳 ラオウ伝 激闘の章",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "4/4tohd6zvnip5odc",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "4018",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 890905,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "真救世主传说—北斗神拳:拉奥传 激斗之章",
+     "url": "http://www.iqiyi.com/v_19rqycetbk.html?vfm=m_103_txsp"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "北斗神拳 拉奥传 激斗之章",
+     "url": "https://www.bilibili.com/bangumi/play/ep88260",
+     "time": "2016-05-20T03:00:02.000Z"
+    }
+   ]
+  }
+ ]
+}

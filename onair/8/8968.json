@@ -1,1 +1,49 @@
-{"id":"8968","name":"クレヨンしんちゃん ブリブリ王国の秘宝","sites":[{"site":"qq","id":"b/bymafsjpccgo4bw","sort":21},{"site":"bilibili","id":"10472","sort":1}],"eps":[{"id":766754,"sort":1,"name":"クレヨンしんちゃん ブリブリ王国の秘宝","sites":[{"site":"qq","sort":1,"title":"蜡笔小新1993剧场版：动感超人大战高叉魔王","url":"https://v.qq.com/x/cover/bymafsjpccgo4bw/x0014he9pm4.html"},{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep124186","time":"2017-12-01T08:11:00.000Z"}]}]}
+{
+ "id": "8968",
+ "name": "クレヨンしんちゃん ブリブリ王国の秘宝",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "b/bymafsjpccgo4bw",
+   "sort": 21
+  },
+  {
+   "site": "bilibili",
+   "id": "10472",
+   "sort": 1
+  },
+  {
+   "site": "youku",
+   "id": "f071488261ad11e0bea1",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 766754,
+   "sort": 1,
+   "name": "クレヨンしんちゃん ブリブリ王国の秘宝",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "蜡笔小新1993剧场版：动感超人大战高叉魔王",
+     "url": "https://v.qq.com/x/cover/bymafsjpccgo4bw/x0014he9pm4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep124186",
+     "time": "2017-12-01T08:11:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "蜡笔小新剧场版 布里布里王国的宝藏",
+     "url": "https://v.youku.com/v_show/id_XNDgxOTk1NDI4.html?s=f071488261ad11e0bea1"
+    }
+   ]
+  }
+ ]
+}

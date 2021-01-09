@@ -1,1 +1,91 @@
-{"id":"1529","name":"イリヤの空、UFOの夏","sites":[{"site":"qq","id":"p/pcwetsd9pmmroio","sort":6}],"eps":[{"id":5804,"sort":1,"name":"第三種接近遭遇","sites":[{"site":"qq","sort":1,"title":"第01话 遭遇第三类接触","url":"http://v.youku.com/v_show/id_XNDc0MDg2NTcy.html"}]},{"id":5805,"sort":2,"name":"ラブレター","sites":[{"site":"qq","sort":2,"title":"第02话 情书","url":"http://v.youku.com/v_show/id_XNDc0MDg2NTY4.html"}]},{"id":5806,"sort":3,"name":"十八時四十七分三十二秒","sites":[{"site":"qq","sort":3,"title":"第03话 十八时四十七分三十二秒","url":"http://v.youku.com/v_show/id_XNDc0MDg2NTc2.html"}]},{"id":5807,"sort":4,"name":"水前寺、応答せよ","sites":[{"site":"qq","sort":4,"title":"第04话 水前寺 请回答","url":"http://v.youku.com/v_show/id_XNDc0MDg2NTgw.html"}]},{"id":5808,"sort":5,"name":"最後の道","sites":[{"site":"qq","sort":5,"title":"第05话 最后的道路","url":"http://v.youku.com/v_show/id_XNDc0MDg2NTg0.html"}]},{"id":5809,"sort":6,"name":"イリヤの空、UFOの夏","sites":[{"site":"qq","sort":6,"title":"第06话 伊里野的天空 UFO的夏天","url":"http://v.youku.com/v_show/id_XNDc0MDg2NTg4.html"}]}]}
+{
+ "id": "1529",
+ "name": "イリヤの空、UFOの夏",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "p/pcwetsd9pmmroio",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 5804,
+   "sort": 1,
+   "name": "第三種接近遭遇",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "伊里野的天空 UFO之夏01",
+     "url": "http://www.letv.com/ptv/vplay/1431685.html"
+    }
+   ]
+  },
+  {
+   "id": 5805,
+   "sort": 2,
+   "name": "ラブレター",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "伊里野的天空 UFO之夏02",
+     "url": "http://www.letv.com/ptv/vplay/1431695.html"
+    }
+   ]
+  },
+  {
+   "id": 5806,
+   "sort": 3,
+   "name": "十八時四十七分三十二秒",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "伊里野的天空 UFO之夏03",
+     "url": "http://www.letv.com/ptv/vplay/1433528.html"
+    }
+   ]
+  },
+  {
+   "id": 5807,
+   "sort": 4,
+   "name": "水前寺、応答せよ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "伊里野的天空 UFO之夏04",
+     "url": "http://www.letv.com/ptv/vplay/1433537.html"
+    }
+   ]
+  },
+  {
+   "id": 5808,
+   "sort": 5,
+   "name": "最後の道",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "伊里野的天空 UFO之夏05",
+     "url": "http://www.letv.com/ptv/vplay/1433557.html"
+    }
+   ]
+  },
+  {
+   "id": 5809,
+   "sort": 6,
+   "name": "イリヤの空、UFOの夏",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "伊里野的天空 UFO之夏06",
+     "url": "http://www.letv.com/ptv/vplay/1433577.html"
+    }
+   ]
+  }
+ ]
+}

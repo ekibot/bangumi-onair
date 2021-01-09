@@ -1,1 +1,195 @@
-{"id":"234305","name":"鬼灯の冷徹 第弐期その弐","sites":[{"site":"bilibili","id":"79292","sort":13}],"eps":[{"id":787635,"sort":14,"name":"閻魔庁の日々／一汁三菜十肉","sites":[{"site":"bilibili","sort":14,"title":"阎魔厅的日常 / 一汤三菜十肉","url":"https://www.bilibili.com/bangumi/play/ep200358","time":"2018-04-07T17:30:00.000Z"}]},{"id":787636,"sort":15,"name":"魔女っ娘とはなんぞや／洋装道楽","sites":[{"site":"bilibili","sort":15,"title":"何为小魔女 / 洋装之趣","url":"https://www.bilibili.com/bangumi/play/ep200359","time":"2018-04-14T17:30:00.000Z"}]},{"id":787637,"sort":16,"name":"お迎え課の荼吉尼／草葉の陰","sites":[{"site":"bilibili","sort":16,"title":"迎接科的荼吉尼 / 草叶的背后","url":"https://www.bilibili.com/bangumi/play/ep200360","time":"2018-04-21T17:30:00.000Z"}]},{"id":787638,"sort":17,"name":"妖怪に学んだ男と妖怪を使う女","sites":[{"site":"bilibili","sort":17,"title":"师从妖怪的男人与操纵妖怪的女人","url":"https://www.bilibili.com/bangumi/play/ep200361","time":"2018-04-28T17:30:00.000Z"}]},{"id":787639,"sort":18,"name":"天邪鬼／帰れ鶴","sites":[{"site":"bilibili","sort":18,"title":"天邪鬼 / 滚吧 仙鹤","url":"https://www.bilibili.com/bangumi/play/ep200362","time":"2018-05-05T17:30:00.000Z"}]},{"id":787640,"sort":19,"name":"瓢箪鯰／檎働く","sites":[{"site":"bilibili","sort":19,"title":"秃瓢鲶鱼 / 阿檎开工","url":"https://www.bilibili.com/bangumi/play/ep200363","time":"2018-05-12T17:30:00.000Z"}]},{"id":787641,"sort":20,"name":"ゲーム／絡繰補佐官","sites":[{"site":"bilibili","sort":20,"title":"游戏 / 人偶辅佐官","url":"https://www.bilibili.com/bangumi/play/ep200364","time":"2018-05-19T17:30:00.000Z"}]},{"id":787642,"sort":21,"name":"芥子という兎／範疇","sites":[{"site":"bilibili","sort":21,"title":"芥子这只兔 / 范畴","url":"https://www.bilibili.com/bangumi/play/ep200365","time":"2018-05-26T17:30:00.000Z"}]},{"id":787643,"sort":22,"name":"野干兄妹／シロの尻が大ピンチ","sites":[{"site":"bilibili","sort":22,"title":"野干兄妹 / 小白的菊花危机","url":"https://www.bilibili.com/bangumi/play/ep200366","time":"2018-06-02T17:30:00.000Z"}]},{"id":787644,"sort":23,"name":"こんぽんてきに／異種格闘技戦","sites":[{"site":"bilibili","sort":23,"title":"根本问题 / 异种格斗技能大战","url":"https://www.bilibili.com/bangumi/play/ep200367","time":"2018-06-09T17:30:00.000Z"}]},{"id":787645,"sort":24,"name":"奪衣婆と懸衣翁／お料理ミキちゃん","sites":[{"site":"bilibili","sort":24,"title":"夺衣婆和悬衣翁 / 美纪下厨","url":"https://www.bilibili.com/bangumi/play/ep200368","time":"2018-06-16T17:30:00.000Z"}]},{"id":787646,"sort":25,"name":"瘟鬼／動物は恩を忘れない","sites":[{"site":"bilibili","sort":25,"title":"瘟鬼 / 动物绝不会忘恩负义","url":"https://www.bilibili.com/bangumi/play/ep200369","time":"2018-06-23T17:30:00.000Z"}]},{"id":787647,"sort":26,"name":"ポーカーなら無敵／逝き先はじゅごくの方で宜しかったでしょうか？","sites":[{"site":"bilibili","sort":26,"title":"扑克无敌 / 前方乃地狱 君愿前往？","url":"https://www.bilibili.com/bangumi/play/ep200370","time":"2018-06-30T17:30:00.000Z"}]}]}
+{
+ "id": "234305",
+ "name": "鬼灯の冷徹 第弐期その弐",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "79292",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 787635,
+   "sort": 14,
+   "name": "閻魔庁の日々／一汁三菜十肉",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "阎魔厅的日常 / 一汤三菜十肉",
+     "url": "https://www.bilibili.com/bangumi/play/ep200358",
+     "time": "2018-04-07T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787636,
+   "sort": 15,
+   "name": "魔女っ娘とはなんぞや／洋装道楽",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "何为小魔女 / 洋装之趣",
+     "url": "https://www.bilibili.com/bangumi/play/ep200359",
+     "time": "2018-04-14T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787637,
+   "sort": 16,
+   "name": "お迎え課の荼吉尼／草葉の陰",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "迎接科的荼吉尼 / 草叶的背后",
+     "url": "https://www.bilibili.com/bangumi/play/ep200360",
+     "time": "2018-04-21T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787638,
+   "sort": 17,
+   "name": "妖怪に学んだ男と妖怪を使う女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "师从妖怪的男人与操纵妖怪的女人",
+     "url": "https://www.bilibili.com/bangumi/play/ep200361",
+     "time": "2018-04-28T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787639,
+   "sort": 18,
+   "name": "天邪鬼／帰れ鶴",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "天邪鬼 / 滚吧 仙鹤",
+     "url": "https://www.bilibili.com/bangumi/play/ep200362",
+     "time": "2018-05-05T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787640,
+   "sort": 19,
+   "name": "瓢箪鯰／檎働く",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "秃瓢鲶鱼 / 阿檎开工",
+     "url": "https://www.bilibili.com/bangumi/play/ep200363",
+     "time": "2018-05-12T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787641,
+   "sort": 20,
+   "name": "ゲーム／絡繰補佐官",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "游戏 / 人偶辅佐官",
+     "url": "https://www.bilibili.com/bangumi/play/ep200364",
+     "time": "2018-05-19T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787642,
+   "sort": 21,
+   "name": "芥子という兎／範疇",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "芥子这只兔 / 范畴",
+     "url": "https://www.bilibili.com/bangumi/play/ep200365",
+     "time": "2018-05-26T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787643,
+   "sort": 22,
+   "name": "野干兄妹／シロの尻が大ピンチ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "野干兄妹 / 小白的菊花危机",
+     "url": "https://www.bilibili.com/bangumi/play/ep200366",
+     "time": "2018-06-02T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787644,
+   "sort": 23,
+   "name": "こんぽんてきに／異種格闘技戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "根本问题 / 异种格斗技能大战",
+     "url": "https://www.bilibili.com/bangumi/play/ep200367",
+     "time": "2018-06-09T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787645,
+   "sort": 24,
+   "name": "奪衣婆と懸衣翁／お料理ミキちゃん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "夺衣婆和悬衣翁 / 美纪下厨",
+     "url": "https://www.bilibili.com/bangumi/play/ep200368",
+     "time": "2018-06-16T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787646,
+   "sort": 25,
+   "name": "瘟鬼／動物は恩を忘れない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 25,
+     "title": "瘟鬼 / 动物绝不会忘恩负义",
+     "url": "https://www.bilibili.com/bangumi/play/ep200369",
+     "time": "2018-06-23T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787647,
+   "sort": 26,
+   "name": "ポーカーなら無敵／逝き先はじゅごくの方で宜しかったでしょうか？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 26,
+     "title": "扑克无敌 / 前方乃地狱 君愿前往？",
+     "url": "https://www.bilibili.com/bangumi/play/ep200370",
+     "time": "2018-06-30T17:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

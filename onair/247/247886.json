@@ -1,1 +1,181 @@
-{"id":"247886","name":"消滅都市","sites":[{"site":"bilibili","id":"24072002","sort":13}],"eps":[{"id":874280,"sort":1,"name":"消滅","sites":[{"site":"bilibili","sort":1,"title":"消灭","url":"https://www.bilibili.com/bangumi/play/ep268125","time":"2019-04-07T15:30:00.000Z"}]},{"id":874281,"sort":2,"name":"犠牲","sites":[{"site":"bilibili","sort":2,"title":"牺牲","url":"https://www.bilibili.com/bangumi/play/ep268126","time":"2019-04-14T15:30:00.000Z"}]},{"id":874282,"sort":3,"name":"記憶","sites":[{"site":"bilibili","sort":3,"title":"记忆","url":"https://www.bilibili.com/bangumi/play/ep268127","time":"2019-04-21T15:30:00.000Z"}]},{"id":874283,"sort":4,"name":"疑惑","sites":[{"site":"bilibili","sort":4,"title":"疑惑","url":"https://www.bilibili.com/bangumi/play/ep268128","time":"2019-04-28T15:30:00.000Z"}]},{"id":874284,"sort":5,"name":"情愛","sites":[{"site":"bilibili","sort":5,"title":"爱情","url":"https://www.bilibili.com/bangumi/play/ep268129","time":"2019-05-05T15:30:00.000Z"}]},{"id":874285,"sort":6,"name":"訣別","sites":[{"site":"bilibili","sort":6,"title":"诀别","url":"https://www.bilibili.com/bangumi/play/ep268130","time":"2019-05-12T15:30:00.000Z"}]},{"id":874286,"sort":7,"name":"後悔","sites":[{"site":"bilibili","sort":7,"title":"后悔","url":"https://www.bilibili.com/bangumi/play/ep268131","time":"2019-05-19T15:30:00.000Z"}]},{"id":874287,"sort":8,"name":"選択","sites":[{"site":"bilibili","sort":8,"title":"选择","url":"https://www.bilibili.com/bangumi/play/ep268132","time":"2019-05-26T15:30:00.000Z"}]},{"id":874288,"sort":9,"name":"運命","sites":[{"site":"bilibili","sort":9,"title":"命运","url":"https://www.bilibili.com/bangumi/play/ep268133","time":"2019-06-02T15:30:00.000Z"}]},{"id":874289,"sort":10,"name":"決断","sites":[{"site":"bilibili","sort":10,"title":"决断","url":"https://www.bilibili.com/bangumi/play/ep268134","time":"2019-06-09T15:30:00.000Z"}]},{"id":874290,"sort":11,"name":"信頼","sites":[{"site":"bilibili","sort":11,"title":"信赖","url":"https://www.bilibili.com/bangumi/play/ep268135","time":"2019-06-16T15:30:00.000Z"}]},{"id":874291,"sort":12,"name":"未来","sites":[{"site":"bilibili","sort":12,"title":"未来","url":"https://www.bilibili.com/bangumi/play/ep268136","time":"2019-06-23T15:30:00.000Z"}]}]}
+{
+ "id": "247886",
+ "name": "消滅都市",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "24072002",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 874280,
+   "sort": 1,
+   "name": "消滅",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "消灭",
+     "url": "https://www.bilibili.com/bangumi/play/ep268125",
+     "time": "2019-04-07T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874281,
+   "sort": 2,
+   "name": "犠牲",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "牺牲",
+     "url": "https://www.bilibili.com/bangumi/play/ep268126",
+     "time": "2019-04-14T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874282,
+   "sort": 3,
+   "name": "記憶",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "记忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep268127",
+     "time": "2019-04-21T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874283,
+   "sort": 4,
+   "name": "疑惑",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "疑惑",
+     "url": "https://www.bilibili.com/bangumi/play/ep268128",
+     "time": "2019-04-28T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874284,
+   "sort": 5,
+   "name": "情愛",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "爱情",
+     "url": "https://www.bilibili.com/bangumi/play/ep268129",
+     "time": "2019-05-05T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874285,
+   "sort": 6,
+   "name": "訣別",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "诀别",
+     "url": "https://www.bilibili.com/bangumi/play/ep268130",
+     "time": "2019-05-12T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874286,
+   "sort": 7,
+   "name": "後悔",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "后悔",
+     "url": "https://www.bilibili.com/bangumi/play/ep268131",
+     "time": "2019-05-19T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874287,
+   "sort": 8,
+   "name": "選択",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "选择",
+     "url": "https://www.bilibili.com/bangumi/play/ep268132",
+     "time": "2019-05-26T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874288,
+   "sort": 9,
+   "name": "運命",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "命运",
+     "url": "https://www.bilibili.com/bangumi/play/ep268133",
+     "time": "2019-06-02T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874289,
+   "sort": 10,
+   "name": "決断",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "决断",
+     "url": "https://www.bilibili.com/bangumi/play/ep268134",
+     "time": "2019-06-09T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874290,
+   "sort": 11,
+   "name": "信頼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "信赖",
+     "url": "https://www.bilibili.com/bangumi/play/ep268135",
+     "time": "2019-06-16T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874291,
+   "sort": 12,
+   "name": "未来",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "未来",
+     "url": "https://www.bilibili.com/bangumi/play/ep268136",
+     "time": "2019-06-23T15:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

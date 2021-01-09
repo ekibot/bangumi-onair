@@ -1,1 +1,41 @@
-{"id":"79676","name":"絶滅危愚少女 Amazing Twins","sites":[{"site":"bilibili","id":"214","sort":2},{"site":"youku","id":"4959c6c203e611e3a705","sort":2}],"eps":[{"id":341964,"sort":1,"name":"わたしたちのショウへようこそ！","sites":[{"site":"bilibili","sort":1,"title":"欢迎来到我们的魔术秀！","url":"https://www.bilibili.com/bangumi/play/ep4678","time":"2013-12-29T20:36:15.000Z"}]},{"id":341965,"sort":2,"name":"わたしたちの夢へようこそ!","sites":[{"site":"bilibili","sort":2,"title":"欢迎来到我们的梦！","url":"https://www.bilibili.com/bangumi/play/ep4677","time":"2014-05-06T21:56:43.000Z"}]}]}
+{
+ "id": "79676",
+ "name": "絶滅危愚少女 Amazing Twins",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "214",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 341964,
+   "sort": 1,
+   "name": "わたしたちのショウへようこそ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "欢迎来到我们的魔术秀！",
+     "url": "https://www.bilibili.com/bangumi/play/ep4678",
+     "time": "2013-12-29T20:36:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 341965,
+   "sort": 2,
+   "name": "わたしたちの夢へようこそ!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "欢迎来到我们的梦！",
+     "url": "https://www.bilibili.com/bangumi/play/ep4677",
+     "time": "2014-05-06T21:56:43.000Z"
+    }
+   ]
+  }
+ ]
+}

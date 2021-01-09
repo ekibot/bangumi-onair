@@ -1,1 +1,181 @@
-{"id":"48037","name":"うーさーのその日暮らし","sites":[{"site":"bilibili","id":"235","sort":12}],"eps":[{"id":198989,"sort":1,"name":"肉とパンダとうーさーと","sites":[{"site":"bilibili","sort":1,"title":"肉和熊猫和兔宝","url":"https://www.bilibili.com/bangumi/play/ep4987","time":"2012-10-03T01:56:13.000Z"}]},{"id":198990,"sort":2,"name":"酒とロックとうーさーと","sites":[{"site":"bilibili","sort":2,"title":"酒和摇滚和兔宝","url":"https://www.bilibili.com/bangumi/play/ep4986","time":"2012-10-10T04:46:34.000Z"}]},{"id":198991,"sort":3,"name":"富と権威とうーさーと","sites":[{"site":"bilibili","sort":3,"title":"财富和权威和兔宝","url":"https://www.bilibili.com/bangumi/play/ep4985","time":"2012-10-17T04:06:49.000Z"}]},{"id":198992,"sort":4,"name":"萌とチェケラとうーさーと","sites":[{"site":"bilibili","sort":4,"title":"萌和快看和兔宝","url":"https://www.bilibili.com/bangumi/play/ep4984","time":"2012-10-24T06:04:28.000Z"}]},{"id":198994,"sort":6,"name":"海と水着とうーさーと","sites":[{"site":"bilibili","sort":6,"title":"大海和泳装和兔宝","url":"https://www.bilibili.com/bangumi/play/ep4983","time":"2012-11-07T02:42:04.000Z"}]},{"id":198993,"sort":5,"name":"熊とグルメとうーさーと","sites":[{"site":"bilibili","sort":5,"title":"熊和美食家和兔宝","url":"https://www.bilibili.com/bangumi/play/ep4982","time":"2012-10-31T14:01:41.000Z"}]},{"id":198995,"sort":7,"name":"森とお風呂とうーさーと","sites":[{"site":"bilibili","sort":7,"title":"森林和入浴和兔宝","url":"https://www.bilibili.com/bangumi/play/ep4981","time":"2012-11-14T05:51:27.000Z"}]},{"id":198996,"sort":8,"name":"暇とマシンとうーさーと","sites":[{"site":"bilibili","sort":8,"title":"闲着和机器和兔宝","url":"https://www.bilibili.com/bangumi/play/ep4980","time":"2012-11-22T18:17:10.000Z"}]},{"id":198997,"sort":9,"name":"虫と仮面とうーさーと","sites":[{"site":"bilibili","sort":9,"title":"虫子和假面和兔宝","url":"https://www.bilibili.com/bangumi/play/ep4979","time":"2012-11-29T05:47:55.000Z"}]},{"id":198998,"sort":10,"name":"金と魔法とうーさーと","sites":[{"site":"bilibili","sort":10,"title":"钱和魔法和兔宝","url":"https://www.bilibili.com/bangumi/play/ep4978","time":"2012-12-05T17:28:56.000Z"}]},{"id":198999,"sort":11,"name":"霊とオペラとうーさーと","sites":[{"site":"bilibili","sort":11,"title":"灵魂和歌剧和兔宝","url":"https://www.bilibili.com/bangumi/play/ep4977","time":"2012-12-12T14:59:20.000Z"}]},{"id":199000,"sort":12,"name":"愛と別れとうーさーと","sites":[{"site":"bilibili","sort":12,"title":"爱和告别和兔宝","url":"https://www.bilibili.com/bangumi/play/ep4976","time":"2012-12-20T11:32:20.000Z"}]}]}
+{
+ "id": "48037",
+ "name": "うーさーのその日暮らし",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "235",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 198989,
+   "sort": 1,
+   "name": "肉とパンダとうーさーと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "肉和熊猫和兔宝",
+     "url": "https://www.bilibili.com/bangumi/play/ep4987",
+     "time": "2012-10-03T01:56:13.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198990,
+   "sort": 2,
+   "name": "酒とロックとうーさーと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "酒和摇滚和兔宝",
+     "url": "https://www.bilibili.com/bangumi/play/ep4986",
+     "time": "2012-10-10T04:46:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198991,
+   "sort": 3,
+   "name": "富と権威とうーさーと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "财富和权威和兔宝",
+     "url": "https://www.bilibili.com/bangumi/play/ep4985",
+     "time": "2012-10-17T04:06:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198992,
+   "sort": 4,
+   "name": "萌とチェケラとうーさーと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "萌和快看和兔宝",
+     "url": "https://www.bilibili.com/bangumi/play/ep4984",
+     "time": "2012-10-24T06:04:28.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198994,
+   "sort": 6,
+   "name": "海と水着とうーさーと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "大海和泳装和兔宝",
+     "url": "https://www.bilibili.com/bangumi/play/ep4983",
+     "time": "2012-11-07T02:42:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198993,
+   "sort": 5,
+   "name": "熊とグルメとうーさーと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "熊和美食家和兔宝",
+     "url": "https://www.bilibili.com/bangumi/play/ep4982",
+     "time": "2012-10-31T14:01:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198995,
+   "sort": 7,
+   "name": "森とお風呂とうーさーと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "森林和入浴和兔宝",
+     "url": "https://www.bilibili.com/bangumi/play/ep4981",
+     "time": "2012-11-14T05:51:27.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198996,
+   "sort": 8,
+   "name": "暇とマシンとうーさーと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "闲着和机器和兔宝",
+     "url": "https://www.bilibili.com/bangumi/play/ep4980",
+     "time": "2012-11-22T18:17:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198997,
+   "sort": 9,
+   "name": "虫と仮面とうーさーと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "虫子和假面和兔宝",
+     "url": "https://www.bilibili.com/bangumi/play/ep4979",
+     "time": "2012-11-29T05:47:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198998,
+   "sort": 10,
+   "name": "金と魔法とうーさーと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "钱和魔法和兔宝",
+     "url": "https://www.bilibili.com/bangumi/play/ep4978",
+     "time": "2012-12-05T17:28:56.000Z"
+    }
+   ]
+  },
+  {
+   "id": 198999,
+   "sort": 11,
+   "name": "霊とオペラとうーさーと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "灵魂和歌剧和兔宝",
+     "url": "https://www.bilibili.com/bangumi/play/ep4977",
+     "time": "2012-12-12T14:59:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 199000,
+   "sort": 12,
+   "name": "愛と別れとうーさーと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "爱和告别和兔宝",
+     "url": "https://www.bilibili.com/bangumi/play/ep4976",
+     "time": "2012-12-20T11:32:20.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,167 @@
-{"id":"4016","name":"墓場鬼太郎","sites":[{"site":"iqiyi","id":"a_19rrhb14ah","sort":11}],"eps":[{"id":28918,"sort":1,"name":"鬼太郎誕生","sites":[{"site":"iqiyi","sort":1,"title":"妖怪居住之城","url":"http://www.iqiyi.com/v_19rro8vebg.html","time":"2015-08-14T16:26:41.000Z"}]},{"id":28929,"sort":2,"name":"夜叉対ドラキュラ四世","sites":[{"site":"iqiyi","sort":2,"title":"比比比 鼠男","url":"http://www.iqiyi.com/v_19rro8vgj0.html","time":"2015-08-14T16:21:53.000Z"}]},{"id":28920,"sort":3,"name":"吸血木","sites":[{"site":"iqiyi","sort":3,"title":"诡异的旋律 夜叉","url":"http://www.iqiyi.com/v_19rro8vfto.html","time":"2015-08-14T16:20:40.000Z"}]},{"id":28921,"sort":4,"name":"寝子","sites":[{"site":"iqiyi","sort":4,"title":"男人！一反木棉！","url":"http://www.iqiyi.com/v_19rro8v5g8.html","time":"2015-08-14T16:27:51.000Z"}]},{"id":28922,"sort":5,"name":"ニセ鬼太郎","sites":[{"site":"iqiyi","sort":5,"title":"被诅咒的电影","url":"http://www.iqiyi.com/v_19rro8v5bc.html","time":"2015-08-14T16:29:20.000Z"}]},{"id":28923,"sort":6,"name":"水神様","sites":[{"site":"iqiyi","sort":6,"title":"大恐慌！妖怪小巷","url":"http://www.iqiyi.com/v_19rro8v4yc.html","time":"2015-08-14T16:25:54.000Z"}]},{"id":28924,"sort":7,"name":"人狼と幽霊列車","sites":[{"site":"iqiyi","sort":7,"title":"燃烧吧！眼球老爹","url":"http://www.iqiyi.com/v_19rro8v7gc.html","time":"2015-08-14T16:34:14.000Z"}]},{"id":28925,"sort":8,"name":"怪奇一番勝負","sites":[{"site":"iqiyi","sort":8,"title":"宿敌！滑瓢","url":"http://www.iqiyi.com/v_19rro8v6ys.html","time":"2015-08-14T16:26:26.000Z"}]},{"id":28926,"sort":9,"name":"霧の中のジョニー","sites":[{"site":"iqiyi","sort":9,"title":"幽灵电车 驶向黄泉","url":"http://www.iqiyi.com/v_19rro8v6p8.html","time":"2015-08-14T16:22:47.000Z"}]},{"id":28927,"sort":10,"name":"ブリガドーン","sites":[{"site":"iqiyi","sort":10,"title":"狂暴之神 雷兽","url":"http://www.iqiyi.com/v_19rro8v630.html","time":"2015-08-14T16:26:20.000Z"}]},{"id":28928,"sort":11,"name":"アホな男","sites":[{"site":"iqiyi","sort":11,"title":"妖怪相声","url":"http://www.iqiyi.com/v_19rro8v8rg.html","time":"2015-08-14T16:26:54.000Z"}]}]}
+{
+ "id": "4016",
+ "name": "墓場鬼太郎",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhb14ah",
+   "sort": 11
+  }
+ ],
+ "eps": [
+  {
+   "id": 28918,
+   "sort": 1,
+   "name": "鬼太郎誕生",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "妖怪居住之城",
+     "url": "http://www.iqiyi.com/v_19rro8vebg.html",
+     "time": "2015-08-14T16:26:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28929,
+   "sort": 2,
+   "name": "夜叉対ドラキュラ四世",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "比比比 鼠男",
+     "url": "http://www.iqiyi.com/v_19rro8vgj0.html",
+     "time": "2015-08-14T16:21:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28920,
+   "sort": 3,
+   "name": "吸血木",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "诡异的旋律 夜叉",
+     "url": "http://www.iqiyi.com/v_19rro8vfto.html",
+     "time": "2015-08-14T16:20:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28921,
+   "sort": 4,
+   "name": "寝子",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "男人！一反木棉！",
+     "url": "http://www.iqiyi.com/v_19rro8v5g8.html",
+     "time": "2015-08-14T16:27:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28922,
+   "sort": 5,
+   "name": "ニセ鬼太郎",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "被诅咒的电影",
+     "url": "http://www.iqiyi.com/v_19rro8v5bc.html",
+     "time": "2015-08-14T16:29:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28923,
+   "sort": 6,
+   "name": "水神様",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "大恐慌！妖怪小巷",
+     "url": "http://www.iqiyi.com/v_19rro8v4yc.html",
+     "time": "2015-08-14T16:25:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28924,
+   "sort": 7,
+   "name": "人狼と幽霊列車",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "燃烧吧！眼球老爹",
+     "url": "http://www.iqiyi.com/v_19rro8v7gc.html",
+     "time": "2015-08-14T16:34:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28925,
+   "sort": 8,
+   "name": "怪奇一番勝負",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "宿敌！滑瓢",
+     "url": "http://www.iqiyi.com/v_19rro8v6ys.html",
+     "time": "2015-08-14T16:26:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28926,
+   "sort": 9,
+   "name": "霧の中のジョニー",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "幽灵电车 驶向黄泉",
+     "url": "http://www.iqiyi.com/v_19rro8v6p8.html",
+     "time": "2015-08-14T16:22:47.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28927,
+   "sort": 10,
+   "name": "ブリガドーン",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "狂暴之神 雷兽",
+     "url": "http://www.iqiyi.com/v_19rro8v630.html",
+     "time": "2015-08-14T16:26:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28928,
+   "sort": 11,
+   "name": "アホな男",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "妖怪相声",
+     "url": "http://www.iqiyi.com/v_19rro8v8rg.html",
+     "time": "2015-08-14T16:26:54.000Z"
+    }
+   ]
+  }
+ ]
+}

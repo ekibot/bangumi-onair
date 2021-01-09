@@ -1,1 +1,181 @@
-{"id":"67373","name":"大図書館の羊飼い","sites":[{"site":"bilibili","id":"323","sort":12},{"site":"qq","id":"w/w9galx5d4dm0udo","sort":9}],"eps":[{"id":410430,"sort":1,"name":"図書部結成","sites":[{"site":"bilibili","sort":1,"title":"图书部成立","url":"https://www.bilibili.com/bangumi/play/ep6085","time":"2018-10-23T14:00:00.000Z"}]},{"id":410431,"sort":2,"name":"落しもの届けもの","sites":[{"site":"bilibili","sort":2,"title":"遗失之物、得到之物","url":"https://www.bilibili.com/bangumi/play/ep6084","time":"2018-10-23T14:02:00.000Z"},{"site":"qq","sort":2,"title":"大图书馆的牧羊人_02","url":"https://v.qq.com/x/cover/w9galx5d4dm0udo/w001586aamb.html"}]},{"id":410432,"sort":3,"name":"ひとりぼっちの歌姫","sites":[{"site":"bilibili","sort":3,"title":"孤单的歌姬","url":"https://www.bilibili.com/bangumi/play/ep6083","time":"2014-10-22T15:58:00.000Z"},{"site":"qq","sort":3,"title":"大图书馆的牧羊人_03","url":"https://v.qq.com/x/cover/w9galx5d4dm0udo/f001522keo8.html"}]},{"id":410433,"sort":4,"name":"新生図書部","sites":[{"site":"bilibili","sort":4,"title":"新生图书部","url":"https://www.bilibili.com/bangumi/play/ep6082","time":"2014-10-29T14:10:00.000Z"}]},{"id":410434,"sort":5,"name":"メールの真実","sites":[{"site":"bilibili","sort":5,"title":"邮件的真相","url":"https://www.bilibili.com/bangumi/play/ep9851","time":"2014-11-05T15:27:00.000Z"},{"site":"qq","sort":5,"title":"大图书馆的牧羊人_05","url":"https://v.qq.com/x/cover/w9galx5d4dm0udo/f0015ippgl3.html"}]},{"id":410435,"sort":6,"name":"魔法の図書館","sites":[{"site":"bilibili","sort":6,"title":"魔法的图书馆","url":"https://www.bilibili.com/bangumi/play/ep14995","time":"2014-11-12T16:30:00.000Z"},{"site":"qq","sort":6,"title":"大图书馆的牧羊人_06","url":"https://v.qq.com/x/cover/w9galx5d4dm0udo/i0015gma3b1.html"}]},{"id":410436,"sort":7,"name":"図書部の休日","sites":[{"site":"bilibili","sort":7,"title":"图书部的假日","url":"https://www.bilibili.com/bangumi/play/ep19787","time":"2014-11-19T16:30:00.000Z"},{"site":"qq","sort":7,"title":"大图书馆的牧羊人_07","url":"https://v.qq.com/x/cover/w9galx5d4dm0udo/k00153gd0vu.html"}]},{"id":410437,"sort":8,"name":"魔法の本","sites":[{"site":"bilibili","sort":8,"title":"魔法之书","url":"https://www.bilibili.com/bangumi/play/ep21359","time":"2014-11-26T16:30:00.000Z"},{"site":"qq","sort":8,"title":"大图书馆的牧羊人_08","url":"https://v.qq.com/x/cover/w9galx5d4dm0udo/x0015n6iscb.html"}]},{"id":410438,"sort":9,"name":"歌姫の選択","sites":[{"site":"bilibili","sort":9,"title":"歌姬的选择","url":"https://www.bilibili.com/bangumi/play/ep23130","time":"2014-12-03T16:30:00.000Z"},{"site":"qq","sort":9,"title":"大图书馆的牧羊人_09","url":"https://v.qq.com/x/cover/w9galx5d4dm0udo/e00154jz3th.html"}]},{"id":410439,"sort":10,"name":"告白","sites":[{"site":"bilibili","sort":10,"title":"告白","url":"https://www.bilibili.com/bangumi/play/ep25534","time":"2014-12-10T16:30:40.000Z"}]},{"id":410440,"sort":11,"name":"決意","sites":[{"site":"bilibili","sort":11,"title":"决意","url":"https://www.bilibili.com/bangumi/play/ep27839","time":"2014-12-17T16:30:03.000Z"},{"site":"qq","sort":11,"title":"大图书馆的牧羊人_11","url":"https://v.qq.com/x/cover/w9galx5d4dm0udo/o001504q8px.html"}]},{"id":410441,"sort":12,"name":"大図書館の羊飼い","sites":[{"site":"bilibili","sort":12,"title":"大图书馆的牧羊人","url":"https://www.bilibili.com/bangumi/play/ep27890","time":"2014-12-24T16:30:46.000Z"},{"site":"qq","sort":12,"title":"大图书馆的牧羊人_12","url":"https://v.qq.com/x/cover/w9galx5d4dm0udo/p0015kh7bq0.html"}]}]}
+{
+ "id": "67373",
+ "name": "大図書館の羊飼い",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "323",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 410430,
+   "sort": 1,
+   "name": "図書部結成",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "图书部成立",
+     "url": "https://www.bilibili.com/bangumi/play/ep6085",
+     "time": "2018-10-23T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410431,
+   "sort": 2,
+   "name": "落しもの届けもの",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "遗失之物、得到之物",
+     "url": "https://www.bilibili.com/bangumi/play/ep6084",
+     "time": "2018-10-23T14:02:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410432,
+   "sort": 3,
+   "name": "ひとりぼっちの歌姫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "孤单的歌姬",
+     "url": "https://www.bilibili.com/bangumi/play/ep6083",
+     "time": "2014-10-22T15:58:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410433,
+   "sort": 4,
+   "name": "新生図書部",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "新生图书部",
+     "url": "https://www.bilibili.com/bangumi/play/ep6082",
+     "time": "2014-10-29T14:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410434,
+   "sort": 5,
+   "name": "メールの真実",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "邮件的真相",
+     "url": "https://www.bilibili.com/bangumi/play/ep9851",
+     "time": "2014-11-05T15:27:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410435,
+   "sort": 6,
+   "name": "魔法の図書館",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "魔法的图书馆",
+     "url": "https://www.bilibili.com/bangumi/play/ep14995",
+     "time": "2014-11-12T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410436,
+   "sort": 7,
+   "name": "図書部の休日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "图书部的假日",
+     "url": "https://www.bilibili.com/bangumi/play/ep19787",
+     "time": "2014-11-19T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410437,
+   "sort": 8,
+   "name": "魔法の本",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "魔法之书",
+     "url": "https://www.bilibili.com/bangumi/play/ep21359",
+     "time": "2014-11-26T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410438,
+   "sort": 9,
+   "name": "歌姫の選択",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "歌姬的选择",
+     "url": "https://www.bilibili.com/bangumi/play/ep23130",
+     "time": "2014-12-03T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410439,
+   "sort": 10,
+   "name": "告白",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "告白",
+     "url": "https://www.bilibili.com/bangumi/play/ep25534",
+     "time": "2014-12-10T16:30:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410440,
+   "sort": 11,
+   "name": "決意",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "决意",
+     "url": "https://www.bilibili.com/bangumi/play/ep27839",
+     "time": "2014-12-17T16:30:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410441,
+   "sort": 12,
+   "name": "大図書館の羊飼い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "大图书馆的牧羊人",
+     "url": "https://www.bilibili.com/bangumi/play/ep27890",
+     "time": "2014-12-24T16:30:46.000Z"
+    }
+   ]
+  }
+ ]
+}

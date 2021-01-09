@@ -1,1 +1,27 @@
-{"id":"3024","name":"劇場版ポケットモンスター 結晶塔の帝王 ENTEI","sites":[{"site":"bilibili","id":"5350","sort":1}],"eps":[{"id":875522,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep93347","time":"2016-07-25T09:57:53.000Z"}]}]}
+{
+ "id": "3024",
+ "name": "劇場版ポケットモンスター 結晶塔の帝王 ENTEI",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5350",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 875522,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep93347",
+     "time": "2016-07-25T09:57:53.000Z"
+    }
+   ]
+  }
+ ]
+}

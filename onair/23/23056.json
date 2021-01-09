@@ -1,1 +1,279 @@
-{"id":"23056","name":"戦国☆パラダイス-極-","sites":[{"site":"bilibili","id":"892","sort":19}],"eps":[{"id":125816,"sort":1,"name":"必勝祈願","sites":[{"site":"bilibili","sort":1,"title":"【10月】战国☆天堂-极- 01【圣华x邀月】","url":"https://www.bilibili.com/bangumi/play/ep16176","time":"2011-10-14T13:20:10.000Z"}]},{"id":125817,"sort":2,"name":"健康診断","sites":[{"site":"bilibili","sort":2,"title":"【10月】战国☆天堂-极- 02【傲月】【绯梦】","url":"https://www.bilibili.com/bangumi/play/ep16175","time":"2011-10-15T15:42:19.000Z"}]},{"id":125818,"sort":3,"name":"晩秋茶会","sites":[{"site":"bilibili","sort":3,"title":"【10月】战国☆天堂-极- 03【傲月】","url":"https://www.bilibili.com/bangumi/play/ep16174","time":"2011-10-21T18:59:58.000Z"}]},{"id":125819,"sort":4,"name":"悪戯南瓜","sites":[{"site":"bilibili","sort":4,"title":"【10月】战国☆天堂-极- 04【傲月】","url":"https://www.bilibili.com/bangumi/play/ep16173","time":"2011-11-01T14:44:37.000Z"}]},{"id":125820,"sort":5,"name":"虹之架橋","sites":[{"site":"bilibili","sort":5,"title":"【10月】战国☆天堂-极- 05【傲月】","url":"https://www.bilibili.com/bangumi/play/ep16172","time":"2011-11-16T17:39:36.000Z"}]},{"id":125821,"sort":6,"name":"薔薇之如","sites":[{"site":"bilibili","sort":6,"title":"6","url":"https://www.bilibili.com/bangumi/play/ep32578","time":"2011-11-30T11:38:19.000Z"}]},{"id":125822,"sort":7,"name":"迷走遠足","sites":[{"site":"bilibili","sort":7,"title":"7","url":"https://www.bilibili.com/bangumi/play/ep32579","time":"2011-11-30T11:38:19.000Z"}]},{"id":125823,"sort":8,"name":"愛猫日和","sites":[{"site":"bilibili","sort":8,"title":"8","url":"https://www.bilibili.com/bangumi/play/ep32580","time":"2011-12-16T08:37:42.000Z"}]},{"id":125824,"sort":9,"name":"料理将軍","sites":[{"site":"bilibili","sort":9,"title":"9","url":"https://www.bilibili.com/bangumi/play/ep32581","time":"2011-12-16T08:37:42.000Z"}]},{"id":125825,"sort":10,"name":"聖夜秘話","sites":[{"site":"bilibili","sort":10,"title":"【10月】战国☆天堂-极- 10【傲月】","url":"https://www.bilibili.com/bangumi/play/ep16169","time":"2011-12-21T11:21:16.000Z"}]},{"id":125826,"sort":11,"name":"頂上決戦","sites":[{"site":"bilibili","sort":11,"title":"11","url":"https://www.bilibili.com/bangumi/play/ep32582","time":"2011-12-28T13:24:01.000Z"}]},{"id":139188,"sort":12,"name":"温泉自慢","sites":[{"site":"bilibili","sort":12,"title":"12","url":"https://www.bilibili.com/bangumi/play/ep32583","time":"2011-12-28T13:24:01.000Z"}]},{"id":156690,"sort":23,"name":"句紗美姫","sites":[{"site":"bilibili","sort":23,"title":"【生肉】战国☆天堂-极- 23","url":"https://www.bilibili.com/bangumi/play/ep16164","time":"2012-03-26T10:02:03.000Z"}]},{"id":139189,"sort":13,"name":"大忘年会","sites":[{"site":"bilibili","sort":13,"title":"13","url":"https://www.bilibili.com/bangumi/play/ep32584","time":"2011-12-28T13:24:01.000Z"}]},{"id":139190,"sort":14,"name":"歌留多遊","sites":[{"site":"bilibili","sort":14,"title":"【10月】战国☆天堂-极- 14【傲月】","url":"https://www.bilibili.com/bangumi/play/ep16167","time":"2012-01-05T11:07:53.000Z"}]},{"id":140210,"sort":15,"name":"天下御免","sites":[{"site":"bilibili","sort":15,"title":"【10月】战国☆天堂-极- 15【傲月】","url":"https://www.bilibili.com/bangumi/play/ep16166","time":"2012-01-11T14:08:31.000Z"}]},{"id":141501,"sort":16,"name":"再会竹馬","sites":[{"site":"bilibili","sort":16,"title":"16","url":"https://www.bilibili.com/bangumi/play/ep32585","time":"2012-02-08T09:17:29.000Z"}]},{"id":141502,"sort":17,"name":"三成之宝","sites":[{"site":"bilibili","sort":17,"title":"17","url":"https://www.bilibili.com/bangumi/play/ep32586","time":"2012-02-08T09:17:29.000Z"}]},{"id":156685,"sort":18,"name":"鬼外福内","sites":[{"site":"bilibili","sort":18,"title":"18","url":"https://www.bilibili.com/bangumi/play/ep32587","time":"2012-02-08T09:17:29.000Z"}]}]}
+{
+ "id": "23056",
+ "name": "戦国☆パラダイス-極-",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "892",
+   "sort": 19
+  }
+ ],
+ "eps": [
+  {
+   "id": 125816,
+   "sort": 1,
+   "name": "必勝祈願",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "【10月】战国☆天堂-极- 01【圣华x邀月】",
+     "url": "https://www.bilibili.com/bangumi/play/ep16176",
+     "time": "2011-10-14T13:20:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 125817,
+   "sort": 2,
+   "name": "健康診断",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "【10月】战国☆天堂-极- 02【傲月】【绯梦】",
+     "url": "https://www.bilibili.com/bangumi/play/ep16175",
+     "time": "2011-10-15T15:42:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 125818,
+   "sort": 3,
+   "name": "晩秋茶会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "【10月】战国☆天堂-极- 03【傲月】",
+     "url": "https://www.bilibili.com/bangumi/play/ep16174",
+     "time": "2011-10-21T18:59:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 125819,
+   "sort": 4,
+   "name": "悪戯南瓜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "【10月】战国☆天堂-极- 04【傲月】",
+     "url": "https://www.bilibili.com/bangumi/play/ep16173",
+     "time": "2011-11-01T14:44:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 125820,
+   "sort": 5,
+   "name": "虹之架橋",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "【10月】战国☆天堂-极- 05【傲月】",
+     "url": "https://www.bilibili.com/bangumi/play/ep16172",
+     "time": "2011-11-16T17:39:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 125821,
+   "sort": 6,
+   "name": "薔薇之如",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "6",
+     "url": "https://www.bilibili.com/bangumi/play/ep32578",
+     "time": "2011-11-30T11:38:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 125822,
+   "sort": 7,
+   "name": "迷走遠足",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "7",
+     "url": "https://www.bilibili.com/bangumi/play/ep32579",
+     "time": "2011-11-30T11:38:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 125823,
+   "sort": 8,
+   "name": "愛猫日和",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "8",
+     "url": "https://www.bilibili.com/bangumi/play/ep32580",
+     "time": "2011-12-16T08:37:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 125824,
+   "sort": 9,
+   "name": "料理将軍",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "9",
+     "url": "https://www.bilibili.com/bangumi/play/ep32581",
+     "time": "2011-12-16T08:37:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 125825,
+   "sort": 10,
+   "name": "聖夜秘話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "【10月】战国☆天堂-极- 10【傲月】",
+     "url": "https://www.bilibili.com/bangumi/play/ep16169",
+     "time": "2011-12-21T11:21:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 125826,
+   "sort": 11,
+   "name": "頂上決戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "11",
+     "url": "https://www.bilibili.com/bangumi/play/ep32582",
+     "time": "2011-12-28T13:24:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 139188,
+   "sort": 12,
+   "name": "温泉自慢",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "12",
+     "url": "https://www.bilibili.com/bangumi/play/ep32583",
+     "time": "2011-12-28T13:24:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 156690,
+   "sort": 23,
+   "name": "句紗美姫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "【生肉】战国☆天堂-极- 23",
+     "url": "https://www.bilibili.com/bangumi/play/ep16164",
+     "time": "2012-03-26T10:02:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 139189,
+   "sort": 13,
+   "name": "大忘年会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "13",
+     "url": "https://www.bilibili.com/bangumi/play/ep32584",
+     "time": "2011-12-28T13:24:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 139190,
+   "sort": 14,
+   "name": "歌留多遊",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "【10月】战国☆天堂-极- 14【傲月】",
+     "url": "https://www.bilibili.com/bangumi/play/ep16167",
+     "time": "2012-01-05T11:07:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 140210,
+   "sort": 15,
+   "name": "天下御免",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "【10月】战国☆天堂-极- 15【傲月】",
+     "url": "https://www.bilibili.com/bangumi/play/ep16166",
+     "time": "2012-01-11T14:08:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141501,
+   "sort": 16,
+   "name": "再会竹馬",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "16",
+     "url": "https://www.bilibili.com/bangumi/play/ep32585",
+     "time": "2012-02-08T09:17:29.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141502,
+   "sort": 17,
+   "name": "三成之宝",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "17",
+     "url": "https://www.bilibili.com/bangumi/play/ep32586",
+     "time": "2012-02-08T09:17:29.000Z"
+    }
+   ]
+  },
+  {
+   "id": 156685,
+   "sort": 18,
+   "name": "鬼外福内",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "18",
+     "url": "https://www.bilibili.com/bangumi/play/ep32587",
+     "time": "2012-02-08T09:17:29.000Z"
+    }
+   ]
+  }
+ ]
+}

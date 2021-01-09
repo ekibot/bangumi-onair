@@ -1,1 +1,153 @@
-{"id":"1950","name":"PIANO","sites":[{"site":"bilibili","id":"2058","sort":10}],"eps":[{"id":9750,"sort":1,"name":"感情を込めて〜con sentimento〜","sites":[{"site":"bilibili","sort":1,"title":"~with feeling~ ~con sentimento~","url":"https://www.bilibili.com/bangumi/play/ep44671","time":"2012-04-25T03:30:07.000Z"}]},{"id":9751,"sort":2,"name":"やわらかみを持って〜con tenerezza〜","sites":[{"site":"bilibili","sort":2,"title":"~with tenderness~ ~con tenerezza~","url":"https://www.bilibili.com/bangumi/play/ep44673","time":"2012-04-25T03:30:07.000Z"}]},{"id":9752,"sort":3,"name":"はつらつと勢いよく〜con spirito〜","sites":[{"site":"bilibili","sort":3,"title":"~with spirit and energy~ ~con spirito~","url":"https://www.bilibili.com/bangumi/play/ep44675","time":"2012-04-25T03:30:07.000Z"}]},{"id":9753,"sort":4,"name":"快活に〜con allegrezza〜","sites":[{"site":"bilibili","sort":4,"title":"~with activity~ ~con allegrezza~","url":"https://www.bilibili.com/bangumi/play/ep44677","time":"2012-04-25T03:30:07.000Z"}]},{"id":9754,"sort":5,"name":"心をゆらして〜con passione〜","sites":[{"site":"bilibili","sort":5,"title":"~with a wavering heart~ ~con passion","url":"https://www.bilibili.com/bangumi/play/ep44679","time":"2012-04-25T03:30:07.000Z"}]},{"id":9755,"sort":6,"name":"生き生きと〜con brio〜","sites":[{"site":"bilibili","sort":6,"title":"~with life~ ~con brio~","url":"https://www.bilibili.com/bangumi/play/ep44681","time":"2012-04-25T03:30:07.000Z"}]},{"id":9756,"sort":7,"name":"心を込めて大胆に〜con bravura〜","sites":[{"site":"bilibili","sort":7,"title":"~with heart, extravagantly~ ~con bravura~","url":"https://www.bilibili.com/bangumi/play/ep44683","time":"2012-04-25T03:30:07.000Z"}]},{"id":9757,"sort":8,"name":"哀しく沈むように〜con melancolia〜","sites":[{"site":"bilibili","sort":8,"title":"~with a chill, as though sinking~ ~con","url":"https://www.bilibili.com/bangumi/play/ep44685","time":"2012-04-25T03:30:07.000Z"}]},{"id":9758,"sort":9,"name":"愛しさを込めて〜con amore〜","sites":[{"site":"bilibili","sort":9,"title":"~with love~ ~con amore~","url":"https://www.bilibili.com/bangumi/play/ep44687","time":"2012-04-25T03:30:07.000Z"}]},{"id":9759,"sort":10,"name":"やさしさを持って〜con grazia〜","sites":[{"site":"bilibili","sort":10,"title":"~with compassion~ ~con grazia~","url":"https://www.bilibili.com/bangumi/play/ep44689","time":"2012-04-25T03:30:07.000Z"}]}]}
+{
+ "id": "1950",
+ "name": "PIANO",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2058",
+   "sort": 10
+  }
+ ],
+ "eps": [
+  {
+   "id": 9750,
+   "sort": 1,
+   "name": "感情を込めて〜con sentimento〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "~with feeling~ ~con sentimento~",
+     "url": "https://www.bilibili.com/bangumi/play/ep44671",
+     "time": "2012-04-25T03:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9751,
+   "sort": 2,
+   "name": "やわらかみを持って〜con tenerezza〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "~with tenderness~ ~con tenerezza~",
+     "url": "https://www.bilibili.com/bangumi/play/ep44673",
+     "time": "2012-04-25T03:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9752,
+   "sort": 3,
+   "name": "はつらつと勢いよく〜con spirito〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "~with spirit and energy~ ~con spirito~",
+     "url": "https://www.bilibili.com/bangumi/play/ep44675",
+     "time": "2012-04-25T03:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9753,
+   "sort": 4,
+   "name": "快活に〜con allegrezza〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "~with activity~ ~con allegrezza~",
+     "url": "https://www.bilibili.com/bangumi/play/ep44677",
+     "time": "2012-04-25T03:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9754,
+   "sort": 5,
+   "name": "心をゆらして〜con passione〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "~with a wavering heart~ ~con passion",
+     "url": "https://www.bilibili.com/bangumi/play/ep44679",
+     "time": "2012-04-25T03:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9755,
+   "sort": 6,
+   "name": "生き生きと〜con brio〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "~with life~ ~con brio~",
+     "url": "https://www.bilibili.com/bangumi/play/ep44681",
+     "time": "2012-04-25T03:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9756,
+   "sort": 7,
+   "name": "心を込めて大胆に〜con bravura〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "~with heart, extravagantly~ ~con bravura~",
+     "url": "https://www.bilibili.com/bangumi/play/ep44683",
+     "time": "2012-04-25T03:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9757,
+   "sort": 8,
+   "name": "哀しく沈むように〜con melancolia〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "~with a chill, as though sinking~ ~con",
+     "url": "https://www.bilibili.com/bangumi/play/ep44685",
+     "time": "2012-04-25T03:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9758,
+   "sort": 9,
+   "name": "愛しさを込めて〜con amore〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "~with love~ ~con amore~",
+     "url": "https://www.bilibili.com/bangumi/play/ep44687",
+     "time": "2012-04-25T03:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9759,
+   "sort": 10,
+   "name": "やさしさを持って〜con grazia〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "~with compassion~ ~con grazia~",
+     "url": "https://www.bilibili.com/bangumi/play/ep44689",
+     "time": "2012-04-25T03:30:07.000Z"
+    }
+   ]
+  }
+ ]
+}

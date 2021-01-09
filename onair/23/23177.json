@@ -1,1 +1,39 @@
-{"id":"23177","name":"鎧伝サムライトルーパー 外伝","sites":[{"site":"qq","id":"3/39mym0ldwqaau6n","sort":2}],"eps":[{"id":120585,"sort":1,"name":"鎧戦士、再び","sites":[{"site":"qq","sort":1,"title":"魔神坛斗士OVA_01","url":"https://v.qq.com/x/cover/39mym0ldwqaau6n/l0031044b9m.html"}]},{"id":120586,"sort":2,"name":"友を救え、サムライハート","sites":[{"site":"qq","sort":2,"title":"魔神坛斗士OVA_02","url":"https://v.qq.com/x/cover/39mym0ldwqaau6n/w0031nptbkw.html"}]}]}
+{
+ "id": "23177",
+ "name": "鎧伝サムライトルーパー 外伝",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "f1bd6fc261ad11e0bea1",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 120585,
+   "sort": 1,
+   "name": "鎧戦士、再び",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第1话 再见盔甲武士",
+     "url": "https://v.youku.com/v_show/id_XNTE2ODkzMTY4.html?s=f1bd6fc261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 120586,
+   "sort": 2,
+   "name": "友を救え、サムライハート",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第2话 拯救朋友 武士心",
+     "url": "https://v.youku.com/v_show/id_XNTE2ODkzMTcy.html?s=f1bd6fc261ad11e0bea1"
+    }
+   ]
+  }
+ ]
+}

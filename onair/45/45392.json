@@ -1,1 +1,27 @@
-{"id":"45392","name":"ドラゴンボールZ 極限バトル!!三大超サイヤ人","sites":[{"site":"iqiyi","id":"a_19rrhb4015","sort":17}],"eps":[{"id":875499,"sort":1,"name":"","sites":[{"site":"iqiyi","sort":1,"title":"神龙传说","url":"http://www.iqiyi.com/v_19rrokxy8c.html","time":"2015-07-31T05:24:24.000Z"}]}]}
+{
+ "id": "45392",
+ "name": "ドラゴンボールZ 極限バトル!!三大超サイヤ人",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhb4015",
+   "sort": 17
+  }
+ ],
+ "eps": [
+  {
+   "id": 875499,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "神龙传说",
+     "url": "http://www.iqiyi.com/v_19rrokxy8c.html",
+     "time": "2015-07-31T05:24:24.000Z"
+    }
+   ]
+  }
+ ]
+}

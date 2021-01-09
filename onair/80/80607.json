@@ -1,1 +1,38 @@
-{"id":"80607","name":"HUNTER×HUNTER The Last Mission","sites":[{"site":"qq","id":"c/cl8yrof2ilvbcym","sort":1},{"site":"bilibili","id":"6369","sort":1}],"eps":[{"id":424629,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"全职猎人剧场版：最后的任务","url":"https://v.qq.com/x/cover/cl8yrof2ilvbcym/x0032vo5ezr.html"},{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep113471","time":"2017-07-07T06:25:40.000Z"}]}]}
+{
+ "id": "80607",
+ "name": "HUNTER×HUNTER The Last Mission",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "c/cl8yrof2ilvbcym",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "6369",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 424629,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "全职猎人剧场版：最后的任务",
+     "url": "https://v.qq.com/x/cover/cl8yrof2ilvbcym/x0032vo5ezr.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep113471",
+     "time": "2017-07-07T06:25:40.000Z"
+    }
+   ]
+  }
+ ]
+}

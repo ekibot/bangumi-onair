@@ -1,1 +1,27 @@
-{"id":"178525","name":"虹色デイズ OAD","sites":[{"site":"bilibili","id":"5709","sort":1}],"eps":[{"id":628594,"sort":1,"name":"虹色日和","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep97262","time":"2016-11-22T07:27:37.000Z"}]}]}
+{
+ "id": "178525",
+ "name": "虹色デイズ OAD",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5709",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 628594,
+   "sort": 1,
+   "name": "虹色日和",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep97262",
+     "time": "2016-11-22T07:27:37.000Z"
+    }
+   ]
+  }
+ ]
+}

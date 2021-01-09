@@ -1,1 +1,55 @@
-{"id":"100501","name":"スペース☆ダンディ シーズン2","sites":[{"site":"iqiyi","id":"a_19rrgif9il","sort":13}],"eps":[{"id":945026,"sort":1,"name":"うきうき・ウェイク・ミー・アップじゃんよ","sites":[{"site":"iqiyi","sort":1,"title":"Space☆Dandy 第二季 第1集","url":"http://www.iqiyi.com/v_19rrhknfyc.html","time":"2014-07-06T13:59:34.000Z"}]},{"id":945027,"sort":2,"name":"デビューの道はキビシーじゃんよ","sites":[{"site":"iqiyi","sort":2,"title":"Space☆Dandy 第二季 第2集","url":"http://www.iqiyi.com/v_19rrhj6z5c.html","time":"2014-07-13T14:00:20.000Z"}]},{"id":945028,"sort":3,"name":"もうひとっ風呂あびるじゃんよ!","sites":[{"site":"iqiyi","sort":3,"title":"Space☆Dandy 第二季 第3集","url":"http://www.iqiyi.com/v_19rrhojllk.html","time":"2014-07-20T14:00:18.000Z"}]}]}
+{
+ "id": "100501",
+ "name": "スペース☆ダンディ シーズン2",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrgif9il",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 945026,
+   "sort": 1,
+   "name": "うきうき・ウェイク・ミー・アップじゃんよ",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "Space☆Dandy 第二季 第1集",
+     "url": "http://www.iqiyi.com/v_19rrhknfyc.html",
+     "time": "2014-07-06T13:59:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 945027,
+   "sort": 2,
+   "name": "デビューの道はキビシーじゃんよ",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "Space☆Dandy 第二季 第2集",
+     "url": "http://www.iqiyi.com/v_19rrhj6z5c.html",
+     "time": "2014-07-13T14:00:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 945028,
+   "sort": 3,
+   "name": "もうひとっ風呂あびるじゃんよ!",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "Space☆Dandy 第二季 第3集",
+     "url": "http://www.iqiyi.com/v_19rrhojllk.html",
+     "time": "2014-07-20T14:00:18.000Z"
+    }
+   ]
+  }
+ ]
+}

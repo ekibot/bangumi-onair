@@ -1,1 +1,167 @@
-{"id":"10844","name":"C","sites":[{"site":"bilibili","id":"863","sort":11}],"eps":[{"id":84478,"sort":1,"name":"マトリョーシカ","sites":[{"site":"bilibili","sort":1,"title":"Complication 复杂","url":"https://www.bilibili.com/bangumi/play/ep15512","time":"2011-04-14T22:43:53.000Z"}]},{"id":84753,"sort":2,"name":"coincidence（暗合）","sites":[{"site":"bilibili","sort":2,"title":"Coincidence 巧合","url":"https://www.bilibili.com/bangumi/play/ep15511","time":"2011-04-21T23:22:02.000Z"}]},{"id":84754,"sort":3,"name":"conspiracy（陰謀）","sites":[{"site":"bilibili","sort":3,"title":"Conspiracy 阴谋","url":"https://www.bilibili.com/bangumi/play/ep15510","time":"2011-04-29T00:32:46.000Z"}]},{"id":84755,"sort":4,"name":"conversion（転換）","sites":[{"site":"bilibili","sort":4,"title":"Conversion 转换","url":"https://www.bilibili.com/bangumi/play/ep15509","time":"2011-05-06T01:16:37.000Z"}]},{"id":84756,"sort":5,"name":"cultivation（修練）","sites":[{"site":"bilibili","sort":5,"title":"Cultivation 修练","url":"https://www.bilibili.com/bangumi/play/ep15508","time":"2011-05-13T01:28:51.000Z"}]},{"id":84757,"sort":6,"name":"conflict（葛藤）","sites":[{"site":"bilibili","sort":6,"title":"Conflict 纠葛","url":"https://www.bilibili.com/bangumi/play/ep15507","time":"2011-05-20T01:57:27.000Z"}]},{"id":84758,"sort":7,"name":"composition（組成）","sites":[{"site":"bilibili","sort":7,"title":"Composition 组成","url":"https://www.bilibili.com/bangumi/play/ep15506","time":"2011-05-27T01:24:05.000Z"}]},{"id":84759,"sort":8,"name":"confidence（信用）","sites":[{"site":"bilibili","sort":8,"title":"Confidence 信誉","url":"https://www.bilibili.com/bangumi/play/ep15505","time":"2011-06-03T01:51:10.000Z"}]},{"id":84760,"sort":9,"name":"collapse（破綻）","sites":[{"site":"bilibili","sort":9,"title":"Collapse 破产","url":"https://www.bilibili.com/bangumi/play/ep15504","time":"2011-06-10T03:08:08.000Z"}]},{"id":84761,"sort":10,"name":"collision（衝突）","sites":[{"site":"bilibili","sort":10,"title":"Collision 冲突","url":"https://www.bilibili.com/bangumi/play/ep15503","time":"2011-06-17T01:50:14.000Z"}]},{"id":84762,"sort":11,"name":"control（未来）","sites":[{"site":"bilibili","sort":11,"title":"Control 未来","url":"https://www.bilibili.com/bangumi/play/ep15502","time":"2011-06-24T01:28:19.000Z"}]}]}
+{
+ "id": "10844",
+ "name": "C",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "863",
+   "sort": 11
+  }
+ ],
+ "eps": [
+  {
+   "id": 84478,
+   "sort": 1,
+   "name": "マトリョーシカ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Complication 复杂",
+     "url": "https://www.bilibili.com/bangumi/play/ep15512",
+     "time": "2011-04-14T22:43:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84753,
+   "sort": 2,
+   "name": "coincidence（暗合）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "Coincidence 巧合",
+     "url": "https://www.bilibili.com/bangumi/play/ep15511",
+     "time": "2011-04-21T23:22:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84754,
+   "sort": 3,
+   "name": "conspiracy（陰謀）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Conspiracy 阴谋",
+     "url": "https://www.bilibili.com/bangumi/play/ep15510",
+     "time": "2011-04-29T00:32:46.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84755,
+   "sort": 4,
+   "name": "conversion（転換）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Conversion 转换",
+     "url": "https://www.bilibili.com/bangumi/play/ep15509",
+     "time": "2011-05-06T01:16:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84756,
+   "sort": 5,
+   "name": "cultivation（修練）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Cultivation 修练",
+     "url": "https://www.bilibili.com/bangumi/play/ep15508",
+     "time": "2011-05-13T01:28:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84757,
+   "sort": 6,
+   "name": "conflict（葛藤）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Conflict 纠葛",
+     "url": "https://www.bilibili.com/bangumi/play/ep15507",
+     "time": "2011-05-20T01:57:27.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84758,
+   "sort": 7,
+   "name": "composition（組成）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "Composition 组成",
+     "url": "https://www.bilibili.com/bangumi/play/ep15506",
+     "time": "2011-05-27T01:24:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84759,
+   "sort": 8,
+   "name": "confidence（信用）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "Confidence 信誉",
+     "url": "https://www.bilibili.com/bangumi/play/ep15505",
+     "time": "2011-06-03T01:51:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84760,
+   "sort": 9,
+   "name": "collapse（破綻）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "Collapse 破产",
+     "url": "https://www.bilibili.com/bangumi/play/ep15504",
+     "time": "2011-06-10T03:08:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84761,
+   "sort": 10,
+   "name": "collision（衝突）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "Collision 冲突",
+     "url": "https://www.bilibili.com/bangumi/play/ep15503",
+     "time": "2011-06-17T01:50:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84762,
+   "sort": 11,
+   "name": "control（未来）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "Control 未来",
+     "url": "https://www.bilibili.com/bangumi/play/ep15502",
+     "time": "2011-06-24T01:28:19.000Z"
+    }
+   ]
+  }
+ ]
+}

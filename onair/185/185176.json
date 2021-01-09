@@ -1,1 +1,221 @@
-{"id":"185176","name":"麻神","sites":[{"site":"qq","id":"g/g1l5z0cndggpfja","sort":16}],"eps":[{"id":642946,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"麻神_01","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/y0309fwje3f.html"}]},{"id":645113,"sort":2,"name":"","sites":[{"site":"qq","sort":2,"title":"麻神_02","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/j0311pw5rbl.html"}]},{"id":645114,"sort":3,"name":"","sites":[{"site":"qq","sort":3,"title":"麻神_03","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/r0313o1raio.html"}]},{"id":645115,"sort":4,"name":"","sites":[{"site":"qq","sort":4,"title":"麻神_04","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/v0314652qu4.html"}]},{"id":645116,"sort":5,"name":"","sites":[{"site":"qq","sort":5,"title":"麻神_05","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/t0316v2wp13.html"}]},{"id":646682,"sort":6,"name":"","sites":[{"site":"qq","sort":6,"title":"麻神_06","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/q0318lenewh.html"}]},{"id":646683,"sort":7,"name":"","sites":[{"site":"qq","sort":7,"title":"麻神_07","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/v0319jg5l7o.html"}]},{"id":646684,"sort":8,"name":"","sites":[{"site":"qq","sort":8,"title":"麻神_08","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/h0321kawp0k.html"}]},{"id":646685,"sort":9,"name":"","sites":[{"site":"qq","sort":9,"title":"麻神_09","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/j0323vqepqy.html"}]},{"id":646686,"sort":10,"name":"","sites":[{"site":"qq","sort":10,"title":"麻神_10","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/k03256qbsf1.html"}]},{"id":646687,"sort":11,"name":"","sites":[{"site":"qq","sort":11,"title":"麻神_11","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/v03266sjglp.html"}]},{"id":646688,"sort":12,"name":"","sites":[{"site":"qq","sort":12,"title":"麻神_12","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/u0328wu0d9x.html"}]},{"id":663938,"sort":13,"name":"","sites":[{"site":"qq","sort":13,"title":"麻神_13","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/e0330oyj1cq.html"}]},{"id":663939,"sort":14,"name":"","sites":[{"site":"qq","sort":14,"title":"麻神_14","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/o0332wwgtlz.html"}]},{"id":667938,"sort":15,"name":"","sites":[{"site":"qq","sort":15,"title":"麻神_15","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/z0336v0iibj.html"}]},{"id":671534,"sort":16,"name":"","sites":[{"site":"qq","sort":16,"title":"麻神_16","url":"https://v.qq.com/x/cover/g1l5z0cndggpfja/z0338fa4zsg.html"}]}]}
+{
+ "id": "185176",
+ "name": "麻神",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "g/g1l5z0cndggpfja",
+   "sort": 16
+  }
+ ],
+ "eps": [
+  {
+   "id": 642946,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "麻神_01",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/y0309fwje3f.html"
+    }
+   ]
+  },
+  {
+   "id": 645113,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "麻神_02",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/j0311pw5rbl.html"
+    }
+   ]
+  },
+  {
+   "id": 645114,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "麻神_03",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/r0313o1raio.html"
+    }
+   ]
+  },
+  {
+   "id": 645115,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "麻神_04",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/v0314652qu4.html"
+    }
+   ]
+  },
+  {
+   "id": 645116,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "麻神_05",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/t0316v2wp13.html"
+    }
+   ]
+  },
+  {
+   "id": 646682,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "麻神_06",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/q0318lenewh.html"
+    }
+   ]
+  },
+  {
+   "id": 646683,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "麻神_07",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/v0319jg5l7o.html"
+    }
+   ]
+  },
+  {
+   "id": 646684,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "麻神_08",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/h0321kawp0k.html"
+    }
+   ]
+  },
+  {
+   "id": 646685,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "麻神_09",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/j0323vqepqy.html"
+    }
+   ]
+  },
+  {
+   "id": 646686,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "麻神_10",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/k03256qbsf1.html"
+    }
+   ]
+  },
+  {
+   "id": 646687,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "麻神_11",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/v03266sjglp.html"
+    }
+   ]
+  },
+  {
+   "id": 646688,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "麻神_12",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/u0328wu0d9x.html"
+    }
+   ]
+  },
+  {
+   "id": 663938,
+   "sort": 13,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "麻神_13",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/e0330oyj1cq.html"
+    }
+   ]
+  },
+  {
+   "id": 663939,
+   "sort": 14,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 14,
+     "title": "麻神_14",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/o0332wwgtlz.html"
+    }
+   ]
+  },
+  {
+   "id": 667938,
+   "sort": 15,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 15,
+     "title": "麻神_15",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/z0336v0iibj.html"
+    }
+   ]
+  },
+  {
+   "id": 671534,
+   "sort": 16,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 16,
+     "title": "麻神_16",
+     "url": "https://v.qq.com/x/cover/g1l5z0cndggpfja/z0338fa4zsg.html"
+    }
+   ]
+  }
+ ]
+}

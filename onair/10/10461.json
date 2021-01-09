@@ -1,1 +1,83 @@
-{"id":"10461","name":"ショコラの魔法","sites":[{"site":"bilibili","id":"5067","sort":5}],"eps":[{"id":422732,"sort":1,"name":"ムラング・オ・ショコラ 〜悲しみの旋律〜 前編","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep90650","time":"2016-06-22T09:44:07.000Z"}]},{"id":422733,"sort":2,"name":"ムラング・オ・ショコラ 〜悲しみの旋律〜 後編","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep90651","time":"2016-06-22T09:44:23.000Z"}]},{"id":422734,"sort":3,"name":"タルトレット 〜静寂の雨〜","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep90652","time":"2016-06-22T09:44:46.000Z"}]},{"id":422735,"sort":4,"name":"パルフェ 〜秋の日の憂鬱〜","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep90653","time":"2016-06-22T09:44:57.000Z"}]},{"id":422736,"sort":5,"name":"ホワイトマカロン 〜後悔の炎〜","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep90654","time":"2016-06-22T09:45:07.000Z"}]}]}
+{
+ "id": "10461",
+ "name": "ショコラの魔法",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5067",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 422732,
+   "sort": 1,
+   "name": "ムラング・オ・ショコラ 〜悲しみの旋律〜 前編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep90650",
+     "time": "2016-06-22T09:44:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 422733,
+   "sort": 2,
+   "name": "ムラング・オ・ショコラ 〜悲しみの旋律〜 後編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep90651",
+     "time": "2016-06-22T09:44:23.000Z"
+    }
+   ]
+  },
+  {
+   "id": 422734,
+   "sort": 3,
+   "name": "タルトレット 〜静寂の雨〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep90652",
+     "time": "2016-06-22T09:44:46.000Z"
+    }
+   ]
+  },
+  {
+   "id": 422735,
+   "sort": 4,
+   "name": "パルフェ 〜秋の日の憂鬱〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep90653",
+     "time": "2016-06-22T09:44:57.000Z"
+    }
+   ]
+  },
+  {
+   "id": 422736,
+   "sort": 5,
+   "name": "ホワイトマカロン 〜後悔の炎〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep90654",
+     "time": "2016-06-22T09:45:07.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,26 @@
-{"id":"4374","name":"少年陰陽師","sites":[{"site":"qq","id":"h/hk3y7ix87i6m77g","sort":1}],"eps":[{"id":32132,"sort":26,"name":"焔の刃を研ぎ澄ませ","sites":[{"site":"qq","sort":26,"title":"26","url":"http://www.bilibili.com/video/av22431280/"}]}]}
+{
+ "id": "4374",
+ "name": "少年陰陽師",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "h/hk3y7ix87i6m77g",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 32132,
+   "sort": 26,
+   "name": "焔の刃を研ぎ澄ませ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 26,
+     "title": "26",
+     "url": "http://www.bilibili.com/video/av22431280/"
+    }
+   ]
+  }
+ ]
+}

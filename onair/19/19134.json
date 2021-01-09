@@ -1,1 +1,167 @@
-{"id":"19134","name":"だぶるじぇい","sites":[{"site":"bilibili","id":"908","sort":11}],"eps":[{"id":107057,"sort":1,"name":"伝統・オア・アライブ","sites":[{"site":"bilibili","sort":1,"title":"传统或生","url":"https://www.bilibili.com/bangumi/play/ep16406","time":"2011-07-09T11:20:29.000Z"}]},{"id":107058,"sort":2,"name":"パーマ伝統・バケーション","sites":[{"site":"bilibili","sort":2,"title":"不变的传统・假期","url":"https://www.bilibili.com/bangumi/play/ep16405","time":"2011-07-10T01:41:10.000Z"}]},{"id":107059,"sort":3,"name":"伝統デリバティブ","sites":[{"site":"bilibili","sort":3,"title":"传统金融衍生工具","url":"https://www.bilibili.com/bangumi/play/ep16404","time":"2011-07-15T07:08:59.000Z"}]},{"id":107060,"sort":4,"name":"株式伝統公開","sites":[{"site":"bilibili","sort":4,"title":"传统股新发售","url":"https://www.bilibili.com/bangumi/play/ep16403","time":"2011-07-21T09:17:37.000Z"}]},{"id":107061,"sort":5,"name":"ア伝統 プリーズ!","sites":[{"site":"bilibili","sort":5,"title":"传统,Please!","url":"https://www.bilibili.com/bangumi/play/ep16402","time":"2011-07-28T13:23:40.000Z"}]},{"id":107062,"sort":6,"name":"うっかり滑って伝統","sites":[{"site":"bilibili","sort":6,"title":"不小心滑倒了传统","url":"https://www.bilibili.com/bangumi/play/ep16401","time":"2011-08-04T04:57:05.000Z"}]},{"id":107063,"sort":7,"name":"暮らしの伝統芸 江戸より伝わるガラス工芸の技","sites":[{"site":"bilibili","sort":7,"title":"生活中的传统艺 继承自江户时代的玻璃工艺的职人们","url":"https://www.bilibili.com/bangumi/play/ep16400","time":"2011-08-11T05:29:49.000Z"}]},{"id":107064,"sort":8,"name":"その件は伝統中です","sites":[{"site":"bilibili","sort":8,"title":"那属于传统","url":"https://www.bilibili.com/bangumi/play/ep16399","time":"2011-08-18T03:52:51.000Z"}]},{"id":107065,"sort":9,"name":"伝統腺が腫れた","sites":[{"site":"bilibili","sort":9,"title":"传统腺肿大","url":"https://www.bilibili.com/bangumi/play/ep16398","time":"2011-08-24T16:26:28.000Z"}]},{"id":107066,"sort":10,"name":"伝統英二","sites":[{"site":"bilibili","sort":10,"title":"传统英二","url":"https://www.bilibili.com/bangumi/play/ep16397","time":"2012-10-15T19:21:23.000Z"}]},{"id":107067,"sort":11,"name":"首相伝統所感","sites":[{"site":"bilibili","sort":11,"title":"首相传统所感","url":"https://www.bilibili.com/bangumi/play/ep16396","time":"2012-10-15T19:23:06.000Z"}]}]}
+{
+ "id": "19134",
+ "name": "だぶるじぇい",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "908",
+   "sort": 11
+  }
+ ],
+ "eps": [
+  {
+   "id": 107057,
+   "sort": 1,
+   "name": "伝統・オア・アライブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "传统或生",
+     "url": "https://www.bilibili.com/bangumi/play/ep16406",
+     "time": "2011-07-09T11:20:29.000Z"
+    }
+   ]
+  },
+  {
+   "id": 107058,
+   "sort": 2,
+   "name": "パーマ伝統・バケーション",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "不变的传统・假期",
+     "url": "https://www.bilibili.com/bangumi/play/ep16405",
+     "time": "2011-07-10T01:41:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 107059,
+   "sort": 3,
+   "name": "伝統デリバティブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "传统金融衍生工具",
+     "url": "https://www.bilibili.com/bangumi/play/ep16404",
+     "time": "2011-07-15T07:08:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 107060,
+   "sort": 4,
+   "name": "株式伝統公開",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "传统股新发售",
+     "url": "https://www.bilibili.com/bangumi/play/ep16403",
+     "time": "2011-07-21T09:17:37.000Z"
+    }
+   ]
+  },
+  {
+   "id": 107061,
+   "sort": 5,
+   "name": "ア伝統 プリーズ!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "传统,Please!",
+     "url": "https://www.bilibili.com/bangumi/play/ep16402",
+     "time": "2011-07-28T13:23:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 107062,
+   "sort": 6,
+   "name": "うっかり滑って伝統",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "不小心滑倒了传统",
+     "url": "https://www.bilibili.com/bangumi/play/ep16401",
+     "time": "2011-08-04T04:57:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 107063,
+   "sort": 7,
+   "name": "暮らしの伝統芸 江戸より伝わるガラス工芸の技",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "生活中的传统艺 继承自江户时代的玻璃工艺的职人们",
+     "url": "https://www.bilibili.com/bangumi/play/ep16400",
+     "time": "2011-08-11T05:29:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 107064,
+   "sort": 8,
+   "name": "その件は伝統中です",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "那属于传统",
+     "url": "https://www.bilibili.com/bangumi/play/ep16399",
+     "time": "2011-08-18T03:52:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 107065,
+   "sort": 9,
+   "name": "伝統腺が腫れた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "传统腺肿大",
+     "url": "https://www.bilibili.com/bangumi/play/ep16398",
+     "time": "2011-08-24T16:26:28.000Z"
+    }
+   ]
+  },
+  {
+   "id": 107066,
+   "sort": 10,
+   "name": "伝統英二",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "传统英二",
+     "url": "https://www.bilibili.com/bangumi/play/ep16397",
+     "time": "2012-10-15T19:21:23.000Z"
+    }
+   ]
+  },
+  {
+   "id": 107067,
+   "sort": 11,
+   "name": "首相伝統所感",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "首相传统所感",
+     "url": "https://www.bilibili.com/bangumi/play/ep16396",
+     "time": "2012-10-15T19:23:06.000Z"
+    }
+   ]
+  }
+ ]
+}

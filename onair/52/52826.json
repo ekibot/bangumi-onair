@@ -1,1 +1,38 @@
-{"id":"52826","name":"人魚の森","sites":[{"site":"qq","id":"i/izzhgoy2bctltv6","sort":13},{"site":"bilibili","id":"1965","sort":13}],"eps":[{"id":207334,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"第1话 人鱼之森","url":"http://v.youku.com/v_show/id_XNTAwNzk0NjYw.html?from=y1.6-100.3.1.8b4c0bdce78711de97c0"},{"site":"bilibili","sort":1,"title":"人鱼不再笑","url":"https://www.bilibili.com/bangumi/play/ep42293","time":"2014-01-10T10:01:46.000Z"}]}]}
+{
+ "id": "52826",
+ "name": "人魚の森",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "i/izzhgoy2bctltv6",
+   "sort": 13
+  },
+  {
+   "site": "bilibili",
+   "id": "1965",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 207334,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第1话 人鱼之森",
+     "url": "http://v.youku.com/v_show/id_XNTAwNzk0NjYw.html?from=y1.6-100.3.1.8b4c0bdce78711de97c0"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "人鱼不再笑",
+     "url": "https://www.bilibili.com/bangumi/play/ep42293",
+     "time": "2014-01-10T10:01:46.000Z"
+    }
+   ]
+  }
+ ]
+}

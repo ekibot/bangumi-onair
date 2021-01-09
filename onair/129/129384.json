@@ -1,1 +1,181 @@
-{"id":"129384","name":"ワカコ酒","sites":[{"site":"bilibili","id":"2602","sort":12}],"eps":[{"id":534571,"sort":1,"name":"鮭の塩焼き","sites":[{"site":"bilibili","sort":1,"title":"盐烤秋鲑","url":"https://www.bilibili.com/bangumi/play/ep63997","time":"2015-07-19T13:30:00.000Z"}]},{"id":534572,"sort":2,"name":"鶏のから揚げ","sites":[{"site":"bilibili","sort":2,"title":"炸鸡","url":"https://www.bilibili.com/bangumi/play/ep63926","time":"2015-07-12T13:30:00.000Z"}]},{"id":534573,"sort":3,"name":"あん肝ポン酢","sites":[{"site":"bilibili","sort":3,"title":"橙醋腌鮟鱇鱼肝","url":"https://www.bilibili.com/bangumi/play/ep63996","time":"2015-07-19T13:30:00.000Z"}]},{"id":534574,"sort":4,"name":"ウニクレソン","sites":[{"site":"bilibili","sort":4,"title":"海胆炒水芹","url":"https://www.bilibili.com/bangumi/play/ep64176","time":"2015-07-26T13:30:00.000Z"}]},{"id":534575,"sort":5,"name":"焼き鳥","sites":[{"site":"bilibili","sort":5,"title":"烤串","url":"https://www.bilibili.com/bangumi/play/ep64288","time":"2015-08-02T16:40:00.000Z"}]},{"id":534576,"sort":6,"name":"あさりの酒蒸し","sites":[{"site":"bilibili","sort":6,"title":"酒蒸蛤蜊","url":"https://www.bilibili.com/bangumi/play/ep64559","time":"2015-08-09T17:00:00.000Z"}]},{"id":534577,"sort":7,"name":"ポテトサラダ","sites":[{"site":"bilibili","sort":7,"title":"土豆色拉","url":"https://www.bilibili.com/bangumi/play/ep65069","time":"2015-08-16T13:30:00.000Z"}]},{"id":534578,"sort":8,"name":"ゴーヤチャンプルー","sites":[{"site":"bilibili","sort":8,"title":"炒苦瓜","url":"https://www.bilibili.com/bangumi/play/ep65873","time":"2015-08-23T13:30:00.000Z"}]},{"id":534579,"sort":9,"name":"かにみそ","sites":[{"site":"bilibili","sort":9,"title":"蟹膏","url":"https://www.bilibili.com/bangumi/play/ep66719","time":"2015-08-30T16:05:00.000Z"}]},{"id":534580,"sort":10,"name":"アスパラの串揚げ","sites":[{"site":"bilibili","sort":10,"title":"炸芦笋串","url":"https://www.bilibili.com/bangumi/play/ep67423","time":"2015-09-06T13:30:00.000Z"}]},{"id":534581,"sort":11,"name":"ほっけ","sites":[{"site":"bilibili","sort":11,"title":"远东多线鱼","url":"https://www.bilibili.com/bangumi/play/ep68537","time":"2015-09-13T13:30:00.000Z"}]},{"id":534582,"sort":12,"name":"炒りぎんなん","sites":[{"site":"bilibili","sort":12,"title":"炒银杏果","url":"https://www.bilibili.com/bangumi/play/ep69170","time":"2015-09-20T13:30:00.000Z"}]}]}
+{
+ "id": "129384",
+ "name": "ワカコ酒",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2602",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 534571,
+   "sort": 1,
+   "name": "鮭の塩焼き",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "盐烤秋鲑",
+     "url": "https://www.bilibili.com/bangumi/play/ep63997",
+     "time": "2015-07-19T13:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 534572,
+   "sort": 2,
+   "name": "鶏のから揚げ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "炸鸡",
+     "url": "https://www.bilibili.com/bangumi/play/ep63926",
+     "time": "2015-07-12T13:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 534573,
+   "sort": 3,
+   "name": "あん肝ポン酢",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "橙醋腌鮟鱇鱼肝",
+     "url": "https://www.bilibili.com/bangumi/play/ep63996",
+     "time": "2015-07-19T13:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 534574,
+   "sort": 4,
+   "name": "ウニクレソン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "海胆炒水芹",
+     "url": "https://www.bilibili.com/bangumi/play/ep64176",
+     "time": "2015-07-26T13:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 534575,
+   "sort": 5,
+   "name": "焼き鳥",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "烤串",
+     "url": "https://www.bilibili.com/bangumi/play/ep64288",
+     "time": "2015-08-02T16:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 534576,
+   "sort": 6,
+   "name": "あさりの酒蒸し",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "酒蒸蛤蜊",
+     "url": "https://www.bilibili.com/bangumi/play/ep64559",
+     "time": "2015-08-09T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 534577,
+   "sort": 7,
+   "name": "ポテトサラダ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "土豆色拉",
+     "url": "https://www.bilibili.com/bangumi/play/ep65069",
+     "time": "2015-08-16T13:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 534578,
+   "sort": 8,
+   "name": "ゴーヤチャンプルー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "炒苦瓜",
+     "url": "https://www.bilibili.com/bangumi/play/ep65873",
+     "time": "2015-08-23T13:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 534579,
+   "sort": 9,
+   "name": "かにみそ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "蟹膏",
+     "url": "https://www.bilibili.com/bangumi/play/ep66719",
+     "time": "2015-08-30T16:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 534580,
+   "sort": 10,
+   "name": "アスパラの串揚げ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "炸芦笋串",
+     "url": "https://www.bilibili.com/bangumi/play/ep67423",
+     "time": "2015-09-06T13:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 534581,
+   "sort": 11,
+   "name": "ほっけ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "远东多线鱼",
+     "url": "https://www.bilibili.com/bangumi/play/ep68537",
+     "time": "2015-09-13T13:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 534582,
+   "sort": 12,
+   "name": "炒りぎんなん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "炒银杏果",
+     "url": "https://www.bilibili.com/bangumi/play/ep69170",
+     "time": "2015-09-20T13:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

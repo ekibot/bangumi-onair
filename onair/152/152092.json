@@ -1,1 +1,27 @@
-{"id":"152092","name":"劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～","sites":[{"site":"bilibili","id":"28223435","sort":2}],"eps":[{"id":589218,"sort":1,"name":"劇場版 響け！ユーフォニアム〜北宇治高校吹奏楽部へようこそ〜","sites":[{"site":"bilibili","sort":1,"title":"欢迎来到北宇治高中吹奏乐部","url":"https://www.bilibili.com/bangumi/play/ep292361","time":"2019-11-22T10:00:00.000Z"}]}]}
+{
+ "id": "152092",
+ "name": "劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28223435",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 589218,
+   "sort": 1,
+   "name": "劇場版 響け！ユーフォニアム〜北宇治高校吹奏楽部へようこそ〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "欢迎来到北宇治高中吹奏乐部",
+     "url": "https://www.bilibili.com/bangumi/play/ep292361",
+     "time": "2019-11-22T10:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

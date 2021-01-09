@@ -1,1 +1,55 @@
-{"id":"13987","name":"ラブひな Again","sites":[{"site":"bilibili","id":"28220965","sort":3}],"eps":[{"id":80722,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"01","url":"https://www.bilibili.com/bangumi/play/ep271787","time":"2019-05-10T11:08:36.000Z"}]},{"id":80723,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"02","url":"https://www.bilibili.com/bangumi/play/ep271788","time":"2019-05-10T11:08:36.000Z"}]},{"id":80724,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"03","url":"https://www.bilibili.com/bangumi/play/ep271789","time":"2019-05-10T11:08:36.000Z"}]}]}
+{
+ "id": "13987",
+ "name": "ラブひな Again",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28220965",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 80722,
+   "sort": 1,
+   "name": "可奈子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "01",
+     "url": "https://www.bilibili.com/bangumi/play/ep271787",
+     "time": "2019-05-10T11:08:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 80723,
+   "sort": 2,
+   "name": "景太郎",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "02",
+     "url": "https://www.bilibili.com/bangumi/play/ep271788",
+     "time": "2019-05-10T11:08:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 80724,
+   "sort": 3,
+   "name": "なる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "03",
+     "url": "https://www.bilibili.com/bangumi/play/ep271789",
+     "time": "2019-05-10T11:08:36.000Z"
+    }
+   ]
+  }
+ ]
+}

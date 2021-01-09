@@ -1,1 +1,377 @@
-{"id":"6934","name":"Starry☆Sky","sites":[{"site":"bilibili","id":"954","sort":26}],"eps":[{"id":62326,"sort":1,"name":"Episode Capricorn Ⅰ","sites":[{"site":"bilibili","sort":1,"title":"Episode Capricorn I","url":"https://www.bilibili.com/bangumi/play/ep17231","time":"2010-12-23T13:55:00.000Z"}]},{"id":62327,"sort":2,"name":"Episode Capricorn Ⅱ","sites":[{"site":"bilibili","sort":2,"title":"Episode Capricorn Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep17230","time":"2010-12-30T11:47:00.000Z"}]},{"id":62328,"sort":3,"name":"Episode Aquarius Ⅰ","sites":[{"site":"bilibili","sort":3,"title":"Episode Aquarius I","url":"https://www.bilibili.com/bangumi/play/ep17229","time":"2011-01-06T14:20:00.000Z"}]},{"id":62329,"sort":4,"name":"Episode Aquarius Ⅱ","sites":[{"site":"bilibili","sort":4,"title":"Episode Aquarius Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep17228","time":"2011-01-13T12:09:00.000Z"}]},{"id":62330,"sort":5,"name":"Episode Pisces Ⅰ","sites":[{"site":"bilibili","sort":5,"title":"Episode Pisces I","url":"https://www.bilibili.com/bangumi/play/ep17227","time":"2011-01-20T12:35:00.000Z"}]},{"id":62331,"sort":6,"name":"Episode Pisces Ⅱ","sites":[{"site":"bilibili","sort":6,"title":"Episode Pisces Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep17226","time":"2011-01-27T12:11:00.000Z"}]},{"id":62332,"sort":7,"name":"Episode Aries Ⅰ","sites":[{"site":"bilibili","sort":7,"title":"Episode Aries I","url":"https://www.bilibili.com/bangumi/play/ep17225","time":"2011-02-03T11:27:00.000Z"}]},{"id":62333,"sort":8,"name":"Episode Aries Ⅱ","sites":[{"site":"bilibili","sort":8,"title":"Episode Aries Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep17224","time":"2011-02-10T13:06:00.000Z"}]},{"id":62334,"sort":9,"name":"Episode Taurus Ⅰ","sites":[{"site":"bilibili","sort":9,"title":"Episode Taurus I","url":"https://www.bilibili.com/bangumi/play/ep17223","time":"2011-02-17T13:02:00.000Z"}]},{"id":62335,"sort":10,"name":"Episode Taurus Ⅱ","sites":[{"site":"bilibili","sort":10,"title":"Episode Taurus Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep17222","time":"2011-02-24T13:36:00.000Z"}]},{"id":62336,"sort":11,"name":"Episode Gemini Ⅰ","sites":[{"site":"bilibili","sort":11,"title":"Episode Gemini I","url":"https://www.bilibili.com/bangumi/play/ep17221","time":"2011-03-03T12:11:00.000Z"}]},{"id":62337,"sort":12,"name":"Episode Gemini Ⅱ","sites":[{"site":"bilibili","sort":12,"title":"Episode Gemini Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep17220","time":"2011-03-10T11:54:00.000Z"}]},{"id":62338,"sort":13,"name":"Episode Cancer Ⅰ","sites":[{"site":"bilibili","sort":13,"title":"Episode Cancer I","url":"https://www.bilibili.com/bangumi/play/ep17219","time":"2011-03-17T15:40:00.000Z"}]},{"id":62377,"sort":14,"name":"Episode Cancer Ⅱ","sites":[{"site":"bilibili","sort":14,"title":"Episode Cancer Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep17218","time":"2011-03-24T11:48:00.000Z"}]},{"id":62378,"sort":15,"name":"Episode Leo Ⅰ","sites":[{"site":"bilibili","sort":15,"title":"Episode Leo I","url":"https://www.bilibili.com/bangumi/play/ep17217","time":"2011-03-31T13:12:00.000Z"}]},{"id":62379,"sort":16,"name":"Episode Leo Ⅱ","sites":[{"site":"bilibili","sort":16,"title":"Episode Leo Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep17216","time":"2011-04-07T12:17:00.000Z"}]},{"id":62380,"sort":17,"name":"Episode Virgo Ⅰ","sites":[{"site":"bilibili","sort":17,"title":"Episode Virgo I","url":"https://www.bilibili.com/bangumi/play/ep17215","time":"2011-04-14T12:20:00.000Z"}]},{"id":62381,"sort":18,"name":"Episode Virgo Ⅱ","sites":[{"site":"bilibili","sort":18,"title":"Episode Virgo Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep17214","time":"2011-04-21T11:00:00.000Z"}]},{"id":62382,"sort":19,"name":"Episode Libra Ⅰ","sites":[{"site":"bilibili","sort":19,"title":"Episode Libra I","url":"https://www.bilibili.com/bangumi/play/ep17213","time":"2011-04-28T13:53:00.000Z"}]},{"id":62383,"sort":20,"name":"Episode Libra Ⅱ","sites":[{"site":"bilibili","sort":20,"title":"Episode Libra Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep17212","time":"2011-05-05T13:54:00.000Z"}]},{"id":62384,"sort":21,"name":"Episode Scorpio Ⅰ","sites":[{"site":"bilibili","sort":21,"title":"Episode Scorpio I","url":"https://www.bilibili.com/bangumi/play/ep17211","time":"2011-05-12T11:49:00.000Z"}]},{"id":62385,"sort":22,"name":"Episode Scorpio Ⅱ","sites":[{"site":"bilibili","sort":22,"title":"Episode Scorpio Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep17210","time":"2011-05-19T13:48:00.000Z"}]},{"id":62386,"sort":23,"name":"Episode Sagittarius Ⅰ","sites":[{"site":"bilibili","sort":23,"title":"Episode Sagittarius I","url":"https://www.bilibili.com/bangumi/play/ep17209","time":"2011-05-26T12:37:00.000Z"}]},{"id":62387,"sort":24,"name":"Episode Sagittarius Ⅱ","sites":[{"site":"bilibili","sort":24,"title":"Episode Sagittarius Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep17208","time":"2011-06-02T11:28:00.000Z"}]},{"id":62388,"sort":25,"name":"Episode Ophiuchus Ⅰ","sites":[{"site":"bilibili","sort":25,"title":"Episode Ophiuchus I","url":"https://www.bilibili.com/bangumi/play/ep17207","time":"2011-06-09T13:43:00.000Z"}]},{"id":62389,"sort":26,"name":"Episode Ophiuchus Ⅱ","sites":[{"site":"bilibili","sort":26,"title":"Episode Ophiuchus Ⅱ","url":"https://www.bilibili.com/bangumi/play/ep85670","time":"2016-03-30T02:10:00.000Z"}]}]}
+{
+ "id": "6934",
+ "name": "Starry☆Sky",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "954",
+   "sort": 26
+  }
+ ],
+ "eps": [
+  {
+   "id": 62326,
+   "sort": 1,
+   "name": "Episode Capricorn Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Episode Capricorn I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17231",
+     "time": "2010-12-23T13:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62327,
+   "sort": 2,
+   "name": "Episode Capricorn Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "Episode Capricorn Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep17230",
+     "time": "2010-12-30T11:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62328,
+   "sort": 3,
+   "name": "Episode Aquarius Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Episode Aquarius I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17229",
+     "time": "2011-01-06T14:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62329,
+   "sort": 4,
+   "name": "Episode Aquarius Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Episode Aquarius Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep17228",
+     "time": "2011-01-13T12:09:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62330,
+   "sort": 5,
+   "name": "Episode Pisces Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Episode Pisces I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17227",
+     "time": "2011-01-20T12:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62331,
+   "sort": 6,
+   "name": "Episode Pisces Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Episode Pisces Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep17226",
+     "time": "2011-01-27T12:11:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62332,
+   "sort": 7,
+   "name": "Episode Aries Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "Episode Aries I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17225",
+     "time": "2011-02-03T11:27:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62333,
+   "sort": 8,
+   "name": "Episode Aries Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "Episode Aries Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep17224",
+     "time": "2011-02-10T13:06:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62334,
+   "sort": 9,
+   "name": "Episode Taurus Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "Episode Taurus I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17223",
+     "time": "2011-02-17T13:02:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62335,
+   "sort": 10,
+   "name": "Episode Taurus Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "Episode Taurus Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep17222",
+     "time": "2011-02-24T13:36:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62336,
+   "sort": 11,
+   "name": "Episode Gemini Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "Episode Gemini I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17221",
+     "time": "2011-03-03T12:11:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62337,
+   "sort": 12,
+   "name": "Episode Gemini Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "Episode Gemini Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep17220",
+     "time": "2011-03-10T11:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62338,
+   "sort": 13,
+   "name": "Episode Cancer Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "Episode Cancer I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17219",
+     "time": "2011-03-17T15:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62377,
+   "sort": 14,
+   "name": "Episode Cancer Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "Episode Cancer Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep17218",
+     "time": "2011-03-24T11:48:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62378,
+   "sort": 15,
+   "name": "Episode Leo Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "Episode Leo I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17217",
+     "time": "2011-03-31T13:12:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62379,
+   "sort": 16,
+   "name": "Episode Leo Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "Episode Leo Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep17216",
+     "time": "2011-04-07T12:17:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62380,
+   "sort": 17,
+   "name": "Episode Virgo Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "Episode Virgo I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17215",
+     "time": "2011-04-14T12:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62381,
+   "sort": 18,
+   "name": "Episode Virgo Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "Episode Virgo Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep17214",
+     "time": "2011-04-21T11:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62382,
+   "sort": 19,
+   "name": "Episode Libra Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "Episode Libra I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17213",
+     "time": "2011-04-28T13:53:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62383,
+   "sort": 20,
+   "name": "Episode Libra Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "Episode Libra Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep17212",
+     "time": "2011-05-05T13:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62384,
+   "sort": 21,
+   "name": "Episode Scorpio Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "Episode Scorpio I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17211",
+     "time": "2011-05-12T11:49:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62385,
+   "sort": 22,
+   "name": "Episode Scorpio Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "Episode Scorpio Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep17210",
+     "time": "2011-05-19T13:48:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62386,
+   "sort": 23,
+   "name": "Episode Sagittarius Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "Episode Sagittarius I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17209",
+     "time": "2011-05-26T12:37:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62387,
+   "sort": 24,
+   "name": "Episode Sagittarius Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "Episode Sagittarius Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep17208",
+     "time": "2011-06-02T11:28:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62388,
+   "sort": 25,
+   "name": "Episode Ophiuchus Ⅰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 25,
+     "title": "Episode Ophiuchus I",
+     "url": "https://www.bilibili.com/bangumi/play/ep17207",
+     "time": "2011-06-09T13:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62389,
+   "sort": 26,
+   "name": "Episode Ophiuchus Ⅱ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 26,
+     "title": "Episode Ophiuchus Ⅱ",
+     "url": "https://www.bilibili.com/bangumi/play/ep85670",
+     "time": "2016-03-30T02:10:00.000Z"
+    }
+   ]
+  }
+ ]
+}

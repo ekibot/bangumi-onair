@@ -1,1 +1,181 @@
-{"id":"206924","name":"TO BE HEROINE","sites":[{"site":"bilibili","id":"23352","sort":15}],"eps":[{"id":786675,"sort":1,"name":"一脱成神","sites":[{"site":"bilibili","sort":1,"title":"一脱成神","url":"https://www.bilibili.com/bangumi/play/ep201329","time":"2018-04-13T16:00:00.000Z"}]},{"id":786676,"sort":2,"name":"东南西北皆“兄弟”","sites":[{"site":"bilibili","sort":2,"title":"东南西北皆“兄弟”","url":"https://www.bilibili.com/bangumi/play/ep203361","time":"2018-04-21T02:00:00.000Z"}]},{"id":786677,"sort":3,"name":"一发消魂","sites":[{"site":"bilibili","sort":3,"title":"一发消魂！","url":"https://www.bilibili.com/bangumi/play/ep203362","time":"2018-04-28T02:00:00.000Z"}]},{"id":786678,"sort":4,"name":"被保存的时间","sites":[{"site":"bilibili","sort":4,"title":"被保存的时间","url":"https://www.bilibili.com/bangumi/play/ep203632","time":"2018-05-05T02:00:00.000Z"}]},{"id":786679,"sort":5,"name":"动摇的初心","sites":[{"site":"bilibili","sort":5,"title":"动摇的初心","url":"https://www.bilibili.com/bangumi/play/ep205196","time":"2018-05-12T02:00:00.000Z"}]},{"id":786680,"sort":6,"name":"消失的光","sites":[{"site":"bilibili","sort":6,"title":"消失的光","url":"https://www.bilibili.com/bangumi/play/ep205197","time":"2018-05-19T02:00:00.000Z"}]},{"id":786681,"sort":7,"name":"从心开始","sites":[{"site":"bilibili","sort":7,"title":"从心开始","url":"https://www.bilibili.com/bangumi/play/ep205916","time":"2018-05-26T02:00:00.000Z"}]},{"id":786682,"sort":8,"name":"十年前（上篇）","sites":[{"site":"bilibili","sort":8,"title":"十年前（上）","url":"https://www.bilibili.com/bangumi/play/ep206551","time":"2018-06-16T02:00:00.000Z"}]},{"id":786686,"sort":9,"name":"十年前（下篇）","sites":[{"site":"bilibili","sort":9,"title":"十年前（下）","url":"https://www.bilibili.com/bangumi/play/ep215978","time":"2018-06-16T02:00:00.000Z"}]},{"id":786683,"sort":10,"name":"父之所爱","sites":[{"site":"bilibili","sort":10,"title":"父之所爱","url":"https://www.bilibili.com/bangumi/play/ep219104","time":"2018-06-23T02:00:00.000Z"}]},{"id":786684,"sort":11,"name":"等待黎明","sites":[{"site":"bilibili","sort":11,"title":"等待黎明","url":"https://www.bilibili.com/bangumi/play/ep226568","time":"2018-06-30T02:00:00.000Z"}]},{"id":786685,"sort":12,"name":"破晓之光！","sites":[{"site":"bilibili","sort":12,"title":"破晓之光！","url":"https://www.bilibili.com/bangumi/play/ep232069","time":"2018-07-07T02:00:00.000Z"}]}]}
+{
+ "id": "206924",
+ "name": "TO BE HEROINE",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "23352",
+   "sort": 15
+  }
+ ],
+ "eps": [
+  {
+   "id": 786675,
+   "sort": 1,
+   "name": "一脱成神",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "一脱成神",
+     "url": "https://www.bilibili.com/bangumi/play/ep201329",
+     "time": "2018-04-13T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 786676,
+   "sort": 2,
+   "name": "东南西北皆“兄弟”",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "东南西北皆“兄弟”",
+     "url": "https://www.bilibili.com/bangumi/play/ep203361",
+     "time": "2018-04-21T02:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 786677,
+   "sort": 3,
+   "name": "一发消魂",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "一发消魂！",
+     "url": "https://www.bilibili.com/bangumi/play/ep203362",
+     "time": "2018-04-28T02:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 786678,
+   "sort": 4,
+   "name": "被保存的时间",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "被保存的时间",
+     "url": "https://www.bilibili.com/bangumi/play/ep203632",
+     "time": "2018-05-05T02:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 786679,
+   "sort": 5,
+   "name": "动摇的初心",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "动摇的初心",
+     "url": "https://www.bilibili.com/bangumi/play/ep205196",
+     "time": "2018-05-12T02:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 786680,
+   "sort": 6,
+   "name": "消失的光",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "消失的光",
+     "url": "https://www.bilibili.com/bangumi/play/ep205197",
+     "time": "2018-05-19T02:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 786681,
+   "sort": 7,
+   "name": "从心开始",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "从心开始",
+     "url": "https://www.bilibili.com/bangumi/play/ep205916",
+     "time": "2018-05-26T02:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 786682,
+   "sort": 8,
+   "name": "十年前（上篇）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "十年前（上）",
+     "url": "https://www.bilibili.com/bangumi/play/ep206551",
+     "time": "2018-06-16T02:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 786686,
+   "sort": 9,
+   "name": "十年前（下篇）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "十年前（下）",
+     "url": "https://www.bilibili.com/bangumi/play/ep215978",
+     "time": "2018-06-16T02:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 786683,
+   "sort": 10,
+   "name": "父之所爱",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "父之所爱",
+     "url": "https://www.bilibili.com/bangumi/play/ep219104",
+     "time": "2018-06-23T02:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 786684,
+   "sort": 11,
+   "name": "等待黎明",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "等待黎明",
+     "url": "https://www.bilibili.com/bangumi/play/ep226568",
+     "time": "2018-06-30T02:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 786685,
+   "sort": 12,
+   "name": "破晓之光！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "破晓之光！",
+     "url": "https://www.bilibili.com/bangumi/play/ep232069",
+     "time": "2018-07-07T02:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

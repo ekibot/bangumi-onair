@@ -1,1 +1,349 @@
-{"id":"240386","name":"ヴィンランド・サガ","sites":[{"site":"bilibili","id":"28220475","sort":38}],"eps":[{"id":889408,"sort":1,"name":"ここではないどこか","sites":[{"site":"bilibili","sort":1,"title":"这里以外的另一个地方","url":"https://www.bilibili.com/bangumi/play/ep276384","time":"2019-07-07T16:10:00.000Z"}]},{"id":889409,"sort":2,"name":"剣","sites":[{"site":"bilibili","sort":2,"title":"剑","url":"https://www.bilibili.com/bangumi/play/ep276385","time":"2019-07-07T16:40:00.000Z"}]},{"id":889410,"sort":3,"name":"戦鬼（トロル）","sites":[{"site":"bilibili","sort":3,"title":"战鬼","url":"https://www.bilibili.com/bangumi/play/ep276386","time":"2019-07-07T17:10:00.000Z"}]},{"id":889411,"sort":4,"name":"本当の戦士","sites":[{"site":"bilibili","sort":4,"title":"真正的战士","url":"https://www.bilibili.com/bangumi/play/ep276387","time":"2019-07-28T16:10:00.000Z"}]},{"id":889412,"sort":5,"name":"戦鬼（トロル）の子","sites":[{"site":"bilibili","sort":5,"title":"战鬼之子","url":"https://www.bilibili.com/bangumi/play/ep276388","time":"2019-08-04T16:10:00.000Z"}]},{"id":889413,"sort":6,"name":"旅の始まり","sites":[{"site":"bilibili","sort":6,"title":"旅途的开始","url":"https://www.bilibili.com/bangumi/play/ep276389","time":"2019-08-11T16:10:00.000Z"}]},{"id":889414,"sort":7,"name":"北人（ノルマンニ）","sites":[{"site":"bilibili","sort":7,"title":"北人","url":"https://www.bilibili.com/bangumi/play/ep276390","time":"2019-08-18T16:10:00.000Z"}]},{"id":889415,"sort":8,"name":"海の果ての果て","sites":[{"site":"bilibili","sort":8,"title":"大海的尽头","url":"https://www.bilibili.com/bangumi/play/ep276391","time":"2019-08-25T16:10:00.000Z"}]},{"id":889416,"sort":9,"name":"ロンドン橋の死闘","sites":[{"site":"bilibili","sort":9,"title":"伦敦桥的死斗","url":"https://www.bilibili.com/bangumi/play/ep276392","time":"2019-09-01T16:10:00.000Z"}]},{"id":889417,"sort":10,"name":"ラグナロク","sites":[{"site":"bilibili","sort":10,"title":"诸神的黄昏","url":"https://www.bilibili.com/bangumi/play/ep276393","time":"2019-09-15T16:10:00.000Z"}]},{"id":889418,"sort":11,"name":"賭け","sites":[{"site":"bilibili","sort":11,"title":"豪赌","url":"https://www.bilibili.com/bangumi/play/ep276394","time":"2019-09-22T16:10:00.000Z"}]},{"id":889419,"sort":12,"name":"対岸の国","sites":[{"site":"bilibili","sort":12,"title":"对岸之国","url":"https://www.bilibili.com/bangumi/play/ep276395","time":"2019-09-29T16:10:00.000Z"}]},{"id":889420,"sort":13,"name":"英雄の子","sites":[{"site":"bilibili","sort":13,"title":"英雄之子","url":"https://www.bilibili.com/bangumi/play/ep286528","time":"2019-10-06T16:12:27.000Z"}]},{"id":889421,"sort":14,"name":"暁光","sites":[{"site":"bilibili","sort":14,"title":"晓光","url":"https://www.bilibili.com/bangumi/play/ep286529","time":"2019-10-13T16:10:00.000Z"}]},{"id":889422,"sort":15,"name":"冬至祭（ユル）のあと","sites":[{"site":"bilibili","sort":15,"title":"冬至节后","url":"https://www.bilibili.com/bangumi/play/ep286530","time":"2019-10-20T16:10:00.000Z"}]},{"id":889423,"sort":16,"name":"ケダモノの歴史","sites":[{"site":"bilibili","sort":16,"title":"野兽的历史","url":"https://www.bilibili.com/bangumi/play/ep286531","time":"2019-10-27T16:10:00.000Z"}]},{"id":889424,"sort":17,"name":"仕えし者","sites":[{"site":"bilibili","sort":17,"title":"辅佐之人","url":"https://www.bilibili.com/bangumi/play/ep286532","time":"2019-11-03T16:10:00.000Z"}]},{"id":889425,"sort":18,"name":"ゆりかごの外","sites":[{"site":"bilibili","sort":18,"title":"摇篮之外","url":"https://www.bilibili.com/bangumi/play/ep286533","time":"2019-11-17T16:10:00.000Z"}]},{"id":889426,"sort":19,"name":"共闘","sites":[{"site":"bilibili","sort":19,"title":"联手","url":"https://www.bilibili.com/bangumi/play/ep286534","time":"2019-11-24T16:10:00.000Z"}]},{"id":889427,"sort":20,"name":"王冠","sites":[{"site":"bilibili","sort":20,"title":"王冠","url":"https://www.bilibili.com/bangumi/play/ep286535","time":"2019-12-01T16:10:00.000Z"}]},{"id":889428,"sort":21,"name":"再会","sites":[{"site":"bilibili","sort":21,"title":"再会","url":"https://www.bilibili.com/bangumi/play/ep286536","time":"2019-12-08T16:10:00.000Z"}]},{"id":889429,"sort":22,"name":"孤狼","sites":[{"site":"bilibili","sort":22,"title":"孤狼","url":"https://www.bilibili.com/bangumi/play/ep286537","time":"2019-12-15T16:10:00.000Z"}]},{"id":889430,"sort":23,"name":"誤算","sites":[{"site":"bilibili","sort":23,"title":"失算","url":"https://www.bilibili.com/bangumi/play/ep286538","time":"2019-12-22T16:10:00.000Z"}]},{"id":889431,"sort":24,"name":"END OF THE PROLOGUE","sites":[{"site":"bilibili","sort":24,"title":"END OF THE PROLOGUE","url":"https://www.bilibili.com/bangumi/play/ep286539","time":"2019-12-29T16:10:00.000Z"}]}]}
+{
+ "id": "240386",
+ "name": "ヴィンランド・サガ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28220475",
+   "sort": 38
+  }
+ ],
+ "eps": [
+  {
+   "id": 889408,
+   "sort": 1,
+   "name": "ここではないどこか",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "这里以外的另一个地方",
+     "url": "https://www.bilibili.com/bangumi/play/ep276384",
+     "time": "2019-07-07T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889409,
+   "sort": 2,
+   "name": "剣",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "剑",
+     "url": "https://www.bilibili.com/bangumi/play/ep276385",
+     "time": "2019-07-07T16:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889410,
+   "sort": 3,
+   "name": "戦鬼（トロル）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "战鬼",
+     "url": "https://www.bilibili.com/bangumi/play/ep276386",
+     "time": "2019-07-07T17:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889411,
+   "sort": 4,
+   "name": "本当の戦士",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "真正的战士",
+     "url": "https://www.bilibili.com/bangumi/play/ep276387",
+     "time": "2019-07-28T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889412,
+   "sort": 5,
+   "name": "戦鬼（トロル）の子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "战鬼之子",
+     "url": "https://www.bilibili.com/bangumi/play/ep276388",
+     "time": "2019-08-04T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889413,
+   "sort": 6,
+   "name": "旅の始まり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "旅途的开始",
+     "url": "https://www.bilibili.com/bangumi/play/ep276389",
+     "time": "2019-08-11T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889414,
+   "sort": 7,
+   "name": "北人（ノルマンニ）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "北人",
+     "url": "https://www.bilibili.com/bangumi/play/ep276390",
+     "time": "2019-08-18T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889415,
+   "sort": 8,
+   "name": "海の果ての果て",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "大海的尽头",
+     "url": "https://www.bilibili.com/bangumi/play/ep276391",
+     "time": "2019-08-25T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889416,
+   "sort": 9,
+   "name": "ロンドン橋の死闘",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "伦敦桥的死斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep276392",
+     "time": "2019-09-01T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889417,
+   "sort": 10,
+   "name": "ラグナロク",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "诸神的黄昏",
+     "url": "https://www.bilibili.com/bangumi/play/ep276393",
+     "time": "2019-09-15T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889418,
+   "sort": 11,
+   "name": "賭け",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "豪赌",
+     "url": "https://www.bilibili.com/bangumi/play/ep276394",
+     "time": "2019-09-22T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889419,
+   "sort": 12,
+   "name": "対岸の国",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "对岸之国",
+     "url": "https://www.bilibili.com/bangumi/play/ep276395",
+     "time": "2019-09-29T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889420,
+   "sort": 13,
+   "name": "英雄の子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "英雄之子",
+     "url": "https://www.bilibili.com/bangumi/play/ep286528",
+     "time": "2019-10-06T16:12:27.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889421,
+   "sort": 14,
+   "name": "暁光",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "晓光",
+     "url": "https://www.bilibili.com/bangumi/play/ep286529",
+     "time": "2019-10-13T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889422,
+   "sort": 15,
+   "name": "冬至祭（ユル）のあと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "冬至节后",
+     "url": "https://www.bilibili.com/bangumi/play/ep286530",
+     "time": "2019-10-20T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889423,
+   "sort": 16,
+   "name": "ケダモノの歴史",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "野兽的历史",
+     "url": "https://www.bilibili.com/bangumi/play/ep286531",
+     "time": "2019-10-27T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889424,
+   "sort": 17,
+   "name": "仕えし者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "辅佐之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep286532",
+     "time": "2019-11-03T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889425,
+   "sort": 18,
+   "name": "ゆりかごの外",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "摇篮之外",
+     "url": "https://www.bilibili.com/bangumi/play/ep286533",
+     "time": "2019-11-17T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889426,
+   "sort": 19,
+   "name": "共闘",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "联手",
+     "url": "https://www.bilibili.com/bangumi/play/ep286534",
+     "time": "2019-11-24T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889427,
+   "sort": 20,
+   "name": "王冠",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "王冠",
+     "url": "https://www.bilibili.com/bangumi/play/ep286535",
+     "time": "2019-12-01T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889428,
+   "sort": 21,
+   "name": "再会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "再会",
+     "url": "https://www.bilibili.com/bangumi/play/ep286536",
+     "time": "2019-12-08T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889429,
+   "sort": 22,
+   "name": "孤狼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "孤狼",
+     "url": "https://www.bilibili.com/bangumi/play/ep286537",
+     "time": "2019-12-15T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889430,
+   "sort": 23,
+   "name": "誤算",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "失算",
+     "url": "https://www.bilibili.com/bangumi/play/ep286538",
+     "time": "2019-12-22T16:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 889431,
+   "sort": 24,
+   "name": "END OF THE PROLOGUE",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "END OF THE PROLOGUE",
+     "url": "https://www.bilibili.com/bangumi/play/ep286539",
+     "time": "2019-12-29T16:10:00.000Z"
+    }
+   ]
+  }
+ ]
+}

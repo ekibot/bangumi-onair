@@ -1,1 +1,181 @@
-{"id":"62948","name":"ふたりはミルキィホームズ","sites":[{"site":"bilibili","id":"1693","sort":12}],"eps":[{"id":288905,"sort":1,"name":"いつものふたり","sites":[{"site":"bilibili","sort":1,"title":"一如既往的两人","url":"https://www.bilibili.com/bangumi/play/ep30526","time":"2013-07-13T19:46:05.000Z"}]},{"id":288894,"sort":2,"name":"「なる」ということ","sites":[{"site":"bilibili","sort":2,"title":"就是这样「的」","url":"https://www.bilibili.com/bangumi/play/ep30525","time":"2013-07-20T19:55:17.000Z"}]},{"id":288895,"sort":3,"name":"わたしのトイズ","sites":[{"site":"bilibili","sort":3,"title":"我的TOYS\t","url":"https://www.bilibili.com/bangumi/play/ep30524","time":"2013-07-28T03:07:28.000Z"}]},{"id":288896,"sort":4,"name":"まけないきもち","sites":[{"site":"bilibili","sort":4,"title":"不想输的心情","url":"https://www.bilibili.com/bangumi/play/ep30523","time":"2013-08-03T19:14:59.000Z"}]},{"id":288897,"sort":5,"name":"謎のおばあさん","sites":[{"site":"bilibili","sort":5,"title":"神秘的老奶奶","url":"https://www.bilibili.com/bangumi/play/ep30522","time":"2013-08-10T21:22:31.000Z"}]},{"id":288898,"sort":6,"name":"おうちに帰ろう","sites":[{"site":"bilibili","sort":6,"title":"回家吧","url":"https://www.bilibili.com/bangumi/play/ep30521","time":"2013-08-17T18:50:22.000Z"}]},{"id":288899,"sort":7,"name":"終わりのはじまり","sites":[{"site":"bilibili","sort":7,"title":"末路的前奏","url":"https://www.bilibili.com/bangumi/play/ep30520","time":"2013-08-25T03:55:21.000Z"}]},{"id":288900,"sort":8,"name":"姫百合せんぱい","sites":[{"site":"bilibili","sort":8,"title":"姬百合学姐","url":"https://www.bilibili.com/bangumi/play/ep30519","time":"2013-08-31T18:16:13.000Z"}]},{"id":288901,"sort":9,"name":"じぶんのちから","sites":[{"site":"bilibili","sort":9,"title":"自己的力量","url":"https://www.bilibili.com/bangumi/play/ep30518","time":"2013-09-08T06:30:45.000Z"}]},{"id":288902,"sort":10,"name":"いつでもいっしょ","sites":[{"site":"bilibili","sort":10,"title":"一直在一起","url":"https://www.bilibili.com/bangumi/play/ep30517","time":"2013-09-15T07:50:42.000Z"}]},{"id":288893,"sort":11,"name":"みんなとふたり","sites":[{"site":"bilibili","sort":11,"title":"大家与两人","url":"https://www.bilibili.com/bangumi/play/ep30516","time":"2013-09-22T06:53:05.000Z"}]},{"id":288904,"sort":12,"name":"あたらしいふたり","sites":[{"site":"bilibili","sort":12,"title":"崭新的两人","url":"https://www.bilibili.com/bangumi/play/ep30515","time":"2013-09-29T03:20:37.000Z"}]}]}
+{
+ "id": "62948",
+ "name": "ふたりはミルキィホームズ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1693",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 288905,
+   "sort": 1,
+   "name": "いつものふたり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "一如既往的两人",
+     "url": "https://www.bilibili.com/bangumi/play/ep30526",
+     "time": "2013-07-13T19:46:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 288894,
+   "sort": 2,
+   "name": "「なる」ということ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "就是这样「的」",
+     "url": "https://www.bilibili.com/bangumi/play/ep30525",
+     "time": "2013-07-20T19:55:17.000Z"
+    }
+   ]
+  },
+  {
+   "id": 288895,
+   "sort": 3,
+   "name": "わたしのトイズ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "我的TOYS\t",
+     "url": "https://www.bilibili.com/bangumi/play/ep30524",
+     "time": "2013-07-28T03:07:28.000Z"
+    }
+   ]
+  },
+  {
+   "id": 288896,
+   "sort": 4,
+   "name": "まけないきもち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "不想输的心情",
+     "url": "https://www.bilibili.com/bangumi/play/ep30523",
+     "time": "2013-08-03T19:14:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 288897,
+   "sort": 5,
+   "name": "謎のおばあさん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "神秘的老奶奶",
+     "url": "https://www.bilibili.com/bangumi/play/ep30522",
+     "time": "2013-08-10T21:22:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 288898,
+   "sort": 6,
+   "name": "おうちに帰ろう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "回家吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep30521",
+     "time": "2013-08-17T18:50:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 288899,
+   "sort": 7,
+   "name": "終わりのはじまり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "末路的前奏",
+     "url": "https://www.bilibili.com/bangumi/play/ep30520",
+     "time": "2013-08-25T03:55:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 288900,
+   "sort": 8,
+   "name": "姫百合せんぱい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "姬百合学姐",
+     "url": "https://www.bilibili.com/bangumi/play/ep30519",
+     "time": "2013-08-31T18:16:13.000Z"
+    }
+   ]
+  },
+  {
+   "id": 288901,
+   "sort": 9,
+   "name": "じぶんのちから",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "自己的力量",
+     "url": "https://www.bilibili.com/bangumi/play/ep30518",
+     "time": "2013-09-08T06:30:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 288902,
+   "sort": 10,
+   "name": "いつでもいっしょ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "一直在一起",
+     "url": "https://www.bilibili.com/bangumi/play/ep30517",
+     "time": "2013-09-15T07:50:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 288893,
+   "sort": 11,
+   "name": "みんなとふたり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "大家与两人",
+     "url": "https://www.bilibili.com/bangumi/play/ep30516",
+     "time": "2013-09-22T06:53:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 288904,
+   "sort": 12,
+   "name": "あたらしいふたり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "崭新的两人",
+     "url": "https://www.bilibili.com/bangumi/play/ep30515",
+     "time": "2013-09-29T03:20:37.000Z"
+    }
+   ]
+  }
+ ]
+}

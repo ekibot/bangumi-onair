@@ -1,1 +1,181 @@
-{"id":"175601","name":"Fate/EXTRA Last Encore","sites":[{"site":"bilibili","id":"8772","sort":13}],"eps":[{"id":767777,"sort":1,"name":"今は旧き辺獄の底 -プレテリトゥス・リンブス・ヴォラーゴｰ","sites":[{"site":"bilibili","sort":1,"title":"如今在古老边狱之底","url":"https://www.bilibili.com/bangumi/play/ep192287","time":"2018-01-27T16:30:00.000Z"}]},{"id":767778,"sort":2,"name":"死相 -デッドフェイス-","sites":[{"site":"bilibili","sort":2,"title":"死相 Dead Face","url":"https://www.bilibili.com/bangumi/play/ep192288","time":"2018-02-03T16:30:00.000Z"}]},{"id":767779,"sort":3,"name":"黄金鹿と嵐の夜 -ゴールデン・ ワイルドハント-","sites":[{"site":"bilibili","sort":3,"title":"黄金鹿与暴风夜","url":"https://www.bilibili.com/bangumi/play/ep192289","time":"2018-02-10T16:30:00.000Z"}]},{"id":767780,"sort":4,"name":"顔の無い王 -ノーフェイス・メイキング-","sites":[{"site":"bilibili","sort":4,"title":"无貌之王 No Face May King","url":"https://www.bilibili.com/bangumi/play/ep192290","time":"2018-02-17T16:30:00.000Z"}]},{"id":767781,"sort":5,"name":"祈りの弓 -イー・バウ-","sites":[{"site":"bilibili","sort":5,"title":"祈祷之弓 -Yew Bow-","url":"https://www.bilibili.com/bangumi/play/ep192291","time":"2018-02-24T16:29:00.000Z"}]},{"id":767782,"sort":6,"name":"永久機関・少女帝国 -クイーンズ・グラスゲーム-","sites":[{"site":"bilibili","sort":6,"title":"永久机关·少女帝国 -Queen's Glass Game-","url":"https://www.bilibili.com/bangumi/play/ep192292","time":"2018-03-03T16:30:00.000Z"}]},{"id":767783,"sort":7,"name":"誰かの為の物語 -ナーサリー・ライム-","sites":[{"site":"bilibili","sort":7,"title":"为某人所写的故事-Nursery Rhyme-","url":"https://www.bilibili.com/bangumi/play/ep192293","time":"2018-03-10T16:30:00.000Z"}]},{"id":767784,"sort":8,"name":"无二打 -デッド・エンド-","sites":[{"site":"bilibili","sort":8,"title":"无二打 -Dead End-","url":"https://www.bilibili.com/bangumi/play/ep192294","time":"2018-03-17T16:30:00.000Z"}]},{"id":767785,"sort":9,"name":"招き蕩う黄金劇場 -アエストゥス・ドムス・アウレア-","sites":[{"site":"bilibili","sort":9,"title":"邀至心荡神驰的黄金剧场 -Aestus Domus Aurea-","url":"https://www.bilibili.com/bangumi/play/ep192295","time":"2018-03-24T16:30:00.000Z"}]},{"id":767786,"sort":10,"name":"無限の残骸 -アンリミテッド／レイズ・デッド-","sites":[{"site":"bilibili","sort":10,"title":"无限的残骸-Unlimited / Raise Dead-","url":"https://www.bilibili.com/bangumi/play/ep192296","time":"2018-03-31T16:30:00.000Z"}]},{"id":767787,"sort":11,"name":"転輪する勝利の剣 -エクスカリバー・ガラティーン-","sites":[{"site":"bilibili","sort":11,"title":"轮转胜利之剑 -Excalibur Gallatin-","url":"https://www.bilibili.com/bangumi/play/ep192297","time":"2018-07-29T13:00:00.000Z"}]},{"id":767788,"sort":12,"name":"天輪聖王 -チャクラ・ヴァルティーン-","sites":[{"site":"bilibili","sort":12,"title":"天轮圣王 -Chakravartin-","url":"https://www.bilibili.com/bangumi/play/ep192298","time":"2018-07-29T13:00:00.000Z"}]}]}
+{
+ "id": "175601",
+ "name": "Fate/EXTRA Last Encore",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "8772",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 767777,
+   "sort": 1,
+   "name": "今は旧き辺獄の底 -プレテリトゥス・リンブス・ヴォラーゴｰ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "如今在古老边狱之底",
+     "url": "https://www.bilibili.com/bangumi/play/ep192287",
+     "time": "2018-01-27T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767778,
+   "sort": 2,
+   "name": "死相 -デッドフェイス-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "死相 Dead Face",
+     "url": "https://www.bilibili.com/bangumi/play/ep192288",
+     "time": "2018-02-03T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767779,
+   "sort": 3,
+   "name": "黄金鹿と嵐の夜 -ゴールデン・ ワイルドハント-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "黄金鹿与暴风夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep192289",
+     "time": "2018-02-10T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767780,
+   "sort": 4,
+   "name": "顔の無い王 -ノーフェイス・メイキング-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "无貌之王 No Face May King",
+     "url": "https://www.bilibili.com/bangumi/play/ep192290",
+     "time": "2018-02-17T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767781,
+   "sort": 5,
+   "name": "祈りの弓 -イー・バウ-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "祈祷之弓 -Yew Bow-",
+     "url": "https://www.bilibili.com/bangumi/play/ep192291",
+     "time": "2018-02-24T16:29:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767782,
+   "sort": 6,
+   "name": "永久機関・少女帝国 -クイーンズ・グラスゲーム-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "永久机关·少女帝国 -Queen's Glass Game-",
+     "url": "https://www.bilibili.com/bangumi/play/ep192292",
+     "time": "2018-03-03T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767783,
+   "sort": 7,
+   "name": "誰かの為の物語 -ナーサリー・ライム-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "为某人所写的故事-Nursery Rhyme-",
+     "url": "https://www.bilibili.com/bangumi/play/ep192293",
+     "time": "2018-03-10T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767784,
+   "sort": 8,
+   "name": "无二打 -デッド・エンド-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "无二打 -Dead End-",
+     "url": "https://www.bilibili.com/bangumi/play/ep192294",
+     "time": "2018-03-17T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767785,
+   "sort": 9,
+   "name": "招き蕩う黄金劇場 -アエストゥス・ドムス・アウレア-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "邀至心荡神驰的黄金剧场 -Aestus Domus Aurea-",
+     "url": "https://www.bilibili.com/bangumi/play/ep192295",
+     "time": "2018-03-24T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767786,
+   "sort": 10,
+   "name": "無限の残骸 -アンリミテッド／レイズ・デッド-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "无限的残骸-Unlimited / Raise Dead-",
+     "url": "https://www.bilibili.com/bangumi/play/ep192296",
+     "time": "2018-03-31T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767787,
+   "sort": 11,
+   "name": "転輪する勝利の剣 -エクスカリバー・ガラティーン-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "轮转胜利之剑 -Excalibur Gallatin-",
+     "url": "https://www.bilibili.com/bangumi/play/ep192297",
+     "time": "2018-07-29T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767788,
+   "sort": 12,
+   "name": "天輪聖王 -チャクラ・ヴァルティーン-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "天轮圣王 -Chakravartin-",
+     "url": "https://www.bilibili.com/bangumi/play/ep192298",
+     "time": "2018-07-29T13:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,27 @@
-{"id":"183394","name":"神様はじめました「神様、幸せになる」","sites":[{"site":"bilibili","id":"5882","sort":1}],"eps":[{"id":685584,"sort":1,"name":"神様、幸せになる","sites":[{"site":"bilibili","sort":1,"title":"神明、幸福美满","url":"https://www.bilibili.com/bangumi/play/ep100722","time":"2017-01-15T02:40:45.000Z"}]}]}
+{
+ "id": "183394",
+ "name": "神様はじめました「神様、幸せになる」",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5882",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 685584,
+   "sort": 1,
+   "name": "神様、幸せになる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "神明、幸福美满",
+     "url": "https://www.bilibili.com/bangumi/play/ep100722",
+     "time": "2017-01-15T02:40:45.000Z"
+    }
+   ]
+  }
+ ]
+}

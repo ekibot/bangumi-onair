@@ -1,1 +1,195 @@
-{"id":"20799","name":"キルミーベイベー","sites":[{"site":"bilibili","id":"709","sort":13}],"eps":[{"id":135858,"sort":1,"name":"いぬをしのびてさくらさく","sites":[{"site":"bilibili","sort":1,"title":"狗、忍者、盛开的樱花","url":"https://www.bilibili.com/bangumi/play/ep12798","time":"2012-01-05T19:22:00.000Z"}]},{"id":135859,"sort":2,"name":"わざぬんちゃくでくまふうせん","sites":[{"site":"bilibili","sort":2,"title":"双节棍、熊、气球","url":"https://www.bilibili.com/bangumi/play/ep12797","time":"2012-01-13T01:10:00.000Z"}]},{"id":135860,"sort":3,"name":"えすぱのろえばあめずもう","sites":[{"site":"bilibili","sort":3,"title":"超能力、诅咒、甜蜜相扑","url":"https://www.bilibili.com/bangumi/play/ep12796","time":"2012-01-20T00:18:00.000Z"}]},{"id":135861,"sort":4,"name":"あいするすいかよがしかく","sites":[{"site":"bilibili","sort":4,"title":"爱、西瓜、方形世界","url":"https://www.bilibili.com/bangumi/play/ep12795","time":"2012-01-27T14:29:00.000Z"}]},{"id":135862,"sort":5,"name":"むしをまつりてうみにんぎょう","sites":[{"site":"bilibili","sort":5,"title":"虫、祭典、海之人偶","url":"https://www.bilibili.com/bangumi/play/ep12794","time":"2012-02-03T04:21:00.000Z"}]},{"id":135863,"sort":6,"name":"へそからくりでてるごおり","sites":[{"site":"bilibili","sort":6,"title":"肚脐、机关、制作冰品","url":"https://www.bilibili.com/bangumi/play/ep12793","time":"2012-02-10T03:10:00.000Z"}]},{"id":135864,"sort":7,"name":"ぶんかおてだまできばせん","sites":[{"site":"bilibili","sort":7,"title":"文化、沙包、骑马打仗","url":"https://www.bilibili.com/bangumi/play/ep12792","time":"2012-02-17T02:38:00.000Z"}]},{"id":135865,"sort":8,"name":"はまりかなでりつきささり","sites":[{"site":"bilibili","sort":8,"title":"沉迷、奏曲、身受刺","url":"https://www.bilibili.com/bangumi/play/ep12791","time":"2012-02-24T07:23:00.000Z"}]},{"id":135866,"sort":9,"name":"つりつちのこしわすれえだ","sites":[{"site":"bilibili","sort":9,"title":"垂钓之锤、忘却之枝","url":"https://www.bilibili.com/bangumi/play/ep12790","time":"2012-03-02T01:51:00.000Z"}]},{"id":135867,"sort":10,"name":"さんたつららてゆきだるむ","sites":[{"site":"bilibili","sort":10,"title":"圣诞、冰锥、堆雪人","url":"https://www.bilibili.com/bangumi/play/ep12789","time":"2012-03-09T03:34:00.000Z"}]},{"id":135868,"sort":11,"name":"ふろたこもちてはつゆめし","sites":[{"site":"bilibili","sort":11,"title":"章鱼、入浴、初梦的开始","url":"https://www.bilibili.com/bangumi/play/ep12788","time":"2012-03-16T00:51:00.000Z"}]},{"id":135869,"sort":12,"name":"ちょこがねむけてけがしっぷ","sites":[{"site":"bilibili","sort":12,"title":"睡眠巧克力、创伤贴布","url":"https://www.bilibili.com/bangumi/play/ep12787","time":"2012-03-23T03:01:00.000Z"}]},{"id":161005,"sort":13,"name":"きるがみーしてべいべする","sites":[{"site":"bilibili","sort":13,"title":"独杀其身、宝贝天下","url":"https://www.bilibili.com/bangumi/play/ep12786","time":"2012-03-30T10:59:00.000Z"}]}]}
+{
+ "id": "20799",
+ "name": "キルミーベイベー",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "709",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 135858,
+   "sort": 1,
+   "name": "いぬをしのびてさくらさく",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "狗、忍者、盛开的樱花",
+     "url": "https://www.bilibili.com/bangumi/play/ep12798",
+     "time": "2012-01-05T19:22:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 135859,
+   "sort": 2,
+   "name": "わざぬんちゃくでくまふうせん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "双节棍、熊、气球",
+     "url": "https://www.bilibili.com/bangumi/play/ep12797",
+     "time": "2012-01-13T01:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 135860,
+   "sort": 3,
+   "name": "えすぱのろえばあめずもう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "超能力、诅咒、甜蜜相扑",
+     "url": "https://www.bilibili.com/bangumi/play/ep12796",
+     "time": "2012-01-20T00:18:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 135861,
+   "sort": 4,
+   "name": "あいするすいかよがしかく",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "爱、西瓜、方形世界",
+     "url": "https://www.bilibili.com/bangumi/play/ep12795",
+     "time": "2012-01-27T14:29:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 135862,
+   "sort": 5,
+   "name": "むしをまつりてうみにんぎょう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "虫、祭典、海之人偶",
+     "url": "https://www.bilibili.com/bangumi/play/ep12794",
+     "time": "2012-02-03T04:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 135863,
+   "sort": 6,
+   "name": "へそからくりでてるごおり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "肚脐、机关、制作冰品",
+     "url": "https://www.bilibili.com/bangumi/play/ep12793",
+     "time": "2012-02-10T03:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 135864,
+   "sort": 7,
+   "name": "ぶんかおてだまできばせん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "文化、沙包、骑马打仗",
+     "url": "https://www.bilibili.com/bangumi/play/ep12792",
+     "time": "2012-02-17T02:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 135865,
+   "sort": 8,
+   "name": "はまりかなでりつきささり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "沉迷、奏曲、身受刺",
+     "url": "https://www.bilibili.com/bangumi/play/ep12791",
+     "time": "2012-02-24T07:23:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 135866,
+   "sort": 9,
+   "name": "つりつちのこしわすれえだ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "垂钓之锤、忘却之枝",
+     "url": "https://www.bilibili.com/bangumi/play/ep12790",
+     "time": "2012-03-02T01:51:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 135867,
+   "sort": 10,
+   "name": "さんたつららてゆきだるむ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "圣诞、冰锥、堆雪人",
+     "url": "https://www.bilibili.com/bangumi/play/ep12789",
+     "time": "2012-03-09T03:34:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 135868,
+   "sort": 11,
+   "name": "ふろたこもちてはつゆめし",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "章鱼、入浴、初梦的开始",
+     "url": "https://www.bilibili.com/bangumi/play/ep12788",
+     "time": "2012-03-16T00:51:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 135869,
+   "sort": 12,
+   "name": "ちょこがねむけてけがしっぷ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "睡眠巧克力、创伤贴布",
+     "url": "https://www.bilibili.com/bangumi/play/ep12787",
+     "time": "2012-03-23T03:01:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 161005,
+   "sort": 13,
+   "name": "きるがみーしてべいべする",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "独杀其身、宝贝天下",
+     "url": "https://www.bilibili.com/bangumi/play/ep12786",
+     "time": "2012-03-30T10:59:00.000Z"
+    }
+   ]
+  }
+ ]
+}

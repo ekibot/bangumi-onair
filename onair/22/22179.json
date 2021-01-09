@@ -1,1 +1,178 @@
-{"id":"22179","name":"ブラック★ロックシューター(TVシリーズ)","sites":[{"site":"bilibili","id":"1665","sort":8},{"site":"qq","id":"8/8ganxjtqlyl3dxp","sort":8}],"eps":[{"id":127734,"sort":1,"name":"あとどれだけ叫べばいいのだろう","sites":[{"site":"bilibili","sort":1,"title":"之后嘶吼到何等程度才好呢","url":"https://www.bilibili.com/bangumi/play/ep30208","time":"2015-01-12T03:10:29.000Z"},{"site":"qq","sort":1,"title":"黑岩射手_01","url":"https://v.qq.com/x/cover/8ganxjtqlyl3dxp/f0034cdhq6q.html"}]},{"id":127735,"sort":2,"name":"夜明けを抱く空","sites":[{"site":"bilibili","sort":2,"title":"怀抱拂晓的天空","url":"https://www.bilibili.com/bangumi/play/ep30209","time":"2015-01-12T03:10:29.000Z"},{"site":"qq","sort":2,"title":"黑岩射手_02","url":"https://v.qq.com/x/cover/8ganxjtqlyl3dxp/m00347b8q8n.html"}]},{"id":127736,"sort":3,"name":"こらえた涙があふれそうなの","sites":[{"site":"bilibili","sort":3,"title":"强忍的泪水就要溢出","url":"https://www.bilibili.com/bangumi/play/ep30210","time":"2015-01-12T03:10:29.000Z"},{"site":"qq","sort":3,"title":"黑岩射手_03","url":"https://v.qq.com/x/cover/8ganxjtqlyl3dxp/e0034axbv54.html"}]},{"id":127737,"sort":4,"name":"いつか夢見た世界が閉じる","sites":[{"site":"bilibili","sort":4,"title":"曾梦见过的世界即将封闭","url":"https://www.bilibili.com/bangumi/play/ep30211","time":"2015-01-12T03:10:29.000Z"},{"site":"qq","sort":4,"title":"黑岩射手_04","url":"https://v.qq.com/x/cover/8ganxjtqlyl3dxp/t0034l43rv7.html"}]},{"id":127738,"sort":5,"name":"ブラック・ロックシューター","sites":[{"site":"bilibili","sort":5,"title":"BLACK★ROCK SHOOTER","url":"https://www.bilibili.com/bangumi/play/ep30212","time":"2015-01-12T03:10:29.000Z"},{"site":"qq","sort":5,"title":"黑岩射手_05","url":"https://v.qq.com/x/cover/8ganxjtqlyl3dxp/m0034mswbi1.html"}]},{"id":127739,"sort":6,"name":"あるはずもないあの時の希望","sites":[{"site":"bilibili","sort":6,"title":"不可能存在的过往希望","url":"https://www.bilibili.com/bangumi/play/ep30213","time":"2015-01-12T03:10:29.000Z"},{"site":"qq","sort":6,"title":"黑岩射手_06","url":"https://v.qq.com/x/cover/8ganxjtqlyl3dxp/b0034ro4jpg.html"}]},{"id":127740,"sort":7,"name":"闇を駆ける星に願いを","sites":[{"site":"bilibili","sort":7,"title":"向划过黑夜的流星许下心愿","url":"https://www.bilibili.com/bangumi/play/ep30214","time":"2015-01-12T03:10:29.000Z"},{"site":"qq","sort":7,"title":"黑岩射手_07","url":"https://v.qq.com/x/cover/8ganxjtqlyl3dxp/g003434v80k.html"}]},{"id":127741,"sort":8,"name":"世界を超えて","sites":[{"site":"bilibili","sort":8,"title":"超越世界","url":"https://www.bilibili.com/bangumi/play/ep30215","time":"2015-01-12T03:10:29.000Z"},{"site":"qq","sort":8,"title":"黑岩射手_08","url":"https://v.qq.com/x/cover/8ganxjtqlyl3dxp/x00347h2rip.html"}]}]}
+{
+ "id": "22179",
+ "name": "ブラック★ロックシューター(TVシリーズ)",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1665",
+   "sort": 8
+  },
+  {
+   "site": "qq",
+   "id": "8/8ganxjtqlyl3dxp",
+   "sort": 8
+  }
+ ],
+ "eps": [
+  {
+   "id": 127734,
+   "sort": 1,
+   "name": "あとどれだけ叫べばいいのだろう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "之后嘶吼到何等程度才好呢",
+     "url": "https://www.bilibili.com/bangumi/play/ep30208",
+     "time": "2015-01-12T03:10:29.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "黑岩射手_01",
+     "url": "https://v.qq.com/x/cover/8ganxjtqlyl3dxp/f0034cdhq6q.html"
+    }
+   ]
+  },
+  {
+   "id": 127735,
+   "sort": 2,
+   "name": "夜明けを抱く空",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "怀抱拂晓的天空",
+     "url": "https://www.bilibili.com/bangumi/play/ep30209",
+     "time": "2015-01-12T03:10:29.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "黑岩射手_02",
+     "url": "https://v.qq.com/x/cover/8ganxjtqlyl3dxp/m00347b8q8n.html"
+    }
+   ]
+  },
+  {
+   "id": 127736,
+   "sort": 3,
+   "name": "こらえた涙があふれそうなの",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "强忍的泪水就要溢出",
+     "url": "https://www.bilibili.com/bangumi/play/ep30210",
+     "time": "2015-01-12T03:10:29.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "黑岩射手_03",
+     "url": "https://v.qq.com/x/cover/8ganxjtqlyl3dxp/e0034axbv54.html"
+    }
+   ]
+  },
+  {
+   "id": 127737,
+   "sort": 4,
+   "name": "いつか夢見た世界が閉じる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "曾梦见过的世界即将封闭",
+     "url": "https://www.bilibili.com/bangumi/play/ep30211",
+     "time": "2015-01-12T03:10:29.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "黑岩射手_04",
+     "url": "https://v.qq.com/x/cover/8ganxjtqlyl3dxp/t0034l43rv7.html"
+    }
+   ]
+  },
+  {
+   "id": 127738,
+   "sort": 5,
+   "name": "ブラック・ロックシューター",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "BLACK★ROCK SHOOTER",
+     "url": "https://www.bilibili.com/bangumi/play/ep30212",
+     "time": "2015-01-12T03:10:29.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "黑岩射手_05",
+     "url": "https://v.qq.com/x/cover/8ganxjtqlyl3dxp/m0034mswbi1.html"
+    }
+   ]
+  },
+  {
+   "id": 127739,
+   "sort": 6,
+   "name": "あるはずもないあの時の希望",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "不可能存在的过往希望",
+     "url": "https://www.bilibili.com/bangumi/play/ep30213",
+     "time": "2015-01-12T03:10:29.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "黑岩射手_06",
+     "url": "https://v.qq.com/x/cover/8ganxjtqlyl3dxp/b0034ro4jpg.html"
+    }
+   ]
+  },
+  {
+   "id": 127740,
+   "sort": 7,
+   "name": "闇を駆ける星に願いを",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "向划过黑夜的流星许下心愿",
+     "url": "https://www.bilibili.com/bangumi/play/ep30214",
+     "time": "2015-01-12T03:10:29.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "黑岩射手_07",
+     "url": "https://v.qq.com/x/cover/8ganxjtqlyl3dxp/g003434v80k.html"
+    }
+   ]
+  },
+  {
+   "id": 127741,
+   "sort": 8,
+   "name": "世界を超えて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "超越世界",
+     "url": "https://www.bilibili.com/bangumi/play/ep30215",
+     "time": "2015-01-12T03:10:29.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "黑岩射手_08",
+     "url": "https://v.qq.com/x/cover/8ganxjtqlyl3dxp/x00347h2rip.html"
+    }
+   ]
+  }
+ ]
+}

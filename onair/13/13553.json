@@ -1,1 +1,39 @@
-{"id":"13553","name":"るろうに剣心 -明治剣客浪漫譚- 星霜編","sites":[{"site":"qq","id":"5/5pat6irkz1zcbem","sort":2}],"eps":[{"id":77933,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"第1话 浪客剑心 星霜篇","url":"http://v.youku.com/v_show/id_XNDc1Nzc0NTQ0.html?from=y1.6-100.3.1.cc004a44962411de83b1"}]},{"id":77934,"sort":2,"name":"","sites":[{"site":"qq","sort":2,"title":"第2话 浪客剑心 星霜篇","url":"http://v.youku.com/v_show/id_XNDc1Nzc4MTI4.html?from=y1.6-100.3.1.cc004a44962411de83b1"}]}]}
+{
+ "id": "13553",
+ "name": "るろうに剣心 -明治剣客浪漫譚- 星霜編",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "5/5pat6irkz1zcbem",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 77933,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第1话 浪客剑心 星霜篇",
+     "url": "http://v.youku.com/v_show/id_XNDc1Nzc0NTQ0.html?from=y1.6-100.3.1.cc004a44962411de83b1"
+    }
+   ]
+  },
+  {
+   "id": 77934,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "第2话 浪客剑心 星霜篇",
+     "url": "http://v.youku.com/v_show/id_XNDc1Nzc4MTI4.html?from=y1.6-100.3.1.cc004a44962411de83b1"
+    }
+   ]
+  }
+ ]
+}

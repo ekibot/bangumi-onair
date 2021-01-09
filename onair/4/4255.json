@@ -1,1 +1,195 @@
-{"id":"4255","name":"WORKING!!","sites":[{"site":"bilibili","id":"866","sort":13}],"eps":[{"id":31351,"sort":1,"name":"ワグナリアへようこそ！ 小鳥遊、働く。","sites":[{"site":"bilibili","sort":1,"title":"欢迎到瓦古娜利亚餐厅打工♪小鸟游。","url":"https://www.bilibili.com/bangumi/play/ep64014","time":"2017-11-15T04:07:00.000Z"}]},{"id":32726,"sort":2,"name":"伊波、男性恐怖症。だって怖いんだもん…","sites":[{"site":"bilibili","sort":2,"title":"伊波、男性恐惧症。因为太恐怖了…","url":"https://www.bilibili.com/bangumi/play/ep64015","time":"2017-11-15T03:53:00.000Z"}]},{"id":32727,"sort":3,"name":"八千代と杏子と佐藤…と、帰ってきた音尾さん","sites":[{"site":"bilibili","sort":3,"title":"八千代与杏子与佐藤…、归来的音尾","url":"https://www.bilibili.com/bangumi/play/ep69586","time":"2017-11-15T02:51:00.000Z"}]},{"id":32728,"sort":4,"name":"相馬、さわやか　すぎる青年","sites":[{"site":"bilibili","sort":4,"title":"相马、清爽过头的青年","url":"https://www.bilibili.com/bangumi/play/ep15550","time":"2017-11-15T03:29:00.000Z"}]},{"id":32729,"sort":5,"name":"ある風邪の日に…、いつもと違うワグナリア","sites":[{"site":"bilibili","sort":5,"title":"感冒的一天…、与平常不一样的瓦古娜利亚","url":"https://www.bilibili.com/bangumi/play/ep15549","time":"2017-11-15T06:33:00.000Z"}]},{"id":32730,"sort":6,"name":"宗太の憂鬱、小鳥遊家の女達","sites":[{"site":"bilibili","sort":6,"title":"宗太的烦恼、小鸟游家的女人们","url":"https://www.bilibili.com/bangumi/play/ep15548","time":"2017-11-15T03:57:00.000Z"}]},{"id":32731,"sort":7,"name":"久しぶりの音尾と、新しいバイト＝山田(!?)","sites":[{"site":"bilibili","sort":7,"title":"好久不见的音尾先生、新来的工读生 山田（！？）","url":"https://www.bilibili.com/bangumi/play/ep15547","time":"2017-11-15T01:25:00.000Z"}]},{"id":32732,"sort":8,"name":"伊波、はじめて？のお・て・か・け！","sites":[{"site":"bilibili","sort":8,"title":"伊波、第一次？走·出·家·门！","url":"https://www.bilibili.com/bangumi/play/ep15546","time":"2017-11-15T00:58:00.000Z"}]},{"id":32733,"sort":9,"name":"ことりちゃん登場！！","sites":[{"site":"bilibili","sort":9,"title":"小鸟酱登场！！","url":"https://www.bilibili.com/bangumi/play/ep15545","time":"2017-11-15T03:46:00.000Z"}]},{"id":32734,"sort":10,"name":"疑惑の真相…、なずな働く。","sites":[{"site":"bilibili","sort":10,"title":"疑惑的真相…、小荠的打工。","url":"https://www.bilibili.com/bangumi/play/ep15544","time":"2017-11-15T03:33:00.000Z"}]},{"id":32735,"sort":11,"name":"あの頃の二人、八千代と佐藤。と、ようこそ小鳥遊家へ","sites":[{"site":"bilibili","sort":11,"title":"那时候的二人、八千代与佐藤。欢迎来到小鸟游家","url":"https://www.bilibili.com/bangumi/play/ep15543","time":"2017-11-14T23:02:00.000Z"}]},{"id":32736,"sort":12,"name":"なぜか!?の決戦前夜。種島の恩返し","sites":[{"site":"bilibili","sort":12,"title":"不知为何！？的决战前夜。种岛的报恩","url":"https://www.bilibili.com/bangumi/play/ep15542","time":"2017-11-15T04:17:00.000Z"}]},{"id":39757,"sort":13,"name":"デートと言う名の&quot;決戦&quot;、小鳥遊と伊波のそれから…","sites":[{"site":"bilibili","sort":13,"title":"名为约会的决战、小鸟游和伊波的今后…","url":"https://www.bilibili.com/bangumi/play/ep15541","time":"2017-11-14T23:06:00.000Z"}]}]}
+{
+ "id": "4255",
+ "name": "WORKING!!",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "866",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 31351,
+   "sort": 1,
+   "name": "ワグナリアへようこそ！ 小鳥遊、働く。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "欢迎到瓦古娜利亚餐厅打工♪小鸟游。",
+     "url": "https://www.bilibili.com/bangumi/play/ep64014",
+     "time": "2017-11-15T04:07:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32726,
+   "sort": 2,
+   "name": "伊波、男性恐怖症。だって怖いんだもん…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "伊波、男性恐惧症。因为太恐怖了…",
+     "url": "https://www.bilibili.com/bangumi/play/ep64015",
+     "time": "2017-11-15T03:53:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32727,
+   "sort": 3,
+   "name": "八千代と杏子と佐藤…と、帰ってきた音尾さん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "八千代与杏子与佐藤…、归来的音尾",
+     "url": "https://www.bilibili.com/bangumi/play/ep69586",
+     "time": "2017-11-15T02:51:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32728,
+   "sort": 4,
+   "name": "相馬、さわやか　すぎる青年",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "相马、清爽过头的青年",
+     "url": "https://www.bilibili.com/bangumi/play/ep15550",
+     "time": "2017-11-15T03:29:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32729,
+   "sort": 5,
+   "name": "ある風邪の日に…、いつもと違うワグナリア",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "感冒的一天…、与平常不一样的瓦古娜利亚",
+     "url": "https://www.bilibili.com/bangumi/play/ep15549",
+     "time": "2017-11-15T06:33:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32730,
+   "sort": 6,
+   "name": "宗太の憂鬱、小鳥遊家の女達",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "宗太的烦恼、小鸟游家的女人们",
+     "url": "https://www.bilibili.com/bangumi/play/ep15548",
+     "time": "2017-11-15T03:57:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32731,
+   "sort": 7,
+   "name": "久しぶりの音尾と、新しいバイト＝山田(!?)",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "好久不见的音尾先生、新来的工读生 山田（！？）",
+     "url": "https://www.bilibili.com/bangumi/play/ep15547",
+     "time": "2017-11-15T01:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32732,
+   "sort": 8,
+   "name": "伊波、はじめて？のお・て・か・け！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "伊波、第一次？走·出·家·门！",
+     "url": "https://www.bilibili.com/bangumi/play/ep15546",
+     "time": "2017-11-15T00:58:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32733,
+   "sort": 9,
+   "name": "ことりちゃん登場！！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "小鸟酱登场！！",
+     "url": "https://www.bilibili.com/bangumi/play/ep15545",
+     "time": "2017-11-15T03:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32734,
+   "sort": 10,
+   "name": "疑惑の真相…、なずな働く。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "疑惑的真相…、小荠的打工。",
+     "url": "https://www.bilibili.com/bangumi/play/ep15544",
+     "time": "2017-11-15T03:33:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32735,
+   "sort": 11,
+   "name": "あの頃の二人、八千代と佐藤。と、ようこそ小鳥遊家へ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "那时候的二人、八千代与佐藤。欢迎来到小鸟游家",
+     "url": "https://www.bilibili.com/bangumi/play/ep15543",
+     "time": "2017-11-14T23:02:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 32736,
+   "sort": 12,
+   "name": "なぜか!?の決戦前夜。種島の恩返し",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "不知为何！？的决战前夜。种岛的报恩",
+     "url": "https://www.bilibili.com/bangumi/play/ep15542",
+     "time": "2017-11-15T04:17:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 39757,
+   "sort": 13,
+   "name": "デートと言う名の&quot;決戦&quot;、小鳥遊と伊波のそれから…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "名为约会的决战、小鸟游和伊波的今后…",
+     "url": "https://www.bilibili.com/bangumi/play/ep15541",
+     "time": "2017-11-14T23:06:00.000Z"
+    }
+   ]
+  }
+ ]
+}

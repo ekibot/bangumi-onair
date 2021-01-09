@@ -1,1 +1,181 @@
-{"id":"192252","name":"異世界食堂","sites":[{"site":"bilibili","id":"6310","sort":12}],"eps":[{"id":728037,"sort":1,"name":"ビーフシチュー／モーニング","sites":[{"site":"bilibili","sort":1,"title":"炖牛肉/早餐","url":"https://www.bilibili.com/bangumi/play/ep113256","time":"2017-07-03T17:35:00.000Z"}]},{"id":728038,"sort":2,"name":"メンチカツ／エビフライ","sites":[{"site":"bilibili","sort":2,"title":"炸肉饼/炸虾","url":"https://www.bilibili.com/bangumi/play/ep113257","time":"2017-07-10T17:35:00.000Z"}]},{"id":728039,"sort":3,"name":"ミートソース／チョコレートパフェ","sites":[{"site":"bilibili","sort":3,"title":"肉酱面/巧克力圣代","url":"https://www.bilibili.com/bangumi/play/ep113258","time":"2017-07-17T17:35:00.000Z"}]},{"id":728040,"sort":4,"name":"オムライス／豆腐ステーキ","sites":[{"site":"bilibili","sort":4,"title":"蛋包饭/豆腐牛排","url":"https://www.bilibili.com/bangumi/play/ep113259","time":"2017-07-24T17:35:00.000Z"}]},{"id":728041,"sort":5,"name":"カツ丼／プリンアラモード","sites":[{"site":"bilibili","sort":5,"title":"炸猪排盖饭 法式水果布丁","url":"https://www.bilibili.com/bangumi/play/ep113260","time":"2017-07-31T17:35:00.000Z"}]},{"id":728042,"sort":6,"name":"サンドウィッチ／じゃがバター","sites":[{"site":"bilibili","sort":6,"title":"三明治/黄油土豆","url":"https://www.bilibili.com/bangumi/play/ep113261","time":"2017-08-07T17:35:00.000Z"}]},{"id":728043,"sort":7,"name":"カレーライス／チキンカレー","sites":[{"site":"bilibili","sort":7,"title":"咖喱饭/咖喱鸡","url":"https://www.bilibili.com/bangumi/play/ep113262","time":"2017-08-14T17:35:00.000Z"}]},{"id":728044,"sort":8,"name":"ハンバーグ／クッキーアソート","sites":[{"site":"bilibili","sort":8,"title":"汉堡肉/什锦曲奇","url":"https://www.bilibili.com/bangumi/play/ep113263","time":"2017-08-21T17:35:00.000Z"}]},{"id":728045,"sort":9,"name":"シーフードフライ／クリームソーダ","sites":[{"site":"bilibili","sort":9,"title":"油炸海鲜/冰淇淋汽水","url":"https://www.bilibili.com/bangumi/play/ep113264","time":"2017-08-28T17:35:00.000Z"}]},{"id":728046,"sort":10,"name":"クレープ／納豆スパ","sites":[{"site":"bilibili","sort":10,"title":"可丽饼\\纳豆意面","url":"https://www.bilibili.com/bangumi/play/ep113265","time":"2017-09-04T17:35:00.000Z"}]},{"id":728047,"sort":11,"name":"カルパッチョ／カレーパン","sites":[{"site":"bilibili","sort":11,"title":"意式生肉片/咖喱面包","url":"https://www.bilibili.com/bangumi/play/ep113266","time":"2017-09-11T17:35:00.000Z"}]},{"id":728048,"sort":12,"name":"とん汁／コロッケ","sites":[{"site":"bilibili","sort":12,"title":"猪肉味增汤/可乐饼","url":"https://www.bilibili.com/bangumi/play/ep113267","time":"2017-09-18T17:35:00.000Z"}]}]}
+{
+ "id": "192252",
+ "name": "異世界食堂",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6310",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 728037,
+   "sort": 1,
+   "name": "ビーフシチュー／モーニング",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "炖牛肉/早餐",
+     "url": "https://www.bilibili.com/bangumi/play/ep113256",
+     "time": "2017-07-03T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728038,
+   "sort": 2,
+   "name": "メンチカツ／エビフライ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "炸肉饼/炸虾",
+     "url": "https://www.bilibili.com/bangumi/play/ep113257",
+     "time": "2017-07-10T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728039,
+   "sort": 3,
+   "name": "ミートソース／チョコレートパフェ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "肉酱面/巧克力圣代",
+     "url": "https://www.bilibili.com/bangumi/play/ep113258",
+     "time": "2017-07-17T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728040,
+   "sort": 4,
+   "name": "オムライス／豆腐ステーキ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "蛋包饭/豆腐牛排",
+     "url": "https://www.bilibili.com/bangumi/play/ep113259",
+     "time": "2017-07-24T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728041,
+   "sort": 5,
+   "name": "カツ丼／プリンアラモード",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "炸猪排盖饭 法式水果布丁",
+     "url": "https://www.bilibili.com/bangumi/play/ep113260",
+     "time": "2017-07-31T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728042,
+   "sort": 6,
+   "name": "サンドウィッチ／じゃがバター",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "三明治/黄油土豆",
+     "url": "https://www.bilibili.com/bangumi/play/ep113261",
+     "time": "2017-08-07T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728043,
+   "sort": 7,
+   "name": "カレーライス／チキンカレー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "咖喱饭/咖喱鸡",
+     "url": "https://www.bilibili.com/bangumi/play/ep113262",
+     "time": "2017-08-14T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728044,
+   "sort": 8,
+   "name": "ハンバーグ／クッキーアソート",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "汉堡肉/什锦曲奇",
+     "url": "https://www.bilibili.com/bangumi/play/ep113263",
+     "time": "2017-08-21T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728045,
+   "sort": 9,
+   "name": "シーフードフライ／クリームソーダ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "油炸海鲜/冰淇淋汽水",
+     "url": "https://www.bilibili.com/bangumi/play/ep113264",
+     "time": "2017-08-28T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728046,
+   "sort": 10,
+   "name": "クレープ／納豆スパ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "可丽饼\\纳豆意面",
+     "url": "https://www.bilibili.com/bangumi/play/ep113265",
+     "time": "2017-09-04T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728047,
+   "sort": 11,
+   "name": "カルパッチョ／カレーパン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "意式生肉片/咖喱面包",
+     "url": "https://www.bilibili.com/bangumi/play/ep113266",
+     "time": "2017-09-11T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728048,
+   "sort": 12,
+   "name": "とん汁／コロッケ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "猪肉味增汤/可乐饼",
+     "url": "https://www.bilibili.com/bangumi/play/ep113267",
+     "time": "2017-09-18T17:35:00.000Z"
+    }
+   ]
+  }
+ ]
+}

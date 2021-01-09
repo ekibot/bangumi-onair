@@ -1,1 +1,181 @@
-{"id":"221490","name":"だがしかし2","sites":[{"site":"bilibili","id":"9052","sort":12}],"eps":[{"id":767835,"sort":1,"name":"ビッグカツとペペロンチーノと...","sites":[{"site":"bilibili","sort":1,"title":"大炸排和辣椒蒜油意大利面","url":"https://www.bilibili.com/bangumi/play/ep183836","time":"2018-01-12T06:00:00.000Z"}]},{"id":767836,"sort":2,"name":"野球盤ガムとポンポン船と…","sites":[{"site":"bilibili","sort":2,"title":"棒球盘口香糖和波波船","url":"https://www.bilibili.com/bangumi/play/ep183837","time":"2018-01-19T07:30:00.000Z"}]},{"id":767837,"sort":3,"name":"ベーゴマと追憶と…","sites":[{"site":"bilibili","sort":3,"title":"海螺陀螺和回忆","url":"https://www.bilibili.com/bangumi/play/ep183838","time":"2018-01-26T07:00:00.000Z"}]},{"id":767838,"sort":4,"name":"ホームランバーと花火大会と…","sites":[{"site":"bilibili","sort":4,"title":"全垒打棒和烟花大会…","url":"https://www.bilibili.com/bangumi/play/ep183839","time":"2018-02-02T06:00:00.000Z"}]},{"id":767839,"sort":5,"name":"救急車とタラタラしてんじゃね～よと…","sites":[{"site":"bilibili","sort":5,"title":"救护车和别唠唠魛魛的","url":"https://www.bilibili.com/bangumi/play/ep183840","time":"2018-02-09T07:00:00.000Z"}]},{"id":767840,"sort":6,"name":"ビニコンと求人情報誌と…","sites":[{"site":"bilibili","sort":6,"title":"便利店和招聘杂志","url":"https://www.bilibili.com/bangumi/play/ep183841","time":"2018-02-16T07:00:00.000Z"}]},{"id":767841,"sort":7,"name":"尾張ハジメとチョコボールと…","sites":[{"site":"bilibili","sort":7,"title":"尾张一和巧克力球","url":"https://www.bilibili.com/bangumi/play/ep183842","time":"2018-02-23T07:00:00.000Z"}]},{"id":767842,"sort":8,"name":"ロールキャンディとハイエイトチョコと…","sites":[{"site":"bilibili","sort":8,"title":"卷卷糖和8形巧克力","url":"https://www.bilibili.com/bangumi/play/ep183843","time":"2018-03-02T07:00:00.000Z"}]},{"id":767843,"sort":9,"name":"インターネッツとスーパーボールと…","sites":[{"site":"bilibili","sort":9,"title":"因特罔和超级弹力球","url":"https://www.bilibili.com/bangumi/play/ep183844","time":"2018-03-09T07:00:00.000Z"}]},{"id":767844,"sort":10,"name":"紋次郎いかと漫画原稿と…","sites":[{"site":"bilibili","sort":10,"title":"纹次郎乌贼干和漫画原稿","url":"https://www.bilibili.com/bangumi/play/ep183845","time":"2018-03-16T07:20:00.000Z"}]},{"id":767845,"sort":11,"name":"ホームランバーの当たり棒と雪と…","sites":[{"site":"bilibili","sort":11,"title":"全垒打棒的中奖棒和雪","url":"https://www.bilibili.com/bangumi/play/ep183846","time":"2018-03-23T07:00:00.000Z"}]},{"id":767846,"sort":12,"name":"ただいまとおかえりと…","sites":[{"site":"bilibili","sort":12,"title":"我回来了和欢迎回来…","url":"https://www.bilibili.com/bangumi/play/ep183847","time":"2018-03-30T07:00:00.000Z"}]}]}
+{
+ "id": "221490",
+ "name": "だがしかし2",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "9052",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 767835,
+   "sort": 1,
+   "name": "ビッグカツとペペロンチーノと...",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "大炸排和辣椒蒜油意大利面",
+     "url": "https://www.bilibili.com/bangumi/play/ep183836",
+     "time": "2018-01-12T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767836,
+   "sort": 2,
+   "name": "野球盤ガムとポンポン船と…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "棒球盘口香糖和波波船",
+     "url": "https://www.bilibili.com/bangumi/play/ep183837",
+     "time": "2018-01-19T07:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767837,
+   "sort": 3,
+   "name": "ベーゴマと追憶と…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "海螺陀螺和回忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep183838",
+     "time": "2018-01-26T07:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767838,
+   "sort": 4,
+   "name": "ホームランバーと花火大会と…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "全垒打棒和烟花大会…",
+     "url": "https://www.bilibili.com/bangumi/play/ep183839",
+     "time": "2018-02-02T06:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767839,
+   "sort": 5,
+   "name": "救急車とタラタラしてんじゃね～よと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "救护车和别唠唠魛魛的",
+     "url": "https://www.bilibili.com/bangumi/play/ep183840",
+     "time": "2018-02-09T07:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767840,
+   "sort": 6,
+   "name": "ビニコンと求人情報誌と…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "便利店和招聘杂志",
+     "url": "https://www.bilibili.com/bangumi/play/ep183841",
+     "time": "2018-02-16T07:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767841,
+   "sort": 7,
+   "name": "尾張ハジメとチョコボールと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "尾张一和巧克力球",
+     "url": "https://www.bilibili.com/bangumi/play/ep183842",
+     "time": "2018-02-23T07:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767842,
+   "sort": 8,
+   "name": "ロールキャンディとハイエイトチョコと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "卷卷糖和8形巧克力",
+     "url": "https://www.bilibili.com/bangumi/play/ep183843",
+     "time": "2018-03-02T07:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767843,
+   "sort": 9,
+   "name": "インターネッツとスーパーボールと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "因特罔和超级弹力球",
+     "url": "https://www.bilibili.com/bangumi/play/ep183844",
+     "time": "2018-03-09T07:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767844,
+   "sort": 10,
+   "name": "紋次郎いかと漫画原稿と…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "纹次郎乌贼干和漫画原稿",
+     "url": "https://www.bilibili.com/bangumi/play/ep183845",
+     "time": "2018-03-16T07:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767845,
+   "sort": 11,
+   "name": "ホームランバーの当たり棒と雪と…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "全垒打棒的中奖棒和雪",
+     "url": "https://www.bilibili.com/bangumi/play/ep183846",
+     "time": "2018-03-23T07:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 767846,
+   "sort": 12,
+   "name": "ただいまとおかえりと…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "我回来了和欢迎回来…",
+     "url": "https://www.bilibili.com/bangumi/play/ep183847",
+     "time": "2018-03-30T07:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

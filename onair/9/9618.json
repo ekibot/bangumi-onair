@@ -1,1 +1,111 @@
-{"id":"9618","name":"星界の戦旗II","sites":[{"site":"bilibili","id":"2165","sort":7}],"eps":[{"id":54906,"sort":1,"name":"狩人作戦","sites":[{"site":"bilibili","sort":1,"title":"星界的战旗Ⅱ01","url":"https://www.bilibili.com/bangumi/play/ep47245","time":"2014-03-13T14:14:05.000Z"}]},{"id":54907,"sort":2,"name":"流刑の星","sites":[{"site":"bilibili","sort":2,"title":"星界的战旗Ⅱ02","url":"https://www.bilibili.com/bangumi/play/ep47246","time":"2014-03-13T14:14:05.000Z"}]},{"id":54908,"sort":3,"name":"移民計画","sites":[{"site":"bilibili","sort":3,"title":"星界的战旗Ⅱ03","url":"https://www.bilibili.com/bangumi/play/ep47247","time":"2014-03-13T14:14:05.000Z"}]},{"id":54909,"sort":4,"name":"狩人たち","sites":[{"site":"bilibili","sort":4,"title":"星界的战旗Ⅱ04","url":"https://www.bilibili.com/bangumi/play/ep47248","time":"2014-03-13T14:14:05.000Z"}]},{"id":54910,"sort":5,"name":"叛乱","sites":[{"site":"bilibili","sort":5,"title":"星界的战旗Ⅱ05","url":"https://www.bilibili.com/bangumi/play/ep47249","time":"2014-03-13T14:14:05.000Z"}]},{"id":54911,"sort":6,"name":"アーヴの地獄","sites":[{"site":"bilibili","sort":6,"title":"星界的战旗Ⅱ番外篇（上篇）","url":"https://www.bilibili.com/bangumi/play/ep47252","time":"2014-03-13T14:14:05.000Z"}]},{"id":54912,"sort":7,"name":"金色烏［ガサルス］の旗","sites":[{"site":"bilibili","sort":7,"title":"星界的战旗Ⅱ番外篇（下篇）","url":"https://www.bilibili.com/bangumi/play/ep47253","time":"2014-03-13T14:14:05.000Z"}]}]}
+{
+ "id": "9618",
+ "name": "星界の戦旗II",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2165",
+   "sort": 7
+  }
+ ],
+ "eps": [
+  {
+   "id": 54906,
+   "sort": 1,
+   "name": "狩人作戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "星界的战旗Ⅱ01",
+     "url": "https://www.bilibili.com/bangumi/play/ep47245",
+     "time": "2014-03-13T14:14:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 54907,
+   "sort": 2,
+   "name": "流刑の星",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "星界的战旗Ⅱ02",
+     "url": "https://www.bilibili.com/bangumi/play/ep47246",
+     "time": "2014-03-13T14:14:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 54908,
+   "sort": 3,
+   "name": "移民計画",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "星界的战旗Ⅱ03",
+     "url": "https://www.bilibili.com/bangumi/play/ep47247",
+     "time": "2014-03-13T14:14:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 54909,
+   "sort": 4,
+   "name": "狩人たち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "星界的战旗Ⅱ04",
+     "url": "https://www.bilibili.com/bangumi/play/ep47248",
+     "time": "2014-03-13T14:14:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 54910,
+   "sort": 5,
+   "name": "叛乱",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "星界的战旗Ⅱ05",
+     "url": "https://www.bilibili.com/bangumi/play/ep47249",
+     "time": "2014-03-13T14:14:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 54911,
+   "sort": 6,
+   "name": "アーヴの地獄",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "星界的战旗Ⅱ番外篇（上篇）",
+     "url": "https://www.bilibili.com/bangumi/play/ep47252",
+     "time": "2014-03-13T14:14:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 54912,
+   "sort": 7,
+   "name": "金色烏［ガサルス］の旗",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "星界的战旗Ⅱ番外篇（下篇）",
+     "url": "https://www.bilibili.com/bangumi/play/ep47253",
+     "time": "2014-03-13T14:14:05.000Z"
+    }
+   ]
+  }
+ ]
+}

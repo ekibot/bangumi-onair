@@ -1,1 +1,181 @@
-{"id":"2329","name":"ななついろ★ドロップス","sites":[{"site":"bilibili","id":"4763","sort":12}],"eps":[{"id":13607,"sort":1,"name":"运命はなにいろ？","sites":[{"site":"bilibili","sort":1,"title":"命运是什么颜色的","url":"https://www.bilibili.com/bangumi/play/ep89731","time":"2016-06-13T09:47:00.000Z"}]},{"id":13608,"sort":2,"name":"あじさい色の记忆","sites":[{"site":"bilibili","sort":2,"title":"紫阳花色的记忆","url":"https://www.bilibili.com/bangumi/play/ep89732","time":"2016-06-13T09:47:00.000Z"}]},{"id":13609,"sort":3,"name":"金いろ愿い星","sites":[{"site":"bilibili","sort":3,"title":"金色的愿望星","url":"https://www.bilibili.com/bangumi/play/ep89733","time":"2016-06-13T09:47:00.000Z"}]},{"id":13610,"sort":4,"name":"夏色のプールサイド","sites":[{"site":"bilibili","sort":4,"title":"夏色的泳池旁","url":"https://www.bilibili.com/bangumi/play/ep89734","time":"2016-06-13T09:47:00.000Z"}]},{"id":13611,"sort":5,"name":"ときめき色の星空","sites":[{"site":"bilibili","sort":5,"title":"如同心跳颜色的星空","url":"https://www.bilibili.com/bangumi/play/ep89735","time":"2016-06-13T09:47:00.000Z"}]},{"id":13612,"sort":6,"name":"やさしさいろの夕焼け","sites":[{"site":"bilibili","sort":6,"title":"美丽颜色的晚霞","url":"https://www.bilibili.com/bangumi/play/ep89736","time":"2016-06-13T09:47:00.000Z"}]},{"id":13613,"sort":7,"name":"はちみつ色のとまどい","sites":[{"site":"bilibili","sort":7,"title":"蜂蜜色的迷茫","url":"https://www.bilibili.com/bangumi/play/ep89737","time":"2016-06-13T09:47:00.000Z"}]},{"id":13614,"sort":8,"name":"幸せいろの翼","sites":[{"site":"bilibili","sort":8,"title":"幸福色的翅膀","url":"https://www.bilibili.com/bangumi/play/ep89738","time":"2016-06-13T09:47:00.000Z"}]},{"id":13615,"sort":9,"name":"かなしみ色はサンドベージュ","sites":[{"site":"bilibili","sort":9,"title":"悲伤的颜色是砂褐色","url":"https://www.bilibili.com/bangumi/play/ep89739","time":"2016-06-13T09:47:00.000Z"}]},{"id":13616,"sort":10,"name":"ぎんいろの満月","sites":[{"site":"bilibili","sort":10,"title":"银色的满月","url":"https://www.bilibili.com/bangumi/play/ep89740","time":"2016-06-13T09:47:00.000Z"}]},{"id":13617,"sort":11,"name":"なみだ色の决心","sites":[{"site":"bilibili","sort":11,"title":"泪珠般颜色的决心","url":"https://www.bilibili.com/bangumi/play/ep89741","time":"2016-06-13T09:47:00.000Z"}]},{"id":13618,"sort":12,"name":"初恋はななついろ","sites":[{"site":"bilibili","sort":12,"title":"初恋是七色的","url":"https://www.bilibili.com/bangumi/play/ep89742","time":"2016-06-13T09:47:00.000Z"}]}]}
+{
+ "id": "2329",
+ "name": "ななついろ★ドロップス",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4763",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 13607,
+   "sort": 1,
+   "name": "运命はなにいろ？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "命运是什么颜色的",
+     "url": "https://www.bilibili.com/bangumi/play/ep89731",
+     "time": "2016-06-13T09:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13608,
+   "sort": 2,
+   "name": "あじさい色の记忆",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "紫阳花色的记忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep89732",
+     "time": "2016-06-13T09:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13609,
+   "sort": 3,
+   "name": "金いろ愿い星",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "金色的愿望星",
+     "url": "https://www.bilibili.com/bangumi/play/ep89733",
+     "time": "2016-06-13T09:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13610,
+   "sort": 4,
+   "name": "夏色のプールサイド",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "夏色的泳池旁",
+     "url": "https://www.bilibili.com/bangumi/play/ep89734",
+     "time": "2016-06-13T09:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13611,
+   "sort": 5,
+   "name": "ときめき色の星空",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "如同心跳颜色的星空",
+     "url": "https://www.bilibili.com/bangumi/play/ep89735",
+     "time": "2016-06-13T09:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13612,
+   "sort": 6,
+   "name": "やさしさいろの夕焼け",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "美丽颜色的晚霞",
+     "url": "https://www.bilibili.com/bangumi/play/ep89736",
+     "time": "2016-06-13T09:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13613,
+   "sort": 7,
+   "name": "はちみつ色のとまどい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "蜂蜜色的迷茫",
+     "url": "https://www.bilibili.com/bangumi/play/ep89737",
+     "time": "2016-06-13T09:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13614,
+   "sort": 8,
+   "name": "幸せいろの翼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "幸福色的翅膀",
+     "url": "https://www.bilibili.com/bangumi/play/ep89738",
+     "time": "2016-06-13T09:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13615,
+   "sort": 9,
+   "name": "かなしみ色はサンドベージュ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "悲伤的颜色是砂褐色",
+     "url": "https://www.bilibili.com/bangumi/play/ep89739",
+     "time": "2016-06-13T09:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13616,
+   "sort": 10,
+   "name": "ぎんいろの満月",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "银色的满月",
+     "url": "https://www.bilibili.com/bangumi/play/ep89740",
+     "time": "2016-06-13T09:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13617,
+   "sort": 11,
+   "name": "なみだ色の决心",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "泪珠般颜色的决心",
+     "url": "https://www.bilibili.com/bangumi/play/ep89741",
+     "time": "2016-06-13T09:47:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 13618,
+   "sort": 12,
+   "name": "初恋はななついろ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "初恋是七色的",
+     "url": "https://www.bilibili.com/bangumi/play/ep89742",
+     "time": "2016-06-13T09:47:00.000Z"
+    }
+   ]
+  }
+ ]
+}

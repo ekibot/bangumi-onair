@@ -1,1 +1,181 @@
-{"id":"9717","name":"魔法少女まどか☆マギカ","sites":[{"site":"bilibili","id":"2539","sort":12}],"eps":[{"id":62733,"sort":1,"name":"夢の中で会った、ような……","sites":[{"site":"bilibili","sort":1,"title":"似乎在梦里见过，那样...","url":"https://www.bilibili.com/bangumi/play/ep63470","time":"2014-08-01T11:15:22.000Z"}]},{"id":62734,"sort":2,"name":"それはとっても嬉しいなって","sites":[{"site":"bilibili","sort":2,"title":"那真是太令人高兴了","url":"https://www.bilibili.com/bangumi/play/ep63471","time":"2014-08-01T11:15:22.000Z"}]},{"id":62735,"sort":3,"name":"もう何も恐くない","sites":[{"site":"bilibili","sort":3,"title":"已经没什么好害怕了","url":"https://www.bilibili.com/bangumi/play/ep63472","time":"2014-08-01T11:15:22.000Z"}]},{"id":62736,"sort":4,"name":"奇跡も、魔法も、あるんだよ","sites":[{"site":"bilibili","sort":4,"title":"奇迹、魔法，都是存在的","url":"https://www.bilibili.com/bangumi/play/ep63473","time":"2014-08-01T11:15:22.000Z"}]},{"id":62737,"sort":5,"name":"後悔なんて あるわけない","sites":[{"site":"bilibili","sort":5,"title":"怎么可能会后悔","url":"https://www.bilibili.com/bangumi/play/ep63474","time":"2014-08-01T11:15:22.000Z"}]},{"id":62738,"sort":6,"name":"こんなの絶対おかしいよ","sites":[{"site":"bilibili","sort":6,"title":"这种事绝对很奇怪啊","url":"https://www.bilibili.com/bangumi/play/ep63475","time":"2014-08-01T11:15:22.000Z"}]},{"id":62739,"sort":7,"name":"本当の気持ちと向き合えますか？","sites":[{"site":"bilibili","sort":7,"title":"你能面对真正的内心吗？","url":"https://www.bilibili.com/bangumi/play/ep63476","time":"2014-08-01T11:15:22.000Z"}]},{"id":62740,"sort":8,"name":"あたしって、ほんとバカ","sites":[{"site":"bilibili","sort":8,"title":"我，真是个笨蛋","url":"https://www.bilibili.com/bangumi/play/ep63477","time":"2014-08-01T11:15:22.000Z"}]},{"id":62741,"sort":9,"name":"そんなの、あたしが許さない","sites":[{"site":"bilibili","sort":9,"title":"那样的事，我绝不容许","url":"https://www.bilibili.com/bangumi/play/ep63478","time":"2014-08-01T11:15:22.000Z"}]},{"id":62742,"sort":10,"name":"もう誰にも頼らない","sites":[{"site":"bilibili","sort":10,"title":"再也不依靠任何人","url":"https://www.bilibili.com/bangumi/play/ep63479","time":"2014-08-01T11:15:22.000Z"}]},{"id":62743,"sort":11,"name":"最後に残った道しるべ","sites":[{"site":"bilibili","sort":11,"title":"最后留下的路标","url":"https://www.bilibili.com/bangumi/play/ep63480","time":"2014-08-01T11:15:22.000Z"}]},{"id":74137,"sort":12,"name":"わたしの、最高の友達","sites":[{"site":"bilibili","sort":12,"title":"我最好的朋友","url":"https://www.bilibili.com/bangumi/play/ep63481","time":"2014-08-01T11:15:22.000Z"}]}]}
+{
+ "id": "9717",
+ "name": "魔法少女まどか☆マギカ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2539",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 62733,
+   "sort": 1,
+   "name": "夢の中で会った、ような……",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "似乎在梦里见过，那样...",
+     "url": "https://www.bilibili.com/bangumi/play/ep63470",
+     "time": "2014-08-01T11:15:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62734,
+   "sort": 2,
+   "name": "それはとっても嬉しいなって",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "那真是太令人高兴了",
+     "url": "https://www.bilibili.com/bangumi/play/ep63471",
+     "time": "2014-08-01T11:15:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62735,
+   "sort": 3,
+   "name": "もう何も恐くない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "已经没什么好害怕了",
+     "url": "https://www.bilibili.com/bangumi/play/ep63472",
+     "time": "2014-08-01T11:15:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62736,
+   "sort": 4,
+   "name": "奇跡も、魔法も、あるんだよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "奇迹、魔法，都是存在的",
+     "url": "https://www.bilibili.com/bangumi/play/ep63473",
+     "time": "2014-08-01T11:15:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62737,
+   "sort": 5,
+   "name": "後悔なんて あるわけない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "怎么可能会后悔",
+     "url": "https://www.bilibili.com/bangumi/play/ep63474",
+     "time": "2014-08-01T11:15:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62738,
+   "sort": 6,
+   "name": "こんなの絶対おかしいよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "这种事绝对很奇怪啊",
+     "url": "https://www.bilibili.com/bangumi/play/ep63475",
+     "time": "2014-08-01T11:15:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62739,
+   "sort": 7,
+   "name": "本当の気持ちと向き合えますか？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "你能面对真正的内心吗？",
+     "url": "https://www.bilibili.com/bangumi/play/ep63476",
+     "time": "2014-08-01T11:15:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62740,
+   "sort": 8,
+   "name": "あたしって、ほんとバカ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "我，真是个笨蛋",
+     "url": "https://www.bilibili.com/bangumi/play/ep63477",
+     "time": "2014-08-01T11:15:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62741,
+   "sort": 9,
+   "name": "そんなの、あたしが許さない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "那样的事，我绝不容许",
+     "url": "https://www.bilibili.com/bangumi/play/ep63478",
+     "time": "2014-08-01T11:15:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62742,
+   "sort": 10,
+   "name": "もう誰にも頼らない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "再也不依靠任何人",
+     "url": "https://www.bilibili.com/bangumi/play/ep63479",
+     "time": "2014-08-01T11:15:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 62743,
+   "sort": 11,
+   "name": "最後に残った道しるべ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "最后留下的路标",
+     "url": "https://www.bilibili.com/bangumi/play/ep63480",
+     "time": "2014-08-01T11:15:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 74137,
+   "sort": 12,
+   "name": "わたしの、最高の友達",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "我最好的朋友",
+     "url": "https://www.bilibili.com/bangumi/play/ep63481",
+     "time": "2014-08-01T11:15:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,27 @@
-{"id":"10613","name":"劇場版 こわれかけのオルゴール","sites":[{"site":"bilibili","id":"5456","sort":2}],"eps":[{"id":388350,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"番外","url":"https://www.bilibili.com/bangumi/play/ep95268","time":"2016-08-18T03:55:29.000Z"}]}]}
+{
+ "id": "10613",
+ "name": "劇場版 こわれかけのオルゴール",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5456",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 388350,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "番外",
+     "url": "https://www.bilibili.com/bangumi/play/ep95268",
+     "time": "2016-08-18T03:55:29.000Z"
+    }
+   ]
+  }
+ ]
+}

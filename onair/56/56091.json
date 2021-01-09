@@ -1,1 +1,195 @@
-{"id":"56091","name":"翠星のガルガンティア","sites":[{"site":"bilibili","id":"445","sort":13}],"eps":[{"id":256243,"sort":1,"name":"漂流者","sites":[{"site":"bilibili","sort":1,"title":"漂流者","url":"https://www.bilibili.com/bangumi/play/ep81266","time":"2015-12-11T07:52:12.000Z"}]},{"id":256244,"sort":2,"name":"始まりの惑星","sites":[{"site":"bilibili","sort":2,"title":"起始的行星","url":"https://www.bilibili.com/bangumi/play/ep81267","time":"2015-12-11T07:52:12.000Z"}]},{"id":256245,"sort":3,"name":"無頼の女帝","sites":[{"site":"bilibili","sort":3,"title":"无赖的女帝","url":"https://www.bilibili.com/bangumi/play/ep81268","time":"2015-12-11T07:52:12.000Z"}]},{"id":256246,"sort":4,"name":"追憶の笛","sites":[{"site":"bilibili","sort":4,"title":"追忆之笛","url":"https://www.bilibili.com/bangumi/play/ep81269","time":"2015-12-11T07:52:12.000Z"}]},{"id":256247,"sort":5,"name":"凪の日","sites":[{"site":"bilibili","sort":5,"title":"无风日","url":"https://www.bilibili.com/bangumi/play/ep81270","time":"2015-12-11T07:52:12.000Z"}]},{"id":256248,"sort":6,"name":"謝肉祭","sites":[{"site":"bilibili","sort":6,"title":"谢肉祭","url":"https://www.bilibili.com/bangumi/play/ep81271","time":"2015-12-11T07:52:12.000Z"}]},{"id":256249,"sort":7,"name":"兵士のさだめ","sites":[{"site":"bilibili","sort":7,"title":"士兵的命运","url":"https://www.bilibili.com/bangumi/play/ep81272","time":"2015-12-11T07:52:12.000Z"}]},{"id":256250,"sort":8,"name":"離別","sites":[{"site":"bilibili","sort":8,"title":"离别","url":"https://www.bilibili.com/bangumi/play/ep81273","time":"2015-12-11T07:52:12.000Z"}]},{"id":256251,"sort":9,"name":"深海の秘密","sites":[{"site":"bilibili","sort":9,"title":"深海的秘密","url":"https://www.bilibili.com/bangumi/play/ep81274","time":"2015-12-11T07:52:12.000Z"}]},{"id":256252,"sort":10,"name":"野望の島","sites":[{"site":"bilibili","sort":10,"title":"野心之岛","url":"https://www.bilibili.com/bangumi/play/ep81275","time":"2015-12-11T07:52:12.000Z"}]},{"id":256253,"sort":11,"name":"恐怖の霸王","sites":[{"site":"bilibili","sort":11,"title":"恐怖的霸王","url":"https://www.bilibili.com/bangumi/play/ep81276","time":"2015-12-11T07:52:12.000Z"}]},{"id":286870,"sort":12,"name":"决断のとき","sites":[{"site":"bilibili","sort":12,"title":"决断的时刻","url":"https://www.bilibili.com/bangumi/play/ep81277","time":"2015-12-11T07:52:12.000Z"}]},{"id":287844,"sort":13,"name":"翠の星の伝说","sites":[{"site":"bilibili","sort":13,"title":"翠星的传说","url":"https://www.bilibili.com/bangumi/play/ep81278","time":"2015-12-11T07:52:12.000Z"}]}]}
+{
+ "id": "56091",
+ "name": "翠星のガルガンティア",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "445",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 256243,
+   "sort": 1,
+   "name": "漂流者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "漂流者",
+     "url": "https://www.bilibili.com/bangumi/play/ep81266",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256244,
+   "sort": 2,
+   "name": "始まりの惑星",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "起始的行星",
+     "url": "https://www.bilibili.com/bangumi/play/ep81267",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256245,
+   "sort": 3,
+   "name": "無頼の女帝",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "无赖的女帝",
+     "url": "https://www.bilibili.com/bangumi/play/ep81268",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256246,
+   "sort": 4,
+   "name": "追憶の笛",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "追忆之笛",
+     "url": "https://www.bilibili.com/bangumi/play/ep81269",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256247,
+   "sort": 5,
+   "name": "凪の日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "无风日",
+     "url": "https://www.bilibili.com/bangumi/play/ep81270",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256248,
+   "sort": 6,
+   "name": "謝肉祭",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "谢肉祭",
+     "url": "https://www.bilibili.com/bangumi/play/ep81271",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256249,
+   "sort": 7,
+   "name": "兵士のさだめ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "士兵的命运",
+     "url": "https://www.bilibili.com/bangumi/play/ep81272",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256250,
+   "sort": 8,
+   "name": "離別",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "离别",
+     "url": "https://www.bilibili.com/bangumi/play/ep81273",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256251,
+   "sort": 9,
+   "name": "深海の秘密",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "深海的秘密",
+     "url": "https://www.bilibili.com/bangumi/play/ep81274",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256252,
+   "sort": 10,
+   "name": "野望の島",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "野心之岛",
+     "url": "https://www.bilibili.com/bangumi/play/ep81275",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 256253,
+   "sort": 11,
+   "name": "恐怖の霸王",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "恐怖的霸王",
+     "url": "https://www.bilibili.com/bangumi/play/ep81276",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 286870,
+   "sort": 12,
+   "name": "决断のとき",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "决断的时刻",
+     "url": "https://www.bilibili.com/bangumi/play/ep81277",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 287844,
+   "sort": 13,
+   "name": "翠の星の伝说",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "翠星的传说",
+     "url": "https://www.bilibili.com/bangumi/play/ep81278",
+     "time": "2015-12-11T07:52:12.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,27 @@
-{"id":"80985","name":"好きっていいなよ。OAD","sites":[{"site":"bilibili","id":"3800","sort":1}],"eps":[{"id":308025,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"只要你说你爱我 OAD","url":"https://www.bilibili.com/bangumi/play/ep86558","time":"2016-04-19T10:05:14.000Z"}]}]}
+{
+ "id": "80985",
+ "name": "好きっていいなよ。OAD",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3800",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 308025,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "只要你说你爱我 OAD",
+     "url": "https://www.bilibili.com/bangumi/play/ep86558",
+     "time": "2016-04-19T10:05:14.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,27 @@
-{"id":"219485","name":"弱虫ペダル Re:GENERATION","sites":[{"site":"bilibili","id":"82772","sort":1}],"eps":[{"id":801060,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep200770","time":"2018-04-11T07:30:00.000Z"}]}]}
+{
+ "id": "219485",
+ "name": "弱虫ペダル Re:GENERATION",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "82772",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 801060,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep200770",
+     "time": "2018-04-11T07:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

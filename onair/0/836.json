@@ -1,1 +1,498 @@
-{"id":"836","name":"藍より青し","sites":[{"site":"qq","id":"u/us1x4gwz0ud1ih0","sort":24},{"site":"bilibili","id":"2018","sort":24}],"eps":[{"id":3540,"sort":1,"name":"縁〜えにし〜","sites":[{"site":"qq","sort":1,"title":"第01话 缘","url":"http://v.youku.com/v_show/id_XNDgwMTA3Mjgw.html"},{"site":"bilibili","sort":1,"title":"姻缘","url":"https://www.bilibili.com/bangumi/play/ep43445","time":"2010-07-19T01:43:55.000Z"}]},{"id":3541,"sort":2,"name":"夕餉〜ゆうげ〜","sites":[{"site":"qq","sort":2,"title":"第02话 夕饷","url":"http://v.youku.com/v_show/id_XNDgwMTA4NjQ4.html"},{"site":"bilibili","sort":2,"title":"晚餐","url":"https://www.bilibili.com/bangumi/play/ep43446","time":"2010-07-19T01:43:55.000Z"}]},{"id":3542,"sort":3,"name":"別離〜わかれ〜","sites":[{"site":"qq","sort":3,"title":"第03话 别离","url":"http://v.youku.com/v_show/id_XNDgwMTE1NjQw.html"},{"site":"bilibili","sort":3,"title":"别离","url":"https://www.bilibili.com/bangumi/play/ep43447","time":"2010-07-19T01:43:55.000Z"}]},{"id":3543,"sort":4,"name":"同棲〜どうせい〜","sites":[{"site":"qq","sort":4,"title":"第04话 同栖","url":"http://v.youku.com/v_show/id_XNDgwMTE4NTgw.html"},{"site":"bilibili","sort":4,"title":"同居","url":"https://www.bilibili.com/bangumi/play/ep43448","time":"2010-07-19T01:43:55.000Z"}]},{"id":3544,"sort":5,"name":"朋友〜ほうゆう〜","sites":[{"site":"qq","sort":5,"title":"第05话 朋友","url":"http://v.youku.com/v_show/id_XNDgwMTE5Nzk2.html"},{"site":"bilibili","sort":5,"title":"朋友","url":"https://www.bilibili.com/bangumi/play/ep43449","time":"2010-07-19T01:43:55.000Z"}]},{"id":3545,"sort":6,"name":"家道〜かどう〜","sites":[{"site":"qq","sort":6,"title":"第06话 家道","url":"http://v.youku.com/v_show/id_XNDgwMTIwNTgw.html"},{"site":"bilibili","sort":6,"title":"家计","url":"https://www.bilibili.com/bangumi/play/ep43450","time":"2010-07-19T01:43:55.000Z"}]},{"id":3546,"sort":7,"name":"幻妖〜げんよう〜","sites":[{"site":"qq","sort":7,"title":"第07话 幻妖","url":"http://v.youku.com/v_show/id_XNDgwMTIxMDY0.html"},{"site":"bilibili","sort":7,"title":"幻妖","url":"https://www.bilibili.com/bangumi/play/ep43451","time":"2010-07-19T01:43:55.000Z"}]},{"id":3547,"sort":8,"name":"愛玩〜あいがん〜","sites":[{"site":"qq","sort":8,"title":"第08话 爱玩","url":"http://v.youku.com/v_show/id_XNDgwMTIxOTIw.html"},{"site":"bilibili","sort":8,"title":"玩赏","url":"https://www.bilibili.com/bangumi/play/ep43452","time":"2010-07-19T01:43:55.000Z"}]},{"id":3548,"sort":9,"name":"一夜〜ひとよ〜","sites":[{"site":"qq","sort":9,"title":"第09话 一夜","url":"http://v.youku.com/v_show/id_XNDgwMTIyNzYw.html"},{"site":"bilibili","sort":9,"title":"一夜","url":"https://www.bilibili.com/bangumi/play/ep43453","time":"2010-07-19T01:43:55.000Z"}]},{"id":3549,"sort":10,"name":"学舎〜まなびや〜","sites":[{"site":"qq","sort":10,"title":"第10话 学舍","url":"http://v.youku.com/v_show/id_XNDgwMTIzNTE2.html"},{"site":"bilibili","sort":10,"title":"校舍","url":"https://www.bilibili.com/bangumi/play/ep43454","time":"2010-07-19T01:43:55.000Z"}]},{"id":3550,"sort":11,"name":"子女〜しじょ〜","sites":[{"site":"qq","sort":11,"title":"第11话 子女","url":"http://v.youku.com/v_show/id_XNDgwMTI0MTc2.html"},{"site":"bilibili","sort":11,"title":"子女","url":"https://www.bilibili.com/bangumi/play/ep43455","time":"2010-07-19T01:43:55.000Z"}]},{"id":3551,"sort":12,"name":"接吻〜せっぷん〜","sites":[{"site":"qq","sort":12,"title":"第12话 接吻","url":"http://v.youku.com/v_show/id_XNDgwMTI1Njg0.html"},{"site":"bilibili","sort":12,"title":"接吻","url":"https://www.bilibili.com/bangumi/play/ep43456","time":"2010-07-19T01:43:55.000Z"}]},{"id":3552,"sort":13,"name":"星祭〜ほしまつり〜","sites":[{"site":"qq","sort":13,"title":"第13话 星祭","url":"http://v.youku.com/v_show/id_XNDgwMTI3MTA4.html"},{"site":"bilibili","sort":13,"title":"星祭","url":"https://www.bilibili.com/bangumi/play/ep43457","time":"2010-07-19T01:43:55.000Z"}]},{"id":3553,"sort":14,"name":"賄〜まかない〜","sites":[{"site":"qq","sort":14,"title":"第14话 贿","url":"http://v.youku.com/v_show/id_XNDgwMTI4MzI0.html"},{"site":"bilibili","sort":14,"title":"管饭人","url":"https://www.bilibili.com/bangumi/play/ep43458","time":"2010-07-19T01:43:55.000Z"}]},{"id":3554,"sort":15,"name":"胸懐〜きょうかい〜","sites":[{"site":"qq","sort":15,"title":"第15话 胸怀","url":"http://v.youku.com/v_show/id_XNDgwMTMwMDA0.html"},{"site":"bilibili","sort":15,"title":"胸怀","url":"https://www.bilibili.com/bangumi/play/ep43459","time":"2010-07-19T01:43:55.000Z"}]},{"id":3555,"sort":16,"name":"渚〜なぎさ〜","sites":[{"site":"qq","sort":16,"title":"第16话 渚","url":"http://v.youku.com/v_show/id_XNDgwMTMwNDg0.html"},{"site":"bilibili","sort":16,"title":"渚","url":"https://www.bilibili.com/bangumi/play/ep43460","time":"2010-07-19T01:43:55.000Z"}]},{"id":3556,"sort":17,"name":"漣〜さざなみ〜","sites":[{"site":"qq","sort":17,"title":"第17话 涟","url":"http://v.youku.com/v_show/id_XNDgwMTMxNTk2.html"},{"site":"bilibili","sort":17,"title":"涟漪","url":"https://www.bilibili.com/bangumi/play/ep43461","time":"2010-07-19T01:43:55.000Z"}]},{"id":3557,"sort":18,"name":"同衾〜どうきん〜","sites":[{"site":"qq","sort":18,"title":"第18话 同衾","url":"http://v.youku.com/v_show/id_XNDgwMTMxOTQw.html"},{"site":"bilibili","sort":18,"title":"同衾","url":"https://www.bilibili.com/bangumi/play/ep43462","time":"2010-07-19T01:43:55.000Z"}]},{"id":3558,"sort":19,"name":"膝枕〜ひざまくら〜","sites":[{"site":"qq","sort":19,"title":"第19话 膝枕","url":"http://v.youku.com/v_show/id_XNDgwMTMyMTgw.html"},{"site":"bilibili","sort":19,"title":"膝枕","url":"https://www.bilibili.com/bangumi/play/ep43463","time":"2010-07-19T01:43:55.000Z"}]},{"id":3559,"sort":20,"name":"癒〜いやし〜","sites":[{"site":"qq","sort":20,"title":"第20话 愈","url":"http://v.youku.com/v_show/id_XNDgwMTMyNDQw.html"},{"site":"bilibili","sort":20,"title":"治愈","url":"https://www.bilibili.com/bangumi/play/ep43464","time":"2010-07-19T01:43:55.000Z"}]},{"id":3560,"sort":21,"name":"風気〜ふうき〜","sites":[{"site":"qq","sort":21,"title":"第21话 风气","url":"http://v.youku.com/v_show/id_XNDgwMTMyOTEy.html"},{"site":"bilibili","sort":21,"title":"风气","url":"https://www.bilibili.com/bangumi/play/ep43465","time":"2010-07-19T01:43:55.000Z"}]},{"id":3561,"sort":22,"name":"帰省〜きせい〜","sites":[{"site":"qq","sort":22,"title":"第22话 回家","url":"http://v.youku.com/v_show/id_XNDgwMTMzMjky.html"},{"site":"bilibili","sort":22,"title":"探亲","url":"https://www.bilibili.com/bangumi/play/ep43466","time":"2010-07-19T01:43:55.000Z"}]},{"id":3562,"sort":23,"name":"決意〜けつい〜","sites":[{"site":"qq","sort":23,"title":"第23话 决意","url":"http://v.youku.com/v_show/id_XNDgwMTMzNjc2.html"},{"site":"bilibili","sort":23,"title":"决意","url":"https://www.bilibili.com/bangumi/play/ep43467","time":"2010-07-19T01:43:55.000Z"}]},{"id":3563,"sort":24,"name":"葵〜あおい〜","sites":[{"site":"qq","sort":24,"title":"第24话 葵","url":"http://v.youku.com/v_show/id_XNDgwMTM0MDk2.html"},{"site":"bilibili","sort":24,"title":"葵","url":"https://www.bilibili.com/bangumi/play/ep43468","time":"2010-07-19T01:43:55.000Z"}]}]}
+{
+ "id": "836",
+ "name": "藍より青し",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "u/us1x4gwz0ud1ih0",
+   "sort": 24
+  },
+  {
+   "site": "bilibili",
+   "id": "2018",
+   "sort": 24
+  }
+ ],
+ "eps": [
+  {
+   "id": 3540,
+   "sort": 1,
+   "name": "縁〜えにし〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第01话 缘",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTA3Mjgw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "姻缘",
+     "url": "https://www.bilibili.com/bangumi/play/ep43445",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3541,
+   "sort": 2,
+   "name": "夕餉〜ゆうげ〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "第02话 夕饷",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTA4NjQ4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "晚餐",
+     "url": "https://www.bilibili.com/bangumi/play/ep43446",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3542,
+   "sort": 3,
+   "name": "別離〜わかれ〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "第03话 别离",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTE1NjQw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "别离",
+     "url": "https://www.bilibili.com/bangumi/play/ep43447",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3543,
+   "sort": 4,
+   "name": "同棲〜どうせい〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "第04话 同栖",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTE4NTgw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "同居",
+     "url": "https://www.bilibili.com/bangumi/play/ep43448",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3544,
+   "sort": 5,
+   "name": "朋友〜ほうゆう〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "第05话 朋友",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTE5Nzk2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "朋友",
+     "url": "https://www.bilibili.com/bangumi/play/ep43449",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3545,
+   "sort": 6,
+   "name": "家道〜かどう〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "第06话 家道",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTIwNTgw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "家计",
+     "url": "https://www.bilibili.com/bangumi/play/ep43450",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3546,
+   "sort": 7,
+   "name": "幻妖〜げんよう〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "第07话 幻妖",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTIxMDY0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "幻妖",
+     "url": "https://www.bilibili.com/bangumi/play/ep43451",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3547,
+   "sort": 8,
+   "name": "愛玩〜あいがん〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "第08话 爱玩",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTIxOTIw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "玩赏",
+     "url": "https://www.bilibili.com/bangumi/play/ep43452",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3548,
+   "sort": 9,
+   "name": "一夜〜ひとよ〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "第09话 一夜",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTIyNzYw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "一夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep43453",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3549,
+   "sort": 10,
+   "name": "学舎〜まなびや〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "第10话 学舍",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTIzNTE2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "校舍",
+     "url": "https://www.bilibili.com/bangumi/play/ep43454",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3550,
+   "sort": 11,
+   "name": "子女〜しじょ〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "第11话 子女",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTI0MTc2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "子女",
+     "url": "https://www.bilibili.com/bangumi/play/ep43455",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3551,
+   "sort": 12,
+   "name": "接吻〜せっぷん〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "第12话 接吻",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTI1Njg0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "接吻",
+     "url": "https://www.bilibili.com/bangumi/play/ep43456",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3552,
+   "sort": 13,
+   "name": "星祭〜ほしまつり〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "第13话 星祭",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTI3MTA4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "星祭",
+     "url": "https://www.bilibili.com/bangumi/play/ep43457",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3553,
+   "sort": 14,
+   "name": "賄〜まかない〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 14,
+     "title": "第14话 贿",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTI4MzI0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "管饭人",
+     "url": "https://www.bilibili.com/bangumi/play/ep43458",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3554,
+   "sort": 15,
+   "name": "胸懐〜きょうかい〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 15,
+     "title": "第15话 胸怀",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTMwMDA0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "胸怀",
+     "url": "https://www.bilibili.com/bangumi/play/ep43459",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3555,
+   "sort": 16,
+   "name": "渚〜なぎさ〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 16,
+     "title": "第16话 渚",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTMwNDg0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "渚",
+     "url": "https://www.bilibili.com/bangumi/play/ep43460",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3556,
+   "sort": 17,
+   "name": "漣〜さざなみ〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 17,
+     "title": "第17话 涟",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTMxNTk2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "涟漪",
+     "url": "https://www.bilibili.com/bangumi/play/ep43461",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3557,
+   "sort": 18,
+   "name": "同衾〜どうきん〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 18,
+     "title": "第18话 同衾",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTMxOTQw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "同衾",
+     "url": "https://www.bilibili.com/bangumi/play/ep43462",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3558,
+   "sort": 19,
+   "name": "膝枕〜ひざまくら〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 19,
+     "title": "第19话 膝枕",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTMyMTgw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "膝枕",
+     "url": "https://www.bilibili.com/bangumi/play/ep43463",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3559,
+   "sort": 20,
+   "name": "癒〜いやし〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 20,
+     "title": "第20话 愈",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTMyNDQw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "治愈",
+     "url": "https://www.bilibili.com/bangumi/play/ep43464",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3560,
+   "sort": 21,
+   "name": "風気〜ふうき〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 21,
+     "title": "第21话 风气",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTMyOTEy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "风气",
+     "url": "https://www.bilibili.com/bangumi/play/ep43465",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3561,
+   "sort": 22,
+   "name": "帰省〜きせい〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 22,
+     "title": "第22话 回家",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTMzMjky.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "探亲",
+     "url": "https://www.bilibili.com/bangumi/play/ep43466",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3562,
+   "sort": 23,
+   "name": "決意〜けつい〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 23,
+     "title": "第23话 决意",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTMzNjc2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "决意",
+     "url": "https://www.bilibili.com/bangumi/play/ep43467",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 3563,
+   "sort": 24,
+   "name": "葵〜あおい〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 24,
+     "title": "第24话 葵",
+     "url": "http://v.youku.com/v_show/id_XNDgwMTM0MDk2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "葵",
+     "url": "https://www.bilibili.com/bangumi/play/ep43468",
+     "time": "2010-07-19T01:43:55.000Z"
+    }
+   ]
+  }
+ ]
+}

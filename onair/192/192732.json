@@ -1,0 +1,31 @@
+{
+ "id": "192732",
+ "name": "名探偵コナン エピソード“ONE” 小さくなった名探偵",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "f67e9992ad3011e6b16e",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "28228779",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 664524,
+   "sort": 1,
+   "name": "名探偵コナン エピソード“ONE” 小さくなった名探偵",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "名侦探柯南 Episode\"ONE\"变小的名侦探",
+     "url": "https://v.youku.com/v_show/id_XMTg2MDg5MTUwOA==.html?s=f67e9992ad3011e6b16e"
+    }
+   ]
+  }
+ ]
+}

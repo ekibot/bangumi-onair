@@ -1,1 +1,270 @@
-{"id":"83868","name":"ばらかもん","sites":[{"site":"iqiyi","id":"a_19rrgif715","sort":12},{"site":"bilibili","id":"4070","sort":12}],"eps":[{"id":410559,"sort":1,"name":"ばらかこどん","sites":[{"site":"iqiyi","sort":1,"title":"元气囝仔 第1集","url":"http://www.iqiyi.com/v_19rrhkotbk.html","time":"2014-07-05T20:50:13.000Z"},{"site":"bilibili","sort":1,"title":"元气囝仔","url":"https://www.bilibili.com/bangumi/play/ep104980","time":"2017-04-28T06:53:16.000Z"}]},{"id":410560,"sort":2,"name":"やかましか","sites":[{"site":"iqiyi","sort":2,"title":"元气囝仔 第2集","url":"http://www.iqiyi.com/v_19rrhj2ze4.html","time":"2014-07-12T20:50:10.000Z"},{"site":"bilibili","sort":2,"title":"聒噪","url":"https://www.bilibili.com/bangumi/play/ep104981","time":"2017-04-28T06:53:16.000Z"}]},{"id":410561,"sort":3,"name":"ひとんもち","sites":[{"site":"iqiyi","sort":3,"title":"元气囝仔 第3集","url":"http://www.iqiyi.com/v_19rrhioro0.html","time":"2014-07-19T20:50:16.000Z"},{"site":"bilibili","sort":3,"title":"庆祝时扔的年糕","url":"https://www.bilibili.com/bangumi/play/ep104982","time":"2017-04-28T06:53:16.000Z"}]},{"id":410562,"sort":4,"name":"しまんおんつぁんどん","sites":[{"site":"iqiyi","sort":4,"title":"元气囝仔 第4集","url":"http://www.iqiyi.com/v_19rrmubo8s.html","time":"2014-07-26T20:50:26.000Z"},{"site":"bilibili","sort":4,"title":"岛上的大叔们","url":"https://www.bilibili.com/bangumi/play/ep104983","time":"2017-04-28T06:53:16.000Z"}]},{"id":410563,"sort":5,"name":"うんにおえぎいっ","sites":[{"site":"iqiyi","sort":5,"title":"元气囝仔 第5集","url":"http://www.iqiyi.com/v_19rrmtx7b4.html","time":"2014-08-02T20:50:12.000Z"},{"site":"bilibili","sort":5,"title":"去海里游泳","url":"https://www.bilibili.com/bangumi/play/ep104984","time":"2017-04-28T06:53:16.000Z"}]},{"id":410564,"sort":6,"name":"よそんもん","sites":[{"site":"iqiyi","sort":6,"title":"元气囝仔 第6集","url":"http://www.iqiyi.com/v_19rrmkirxo.html","time":"2014-08-09T20:55:55.000Z"},{"site":"bilibili","sort":6,"title":"从东京来的家伙们","url":"https://www.bilibili.com/bangumi/play/ep104985","time":"2017-04-28T06:53:16.000Z"}]},{"id":410565,"sort":7,"name":"ひさんいを","sites":[{"site":"iqiyi","sort":7,"title":"元气囝仔 第7集","url":"http://www.iqiyi.com/v_19rrmiu468.html","time":"2014-08-16T20:49:22.000Z"},{"site":"bilibili","sort":7,"title":"高级鱼类","url":"https://www.bilibili.com/bangumi/play/ep104986","time":"2017-04-28T06:53:16.000Z"}]},{"id":410566,"sort":8,"name":"オンデ","sites":[{"site":"iqiyi","sort":8,"title":"元气囝仔 第8集","url":"http://www.iqiyi.com/v_19rrmnf1vc.html","time":"2014-08-23T20:50:10.000Z"},{"site":"bilibili","sort":8,"title":"又叫佛舞","url":"https://www.bilibili.com/bangumi/play/ep104987","time":"2017-04-28T06:53:16.000Z"}]},{"id":410567,"sort":9,"name":"おけがまくっちした","sites":[{"site":"iqiyi","sort":9,"title":"元气囝仔 第9集","url":"http://www.iqiyi.com/v_19rrnfhad0.html","time":"2014-09-06T20:48:32.000Z"},{"site":"bilibili","sort":9,"title":"差点受重伤","url":"https://www.bilibili.com/bangumi/play/ep104988","time":"2017-04-28T06:53:16.000Z"}]},{"id":410568,"sort":10,"name":"だっちいこで","sites":[{"site":"iqiyi","sort":10,"title":"元气囝仔 第10集","url":"http://www.iqiyi.com/v_19rrnf2xvo.html","time":"2014-09-13T20:49:50.000Z"},{"site":"bilibili","sort":10,"title":"大家一起去","url":"https://www.bilibili.com/bangumi/play/ep104989","time":"2017-04-28T06:53:16.000Z"}]},{"id":410569,"sort":11,"name":"東京にいます","sites":[{"site":"iqiyi","sort":11,"title":"元气囝仔 第11集","url":"http://www.iqiyi.com/v_19rrncpk0s.html","time":"2014-09-20T20:49:27.000Z"},{"site":"bilibili","sort":11,"title":"人在东京","url":"https://www.bilibili.com/bangumi/play/ep104990","time":"2017-04-28T06:53:16.000Z"}]},{"id":410570,"sort":12,"name":"かえってきてうりしか","sites":[{"site":"iqiyi","sort":12,"title":"元气囝仔 第12集","url":"http://www.iqiyi.com/v_19rrnb4gqs.html","time":"2014-09-27T20:49:30.000Z"},{"site":"bilibili","sort":12,"title":"老师回来了好开心","url":"https://www.bilibili.com/bangumi/play/ep104991","time":"2017-04-28T06:53:16.000Z"}]}]}
+{
+ "id": "83868",
+ "name": "ばらかもん",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrgif715",
+   "sort": 12
+  },
+  {
+   "site": "bilibili",
+   "id": "4070",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 410559,
+   "sort": 1,
+   "name": "ばらかこどん",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "元气囝仔 第1集",
+     "url": "http://www.iqiyi.com/v_19rrhkotbk.html",
+     "time": "2014-07-05T20:50:13.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "元气囝仔",
+     "url": "https://www.bilibili.com/bangumi/play/ep104980",
+     "time": "2017-04-28T06:53:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410560,
+   "sort": 2,
+   "name": "やかましか",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "元气囝仔 第2集",
+     "url": "http://www.iqiyi.com/v_19rrhj2ze4.html",
+     "time": "2014-07-12T20:50:10.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "聒噪",
+     "url": "https://www.bilibili.com/bangumi/play/ep104981",
+     "time": "2017-04-28T06:53:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410561,
+   "sort": 3,
+   "name": "ひとんもち",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "元气囝仔 第3集",
+     "url": "http://www.iqiyi.com/v_19rrhioro0.html",
+     "time": "2014-07-19T20:50:16.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "庆祝时扔的年糕",
+     "url": "https://www.bilibili.com/bangumi/play/ep104982",
+     "time": "2017-04-28T06:53:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410562,
+   "sort": 4,
+   "name": "しまんおんつぁんどん",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "元气囝仔 第4集",
+     "url": "http://www.iqiyi.com/v_19rrmubo8s.html",
+     "time": "2014-07-26T20:50:26.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "岛上的大叔们",
+     "url": "https://www.bilibili.com/bangumi/play/ep104983",
+     "time": "2017-04-28T06:53:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410563,
+   "sort": 5,
+   "name": "うんにおえぎいっ",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "元气囝仔 第5集",
+     "url": "http://www.iqiyi.com/v_19rrmtx7b4.html",
+     "time": "2014-08-02T20:50:12.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "去海里游泳",
+     "url": "https://www.bilibili.com/bangumi/play/ep104984",
+     "time": "2017-04-28T06:53:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410564,
+   "sort": 6,
+   "name": "よそんもん",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "元气囝仔 第6集",
+     "url": "http://www.iqiyi.com/v_19rrmkirxo.html",
+     "time": "2014-08-09T20:55:55.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "从东京来的家伙们",
+     "url": "https://www.bilibili.com/bangumi/play/ep104985",
+     "time": "2017-04-28T06:53:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410565,
+   "sort": 7,
+   "name": "ひさんいを",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "元气囝仔 第7集",
+     "url": "http://www.iqiyi.com/v_19rrmiu468.html",
+     "time": "2014-08-16T20:49:22.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "高级鱼类",
+     "url": "https://www.bilibili.com/bangumi/play/ep104986",
+     "time": "2017-04-28T06:53:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410566,
+   "sort": 8,
+   "name": "オンデ",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "元气囝仔 第8集",
+     "url": "http://www.iqiyi.com/v_19rrmnf1vc.html",
+     "time": "2014-08-23T20:50:10.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "又叫佛舞",
+     "url": "https://www.bilibili.com/bangumi/play/ep104987",
+     "time": "2017-04-28T06:53:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410567,
+   "sort": 9,
+   "name": "おけがまくっちした",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "元气囝仔 第9集",
+     "url": "http://www.iqiyi.com/v_19rrnfhad0.html",
+     "time": "2014-09-06T20:48:32.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "差点受重伤",
+     "url": "https://www.bilibili.com/bangumi/play/ep104988",
+     "time": "2017-04-28T06:53:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410568,
+   "sort": 10,
+   "name": "だっちいこで",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "元气囝仔 第10集",
+     "url": "http://www.iqiyi.com/v_19rrnf2xvo.html",
+     "time": "2014-09-13T20:49:50.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "大家一起去",
+     "url": "https://www.bilibili.com/bangumi/play/ep104989",
+     "time": "2017-04-28T06:53:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410569,
+   "sort": 11,
+   "name": "東京にいます",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "元气囝仔 第11集",
+     "url": "http://www.iqiyi.com/v_19rrncpk0s.html",
+     "time": "2014-09-20T20:49:27.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "人在东京",
+     "url": "https://www.bilibili.com/bangumi/play/ep104990",
+     "time": "2017-04-28T06:53:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 410570,
+   "sort": 12,
+   "name": "かえってきてうりしか",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "元气囝仔 第12集",
+     "url": "http://www.iqiyi.com/v_19rrnb4gqs.html",
+     "time": "2014-09-27T20:49:30.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "老师回来了好开心",
+     "url": "https://www.bilibili.com/bangumi/play/ep104991",
+     "time": "2017-04-28T06:53:16.000Z"
+    }
+   ]
+  }
+ ]
+}

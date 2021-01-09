@@ -1,1 +1,27 @@
-{"id":"184057","name":"オーバーロード OAD","sites":[{"site":"bilibili","id":"5584","sort":1}],"eps":[{"id":639450,"sort":1,"name":"なざりっく最大の危機","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep96762","time":"2016-10-10T02:21:02.000Z"}]}]}
+{
+ "id": "184057",
+ "name": "オーバーロード OAD",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5584",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 639450,
+   "sort": 1,
+   "name": "なざりっく最大の危機",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep96762",
+     "time": "2016-10-10T02:21:00.000Z"
+    }
+   ]
+  }
+ ]
+}

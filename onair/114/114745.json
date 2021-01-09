@@ -1,0 +1,31 @@
+{
+ "id": "114745",
+ "name": "江戸川コナン失踪事件～史上最悪の二日間～",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "19cdb31a81c911e5b0dc",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "28228778",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 435123,
+   "sort": 1,
+   "name": "江戸川コナン失踪事件 ～史上最悪の二日間～",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "名侦探柯南 江户川柯南失踪事件 史上最糟糕的两天",
+     "url": "https://v.youku.com/v_show/id_XMjg4MzEyMzMyNA==.html?s=19cdb31a81c911e5b0dc"
+    }
+   ]
+  }
+ ]
+}

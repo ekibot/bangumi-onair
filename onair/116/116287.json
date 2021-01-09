@@ -1,1 +1,182 @@
-{"id":"116287","name":"ダンジョンに出会いを求めるのは間違っているだろうか","sites":[{"site":"qq","id":"r/re90b178rfe6z5a","sort":14}],"eps":[{"id":512657,"sort":1,"name":"冒険者（ベル・クラネル）","sites":[{"site":"qq","sort":1,"title":"在地下城寻求邂逅是否搞错了什么_01","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/d0034phbyei.html"}]},{"id":512658,"sort":2,"name":"怪物祭（モンスターフィリア）","sites":[{"site":"qq","sort":2,"title":"在地下城寻求邂逅是否搞错了什么_02","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/j0034o0k818.html"}]},{"id":512659,"sort":3,"name":"神様の刃（へスティア・ナイフ）","sites":[{"site":"qq","sort":3,"title":"在地下城寻求邂逅是否搞错了什么_03","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/w0034u5z9k7.html"}]},{"id":512660,"sort":4,"name":"弱者（サポーター）","sites":[{"site":"qq","sort":4,"title":"在地下城寻求邂逅是否搞错了什么_04","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/h0034ykypht.html"}]},{"id":512661,"sort":5,"name":"魔導書（グリモア）","sites":[{"site":"qq","sort":5,"title":"在地下城寻求邂逅是否搞错了什么_05","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/y0034phz58z.html"}]},{"id":512662,"sort":6,"name":"理由（リリルカ・アーデ）","sites":[{"site":"qq","sort":6,"title":"在地下城寻求邂逅是否搞错了什么_06","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/e0034rxllvk.html"}]},{"id":512663,"sort":7,"name":"剣姫（アイズ・ヴァレンシュタイン）","sites":[{"site":"qq","sort":7,"title":"在地下城寻求邂逅是否搞错了什么_07","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/d0034vm3tpj.html"}]},{"id":512664,"sort":8,"name":"英雄願望（アルゴノゥト）","sites":[{"site":"qq","sort":8,"title":"在地下城寻求邂逅是否搞错了什么_08","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/j0034gbsata.html"}]},{"id":512665,"sort":9,"name":"鍛冶師（ヴェルフ・クロッゾ）","sites":[{"site":"qq","sort":9,"title":"在地下城寻求邂逅是否搞错了什么_09","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/k0034pci54b.html"}]},{"id":512666,"sort":10,"name":"怪物進呈（パス・パレード）","sites":[{"site":"qq","sort":10,"title":"在地下城寻求邂逅是否搞错了什么_10","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/o0034uqting.html"}]},{"id":512667,"sort":11,"name":"迷宮の楽園（アンダーリゾート）","sites":[{"site":"qq","sort":11,"title":"在地下城寻求邂逅是否搞错了什么_11","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/u0034pbss4k.html"}]},{"id":512668,"sort":12,"name":"悪意（ショー）","sites":[{"site":"qq","sort":12,"title":"在地下城寻求邂逅是否搞错了什么_12","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/v0034lwvvcx.html"}]},{"id":537258,"sort":13,"name":"眷族の物語（ファミリア・ミィス）","sites":[{"site":"qq","sort":13,"title":"在地下城寻求邂逅是否搞错了什么_13","url":"https://v.qq.com/x/cover/re90b178rfe6z5a/n00343kirn3.html"}]}]}
+{
+ "id": "116287",
+ "name": "ダンジョンに出会いを求めるのは間違っているだろうか",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "r/re90b178rfe6z5a",
+   "sort": 14
+  }
+ ],
+ "eps": [
+  {
+   "id": 512657,
+   "sort": 1,
+   "name": "冒険者（ベル・クラネル）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "在地下城寻求邂逅是否搞错了什么_01",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/d0034phbyei.html"
+    }
+   ]
+  },
+  {
+   "id": 512658,
+   "sort": 2,
+   "name": "怪物祭（モンスターフィリア）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "在地下城寻求邂逅是否搞错了什么_02",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/j0034o0k818.html"
+    }
+   ]
+  },
+  {
+   "id": 512659,
+   "sort": 3,
+   "name": "神様の刃（へスティア・ナイフ）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "在地下城寻求邂逅是否搞错了什么_03",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/w0034u5z9k7.html"
+    }
+   ]
+  },
+  {
+   "id": 512660,
+   "sort": 4,
+   "name": "弱者（サポーター）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "在地下城寻求邂逅是否搞错了什么_04",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/h0034ykypht.html"
+    }
+   ]
+  },
+  {
+   "id": 512661,
+   "sort": 5,
+   "name": "魔導書（グリモア）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "在地下城寻求邂逅是否搞错了什么_05",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/y0034phz58z.html"
+    }
+   ]
+  },
+  {
+   "id": 512662,
+   "sort": 6,
+   "name": "理由（リリルカ・アーデ）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "在地下城寻求邂逅是否搞错了什么_06",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/e0034rxllvk.html"
+    }
+   ]
+  },
+  {
+   "id": 512663,
+   "sort": 7,
+   "name": "剣姫（アイズ・ヴァレンシュタイン）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "在地下城寻求邂逅是否搞错了什么_07",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/d0034vm3tpj.html"
+    }
+   ]
+  },
+  {
+   "id": 512664,
+   "sort": 8,
+   "name": "英雄願望（アルゴノゥト）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "在地下城寻求邂逅是否搞错了什么_08",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/j0034gbsata.html"
+    }
+   ]
+  },
+  {
+   "id": 512665,
+   "sort": 9,
+   "name": "鍛冶師（ヴェルフ・クロッゾ）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "在地下城寻求邂逅是否搞错了什么_09",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/k0034pci54b.html"
+    }
+   ]
+  },
+  {
+   "id": 512666,
+   "sort": 10,
+   "name": "怪物進呈（パス・パレード）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "在地下城寻求邂逅是否搞错了什么_10",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/o0034uqting.html"
+    }
+   ]
+  },
+  {
+   "id": 512667,
+   "sort": 11,
+   "name": "迷宮の楽園（アンダーリゾート）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "在地下城寻求邂逅是否搞错了什么_11",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/u0034pbss4k.html"
+    }
+   ]
+  },
+  {
+   "id": 512668,
+   "sort": 12,
+   "name": "悪意（ショー）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "在地下城寻求邂逅是否搞错了什么_12",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/v0034lwvvcx.html"
+    }
+   ]
+  },
+  {
+   "id": 537258,
+   "sort": 13,
+   "name": "眷族の物語（ファミリア・ミィス）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "在地下城寻求邂逅是否搞错了什么_13",
+     "url": "https://v.qq.com/x/cover/re90b178rfe6z5a/n00343kirn3.html"
+    }
+   ]
+  }
+ ]
+}

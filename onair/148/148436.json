@@ -1,1 +1,125 @@
-{"id":"148436","name":"アルスラーン戦記 風塵乱舞","sites":[{"site":"bilibili","id":"5021","sort":8}],"eps":[{"id":635222,"sort":1,"name":"トゥラーン軍侵攻","sites":[{"site":"bilibili","sort":1,"title":"特兰军进犯","url":"https://www.bilibili.com/bangumi/play/ep90828","time":"2016-07-03T16:00:02.000Z"}]},{"id":635223,"sort":2,"name":"王者対覇者","sites":[{"site":"bilibili","sort":2,"title":"王者对霸者","url":"https://www.bilibili.com/bangumi/play/ep90973","time":"2016-07-10T16:00:01.000Z"}]},{"id":635224,"sort":3,"name":"征馬孤影","sites":[{"site":"bilibili","sort":3,"title":"征马孤影","url":"https://www.bilibili.com/bangumi/play/ep90974","time":"2016-07-17T16:00:01.000Z"}]},{"id":635225,"sort":4,"name":"陸の都と水の都と","sites":[{"site":"bilibili","sort":4,"title":"陆地之都与水之都","url":"https://www.bilibili.com/bangumi/play/ep90975","time":"2016-07-24T16:00:02.000Z"}]},{"id":635226,"sort":5,"name":"決別","sites":[{"site":"bilibili","sort":5,"title":"诀别","url":"https://www.bilibili.com/bangumi/play/ep90976","time":"2016-07-31T16:00:01.000Z"}]},{"id":635227,"sort":6,"name":"列王の災難","sites":[{"site":"bilibili","sort":6,"title":"列王之灾","url":"https://www.bilibili.com/bangumi/play/ep90977","time":"2016-08-07T16:00:01.000Z"}]},{"id":635228,"sort":7,"name":"虹の都","sites":[{"site":"bilibili","sort":7,"title":"彩虹之港","url":"https://www.bilibili.com/bangumi/play/ep90978","time":"2016-08-14T16:00:10.000Z"}]},{"id":635229,"sort":8,"name":"風塵乱舞","sites":[{"site":"bilibili","sort":8,"title":"风尘乱舞","url":"https://www.bilibili.com/bangumi/play/ep90979","time":"2016-08-21T20:00:10.000Z"}]}]}
+{
+ "id": "148436",
+ "name": "アルスラーン戦記 風塵乱舞",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5021",
+   "sort": 8
+  }
+ ],
+ "eps": [
+  {
+   "id": 635222,
+   "sort": 1,
+   "name": "トゥラーン軍侵攻",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "特兰军进犯",
+     "url": "https://www.bilibili.com/bangumi/play/ep90828",
+     "time": "2016-07-03T16:00:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 635223,
+   "sort": 2,
+   "name": "王者対覇者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "王者对霸者",
+     "url": "https://www.bilibili.com/bangumi/play/ep90973",
+     "time": "2016-07-10T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 635224,
+   "sort": 3,
+   "name": "征馬孤影",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "征马孤影",
+     "url": "https://www.bilibili.com/bangumi/play/ep90974",
+     "time": "2016-07-17T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 635225,
+   "sort": 4,
+   "name": "陸の都と水の都と",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "陆地之都与水之都",
+     "url": "https://www.bilibili.com/bangumi/play/ep90975",
+     "time": "2016-07-24T16:00:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 635226,
+   "sort": 5,
+   "name": "決別",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "诀别",
+     "url": "https://www.bilibili.com/bangumi/play/ep90976",
+     "time": "2016-07-31T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 635227,
+   "sort": 6,
+   "name": "列王の災難",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "列王之灾",
+     "url": "https://www.bilibili.com/bangumi/play/ep90977",
+     "time": "2016-08-07T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 635228,
+   "sort": 7,
+   "name": "虹の都",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "彩虹之港",
+     "url": "https://www.bilibili.com/bangumi/play/ep90978",
+     "time": "2016-08-14T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 635229,
+   "sort": 8,
+   "name": "風塵乱舞",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "风尘乱舞",
+     "url": "https://www.bilibili.com/bangumi/play/ep90979",
+     "time": "2016-08-21T20:00:10.000Z"
+    }
+   ]
+  }
+ ]
+}

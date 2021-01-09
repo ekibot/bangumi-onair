@@ -1,1 +1,91 @@
-{"id":"1015","name":"機動戦士ガンダム0080 ポケットの中の戦争","sites":[{"site":"qq","id":"h/hyeg0kuopccwl8b","sort":6}],"eps":[{"id":1787,"sort":1,"name":"戦場までは何マイル？","sites":[{"site":"qq","sort":1,"title":"第1集","url":"http://vod.kankan.com/v/48/48222/57283.shtml?id=731101"}]},{"id":1789,"sort":2,"name":"茶色の瞳に映るもの","sites":[{"site":"qq","sort":2,"title":"第02集","url":"http://vod.kankan.com/v/48/48222/57284.shtml?id=731101"}]},{"id":1790,"sort":3,"name":"虹の果てには？","sites":[{"site":"qq","sort":3,"title":"第03集","url":"http://vod.kankan.com/v/48/48222/57286.shtml?id=731101"}]},{"id":1791,"sort":4,"name":"河を渡って木立を抜けて","sites":[{"site":"qq","sort":4,"title":"第04集","url":"http://vod.kankan.com/v/48/48222/57288.shtml?id=731101"}]},{"id":1792,"sort":5,"name":"嘘だといってよ、バーニィ","sites":[{"site":"qq","sort":5,"title":"第05集","url":"http://vod.kankan.com/v/48/48222/57290.shtml?id=731101"}]},{"id":1793,"sort":6,"name":"ポケットの中の戦争","sites":[{"site":"qq","sort":6,"title":"第06集","url":"http://vod.kankan.com/v/48/48222/57292.shtml?id=731101"}]}]}
+{
+ "id": "1015",
+ "name": "機動戦士ガンダム0080 ポケットの中の戦争",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "h/hyeg0kuopccwl8b",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 1787,
+   "sort": 1,
+   "name": "戦場までは何マイル？",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "01／离战场还有几英里？／戦場までは何マイル？",
+     "url": "http://www.bilibili.com/video/av14115740"
+    }
+   ]
+  },
+  {
+   "id": 1789,
+   "sort": 2,
+   "name": "茶色の瞳に映るもの",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "02／茶色瞳孔中映出的景象／茶色の瞳に映るもの",
+     "url": "http://www.bilibili.com/video/av14115740/index_2.html"
+    }
+   ]
+  },
+  {
+   "id": 1790,
+   "sort": 3,
+   "name": "虹の果てには？",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "03／彩虹的尽头有什么？／虹の果てには？",
+     "url": "http://www.bilibili.com/video/av14115740/index_3.html"
+    }
+   ]
+  },
+  {
+   "id": 1791,
+   "sort": 4,
+   "name": "河を渡って木立を抜けて",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "04／渡过河流 穿越树林／河を渡って木立を抜けて",
+     "url": "http://www.bilibili.com/video/av14115740/index_4.html"
+    }
+   ]
+  },
+  {
+   "id": 1792,
+   "sort": 5,
+   "name": "嘘だといってよ、バーニィ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "05／你在说谎，巴尼／嘘だといってよ",
+     "url": "http://www.bilibili.com/video/av14115740/index_5.html"
+    }
+   ]
+  },
+  {
+   "id": 1793,
+   "sort": 6,
+   "name": "ポケットの中の戦争",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "6",
+     "url": "http://www.bilibili.com/video/av21567259/"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,181 @@
-{"id":"246915","name":"推しが武道館いってくれたら死ぬ","sites":[{"site":"bilibili","id":"28224129","sort":13}],"eps":[{"id":908435,"sort":1,"name":"そんな舞菜を愛してろ","sites":[{"site":"bilibili","sort":1,"title":"爱着这样的舞菜","url":"https://www.bilibili.com/bangumi/play/ep307211","time":"2020-01-10T07:30:00.000Z"}]},{"id":908436,"sort":2,"name":"いちばん好きでいたい","sites":[{"site":"bilibili","sort":2,"title":"想成为最喜欢的","url":"https://www.bilibili.com/bangumi/play/ep307212","time":"2020-01-17T07:30:00.000Z"}]},{"id":908437,"sort":3,"name":"わたしのこと好きですか？","sites":[{"site":"bilibili","sort":3,"title":"你喜欢我吗?","url":"https://www.bilibili.com/bangumi/play/ep307213","time":"2020-01-24T07:30:00.000Z"}]},{"id":908438,"sort":4,"name":"絶対、1位にするから","sites":[{"site":"bilibili","sort":4,"title":"一定会 让你第一的","url":"https://www.bilibili.com/bangumi/play/ep307214","time":"2020-01-31T07:30:00.000Z"}]},{"id":908439,"sort":5,"name":"わたしは待つことしかできない","sites":[{"site":"bilibili","sort":5,"title":"我只能等待","url":"https://www.bilibili.com/bangumi/play/ep307215","time":"2020-02-07T07:33:12.000Z"}]},{"id":908440,"sort":6,"name":"ぼくの全てが君だった","sites":[{"site":"bilibili","sort":6,"title":"你曾是我的全部","url":"https://www.bilibili.com/bangumi/play/ep307216","time":"2020-02-14T07:30:00.000Z"}]},{"id":908441,"sort":7,"name":"舞菜のために走るんだ","sites":[{"site":"bilibili","sort":7,"title":"为了舞菜而奔走","url":"https://www.bilibili.com/bangumi/play/ep307217","time":"2020-02-21T07:30:00.000Z"}]},{"id":908442,"sort":8,"name":"わたしの未来にいてほしい","sites":[{"site":"bilibili","sort":8,"title":"希望能在我的未来中","url":"https://www.bilibili.com/bangumi/play/ep307218","time":"2020-02-28T07:30:00.000Z"}]},{"id":908443,"sort":9,"name":"オタクじゃなく一人の人間として","sites":[{"site":"bilibili","sort":9,"title":"并非作为宅而是作为一个人","url":"https://www.bilibili.com/bangumi/play/ep307219","time":"2020-03-06T07:30:00.000Z"}]},{"id":908444,"sort":10,"name":"推しは友達じゃないから","sites":[{"site":"bilibili","sort":10,"title":"推不是朋友","url":"https://www.bilibili.com/bangumi/play/ep307220","time":"2020-03-13T07:30:00.000Z"}]},{"id":908445,"sort":11,"name":"いちばん、身近にある奇跡","sites":[{"site":"bilibili","sort":11,"title":"最身边的奇迹","url":"https://www.bilibili.com/bangumi/play/ep307221","time":"2020-03-20T07:30:00.000Z"}]},{"id":908446,"sort":12,"name":"推しが武道館いってくれたら","sites":[{"site":"bilibili","sort":12,"title":"推能去到武道馆的话","url":"https://www.bilibili.com/bangumi/play/ep307222","time":"2020-03-27T07:30:00.000Z"}]}]}
+{
+ "id": "246915",
+ "name": "推しが武道館いってくれたら死ぬ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28224129",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 908435,
+   "sort": 1,
+   "name": "そんな舞菜を愛してろ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "爱着这样的舞菜",
+     "url": "https://www.bilibili.com/bangumi/play/ep307211",
+     "time": "2020-01-10T07:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 908436,
+   "sort": 2,
+   "name": "いちばん好きでいたい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "想成为最喜欢的",
+     "url": "https://www.bilibili.com/bangumi/play/ep307212",
+     "time": "2020-01-17T07:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 908437,
+   "sort": 3,
+   "name": "わたしのこと好きですか？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "你喜欢我吗?",
+     "url": "https://www.bilibili.com/bangumi/play/ep307213",
+     "time": "2020-01-24T07:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 908438,
+   "sort": 4,
+   "name": "絶対、1位にするから",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "一定会 让你第一的",
+     "url": "https://www.bilibili.com/bangumi/play/ep307214",
+     "time": "2020-01-31T07:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 908439,
+   "sort": 5,
+   "name": "わたしは待つことしかできない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "我只能等待",
+     "url": "https://www.bilibili.com/bangumi/play/ep307215",
+     "time": "2020-02-07T07:33:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 908440,
+   "sort": 6,
+   "name": "ぼくの全てが君だった",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "你曾是我的全部",
+     "url": "https://www.bilibili.com/bangumi/play/ep307216",
+     "time": "2020-02-14T07:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 908441,
+   "sort": 7,
+   "name": "舞菜のために走るんだ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "为了舞菜而奔走",
+     "url": "https://www.bilibili.com/bangumi/play/ep307217",
+     "time": "2020-02-21T07:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 908442,
+   "sort": 8,
+   "name": "わたしの未来にいてほしい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "希望能在我的未来中",
+     "url": "https://www.bilibili.com/bangumi/play/ep307218",
+     "time": "2020-02-28T07:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 908443,
+   "sort": 9,
+   "name": "オタクじゃなく一人の人間として",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "并非作为宅而是作为一个人",
+     "url": "https://www.bilibili.com/bangumi/play/ep307219",
+     "time": "2020-03-06T07:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 908444,
+   "sort": 10,
+   "name": "推しは友達じゃないから",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "推不是朋友",
+     "url": "https://www.bilibili.com/bangumi/play/ep307220",
+     "time": "2020-03-13T07:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 908445,
+   "sort": 11,
+   "name": "いちばん、身近にある奇跡",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "最身边的奇迹",
+     "url": "https://www.bilibili.com/bangumi/play/ep307221",
+     "time": "2020-03-20T07:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 908446,
+   "sort": 12,
+   "name": "推しが武道館いってくれたら",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "推能去到武道馆的话",
+     "url": "https://www.bilibili.com/bangumi/play/ep307222",
+     "time": "2020-03-27T07:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

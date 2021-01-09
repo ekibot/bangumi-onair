@@ -1,1 +1,27 @@
-{"id":"49314","name":"ルパン三世 Master File","sites":[{"site":"bilibili","id":"3938","sort":1}],"eps":[{"id":856607,"sort":1,"name":"ルパン一家勢揃い","sites":[{"site":"bilibili","sort":1,"title":"鲁邦三世MasteFile","url":"https://www.bilibili.com/bangumi/play/ep87328","time":"2016-05-04T04:25:21.000Z"}]}]}
+{
+ "id": "49314",
+ "name": "ルパン三世 Master File",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3938",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 856607,
+   "sort": 1,
+   "name": "ルパン一家勢揃い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "鲁邦三世MasteFile",
+     "url": "https://www.bilibili.com/bangumi/play/ep87328",
+     "time": "2016-05-04T04:25:21.000Z"
+    }
+   ]
+  }
+ ]
+}

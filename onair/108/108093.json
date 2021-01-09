@@ -1,1 +1,27 @@
-{"id":"108093","name":"ドラえもん のび太の宇宙英雄記","sites":[{"site":"bilibili","id":"3902","sort":1}],"eps":[{"id":557055,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"哆啦A梦 大雄的宇宙英雄记","url":"https://www.bilibili.com/bangumi/play/ep86847","time":"2016-04-28T06:48:40.000Z"}]}]}
+{
+ "id": "108093",
+ "name": "ドラえもん のび太の宇宙英雄記",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3902",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 557055,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "哆啦A梦 大雄的宇宙英雄记",
+     "url": "https://www.bilibili.com/bangumi/play/ep86847",
+     "time": "2016-04-28T06:48:40.000Z"
+    }
+   ]
+  }
+ ]
+}

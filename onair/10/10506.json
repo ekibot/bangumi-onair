@@ -1,1 +1,181 @@
-{"id":"10506","name":"ラムネ","sites":[{"site":"bilibili","id":"1846","sort":12}],"eps":[{"id":61557,"sort":1,"name":"ヤドカリと麦わら帽子","sites":[{"site":"bilibili","sort":1,"title":"寄居蟹和草帽","url":"https://www.bilibili.com/bangumi/play/ep39499","time":"2012-05-02T10:16:58.000Z"}]},{"id":61558,"sort":2,"name":"夏の畑とななみすぺしゃる","sites":[{"site":"bilibili","sort":2,"title":"夏日的农田和七海专用","url":"https://www.bilibili.com/bangumi/play/ep39500","time":"2012-05-02T10:16:58.000Z"}]},{"id":61559,"sort":3,"name":"ちっちゃなイトコと花火","sites":[{"site":"bilibili","sort":3,"title":"娇小的表姐和烟花","url":"https://www.bilibili.com/bangumi/play/ep39501","time":"2012-05-02T10:16:58.000Z"}]},{"id":61560,"sort":4,"name":"自治会長とごほうび","sites":[{"site":"bilibili","sort":4,"title":"自治会长和奖品","url":"https://www.bilibili.com/bangumi/play/ep39502","time":"2012-05-02T10:16:58.000Z"}]},{"id":61561,"sort":5,"name":"星空と望遠鏡","sites":[{"site":"bilibili","sort":5,"title":"星空和望远镜","url":"https://www.bilibili.com/bangumi/play/ep39503","time":"2012-05-02T10:16:58.000Z"}]},{"id":61562,"sort":6,"name":"三人と二つの真珠","sites":[{"site":"bilibili","sort":6,"title":"三个人和两颗珍珠","url":"https://www.bilibili.com/bangumi/play/ep39504","time":"2012-05-02T10:16:58.000Z"}]},{"id":61563,"sort":7,"name":"バイク少女とアルバイト","sites":[{"site":"bilibili","sort":7,"title":"摩托车少女和打工","url":"https://www.bilibili.com/bangumi/play/ep39505","time":"2012-05-02T10:16:58.000Z"}]},{"id":61564,"sort":8,"name":"ふたりの絆と摇れる想い","sites":[{"site":"bilibili","sort":8,"title":"二人的羁绊和动摇的思念","url":"https://www.bilibili.com/bangumi/play/ep39506","time":"2012-05-02T10:16:58.000Z"}]},{"id":61565,"sort":9,"name":"ふたりの距離とラムネの瓶","sites":[{"site":"bilibili","sort":9,"title":"两人的距离和弹珠汽水瓶","url":"https://www.bilibili.com/bangumi/play/ep39507","time":"2012-05-02T10:16:58.000Z"}]},{"id":61566,"sort":10,"name":"フォークダンスとかさなる心","sites":[{"site":"bilibili","sort":10,"title":"土风舞和重叠的心","url":"https://www.bilibili.com/bangumi/play/ep39508","time":"2012-05-02T10:16:58.000Z"}]},{"id":61567,"sort":11,"name":"台風の夜と夏の終わり","sites":[{"site":"bilibili","sort":11,"title":"台风之夜和夏天的结束","url":"https://www.bilibili.com/bangumi/play/ep39509","time":"2012-05-02T10:16:58.000Z"}]},{"id":61568,"sort":12,"name":"100個の貸しと100個の借り","sites":[{"site":"bilibili","sort":12,"title":"100个得到的恩惠和100个给予的恩惠","url":"https://www.bilibili.com/bangumi/play/ep39510","time":"2012-05-02T10:16:58.000Z"}]}]}
+{
+ "id": "10506",
+ "name": "ラムネ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1846",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 61557,
+   "sort": 1,
+   "name": "ヤドカリと麦わら帽子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "寄居蟹和草帽",
+     "url": "https://www.bilibili.com/bangumi/play/ep39499",
+     "time": "2012-05-02T10:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61558,
+   "sort": 2,
+   "name": "夏の畑とななみすぺしゃる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "夏日的农田和七海专用",
+     "url": "https://www.bilibili.com/bangumi/play/ep39500",
+     "time": "2012-05-02T10:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61559,
+   "sort": 3,
+   "name": "ちっちゃなイトコと花火",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "娇小的表姐和烟花",
+     "url": "https://www.bilibili.com/bangumi/play/ep39501",
+     "time": "2012-05-02T10:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61560,
+   "sort": 4,
+   "name": "自治会長とごほうび",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "自治会长和奖品",
+     "url": "https://www.bilibili.com/bangumi/play/ep39502",
+     "time": "2012-05-02T10:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61561,
+   "sort": 5,
+   "name": "星空と望遠鏡",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "星空和望远镜",
+     "url": "https://www.bilibili.com/bangumi/play/ep39503",
+     "time": "2012-05-02T10:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61562,
+   "sort": 6,
+   "name": "三人と二つの真珠",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "三个人和两颗珍珠",
+     "url": "https://www.bilibili.com/bangumi/play/ep39504",
+     "time": "2012-05-02T10:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61563,
+   "sort": 7,
+   "name": "バイク少女とアルバイト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "摩托车少女和打工",
+     "url": "https://www.bilibili.com/bangumi/play/ep39505",
+     "time": "2012-05-02T10:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61564,
+   "sort": 8,
+   "name": "ふたりの絆と摇れる想い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "二人的羁绊和动摇的思念",
+     "url": "https://www.bilibili.com/bangumi/play/ep39506",
+     "time": "2012-05-02T10:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61565,
+   "sort": 9,
+   "name": "ふたりの距離とラムネの瓶",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "两人的距离和弹珠汽水瓶",
+     "url": "https://www.bilibili.com/bangumi/play/ep39507",
+     "time": "2012-05-02T10:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61566,
+   "sort": 10,
+   "name": "フォークダンスとかさなる心",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "土风舞和重叠的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep39508",
+     "time": "2012-05-02T10:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61567,
+   "sort": 11,
+   "name": "台風の夜と夏の終わり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "台风之夜和夏天的结束",
+     "url": "https://www.bilibili.com/bangumi/play/ep39509",
+     "time": "2012-05-02T10:16:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 61568,
+   "sort": 12,
+   "name": "100個の貸しと100個の借り",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "100个得到的恩惠和100个给予的恩惠",
+     "url": "https://www.bilibili.com/bangumi/play/ep39510",
+     "time": "2012-05-02T10:16:58.000Z"
+    }
+   ]
+  }
+ ]
+}

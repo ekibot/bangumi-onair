@@ -1,1 +1,153 @@
-{"id":"240974","name":"叛逆性ミリオンアーサー","sites":[{"site":"bilibili","id":"139412","sort":10}],"eps":[{"id":836507,"sort":1,"name":"過去への叛逆","sites":[{"site":"bilibili","sort":1,"title":"反叛过去","url":"https://www.bilibili.com/bangumi/play/ep250697","time":"2018-10-25T13:00:00.000Z"}]},{"id":838295,"sort":2,"name":"禁断の聖剣","sites":[{"site":"bilibili","sort":2,"title":"禁断的圣剑","url":"https://www.bilibili.com/bangumi/play/ep250698","time":"2018-11-01T13:00:00.000Z"}]},{"id":838296,"sort":3,"name":"怒りの鉄拳","sites":[{"site":"bilibili","sort":3,"title":"愤怒的铁拳","url":"https://www.bilibili.com/bangumi/play/ep250699","time":"2018-11-08T13:00:00.000Z"}]},{"id":838297,"sort":4,"name":"聖地より愛をこめて","sites":[{"site":"bilibili","sort":4,"title":"带着来自圣地的爱","url":"https://www.bilibili.com/bangumi/play/ep250700","time":"2018-11-15T13:00:00.000Z"}]},{"id":838298,"sort":5,"name":"腐った芸術","sites":[{"site":"bilibili","sort":5,"title":"腐烂的艺术","url":"https://www.bilibili.com/bangumi/play/ep250701","time":"2018-11-22T13:00:00.000Z"}]},{"id":838299,"sort":6,"name":"星を釣ったアーサー","sites":[{"site":"bilibili","sort":6,"title":"钓到星星的亚瑟","url":"https://www.bilibili.com/bangumi/play/ep250702","time":"2018-11-29T13:00:00.000Z"}]},{"id":838300,"sort":7,"name":"薔薇の蕾","sites":[{"site":"bilibili","sort":7,"title":"蔷薇的花蕾","url":"https://www.bilibili.com/bangumi/play/ep250703","time":"2018-12-06T13:00:00.000Z"}]},{"id":838301,"sort":8,"name":"魔法少女と呼ばれて","sites":[{"site":"bilibili","sort":8,"title":"小魔女亚瑟","url":"https://www.bilibili.com/bangumi/play/ep250704","time":"2018-12-13T13:00:00.000Z"}]},{"id":838302,"sort":9,"name":"いとうつくしき光の中で","sites":[{"site":"bilibili","sort":9,"title":"在美丽的光芒之中","url":"https://www.bilibili.com/bangumi/play/ep250705","time":"2018-12-20T13:00:00.000Z"}]},{"id":838303,"sort":10,"name":"未来への絶望","sites":[{"site":"bilibili","sort":10,"title":"对未来的绝望","url":"https://www.bilibili.com/bangumi/play/ep250706","time":"2018-12-27T13:00:00.000Z"}]}]}
+{
+ "id": "240974",
+ "name": "叛逆性ミリオンアーサー",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "139412",
+   "sort": 10
+  }
+ ],
+ "eps": [
+  {
+   "id": 836507,
+   "sort": 1,
+   "name": "過去への叛逆",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "反叛过去",
+     "url": "https://www.bilibili.com/bangumi/play/ep250697",
+     "time": "2018-10-25T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 838295,
+   "sort": 2,
+   "name": "禁断の聖剣",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "禁断的圣剑",
+     "url": "https://www.bilibili.com/bangumi/play/ep250698",
+     "time": "2018-11-01T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 838296,
+   "sort": 3,
+   "name": "怒りの鉄拳",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "愤怒的铁拳",
+     "url": "https://www.bilibili.com/bangumi/play/ep250699",
+     "time": "2018-11-08T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 838297,
+   "sort": 4,
+   "name": "聖地より愛をこめて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "带着来自圣地的爱",
+     "url": "https://www.bilibili.com/bangumi/play/ep250700",
+     "time": "2018-11-15T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 838298,
+   "sort": 5,
+   "name": "腐った芸術",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "腐烂的艺术",
+     "url": "https://www.bilibili.com/bangumi/play/ep250701",
+     "time": "2018-11-22T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 838299,
+   "sort": 6,
+   "name": "星を釣ったアーサー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "钓到星星的亚瑟",
+     "url": "https://www.bilibili.com/bangumi/play/ep250702",
+     "time": "2018-11-29T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 838300,
+   "sort": 7,
+   "name": "薔薇の蕾",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "蔷薇的花蕾",
+     "url": "https://www.bilibili.com/bangumi/play/ep250703",
+     "time": "2018-12-06T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 838301,
+   "sort": 8,
+   "name": "魔法少女と呼ばれて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "小魔女亚瑟",
+     "url": "https://www.bilibili.com/bangumi/play/ep250704",
+     "time": "2018-12-13T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 838302,
+   "sort": 9,
+   "name": "いとうつくしき光の中で",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "在美丽的光芒之中",
+     "url": "https://www.bilibili.com/bangumi/play/ep250705",
+     "time": "2018-12-20T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 838303,
+   "sort": 10,
+   "name": "未来への絶望",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "对未来的绝望",
+     "url": "https://www.bilibili.com/bangumi/play/ep250706",
+     "time": "2018-12-27T13:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

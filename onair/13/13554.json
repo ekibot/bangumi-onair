@@ -1,1 +1,26 @@
-{"id":"13554","name":"るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌","sites":[{"site":"qq","id":"6/6dypzbjwcdovtjd","sort":1}],"eps":[{"id":831324,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"浪客剑心 维新志士的镇魂歌","url":"http://v.youku.com/v_show/id_XNTE2NTQ5NjI0.html"}]}]}
+{
+ "id": "13554",
+ "name": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "6/6dypzbjwcdovtjd",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 831324,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "浪客剑心 维新志士的镇魂歌",
+     "url": "http://v.youku.com/v_show/id_XNTE2NTQ5NjI0.html"
+    }
+   ]
+  }
+ ]
+}

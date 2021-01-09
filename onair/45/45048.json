@@ -1,1 +1,55 @@
-{"id":"45048","name":"蒼き流星SPTレイズナー OVA","sites":[{"site":"bilibili","id":"4036","sort":3}],"eps":[{"id":186460,"sort":1,"name":"英二1996","sites":[{"site":"bilibili","sort":1,"title":"英二1996","url":"https://www.bilibili.com/bangumi/play/ep88389","time":"2016-05-23T09:59:40.000Z"}]},{"id":186461,"sort":2,"name":"鲁凯恩1999","sites":[{"site":"bilibili","sort":2,"title":"鲁凯恩1999","url":"https://www.bilibili.com/bangumi/play/ep88390","time":"2016-05-23T09:59:58.000Z"}]},{"id":186462,"sort":3,"name":"刻印2000","sites":[{"site":"bilibili","sort":3,"title":"刻印2000","url":"https://www.bilibili.com/bangumi/play/ep88391","time":"2016-05-23T10:00:11.000Z"}]}]}
+{
+ "id": "45048",
+ "name": "蒼き流星SPTレイズナー OVA",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4036",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 186460,
+   "sort": 1,
+   "name": "英二1996",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "英二1996",
+     "url": "https://www.bilibili.com/bangumi/play/ep88389",
+     "time": "2016-05-23T09:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 186461,
+   "sort": 2,
+   "name": "鲁凯恩1999",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "鲁凯恩1999",
+     "url": "https://www.bilibili.com/bangumi/play/ep88390",
+     "time": "2016-05-23T09:59:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 186462,
+   "sort": 3,
+   "name": "刻印2000",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "刻印2000",
+     "url": "https://www.bilibili.com/bangumi/play/ep88391",
+     "time": "2016-05-23T10:00:11.000Z"
+    }
+   ]
+  }
+ ]
+}

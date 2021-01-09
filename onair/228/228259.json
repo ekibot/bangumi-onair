@@ -1,1 +1,181 @@
-{"id":"228259","name":"蒼天の拳 REGENESIS","sites":[{"site":"bilibili","id":"78772","sort":12}],"eps":[{"id":787502,"sort":1,"name":"北斗神拳伝承者　霞拳志郎","sites":[{"site":"bilibili","sort":1,"title":"北斗神拳傳承者 霞拳志郎","url":"https://www.bilibili.com/bangumi/play/ep199771","time":"2018-04-02T17:00:00.000Z"}]},{"id":787503,"sort":2,"name":"届かぬ願い","sites":[{"site":"bilibili","sort":2,"title":"無法達成的願望","url":"https://www.bilibili.com/bangumi/play/ep199772","time":"2018-04-09T17:00:00.000Z"}]},{"id":787504,"sort":3,"name":"血を纏う死鳥鬼","sites":[{"site":"bilibili","sort":3,"title":"浴血死鳥鬼","url":"https://www.bilibili.com/bangumi/play/ep199773","time":"2018-04-16T17:00:00.000Z"}]},{"id":787505,"sort":4,"name":"北斗神拳の源流","sites":[{"site":"bilibili","sort":4,"title":"北斗神拳的源流","url":"https://www.bilibili.com/bangumi/play/ep199774","time":"2018-04-23T17:00:00.000Z"}]},{"id":787506,"sort":5,"name":"餓狼の怨念","sites":[{"site":"bilibili","sort":5,"title":"餓狼的怨念","url":"https://www.bilibili.com/bangumi/play/ep199775","time":"2018-04-30T17:00:00.000Z"}]},{"id":787507,"sort":6,"name":"旅立つ燕","sites":[{"site":"bilibili","sort":6,"title":"踏上旅途的燕子","url":"https://www.bilibili.com/bangumi/play/ep199776","time":"2018-05-07T17:00:00.000Z"}]},{"id":787508,"sort":7,"name":"二千年の愛","sites":[{"site":"bilibili","sort":7,"title":"兩千年的愛","url":"https://www.bilibili.com/bangumi/play/ep199777","time":"2018-05-14T17:00:00.000Z"}]},{"id":787509,"sort":8,"name":"宿命の死合い","sites":[{"site":"bilibili","sort":8,"title":"宿命的死鬥","url":"https://www.bilibili.com/bangumi/play/ep199778","time":"2018-05-21T17:00:00.000Z"}]},{"id":787510,"sort":9,"name":"赦す者","sites":[{"site":"bilibili","sort":9,"title":"寬恕者","url":"https://www.bilibili.com/bangumi/play/ep199779","time":"2018-05-28T17:00:00.000Z"}]},{"id":787511,"sort":10,"name":"若き伝承者","sites":[{"site":"bilibili","sort":10,"title":"年輕的傳承者","url":"https://www.bilibili.com/bangumi/play/ep199780","time":"2018-06-04T17:00:00.000Z"}]},{"id":787512,"sort":11,"name":"天斗聖陰拳","sites":[{"site":"bilibili","sort":11,"title":"天斗聖陰拳","url":"https://www.bilibili.com/bangumi/play/ep199781","time":"2018-06-11T17:00:00.000Z"}]},{"id":787513,"sort":12,"name":"朋友を想う拳","sites":[{"site":"bilibili","sort":12,"title":"念友之拳","url":"https://www.bilibili.com/bangumi/play/ep199782","time":"2018-06-18T17:00:00.000Z"}]}]}
+{
+ "id": "228259",
+ "name": "蒼天の拳 REGENESIS",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "78772",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 787502,
+   "sort": 1,
+   "name": "北斗神拳伝承者　霞拳志郎",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "北斗神拳傳承者 霞拳志郎",
+     "url": "https://www.bilibili.com/bangumi/play/ep199771",
+     "time": "2018-04-02T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787503,
+   "sort": 2,
+   "name": "届かぬ願い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "無法達成的願望",
+     "url": "https://www.bilibili.com/bangumi/play/ep199772",
+     "time": "2018-04-09T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787504,
+   "sort": 3,
+   "name": "血を纏う死鳥鬼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "浴血死鳥鬼",
+     "url": "https://www.bilibili.com/bangumi/play/ep199773",
+     "time": "2018-04-16T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787505,
+   "sort": 4,
+   "name": "北斗神拳の源流",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "北斗神拳的源流",
+     "url": "https://www.bilibili.com/bangumi/play/ep199774",
+     "time": "2018-04-23T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787506,
+   "sort": 5,
+   "name": "餓狼の怨念",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "餓狼的怨念",
+     "url": "https://www.bilibili.com/bangumi/play/ep199775",
+     "time": "2018-04-30T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787507,
+   "sort": 6,
+   "name": "旅立つ燕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "踏上旅途的燕子",
+     "url": "https://www.bilibili.com/bangumi/play/ep199776",
+     "time": "2018-05-07T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787508,
+   "sort": 7,
+   "name": "二千年の愛",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "兩千年的愛",
+     "url": "https://www.bilibili.com/bangumi/play/ep199777",
+     "time": "2018-05-14T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787509,
+   "sort": 8,
+   "name": "宿命の死合い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "宿命的死鬥",
+     "url": "https://www.bilibili.com/bangumi/play/ep199778",
+     "time": "2018-05-21T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787510,
+   "sort": 9,
+   "name": "赦す者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "寬恕者",
+     "url": "https://www.bilibili.com/bangumi/play/ep199779",
+     "time": "2018-05-28T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787511,
+   "sort": 10,
+   "name": "若き伝承者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "年輕的傳承者",
+     "url": "https://www.bilibili.com/bangumi/play/ep199780",
+     "time": "2018-06-04T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787512,
+   "sort": 11,
+   "name": "天斗聖陰拳",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "天斗聖陰拳",
+     "url": "https://www.bilibili.com/bangumi/play/ep199781",
+     "time": "2018-06-11T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787513,
+   "sort": 12,
+   "name": "朋友を想う拳",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "念友之拳",
+     "url": "https://www.bilibili.com/bangumi/play/ep199782",
+     "time": "2018-06-18T17:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

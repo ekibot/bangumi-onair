@@ -1,1 +1,143 @@
-{"id":"130234","name":"グリザイアの楽園","sites":[{"site":"qq","id":"b/bfvf34glatn9uu0","sort":10}],"eps":[{"id":516403,"sort":1,"name":"カプリスの繭Ⅰ","sites":[{"site":"qq","sort":1,"title":"灰色的乐园_01","url":"https://v.qq.com/x/cover/bfvf34glatn9uu0/o0033ttrqgn.html"}]},{"id":516404,"sort":2,"name":"カプリスの繭Ⅱ","sites":[{"site":"qq","sort":2,"title":"灰色的乐园_02","url":"https://v.qq.com/x/cover/bfvf34glatn9uu0/j0033dnkb54.html"}]},{"id":516405,"sort":3,"name":"カプリスの繭Ⅲ","sites":[{"site":"qq","sort":3,"title":"灰色的乐园_03","url":"https://v.qq.com/x/cover/bfvf34glatn9uu0/q0033tvhk40.html"}]},{"id":516406,"sort":4,"name":"カプリスの繭Ⅳ","sites":[{"site":"qq","sort":4,"title":"灰色的乐园_04","url":"https://v.qq.com/x/cover/bfvf34glatn9uu0/f00338d9n7f.html"}]},{"id":516407,"sort":5,"name":"ブランエールの種Ⅰ","sites":[{"site":"qq","sort":5,"title":"灰色的乐园_05","url":"https://v.qq.com/x/cover/bfvf34glatn9uu0/l0033kr2vtt.html"}]},{"id":516408,"sort":6,"name":"ブランエールの種Ⅱ","sites":[{"site":"qq","sort":6,"title":"灰色的乐园_06","url":"https://v.qq.com/x/cover/bfvf34glatn9uu0/s0033jme93l.html"}]},{"id":516409,"sort":7,"name":"ブランエールの種Ⅲ","sites":[{"site":"qq","sort":7,"title":"灰色的乐园_07","url":"https://v.qq.com/x/cover/bfvf34glatn9uu0/a003318wf6j.html"}]},{"id":516410,"sort":8,"name":"ブランエールの種Ⅳ","sites":[{"site":"qq","sort":8,"title":"灰色的乐园_08","url":"https://v.qq.com/x/cover/bfvf34glatn9uu0/r00339bd6bs.html"}]},{"id":516411,"sort":9,"name":"ブランエールの種Ⅴ","sites":[{"site":"qq","sort":9,"title":"灰色的乐园_09","url":"https://v.qq.com/x/cover/bfvf34glatn9uu0/g0033u0crxb.html"}]},{"id":516412,"sort":10,"name":"ブランエールの種Ⅵ","sites":[{"site":"qq","sort":10,"title":"灰色的乐园_10","url":"https://v.qq.com/x/cover/bfvf34glatn9uu0/d0033ul4vrz.html"}]}]}
+{
+ "id": "130234",
+ "name": "グリザイアの楽園",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "b/bfvf34glatn9uu0",
+   "sort": 10
+  }
+ ],
+ "eps": [
+  {
+   "id": 516403,
+   "sort": 1,
+   "name": "カプリスの繭Ⅰ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "灰色的乐园_01",
+     "url": "https://v.qq.com/x/cover/bfvf34glatn9uu0/o0033ttrqgn.html"
+    }
+   ]
+  },
+  {
+   "id": 516404,
+   "sort": 2,
+   "name": "カプリスの繭Ⅱ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "灰色的乐园_02",
+     "url": "https://v.qq.com/x/cover/bfvf34glatn9uu0/j0033dnkb54.html"
+    }
+   ]
+  },
+  {
+   "id": 516405,
+   "sort": 3,
+   "name": "カプリスの繭Ⅲ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "灰色的乐园_03",
+     "url": "https://v.qq.com/x/cover/bfvf34glatn9uu0/q0033tvhk40.html"
+    }
+   ]
+  },
+  {
+   "id": 516406,
+   "sort": 4,
+   "name": "カプリスの繭Ⅳ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "灰色的乐园_04",
+     "url": "https://v.qq.com/x/cover/bfvf34glatn9uu0/f00338d9n7f.html"
+    }
+   ]
+  },
+  {
+   "id": 516407,
+   "sort": 5,
+   "name": "ブランエールの種Ⅰ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "灰色的乐园_05",
+     "url": "https://v.qq.com/x/cover/bfvf34glatn9uu0/l0033kr2vtt.html"
+    }
+   ]
+  },
+  {
+   "id": 516408,
+   "sort": 6,
+   "name": "ブランエールの種Ⅱ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "灰色的乐园_06",
+     "url": "https://v.qq.com/x/cover/bfvf34glatn9uu0/s0033jme93l.html"
+    }
+   ]
+  },
+  {
+   "id": 516409,
+   "sort": 7,
+   "name": "ブランエールの種Ⅲ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "灰色的乐园_07",
+     "url": "https://v.qq.com/x/cover/bfvf34glatn9uu0/a003318wf6j.html"
+    }
+   ]
+  },
+  {
+   "id": 516410,
+   "sort": 8,
+   "name": "ブランエールの種Ⅳ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "灰色的乐园_08",
+     "url": "https://v.qq.com/x/cover/bfvf34glatn9uu0/r00339bd6bs.html"
+    }
+   ]
+  },
+  {
+   "id": 516411,
+   "sort": 9,
+   "name": "ブランエールの種Ⅴ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "灰色的乐园_09",
+     "url": "https://v.qq.com/x/cover/bfvf34glatn9uu0/g0033u0crxb.html"
+    }
+   ]
+  },
+  {
+   "id": 516412,
+   "sort": 10,
+   "name": "ブランエールの種Ⅵ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "灰色的乐园_10",
+     "url": "https://v.qq.com/x/cover/bfvf34glatn9uu0/d0033ul4vrz.html"
+    }
+   ]
+  }
+ ]
+}

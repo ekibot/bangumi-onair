@@ -1,1 +1,181 @@
-{"id":"123568","name":"ご注文はうさぎですか??","sites":[{"site":"bilibili","id":"2762","sort":12}],"eps":[{"id":568343,"sort":1,"name":"笑顔とフラッシュが やかましい これが私の自称姉です","sites":[{"site":"bilibili","sort":1,"title":"笑脸和闪光灯 好喧闹 这是自称我姐姐的人","url":"https://www.bilibili.com/bangumi/play/ep72069","time":"2015-10-10T17:00:00.000Z"}]},{"id":568344,"sort":2,"name":"灰色兎と灰かぶり姫","sites":[{"site":"bilibili","sort":2,"title":"灰色兔子与灰姑娘","url":"https://www.bilibili.com/bangumi/play/ep72692","time":"2015-10-17T17:00:00.000Z"}]},{"id":568345,"sort":3,"name":"回転舞踏伝説アヒル隊","sites":[{"site":"bilibili","sort":3,"title":"旋转舞蹈传说鸭子队","url":"https://www.bilibili.com/bangumi/play/ep75108","time":"2015-10-24T17:00:00.000Z"}]},{"id":568346,"sort":4,"name":"ココア先輩の優雅なお茶会チュートリアル","sites":[{"site":"bilibili","sort":4,"title":"心爱前辈的优雅茶会教程","url":"https://www.bilibili.com/bangumi/play/ep76108","time":"2015-10-31T17:00:00.000Z"}]},{"id":568347,"sort":5,"name":"ひと口で普通のもちもちだと見抜いたよ","sites":[{"site":"bilibili","sort":5,"title":"一口品出普通的软软糯糯","url":"https://www.bilibili.com/bangumi/play/ep77330","time":"2015-11-07T17:00:00.000Z"}]},{"id":568348,"sort":6,"name":"木組みの街攻略完了","sites":[{"site":"bilibili","sort":6,"title":"木结构街道攻略完毕","url":"https://www.bilibili.com/bangumi/play/ep77664","time":"2015-11-14T17:00:00.000Z"}]},{"id":568349,"sort":7,"name":"甘えん坊なあの子はシャボン玉のように儚く消える","sites":[{"site":"bilibili","sort":7,"title":"爱撒娇的她如肥皂泡一般转瞬即逝","url":"https://www.bilibili.com/bangumi/play/ep79193","time":"2015-11-21T17:00:00.000Z"}]},{"id":568350,"sort":8,"name":"スニーキングストーキングストーカーストーリー","sites":[{"site":"bilibili","sort":8,"title":"Sneaking Stacking Staker Story","url":"https://www.bilibili.com/bangumi/play/ep79875","time":"2015-11-28T17:00:00.000Z"}]},{"id":568351,"sort":9,"name":"毛玉は特攻し無慈悲なボタンは放たれる","sites":[{"site":"bilibili","sort":9,"title":"毛球发动特攻 发出了残酷的钮扣","url":"https://www.bilibili.com/bangumi/play/ep80665","time":"2015-12-05T17:00:00.000Z"}]},{"id":568352,"sort":10,"name":"Eを探す日常","sites":[{"site":"bilibili","sort":10,"title":"寻找E的日常","url":"https://www.bilibili.com/bangumi/play/ep81340","time":"2015-12-12T17:00:00.000Z"}]},{"id":568353,"sort":11,"name":"スターダスト・マイムマイム","sites":[{"site":"bilibili","sort":11,"title":"星尘·水舞","url":"https://www.bilibili.com/bangumi/play/ep81751","time":"2015-12-19T17:01:01.000Z"}]},{"id":568354,"sort":12,"name":"宝物は君の決定的瞬間","sites":[{"site":"bilibili","sort":12,"title":"宝物就是你决定性的瞬间","url":"https://www.bilibili.com/bangumi/play/ep82138","time":"2015-12-26T17:01:00.000Z"}]}]}
+{
+ "id": "123568",
+ "name": "ご注文はうさぎですか??",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2762",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 568343,
+   "sort": 1,
+   "name": "笑顔とフラッシュが やかましい これが私の自称姉です",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "笑脸和闪光灯 好喧闹 这是自称我姐姐的人",
+     "url": "https://www.bilibili.com/bangumi/play/ep72069",
+     "time": "2015-10-10T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 568344,
+   "sort": 2,
+   "name": "灰色兎と灰かぶり姫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "灰色兔子与灰姑娘",
+     "url": "https://www.bilibili.com/bangumi/play/ep72692",
+     "time": "2015-10-17T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 568345,
+   "sort": 3,
+   "name": "回転舞踏伝説アヒル隊",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "旋转舞蹈传说鸭子队",
+     "url": "https://www.bilibili.com/bangumi/play/ep75108",
+     "time": "2015-10-24T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 568346,
+   "sort": 4,
+   "name": "ココア先輩の優雅なお茶会チュートリアル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "心爱前辈的优雅茶会教程",
+     "url": "https://www.bilibili.com/bangumi/play/ep76108",
+     "time": "2015-10-31T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 568347,
+   "sort": 5,
+   "name": "ひと口で普通のもちもちだと見抜いたよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "一口品出普通的软软糯糯",
+     "url": "https://www.bilibili.com/bangumi/play/ep77330",
+     "time": "2015-11-07T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 568348,
+   "sort": 6,
+   "name": "木組みの街攻略完了",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "木结构街道攻略完毕",
+     "url": "https://www.bilibili.com/bangumi/play/ep77664",
+     "time": "2015-11-14T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 568349,
+   "sort": 7,
+   "name": "甘えん坊なあの子はシャボン玉のように儚く消える",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "爱撒娇的她如肥皂泡一般转瞬即逝",
+     "url": "https://www.bilibili.com/bangumi/play/ep79193",
+     "time": "2015-11-21T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 568350,
+   "sort": 8,
+   "name": "スニーキングストーキングストーカーストーリー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "Sneaking Stacking Staker Story",
+     "url": "https://www.bilibili.com/bangumi/play/ep79875",
+     "time": "2015-11-28T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 568351,
+   "sort": 9,
+   "name": "毛玉は特攻し無慈悲なボタンは放たれる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "毛球发动特攻 发出了残酷的钮扣",
+     "url": "https://www.bilibili.com/bangumi/play/ep80665",
+     "time": "2015-12-05T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 568352,
+   "sort": 10,
+   "name": "Eを探す日常",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "寻找E的日常",
+     "url": "https://www.bilibili.com/bangumi/play/ep81340",
+     "time": "2015-12-12T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 568353,
+   "sort": 11,
+   "name": "スターダスト・マイムマイム",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "星尘·水舞",
+     "url": "https://www.bilibili.com/bangumi/play/ep81751",
+     "time": "2015-12-19T17:01:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 568354,
+   "sort": 12,
+   "name": "宝物は君の決定的瞬間",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "宝物就是你决定性的瞬间",
+     "url": "https://www.bilibili.com/bangumi/play/ep82138",
+     "time": "2015-12-26T17:01:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,50 @@
-{"id":"3781","name":"劇場版 スレイヤーズ","sites":[{"site":"qq","id":"z/zjbhkhzmf5eqrie","sort":1},{"site":"bilibili","id":"3905","sort":1},{"site":"iqiyi","id":"a_19rrhwb7ed","sort":4}],"eps":[{"id":819841,"sort":1,"name":"劇場版 スレイヤーズ","sites":[{"site":"qq","sort":1,"title":"秀逗魔导士完全无欠版 剧场版","url":"http://v.youku.com/v_show/id_XNDk5NDk5MzYw.html"},{"site":"bilibili","sort":1,"title":"Slayers 完全无欠版","url":"https://www.bilibili.com/bangumi/play/ep87027","time":"2016-05-03T03:36:27.000Z"},{"site":"iqiyi","sort":1,"title":"秀逗魔导士 剧场版","url":"http://www.iqiyi.com/v_19rxko47h4.html","time":"2020-02-25T08:39:21.000Z"}]}]}
+{
+ "id": "3781",
+ "name": "劇場版 スレイヤーズ",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "z/zjbhkhzmf5eqrie",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "3905",
+   "sort": 1
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhwb7ed",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 819841,
+   "sort": 1,
+   "name": "劇場版 スレイヤーズ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "秀逗魔导士完全无欠版 剧场版",
+     "url": "http://v.youku.com/v_show/id_XNDk5NDk5MzYw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Slayers 完全无欠版",
+     "url": "https://www.bilibili.com/bangumi/play/ep87027",
+     "time": "2016-05-03T03:36:27.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "秀逗魔导士 剧场版",
+     "url": "http://www.iqiyi.com/v_19rxko47h4.html",
+     "time": "2020-02-25T08:39:21.000Z"
+    }
+   ]
+  }
+ ]
+}

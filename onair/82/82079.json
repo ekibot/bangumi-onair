@@ -1,1 +1,41 @@
-{"id":"82079","name":"てーきゅう(第3期)","sites":[{"site":"bilibili","id":"19","sort":12}],"eps":[{"id":392274,"sort":1,"name":"先輩とトマリン・コンフィデンシャル 前編","sites":[{"site":"bilibili","sort":1,"title":"前辈与黑日危机","url":"https://www.bilibili.com/bangumi/play/ep127","time":"2013-10-06T16:07:40.000Z"}]},{"id":392275,"sort":2,"name":"先輩とトマリン・コンフィデンシャル 後編","sites":[{"site":"bilibili","sort":2,"title":"前辈与Stand by me","url":"https://www.bilibili.com/bangumi/play/ep126","time":"2013-10-13T23:23:17.000Z"}]}]}
+{
+ "id": "82079",
+ "name": "てーきゅう(第3期)",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "19",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 392274,
+   "sort": 3,
+   "name": "先輩とトマリン・コンフィデンシャル 前編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "前辈与Mad max",
+     "url": "https://www.bilibili.com/bangumi/play/ep125",
+     "time": "2013-10-21T03:38:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 392275,
+   "sort": 4,
+   "name": "先輩とトマリン・コンフィデンシャル 後編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "前辈与剪刀手爱德华",
+     "url": "https://www.bilibili.com/bangumi/play/ep124",
+     "time": "2013-10-28T01:52:15.000Z"
+    }
+   ]
+  }
+ ]
+}

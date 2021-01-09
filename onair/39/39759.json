@@ -1,1 +1,293 @@
-{"id":"39759","name":"おしりかじり虫","sites":[{"site":"bilibili","id":"5887","sort":20}],"eps":[{"id":171543,"sort":1,"name":"かじり屋、本日開店！？","sites":[{"site":"bilibili","sort":1,"title":"Bottom Biting Bug1 01","url":"https://www.bilibili.com/bangumi/play/ep100865","time":"2019-05-16T12:21:00.000Z"}]},{"id":171544,"sort":2,"name":"勝負、かじりテスト！？","sites":[{"site":"bilibili","sort":2,"title":"Bottom Biting Bug1 02","url":"https://www.bilibili.com/bangumi/play/ep100866","time":"2019-05-16T12:21:00.000Z"}]},{"id":171545,"sort":3,"name":"大ピンチ、かじり虫！？","sites":[{"site":"bilibili","sort":3,"title":"Bottom Biting Bug1 03","url":"https://www.bilibili.com/bangumi/play/ep100867","time":"2019-05-16T12:21:00.000Z"}]},{"id":171546,"sort":4,"name":"発見、黄金のおしり！？","sites":[{"site":"bilibili","sort":4,"title":"Bottom Biting Bug1 04","url":"https://www.bilibili.com/bangumi/play/ep100868","time":"2019-05-16T12:21:00.000Z"}]},{"id":171547,"sort":5,"name":"作文、ぼくの家族 !?","sites":[{"site":"bilibili","sort":5,"title":"Bottom Biting Bug1 05","url":"https://www.bilibili.com/bangumi/play/ep100869","time":"2019-05-16T12:21:00.000Z"}]},{"id":171548,"sort":6,"name":"冒険、かえる橋を突破せよ !?","sites":[{"site":"bilibili","sort":6,"title":"Bottom Biting Bug1 06","url":"https://www.bilibili.com/bangumi/play/ep100870","time":"2019-05-16T12:21:00.000Z"}]},{"id":171549,"sort":7,"name":"応援、たーすけ君の恋 !?","sites":[{"site":"bilibili","sort":7,"title":"Bottom Biting Bug1 07","url":"https://www.bilibili.com/bangumi/play/ep100871","time":"2019-05-16T12:21:00.000Z"}]},{"id":171550,"sort":8,"name":"ダーティ、かじり虫ブラック !?","sites":[{"site":"bilibili","sort":8,"title":"Bottom Biting Bug1 08","url":"https://www.bilibili.com/bangumi/play/ep100872","time":"2019-05-16T12:21:00.000Z"}]},{"id":171551,"sort":9,"name":"町の発明王、ジジ !?","sites":[{"site":"bilibili","sort":9,"title":"Bottom Biting Bug1 09","url":"https://www.bilibili.com/bangumi/play/ep100873","time":"2019-05-16T12:21:00.000Z"}]},{"id":171552,"sort":10,"name":"最強、おかん対決 !?","sites":[{"site":"bilibili","sort":10,"title":"Bottom Biting Bug1 10","url":"https://www.bilibili.com/bangumi/play/ep100874","time":"2019-05-16T12:21:00.000Z"}]},{"id":171553,"sort":11,"name":"ドキドキ、初めてのおるすばん !?","sites":[{"site":"bilibili","sort":11,"title":"Bottom Biting Bug1 11","url":"https://www.bilibili.com/bangumi/play/ep100875","time":"2019-05-16T12:21:00.000Z"}]},{"id":171554,"sort":12,"name":"立て、立つんだチチ !?","sites":[{"site":"bilibili","sort":12,"title":"Bottom Biting Bug1 12","url":"https://www.bilibili.com/bangumi/play/ep100876","time":"2019-05-16T12:21:00.000Z"}]},{"id":171555,"sort":13,"name":"救え、たこやき『一平』！？","sites":[{"site":"bilibili","sort":13,"title":"Bottom Biting Bug1 13","url":"https://www.bilibili.com/bangumi/play/ep100877","time":"2019-05-16T12:21:00.000Z"}]},{"id":171556,"sort":14,"name":"ホント！？ジジのプロポーズ","sites":[{"site":"bilibili","sort":14,"title":"Bottom Biting Bug1 14","url":"https://www.bilibili.com/bangumi/play/ep100878","time":"2019-05-16T12:21:00.000Z"}]},{"id":171557,"sort":15,"name":"お見事、かじりスケート！？","sites":[{"site":"bilibili","sort":15,"title":"Bottom Biting Bug1 15","url":"https://www.bilibili.com/bangumi/play/ep100879","time":"2019-05-16T12:21:00.000Z"}]},{"id":171558,"sort":16,"name":"ワァー、テレビ局が来た！？","sites":[{"site":"bilibili","sort":16,"title":"Bottom Biting Bug1 16","url":"https://www.bilibili.com/bangumi/play/ep100880","time":"2019-05-16T12:21:00.000Z"}]},{"id":171559,"sort":17,"name":"大戦争、ひみつ基地！？","sites":[{"site":"bilibili","sort":17,"title":"Bottom Biting Bug1 17","url":"https://www.bilibili.com/bangumi/play/ep100881","time":"2019-05-16T12:22:00.000Z"}]},{"id":171560,"sort":18,"name":"大スター、KJR！？","sites":[{"site":"bilibili","sort":18,"title":"Bottom Biting Bug1 18","url":"https://www.bilibili.com/bangumi/play/ep100882","time":"2019-05-16T12:22:00.000Z"}]},{"id":171561,"sort":19,"name":"お願い、歯の神様！？","sites":[{"site":"bilibili","sort":19,"title":"Bottom Biting Bug1 19","url":"https://www.bilibili.com/bangumi/play/ep100883","time":"2019-05-16T12:22:00.000Z"}]},{"id":171562,"sort":20,"name":"いじめっこ、ガブレロの涙！？","sites":[{"site":"bilibili","sort":20,"title":"Bottom Biting Bug1 20","url":"https://www.bilibili.com/bangumi/play/ep100884","time":"2019-05-16T12:22:00.000Z"}]}]}
+{
+ "id": "39759",
+ "name": "おしりかじり虫",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5887",
+   "sort": 20
+  }
+ ],
+ "eps": [
+  {
+   "id": 171543,
+   "sort": 1,
+   "name": "かじり屋、本日開店！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Bottom Biting Bug1 01",
+     "url": "https://www.bilibili.com/bangumi/play/ep100865",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171544,
+   "sort": 2,
+   "name": "勝負、かじりテスト！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "Bottom Biting Bug1 02",
+     "url": "https://www.bilibili.com/bangumi/play/ep100866",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171545,
+   "sort": 3,
+   "name": "大ピンチ、かじり虫！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Bottom Biting Bug1 03",
+     "url": "https://www.bilibili.com/bangumi/play/ep100867",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171546,
+   "sort": 4,
+   "name": "発見、黄金のおしり！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Bottom Biting Bug1 04",
+     "url": "https://www.bilibili.com/bangumi/play/ep100868",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171547,
+   "sort": 5,
+   "name": "作文、ぼくの家族 !?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Bottom Biting Bug1 05",
+     "url": "https://www.bilibili.com/bangumi/play/ep100869",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171548,
+   "sort": 6,
+   "name": "冒険、かえる橋を突破せよ !?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Bottom Biting Bug1 06",
+     "url": "https://www.bilibili.com/bangumi/play/ep100870",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171549,
+   "sort": 7,
+   "name": "応援、たーすけ君の恋 !?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "Bottom Biting Bug1 07",
+     "url": "https://www.bilibili.com/bangumi/play/ep100871",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171550,
+   "sort": 8,
+   "name": "ダーティ、かじり虫ブラック !?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "Bottom Biting Bug1 08",
+     "url": "https://www.bilibili.com/bangumi/play/ep100872",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171551,
+   "sort": 9,
+   "name": "町の発明王、ジジ !?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "Bottom Biting Bug1 09",
+     "url": "https://www.bilibili.com/bangumi/play/ep100873",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171552,
+   "sort": 10,
+   "name": "最強、おかん対決 !?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "Bottom Biting Bug1 10",
+     "url": "https://www.bilibili.com/bangumi/play/ep100874",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171553,
+   "sort": 11,
+   "name": "ドキドキ、初めてのおるすばん !?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "Bottom Biting Bug1 11",
+     "url": "https://www.bilibili.com/bangumi/play/ep100875",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171554,
+   "sort": 12,
+   "name": "立て、立つんだチチ !?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "Bottom Biting Bug1 12",
+     "url": "https://www.bilibili.com/bangumi/play/ep100876",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171555,
+   "sort": 13,
+   "name": "救え、たこやき『一平』！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "Bottom Biting Bug1 13",
+     "url": "https://www.bilibili.com/bangumi/play/ep100877",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171556,
+   "sort": 14,
+   "name": "ホント！？ジジのプロポーズ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "Bottom Biting Bug1 14",
+     "url": "https://www.bilibili.com/bangumi/play/ep100878",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171557,
+   "sort": 15,
+   "name": "お見事、かじりスケート！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "Bottom Biting Bug1 15",
+     "url": "https://www.bilibili.com/bangumi/play/ep100879",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171558,
+   "sort": 16,
+   "name": "ワァー、テレビ局が来た！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "Bottom Biting Bug1 16",
+     "url": "https://www.bilibili.com/bangumi/play/ep100880",
+     "time": "2019-05-16T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171559,
+   "sort": 17,
+   "name": "大戦争、ひみつ基地！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "Bottom Biting Bug1 17",
+     "url": "https://www.bilibili.com/bangumi/play/ep100881",
+     "time": "2019-05-16T12:22:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171560,
+   "sort": 18,
+   "name": "大スター、KJR！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "Bottom Biting Bug1 18",
+     "url": "https://www.bilibili.com/bangumi/play/ep100882",
+     "time": "2019-05-16T12:22:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171561,
+   "sort": 19,
+   "name": "お願い、歯の神様！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "Bottom Biting Bug1 19",
+     "url": "https://www.bilibili.com/bangumi/play/ep100883",
+     "time": "2019-05-16T12:22:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 171562,
+   "sort": 20,
+   "name": "いじめっこ、ガブレロの涙！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "Bottom Biting Bug1 20",
+     "url": "https://www.bilibili.com/bangumi/play/ep100884",
+     "time": "2019-05-16T12:22:00.000Z"
+    }
+   ]
+  }
+ ]
+}

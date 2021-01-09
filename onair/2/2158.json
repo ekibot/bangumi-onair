@@ -1,1 +1,181 @@
-{"id":"2158","name":"魔界戦記ディスガイア","sites":[{"site":"bilibili","id":"1390","sort":12}],"eps":[{"id":12435,"sort":1,"name":"眠れるゴミ捨て場の王子","sites":[{"site":"bilibili","sort":1,"title":"在垃圾场沉睡的王子","url":"https://www.bilibili.com/bangumi/play/ep25914","time":"2010-06-06T01:26:34.000Z"}]},{"id":12436,"sort":2,"name":"中ボス落ちてケライがふえた","sites":[{"site":"bilibili","sort":2,"title":"中魔王降落 家臣增加了","url":"https://www.bilibili.com/bangumi/play/ep25915","time":"2010-06-06T01:26:34.000Z"}]},{"id":12437,"sort":3,"name":"おいでませ魔界秘宝館","sites":[{"site":"bilibili","sort":3,"title":"欢迎光临魔界秘宝馆","url":"https://www.bilibili.com/bangumi/play/ep25916","time":"2010-06-06T01:26:34.000Z"}]},{"id":12438,"sort":4,"name":"成金城の大岡裁き!?","sites":[{"site":"bilibili","sort":4,"title":"成金城的大冈裁判!?","url":"https://www.bilibili.com/bangumi/play/ep25917","time":"2010-06-06T01:26:34.000Z"}]},{"id":12439,"sort":5,"name":"魅惑のダンジョン…かもしれない","sites":[{"site":"bilibili","sort":5,"title":"魅惑的洞窟…也许吧","url":"https://www.bilibili.com/bangumi/play/ep25918","time":"2010-06-06T01:26:34.000Z"}]},{"id":12440,"sort":6,"name":"エトナの恥ずかしいヒ・ミ・ツ","sites":[{"site":"bilibili","sort":6,"title":"艾特娜难为情的秘・密","url":"https://www.bilibili.com/bangumi/play/ep25919","time":"2010-06-06T01:26:34.000Z"}]},{"id":12441,"sort":7,"name":"魔界兄妹","sites":[{"site":"bilibili","sort":7,"title":"魔界兄妹","url":"https://www.bilibili.com/bangumi/play/ep25920","time":"2010-06-06T01:26:34.000Z"}]},{"id":12442,"sort":8,"name":"プリニーの一番長い日ッス!","sites":[{"site":"bilibili","sort":8,"title":"普林尼最长的一日!","url":"https://www.bilibili.com/bangumi/play/ep25921","time":"2010-06-06T01:26:34.000Z"}]},{"id":12443,"sort":9,"name":"宇宙戦艦ガルガンチュワ","sites":[{"site":"bilibili","sort":9,"title":"宇宙战舰迦尔冈邱瓦","url":"https://www.bilibili.com/bangumi/play/ep25922","time":"2010-06-06T01:26:34.000Z"}]},{"id":12444,"sort":10,"name":"明日の勇者はキミだ!","sites":[{"site":"bilibili","sort":10,"title":"明日的勇者是你!","url":"https://www.bilibili.com/bangumi/play/ep25923","time":"2010-06-06T01:26:34.000Z"}]},{"id":12445,"sort":11,"name":"赤い月が照らす夜","sites":[{"site":"bilibili","sort":11,"title":"红月照耀的夜晚","url":"https://www.bilibili.com/bangumi/play/ep25924","time":"2010-06-06T01:26:34.000Z"}]},{"id":12446,"sort":12,"name":"愛…戦いの果てに","sites":[{"site":"bilibili","sort":12,"title":"爱…在战争的结局里","url":"https://www.bilibili.com/bangumi/play/ep25925","time":"2010-06-06T01:26:34.000Z"}]}]}
+{
+ "id": "2158",
+ "name": "魔界戦記ディスガイア",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1390",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 12435,
+   "sort": 1,
+   "name": "眠れるゴミ捨て場の王子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "在垃圾场沉睡的王子",
+     "url": "https://www.bilibili.com/bangumi/play/ep25914",
+     "time": "2010-06-06T01:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12436,
+   "sort": 2,
+   "name": "中ボス落ちてケライがふえた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "中魔王降落 家臣增加了",
+     "url": "https://www.bilibili.com/bangumi/play/ep25915",
+     "time": "2010-06-06T01:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12437,
+   "sort": 3,
+   "name": "おいでませ魔界秘宝館",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "欢迎光临魔界秘宝馆",
+     "url": "https://www.bilibili.com/bangumi/play/ep25916",
+     "time": "2010-06-06T01:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12438,
+   "sort": 4,
+   "name": "成金城の大岡裁き!?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "成金城的大冈裁判!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep25917",
+     "time": "2010-06-06T01:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12439,
+   "sort": 5,
+   "name": "魅惑のダンジョン…かもしれない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "魅惑的洞窟…也许吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep25918",
+     "time": "2010-06-06T01:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12440,
+   "sort": 6,
+   "name": "エトナの恥ずかしいヒ・ミ・ツ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "艾特娜难为情的秘・密",
+     "url": "https://www.bilibili.com/bangumi/play/ep25919",
+     "time": "2010-06-06T01:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12441,
+   "sort": 7,
+   "name": "魔界兄妹",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "魔界兄妹",
+     "url": "https://www.bilibili.com/bangumi/play/ep25920",
+     "time": "2010-06-06T01:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12442,
+   "sort": 8,
+   "name": "プリニーの一番長い日ッス!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "普林尼最长的一日!",
+     "url": "https://www.bilibili.com/bangumi/play/ep25921",
+     "time": "2010-06-06T01:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12443,
+   "sort": 9,
+   "name": "宇宙戦艦ガルガンチュワ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "宇宙战舰迦尔冈邱瓦",
+     "url": "https://www.bilibili.com/bangumi/play/ep25922",
+     "time": "2010-06-06T01:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12444,
+   "sort": 10,
+   "name": "明日の勇者はキミだ!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "明日的勇者是你!",
+     "url": "https://www.bilibili.com/bangumi/play/ep25923",
+     "time": "2010-06-06T01:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12445,
+   "sort": 11,
+   "name": "赤い月が照らす夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "红月照耀的夜晚",
+     "url": "https://www.bilibili.com/bangumi/play/ep25924",
+     "time": "2010-06-06T01:26:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12446,
+   "sort": 12,
+   "name": "愛…戦いの果てに",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "爱…在战争的结局里",
+     "url": "https://www.bilibili.com/bangumi/play/ep25925",
+     "time": "2010-06-06T01:26:34.000Z"
+    }
+   ]
+  }
+ ]
+}

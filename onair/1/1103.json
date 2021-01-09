@@ -1,1 +1,181 @@
-{"id":"1103","name":"ゼロの使い魔 ～双月の騎士～","sites":[{"site":"bilibili","id":"819","sort":12}],"eps":[{"id":2946,"sort":1,"name":"女王陛下のゼロ","sites":[{"site":"bilibili","sort":1,"title":"女王殿下的ZERO","url":"https://www.bilibili.com/bangumi/play/ep14767","time":"2012-01-15T00:41:26.000Z"}]},{"id":2947,"sort":2,"name":"風と水の誓い","sites":[{"site":"bilibili","sort":2,"title":"风与水的誓言","url":"https://www.bilibili.com/bangumi/play/ep14768","time":"2012-01-15T00:41:26.000Z"}]},{"id":2948,"sort":3,"name":"聖職者の剣","sites":[{"site":"bilibili","sort":3,"title":"圣职者之剑","url":"https://www.bilibili.com/bangumi/play/ep14769","time":"2012-01-15T00:41:26.000Z"}]},{"id":2949,"sort":4,"name":"ヴァリエールの三姉妹","sites":[{"site":"bilibili","sort":4,"title":"瓦利埃尔家三姊妹","url":"https://www.bilibili.com/bangumi/play/ep14770","time":"2012-01-15T00:41:26.000Z"}]},{"id":2950,"sort":5,"name":"間諜の刻印","sites":[{"site":"bilibili","sort":5,"title":"间谍的刻印","url":"https://www.bilibili.com/bangumi/play/ep14771","time":"2012-01-15T00:41:26.000Z"}]},{"id":2951,"sort":6,"name":"女王の休日","sites":[{"site":"bilibili","sort":6,"title":"女王的假日","url":"https://www.bilibili.com/bangumi/play/ep14772","time":"2012-01-15T00:41:26.000Z"}]},{"id":2952,"sort":7,"name":"地底の秘密文書","sites":[{"site":"bilibili","sort":7,"title":"地底的秘密文书","url":"https://www.bilibili.com/bangumi/play/ep14773","time":"2012-01-15T00:41:26.000Z"}]},{"id":2953,"sort":8,"name":"魔法学院の危機","sites":[{"site":"bilibili","sort":8,"title":"魔法学院的危机","url":"https://www.bilibili.com/bangumi/play/ep14774","time":"2012-01-15T00:41:26.000Z"}]},{"id":2954,"sort":9,"name":"炎の贖罪","sites":[{"site":"bilibili","sort":9,"title":"炎之赎罪","url":"https://www.bilibili.com/bangumi/play/ep14775","time":"2012-01-15T00:41:26.000Z"}]},{"id":2955,"sort":10,"name":"雪嶺の敵","sites":[{"site":"bilibili","sort":10,"title":"雪岭之敌","url":"https://www.bilibili.com/bangumi/play/ep14776","time":"2012-01-15T00:41:26.000Z"}]},{"id":2956,"sort":11,"name":"銀（しろがね）の降臨祭","sites":[{"site":"bilibili","sort":11,"title":"银之降临祭","url":"https://www.bilibili.com/bangumi/play/ep14777","time":"2012-01-15T00:41:26.000Z"}]},{"id":2957,"sort":12,"name":"さよならの結婚式","sites":[{"site":"bilibili","sort":12,"title":"诀别的婚礼","url":"https://www.bilibili.com/bangumi/play/ep14778","time":"2012-01-15T00:41:26.000Z"}]}]}
+{
+ "id": "1103",
+ "name": "ゼロの使い魔 ～双月の騎士～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "819",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 2946,
+   "sort": 1,
+   "name": "女王陛下のゼロ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "女王殿下的ZERO",
+     "url": "https://www.bilibili.com/bangumi/play/ep14767",
+     "time": "2012-01-15T00:41:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2947,
+   "sort": 2,
+   "name": "風と水の誓い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "风与水的誓言",
+     "url": "https://www.bilibili.com/bangumi/play/ep14768",
+     "time": "2012-01-15T00:41:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2948,
+   "sort": 3,
+   "name": "聖職者の剣",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "圣职者之剑",
+     "url": "https://www.bilibili.com/bangumi/play/ep14769",
+     "time": "2012-01-15T00:41:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2949,
+   "sort": 4,
+   "name": "ヴァリエールの三姉妹",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "瓦利埃尔家三姊妹",
+     "url": "https://www.bilibili.com/bangumi/play/ep14770",
+     "time": "2012-01-15T00:41:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2950,
+   "sort": 5,
+   "name": "間諜の刻印",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "间谍的刻印",
+     "url": "https://www.bilibili.com/bangumi/play/ep14771",
+     "time": "2012-01-15T00:41:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2951,
+   "sort": 6,
+   "name": "女王の休日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "女王的假日",
+     "url": "https://www.bilibili.com/bangumi/play/ep14772",
+     "time": "2012-01-15T00:41:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2952,
+   "sort": 7,
+   "name": "地底の秘密文書",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "地底的秘密文书",
+     "url": "https://www.bilibili.com/bangumi/play/ep14773",
+     "time": "2012-01-15T00:41:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2953,
+   "sort": 8,
+   "name": "魔法学院の危機",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "魔法学院的危机",
+     "url": "https://www.bilibili.com/bangumi/play/ep14774",
+     "time": "2012-01-15T00:41:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2954,
+   "sort": 9,
+   "name": "炎の贖罪",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "炎之赎罪",
+     "url": "https://www.bilibili.com/bangumi/play/ep14775",
+     "time": "2012-01-15T00:41:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2955,
+   "sort": 10,
+   "name": "雪嶺の敵",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "雪岭之敌",
+     "url": "https://www.bilibili.com/bangumi/play/ep14776",
+     "time": "2012-01-15T00:41:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2956,
+   "sort": 11,
+   "name": "銀（しろがね）の降臨祭",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "银之降临祭",
+     "url": "https://www.bilibili.com/bangumi/play/ep14777",
+     "time": "2012-01-15T00:41:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2957,
+   "sort": 12,
+   "name": "さよならの結婚式",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "诀别的婚礼",
+     "url": "https://www.bilibili.com/bangumi/play/ep14778",
+     "time": "2012-01-15T00:41:26.000Z"
+    }
+   ]
+  }
+ ]
+}

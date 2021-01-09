@@ -1,1 +1,167 @@
-{"id":"177092","name":"ダンガンロンパ3-The End of 希望ヶ峰学園-絶望編","sites":[{"site":"bilibili","id":"5057","sort":12}],"eps":[{"id":641024,"sort":1,"name":"ただいま希望ヶ峰学園","sites":[{"site":"bilibili","sort":1,"title":"我回来了 希望之峰学园 ","url":"https://www.bilibili.com/bangumi/play/ep90847","time":"2016-07-14T16:00:01.000Z"}]},{"id":641025,"sort":2,"name":"したごころを君に","sites":[{"site":"bilibili","sort":2,"title":"向你倾诉我的真心","url":"https://www.bilibili.com/bangumi/play/ep92573","time":"2016-07-21T16:00:02.000Z"}]},{"id":641026,"sort":3,"name":"全ての未来にさよならを","sites":[{"site":"bilibili","sort":3,"title":"向所有的未来告别","url":"https://www.bilibili.com/bangumi/play/ep92574","time":"2016-07-28T16:01:02.000Z"}]},{"id":641027,"sort":4,"name":"狛枝凪斗の憂鬱と驚愕と消失","sites":[{"site":"bilibili","sort":4,"title":"狛枝凪斗的忧郁与惊愕与消失","url":"https://www.bilibili.com/bangumi/play/ep92575","time":"2016-08-04T16:00:02.000Z"}]},{"id":641028,"sort":5,"name":"終わりの始まり","sites":[{"site":"bilibili","sort":5,"title":"终结的开始","url":"https://www.bilibili.com/bangumi/play/ep92576","time":"2016-08-11T16:00:10.000Z"}]},{"id":641029,"sort":6,"name":"絶望的に運命的な出会い","sites":[{"site":"bilibili","sort":6,"title":"绝望的命运的邂逅","url":"https://www.bilibili.com/bangumi/play/ep92577","time":"2016-08-18T16:00:10.000Z"}]},{"id":641030,"sort":7,"name":"希望ヶ峰学園史上最大最悪の事件","sites":[{"site":"bilibili","sort":7,"title":"希望之峰学园史上最大最恶的事件","url":"https://www.bilibili.com/bangumi/play/ep92578","time":"2016-08-25T16:00:10.000Z"}]},{"id":641031,"sort":8,"name":"偶然にも最悪な再会","sites":[{"site":"bilibili","sort":8,"title":"偶然的最恶重逢","url":"https://www.bilibili.com/bangumi/play/ep92579","time":"2016-09-01T16:00:10.000Z"}]},{"id":641032,"sort":9,"name":"雪染ちさは笑わない","sites":[{"site":"bilibili","sort":9,"title":"雪染千纱笑不出来","url":"https://www.bilibili.com/bangumi/play/ep92580","time":"2016-09-08T16:00:10.000Z"}]},{"id":641033,"sort":10,"name":"君は希望という名の絶望に微笑む","sites":[{"site":"bilibili","sort":10,"title":"你面对以希望为名的绝望微笑","url":"https://www.bilibili.com/bangumi/play/ep92581","time":"2016-09-15T16:00:10.000Z"}]},{"id":641034,"sort":11,"name":"さよなら希望ヶ峰学園","sites":[{"site":"bilibili","sort":11,"title":"再见 希望之峰学园","url":"https://www.bilibili.com/bangumi/play/ep92582","time":"2016-09-22T16:00:10.000Z"}]}]}
+{
+ "id": "177092",
+ "name": "ダンガンロンパ3-The End of 希望ヶ峰学園-絶望編",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5057",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 641024,
+   "sort": 1,
+   "name": "ただいま希望ヶ峰学園",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "我回来了 希望之峰学园 ",
+     "url": "https://www.bilibili.com/bangumi/play/ep90847",
+     "time": "2016-07-14T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641025,
+   "sort": 2,
+   "name": "したごころを君に",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "向你倾诉我的真心",
+     "url": "https://www.bilibili.com/bangumi/play/ep92573",
+     "time": "2016-07-21T16:00:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641026,
+   "sort": 3,
+   "name": "全ての未来にさよならを",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "向所有的未来告别",
+     "url": "https://www.bilibili.com/bangumi/play/ep92574",
+     "time": "2016-07-28T16:01:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641027,
+   "sort": 4,
+   "name": "狛枝凪斗の憂鬱と驚愕と消失",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "狛枝凪斗的忧郁与惊愕与消失",
+     "url": "https://www.bilibili.com/bangumi/play/ep92575",
+     "time": "2016-08-04T16:00:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641028,
+   "sort": 5,
+   "name": "終わりの始まり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "终结的开始",
+     "url": "https://www.bilibili.com/bangumi/play/ep92576",
+     "time": "2016-08-11T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641029,
+   "sort": 6,
+   "name": "絶望的に運命的な出会い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "绝望的命运的邂逅",
+     "url": "https://www.bilibili.com/bangumi/play/ep92577",
+     "time": "2016-08-18T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641030,
+   "sort": 7,
+   "name": "希望ヶ峰学園史上最大最悪の事件",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "希望之峰学园史上最大最恶的事件",
+     "url": "https://www.bilibili.com/bangumi/play/ep92578",
+     "time": "2016-08-25T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641031,
+   "sort": 8,
+   "name": "偶然にも最悪な再会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "偶然的最恶重逢",
+     "url": "https://www.bilibili.com/bangumi/play/ep92579",
+     "time": "2016-09-01T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641032,
+   "sort": 9,
+   "name": "雪染ちさは笑わない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "雪染千纱笑不出来",
+     "url": "https://www.bilibili.com/bangumi/play/ep92580",
+     "time": "2016-09-08T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641033,
+   "sort": 10,
+   "name": "君は希望という名の絶望に微笑む",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "你面对以希望为名的绝望微笑",
+     "url": "https://www.bilibili.com/bangumi/play/ep92581",
+     "time": "2016-09-15T16:00:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641034,
+   "sort": 11,
+   "name": "さよなら希望ヶ峰学園",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "再见 希望之峰学园",
+     "url": "https://www.bilibili.com/bangumi/play/ep92582",
+     "time": "2016-09-22T16:00:10.000Z"
+    }
+   ]
+  }
+ ]
+}

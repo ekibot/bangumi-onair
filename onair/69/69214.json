@@ -1,1 +1,169 @@
-{"id":"69214","name":"私がモテないのはどう考えてもお前らが悪い！","sites":[{"site":"qq","id":"p/pz9nim110g6rdfy","sort":13}],"eps":[{"id":288906,"sort":1,"name":"モテないし、ちょっとイメチェンするわ","sites":[{"site":"qq","sort":1,"title":"第01话 反正不受欢迎 稍微改变下形象啦","url":"http://v.youku.com/v_show/id_XNTgwNzc4ODAw.html"}]},{"id":288907,"sort":2,"name":"モテないし、昔の友達に会う","sites":[{"site":"qq","sort":2,"title":"第02话 反正不受欢迎 和原来的朋友见面","url":"http://v.youku.com/v_show/id_XNTgzNDQxODQ4.html"}]},{"id":288917,"sort":3,"name":"モテないし、悪天候","sites":[{"site":"qq","sort":3,"title":"第03话 反正不受欢迎 和坏天气","url":"http://v.youku.com/v_show/id_XNTg2MzM0NDY4.html"}]},{"id":288909,"sort":4,"name":"モテないし、ちょっといい夢見るわ","sites":[{"site":"qq","sort":4,"title":"第04话 不受欢迎 做个美梦","url":"http://v.youku.com/v_show/id_XNTg5NTQ1NDg0.html"}]},{"id":288910,"sort":5,"name":"モテないし、スキルアップしてみる","sites":[{"site":"qq","sort":5,"title":"第05话 反正没人爱 练练技能好了","url":"http://v.youku.com/v_show/id_XNTkyMTk1MTcy.html"}]},{"id":288911,"sort":6,"name":"モテないし、花火に行く","sites":[{"site":"qq","sort":6,"title":"第06话 不受欢迎 去看花火","url":"http://v.youku.com/v_show/id_XNTk1MjI2NzE2.html"}]},{"id":288912,"sort":7,"name":"モテないし、夏休みを満喫する","sites":[{"site":"qq","sort":7,"title":"第07话 不受欢迎 享受暑假","url":"http://v.youku.com/v_show/id_XMTQxNzI2MzU5Mg==.html"}]},{"id":288913,"sort":8,"name":"モテないし、見栄をはる","sites":[{"site":"qq","sort":8,"title":"第08话 反正没人爱 死要面子","url":"http://v.youku.com/v_show/id_XNjAzMDQyNzI4.html"}]},{"id":288914,"sort":9,"name":"モテないし、夏が終わる","sites":[{"site":"qq","sort":9,"title":"第09话 不受欢迎 夏天结束","url":"http://v.youku.com/v_show/id_XNjA0NjE2ODQw.html"}]},{"id":288915,"sort":10,"name":"モテないし、二学期が始まる","sites":[{"site":"qq","sort":10,"title":"第10话 反正没人爱 第二学期开始","url":"http://v.youku.com/v_show/id_XNjA3NjUxNzQw.html"}]},{"id":288916,"sort":11,"name":"モテないし、文化祭に参加する","sites":[{"site":"qq","sort":11,"title":"第11话 不受欢迎 参加文化祭","url":"http://v.youku.com/v_show/id_XMTQxNzI2NDY2OA==.html"}]},{"id":288908,"sort":12,"name":"モテないし、将来を考える","sites":[{"site":"qq","sort":12,"title":"第12话 不受欢迎 考虑将来","url":"http://v.youku.com/v_show/id_XNjEyOTgzMTQ0.html"}]}]}
+{
+ "id": "69214",
+ "name": "私がモテないのはどう考えてもお前らが悪い！",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "p/pz9nim110g6rdfy",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 288906,
+   "sort": 1,
+   "name": "モテないし、ちょっとイメチェンするわ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第01话 反正不受欢迎 稍微改变下形象啦",
+     "url": "http://v.youku.com/v_show/id_XNTgwNzc4ODAw.html"
+    }
+   ]
+  },
+  {
+   "id": 288907,
+   "sort": 2,
+   "name": "モテないし、昔の友達に会う",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "第02话 反正不受欢迎 和原来的朋友见面",
+     "url": "http://v.youku.com/v_show/id_XNTgzNDQxODQ4.html"
+    }
+   ]
+  },
+  {
+   "id": 288917,
+   "sort": 3,
+   "name": "モテないし、悪天候",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "第03话 反正不受欢迎 和坏天气",
+     "url": "http://v.youku.com/v_show/id_XNTg2MzM0NDY4.html"
+    }
+   ]
+  },
+  {
+   "id": 288909,
+   "sort": 4,
+   "name": "モテないし、ちょっといい夢見るわ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "第04话 不受欢迎 做个美梦",
+     "url": "http://v.youku.com/v_show/id_XNTg5NTQ1NDg0.html"
+    }
+   ]
+  },
+  {
+   "id": 288910,
+   "sort": 5,
+   "name": "モテないし、スキルアップしてみる",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "第05话 反正没人爱 练练技能好了",
+     "url": "http://v.youku.com/v_show/id_XNTkyMTk1MTcy.html"
+    }
+   ]
+  },
+  {
+   "id": 288911,
+   "sort": 6,
+   "name": "モテないし、花火に行く",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "第06话 不受欢迎 去看花火",
+     "url": "http://v.youku.com/v_show/id_XNTk1MjI2NzE2.html"
+    }
+   ]
+  },
+  {
+   "id": 288912,
+   "sort": 7,
+   "name": "モテないし、夏休みを満喫する",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "第07话 不受欢迎 享受暑假",
+     "url": "http://v.youku.com/v_show/id_XMTQxNzI2MzU5Mg==.html"
+    }
+   ]
+  },
+  {
+   "id": 288913,
+   "sort": 8,
+   "name": "モテないし、見栄をはる",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "第08话 反正没人爱 死要面子",
+     "url": "http://v.youku.com/v_show/id_XNjAzMDQyNzI4.html"
+    }
+   ]
+  },
+  {
+   "id": 288914,
+   "sort": 9,
+   "name": "モテないし、夏が終わる",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "第09话 不受欢迎 夏天结束",
+     "url": "http://v.youku.com/v_show/id_XNjA0NjE2ODQw.html"
+    }
+   ]
+  },
+  {
+   "id": 288915,
+   "sort": 10,
+   "name": "モテないし、二学期が始まる",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "第10话 反正没人爱 第二学期开始",
+     "url": "http://v.youku.com/v_show/id_XNjA3NjUxNzQw.html"
+    }
+   ]
+  },
+  {
+   "id": 288916,
+   "sort": 11,
+   "name": "モテないし、文化祭に参加する",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "第11话 不受欢迎 参加文化祭",
+     "url": "http://v.youku.com/v_show/id_XMTQxNzI2NDY2OA==.html"
+    }
+   ]
+  },
+  {
+   "id": 288908,
+   "sort": 12,
+   "name": "モテないし、将来を考える",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "第12话 不受欢迎 考虑将来",
+     "url": "http://v.youku.com/v_show/id_XNjEyOTgzMTQ0.html"
+    }
+   ]
+  }
+ ]
+}

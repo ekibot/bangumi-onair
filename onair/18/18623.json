@@ -1,1 +1,137 @@
-{"id":"18623","name":"薄桜鬼 雪華録","sites":[{"site":"iqiyi","id":"a_19rrjzlxfh","sort":5},{"site":"bilibili","id":"764","sort":6}],"eps":[{"id":102702,"sort":1,"name":"玄夜の白雪","sites":[{"site":"iqiyi","sort":1,"title":"玄夜白雪冲田总司篇","url":"http://www.iqiyi.com/v_19rrk7mzwc.html","time":"2012-07-01T06:23:59.000Z"},{"site":"bilibili","sort":1,"title":"深夜的白雪","url":"https://www.bilibili.com/bangumi/play/ep13683","time":"2011-08-29T17:35:54.000Z"}]},{"id":102703,"sort":2,"name":"冬の埋み火","sites":[{"site":"iqiyi","sort":2,"title":"冬季之火斋藤一篇","url":"http://www.iqiyi.com/v_19rrk7mzqs.html","time":"2012-07-01T06:23:59.000Z"},{"site":"bilibili","sort":2,"title":"逝於冬日之火","url":"https://www.bilibili.com/bangumi/play/ep13682","time":"2011-08-30T15:49:59.000Z"}]},{"id":102704,"sort":3,"name":"空裂く槍","sites":[{"site":"iqiyi","sort":3,"title":"裂空之枪原田左之助篇","url":"http://www.iqiyi.com/v_19rrk7mz4k.html","time":"2012-07-01T06:23:59.000Z"},{"site":"bilibili","sort":3,"title":"裂空之枪","url":"https://www.bilibili.com/bangumi/play/ep13681","time":"2011-10-04T18:57:07.000Z"}]},{"id":102705,"sort":4,"name":"揺蕩う舟","sites":[{"site":"iqiyi","sort":4,"title":"摇荡之舟藤堂平助篇","url":"http://www.iqiyi.com/v_19rrk7mz8w.html","time":"2012-07-01T06:23:59.000Z"},{"site":"bilibili","sort":4,"title":"摇荡之舟","url":"https://www.bilibili.com/bangumi/play/ep13680","time":"2011-10-31T12:23:11.000Z"}]},{"id":102706,"sort":5,"name":"天明の風","sites":[{"site":"iqiyi","sort":5,"title":"天明之风土方岁三篇","url":"http://www.iqiyi.com/v_19rrk7myy4.html","time":"2012-07-01T06:23:59.000Z"},{"site":"bilibili","sort":5,"title":"黎明之风","url":"https://www.bilibili.com/bangumi/play/ep13679","time":"2011-11-28T23:27:03.000Z"}]},{"id":181207,"sort":6,"name":"雪華の舞","sites":[{"site":"bilibili","sort":6,"title":"雪华之舞","url":"https://www.bilibili.com/bangumi/play/ep85840","time":"2016-04-08T07:06:57.000Z"}]}]}
+{
+ "id": "18623",
+ "name": "薄桜鬼 雪華録",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrjzlxfh",
+   "sort": 5
+  },
+  {
+   "site": "bilibili",
+   "id": "764",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 102702,
+   "sort": 1,
+   "name": "玄夜の白雪",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "玄夜白雪冲田总司篇",
+     "url": "http://www.iqiyi.com/v_19rrk7mzwc.html",
+     "time": "2012-07-01T06:23:59.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "深夜的白雪",
+     "url": "https://www.bilibili.com/bangumi/play/ep13683",
+     "time": "2011-08-29T17:35:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102703,
+   "sort": 2,
+   "name": "冬の埋み火",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "冬季之火斋藤一篇",
+     "url": "http://www.iqiyi.com/v_19rrk7mzqs.html",
+     "time": "2012-07-01T06:23:59.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "逝於冬日之火",
+     "url": "https://www.bilibili.com/bangumi/play/ep13682",
+     "time": "2011-08-30T15:49:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102704,
+   "sort": 3,
+   "name": "空裂く槍",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "裂空之枪原田左之助篇",
+     "url": "http://www.iqiyi.com/v_19rrk7mz4k.html",
+     "time": "2012-07-01T06:23:59.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "裂空之枪",
+     "url": "https://www.bilibili.com/bangumi/play/ep13681",
+     "time": "2011-10-04T18:57:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102705,
+   "sort": 4,
+   "name": "揺蕩う舟",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "摇荡之舟藤堂平助篇",
+     "url": "http://www.iqiyi.com/v_19rrk7mz8w.html",
+     "time": "2012-07-01T06:23:59.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "摇荡之舟",
+     "url": "https://www.bilibili.com/bangumi/play/ep13680",
+     "time": "2011-10-31T12:23:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 102706,
+   "sort": 5,
+   "name": "天明の風",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "天明之风土方岁三篇",
+     "url": "http://www.iqiyi.com/v_19rrk7myy4.html",
+     "time": "2012-07-01T06:23:59.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "黎明之风",
+     "url": "https://www.bilibili.com/bangumi/play/ep13679",
+     "time": "2011-11-28T23:27:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 181207,
+   "sort": 6,
+   "name": "雪華の舞",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "雪华之舞",
+     "url": "https://www.bilibili.com/bangumi/play/ep85840",
+     "time": "2016-04-08T07:06:57.000Z"
+    }
+   ]
+  }
+ ]
+}

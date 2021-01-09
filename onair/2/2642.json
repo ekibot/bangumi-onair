@@ -1,1 +1,278 @@
-{"id":"2642","name":"双恋","sites":[{"site":"qq","id":"j/jvyqjfw72ze1ncj","sort":13},{"site":"bilibili","id":"1937","sort":13}],"eps":[{"id":16639,"sort":1,"name":"双子塚のある街で","sites":[{"site":"qq","sort":1,"title":"第01话 有双子冢的街","url":"http://v.youku.com/v_show/id_XNTAxODg0OTA0.html"},{"site":"bilibili","sort":1,"title":"有双子冢的街","url":"https://www.bilibili.com/bangumi/play/ep41810","time":"2010-04-04T07:46:00.000Z"}]},{"id":16640,"sort":2,"name":"思い出のアイスクリーム","sites":[{"site":"qq","sort":2,"title":"第02话 回忆的冰淇淋","url":"http://v.youku.com/v_show/id_XNTAxODg1MTQ4.html"},{"site":"bilibili","sort":2,"title":"回忆的冰淇淋","url":"https://www.bilibili.com/bangumi/play/ep41811","time":"2010-04-04T07:46:00.000Z"}]},{"id":16641,"sort":3,"name":"アップルパイは恋の味","sites":[{"site":"qq","sort":3,"title":"第03话 苹果派是恋爱的滋味","url":"http://v.youku.com/v_show/id_XNDk4NDgwODgw.html"},{"site":"bilibili","sort":3,"title":"苹果派是恋爱的滋味","url":"https://www.bilibili.com/bangumi/play/ep41812","time":"2010-04-04T07:46:00.000Z"}]},{"id":16642,"sort":4,"name":"イチゴタルトで待ち合わせ","sites":[{"site":"qq","sort":4,"title":"第04话 草莓甜饼处等你","url":"http://v.youku.com/v_show/id_XNTAxODg1MDg4.html"},{"site":"bilibili","sort":4,"title":"草莓甜饼处等你","url":"https://www.bilibili.com/bangumi/play/ep41813","time":"2010-04-04T07:46:00.000Z"}]},{"id":16643,"sort":5,"name":"動き出した時間","sites":[{"site":"qq","sort":5,"title":"第05话 转动的时间","url":"http://v.youku.com/v_show/id_XNTAxODg1Mjk2.html"},{"site":"bilibili","sort":5,"title":"转动的时间","url":"https://www.bilibili.com/bangumi/play/ep41814","time":"2010-04-04T07:46:00.000Z"}]},{"id":16644,"sort":6,"name":"夏のロケット","sites":[{"site":"qq","sort":6,"title":"第06话 夏日的火箭","url":"http://v.youku.com/v_show/id_XNDk4NDgxMTUy.html"},{"site":"bilibili","sort":6,"title":"夏日的火箭","url":"https://www.bilibili.com/bangumi/play/ep41815","time":"2010-04-04T07:46:00.000Z"}]},{"id":16645,"sort":7,"name":"真夏の宝石箱","sites":[{"site":"qq","sort":7,"title":"第07话 仲夏的宝石箱","url":"http://v.youku.com/v_show/id_XNTAxODg1NTky.html"},{"site":"bilibili","sort":7,"title":"仲夏的宝石箱","url":"https://www.bilibili.com/bangumi/play/ep41816","time":"2010-04-04T07:46:00.000Z"}]},{"id":16646,"sort":8,"name":"白いスケッチブック","sites":[{"site":"qq","sort":8,"title":"第08话 白色的写生簿","url":"http://v.youku.com/v_show/id_XNTAxODg1NDA4.html"},{"site":"bilibili","sort":8,"title":"白色的写生簿","url":"https://www.bilibili.com/bangumi/play/ep41817","time":"2010-04-04T07:46:00.000Z"}]},{"id":16647,"sort":9,"name":"夕焼けのパステル","sites":[{"site":"qq","sort":9,"title":"第09话 夕阳的彩色蜡笔","url":"http://v.youku.com/v_show/id_XNTAxODg1NzU2.html"},{"site":"bilibili","sort":9,"title":"夕阳的彩色蜡笔","url":"https://www.bilibili.com/bangumi/play/ep41818","time":"2010-04-04T07:46:00.000Z"}]},{"id":16648,"sort":10,"name":"トライアングル・クリスマス","sites":[{"site":"qq","sort":10,"title":"第10话 三角铃·圣诞","url":"http://v.youku.com/v_show/id_XNTAxODg1ODk2.html"},{"site":"bilibili","sort":10,"title":"三角铃·圣诞","url":"https://www.bilibili.com/bangumi/play/ep41819","time":"2010-04-04T07:46:00.000Z"}]},{"id":16649,"sort":11,"name":"迷い心で初詣","sites":[{"site":"qq","sort":11,"title":"第11话 迷失的新年参拜","url":"http://v.youku.com/v_show/id_XNTAxODg2MTI4.html"},{"site":"bilibili","sort":11,"title":"迷失的新年参拜","url":"https://www.bilibili.com/bangumi/play/ep41820","time":"2010-04-04T07:46:00.000Z"}]},{"id":16650,"sort":12,"name":"バレンタイン・パニック","sites":[{"site":"qq","sort":12,"title":"第12话 情人节恐慌","url":"http://v.youku.com/v_show/id_XNDk4NDg0Njky.html"},{"site":"bilibili","sort":12,"title":"情人节·危机","url":"https://www.bilibili.com/bangumi/play/ep41821","time":"2010-04-04T07:46:00.000Z"}]},{"id":16651,"sort":13,"name":"春遠からじ…","sites":[{"site":"qq","sort":13,"title":"第13话 不远的春天","url":"http://v.youku.com/v_show/id_XNTAxODg1OTYw.html"},{"site":"bilibili","sort":13,"title":"不远的春天","url":"https://www.bilibili.com/bangumi/play/ep41822","time":"2010-04-04T07:46:00.000Z"}]}]}
+{
+ "id": "2642",
+ "name": "双恋",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "j/jvyqjfw72ze1ncj",
+   "sort": 13
+  },
+  {
+   "site": "bilibili",
+   "id": "1937",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 16639,
+   "sort": 1,
+   "name": "双子塚のある街で",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第01话 有双子冢的街",
+     "url": "http://v.youku.com/v_show/id_XNTAxODg0OTA0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "有双子冢的街",
+     "url": "https://www.bilibili.com/bangumi/play/ep41810",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 16640,
+   "sort": 2,
+   "name": "思い出のアイスクリーム",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "第02话 回忆的冰淇淋",
+     "url": "http://v.youku.com/v_show/id_XNTAxODg1MTQ4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "回忆的冰淇淋",
+     "url": "https://www.bilibili.com/bangumi/play/ep41811",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 16641,
+   "sort": 3,
+   "name": "アップルパイは恋の味",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "第03话 苹果派是恋爱的滋味",
+     "url": "http://v.youku.com/v_show/id_XNDk4NDgwODgw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "苹果派是恋爱的滋味",
+     "url": "https://www.bilibili.com/bangumi/play/ep41812",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 16642,
+   "sort": 4,
+   "name": "イチゴタルトで待ち合わせ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "第04话 草莓甜饼处等你",
+     "url": "http://v.youku.com/v_show/id_XNTAxODg1MDg4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "草莓甜饼处等你",
+     "url": "https://www.bilibili.com/bangumi/play/ep41813",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 16643,
+   "sort": 5,
+   "name": "動き出した時間",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "第05话 转动的时间",
+     "url": "http://v.youku.com/v_show/id_XNTAxODg1Mjk2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "转动的时间",
+     "url": "https://www.bilibili.com/bangumi/play/ep41814",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 16644,
+   "sort": 6,
+   "name": "夏のロケット",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "第06话 夏日的火箭",
+     "url": "http://v.youku.com/v_show/id_XNDk4NDgxMTUy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "夏日的火箭",
+     "url": "https://www.bilibili.com/bangumi/play/ep41815",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 16645,
+   "sort": 7,
+   "name": "真夏の宝石箱",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "第07话 仲夏的宝石箱",
+     "url": "http://v.youku.com/v_show/id_XNTAxODg1NTky.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "仲夏的宝石箱",
+     "url": "https://www.bilibili.com/bangumi/play/ep41816",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 16646,
+   "sort": 8,
+   "name": "白いスケッチブック",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "第08话 白色的写生簿",
+     "url": "http://v.youku.com/v_show/id_XNTAxODg1NDA4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "白色的写生簿",
+     "url": "https://www.bilibili.com/bangumi/play/ep41817",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 16647,
+   "sort": 9,
+   "name": "夕焼けのパステル",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "第09话 夕阳的彩色蜡笔",
+     "url": "http://v.youku.com/v_show/id_XNTAxODg1NzU2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "夕阳的彩色蜡笔",
+     "url": "https://www.bilibili.com/bangumi/play/ep41818",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 16648,
+   "sort": 10,
+   "name": "トライアングル・クリスマス",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "第10话 三角铃·圣诞",
+     "url": "http://v.youku.com/v_show/id_XNTAxODg1ODk2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "三角铃·圣诞",
+     "url": "https://www.bilibili.com/bangumi/play/ep41819",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 16649,
+   "sort": 11,
+   "name": "迷い心で初詣",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "第11话 迷失的新年参拜",
+     "url": "http://v.youku.com/v_show/id_XNTAxODg2MTI4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "迷失的新年参拜",
+     "url": "https://www.bilibili.com/bangumi/play/ep41820",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 16650,
+   "sort": 12,
+   "name": "バレンタイン・パニック",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "第12话 情人节恐慌",
+     "url": "http://v.youku.com/v_show/id_XNDk4NDg0Njky.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "情人节·危机",
+     "url": "https://www.bilibili.com/bangumi/play/ep41821",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 16651,
+   "sort": 13,
+   "name": "春遠からじ…",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "第13话 不远的春天",
+     "url": "http://v.youku.com/v_show/id_XNTAxODg1OTYw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "不远的春天",
+     "url": "https://www.bilibili.com/bangumi/play/ep41822",
+     "time": "2010-04-04T07:46:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,55 @@
-{"id":"302293","name":"BURN THE WITCH","sites":[{"site":"bilibili","id":"28229901","sort":5}],"eps":[{"id":978142,"sort":1,"name":"Witches Blow a New Pipe","sites":[{"site":"bilibili","sort":1,"title":"魔女吹响新号角","url":"https://www.bilibili.com/bangumi/play/ep342362","time":"2020-10-02T00:00:01.000Z"}]},{"id":978143,"sort":2,"name":"Ghillie Suit /She Makes Me Special","sites":[{"site":"bilibili","sort":2,"title":"吉利服 / 她让我与众不同","url":"https://www.bilibili.com/bangumi/play/ep342363","time":"2020-10-02T00:00:01.000Z"}]},{"id":978144,"sort":3,"name":"If a lion could speak, we couldn't understand","sites":[{"site":"bilibili","sort":3,"title":"就算狮子能说话，我们也无法理解","url":"https://www.bilibili.com/bangumi/play/ep342364","time":"2020-10-02T00:00:01.000Z"}]}]}
+{
+ "id": "302293",
+ "name": "BURN THE WITCH",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28229901",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 978142,
+   "sort": 1,
+   "name": "Witches Blow a New Pipe",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "魔女吹响新号角",
+     "url": "https://www.bilibili.com/bangumi/play/ep342362",
+     "time": "2020-10-02T00:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978143,
+   "sort": 2,
+   "name": "Ghillie Suit /She Makes Me Special",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "吉利服 / 她让我与众不同",
+     "url": "https://www.bilibili.com/bangumi/play/ep342363",
+     "time": "2020-10-02T00:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 978144,
+   "sort": 3,
+   "name": "If a lion could speak, we couldn't understand",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "就算狮子能说话，我们也无法理解",
+     "url": "https://www.bilibili.com/bangumi/play/ep342364",
+     "time": "2020-10-02T00:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

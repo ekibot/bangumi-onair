@@ -1,0 +1,39 @@
+{
+ "id": "289054",
+ "name": "ハイキュー!! 陸 VS 空",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "aabcf2748b67401d8316",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 900692,
+   "sort": 1,
+   "name": "ハイキュー!! 陸 VS 空",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "排球少年 陆VS空 上",
+     "url": "https://v.youku.com/v_show/id_XNDUzMDMwODkyOA==.html?s=aabcf2748b67401d8316"
+    }
+   ]
+  },
+  {
+   "id": 900693,
+   "sort": 2,
+   "name": "ハイキュー!! ボールの&quot;道&quot;",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "排球少年 陆VS空 下",
+     "url": "https://v.youku.com/v_show/id_XNDUzMDMwODkyNA==.html?s=aabcf2748b67401d8316"
+    }
+   ]
+  }
+ ]
+}

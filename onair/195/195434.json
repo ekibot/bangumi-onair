@@ -1,1 +1,181 @@
-{"id":"195434","name":"王室教師ハイネ","sites":[{"site":"iqiyi","id":"a_19rrh9f8up","sort":12},{"site":"bilibili","id":"5990","sort":12},{"site":"youku","id":"efbfbdefbfbd3befbfbd","sort":12}],"eps":[{"id":705248,"sort":1,"name":"王室教師、来る","sites":[{"site":"iqiyi","sort":1,"title":"王室教师 来临","url":"http://www.iqiyi.com/v_19rrb3qpa8.html","time":"2017-04-04T18:00:16.000Z"},{"site":"bilibili","sort":1,"title":"王室教师、来临","url":"https://www.bilibili.com/bangumi/play/ep103320","time":"2017-04-04T18:05:00.000Z"}]},{"id":705249,"sort":2,"name":"王子面談","sites":[{"site":"iqiyi","sort":2,"title":"王子面谈","url":"http://www.iqiyi.com/v_19rrbc3kmk.html","time":"2017-04-11T18:00:06.000Z"},{"site":"bilibili","sort":2,"title":"王子面谈","url":"https://www.bilibili.com/bangumi/play/ep103321","time":"2017-04-11T18:05:00.000Z"}]},{"id":705250,"sort":3,"name":"認めなくてもいいので","sites":[{"site":"iqiyi","sort":3,"title":"不认同我也没关系","url":"http://www.iqiyi.com/v_19rraxqmos.html","time":"2017-04-18T18:00:11.000Z"},{"site":"bilibili","sort":3,"title":"就算你不认同也没关系","url":"https://www.bilibili.com/bangumi/play/ep103322","time":"2017-04-18T18:05:00.000Z"}]},{"id":705251,"sort":4,"name":"王子、街へ行く","sites":[{"site":"iqiyi","sort":4,"title":"王子 前往镇上","url":"http://www.iqiyi.com/v_19rrb2ljws.html","time":"2017-04-25T18:00:13.000Z"},{"site":"bilibili","sort":4,"title":"王子、前往城镇","url":"https://www.bilibili.com/bangumi/play/ep103323","time":"2017-04-25T18:05:00.000Z"}]},{"id":705252,"sort":5,"name":"最大の試練、襲来","sites":[{"site":"iqiyi","sort":5,"title":"最大的试炼 袭来","url":"http://www.iqiyi.com/v_19rr7bywl4.html","time":"2017-05-02T18:00:06.000Z"},{"site":"bilibili","sort":5,"title":"最大的考验、来袭","url":"https://www.bilibili.com/bangumi/play/ep103324","time":"2017-05-02T18:05:00.000Z"}]},{"id":705253,"sort":6,"name":"カフェ・ミッター・マイヤーにて","sites":[{"site":"iqiyi","sort":6,"title":"在咖啡店·米塔·玛雅","url":"http://www.iqiyi.com/v_19rr79kgx8.html","time":"2017-05-09T18:00:10.000Z"},{"site":"bilibili","sort":6,"title":"在咖啡店米达麦亚","url":"https://www.bilibili.com/bangumi/play/ep103325","time":"2017-05-09T18:05:00.000Z"}]},{"id":705254,"sort":7,"name":"夢の在処","sites":[{"site":"iqiyi","sort":7,"title":"梦之所在","url":"http://www.iqiyi.com/v_19rr7h2q4k.html","time":"2017-05-16T18:05:08.000Z"},{"site":"bilibili","sort":7,"title":"梦想所在","url":"https://www.bilibili.com/bangumi/play/ep103326","time":"2017-05-16T18:05:00.000Z"}]},{"id":705255,"sort":8,"name":"臆病な心","sites":[{"site":"iqiyi","sort":8,"title":"胆小的心","url":"http://www.iqiyi.com/v_19rr7evx94.html","time":"2017-05-23T18:00:15.000Z"},{"site":"bilibili","sort":8,"title":"胆怯的心","url":"https://www.bilibili.com/bangumi/play/ep103327","time":"2017-05-23T18:05:00.000Z"}]},{"id":705256,"sort":9,"name":"過去の代償","sites":[{"site":"iqiyi","sort":9,"title":"过去的代价","url":"http://www.iqiyi.com/v_19rr71i9ec.html","time":"2017-05-31T01:22:19.000Z"},{"site":"bilibili","sort":9,"title":"过去的代价","url":"https://www.bilibili.com/bangumi/play/ep103328","time":"2017-05-31T01:08:09.000Z"}]},{"id":705257,"sort":10,"name":"僕の知らない先生","sites":[{"site":"iqiyi","sort":10,"title":"我所不知道的老师","url":"http://www.iqiyi.com/v_19rr6zb17o.html","time":"2017-06-07T01:26:03.000Z"},{"site":"bilibili","sort":10,"title":"我所不知道的老师","url":"https://www.bilibili.com/bangumi/play/ep103329","time":"2017-06-07T01:03:46.000Z"}]},{"id":705258,"sort":11,"name":"二人の約束","sites":[{"site":"iqiyi","sort":11,"title":"两人的约定","url":"http://www.iqiyi.com/v_19rr75z6ec.html","time":"2017-06-13T18:30:13.000Z"},{"site":"bilibili","sort":11,"title":"两人的约定","url":"https://www.bilibili.com/bangumi/play/ep103330","time":"2017-06-13T18:05:00.000Z"}]},{"id":705259,"sort":12,"name":"最後の授業","sites":[{"site":"iqiyi","sort":12,"title":"最后的授课","url":"http://www.iqiyi.com/v_19rr735r8w.html","time":"2017-06-20T18:00:13.000Z"},{"site":"bilibili","sort":12,"title":"最后一课","url":"https://www.bilibili.com/bangumi/play/ep103331","time":"2017-06-20T18:05:00.000Z"}]}]}
+{
+ "id": "195434",
+ "name": "王室教師ハイネ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5990",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 705248,
+   "sort": 1,
+   "name": "王室教師、来る",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "王室教师、来临",
+     "url": "https://www.bilibili.com/bangumi/play/ep103320",
+     "time": "2017-04-04T18:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705249,
+   "sort": 2,
+   "name": "王子面談",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "王子面谈",
+     "url": "https://www.bilibili.com/bangumi/play/ep103321",
+     "time": "2017-04-11T18:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705250,
+   "sort": 3,
+   "name": "認めなくてもいいので",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "就算你不认同也没关系",
+     "url": "https://www.bilibili.com/bangumi/play/ep103322",
+     "time": "2017-04-18T18:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705251,
+   "sort": 4,
+   "name": "王子、街へ行く",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "王子、前往城镇",
+     "url": "https://www.bilibili.com/bangumi/play/ep103323",
+     "time": "2017-04-25T18:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705252,
+   "sort": 5,
+   "name": "最大の試練、襲来",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "最大的考验、来袭",
+     "url": "https://www.bilibili.com/bangumi/play/ep103324",
+     "time": "2017-05-02T18:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705253,
+   "sort": 6,
+   "name": "カフェ・ミッター・マイヤーにて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "在咖啡店米达麦亚",
+     "url": "https://www.bilibili.com/bangumi/play/ep103325",
+     "time": "2017-05-09T18:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705254,
+   "sort": 7,
+   "name": "夢の在処",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "梦想所在",
+     "url": "https://www.bilibili.com/bangumi/play/ep103326",
+     "time": "2017-05-16T18:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705255,
+   "sort": 8,
+   "name": "臆病な心",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "胆怯的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep103327",
+     "time": "2017-05-23T18:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705256,
+   "sort": 9,
+   "name": "過去の代償",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "过去的代价",
+     "url": "https://www.bilibili.com/bangumi/play/ep103328",
+     "time": "2017-05-31T01:08:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705257,
+   "sort": 10,
+   "name": "僕の知らない先生",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "我所不知道的老师",
+     "url": "https://www.bilibili.com/bangumi/play/ep103329",
+     "time": "2017-06-07T01:03:46.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705258,
+   "sort": 11,
+   "name": "二人の約束",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "两人的约定",
+     "url": "https://www.bilibili.com/bangumi/play/ep103330",
+     "time": "2017-06-13T18:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705259,
+   "sort": 12,
+   "name": "最後の授業",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "最后一课",
+     "url": "https://www.bilibili.com/bangumi/play/ep103331",
+     "time": "2017-06-20T18:05:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,42 @@
-{"id":"131427","name":"名探偵コナン 純黒の悪夢","sites":[{"site":"qq","id":"8/8s2vkbiokr5lnc2","sort":2},{"site":"bilibili","id":"28228962","sort":3}],"eps":[{"id":660341,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"《速食泡漫》| 一月神作《异度侵入》，原创之火真的可以燎原吗？","url":"https://v.qq.com/x/cover/8s2vkbiokr5lnc2/v0958aoix4j.html"}]}]}
+{
+ "id": "131427",
+ "name": "名探偵コナン 純黒の悪夢",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "8/8s2vkbiokr5lnc2",
+   "sort": 1
+  },
+  {
+   "site": "youku",
+   "id": "f1c87a52dcf011e5b522",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "28228962",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 660341,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "名侦探柯南剧场版2016：纯黑的恶梦",
+     "url": "https://v.qq.com/x/cover/8s2vkbiokr5lnc2/w0031myau9w.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "名侦探柯南：纯黑的恶梦",
+     "url": "https://v.youku.com/v_show/id_XNDYxNzc3Njg2MA==.html?s=f1c87a52dcf011e5b522"
+    }
+   ]
+  }
+ ]
+}

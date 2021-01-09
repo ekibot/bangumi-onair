@@ -1,1 +1,27 @@
-{"id":"142086","name":"語りべ少女ほのか","sites":[{"site":"bilibili","id":"4153","sort":1}],"eps":[{"id":569549,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"故事少女穗乃花","url":"https://www.bilibili.com/bangumi/play/ep88568","time":"2016-05-27T08:31:15.000Z"}]}]}
+{
+ "id": "142086",
+ "name": "語りべ少女ほのか",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4153",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 569549,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "故事少女穗乃花",
+     "url": "https://www.bilibili.com/bangumi/play/ep88568",
+     "time": "2016-05-27T08:31:15.000Z"
+    }
+   ]
+  }
+ ]
+}

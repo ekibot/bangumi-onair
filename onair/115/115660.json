@@ -1,1 +1,69 @@
-{"id":"115660","name":"STEINS;GATE 聡明叡智のコグニティブ・コンピューティング","sites":[{"site":"bilibili","id":"3448","sort":4}],"eps":[{"id":438788,"sort":1,"name":"クッキング編","sites":[{"site":"bilibili","sort":1,"title":"料理篇","url":"https://www.bilibili.com/bangumi/play/ep85272","time":"2016-03-21T06:29:31.000Z"}]},{"id":438789,"sort":2,"name":"ナビゲーション編","sites":[{"site":"bilibili","sort":2,"title":"导航篇","url":"https://www.bilibili.com/bangumi/play/ep85273","time":"2016-03-21T06:29:31.000Z"}]},{"id":438790,"sort":3,"name":"ファッション編","sites":[{"site":"bilibili","sort":3,"title":"时尚篇","url":"https://www.bilibili.com/bangumi/play/ep85274","time":"2016-03-21T06:29:31.000Z"}]},{"id":438791,"sort":4,"name":"会議編","sites":[{"site":"bilibili","sort":4,"title":"会议篇","url":"https://www.bilibili.com/bangumi/play/ep85275","time":"2016-03-21T06:29:31.000Z"}]}]}
+{
+ "id": "115660",
+ "name": "STEINS;GATE 聡明叡智のコグニティブ・コンピューティング",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3448",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 438788,
+   "sort": 1,
+   "name": "クッキング編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "料理篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep85272",
+     "time": "2016-03-21T06:29:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 438789,
+   "sort": 2,
+   "name": "ナビゲーション編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "导航篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep85273",
+     "time": "2016-03-21T06:29:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 438790,
+   "sort": 3,
+   "name": "ファッション編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "时尚篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep85274",
+     "time": "2016-03-21T06:29:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 438791,
+   "sort": 4,
+   "name": "会議編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "会议篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep85275",
+     "time": "2016-03-21T06:29:31.000Z"
+    }
+   ]
+  }
+ ]
+}

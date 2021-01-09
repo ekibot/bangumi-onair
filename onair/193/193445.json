@@ -1,1 +1,195 @@
-{"id":"193445","name":"ナイツ＆マジック","sites":[{"site":"bilibili","id":"6304","sort":13}],"eps":[{"id":727989,"sort":1,"name":"Robots ＆ Fantasy","sites":[{"site":"bilibili","sort":1,"title":"Robots&Fantasy","url":"https://www.bilibili.com/bangumi/play/ep113118","time":"2017-07-02T14:30:00.000Z"}]},{"id":727990,"sort":2,"name":"Hero &amp; Beast","sites":[{"site":"bilibili","sort":2,"title":"Hero&Beast","url":"https://www.bilibili.com/bangumi/play/ep113119","time":"2017-07-09T14:30:00.000Z"}]},{"id":727991,"sort":3,"name":"Scrap &amp; Build","sites":[{"site":"bilibili","sort":3,"title":"Scrap&Build","url":"https://www.bilibili.com/bangumi/play/ep113120","time":"2017-07-16T14:30:00.000Z"}]},{"id":727992,"sort":4,"name":"Light &amp; Shadow","sites":[{"site":"bilibili","sort":4,"title":"Light&Shadow","url":"https://www.bilibili.com/bangumi/play/ep113121","time":"2017-07-23T14:30:00.000Z"}]},{"id":727993,"sort":5,"name":"Hide &amp; Seek","sites":[{"site":"bilibili","sort":5,"title":"Hide&Seek","url":"https://www.bilibili.com/bangumi/play/ep113122","time":"2017-07-30T14:30:00.000Z"}]},{"id":727994,"sort":6,"name":"Trial &amp; Error","sites":[{"site":"bilibili","sort":6,"title":"Trial&Error","url":"https://www.bilibili.com/bangumi/play/ep113123","time":"2017-08-06T14:30:00.000Z"}]},{"id":727995,"sort":7,"name":"New &amp; Old","sites":[{"site":"bilibili","sort":7,"title":"New&Old","url":"https://www.bilibili.com/bangumi/play/ep113124","time":"2017-08-13T14:30:00.000Z"}]},{"id":727996,"sort":8,"name":"Secret &amp; Quest","sites":[{"site":"bilibili","sort":8,"title":"Secret&Quest","url":"https://www.bilibili.com/bangumi/play/ep113125","time":"2017-08-20T14:30:00.000Z"}]},{"id":727997,"sort":9,"name":"Force &amp; Justice","sites":[{"site":"bilibili","sort":9,"title":"Force&Justice","url":"https://www.bilibili.com/bangumi/play/ep113126","time":"2017-08-27T14:30:00.000Z"}]},{"id":727998,"sort":10,"name":"War &amp; Princess","sites":[{"site":"bilibili","sort":10,"title":"War&Princess","url":"https://www.bilibili.com/bangumi/play/ep113127","time":"2017-09-03T14:30:00.000Z"}]},{"id":727999,"sort":11,"name":"Hit &amp; Away","sites":[{"site":"bilibili","sort":11,"title":"Hit&Away","url":"https://www.bilibili.com/bangumi/play/ep113128","time":"2017-09-10T14:30:00.000Z"}]},{"id":728000,"sort":12,"name":"Knight &amp; Dragon","sites":[{"site":"bilibili","sort":12,"title":"Knight&Dragon","url":"https://www.bilibili.com/bangumi/play/ep113129","time":"2017-09-17T14:30:00.000Z"}]},{"id":749108,"sort":13,"name":"Heaven &amp; Earth","sites":[{"site":"bilibili","sort":13,"title":"Heaven&Earth","url":"https://www.bilibili.com/bangumi/play/ep113130","time":"2017-09-24T14:30:00.000Z"}]}]}
+{
+ "id": "193445",
+ "name": "ナイツ＆マジック",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6304",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 727989,
+   "sort": 1,
+   "name": "Robots ＆ Fantasy",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Robots&Fantasy",
+     "url": "https://www.bilibili.com/bangumi/play/ep113118",
+     "time": "2017-07-02T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727990,
+   "sort": 2,
+   "name": "Hero &amp; Beast",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "Hero&Beast",
+     "url": "https://www.bilibili.com/bangumi/play/ep113119",
+     "time": "2017-07-09T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727991,
+   "sort": 3,
+   "name": "Scrap &amp; Build",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Scrap&Build",
+     "url": "https://www.bilibili.com/bangumi/play/ep113120",
+     "time": "2017-07-16T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727992,
+   "sort": 4,
+   "name": "Light &amp; Shadow",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Light&Shadow",
+     "url": "https://www.bilibili.com/bangumi/play/ep113121",
+     "time": "2017-07-23T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727993,
+   "sort": 5,
+   "name": "Hide &amp; Seek",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Hide&Seek",
+     "url": "https://www.bilibili.com/bangumi/play/ep113122",
+     "time": "2017-07-30T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727994,
+   "sort": 6,
+   "name": "Trial &amp; Error",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Trial&Error",
+     "url": "https://www.bilibili.com/bangumi/play/ep113123",
+     "time": "2017-08-06T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727995,
+   "sort": 7,
+   "name": "New &amp; Old",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "New&Old",
+     "url": "https://www.bilibili.com/bangumi/play/ep113124",
+     "time": "2017-08-13T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727996,
+   "sort": 8,
+   "name": "Secret &amp; Quest",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "Secret&Quest",
+     "url": "https://www.bilibili.com/bangumi/play/ep113125",
+     "time": "2017-08-20T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727997,
+   "sort": 9,
+   "name": "Force &amp; Justice",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "Force&Justice",
+     "url": "https://www.bilibili.com/bangumi/play/ep113126",
+     "time": "2017-08-27T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727998,
+   "sort": 10,
+   "name": "War &amp; Princess",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "War&Princess",
+     "url": "https://www.bilibili.com/bangumi/play/ep113127",
+     "time": "2017-09-03T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 727999,
+   "sort": 11,
+   "name": "Hit &amp; Away",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "Hit&Away",
+     "url": "https://www.bilibili.com/bangumi/play/ep113128",
+     "time": "2017-09-10T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728000,
+   "sort": 12,
+   "name": "Knight &amp; Dragon",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "Knight&Dragon",
+     "url": "https://www.bilibili.com/bangumi/play/ep113129",
+     "time": "2017-09-17T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 749108,
+   "sort": 13,
+   "name": "Heaven &amp; Earth",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "Heaven&Earth",
+     "url": "https://www.bilibili.com/bangumi/play/ep113130",
+     "time": "2017-09-24T14:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

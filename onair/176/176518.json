@@ -1,1 +1,83 @@
-{"id":"176518","name":"planetarian ～ちいさなほしのゆめ～","sites":[{"site":"bilibili","id":"5045","sort":5}],"eps":[{"id":630319,"sort":1,"name":"ロボットの花束","sites":[{"site":"bilibili","sort":1,"title":"机器人的花束","url":"https://www.bilibili.com/bangumi/play/ep90842","time":"2016-07-06T16:30:02.000Z"}]},{"id":630320,"sort":2,"name":"投影機修理","sites":[{"site":"bilibili","sort":2,"title":"修理投影机","url":"https://www.bilibili.com/bangumi/play/ep91378","time":"2016-07-13T16:30:02.000Z"}]},{"id":630321,"sort":3,"name":"ゆめみの投影","sites":[{"site":"bilibili","sort":3,"title":"梦美投影","url":"https://www.bilibili.com/bangumi/play/ep91379","time":"2016-07-20T16:30:02.000Z"}]},{"id":630322,"sort":4,"name":"酒に酔う","sites":[{"site":"bilibili","sort":4,"title":"醉酒","url":"https://www.bilibili.com/bangumi/play/ep91380","time":"2016-07-27T16:30:02.000Z"}]},{"id":630323,"sort":5,"name":"ゆめみの願い","sites":[{"site":"bilibili","sort":5,"title":"梦美的愿望","url":"https://www.bilibili.com/bangumi/play/ep91381","time":"2016-08-03T16:30:02.000Z"}]}]}
+{
+ "id": "176518",
+ "name": "planetarian ～ちいさなほしのゆめ～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5045",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 630319,
+   "sort": 1,
+   "name": "ロボットの花束",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "机器人的花束",
+     "url": "https://www.bilibili.com/bangumi/play/ep90842",
+     "time": "2016-07-06T16:30:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 630320,
+   "sort": 2,
+   "name": "投影機修理",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "修理投影机",
+     "url": "https://www.bilibili.com/bangumi/play/ep91378",
+     "time": "2016-07-13T16:30:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 630321,
+   "sort": 3,
+   "name": "ゆめみの投影",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "梦美投影",
+     "url": "https://www.bilibili.com/bangumi/play/ep91379",
+     "time": "2016-07-20T16:30:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 630322,
+   "sort": 4,
+   "name": "酒に酔う",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "醉酒",
+     "url": "https://www.bilibili.com/bangumi/play/ep91380",
+     "time": "2016-07-27T16:30:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 630323,
+   "sort": 5,
+   "name": "ゆめみの願い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "梦美的愿望",
+     "url": "https://www.bilibili.com/bangumi/play/ep91381",
+     "time": "2016-08-03T16:30:02.000Z"
+    }
+   ]
+  }
+ ]
+}

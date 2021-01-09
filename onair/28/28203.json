@@ -1,1 +1,50 @@
-{"id":"28203","name":"劇場版 ポケットモンスター ベストウイッシュ キュレムVS聖剣士 ケルディオ","sites":[{"site":"iqiyi","id":"a_19rrhb8sh9","sort":21},{"site":"qq","id":"e/ejr0xfirssdm33y","sort":19},{"site":"bilibili","id":"6413","sort":1}],"eps":[{"id":223353,"sort":1,"name":"ベストウイッシュ キュレムVS聖剣士 ケルディオ","sites":[{"site":"iqiyi","sort":1,"title":"超梦的逆袭","url":"http://www.iqiyi.com/v_19rrobr42w.html","time":"2015-09-17T05:39:45.000Z"},{"site":"qq","sort":1,"title":"精灵宝可梦1998剧场版：超梦的逆袭","url":"https://v.qq.com/x/cover/ejr0xfirssdm33y/f0016nuw81n.html"},{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114494","time":"2017-09-05T07:39:00.000Z"}]}]}
+{
+ "id": "28203",
+ "name": "劇場版 ポケットモンスター ベストウイッシュ キュレムVS聖剣士 ケルディオ",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhb8sh9",
+   "sort": 21
+  },
+  {
+   "site": "qq",
+   "id": "e/ejr0xfirssdm33y",
+   "sort": 19
+  },
+  {
+   "site": "bilibili",
+   "id": "6413",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 223353,
+   "sort": 1,
+   "name": "ベストウイッシュ キュレムVS聖剣士 ケルディオ",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "超梦的逆袭",
+     "url": "http://www.iqiyi.com/v_19rrobr42w.html",
+     "time": "2015-09-17T05:39:45.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "精灵宝可梦1998剧场版：超梦的逆袭",
+     "url": "https://v.qq.com/x/cover/ejr0xfirssdm33y/f0016nuw81n.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114494",
+     "time": "2017-09-05T07:39:00.000Z"
+    }
+   ]
+  }
+ ]
+}

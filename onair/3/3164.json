@@ -1,0 +1,338 @@
+{
+ "id": "3164",
+ "name": "tactics",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "fb6e3c2261ad11e0bea1",
+   "sort": 25
+  }
+ ],
+ "eps": [
+  {
+   "id": 22645,
+   "sort": 1,
+   "name": "黒天狗覚醒",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 黑天狗觉醒",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5NzY4.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22646,
+   "sort": 2,
+   "name": "吉原怪奇慕情",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 吉原怪奇慕情",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTQwMDA4.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22647,
+   "sort": 3,
+   "name": "山の童話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 山之童话",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTQwMDEy.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22648,
+   "sort": 4,
+   "name": "禁断の肖像",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 禁断的肖像",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTQwMDE2.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22649,
+   "sort": 5,
+   "name": "闇に舞う者",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 黑暗中的舞者",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTQwMDIw.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22650,
+   "sort": 6,
+   "name": "午後九時七分発 幽霊電車",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 午夜九时七分出发",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5Nzc2.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22651,
+   "sort": 7,
+   "name": "蠱惑の呼び声",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 蛊惑的呼唤",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5Nzgw.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22652,
+   "sort": 8,
+   "name": "妖狐的彼女",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 妖狐的她",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTQwMDI0.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22653,
+   "sort": 9,
+   "name": "嫁島怪奇譚",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 嫁岛怪奇谈",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5Nzg4.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22654,
+   "sort": 10,
+   "name": "風ノ言霊 前編",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 风之言灵 前篇",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5Nzk2.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22655,
+   "sort": 11,
+   "name": "風ノ言霊 後編",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 风之言灵 后篇",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5Nzky.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22656,
+   "sort": 12,
+   "name": "薔薇と天狗",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 蔷薇和天狗",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODAw.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22657,
+   "sort": 13,
+   "name": "樹海の悪夢",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 13,
+     "title": "第13话 树海的恶梦",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODA0.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22658,
+   "sort": 14,
+   "name": "本を愛した女",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 14,
+     "title": "第14话 爱书的少女",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODA4.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22659,
+   "sort": 15,
+   "name": "暮れゆく夏の蝉時雨",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 15,
+     "title": "第15话 逝去之夏的蝉声",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODEy.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22660,
+   "sort": 16,
+   "name": "嗚呼、夫婦哀歌",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 16,
+     "title": "第16话 呜呼 夫妇哀歌",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODE2.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22661,
+   "sort": 17,
+   "name": "英国式美少女",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 17,
+     "title": "第17话 英国式美少女",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODIw.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22662,
+   "sort": 18,
+   "name": "摩訶不思議研究会",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 18,
+     "title": "第18话 摩诃不思议研究会",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODI0.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22663,
+   "sort": 19,
+   "name": "紅葉色の恋",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 19,
+     "title": "第19话 枫色的恋情",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODI4.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22664,
+   "sort": 20,
+   "name": "娘義太夫 鬼がたり",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 20,
+     "title": "第20话 女义太夫 鬼故事",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODMy.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22665,
+   "sort": 21,
+   "name": "記憶の扉",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 21,
+     "title": "第21话 记忆之门",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODM2.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22666,
+   "sort": 22,
+   "name": "蒼き眼",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 22,
+     "title": "第22话 苍之眼",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODQw.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22667,
+   "sort": 23,
+   "name": "硝子の雪景",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 23,
+     "title": "第23话 玻璃雪景",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODQ0.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22668,
+   "sort": 24,
+   "name": "こころ遥かに",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 24,
+     "title": "第24话 心在远处",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODQ4.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 22669,
+   "sort": 25,
+   "name": "ミエナイチカラ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 25,
+     "title": "第25话 无形的力量",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTM5ODUy.html?s=fb6e3c2261ad11e0bea1"
+    }
+   ]
+  }
+ ]
+}

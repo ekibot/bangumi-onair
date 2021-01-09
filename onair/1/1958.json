@@ -1,1 +1,83 @@
-{"id":"1958","name":"新世紀GPXサイバーフォーミュラSIN","sites":[{"site":"bilibili","id":"3811","sort":5}],"eps":[{"id":9848,"sort":1,"name":"不敗神話","sites":[{"site":"bilibili","sort":1,"title":"不败神話","url":"https://www.bilibili.com/bangumi/play/ep86615","time":"2018-02-08T04:03:00.000Z"}]},{"id":9849,"sort":2,"name":"復活の刻","sites":[{"site":"bilibili","sort":2,"title":"复活之刻","url":"https://www.bilibili.com/bangumi/play/ep86616","time":"2018-02-08T04:03:00.000Z"}]},{"id":9850,"sort":3,"name":"凰呀の叫び","sites":[{"site":"bilibili","sort":3,"title":"凰呀的呼喊","url":"https://www.bilibili.com/bangumi/play/ep86617","time":"2018-02-08T04:03:00.000Z"}]},{"id":9851,"sort":4,"name":"勝者の条件","sites":[{"site":"bilibili","sort":4,"title":"胜者的条件","url":"https://www.bilibili.com/bangumi/play/ep86618","time":"2018-02-08T04:03:00.000Z"}]},{"id":9852,"sort":5,"name":"全ては時の中に…","sites":[{"site":"bilibili","sort":5,"title":"一切在时光中 ","url":"https://www.bilibili.com/bangumi/play/ep86619","time":"2018-02-08T04:03:00.000Z"}]}]}
+{
+ "id": "1958",
+ "name": "新世紀GPXサイバーフォーミュラSIN",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3811",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 9848,
+   "sort": 1,
+   "name": "不敗神話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "不败神話",
+     "url": "https://www.bilibili.com/bangumi/play/ep86615",
+     "time": "2018-02-08T04:03:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9849,
+   "sort": 2,
+   "name": "復活の刻",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "复活之刻",
+     "url": "https://www.bilibili.com/bangumi/play/ep86616",
+     "time": "2018-02-08T04:03:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9850,
+   "sort": 3,
+   "name": "凰呀の叫び",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "凰呀的呼喊",
+     "url": "https://www.bilibili.com/bangumi/play/ep86617",
+     "time": "2018-02-08T04:03:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9851,
+   "sort": 4,
+   "name": "勝者の条件",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "胜者的条件",
+     "url": "https://www.bilibili.com/bangumi/play/ep86618",
+     "time": "2018-02-08T04:03:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9852,
+   "sort": 5,
+   "name": "全ては時の中に…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "一切在时光中 ",
+     "url": "https://www.bilibili.com/bangumi/play/ep86619",
+     "time": "2018-02-08T04:03:00.000Z"
+    }
+   ]
+  }
+ ]
+}

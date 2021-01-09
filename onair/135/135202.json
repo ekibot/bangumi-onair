@@ -1,1 +1,181 @@
-{"id":"135202","name":"洲崎西 THE ANIMATION","sites":[{"site":"bilibili","id":"2593","sort":12}],"eps":[{"id":543533,"sort":1,"name":"謎の転校生、現る！？","sites":[{"site":"bilibili","sort":1,"title":"谜之转校生，出现！？","url":"https://www.bilibili.com/bangumi/play/ep63857","time":"2015-07-08T12:55:05.000Z"}]},{"id":543534,"sort":2,"name":"ヒミツの綾園♡","sites":[{"site":"bilibili","sort":2,"title":"秘密的绫园♡","url":"https://www.bilibili.com/bangumi/play/ep63958","time":"2015-07-15T12:55:00.000Z"}]},{"id":543535,"sort":3,"name":"綾と明日香の乳隠し","sites":[{"site":"bilibili","sort":3,"title":"绫和明日香的遮乳","url":"https://www.bilibili.com/bangumi/play/ep64017","time":"2015-07-22T12:55:00.000Z"}]},{"id":543536,"sort":4,"name":"西家が如く","sites":[{"site":"bilibili","sort":4,"title":"如西家一般","url":"https://www.bilibili.com/bangumi/play/ep64216","time":"2015-07-29T12:55:00.000Z"}]},{"id":543537,"sort":5,"name":"西家が如く2","sites":[{"site":"bilibili","sort":5,"title":"如西家一般2","url":"https://www.bilibili.com/bangumi/play/ep64403","time":"2015-08-05T12:55:00.000Z"}]},{"id":543538,"sort":6,"name":"ぞいや来いやっ!!","sites":[{"site":"bilibili","sort":6,"title":"来呀zoiya！！","url":"https://www.bilibili.com/bangumi/play/ep64830","time":"2015-08-12T12:55:00.000Z"}]},{"id":543539,"sort":7,"name":"この物語はフィクションです","sites":[{"site":"bilibili","sort":7,"title":"本故事纯属虚构","url":"https://www.bilibili.com/bangumi/play/ep65555","time":"2015-08-19T12:55:00.000Z"}]},{"id":543540,"sort":8,"name":"明日香には感謝しかしてない","sites":[{"site":"bilibili","sort":8,"title":"对明日香唯有感谢","url":"https://www.bilibili.com/bangumi/play/ep66202","time":"2015-08-26T12:55:02.000Z"}]},{"id":543541,"sort":9,"name":"ランバダの乱","sites":[{"site":"bilibili","sort":9,"title":"兰巴达之乱","url":"https://www.bilibili.com/bangumi/play/ep67081","time":"2015-09-02T12:55:00.000Z"}]},{"id":543542,"sort":10,"name":"シマパンズ","sites":[{"site":"bilibili","sort":10,"title":"条纹胖次","url":"https://www.bilibili.com/bangumi/play/ep68501","time":"2015-09-09T12:55:00.000Z"}]},{"id":543543,"sort":11,"name":"ゆみりんごめんね","sites":[{"site":"bilibili","sort":11,"title":"抱歉小夕实","url":"https://www.bilibili.com/bangumi/play/ep69016","time":"2015-09-16T13:00:00.000Z"}]},{"id":543544,"sort":12,"name":"これも声優！","sites":[{"site":"bilibili","sort":12,"title":"这也是声优！","url":"https://www.bilibili.com/bangumi/play/ep69702","time":"2015-09-23T12:55:00.000Z"}]}]}
+{
+ "id": "135202",
+ "name": "洲崎西 THE ANIMATION",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2593",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 543533,
+   "sort": 1,
+   "name": "謎の転校生、現る！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "谜之转校生，出现！？",
+     "url": "https://www.bilibili.com/bangumi/play/ep63857",
+     "time": "2015-07-08T12:55:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 543534,
+   "sort": 2,
+   "name": "ヒミツの綾園♡",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "秘密的绫园♡",
+     "url": "https://www.bilibili.com/bangumi/play/ep63958",
+     "time": "2015-07-15T12:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 543535,
+   "sort": 3,
+   "name": "綾と明日香の乳隠し",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "绫和明日香的遮乳",
+     "url": "https://www.bilibili.com/bangumi/play/ep64017",
+     "time": "2015-07-22T12:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 543536,
+   "sort": 4,
+   "name": "西家が如く",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "如西家一般",
+     "url": "https://www.bilibili.com/bangumi/play/ep64216",
+     "time": "2015-07-29T12:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 543537,
+   "sort": 5,
+   "name": "西家が如く2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "如西家一般2",
+     "url": "https://www.bilibili.com/bangumi/play/ep64403",
+     "time": "2015-08-05T12:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 543538,
+   "sort": 6,
+   "name": "ぞいや来いやっ!!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "来呀zoiya！！",
+     "url": "https://www.bilibili.com/bangumi/play/ep64830",
+     "time": "2015-08-12T12:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 543539,
+   "sort": 7,
+   "name": "この物語はフィクションです",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "本故事纯属虚构",
+     "url": "https://www.bilibili.com/bangumi/play/ep65555",
+     "time": "2015-08-19T12:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 543540,
+   "sort": 8,
+   "name": "明日香には感謝しかしてない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "对明日香唯有感谢",
+     "url": "https://www.bilibili.com/bangumi/play/ep66202",
+     "time": "2015-08-26T12:55:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 543541,
+   "sort": 9,
+   "name": "ランバダの乱",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "兰巴达之乱",
+     "url": "https://www.bilibili.com/bangumi/play/ep67081",
+     "time": "2015-09-02T12:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 543542,
+   "sort": 10,
+   "name": "シマパンズ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "条纹胖次",
+     "url": "https://www.bilibili.com/bangumi/play/ep68501",
+     "time": "2015-09-09T12:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 543543,
+   "sort": 11,
+   "name": "ゆみりんごめんね",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "抱歉小夕实",
+     "url": "https://www.bilibili.com/bangumi/play/ep69016",
+     "time": "2015-09-16T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 543544,
+   "sort": 12,
+   "name": "これも声優！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "这也是声优！",
+     "url": "https://www.bilibili.com/bangumi/play/ep69702",
+     "time": "2015-09-23T12:55:00.000Z"
+    }
+   ]
+  }
+ ]
+}

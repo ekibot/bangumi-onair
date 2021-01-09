@@ -1,1 +1,118 @@
-{"id":"14871","name":"今日から㋮王! R","sites":[{"site":"bilibili","id":"3767","sort":5},{"site":"qq","id":"w/wxs44c83knpaneq","sort":5}],"eps":[{"id":86673,"sort":1,"name":"小シマロンの少年王（前編）","sites":[{"site":"bilibili","sort":1,"title":"小史玛隆的少年王（前编）","url":"https://www.bilibili.com/bangumi/play/ep86387","time":"2016-04-18T02:56:00.000Z"},{"site":"qq","sort":1,"title":"今天开始做魔王R_01","url":"https://v.qq.com/x/cover/wxs44c83knpaneq/h0034w1vaxr.html"}]},{"id":86674,"sort":2,"name":"栄冠は誰がために","sites":[{"site":"bilibili","sort":2,"title":"荣冠为谁而存","url":"https://www.bilibili.com/bangumi/play/ep86388","time":"2020-05-14T06:41:00.000Z"},{"site":"qq","sort":2,"title":"今天开始做魔王R_02","url":"https://v.qq.com/x/cover/wxs44c83knpaneq/i0034n8w2gh.html"}]},{"id":86675,"sort":3,"name":"乾いた風","sites":[{"site":"bilibili","sort":3,"title":"干渴的风","url":"https://www.bilibili.com/bangumi/play/ep86389","time":"2016-04-18T02:56:00.000Z"},{"site":"qq","sort":3,"title":"今天开始做魔王R_03","url":"https://v.qq.com/x/cover/wxs44c83knpaneq/i0034qf77u4.html"}]},{"id":86676,"sort":4,"name":"愛の乙女","sites":[{"site":"bilibili","sort":4,"title":"爱之少女","url":"https://www.bilibili.com/bangumi/play/ep86390","time":"2016-04-18T02:56:00.000Z"},{"site":"qq","sort":4,"title":"今天开始做魔王R_04","url":"https://v.qq.com/x/cover/wxs44c83knpaneq/m0034eybspn.html"}]},{"id":86677,"sort":5,"name":"小シマロンの少年王（後編）","sites":[{"site":"bilibili","sort":5,"title":"小史玛隆的少年王（后编）","url":"https://www.bilibili.com/bangumi/play/ep86391","time":"2016-04-18T02:56:00.000Z"},{"site":"qq","sort":5,"title":"今天开始做魔王R_05","url":"https://v.qq.com/x/cover/wxs44c83knpaneq/u0034dju3kj.html"}]}]}
+{
+ "id": "14871",
+ "name": "今日から㋮王! R",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "w/wxs44c83knpaneq",
+   "sort": 5
+  },
+  {
+   "site": "bilibili",
+   "id": "3767",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 86673,
+   "sort": 1,
+   "name": "小シマロンの少年王（前編）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "今天开始做魔王R_01",
+     "url": "https://v.qq.com/x/cover/wxs44c83knpaneq/h0034w1vaxr.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "小史玛隆的少年王（前编）",
+     "url": "https://www.bilibili.com/bangumi/play/ep86387",
+     "time": "2016-04-18T02:56:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 86674,
+   "sort": 2,
+   "name": "栄冠は誰がために",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "今天开始做魔王R_02",
+     "url": "https://v.qq.com/x/cover/wxs44c83knpaneq/i0034n8w2gh.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "荣冠为谁而存",
+     "url": "https://www.bilibili.com/bangumi/play/ep86388",
+     "time": "2020-05-14T06:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 86675,
+   "sort": 3,
+   "name": "乾いた風",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "今天开始做魔王R_03",
+     "url": "https://v.qq.com/x/cover/wxs44c83knpaneq/i0034qf77u4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "干渴的风",
+     "url": "https://www.bilibili.com/bangumi/play/ep86389",
+     "time": "2016-04-18T02:56:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 86676,
+   "sort": 4,
+   "name": "愛の乙女",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "今天开始做魔王R_04",
+     "url": "https://v.qq.com/x/cover/wxs44c83knpaneq/m0034eybspn.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "爱之少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep86390",
+     "time": "2016-04-18T02:56:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 86677,
+   "sort": 5,
+   "name": "小シマロンの少年王（後編）",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "今天开始做魔王R_05",
+     "url": "https://v.qq.com/x/cover/wxs44c83knpaneq/u0034dju3kj.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "小史玛隆的少年王（后编）",
+     "url": "https://www.bilibili.com/bangumi/play/ep86391",
+     "time": "2016-04-18T02:56:00.000Z"
+    }
+   ]
+  }
+ ]
+}

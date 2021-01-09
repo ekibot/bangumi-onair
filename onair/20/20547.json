@@ -1,1 +1,195 @@
-{"id":"20547","name":"WORKING'!!","sites":[{"site":"bilibili","id":"867","sort":13}],"eps":[{"id":118986,"sort":1,"name":"ぽぷらの意地","sites":[{"site":"bilibili","sort":1,"title":"白杨的用心","url":"https://www.bilibili.com/bangumi/play/ep15566","time":"2011-10-01T16:25:00.000Z"}]},{"id":118987,"sort":2,"name":"理想の家族計画","sites":[{"site":"bilibili","sort":2,"title":"理想的家族计划","url":"https://www.bilibili.com/bangumi/play/ep15565","time":"2011-10-08T21:35:00.000Z"}]},{"id":122768,"sort":3,"name":"スランプの理由","sites":[{"site":"bilibili","sort":3,"title":"萎靡的理由","url":"https://www.bilibili.com/bangumi/play/ep15564","time":"2011-10-15T23:08:00.000Z"}]},{"id":122769,"sort":4,"name":"マンホールスパイラル","sites":[{"site":"bilibili","sort":4,"title":"下水道的入口","url":"https://www.bilibili.com/bangumi/play/ep15563","time":"2011-10-22T23:38:00.000Z"}]},{"id":122770,"sort":5,"name":"ワグナリアの巨大な胃袋","sites":[{"site":"bilibili","sort":5,"title":"瓦古娜利亚的大胃王","url":"https://www.bilibili.com/bangumi/play/ep15562","time":"2011-10-30T01:02:00.000Z"}]},{"id":122771,"sort":6,"name":"就任、解任、もう堪忍","sites":[{"site":"bilibili","sort":6,"title":"就任，解任，已经无法忍耐","url":"https://www.bilibili.com/bangumi/play/ep15561","time":"2011-11-06T00:39:00.000Z"}]},{"id":122772,"sort":7,"name":"恋のバッド チューニング","sites":[{"site":"bilibili","sort":7,"title":"恋爱的恶作剧之吻","url":"https://www.bilibili.com/bangumi/play/ep15560","time":"2011-11-12T22:54:00.000Z"}]},{"id":122773,"sort":8,"name":"嗚呼、妹よ","sites":[{"site":"bilibili","sort":8,"title":"呜呼，妹妹","url":"https://www.bilibili.com/bangumi/play/ep64238","time":"2011-11-19T23:43:00.000Z"}]},{"id":122774,"sort":9,"name":"愛はこんなにグローバル","sites":[{"site":"bilibili","sort":9,"title":"爱是如此的全球化","url":"https://www.bilibili.com/bangumi/play/ep15559","time":"2011-11-26T23:52:00.000Z"}]},{"id":122775,"sort":10,"name":"ケータイ無問題","sites":[{"site":"bilibili","sort":10,"title":"手机没问题","url":"https://www.bilibili.com/bangumi/play/ep15558","time":"2011-12-04T01:04:00.000Z"}]},{"id":122776,"sort":11,"name":"決意ですが、何か？","sites":[{"site":"bilibili","sort":11,"title":"这是决心，有问题吗？","url":"https://www.bilibili.com/bangumi/play/ep15557","time":"2011-12-11T01:01:00.000Z"}]},{"id":122777,"sort":12,"name":"デイジー死す","sites":[{"site":"bilibili","sort":12,"title":"Dejy之死","url":"https://www.bilibili.com/bangumi/play/ep15556","time":"2011-12-17T23:33:00.000Z"}]},{"id":136903,"sort":13,"name":"さよならぽぷら","sites":[{"site":"bilibili","sort":13,"title":"再见了白杨","url":"https://www.bilibili.com/bangumi/play/ep15555","time":"2011-12-25T00:09:00.000Z"}]}]}
+{
+ "id": "20547",
+ "name": "WORKING'!!",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "867",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 118986,
+   "sort": 1,
+   "name": "ぽぷらの意地",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "白杨的用心",
+     "url": "https://www.bilibili.com/bangumi/play/ep15566",
+     "time": "2011-10-01T16:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 118987,
+   "sort": 2,
+   "name": "理想の家族計画",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "理想的家族计划",
+     "url": "https://www.bilibili.com/bangumi/play/ep15565",
+     "time": "2011-10-08T21:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 122768,
+   "sort": 3,
+   "name": "スランプの理由",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "萎靡的理由",
+     "url": "https://www.bilibili.com/bangumi/play/ep15564",
+     "time": "2011-10-15T23:08:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 122769,
+   "sort": 4,
+   "name": "マンホールスパイラル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "下水道的入口",
+     "url": "https://www.bilibili.com/bangumi/play/ep15563",
+     "time": "2011-10-22T23:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 122770,
+   "sort": 5,
+   "name": "ワグナリアの巨大な胃袋",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "瓦古娜利亚的大胃王",
+     "url": "https://www.bilibili.com/bangumi/play/ep15562",
+     "time": "2011-10-30T01:02:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 122771,
+   "sort": 6,
+   "name": "就任、解任、もう堪忍",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "就任，解任，已经无法忍耐",
+     "url": "https://www.bilibili.com/bangumi/play/ep15561",
+     "time": "2011-11-06T00:39:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 122772,
+   "sort": 7,
+   "name": "恋のバッド チューニング",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "恋爱的恶作剧之吻",
+     "url": "https://www.bilibili.com/bangumi/play/ep15560",
+     "time": "2011-11-12T22:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 122773,
+   "sort": 8,
+   "name": "嗚呼、妹よ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "呜呼，妹妹",
+     "url": "https://www.bilibili.com/bangumi/play/ep64238",
+     "time": "2011-11-19T23:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 122774,
+   "sort": 9,
+   "name": "愛はこんなにグローバル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "爱是如此的全球化",
+     "url": "https://www.bilibili.com/bangumi/play/ep15559",
+     "time": "2011-11-26T23:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 122775,
+   "sort": 10,
+   "name": "ケータイ無問題",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "手机没问题",
+     "url": "https://www.bilibili.com/bangumi/play/ep15558",
+     "time": "2011-12-04T01:04:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 122776,
+   "sort": 11,
+   "name": "決意ですが、何か？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "这是决心，有问题吗？",
+     "url": "https://www.bilibili.com/bangumi/play/ep15557",
+     "time": "2011-12-11T01:01:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 122777,
+   "sort": 12,
+   "name": "デイジー死す",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "Dejy之死",
+     "url": "https://www.bilibili.com/bangumi/play/ep15556",
+     "time": "2011-12-17T23:33:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 136903,
+   "sort": 13,
+   "name": "さよならぽぷら",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "再见了白杨",
+     "url": "https://www.bilibili.com/bangumi/play/ep15555",
+     "time": "2011-12-25T00:09:00.000Z"
+    }
+   ]
+  }
+ ]
+}

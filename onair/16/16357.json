@@ -1,1 +1,27 @@
-{"id":"16357","name":"ガラスのうさぎ","sites":[{"site":"bilibili","id":"5116","sort":1}],"eps":[{"id":912578,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep91341","time":"2016-07-06T08:03:48.000Z"}]}]}
+{
+ "id": "16357",
+ "name": "ガラスのうさぎ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5116",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 912578,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep91341",
+     "time": "2016-07-06T08:03:48.000Z"
+    }
+   ]
+  }
+ ]
+}

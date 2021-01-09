@@ -1,1 +1,41 @@
-{"id":"14952","name":"英雄伝説 空の軌跡 THE ANIMATION","sites":[{"site":"bilibili","id":"2882","sort":2}],"eps":[{"id":119804,"sort":1,"name":"英雄伝説 空の軌跡 THE ANIMATION vol.1","sites":[{"site":"bilibili","sort":1,"title":"英雄传说 空之轨迹 THE ANIMATION Vol.1","url":"https://www.bilibili.com/bangumi/play/ep75194","time":"2015-10-22T01:54:00.000Z"}]},{"id":119805,"sort":2,"name":"英雄伝説 空の軌跡 THE ANIMATION vol.2","sites":[{"site":"bilibili","sort":2,"title":"英雄传说 空之轨迹 THE ANIMATION Vol.2","url":"https://www.bilibili.com/bangumi/play/ep75195","time":"2015-10-22T01:54:00.000Z"}]}]}
+{
+ "id": "14952",
+ "name": "英雄伝説 空の軌跡 THE ANIMATION",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2882",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 119804,
+   "sort": 1,
+   "name": "英雄伝説 空の軌跡 THE ANIMATION vol.1",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "英雄传说 空之轨迹 THE ANIMATION Vol.1",
+     "url": "https://www.bilibili.com/bangumi/play/ep75194",
+     "time": "2015-10-22T01:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 119805,
+   "sort": 2,
+   "name": "英雄伝説 空の軌跡 THE ANIMATION vol.2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "英雄传说 空之轨迹 THE ANIMATION Vol.2",
+     "url": "https://www.bilibili.com/bangumi/play/ep75195",
+     "time": "2015-10-22T01:54:00.000Z"
+    }
+   ]
+  }
+ ]
+}

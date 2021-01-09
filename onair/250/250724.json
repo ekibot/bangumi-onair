@@ -1,1 +1,181 @@
-{"id":"250724","name":"真夜中のオカルト公務員","sites":[{"site":"bilibili","id":"21995182","sort":16}],"eps":[{"id":874268,"sort":1,"name":"新宿上空の天狗と天使","sites":[{"site":"bilibili","sort":1,"title":"新宿上空的天狗与天使","url":"https://www.bilibili.com/bangumi/play/ep268137","time":"2019-04-07T15:30:00.000Z"}]},{"id":874269,"sort":2,"name":"神楽坂の白い猫又","sites":[{"site":"bilibili","sort":2,"title":"神乐坂的白色猫又","url":"https://www.bilibili.com/bangumi/play/ep268138","time":"2019-04-14T15:30:00.000Z"}]},{"id":874270,"sort":3,"name":"琥珀の瞳のトリックスター","sites":[{"site":"bilibili","sort":3,"title":"琥珀之瞳的捣蛋鬼","url":"https://www.bilibili.com/bangumi/play/ep268139","time":"2019-04-21T15:30:00.000Z"}]},{"id":874271,"sort":4,"name":"歌舞伎町の定点観測","sites":[{"site":"bilibili","sort":4,"title":"歌舞伎町的定点观测","url":"https://www.bilibili.com/bangumi/play/ep268140","time":"2019-04-28T15:30:00.000Z"}]},{"id":874272,"sort":5,"name":"都庁展望室の異世界エレベーター","sites":[{"site":"bilibili","sort":5,"title":"都厅展望室的异世界电梯","url":"https://www.bilibili.com/bangumi/play/ep268141","time":"2019-05-05T15:30:00.000Z"}]},{"id":874273,"sort":6,"name":"悪魔と喪失感","sites":[{"site":"bilibili","sort":6,"title":"恶魔与丧失感","url":"https://www.bilibili.com/bangumi/play/ep268142","time":"2019-05-12T15:30:00.000Z"}]},{"id":874274,"sort":7,"name":"喪失感と絶望の証明","sites":[{"site":"bilibili","sort":7,"title":"丧失感与绝望的证明","url":"https://www.bilibili.com/bangumi/play/ep268143","time":"2019-05-19T15:30:00.000Z"}]},{"id":874275,"sort":8,"name":"老いたコヨーテと星降る庭","sites":[{"site":"bilibili","sort":8,"title":"老去的郊狼和流星庭院","url":"https://www.bilibili.com/bangumi/play/ep268144","time":"2019-05-26T15:30:00.000Z"}]},{"id":874276,"sort":9,"name":"幽霊団地の夢魔","sites":[{"site":"bilibili","sort":9,"title":"幽灵住宅区的梦魔","url":"https://www.bilibili.com/bangumi/play/ep268145","time":"2019-06-02T15:30:00.000Z"}]},{"id":874277,"sort":10,"name":"白い繭と青い炎","sites":[{"site":"bilibili","sort":10,"title":"白色虫茧与蓝色火焰","url":"https://www.bilibili.com/bangumi/play/ep268146","time":"2019-06-09T15:30:00.000Z"}]},{"id":874278,"sort":11,"name":"砂の耳と新人の根性","sites":[{"site":"bilibili","sort":11,"title":"砂之耳和新人的骨气","url":"https://www.bilibili.com/bangumi/play/ep268147","time":"2019-06-16T15:30:00.000Z"}]},{"id":874279,"sort":12,"name":"新宿区夜間地域交流課","sites":[{"site":"bilibili","sort":12,"title":"新宿区夜间地域交流科","url":"https://www.bilibili.com/bangumi/play/ep268148","time":"2019-06-23T15:30:00.000Z"}]}]}
+{
+ "id": "250724",
+ "name": "真夜中のオカルト公務員",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "21995182",
+   "sort": 16
+  }
+ ],
+ "eps": [
+  {
+   "id": 874268,
+   "sort": 1,
+   "name": "新宿上空の天狗と天使",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "新宿上空的天狗与天使",
+     "url": "https://www.bilibili.com/bangumi/play/ep268137",
+     "time": "2019-04-07T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874269,
+   "sort": 2,
+   "name": "神楽坂の白い猫又",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "神乐坂的白色猫又",
+     "url": "https://www.bilibili.com/bangumi/play/ep268138",
+     "time": "2019-04-14T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874270,
+   "sort": 3,
+   "name": "琥珀の瞳のトリックスター",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "琥珀之瞳的捣蛋鬼",
+     "url": "https://www.bilibili.com/bangumi/play/ep268139",
+     "time": "2019-04-21T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874271,
+   "sort": 4,
+   "name": "歌舞伎町の定点観測",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "歌舞伎町的定点观测",
+     "url": "https://www.bilibili.com/bangumi/play/ep268140",
+     "time": "2019-04-28T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874272,
+   "sort": 5,
+   "name": "都庁展望室の異世界エレベーター",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "都厅展望室的异世界电梯",
+     "url": "https://www.bilibili.com/bangumi/play/ep268141",
+     "time": "2019-05-05T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874273,
+   "sort": 6,
+   "name": "悪魔と喪失感",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "恶魔与丧失感",
+     "url": "https://www.bilibili.com/bangumi/play/ep268142",
+     "time": "2019-05-12T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874274,
+   "sort": 7,
+   "name": "喪失感と絶望の証明",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "丧失感与绝望的证明",
+     "url": "https://www.bilibili.com/bangumi/play/ep268143",
+     "time": "2019-05-19T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874275,
+   "sort": 8,
+   "name": "老いたコヨーテと星降る庭",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "老去的郊狼和流星庭院",
+     "url": "https://www.bilibili.com/bangumi/play/ep268144",
+     "time": "2019-05-26T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874276,
+   "sort": 9,
+   "name": "幽霊団地の夢魔",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "幽灵住宅区的梦魔",
+     "url": "https://www.bilibili.com/bangumi/play/ep268145",
+     "time": "2019-06-02T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874277,
+   "sort": 10,
+   "name": "白い繭と青い炎",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "白色虫茧与蓝色火焰",
+     "url": "https://www.bilibili.com/bangumi/play/ep268146",
+     "time": "2019-06-09T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874278,
+   "sort": 11,
+   "name": "砂の耳と新人の根性",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "砂之耳和新人的骨气",
+     "url": "https://www.bilibili.com/bangumi/play/ep268147",
+     "time": "2019-06-16T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 874279,
+   "sort": 12,
+   "name": "新宿区夜間地域交流課",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "新宿区夜间地域交流科",
+     "url": "https://www.bilibili.com/bangumi/play/ep268148",
+     "time": "2019-06-23T15:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,181 @@
-{"id":"175530","name":"Infini-T Force","sites":[{"site":"bilibili","id":"6452","sort":12}],"eps":[{"id":751896,"sort":1,"name":"ISOLATED FLOWER","sites":[{"site":"bilibili","sort":1,"title":"孤独之花","url":"https://www.bilibili.com/bangumi/play/ep115089","time":"2017-10-27T11:00:00.000Z"}]},{"id":751897,"sort":2,"name":"IMMEDIATE FAMILY","sites":[{"site":"bilibili","sort":2,"title":"速配的家","url":"https://www.bilibili.com/bangumi/play/ep115090","time":"2017-10-27T11:30:00.000Z"}]},{"id":751898,"sort":3,"name":"INTELLIGENT FURY","sites":[{"site":"bilibili","sort":3,"title":"智慧怒火","url":"https://www.bilibili.com/bangumi/play/ep115091","time":"2017-10-27T12:00:00.000Z"}]},{"id":751899,"sort":4,"name":"IMAGINARY FRIEND","sites":[{"site":"bilibili","sort":4,"title":"虚构的朋友","url":"https://www.bilibili.com/bangumi/play/ep115092","time":"2017-10-24T13:30:00.000Z"}]},{"id":751900,"sort":5,"name":"INVISIBLE FUTURE","sites":[{"site":"bilibili","sort":5,"title":"看不见的未来","url":"https://www.bilibili.com/bangumi/play/ep115093","time":"2017-10-24T14:30:00.000Z"}]},{"id":751901,"sort":6,"name":"Infini-T Force","sites":[{"site":"bilibili","sort":6,"title":"Infini-T Force","url":"https://www.bilibili.com/bangumi/play/ep115094","time":"2017-10-31T12:04:00.000Z"}]},{"id":751902,"sort":7,"name":"INSANE FATHER","sites":[{"site":"bilibili","sort":7,"title":"疯狂的父亲","url":"https://www.bilibili.com/bangumi/play/ep115095","time":"2017-11-07T12:04:00.000Z"}]},{"id":751903,"sort":8,"name":"INNER FRUSTRATION","sites":[{"site":"bilibili","sort":8,"title":"内心的挫折","url":"https://www.bilibili.com/bangumi/play/ep115096","time":"2017-11-14T12:04:00.000Z"}]},{"id":751904,"sort":9,"name":"IN FLUX","sites":[{"site":"bilibili","sort":9,"title":"变动不止","url":"https://www.bilibili.com/bangumi/play/ep115097","time":"2017-11-21T12:04:00.000Z"}]},{"id":751905,"sort":10,"name":"IGNITION FLAME","sites":[{"site":"bilibili","sort":10,"title":"点燃火焰","url":"https://www.bilibili.com/bangumi/play/ep115098","time":"2017-11-28T12:04:00.000Z"}]},{"id":751906,"sort":11,"name":"INDEPENDENT FLOWER","sites":[{"site":"bilibili","sort":11,"title":"独立之花","url":"https://www.bilibili.com/bangumi/play/ep115099","time":"2017-12-12T12:04:00.000Z"}]},{"id":751907,"sort":12,"name":"I'LL FIND…","sites":[{"site":"bilibili","sort":12,"title":"我会找到…","url":"https://www.bilibili.com/bangumi/play/ep115100","time":"2017-12-19T12:04:00.000Z"}]}]}
+{
+ "id": "175530",
+ "name": "Infini-T Force",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6452",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 751896,
+   "sort": 1,
+   "name": "ISOLATED FLOWER",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "孤独之花",
+     "url": "https://www.bilibili.com/bangumi/play/ep115089",
+     "time": "2017-10-27T11:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 751897,
+   "sort": 2,
+   "name": "IMMEDIATE FAMILY",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "速配的家",
+     "url": "https://www.bilibili.com/bangumi/play/ep115090",
+     "time": "2017-10-27T11:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 751898,
+   "sort": 3,
+   "name": "INTELLIGENT FURY",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "智慧怒火",
+     "url": "https://www.bilibili.com/bangumi/play/ep115091",
+     "time": "2017-10-27T12:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 751899,
+   "sort": 4,
+   "name": "IMAGINARY FRIEND",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "虚构的朋友",
+     "url": "https://www.bilibili.com/bangumi/play/ep115092",
+     "time": "2017-10-24T13:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 751900,
+   "sort": 5,
+   "name": "INVISIBLE FUTURE",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "看不见的未来",
+     "url": "https://www.bilibili.com/bangumi/play/ep115093",
+     "time": "2017-10-24T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 751901,
+   "sort": 6,
+   "name": "Infini-T Force",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Infini-T Force",
+     "url": "https://www.bilibili.com/bangumi/play/ep115094",
+     "time": "2017-10-31T12:04:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 751902,
+   "sort": 7,
+   "name": "INSANE FATHER",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "疯狂的父亲",
+     "url": "https://www.bilibili.com/bangumi/play/ep115095",
+     "time": "2017-11-07T12:04:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 751903,
+   "sort": 8,
+   "name": "INNER FRUSTRATION",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "内心的挫折",
+     "url": "https://www.bilibili.com/bangumi/play/ep115096",
+     "time": "2017-11-14T12:04:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 751904,
+   "sort": 9,
+   "name": "IN FLUX",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "变动不止",
+     "url": "https://www.bilibili.com/bangumi/play/ep115097",
+     "time": "2017-11-21T12:04:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 751905,
+   "sort": 10,
+   "name": "IGNITION FLAME",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "点燃火焰",
+     "url": "https://www.bilibili.com/bangumi/play/ep115098",
+     "time": "2017-11-28T12:04:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 751906,
+   "sort": 11,
+   "name": "INDEPENDENT FLOWER",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "独立之花",
+     "url": "https://www.bilibili.com/bangumi/play/ep115099",
+     "time": "2017-12-12T12:04:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 751907,
+   "sort": 12,
+   "name": "I'LL FIND…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "我会找到…",
+     "url": "https://www.bilibili.com/bangumi/play/ep115100",
+     "time": "2017-12-19T12:04:00.000Z"
+    }
+   ]
+  }
+ ]
+}

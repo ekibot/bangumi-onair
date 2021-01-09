@@ -1,1 +1,26 @@
-{"id":"14106","name":"蒼穹のファフナー RIGHT OF LEFT","sites":[{"site":"iqiyi","id":"a_19rrha3e7d","sort":1},{"site":"qq","id":"x/xkiym8goczymn4c","sort":1}],"eps":[{"id":81298,"sort":1,"name":"","sites":[{"site":"iqiyi","sort":1,"title":"苍穹之法芙娜 特别篇","url":"http://www.iqiyi.com/v_19rra7n2as.html","time":"2016-12-08T03:04:51.000Z"},{"site":"qq","sort":1,"title":"苍穹之法芙娜特别篇","url":"https://v.qq.com/x/cover/xkiym8goczymn4c/o0031pgty86.html"}]}]}
+{
+ "id": "14106",
+ "name": "蒼穹のファフナー RIGHT OF LEFT",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "x/xkiym8goczymn4c",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 81298,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "苍穹之法芙娜特别篇",
+     "url": "https://v.qq.com/x/cover/xkiym8goczymn4c/o0031pgty86.html"
+    }
+   ]
+  }
+ ]
+}

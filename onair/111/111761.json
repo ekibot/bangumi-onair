@@ -1,1 +1,27 @@
-{"id":"111761","name":"新劇場版 頭文字D Legend3 -夢現-","sites":[{"site":"bilibili","id":"5126","sort":1}],"eps":[{"id":875472,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"Legend3 -梦现-","url":"https://www.bilibili.com/bangumi/play/ep91535","time":"2016-07-07T07:49:16.000Z"}]}]}
+{
+ "id": "111761",
+ "name": "新劇場版 頭文字D Legend3 -夢現-",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5126",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 875472,
+   "sort": 1,
+   "name": "頭文字D Legend3 -夢現-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Legend3 -梦现-",
+     "url": "https://www.bilibili.com/bangumi/play/ep91535",
+     "time": "2016-07-07T07:49:16.000Z"
+    }
+   ]
+  }
+ ]
+}

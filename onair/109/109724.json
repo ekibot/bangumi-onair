@@ -1,1 +1,258 @@
-{"id":"109724","name":"神様はじめました◎","sites":[{"site":"bilibili","id":"1523","sort":12},{"site":"qq","id":"9/91ekf8i4watxc1p","sort":12}],"eps":[{"id":464506,"sort":1,"name":"神様またはじめました","sites":[{"site":"bilibili","sort":1,"title":"元气少女再结神","url":"https://www.bilibili.com/bangumi/play/ep28202","time":"2015-01-05T19:05:21.000Z"},{"site":"qq","sort":1,"title":"元气少女缘结神第2季_01","url":"https://v.qq.com/x/cover/91ekf8i4watxc1p/g00152o40hl.html"}]},{"id":464507,"sort":2,"name":"神様、出雲へいく","sites":[{"site":"bilibili","sort":2,"title":"神明，前往出云","url":"https://www.bilibili.com/bangumi/play/ep28201","time":"2015-01-12T18:35:02.000Z"},{"site":"qq","sort":2,"title":"元气少女缘结神第2季_02","url":"https://v.qq.com/x/cover/91ekf8i4watxc1p/u0015d99o7k.html"}]},{"id":464508,"sort":3,"name":"神様、黄泉におちる","sites":[{"site":"bilibili","sort":3,"title":"神明，落入黄泉","url":"https://www.bilibili.com/bangumi/play/ep28233","time":"2015-01-26T18:05:03.000Z"},{"site":"qq","sort":3,"title":"元气少女缘结神第2季_03","url":"https://v.qq.com/x/cover/91ekf8i4watxc1p/l0015bwg06o.html"}]},{"id":464509,"sort":4,"name":"神様、黄泉をかける","sites":[{"site":"bilibili","sort":4,"title":"神明，疾驰于黄泉","url":"https://www.bilibili.com/bangumi/play/ep28337","time":"2015-02-02T18:05:04.000Z"},{"site":"qq","sort":4,"title":"元气少女缘结神第2季_04","url":"https://v.qq.com/x/cover/91ekf8i4watxc1p/r00156to0fi.html"}]},{"id":464510,"sort":5,"name":"神様、二度目の告白をする","sites":[{"site":"bilibili","sort":5,"title":"神明，再一次告白","url":"https://www.bilibili.com/bangumi/play/ep28336","time":"2015-02-09T18:05:05.000Z"},{"site":"qq","sort":5,"title":"元气少女缘结神第2季_05","url":"https://v.qq.com/x/cover/91ekf8i4watxc1p/n0015xekq81.html"}]},{"id":464511,"sort":6,"name":"神様、小天狗にあう","sites":[{"site":"bilibili","sort":6,"title":"神明，遇见小天狗","url":"https://www.bilibili.com/bangumi/play/ep28387","time":"2015-02-16T18:05:06.000Z"},{"site":"qq","sort":6,"title":"元气少女缘结神第2季_06","url":"https://v.qq.com/x/cover/91ekf8i4watxc1p/j0016rlcyld.html"}]},{"id":464512,"sort":7,"name":"神様、鞍馬山へいく","sites":[{"site":"bilibili","sort":7,"title":"神明，前往鞍马山","url":"https://www.bilibili.com/bangumi/play/ep28430","time":"2015-02-23T18:05:07.000Z"},{"site":"qq","sort":7,"title":"元气少女缘结神第2季_07","url":"https://v.qq.com/x/cover/91ekf8i4watxc1p/p0016otme92.html"}]},{"id":464513,"sort":8,"name":"神様、潜入する","sites":[{"site":"bilibili","sort":8,"title":"神明，潜入","url":"https://www.bilibili.com/bangumi/play/ep28490","time":"2015-03-02T18:05:08.000Z"},{"site":"qq","sort":8,"title":"元气少女缘结神第2季_08","url":"https://v.qq.com/x/cover/91ekf8i4watxc1p/m0016kdz7mc.html"}]},{"id":464514,"sort":9,"name":"神様、ふいうちをくらう","sites":[{"site":"bilibili","sort":9,"title":"神明，遭受突袭","url":"https://www.bilibili.com/bangumi/play/ep28530","time":"2015-03-09T18:35:09.000Z"},{"site":"qq","sort":9,"title":"元气少女缘结神第2季_09","url":"https://v.qq.com/x/cover/91ekf8i4watxc1p/m0016qdqck9.html"}]},{"id":464515,"sort":10,"name":"神様、告白される","sites":[{"site":"bilibili","sort":10,"title":"神明，被告白","url":"https://www.bilibili.com/bangumi/play/ep28543","time":"2015-03-16T18:35:10.000Z"},{"site":"qq","sort":10,"title":"元气少女缘结神第2季_10","url":"https://v.qq.com/x/cover/91ekf8i4watxc1p/l0016gy4dj7.html"}]},{"id":464516,"sort":11,"name":"神様、こどもにもどる","sites":[{"site":"bilibili","sort":11,"title":"神明，变回小孩","url":"https://www.bilibili.com/bangumi/play/ep28617","time":"2015-03-23T18:35:10.000Z"},{"site":"qq","sort":11,"title":"元气少女缘结神第2季_11","url":"https://v.qq.com/x/cover/91ekf8i4watxc1p/n0016kz2vzt.html"}]},{"id":464517,"sort":12,"name":"神様、求婚される","sites":[{"site":"bilibili","sort":12,"title":"神明，被求婚","url":"https://www.bilibili.com/bangumi/play/ep28659","time":"2015-03-30T18:35:12.000Z"},{"site":"qq","sort":12,"title":"元气少女缘结神第2季_12","url":"https://v.qq.com/x/cover/91ekf8i4watxc1p/f0016sg4puv.html"}]}]}
+{
+ "id": "109724",
+ "name": "神様はじめました◎",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1523",
+   "sort": 12
+  },
+  {
+   "site": "qq",
+   "id": "9/91ekf8i4watxc1p",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 464506,
+   "sort": 1,
+   "name": "神様またはじめました",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "元气少女再结神",
+     "url": "https://www.bilibili.com/bangumi/play/ep28202",
+     "time": "2015-01-05T19:05:21.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "元气少女缘结神第2季_01",
+     "url": "https://v.qq.com/x/cover/91ekf8i4watxc1p/g00152o40hl.html"
+    }
+   ]
+  },
+  {
+   "id": 464507,
+   "sort": 2,
+   "name": "神様、出雲へいく",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "神明，前往出云",
+     "url": "https://www.bilibili.com/bangumi/play/ep28201",
+     "time": "2015-01-12T18:35:02.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "元气少女缘结神第2季_02",
+     "url": "https://v.qq.com/x/cover/91ekf8i4watxc1p/u0015d99o7k.html"
+    }
+   ]
+  },
+  {
+   "id": 464508,
+   "sort": 3,
+   "name": "神様、黄泉におちる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "神明，落入黄泉",
+     "url": "https://www.bilibili.com/bangumi/play/ep28233",
+     "time": "2015-01-26T18:05:03.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "元气少女缘结神第2季_03",
+     "url": "https://v.qq.com/x/cover/91ekf8i4watxc1p/l0015bwg06o.html"
+    }
+   ]
+  },
+  {
+   "id": 464509,
+   "sort": 4,
+   "name": "神様、黄泉をかける",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "神明，疾驰于黄泉",
+     "url": "https://www.bilibili.com/bangumi/play/ep28337",
+     "time": "2015-02-02T18:05:04.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "元气少女缘结神第2季_04",
+     "url": "https://v.qq.com/x/cover/91ekf8i4watxc1p/r00156to0fi.html"
+    }
+   ]
+  },
+  {
+   "id": 464510,
+   "sort": 5,
+   "name": "神様、二度目の告白をする",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "神明，再一次告白",
+     "url": "https://www.bilibili.com/bangumi/play/ep28336",
+     "time": "2015-02-09T18:05:05.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "元气少女缘结神第2季_05",
+     "url": "https://v.qq.com/x/cover/91ekf8i4watxc1p/n0015xekq81.html"
+    }
+   ]
+  },
+  {
+   "id": 464511,
+   "sort": 6,
+   "name": "神様、小天狗にあう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "神明，遇见小天狗",
+     "url": "https://www.bilibili.com/bangumi/play/ep28387",
+     "time": "2015-02-16T18:05:06.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "元气少女缘结神第2季_06",
+     "url": "https://v.qq.com/x/cover/91ekf8i4watxc1p/j0016rlcyld.html"
+    }
+   ]
+  },
+  {
+   "id": 464512,
+   "sort": 7,
+   "name": "神様、鞍馬山へいく",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "神明，前往鞍马山",
+     "url": "https://www.bilibili.com/bangumi/play/ep28430",
+     "time": "2015-02-23T18:05:07.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "元气少女缘结神第2季_07",
+     "url": "https://v.qq.com/x/cover/91ekf8i4watxc1p/p0016otme92.html"
+    }
+   ]
+  },
+  {
+   "id": 464513,
+   "sort": 8,
+   "name": "神様、潜入する",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "神明，潜入",
+     "url": "https://www.bilibili.com/bangumi/play/ep28490",
+     "time": "2015-03-02T18:05:08.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "元气少女缘结神第2季_08",
+     "url": "https://v.qq.com/x/cover/91ekf8i4watxc1p/m0016kdz7mc.html"
+    }
+   ]
+  },
+  {
+   "id": 464514,
+   "sort": 9,
+   "name": "神様、ふいうちをくらう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "神明，遭受突袭",
+     "url": "https://www.bilibili.com/bangumi/play/ep28530",
+     "time": "2015-03-09T18:35:09.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "元气少女缘结神第2季_09",
+     "url": "https://v.qq.com/x/cover/91ekf8i4watxc1p/m0016qdqck9.html"
+    }
+   ]
+  },
+  {
+   "id": 464515,
+   "sort": 10,
+   "name": "神様、告白される",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "神明，被告白",
+     "url": "https://www.bilibili.com/bangumi/play/ep28543",
+     "time": "2015-03-16T18:35:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "元气少女缘结神第2季_10",
+     "url": "https://v.qq.com/x/cover/91ekf8i4watxc1p/l0016gy4dj7.html"
+    }
+   ]
+  },
+  {
+   "id": 464516,
+   "sort": 11,
+   "name": "神様、こどもにもどる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "神明，变回小孩",
+     "url": "https://www.bilibili.com/bangumi/play/ep28617",
+     "time": "2015-03-23T18:35:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "元气少女缘结神第2季_11",
+     "url": "https://v.qq.com/x/cover/91ekf8i4watxc1p/n0016kz2vzt.html"
+    }
+   ]
+  },
+  {
+   "id": 464517,
+   "sort": 12,
+   "name": "神様、求婚される",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "神明，被求婚",
+     "url": "https://www.bilibili.com/bangumi/play/ep28659",
+     "time": "2015-03-30T18:35:12.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "元气少女缘结神第2季_12",
+     "url": "https://v.qq.com/x/cover/91ekf8i4watxc1p/f0016sg4puv.html"
+    }
+   ]
+  }
+ ]
+}

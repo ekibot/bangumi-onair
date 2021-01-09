@@ -1,1 +1,258 @@
-{"id":"186613","name":"ViVid Strike!","sites":[{"site":"bilibili","id":"5514","sort":12},{"site":"qq","id":"e/ealjg29sfdlk056","sort":12}],"eps":[{"id":662400,"sort":1,"name":"フーカ・レヴェントン","sites":[{"site":"bilibili","sort":1,"title":"风香·雷文顿","url":"https://www.bilibili.com/bangumi/play/ep96153","time":"2016-10-01T18:00:10.000Z"},{"site":"qq","sort":1,"title":"vivid strike!_01","url":"https://v.qq.com/x/cover/ealjg29sfdlk056/b0032gb2b78.html"}]},{"id":662401,"sort":2,"name":"ナカジマジム","sites":[{"site":"bilibili","sort":2,"title":"中岛队","url":"https://www.bilibili.com/bangumi/play/ep96154","time":"2016-10-08T18:00:10.000Z"},{"site":"qq","sort":2,"title":"vivid strike!_02","url":"https://v.qq.com/x/cover/ealjg29sfdlk056/i0032gml894.html"}]},{"id":662402,"sort":3,"name":"挑戦","sites":[{"site":"bilibili","sort":3,"title":"挑战","url":"https://www.bilibili.com/bangumi/play/ep96155","time":"2016-10-15T18:00:10.000Z"},{"site":"qq","sort":3,"title":"vivid strike!_03","url":"https://v.qq.com/x/cover/ealjg29sfdlk056/o0032e9hsjn.html"}]},{"id":662403,"sort":4,"name":"リンネ・ベルリネッタ","sites":[{"site":"bilibili","sort":4,"title":"凛音·贝利内塔","url":"https://www.bilibili.com/bangumi/play/ep96156","time":"2016-10-22T18:00:11.000Z"},{"site":"qq","sort":4,"title":"vivid strike!_04","url":"https://v.qq.com/x/cover/ealjg29sfdlk056/y0032nkobut.html"}]},{"id":662404,"sort":5,"name":"ウラカン","sites":[{"site":"bilibili","sort":5,"title":"飓风","url":"https://www.bilibili.com/bangumi/play/ep96157","time":"2016-10-29T18:00:00.000Z"},{"site":"qq","sort":5,"title":"vivid strike!_05","url":"https://v.qq.com/x/cover/ealjg29sfdlk056/g00323ht3au.html"}]},{"id":662405,"sort":6,"name":"ウインターカップ","sites":[{"site":"bilibili","sort":6,"title":"冬季赛","url":"https://www.bilibili.com/bangumi/play/ep96158","time":"2016-11-05T18:00:00.000Z"},{"site":"qq","sort":6,"title":"vivid strike!_06","url":"https://v.qq.com/x/cover/ealjg29sfdlk056/o0032nzy96d.html"}]},{"id":662406,"sort":7,"name":"高町ヴィヴィオ","sites":[{"site":"bilibili","sort":7,"title":"高町薇薇欧","url":"https://www.bilibili.com/bangumi/play/ep96159","time":"2016-11-12T18:00:00.000Z"},{"site":"qq","sort":7,"title":"vivid strike!_07","url":"https://v.qq.com/x/cover/ealjg29sfdlk056/p00321qbdmc.html"}]},{"id":662407,"sort":8,"name":"勝者と敗者","sites":[{"site":"bilibili","sort":8,"title":"胜者与败者","url":"https://www.bilibili.com/bangumi/play/ep96160","time":"2016-11-19T18:00:00.000Z"},{"site":"qq","sort":8,"title":"vivid strike!_08","url":"https://v.qq.com/x/cover/ealjg29sfdlk056/a0032f5z0kw.html"}]},{"id":662408,"sort":9,"name":"再会","sites":[{"site":"bilibili","sort":9,"title":"重逢","url":"https://www.bilibili.com/bangumi/play/ep96161","time":"2016-11-26T18:00:00.000Z"},{"site":"qq","sort":9,"title":"vivid strike!_09","url":"https://v.qq.com/x/cover/ealjg29sfdlk056/r00329no5oi.html"}]},{"id":662409,"sort":10,"name":"雨","sites":[{"site":"bilibili","sort":10,"title":"雨","url":"https://www.bilibili.com/bangumi/play/ep96162","time":"2016-12-03T18:00:00.000Z"},{"site":"qq","sort":10,"title":"vivid strike!_10","url":"https://v.qq.com/x/cover/ealjg29sfdlk056/b0032u16rgc.html"}]},{"id":662410,"sort":11,"name":"撃ち抜く一撃（ストライク）","sites":[{"site":"bilibili","sort":11,"title":"全力一击","url":"https://www.bilibili.com/bangumi/play/ep96163","time":"2016-12-10T18:00:00.000Z"},{"site":"qq","sort":11,"title":"vivid strike!_11","url":"https://v.qq.com/x/cover/ealjg29sfdlk056/o00322fu11c.html"}]},{"id":662411,"sort":12,"name":"繋いだ手の中で","sites":[{"site":"bilibili","sort":12,"title":"在紧牵着的手中","url":"https://www.bilibili.com/bangumi/play/ep96164","time":"2016-12-17T18:00:00.000Z"},{"site":"qq","sort":12,"title":"vivid strike!_12","url":"https://v.qq.com/x/cover/ealjg29sfdlk056/x0032ybnla8.html"}]}]}
+{
+ "id": "186613",
+ "name": "ViVid Strike!",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5514",
+   "sort": 12
+  },
+  {
+   "site": "qq",
+   "id": "e/ealjg29sfdlk056",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 662400,
+   "sort": 1,
+   "name": "フーカ・レヴェントン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "风香·雷文顿",
+     "url": "https://www.bilibili.com/bangumi/play/ep96153",
+     "time": "2016-10-01T18:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "vivid strike!_01",
+     "url": "https://v.qq.com/x/cover/ealjg29sfdlk056/b0032gb2b78.html"
+    }
+   ]
+  },
+  {
+   "id": 662401,
+   "sort": 2,
+   "name": "ナカジマジム",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "中岛队",
+     "url": "https://www.bilibili.com/bangumi/play/ep96154",
+     "time": "2016-10-08T18:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "vivid strike!_02",
+     "url": "https://v.qq.com/x/cover/ealjg29sfdlk056/i0032gml894.html"
+    }
+   ]
+  },
+  {
+   "id": 662402,
+   "sort": 3,
+   "name": "挑戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "挑战",
+     "url": "https://www.bilibili.com/bangumi/play/ep96155",
+     "time": "2016-10-15T18:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "vivid strike!_03",
+     "url": "https://v.qq.com/x/cover/ealjg29sfdlk056/o0032e9hsjn.html"
+    }
+   ]
+  },
+  {
+   "id": 662403,
+   "sort": 4,
+   "name": "リンネ・ベルリネッタ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "凛音·贝利内塔",
+     "url": "https://www.bilibili.com/bangumi/play/ep96156",
+     "time": "2016-10-22T18:00:11.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "vivid strike!_04",
+     "url": "https://v.qq.com/x/cover/ealjg29sfdlk056/y0032nkobut.html"
+    }
+   ]
+  },
+  {
+   "id": 662404,
+   "sort": 5,
+   "name": "ウラカン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "飓风",
+     "url": "https://www.bilibili.com/bangumi/play/ep96157",
+     "time": "2016-10-29T18:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "vivid strike!_05",
+     "url": "https://v.qq.com/x/cover/ealjg29sfdlk056/g00323ht3au.html"
+    }
+   ]
+  },
+  {
+   "id": 662405,
+   "sort": 6,
+   "name": "ウインターカップ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "冬季赛",
+     "url": "https://www.bilibili.com/bangumi/play/ep96158",
+     "time": "2016-11-05T18:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "vivid strike!_06",
+     "url": "https://v.qq.com/x/cover/ealjg29sfdlk056/o0032nzy96d.html"
+    }
+   ]
+  },
+  {
+   "id": 662406,
+   "sort": 7,
+   "name": "高町ヴィヴィオ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "高町薇薇欧",
+     "url": "https://www.bilibili.com/bangumi/play/ep96159",
+     "time": "2016-11-12T18:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "vivid strike!_07",
+     "url": "https://v.qq.com/x/cover/ealjg29sfdlk056/p00321qbdmc.html"
+    }
+   ]
+  },
+  {
+   "id": 662407,
+   "sort": 8,
+   "name": "勝者と敗者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "胜者与败者",
+     "url": "https://www.bilibili.com/bangumi/play/ep96160",
+     "time": "2016-11-19T18:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "vivid strike!_08",
+     "url": "https://v.qq.com/x/cover/ealjg29sfdlk056/a0032f5z0kw.html"
+    }
+   ]
+  },
+  {
+   "id": 662408,
+   "sort": 9,
+   "name": "再会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "重逢",
+     "url": "https://www.bilibili.com/bangumi/play/ep96161",
+     "time": "2016-11-26T18:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "vivid strike!_09",
+     "url": "https://v.qq.com/x/cover/ealjg29sfdlk056/r00329no5oi.html"
+    }
+   ]
+  },
+  {
+   "id": 662409,
+   "sort": 10,
+   "name": "雨",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "雨",
+     "url": "https://www.bilibili.com/bangumi/play/ep96162",
+     "time": "2016-12-03T18:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "vivid strike!_10",
+     "url": "https://v.qq.com/x/cover/ealjg29sfdlk056/b0032u16rgc.html"
+    }
+   ]
+  },
+  {
+   "id": 662410,
+   "sort": 11,
+   "name": "撃ち抜く一撃（ストライク）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "全力一击",
+     "url": "https://www.bilibili.com/bangumi/play/ep96163",
+     "time": "2016-12-10T18:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "vivid strike!_11",
+     "url": "https://v.qq.com/x/cover/ealjg29sfdlk056/o00322fu11c.html"
+    }
+   ]
+  },
+  {
+   "id": 662411,
+   "sort": 12,
+   "name": "繋いだ手の中で",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "在紧牵着的手中",
+     "url": "https://www.bilibili.com/bangumi/play/ep96164",
+     "time": "2016-12-17T18:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "vivid strike!_12",
+     "url": "https://v.qq.com/x/cover/ealjg29sfdlk056/x0032ybnla8.html"
+    }
+   ]
+  }
+ ]
+}

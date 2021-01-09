@@ -1,1 +1,27 @@
-{"id":"218214","name":"曇天に笑う＜外伝＞～宿命、双頭の風魔～","sites":[{"site":"bilibili","id":"92812","sort":1}],"eps":[{"id":846761,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"宿命 双头之风魔","url":"https://www.bilibili.com/bangumi/play/ep212482","time":"2018-06-12T01:00:00.000Z"}]}]}
+{
+ "id": "218214",
+ "name": "曇天に笑う＜外伝＞～宿命、双頭の風魔～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "92812",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 846761,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "宿命 双头之风魔",
+     "url": "https://www.bilibili.com/bangumi/play/ep212482",
+     "time": "2018-06-12T01:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,181 @@
-{"id":"184299","name":"魔法少女？なりあ☆がーるず","sites":[{"site":"bilibili","id":"5040","sort":12}],"eps":[{"id":640914,"sort":1,"name":"それは不思議な出会いなり？","sites":[{"site":"bilibili","sort":1,"title":"这是不可思议的邂逅吗?","url":"https://www.bilibili.com/bangumi/play/ep90843","time":"2016-07-06T15:05:00.000Z"}]},{"id":640915,"sort":2,"name":"私たちは伝説の戦士なり？","sites":[{"site":"bilibili","sort":2,"title":"我们是传说中的战士吗？","url":"https://www.bilibili.com/bangumi/play/ep91382","time":"2016-07-13T15:05:00.000Z"}]},{"id":640916,"sort":3,"name":"ハピネスエネルギーをチャージするなり？","sites":[{"site":"bilibili","sort":3,"title":"需要补充快乐能量？","url":"https://www.bilibili.com/bangumi/play/ep91383","time":"2016-07-20T15:05:00.000Z"}]},{"id":640917,"sort":4,"name":"転校生は甘くて危険な恋の罠なり？","sites":[{"site":"bilibili","sort":4,"title":"转校生是甜蜜而危险的恋爱陷阱？","url":"https://www.bilibili.com/bangumi/play/ep91384","time":"2016-07-27T15:05:00.000Z"}]},{"id":640918,"sort":5,"name":"めざせ！CMデビューなり？","sites":[{"site":"bilibili","sort":5,"title":"目标！广告出道？","url":"https://www.bilibili.com/bangumi/play/ep91385","time":"2016-08-03T15:05:00.000Z"}]},{"id":640919,"sort":6,"name":"さよならおばあちゃん","sites":[{"site":"bilibili","sort":6,"title":"再见了 外婆","url":"https://www.bilibili.com/bangumi/play/ep91386","time":"2016-08-10T15:05:00.000Z"}]},{"id":640920,"sort":7,"name":"夏休みはいなほの別荘でバカンスなり？","sites":[{"site":"bilibili","sort":7,"title":"暑假在稻穗家别墅里度假？ ","url":"https://www.bilibili.com/bangumi/play/ep91387","time":"2016-08-17T15:05:00.000Z"}]},{"id":640921,"sort":8,"name":"4人目の魔法少女なり？","sites":[{"site":"bilibili","sort":8,"title":"第4个魔法少女？","url":"https://www.bilibili.com/bangumi/play/ep91388","time":"2016-08-24T15:05:00.000Z"}]},{"id":640922,"sort":9,"name":"うららはひとりぼっちなり？","sites":[{"site":"bilibili","sort":9,"title":"丽形单影只？","url":"https://www.bilibili.com/bangumi/play/ep91389","time":"2016-08-31T15:05:00.000Z"}]},{"id":640923,"sort":10,"name":"夢の舞台でエネルギーをフルチャージなり？","sites":[{"site":"bilibili","sort":10,"title":"在梦想的舞台上蓄满能量？","url":"https://www.bilibili.com/bangumi/play/ep91390","time":"2016-09-07T15:05:00.000Z"}]},{"id":640924,"sort":11,"name":"激突！冬将軍なり？","sites":[{"site":"bilibili","sort":11,"title":"激战！严冬？","url":"https://www.bilibili.com/bangumi/play/ep91391","time":"2016-09-14T15:05:00.000Z"}]},{"id":640925,"sort":12,"name":"魔法少女のいない世界","sites":[{"site":"bilibili","sort":12,"title":"魔法少女不存在的世界","url":"https://www.bilibili.com/bangumi/play/ep91392","time":"2016-09-21T15:05:00.000Z"}]}]}
+{
+ "id": "184299",
+ "name": "魔法少女？なりあ☆がーるず",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5040",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 640914,
+   "sort": 1,
+   "name": "それは不思議な出会いなり？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "这是不可思议的邂逅吗?",
+     "url": "https://www.bilibili.com/bangumi/play/ep90843",
+     "time": "2016-07-06T15:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640915,
+   "sort": 2,
+   "name": "私たちは伝説の戦士なり？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "我们是传说中的战士吗？",
+     "url": "https://www.bilibili.com/bangumi/play/ep91382",
+     "time": "2016-07-13T15:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640916,
+   "sort": 3,
+   "name": "ハピネスエネルギーをチャージするなり？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "需要补充快乐能量？",
+     "url": "https://www.bilibili.com/bangumi/play/ep91383",
+     "time": "2016-07-20T15:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640917,
+   "sort": 4,
+   "name": "転校生は甘くて危険な恋の罠なり？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "转校生是甜蜜而危险的恋爱陷阱？",
+     "url": "https://www.bilibili.com/bangumi/play/ep91384",
+     "time": "2016-07-27T15:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640918,
+   "sort": 5,
+   "name": "めざせ！CMデビューなり？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "目标！广告出道？",
+     "url": "https://www.bilibili.com/bangumi/play/ep91385",
+     "time": "2016-08-03T15:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640919,
+   "sort": 6,
+   "name": "さよならおばあちゃん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "再见了 外婆",
+     "url": "https://www.bilibili.com/bangumi/play/ep91386",
+     "time": "2016-08-10T15:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640920,
+   "sort": 7,
+   "name": "夏休みはいなほの別荘でバカンスなり？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "暑假在稻穗家别墅里度假？ ",
+     "url": "https://www.bilibili.com/bangumi/play/ep91387",
+     "time": "2016-08-17T15:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640921,
+   "sort": 8,
+   "name": "4人目の魔法少女なり？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "第4个魔法少女？",
+     "url": "https://www.bilibili.com/bangumi/play/ep91388",
+     "time": "2016-08-24T15:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640922,
+   "sort": 9,
+   "name": "うららはひとりぼっちなり？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "丽形单影只？",
+     "url": "https://www.bilibili.com/bangumi/play/ep91389",
+     "time": "2016-08-31T15:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640923,
+   "sort": 10,
+   "name": "夢の舞台でエネルギーをフルチャージなり？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "在梦想的舞台上蓄满能量？",
+     "url": "https://www.bilibili.com/bangumi/play/ep91390",
+     "time": "2016-09-07T15:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640924,
+   "sort": 11,
+   "name": "激突！冬将軍なり？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "激战！严冬？",
+     "url": "https://www.bilibili.com/bangumi/play/ep91391",
+     "time": "2016-09-14T15:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640925,
+   "sort": 12,
+   "name": "魔法少女のいない世界",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "魔法少女不存在的世界",
+     "url": "https://www.bilibili.com/bangumi/play/ep91392",
+     "time": "2016-09-21T15:05:00.000Z"
+    }
+   ]
+  }
+ ]
+}

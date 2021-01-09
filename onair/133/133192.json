@@ -1,1 +1,181 @@
-{"id":"133192","name":"ヤング ブラック・ジャック","sites":[{"site":"bilibili","id":"2720","sort":12}],"eps":[{"id":563340,"sort":1,"name":"医者はどこだ！","sites":[{"site":"bilibili","sort":1,"title":"医生在哪里！","url":"https://www.bilibili.com/bangumi/play/ep70857","time":"2015-10-02T07:24:00.000Z"}]},{"id":563341,"sort":2,"name":"拉致","sites":[{"site":"bilibili","sort":2,"title":"绑架","url":"https://www.bilibili.com/bangumi/play/ep71259","time":"2015-10-09T07:25:00.000Z"}]},{"id":563342,"sort":3,"name":"脱走兵","sites":[{"site":"bilibili","sort":3,"title":"逃兵","url":"https://www.bilibili.com/bangumi/play/ep72677","time":"2015-10-16T07:10:00.000Z"}]},{"id":563343,"sort":4,"name":"ベトナムにて その1","sites":[{"site":"bilibili","sort":4,"title":"在越南 其一","url":"https://www.bilibili.com/bangumi/play/ep74935","time":"2015-10-23T07:30:00.000Z"}]},{"id":563344,"sort":5,"name":"ベトナムにて その2","sites":[{"site":"bilibili","sort":5,"title":"在越南 其二","url":"https://www.bilibili.com/bangumi/play/ep75823","time":"2015-10-30T06:55:00.000Z"}]},{"id":563345,"sort":6,"name":"ベトナムにて その3","sites":[{"site":"bilibili","sort":6,"title":"在越南 其三","url":"https://www.bilibili.com/bangumi/play/ep76661","time":"2015-11-06T07:25:00.000Z"}]},{"id":563346,"sort":7,"name":"苦痛なき革命 その1","sites":[{"site":"bilibili","sort":7,"title":"没有苦痛的革命 其一","url":"https://www.bilibili.com/bangumi/play/ep77635","time":"2015-11-13T07:05:00.000Z"}]},{"id":563347,"sort":8,"name":"苦痛なき革命 その2","sites":[{"site":"bilibili","sort":8,"title":"没有苦痛的革命 其二","url":"https://www.bilibili.com/bangumi/play/ep79176","time":"2015-11-20T07:50:00.000Z"}]},{"id":563348,"sort":9,"name":"無残帳 その1","sites":[{"site":"bilibili","sort":9,"title":"凄惨帐 其一","url":"https://www.bilibili.com/bangumi/play/ep79452","time":"2015-11-27T07:20:15.000Z"}]},{"id":563349,"sort":10,"name":"無残帳 その2","sites":[{"site":"bilibili","sort":10,"title":"凄惨帐 其二","url":"https://www.bilibili.com/bangumi/play/ep80485","time":"2015-12-04T07:15:00.000Z"}]},{"id":563350,"sort":11,"name":"無残帳 その3","sites":[{"site":"bilibili","sort":11,"title":"凄惨帐 其三","url":"https://www.bilibili.com/bangumi/play/ep81229","time":"2015-12-11T07:20:00.000Z"}]},{"id":563351,"sort":12,"name":"狂騒の季節","sites":[{"site":"bilibili","sort":12,"title":"狂躁的季节","url":"https://www.bilibili.com/bangumi/play/ep81699","time":"2015-12-18T07:52:31.000Z"}]}]}
+{
+ "id": "133192",
+ "name": "ヤング ブラック・ジャック",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2720",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 563340,
+   "sort": 1,
+   "name": "医者はどこだ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "医生在哪里！",
+     "url": "https://www.bilibili.com/bangumi/play/ep70857",
+     "time": "2015-10-02T07:24:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563341,
+   "sort": 2,
+   "name": "拉致",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "绑架",
+     "url": "https://www.bilibili.com/bangumi/play/ep71259",
+     "time": "2015-10-09T07:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563342,
+   "sort": 3,
+   "name": "脱走兵",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "逃兵",
+     "url": "https://www.bilibili.com/bangumi/play/ep72677",
+     "time": "2015-10-16T07:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563343,
+   "sort": 4,
+   "name": "ベトナムにて その1",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "在越南 其一",
+     "url": "https://www.bilibili.com/bangumi/play/ep74935",
+     "time": "2015-10-23T07:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563344,
+   "sort": 5,
+   "name": "ベトナムにて その2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "在越南 其二",
+     "url": "https://www.bilibili.com/bangumi/play/ep75823",
+     "time": "2015-10-30T06:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563345,
+   "sort": 6,
+   "name": "ベトナムにて その3",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "在越南 其三",
+     "url": "https://www.bilibili.com/bangumi/play/ep76661",
+     "time": "2015-11-06T07:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563346,
+   "sort": 7,
+   "name": "苦痛なき革命 その1",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "没有苦痛的革命 其一",
+     "url": "https://www.bilibili.com/bangumi/play/ep77635",
+     "time": "2015-11-13T07:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563347,
+   "sort": 8,
+   "name": "苦痛なき革命 その2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "没有苦痛的革命 其二",
+     "url": "https://www.bilibili.com/bangumi/play/ep79176",
+     "time": "2015-11-20T07:50:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563348,
+   "sort": 9,
+   "name": "無残帳 その1",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "凄惨帐 其一",
+     "url": "https://www.bilibili.com/bangumi/play/ep79452",
+     "time": "2015-11-27T07:20:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563349,
+   "sort": 10,
+   "name": "無残帳 その2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "凄惨帐 其二",
+     "url": "https://www.bilibili.com/bangumi/play/ep80485",
+     "time": "2015-12-04T07:15:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563350,
+   "sort": 11,
+   "name": "無残帳 その3",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "凄惨帐 其三",
+     "url": "https://www.bilibili.com/bangumi/play/ep81229",
+     "time": "2015-12-11T07:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563351,
+   "sort": 12,
+   "name": "狂騒の季節",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "狂躁的季节",
+     "url": "https://www.bilibili.com/bangumi/play/ep81699",
+     "time": "2015-12-18T07:52:31.000Z"
+    }
+   ]
+  }
+ ]
+}

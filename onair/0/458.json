@@ -1,1 +1,38 @@
-{"id":"458","name":"ドラえもん のび太と銀河超特急","sites":[{"site":"qq","id":"z/z8alyhrvkd3jp2y","sort":32},{"site":"bilibili","id":"2564","sort":1}],"eps":[{"id":660076,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"1980：大雄的恐龙王国","url":"https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"},{"site":"bilibili","sort":1,"title":"大雄与银河超特急","url":"https://www.bilibili.com/bangumi/play/ep63687","time":"2015-02-27T08:04:05.000Z"}]}]}
+{
+ "id": "458",
+ "name": "ドラえもん のび太と銀河超特急",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "z/z8alyhrvkd3jp2y",
+   "sort": 31
+  },
+  {
+   "site": "bilibili",
+   "id": "2564",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 660076,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "1980：大雄与小恐龙",
+     "url": "https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "大雄与银河超特急",
+     "url": "https://www.bilibili.com/bangumi/play/ep63687",
+     "time": "2015-02-27T08:04:05.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "id": "42707",
+ "name": "イクシオン サーガ DT",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "b07551dee10811e19013",
+   "sort": 19
+  }
+ ],
+ "eps": [
+  {
+   "id": 199085,
+   "sort": 1,
+   "name": "DT（Dimension Transfer）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "DT",
+     "url": "https://v.youku.com/v_show/id_XNDU5NTIyMjYw.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 199086,
+   "sort": 2,
+   "name": "ED（Erecpyle Dukakis）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "ED",
+     "url": "https://v.youku.com/v_show/id_XNDYyMTIzNjg0.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 199087,
+   "sort": 3,
+   "name": "NK（Newcomer vs. Kon）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "NK",
+     "url": "https://v.youku.com/v_show/id_XNDY1MzExMTgw.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 199088,
+   "sort": 4,
+   "name": "PK（Pretty Kama）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "PK",
+     "url": "https://v.youku.com/v_show/id_XNDY4NjkzMDcy.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 199089,
+   "sort": 5,
+   "name": "BL（Beautiful Life）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "BL",
+     "url": "https://v.youku.com/v_show/id_XNDcxMTI2Njgw.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 199090,
+   "sort": 6,
+   "name": "HG（Highness Guardians）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "HG",
+     "url": "https://v.youku.com/v_show/id_XNDczOTk3ODU2.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 199091,
+   "sort": 7,
+   "name": "KO（Keep On）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "KO",
+     "url": "https://v.youku.com/v_show/id_XNDc2OTAzODA4.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 199092,
+   "sort": 8,
+   "name": "SM（Shining Master）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "SM",
+     "url": "https://v.youku.com/v_show/id_XNDgwMTAxMjky.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 199093,
+   "sort": 9,
+   "name": "IT（Incognito Trial）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": " IT",
+     "url": "https://v.youku.com/v_show/id_XNDgzMTc0MzEy.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 199094,
+   "sort": 10,
+   "name": "HS（Home Sick）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "HS",
+     "url": "https://v.youku.com/v_show/id_XNDg2MzI1Njg4.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 199095,
+   "sort": 11,
+   "name": "UV（Unexpected Victory）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "UV",
+     "url": "https://v.youku.com/v_show/id_XNDg5NDE1NzUy.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 199096,
+   "sort": 12,
+   "name": "BE（Behavioral Examination）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "BE",
+     "url": "https://v.youku.com/v_show/id_XNDkyMzQwMjAw.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 216415,
+   "sort": 13,
+   "name": "AC（Accidental Contact）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 13,
+     "title": "AC",
+     "url": "https://v.youku.com/v_show/id_XNDk4NTIyMjc2.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 216416,
+   "sort": 14,
+   "name": "EV（Evidence Veiled）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 14,
+     "title": "EV",
+     "url": "https://v.youku.com/v_show/id_XNTAxNjMyOTg4.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 216417,
+   "sort": 15,
+   "name": "MT（Midnight Trial）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 15,
+     "title": "MT",
+     "url": "https://v.youku.com/v_show/id_XNTAzNjcyMjcy.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 216419,
+   "sort": 17,
+   "name": "BS（Bridal Service）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 17,
+     "title": "BS",
+     "url": "https://v.youku.com/v_show/id_XNTA5MzYyODEy.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 216420,
+   "sort": 18,
+   "name": "FO（Formality and Obstruction）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 18,
+     "title": "FO",
+     "url": "https://v.youku.com/v_show/id_XNTEyOTUzNzQ4.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 216421,
+   "sort": 19,
+   "name": "OK（Off Key）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 19,
+     "title": "OK",
+     "url": "https://v.youku.com/v_show/id_XNTE0MzYwNTIw.html?s=b07551dee10811e19013"
+    }
+   ]
+  },
+  {
+   "id": 216422,
+   "sort": 20,
+   "name": "XP（Xing Point）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 20,
+     "title": "XP",
+     "url": "https://v.youku.com/v_show/id_XNTE3NTcxNjA4.html?s=b07551dee10811e19013"
+    }
+   ]
+  }
+ ]
+}

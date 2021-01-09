@@ -1,1 +1,50 @@
-{"id":"477","name":"ドラえもん 新・のび太の宇宙開拓史","sites":[{"site":"qq","id":"z/z8alyhrvkd3jp2y","sort":32},{"site":"iqiyi","id":"a_19rrh6mkdh","sort":1},{"site":"bilibili","id":"3878","sort":1}],"eps":[{"id":859524,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"1980：大雄的恐龙王国","url":"https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"},{"site":"iqiyi","sort":1,"title":"新大雄的宇宙开拓史","url":"http://www.iqiyi.com/v_19rr0kcnxw.html","time":"2018-05-31T16:06:01.000Z"},{"site":"bilibili","sort":1,"title":"哆啦A梦 新‧大雄的宇宙开拓史","url":"https://www.bilibili.com/bangumi/play/ep86837","time":"2016-04-28T02:42:00.000Z"}]}]}
+{
+ "id": "477",
+ "name": "ドラえもん 新・のび太の宇宙開拓史",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "z/z8alyhrvkd3jp2y",
+   "sort": 31
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh6mkdh",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "3878",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 859524,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "1980：大雄与小恐龙",
+     "url": "https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "新大雄的宇宙开拓史",
+     "url": "http://www.iqiyi.com/v_19rr0kcnxw.html",
+     "time": "2018-05-31T16:06:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "哆啦A梦 新‧大雄的宇宙开拓史",
+     "url": "https://www.bilibili.com/bangumi/play/ep86837",
+     "time": "2016-04-28T02:42:00.000Z"
+    }
+   ]
+  }
+ ]
+}

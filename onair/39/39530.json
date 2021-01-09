@@ -1,1 +1,78 @@
-{"id":"39530","name":"新機動戦記ガンダムW Endless Waltz","sites":[{"site":"qq","id":"i/izkiu4p8jljjjvk","sort":4},{"site":"bilibili","id":"6058","sort":3}],"eps":[{"id":170523,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"第01话 静寂的轨道","url":"http://v.youku.com/v_show/id_XNTc2NTEwNDQ4.html"},{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep103733","time":"2017-04-01T08:54:01.000Z"}]},{"id":170524,"sort":2,"name":"過ぎ去りし流星","sites":[{"site":"qq","sort":2,"title":"第02话 逝去的流星","url":"http://v.youku.com/v_show/id_XNTc2NTEwNDUy.html"},{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep103734","time":"2017-04-01T08:54:01.000Z"}]},{"id":170525,"sort":3,"name":"永遠への回帰","sites":[{"site":"qq","sort":3,"title":"第03话 回归于永恒","url":"http://v.youku.com/v_show/id_XNTc2NTEwNDQ0.html"},{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep103735","time":"2017-04-01T08:54:01.000Z"}]}]}
+{
+ "id": "39530",
+ "name": "新機動戦記ガンダムW Endless Waltz",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "i/izkiu4p8jljjjvk",
+   "sort": 4
+  },
+  {
+   "site": "bilibili",
+   "id": "6058",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 170523,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第01话 静寂的轨道",
+     "url": "http://v.youku.com/v_show/id_XNTc2NTEwNDQ4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep103733",
+     "time": "2017-04-01T08:54:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 170524,
+   "sort": 2,
+   "name": "過ぎ去りし流星",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "第02话 逝去的流星",
+     "url": "http://v.youku.com/v_show/id_XNTc2NTEwNDUy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep103734",
+     "time": "2017-04-01T08:54:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 170525,
+   "sort": 3,
+   "name": "永遠への回帰",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "第03话 回归于永恒",
+     "url": "http://v.youku.com/v_show/id_XNTc2NTEwNDQ0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep103735",
+     "time": "2017-04-01T08:54:01.000Z"
+    }
+   ]
+  }
+ ]
+}

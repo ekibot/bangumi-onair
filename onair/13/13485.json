@@ -1,1 +1,181 @@
-{"id":"13485","name":"ロウきゅーぶ！","sites":[{"site":"iqiyi","id":"a_19rrgi9sax","sort":12},{"site":"bilibili","id":"2682","sort":12}],"eps":[{"id":102999,"sort":1,"name":"小学生がやってくる ヤァ！ヤァ！ヤァ！","sites":[{"site":"iqiyi","sort":1,"title":"萝莉社 第1集","url":"http://www.iqiyi.com/v_19rrhu7iv8.html","time":"2014-06-11T03:27:46.000Z"},{"site":"bilibili","sort":1,"title":"小学生来啦 呀！呀！呀！","url":"https://www.bilibili.com/bangumi/play/ep65742","time":"2015-05-07T02:14:34.000Z"}]},{"id":103000,"sort":2,"name":"小さな少女の願い","sites":[{"site":"iqiyi","sort":2,"title":"萝球社 第2集","url":"http://www.iqiyi.com/v_19rrhu7i1k.html","time":"2014-06-11T03:27:44.000Z"},{"site":"bilibili","sort":2,"title":"小小少女的愿望","url":"https://www.bilibili.com/bangumi/play/ep65743","time":"2015-05-07T02:14:34.000Z"}]},{"id":103001,"sort":3,"name":"明日に架けるパス","sites":[{"site":"iqiyi","sort":3,"title":"萝莉社 第3集","url":"http://www.iqiyi.com/v_19rrhu7jr8.html","time":"2014-06-11T03:26:52.000Z"},{"site":"bilibili","sort":3,"title":"通向明日的篮球","url":"https://www.bilibili.com/bangumi/play/ep65744","time":"2015-05-07T02:14:34.000Z"}]},{"id":103002,"sort":4,"name":"昴に願いを","sites":[{"site":"iqiyi","sort":4,"title":"萝莉社 第4集","url":"http://www.iqiyi.com/v_19rrhu5w9o.html","time":"2014-06-11T03:27:58.000Z"},{"site":"bilibili","sort":4,"title":"将愿望传达给昴","url":"https://www.bilibili.com/bangumi/play/ep65745","time":"2015-05-07T02:14:34.000Z"}]},{"id":103003,"sort":5,"name":"ハードに火をつけて","sites":[{"site":"iqiyi","sort":5,"title":"萝莉社 第5集","url":"http://www.iqiyi.com/v_19rrhu5vpc.html","time":"2014-06-11T03:27:50.000Z"},{"site":"bilibili","sort":5,"title":"点燃内心","url":"https://www.bilibili.com/bangumi/play/ep65746","time":"2015-05-07T02:14:34.000Z"}]},{"id":103004,"sort":6,"name":"鉄板（メタル）マスター","sites":[{"site":"iqiyi","sort":6,"title":"萝莉社 第6集","url":"http://www.iqiyi.com/v_19rrhu5pxw.html","time":"2014-06-11T03:27:54.000Z"},{"site":"bilibili","sort":6,"title":"铁板大师","url":"https://www.bilibili.com/bangumi/play/ep65747","time":"2015-05-07T02:14:34.000Z"}]},{"id":103005,"sort":7,"name":"君の蕾に恋してる","sites":[{"site":"iqiyi","sort":7,"title":"萝球社 第7集","url":"http://www.iqiyi.com/v_19rrhu5rho.html","time":"2014-06-11T03:27:54.000Z"},{"site":"bilibili","sort":7,"title":"倾心于未绽放的你","url":"https://www.bilibili.com/bangumi/play/ep65748","time":"2015-05-07T02:14:34.000Z"}]},{"id":103006,"sort":8,"name":"転生への階段","sites":[{"site":"iqiyi","sort":8,"title":"萝莉社 第8集","url":"http://www.iqiyi.com/v_19rrhu5u7k.html","time":"2014-06-11T03:27:02.000Z"},{"site":"bilibili","sort":8,"title":"通向重生的楼梯","url":"https://www.bilibili.com/bangumi/play/ep65749","time":"2015-05-07T02:14:34.000Z"}]},{"id":103007,"sort":9,"name":"自由への併走","sites":[{"site":"iqiyi","sort":9,"title":"萝莉社 第9集","url":"http://www.iqiyi.com/v_19rrhu5jxk.html","time":"2014-06-11T03:27:06.000Z"},{"site":"bilibili","sort":9,"title":"向着自由的并肩奔跑","url":"https://www.bilibili.com/bangumi/play/ep65750","time":"2015-05-07T02:14:34.000Z"}]},{"id":103008,"sort":10,"name":"美星（ビューティフル·スター）の悲劇","sites":[{"site":"iqiyi","sort":10,"title":"萝莉社 第10集","url":"http://www.iqiyi.com/v_19rrhu5olg.html","time":"2014-06-11T03:27:30.000Z"},{"site":"bilibili","sort":10,"title":"美星姐的悲剧","url":"https://www.bilibili.com/bangumi/play/ep65751","time":"2015-05-07T02:14:34.000Z"}]},{"id":103009,"sort":11,"name":"五人の架け橋","sites":[{"site":"iqiyi","sort":11,"title":"萝莉社 第11集","url":"http://www.iqiyi.com/v_19rrhu5o44.html","time":"2014-06-11T03:27:40.000Z"},{"site":"bilibili","sort":11,"title":"五个人的桥梁","url":"https://www.bilibili.com/bangumi/play/ep65752","time":"2015-05-07T02:14:34.000Z"}]},{"id":103010,"sort":12,"name":"僕の夢は君の夢","sites":[{"site":"iqiyi","sort":12,"title":"萝莉社 第12集","url":"http://www.iqiyi.com/v_19rrhu5nz8.html","time":"2014-06-11T03:26:52.000Z"},{"site":"bilibili","sort":12,"title":"我的梦想就是你的梦想","url":"https://www.bilibili.com/bangumi/play/ep65753","time":"2015-05-07T02:14:34.000Z"}]}]}
+{
+ "id": "13485",
+ "name": "ロウきゅーぶ！",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2682",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 102999,
+   "sort": 1,
+   "name": "小学生がやってくる ヤァ！ヤァ！ヤァ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "小学生来啦 呀！呀！呀！",
+     "url": "https://www.bilibili.com/bangumi/play/ep65742",
+     "time": "2015-05-07T02:14:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103000,
+   "sort": 2,
+   "name": "小さな少女の願い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "小小少女的愿望",
+     "url": "https://www.bilibili.com/bangumi/play/ep65743",
+     "time": "2015-05-07T02:14:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103001,
+   "sort": 3,
+   "name": "明日に架けるパス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "通向明日的篮球",
+     "url": "https://www.bilibili.com/bangumi/play/ep65744",
+     "time": "2015-05-07T02:14:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103002,
+   "sort": 4,
+   "name": "昴に願いを",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "将愿望传达给昴",
+     "url": "https://www.bilibili.com/bangumi/play/ep65745",
+     "time": "2015-05-07T02:14:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103003,
+   "sort": 5,
+   "name": "ハードに火をつけて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "点燃内心",
+     "url": "https://www.bilibili.com/bangumi/play/ep65746",
+     "time": "2015-05-07T02:14:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103004,
+   "sort": 6,
+   "name": "鉄板（メタル）マスター",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "铁板大师",
+     "url": "https://www.bilibili.com/bangumi/play/ep65747",
+     "time": "2015-05-07T02:14:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103005,
+   "sort": 7,
+   "name": "君の蕾に恋してる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "倾心于未绽放的你",
+     "url": "https://www.bilibili.com/bangumi/play/ep65748",
+     "time": "2015-05-07T02:14:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103006,
+   "sort": 8,
+   "name": "転生への階段",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "通向重生的楼梯",
+     "url": "https://www.bilibili.com/bangumi/play/ep65749",
+     "time": "2015-05-07T02:14:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103007,
+   "sort": 9,
+   "name": "自由への併走",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "向着自由的并肩奔跑",
+     "url": "https://www.bilibili.com/bangumi/play/ep65750",
+     "time": "2015-05-07T02:14:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103008,
+   "sort": 10,
+   "name": "美星（ビューティフル·スター）の悲劇",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "美星姐的悲剧",
+     "url": "https://www.bilibili.com/bangumi/play/ep65751",
+     "time": "2015-05-07T02:14:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103009,
+   "sort": 11,
+   "name": "五人の架け橋",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "五个人的桥梁",
+     "url": "https://www.bilibili.com/bangumi/play/ep65752",
+     "time": "2015-05-07T02:14:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103010,
+   "sort": 12,
+   "name": "僕の夢は君の夢",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "我的梦想就是你的梦想",
+     "url": "https://www.bilibili.com/bangumi/play/ep65753",
+     "time": "2015-05-07T02:14:34.000Z"
+    }
+   ]
+  }
+ ]
+}

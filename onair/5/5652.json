@@ -1,1 +1,181 @@
-{"id":"5652","name":"オオカミさんと七人の仲間たち","sites":[{"site":"bilibili","id":"981","sort":12}],"eps":[{"id":37191,"sort":1,"name":"おおかみさんと御伽銀行の仲間たち","sites":[{"site":"bilibili","sort":1,"title":"野狼大神与御伽银行的伙伴们","url":"https://www.bilibili.com/bangumi/play/ep17611","time":"2010-07-01T07:50:00.000Z"}]},{"id":37192,"sort":2,"name":"うそつきおおかみさんと亮士くん","sites":[{"site":"bilibili","sort":2,"title":"说谎的野狼大神与亮士","url":"https://www.bilibili.com/bangumi/play/ep17610","time":"2010-07-08T09:02:00.000Z"}]},{"id":37193,"sort":3,"name":"おおかみさんうさぎとかめの醜い争いに巻き込まれる","sites":[{"site":"bilibili","sort":3,"title":"野狼大神被卷入了龟兔之间丑陋的争斗之中","url":"https://www.bilibili.com/bangumi/play/ep17609","time":"2010-07-15T10:41:00.000Z"}]},{"id":37194,"sort":4,"name":"おおかみさんとおつう先輩の恩返し","sites":[{"site":"bilibili","sort":4,"title":"野狼大神与乙卯前辈的报恩","url":"https://www.bilibili.com/bangumi/play/ep17608","time":"2010-07-22T11:38:00.000Z"}]},{"id":37195,"sort":5,"name":"おおかみさん桃ちゃん先輩と鬼退治に行く","sites":[{"site":"bilibili","sort":5,"title":"野狼大神和桃子学姐去除鬼","url":"https://www.bilibili.com/bangumi/play/ep17607","time":"2010-07-29T12:08:00.000Z"}]},{"id":37196,"sort":6,"name":"おおかみさんと赤ずきんちゃん、ついでに亮士くん","sites":[{"site":"bilibili","sort":6,"title":"野狼大神与小红帽、附带亮士","url":"https://www.bilibili.com/bangumi/play/ep17606","time":"2010-08-05T09:57:00.000Z"}]},{"id":37197,"sort":7,"name":"おおかみさん地蔵さんとダブルデートする","sites":[{"site":"bilibili","sort":7,"title":"野狼大神、地藏的双重约会","url":"https://www.bilibili.com/bangumi/play/ep17605","time":"2010-08-12T14:19:00.000Z"}]},{"id":37198,"sort":8,"name":"おおかみさんとねずみの嫁探しとやっぱり豚はこういう扱い","sites":[{"site":"bilibili","sort":8,"title":"野狼大神和老鼠讨老婆 猪果然要遭这种待遇","url":"https://www.bilibili.com/bangumi/play/ep17604","time":"2010-08-19T11:34:00.000Z"}]},{"id":37199,"sort":9,"name":"おおかみさんと毒りんごが効かない白雪姫","sites":[{"site":"bilibili","sort":9,"title":"野狼大神与毒苹果无效的白雪公主","url":"https://www.bilibili.com/bangumi/play/ep17603","time":"2010-08-26T16:23:00.000Z"}]},{"id":37200,"sort":10,"name":"おおかみさんと御伽銀行のすごく長い一日","sites":[{"site":"bilibili","sort":10,"title":"野狼大神和御伽银行的很长一天","url":"https://www.bilibili.com/bangumi/play/ep17602","time":"2010-09-02T16:21:00.000Z"}]},{"id":37201,"sort":11,"name":"おおかみさんと羊の毛皮を着た狼","sites":[{"site":"bilibili","sort":11,"title":"野狼大神与披着羊皮的狼","url":"https://www.bilibili.com/bangumi/play/ep17601","time":"2010-09-09T12:51:00.000Z"}]},{"id":41912,"sort":12,"name":"おおかみさんとマッチ売りじゃないけど不幸な少女","sites":[{"site":"bilibili","sort":12,"title":"野狼大神与虽然不是卖火柴，但还是很不幸的少女","url":"https://www.bilibili.com/bangumi/play/ep17600","time":"2010-09-16T12:09:00.000Z"}]}]}
+{
+ "id": "5652",
+ "name": "オオカミさんと七人の仲間たち",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "981",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 37191,
+   "sort": 1,
+   "name": "おおかみさんと御伽銀行の仲間たち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "野狼大神与御伽银行的伙伴们",
+     "url": "https://www.bilibili.com/bangumi/play/ep17611",
+     "time": "2010-07-01T07:50:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 37192,
+   "sort": 2,
+   "name": "うそつきおおかみさんと亮士くん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "说谎的野狼大神与亮士",
+     "url": "https://www.bilibili.com/bangumi/play/ep17610",
+     "time": "2010-07-08T09:02:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 37193,
+   "sort": 3,
+   "name": "おおかみさんうさぎとかめの醜い争いに巻き込まれる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "野狼大神被卷入了龟兔之间丑陋的争斗之中",
+     "url": "https://www.bilibili.com/bangumi/play/ep17609",
+     "time": "2010-07-15T10:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 37194,
+   "sort": 4,
+   "name": "おおかみさんとおつう先輩の恩返し",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "野狼大神与乙卯前辈的报恩",
+     "url": "https://www.bilibili.com/bangumi/play/ep17608",
+     "time": "2010-07-22T11:38:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 37195,
+   "sort": 5,
+   "name": "おおかみさん桃ちゃん先輩と鬼退治に行く",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "野狼大神和桃子学姐去除鬼",
+     "url": "https://www.bilibili.com/bangumi/play/ep17607",
+     "time": "2010-07-29T12:08:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 37196,
+   "sort": 6,
+   "name": "おおかみさんと赤ずきんちゃん、ついでに亮士くん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "野狼大神与小红帽、附带亮士",
+     "url": "https://www.bilibili.com/bangumi/play/ep17606",
+     "time": "2010-08-05T09:57:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 37197,
+   "sort": 7,
+   "name": "おおかみさん地蔵さんとダブルデートする",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "野狼大神、地藏的双重约会",
+     "url": "https://www.bilibili.com/bangumi/play/ep17605",
+     "time": "2010-08-12T14:19:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 37198,
+   "sort": 8,
+   "name": "おおかみさんとねずみの嫁探しとやっぱり豚はこういう扱い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "野狼大神和老鼠讨老婆 猪果然要遭这种待遇",
+     "url": "https://www.bilibili.com/bangumi/play/ep17604",
+     "time": "2010-08-19T11:34:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 37199,
+   "sort": 9,
+   "name": "おおかみさんと毒りんごが効かない白雪姫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "野狼大神与毒苹果无效的白雪公主",
+     "url": "https://www.bilibili.com/bangumi/play/ep17603",
+     "time": "2010-08-26T16:23:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 37200,
+   "sort": 10,
+   "name": "おおかみさんと御伽銀行のすごく長い一日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "野狼大神和御伽银行的很长一天",
+     "url": "https://www.bilibili.com/bangumi/play/ep17602",
+     "time": "2010-09-02T16:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 37201,
+   "sort": 11,
+   "name": "おおかみさんと羊の毛皮を着た狼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "野狼大神与披着羊皮的狼",
+     "url": "https://www.bilibili.com/bangumi/play/ep17601",
+     "time": "2010-09-09T12:51:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 41912,
+   "sort": 12,
+   "name": "おおかみさんとマッチ売りじゃないけど不幸な少女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "野狼大神与虽然不是卖火柴，但还是很不幸的少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep17600",
+     "time": "2010-09-16T12:09:00.000Z"
+    }
+   ]
+  }
+ ]
+}

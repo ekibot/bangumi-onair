@@ -1,1 +1,55 @@
-{"id":"69596","name":"デュエル・マスターズ ビクトリーＶ3","sites":[{"site":"bilibili","id":"132192","sort":51}],"eps":[{"id":259120,"sort":1,"name":"アウトレイジの書","sites":[{"site":"bilibili","sort":1,"title":"01","url":"https://www.bilibili.com/bangumi/play/ep248583","time":"2018-09-08T08:42:00.000Z"}]},{"id":259121,"sort":2,"name":"デュエルゾーン","sites":[{"site":"bilibili","sort":2,"title":"02","url":"https://www.bilibili.com/bangumi/play/ep248584","time":"2018-09-08T08:42:41.000Z"}]},{"id":260783,"sort":3,"name":"オラクルは危険な香り！","sites":[{"site":"bilibili","sort":3,"title":"03","url":"https://www.bilibili.com/bangumi/play/ep248585","time":"2018-09-08T08:42:41.000Z"}]}]}
+{
+ "id": "69596",
+ "name": "デュエル・マスターズ ビクトリーＶ3",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "132192",
+   "sort": 51
+  }
+ ],
+ "eps": [
+  {
+   "id": 259120,
+   "sort": 1,
+   "name": "アウトレイジの書",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "01",
+     "url": "https://www.bilibili.com/bangumi/play/ep248583",
+     "time": "2018-09-08T08:42:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 259121,
+   "sort": 2,
+   "name": "デュエルゾーン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "02",
+     "url": "https://www.bilibili.com/bangumi/play/ep248584",
+     "time": "2018-09-08T08:42:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 260783,
+   "sort": 3,
+   "name": "オラクルは危険な香り！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "03",
+     "url": "https://www.bilibili.com/bangumi/play/ep248585",
+     "time": "2018-09-08T08:42:41.000Z"
+    }
+   ]
+  }
+ ]
+}

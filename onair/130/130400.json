@@ -1,1 +1,97 @@
-{"id":"130400","name":"デュエル・マスターズ VSR","sites":[{"site":"bilibili","id":"28221005","sort":51}],"eps":[{"id":513281,"sort":1,"name":"いきなり開園っ！夢と希望のデュエマーランドっ!!","sites":[{"site":"bilibili","sort":1,"title":"01","url":"https://www.bilibili.com/bangumi/play/ep272228","time":"2019-05-15T08:15:21.000Z"}]},{"id":513282,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"02","url":"https://www.bilibili.com/bangumi/play/ep272229","time":"2019-05-15T08:15:21.000Z"}]},{"id":513283,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"03","url":"https://www.bilibili.com/bangumi/play/ep272230","time":"2019-05-15T08:15:21.000Z"}]},{"id":513284,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"04","url":"https://www.bilibili.com/bangumi/play/ep272231","time":"2019-05-15T08:15:21.000Z"}]},{"id":513285,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"05","url":"https://www.bilibili.com/bangumi/play/ep272232","time":"2019-05-15T08:15:21.000Z"}]},{"id":513286,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"06","url":"https://www.bilibili.com/bangumi/play/ep272233","time":"2019-05-15T08:15:21.000Z"}]}]}
+{
+ "id": "130400",
+ "name": "デュエル・マスターズ VSR",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28221005",
+   "sort": 51
+  }
+ ],
+ "eps": [
+  {
+   "id": 513281,
+   "sort": 1,
+   "name": "いきなり開園っ！夢と希望のデュエマーランドっ!!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "01",
+     "url": "https://www.bilibili.com/bangumi/play/ep272228",
+     "time": "2019-05-15T08:15:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513282,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "02",
+     "url": "https://www.bilibili.com/bangumi/play/ep272229",
+     "time": "2019-05-15T08:15:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513283,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "03",
+     "url": "https://www.bilibili.com/bangumi/play/ep272230",
+     "time": "2019-05-15T08:15:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513284,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "04",
+     "url": "https://www.bilibili.com/bangumi/play/ep272231",
+     "time": "2019-05-15T08:15:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513285,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "05",
+     "url": "https://www.bilibili.com/bangumi/play/ep272232",
+     "time": "2019-05-15T08:15:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513286,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "06",
+     "url": "https://www.bilibili.com/bangumi/play/ep272233",
+     "time": "2019-05-15T08:15:21.000Z"
+    }
+   ]
+  }
+ ]
+}

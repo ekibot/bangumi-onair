@@ -1,1 +1,727 @@
-{"id":"204200","name":"アイドルタイムプリパラ","sites":[{"site":"iqiyi","id":"a_19rrh9f5s1","sort":51},{"site":"youku","id":"105b2befbfbd09efbfbd","sort":51},{"site":"bilibili","id":"5963","sort":51}],"eps":[{"id":705236,"sort":1,"name":"ゆめかわアイドル始めちゃいました！？","sites":[{"site":"iqiyi","sort":1,"title":"今天开始 梦幻可爱偶像!?","url":"http://www.iqiyi.com/v_19rrb3qpuw.html","time":"2017-04-04T09:55:09.000Z"},{"site":"bilibili","sort":1,"title":"开始当梦可爱偶像了！？","url":"https://www.bilibili.com/bangumi/play/ep103332","time":"2017-04-04T09:55:00.000Z"}]},{"id":705237,"sort":2,"name":"ここ掘れ、アイドル","sites":[{"site":"iqiyi","sort":2,"title":"挖掘偶像","url":"http://www.iqiyi.com/v_19rrbc3hq4.html","time":"2017-04-11T09:50:13.000Z"},{"site":"bilibili","sort":2,"title":"挖这里，偶像","url":"https://www.bilibili.com/bangumi/play/ep103333","time":"2017-04-11T09:55:00.000Z"}]},{"id":705238,"sort":3,"name":"ゆめかわ！メイキングドラマ！","sites":[{"site":"iqiyi","sort":3,"title":"梦幻可爱 主题戏剧","url":"http://www.iqiyi.com/v_19rraxqv58.html","time":"2017-04-18T09:50:11.000Z"},{"site":"bilibili","sort":3,"title":"梦可爱！Making Drama！","url":"https://www.bilibili.com/bangumi/play/ep103334","time":"2017-04-18T09:55:00.000Z"}]},{"id":705239,"sort":4,"name":"まいどぷり！みれぃやで！","sites":[{"site":"iqiyi","sort":4,"title":"大家好噗哩 我是米蕾","url":"http://www.iqiyi.com/v_19rrb2lqm4.html","time":"2017-04-25T09:55:10.000Z"},{"site":"bilibili","sort":4,"title":"多谢噗哩！我是米蕾！","url":"https://www.bilibili.com/bangumi/play/ep103335","time":"2017-04-25T09:55:00.000Z"}]},{"id":705240,"sort":5,"name":"プニコンのマネージャー修行クマ！","sites":[{"site":"iqiyi","sort":5,"title":"普尼兽的经纪人修行熊熊","url":"http://www.iqiyi.com/v_19rr7bzbec.html","time":"2017-05-02T09:50:07.000Z"},{"site":"bilibili","sort":5,"title":"小独角兽的经纪人修行！","url":"https://www.bilibili.com/bangumi/play/ep103336","time":"2017-05-02T09:55:00.000Z"}]},{"id":705241,"sort":6,"name":"ユメユメ！？男プリ潜入！","sites":[{"site":"iqiyi","sort":6,"title":"梦幻梦幻!?潜入男子天堂!","url":"http://www.iqiyi.com/v_19rr79il0g.html","time":"2017-05-09T10:11:36.000Z"},{"site":"bilibili","sort":6,"title":"梦梦！？潜入男Pri！","url":"https://www.bilibili.com/bangumi/play/ep103337","time":"2017-05-09T09:55:00.000Z"}]},{"id":705242,"sort":7,"name":"そふぃがやってクール！","sites":[{"site":"iqiyi","sort":7,"title":"索菲来啦","url":"http://www.iqiyi.com/v_19rr7h2cuo.html","time":"2017-05-16T09:55:11.000Z"},{"site":"bilibili","sort":7,"title":"索菲来了酷！","url":"https://www.bilibili.com/bangumi/play/ep103338","time":"2017-05-16T09:55:00.000Z"}]},{"id":705243,"sort":8,"name":"ライスをねらえ！","sites":[{"site":"iqiyi","sort":8,"title":"瞄准目标!","url":"http://www.iqiyi.com/v_19rr7eqjtk.html","time":"2017-05-23T09:57:14.000Z"},{"site":"bilibili","sort":8,"title":"瞄准米饭！","url":"https://www.bilibili.com/bangumi/play/ep103339","time":"2017-05-23T09:55:00.000Z"}]},{"id":705244,"sort":9,"name":"おしゃれスタジオ始めたっての","sites":[{"site":"iqiyi","sort":9,"title":"时尚工作室开张了","url":"http://www.iqiyi.com/v_19rr71d1yc.html","time":"2017-05-30T09:55:12.000Z"},{"site":"bilibili","sort":9,"title":"开始时尚工作室","url":"https://www.bilibili.com/bangumi/play/ep103340","time":"2017-05-30T09:55:00.000Z"}]},{"id":705245,"sort":10,"name":"助っ人アイドル始めたっす！","sites":[{"site":"iqiyi","sort":10,"title":"外援偶像开始了","url":"http://www.iqiyi.com/v_19rr6z3eto.html","time":"2017-06-06T09:55:11.000Z"},{"site":"bilibili","sort":10,"title":"开始当帮手偶像！","url":"https://www.bilibili.com/bangumi/play/ep103341","time":"2017-06-06T09:55:00.000Z"}]},{"id":705246,"sort":11,"name":"投げろ！アイドルタイムグランプリ","sites":[{"site":"iqiyi","sort":11,"title":"开局吧 偶像时间大赛","url":"http://www.iqiyi.com/v_19rr75w32c.html","time":"2017-06-13T09:55:10.000Z"},{"site":"bilibili","sort":11,"title":"投掷吧！偶像时间大赛","url":"https://www.bilibili.com/bangumi/play/ep103342","time":"2017-06-13T09:55:00.000Z"}]},{"id":705247,"sort":12,"name":"打て！アイドルタイムグランプリ","sites":[{"site":"iqiyi","sort":12,"title":"命中 偶像时间大赛","url":"http://www.iqiyi.com/v_19rr72zxig.html","time":"2017-06-20T09:59:33.000Z"},{"site":"bilibili","sort":12,"title":"打出来！偶像时间大赛","url":"https://www.bilibili.com/bangumi/play/ep103343","time":"2017-06-20T09:55:00.000Z"}]},{"id":705428,"sort":13,"name":"レッツゴー！パラ宿","sites":[{"site":"iqiyi","sort":13,"title":"let's go 原宿镇","url":"http://www.iqiyi.com/v_19rr7su844.html","time":"2017-06-27T09:55:07.000Z"},{"site":"bilibili","sort":13,"title":"Let's go 天堂宿","url":"https://www.bilibili.com/bangumi/play/ep103344","time":"2017-06-27T09:55:00.000Z"}]},{"id":705429,"sort":14,"name":"ガァルマゲドンがきた！","sites":[{"site":"iqiyi","sort":14,"title":"GarumaGeddon来啦","url":"http://www.iqiyi.com/v_19rr7zz0qw.html","time":"2017-07-04T09:50:14.000Z"},{"site":"bilibili","sort":14,"title":"Gaarmageddon来了！","url":"https://www.bilibili.com/bangumi/play/ep103345","time":"2017-07-04T09:55:00.000Z"}]},{"id":705430,"sort":15,"name":"ミーチルみちる","sites":[{"site":"iqiyi","sort":15,"title":"满琉起舞","url":"http://www.iqiyi.com/v_19rr7m4rh0.html","time":"2017-07-11T09:55:08.000Z"},{"site":"bilibili","sort":15,"title":"满满的满琉","url":"https://www.bilibili.com/bangumi/play/ep103346","time":"2017-07-11T09:55:00.000Z"}]},{"id":705431,"sort":16,"name":"あの地獄にさよならを","sites":[{"site":"iqiyi","sort":16,"title":"告别地狱","url":"http://www.iqiyi.com/v_19rr7ihkv8.html","time":"2017-07-18T09:55:09.000Z"},{"site":"bilibili","sort":16,"title":"向那地狱说再见","url":"https://www.bilibili.com/bangumi/play/ep103347","time":"2017-07-18T09:55:00.000Z"}]},{"id":705432,"sort":17,"name":"アイドル借り物バトルっす！","sites":[{"site":"iqiyi","sort":17,"title":"偶像借物比赛开始了","url":"http://www.iqiyi.com/v_19rr8fv1pk.html","time":"2017-07-25T09:55:10.000Z"},{"site":"bilibili","sort":17,"title":"偶像借物战斗！","url":"https://www.bilibili.com/bangumi/play/ep103348","time":"2017-07-25T09:55:00.000Z"}]},{"id":705433,"sort":18,"name":"グランプリ！勝利へのエスコート","sites":[{"site":"iqiyi","sort":18,"title":"偶像大赛 胜利的护花使者","url":"http://www.iqiyi.com/v_19rr8d2ltg.html","time":"2017-08-01T09:55:10.000Z"},{"site":"bilibili","sort":18,"title":"大赛！为胜利护航","url":"https://www.bilibili.com/bangumi/play/ep103349","time":"2017-08-01T09:55:00.000Z"}]},{"id":705434,"sort":19,"name":"旅立てアイドル！レッツ・イゴー！","sites":[{"site":"iqiyi","sort":19,"title":"踏上旅途的偶像! Let`s围棋","url":"http://www.iqiyi.com/v_19rr8ily78.html","time":"2017-08-08T09:50:19.000Z"},{"site":"bilibili","sort":19,"title":"启程偶像！Let's·围棋GO！","url":"https://www.bilibili.com/bangumi/play/ep103350","time":"2017-08-08T09:55:00.000Z"}]},{"id":705435,"sort":20,"name":"ハッピー米バースデイ","sites":[{"site":"iqiyi","sort":20,"title":"祝我生日快乐","url":"http://www.iqiyi.com/v_19rr842l40.html","time":"2017-08-15T10:11:20.000Z"},{"site":"bilibili","sort":20,"title":"Happy米（my）birthday","url":"https://www.bilibili.com/bangumi/play/ep103351","time":"2017-08-15T09:55:00.000Z"}]},{"id":705436,"sort":21,"name":"ドキドキ！みちなる麺パラ","sites":[{"site":"iqiyi","sort":21,"title":"心跳不已 未知的面食天堂","url":"http://www.iqiyi.com/v_19rr8aqvts.html","time":"2017-08-22T09:50:16.000Z"},{"site":"bilibili","sort":21,"title":"心跳！未知的面天堂","url":"https://www.bilibili.com/bangumi/play/ep103352","time":"2017-08-22T09:55:00.000Z"}]},{"id":705437,"sort":22,"name":"プール de プランス 大レース！","sites":[{"site":"iqiyi","sort":22,"title":"法兰西泳池竞赛","url":"http://www.iqiyi.com/v_19rr902jxw.html","time":"2017-08-29T09:50:13.000Z"},{"site":"bilibili","sort":22,"title":"Pool de Purance 大竞赛！","url":"https://www.bilibili.com/bangumi/play/ep103353","time":"2017-08-29T09:55:00.000Z"}]},{"id":705438,"sort":23,"name":"地獄アイドル始めちゃいました！？","sites":[{"site":"iqiyi","sort":23,"title":"今天开始地狱偶像!?","url":"http://www.iqiyi.com/v_19rr8wmyno.html","time":"2017-09-05T09:50:08.000Z"},{"site":"bilibili","sort":23,"title":"开始当地狱偶像！？","url":"https://www.bilibili.com/bangumi/play/ep103354","time":"2017-09-05T09:55:00.000Z"}]},{"id":705439,"sort":24,"name":"勝負っす！シオン先輩！","sites":[{"site":"iqiyi","sort":24,"title":"决胜负吧! 诗音前辈!","url":"http://www.iqiyi.com/v_19rr9136fs.html","time":"2017-09-12T09:50:06.000Z"},{"site":"bilibili","sort":24,"title":"一决胜负！诗音学姐！","url":"https://www.bilibili.com/bangumi/play/ep103355","time":"2017-09-12T09:55:00.000Z"}]},{"id":746097,"sort":25,"name":"ユメユメ！タイムスリップ","sites":[{"site":"iqiyi","sort":25,"title":"梦幻 穿越时空","url":"http://www.iqiyi.com/v_19rr8mralg.html","time":"2017-09-19T09:50:12.000Z"},{"site":"bilibili","sort":25,"title":"梦梦！时空穿梭","url":"https://www.bilibili.com/bangumi/play/ep103356","time":"2017-09-19T11:23:00.000Z"}]},{"id":746098,"sort":26,"name":"がんばれみちる！！","sites":[{"site":"iqiyi","sort":26,"title":"加油满琉!!","url":"http://www.iqiyi.com/v_19rr8sepv4.html","time":"2017-09-26T09:51:17.000Z"},{"site":"bilibili","sort":26,"title":"加油满琉！！","url":"https://www.bilibili.com/bangumi/play/ep103357","time":"2017-09-26T09:55:00.000Z"}]},{"id":746099,"sort":27,"name":"華園しゅうかでございます","sites":[{"site":"iqiyi","sort":27,"title":"花园萩花驾到","url":"http://www.iqiyi.com/v_19rrdziv30.html","time":"2017-10-03T09:50:05.000Z"},{"site":"bilibili","sort":27,"title":"我是华园秀香","url":"https://www.bilibili.com/bangumi/play/ep103358","time":"2017-10-03T09:55:00.000Z"}]},{"id":746100,"sort":28,"name":"いっちばーんがやってきた！","sites":[{"site":"iqiyi","sort":28,"title":"第一名登场","url":"http://www.iqiyi.com/v_19rrdwl44o.html","time":"2017-10-10T09:50:09.000Z"},{"site":"bilibili","sort":28,"title":"第一 来了！","url":"https://www.bilibili.com/bangumi/play/ep103359","time":"2017-10-10T09:55:00.000Z"}]},{"id":746101,"sort":29,"name":"グランプリ大決戦！","sites":[{"site":"iqiyi","sort":29,"title":"偶像大赛大决战!","url":"http://www.iqiyi.com/v_19rre3fje8.html","time":"2017-10-17T09:50:06.000Z"},{"site":"bilibili","sort":29,"title":"大赛大决战！","url":"https://www.bilibili.com/bangumi/play/ep103360","time":"2017-10-17T09:55:00.000Z"}]},{"id":746102,"sort":30,"name":"ガァララとパックが夢パックン！","sites":[{"site":"iqiyi","sort":30,"title":"卡啦啦和帕库的食梦行动","url":"http://www.iqiyi.com/v_19rre0w4qw.html","time":"2017-10-24T09:50:06.000Z"},{"site":"bilibili","sort":30,"title":"卡拉拉和小貘吃梦想！","url":"https://www.bilibili.com/bangumi/play/ep103361","time":"2017-10-24T09:55:00.000Z"}]},{"id":746103,"sort":31,"name":"復活！ファララ・ア・ラーム","sites":[{"site":"iqiyi","sort":31,"title":"复活! 法啦啦·阿·兰姆","url":"http://www.iqiyi.com/v_19rrdotuao.html","time":"2017-10-31T09:50:07.000Z"},{"site":"bilibili","sort":31,"title":"复活！法拉拉·阿·拉姆","url":"https://www.bilibili.com/bangumi/play/ep103362","time":"2017-10-31T09:55:00.000Z"}]},{"id":746104,"sort":32,"name":"WITHとプリ×プリフェスティバル！","sites":[{"site":"iqiyi","sort":32,"title":"和WITH一起puri puri节!","url":"http://www.iqiyi.com/v_19rrdu2lrk.html","time":"2017-11-07T09:50:05.000Z"},{"site":"bilibili","sort":32,"title":"WITH与Pri×Pri Festival！","url":"https://www.bilibili.com/bangumi/play/ep103363","time":"2017-11-07T09:55:00.000Z"}]},{"id":746105,"sort":33,"name":"ガァララ塔のひみつっす","sites":[{"site":"iqiyi","sort":33,"title":"卡啦啦塔的秘密","url":"http://www.iqiyi.com/v_19rrdqohr0.html","time":"2017-11-14T09:50:07.000Z"},{"site":"bilibili","sort":33,"title":"卡拉拉塔的秘密","url":"https://www.bilibili.com/bangumi/play/ep103364","time":"2017-11-14T09:55:00.000Z"}]},{"id":746106,"sort":34,"name":"ガァララの森","sites":[{"site":"iqiyi","sort":34,"title":"卡啦啦之森","url":"http://www.iqiyi.com/v_19rregazm0.html","time":"2017-11-21T09:50:07.000Z"},{"site":"bilibili","sort":34,"title":"卡拉拉的森林","url":"https://www.bilibili.com/bangumi/play/ep103365","time":"2017-11-21T09:55:00.000Z"}]},{"id":746107,"sort":35,"name":"未知とのミーチル","sites":[{"site":"iqiyi","sort":35,"title":"与未知相遇的米切露","url":"http://www.iqiyi.com/v_19rrelxxwk.html","time":"2017-11-28T09:50:09.000Z"},{"site":"bilibili","sort":35,"title":"未知和满满","url":"https://www.bilibili.com/bangumi/play/ep103366","time":"2017-11-28T09:55:00.000Z"}]},{"id":746108,"sort":36,"name":"ユメ目合宿大ピンチ！","sites":[{"site":"iqiyi","sort":36,"title":"梦幻眼集训大危机","url":"http://www.iqiyi.com/v_19rre7qeec.html","time":"2017-12-05T09:50:08.000Z"},{"site":"bilibili","sort":36,"title":"梦眼合宿大危机！","url":"https://www.bilibili.com/bangumi/play/ep103367","time":"2017-12-05T09:55:00.000Z"}]},{"id":746109,"sort":37,"name":"ホップ・ステップ・グランプリ！","sites":[{"site":"iqiyi","sort":37,"title":"轻快舞步偶像大赛!","url":"http://www.iqiyi.com/v_19rred8cm0.html","time":"2017-12-12T09:50:07.000Z"},{"site":"bilibili","sort":37,"title":"Pop·Step·GrandPrix！","url":"https://www.bilibili.com/bangumi/play/ep103368","time":"2017-12-12T09:55:00.000Z"}]},{"id":746110,"sort":38,"name":"ユメリー・メガネマス★","sites":[{"site":"iqiyi","sort":38,"title":"梦想·戴上眼镜☆","url":"http://www.iqiyi.com/v_19rrf1unuc.html","time":"2017-12-19T09:50:06.000Z"},{"site":"bilibili","sort":38,"title":"梦Merry·眼镜mas★","url":"https://www.bilibili.com/bangumi/play/ep103369","time":"2017-12-19T09:55:00.000Z"}]},{"id":746111,"sort":39,"name":"年末！ババ大そうじでっすわ！","sites":[{"site":"iqiyi","sort":39,"title":"年末! 大扫除!","url":"http://www.iqiyi.com/v_19rrf7g6hw.html","time":"2017-12-26T09:50:06.000Z"},{"site":"bilibili","sort":39,"title":"年末！baba大扫除！","url":"https://www.bilibili.com/bangumi/play/ep103370","time":"2017-12-26T09:25:00.000Z"}]},{"id":746112,"sort":40,"name":"パラ宿プルトラクイズ！","sites":[{"site":"iqiyi","sort":40,"title":"原宿镇猜谜大赛","url":"http://www.iqiyi.com/v_19rreysqrg.html","time":"2018-01-09T09:50:08.000Z"},{"site":"bilibili","sort":40,"title":"天堂宿超级猜谜！","url":"https://www.bilibili.com/bangumi/play/ep103371","time":"2018-01-09T09:55:00.000Z"}]},{"id":746113,"sort":41,"name":"しゅうかとガァララ","sites":[{"site":"iqiyi","sort":41,"title":"荻花与卡啦啦","url":"http://www.iqiyi.com/v_19rreunkcs.html","time":"2018-01-16T09:50:06.000Z"},{"site":"bilibili","sort":41,"title":"秀香和卡拉拉","url":"https://www.bilibili.com/bangumi/play/ep103372","time":"2018-01-16T09:55:00.000Z"}]},{"id":746114,"sort":42,"name":"ディア・マイ・トモダチ！","sites":[{"site":"iqiyi","sort":42,"title":"我亲爱的朋友!","url":"http://www.iqiyi.com/v_19rrfkamvs.html","time":"2018-01-23T09:50:07.000Z"},{"site":"bilibili","sort":42,"title":"Dear·My·朋友！","url":"https://www.bilibili.com/bangumi/play/ep103373","time":"2018-01-23T09:55:00.000Z"}]},{"id":746115,"sort":43,"name":"燃えよにの","sites":[{"site":"iqiyi","sort":43,"title":"燃烧吧妮诺","url":"http://www.iqiyi.com/v_19rrfprul4.html","time":"2018-01-30T09:50:13.000Z"},{"site":"bilibili","sort":43,"title":"燃烧吧妮诺","url":"https://www.bilibili.com/bangumi/play/ep103374","time":"2018-01-30T09:55:00.000Z"}]},{"id":746116,"sort":44,"name":"みちるさまとお呼びなさい","sites":[{"site":"iqiyi","sort":44,"title":"叫我满琉大人","url":"http://www.iqiyi.com/v_19rrfb8oc8.html","time":"2018-02-06T09:54:24.000Z"},{"site":"bilibili","sort":44,"title":"叫我满琉大人","url":"https://www.bilibili.com/bangumi/play/ep103375","time":"2018-02-06T09:55:00.000Z"}]},{"id":746117,"sort":45,"name":"決戦！ゆいvsしゅうか","sites":[{"site":"iqiyi","sort":45,"title":"决战! 小唯VS荻花","url":"http://www.iqiyi.com/v_19rrfh8pvk.html","time":"2018-02-13T09:50:06.000Z"},{"site":"bilibili","sort":45,"title":"决战！唯vs秀香","url":"https://www.bilibili.com/bangumi/play/ep103376","time":"2018-02-13T09:55:00.000Z"}]},{"id":746118,"sort":46,"name":"時をこえてマイドリーム！","sites":[{"site":"iqiyi","sort":46,"title":"穿越时空 MY DREAM!","url":"http://www.iqiyi.com/v_19rrfeda3s.html","time":"2018-02-20T09:50:04.000Z"},{"site":"bilibili","sort":46,"title":"跨越时间MY☆DREAM！","url":"https://www.bilibili.com/bangumi/play/ep103377","time":"2018-02-20T09:55:00.000Z"}]},{"id":746119,"sort":47,"name":"パックでパニック！大暴れ！","sites":[{"site":"iqiyi","sort":47,"title":"帕库恐慌! 大骚动!","url":"http://www.iqiyi.com/v_19rrbpult8.html","time":"2018-02-27T09:50:21.000Z"},{"site":"bilibili","sort":47,"title":"小貘恐慌！大暴动！","url":"https://www.bilibili.com/bangumi/play/ep103378","time":"2018-02-27T09:55:00.000Z"}]},{"id":746120,"sort":48,"name":"らぁらに届け、カムバックライブ！","sites":[{"site":"iqiyi","sort":48,"title":"传递给啦啦 回归演出!","url":"http://www.iqiyi.com/v_19rrbvga6w.html","time":"2018-03-06T09:50:06.000Z"},{"site":"bilibili","sort":48,"title":"传达给啦啦，come back演出！","url":"https://www.bilibili.com/bangumi/play/ep103379","time":"2018-03-06T09:55:00.000Z"}]},{"id":746121,"sort":49,"name":"誕生しちゃうぜ！神アイドル！？","sites":[{"site":"iqiyi","sort":49,"title":"要诞生了! 神级偶像!?","url":"http://www.iqiyi.com/v_19rrbfzypw.html","time":"2018-03-13T09:50:07.000Z"},{"site":"bilibili","sort":49,"title":"诞生啦！神级偶像！？","url":"https://www.bilibili.com/bangumi/play/ep103380","time":"2018-03-13T09:55:00.000Z"}]},{"id":746122,"sort":50,"name":"夢のツバサで飛べマイドリーム！","sites":[{"site":"iqiyi","sort":50,"title":"张开梦想之翼飞翔吧 MY DREAM!","url":"http://www.iqiyi.com/v_19rrblvcio.html","time":"2018-03-20T09:50:07.000Z"},{"site":"bilibili","sort":50,"title":"以梦之翼飞翔吧MYDREAM！","url":"https://www.bilibili.com/bangumi/play/ep103381","time":"2018-03-20T09:55:00.000Z"}]},{"id":783047,"sort":51,"name":"み～んなあつまれ！ アイドル始める時間だよ！","sites":[{"site":"iqiyi","sort":51,"title":"大家快过来! 现在是偶像的时间哟!","url":"http://www.iqiyi.com/v_19rrca1a6o.html","time":"2018-03-27T09:50:08.000Z"},{"site":"bilibili","sort":51,"title":"大家都过来吧！开始偶像时间咯！","url":"https://www.bilibili.com/bangumi/play/ep103382","time":"2018-03-27T09:55:00.000Z"}]}]}
+{
+ "id": "204200",
+ "name": "アイドルタイムプリパラ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5963",
+   "sort": 51
+  }
+ ],
+ "eps": [
+  {
+   "id": 705236,
+   "sort": 1,
+   "name": "ゆめかわアイドル始めちゃいました！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "开始当梦可爱偶像了！？",
+     "url": "https://www.bilibili.com/bangumi/play/ep103332",
+     "time": "2017-04-04T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705237,
+   "sort": 2,
+   "name": "ここ掘れ、アイドル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "挖这里，偶像",
+     "url": "https://www.bilibili.com/bangumi/play/ep103333",
+     "time": "2017-04-11T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705238,
+   "sort": 3,
+   "name": "ゆめかわ！メイキングドラマ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "梦可爱！Making Drama！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103334",
+     "time": "2017-04-18T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705239,
+   "sort": 4,
+   "name": "まいどぷり！みれぃやで！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "多谢噗哩！我是米蕾！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103335",
+     "time": "2017-04-25T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705240,
+   "sort": 5,
+   "name": "プニコンのマネージャー修行クマ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "小独角兽的经纪人修行！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103336",
+     "time": "2017-05-02T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705241,
+   "sort": 6,
+   "name": "ユメユメ！？男プリ潜入！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "梦梦！？潜入男Pri！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103337",
+     "time": "2017-05-09T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705242,
+   "sort": 7,
+   "name": "そふぃがやってクール！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "索菲来了酷！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103338",
+     "time": "2017-05-16T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705243,
+   "sort": 8,
+   "name": "ライスをねらえ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "瞄准米饭！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103339",
+     "time": "2017-05-23T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705244,
+   "sort": 9,
+   "name": "おしゃれスタジオ始めたっての",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "开始时尚工作室",
+     "url": "https://www.bilibili.com/bangumi/play/ep103340",
+     "time": "2017-05-30T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705245,
+   "sort": 10,
+   "name": "助っ人アイドル始めたっす！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "开始当帮手偶像！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103341",
+     "time": "2017-06-06T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705246,
+   "sort": 11,
+   "name": "投げろ！アイドルタイムグランプリ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "投掷吧！偶像时间大赛",
+     "url": "https://www.bilibili.com/bangumi/play/ep103342",
+     "time": "2017-06-13T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705247,
+   "sort": 12,
+   "name": "打て！アイドルタイムグランプリ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "打出来！偶像时间大赛",
+     "url": "https://www.bilibili.com/bangumi/play/ep103343",
+     "time": "2017-06-20T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705428,
+   "sort": 13,
+   "name": "レッツゴー！パラ宿",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "Let's go 天堂宿",
+     "url": "https://www.bilibili.com/bangumi/play/ep103344",
+     "time": "2017-06-27T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705429,
+   "sort": 14,
+   "name": "ガァルマゲドンがきた！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "Gaarmageddon来了！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103345",
+     "time": "2017-07-04T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705430,
+   "sort": 15,
+   "name": "ミーチルみちる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "满满的满琉",
+     "url": "https://www.bilibili.com/bangumi/play/ep103346",
+     "time": "2017-07-11T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705431,
+   "sort": 16,
+   "name": "あの地獄にさよならを",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "向那地狱说再见",
+     "url": "https://www.bilibili.com/bangumi/play/ep103347",
+     "time": "2017-07-18T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705432,
+   "sort": 17,
+   "name": "アイドル借り物バトルっす！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "偶像借物战斗！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103348",
+     "time": "2017-07-25T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705433,
+   "sort": 18,
+   "name": "グランプリ！勝利へのエスコート",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "大赛！为胜利护航",
+     "url": "https://www.bilibili.com/bangumi/play/ep103349",
+     "time": "2017-08-01T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705434,
+   "sort": 19,
+   "name": "旅立てアイドル！レッツ・イゴー！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "启程偶像！Let's·围棋GO！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103350",
+     "time": "2017-08-08T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705435,
+   "sort": 20,
+   "name": "ハッピー米バースデイ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "Happy米（my）birthday",
+     "url": "https://www.bilibili.com/bangumi/play/ep103351",
+     "time": "2017-08-15T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705436,
+   "sort": 21,
+   "name": "ドキドキ！みちなる麺パラ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "心跳！未知的面天堂",
+     "url": "https://www.bilibili.com/bangumi/play/ep103352",
+     "time": "2017-08-22T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705437,
+   "sort": 22,
+   "name": "プール de プランス 大レース！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "Pool de Purance 大竞赛！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103353",
+     "time": "2017-08-29T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705438,
+   "sort": 23,
+   "name": "地獄アイドル始めちゃいました！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "开始当地狱偶像！？",
+     "url": "https://www.bilibili.com/bangumi/play/ep103354",
+     "time": "2017-09-05T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 705439,
+   "sort": 24,
+   "name": "勝負っす！シオン先輩！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "一决胜负！诗音学姐！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103355",
+     "time": "2017-09-12T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746097,
+   "sort": 25,
+   "name": "ユメユメ！タイムスリップ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 25,
+     "title": "梦梦！时空穿梭",
+     "url": "https://www.bilibili.com/bangumi/play/ep103356",
+     "time": "2017-09-19T11:23:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746098,
+   "sort": 26,
+   "name": "がんばれみちる！！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 26,
+     "title": "加油满琉！！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103357",
+     "time": "2017-09-26T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746099,
+   "sort": 27,
+   "name": "華園しゅうかでございます",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 27,
+     "title": "我是华园秀香",
+     "url": "https://www.bilibili.com/bangumi/play/ep103358",
+     "time": "2017-10-03T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746100,
+   "sort": 28,
+   "name": "いっちばーんがやってきた！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 28,
+     "title": "第一 来了！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103359",
+     "time": "2017-10-10T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746101,
+   "sort": 29,
+   "name": "グランプリ大決戦！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 29,
+     "title": "大赛大决战！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103360",
+     "time": "2017-10-17T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746102,
+   "sort": 30,
+   "name": "ガァララとパックが夢パックン！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 30,
+     "title": "卡拉拉和小貘吃梦想！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103361",
+     "time": "2017-10-24T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746103,
+   "sort": 31,
+   "name": "復活！ファララ・ア・ラーム",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 31,
+     "title": "复活！法拉拉·阿·拉姆",
+     "url": "https://www.bilibili.com/bangumi/play/ep103362",
+     "time": "2017-10-31T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746104,
+   "sort": 32,
+   "name": "WITHとプリ×プリフェスティバル！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 32,
+     "title": "WITH与Pri×Pri Festival！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103363",
+     "time": "2017-11-07T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746105,
+   "sort": 33,
+   "name": "ガァララ塔のひみつっす",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 33,
+     "title": "卡拉拉塔的秘密",
+     "url": "https://www.bilibili.com/bangumi/play/ep103364",
+     "time": "2017-11-14T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746106,
+   "sort": 34,
+   "name": "ガァララの森",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 34,
+     "title": "卡拉拉的森林",
+     "url": "https://www.bilibili.com/bangumi/play/ep103365",
+     "time": "2017-11-21T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746107,
+   "sort": 35,
+   "name": "未知とのミーチル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 35,
+     "title": "未知和满满",
+     "url": "https://www.bilibili.com/bangumi/play/ep103366",
+     "time": "2017-11-28T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746108,
+   "sort": 36,
+   "name": "ユメ目合宿大ピンチ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 36,
+     "title": "梦眼合宿大危机！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103367",
+     "time": "2017-12-05T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746109,
+   "sort": 37,
+   "name": "ホップ・ステップ・グランプリ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 37,
+     "title": "Pop·Step·GrandPrix！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103368",
+     "time": "2017-12-12T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746110,
+   "sort": 38,
+   "name": "ユメリー・メガネマス★",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 38,
+     "title": "梦Merry·眼镜mas★",
+     "url": "https://www.bilibili.com/bangumi/play/ep103369",
+     "time": "2017-12-19T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746111,
+   "sort": 39,
+   "name": "年末！ババ大そうじでっすわ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 39,
+     "title": "年末！baba大扫除！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103370",
+     "time": "2017-12-26T09:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746112,
+   "sort": 40,
+   "name": "パラ宿プルトラクイズ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 40,
+     "title": "天堂宿超级猜谜！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103371",
+     "time": "2018-01-09T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746113,
+   "sort": 41,
+   "name": "しゅうかとガァララ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 41,
+     "title": "秀香和卡拉拉",
+     "url": "https://www.bilibili.com/bangumi/play/ep103372",
+     "time": "2018-01-16T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746114,
+   "sort": 42,
+   "name": "ディア・マイ・トモダチ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 42,
+     "title": "Dear·My·朋友！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103373",
+     "time": "2018-01-23T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746115,
+   "sort": 43,
+   "name": "燃えよにの",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 43,
+     "title": "燃烧吧妮诺",
+     "url": "https://www.bilibili.com/bangumi/play/ep103374",
+     "time": "2018-01-30T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746116,
+   "sort": 44,
+   "name": "みちるさまとお呼びなさい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 44,
+     "title": "叫我满琉大人",
+     "url": "https://www.bilibili.com/bangumi/play/ep103375",
+     "time": "2018-02-06T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746117,
+   "sort": 45,
+   "name": "決戦！ゆいvsしゅうか",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 45,
+     "title": "决战！唯vs秀香",
+     "url": "https://www.bilibili.com/bangumi/play/ep103376",
+     "time": "2018-02-13T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746118,
+   "sort": 46,
+   "name": "時をこえてマイドリーム！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 46,
+     "title": "跨越时间MY☆DREAM！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103377",
+     "time": "2018-02-20T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746119,
+   "sort": 47,
+   "name": "パックでパニック！大暴れ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 47,
+     "title": "小貘恐慌！大暴动！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103378",
+     "time": "2018-02-27T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746120,
+   "sort": 48,
+   "name": "らぁらに届け、カムバックライブ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 48,
+     "title": "传达给啦啦，come back演出！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103379",
+     "time": "2018-03-06T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746121,
+   "sort": 49,
+   "name": "誕生しちゃうぜ！神アイドル！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 49,
+     "title": "诞生啦！神级偶像！？",
+     "url": "https://www.bilibili.com/bangumi/play/ep103380",
+     "time": "2018-03-13T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 746122,
+   "sort": 50,
+   "name": "夢のツバサで飛べマイドリーム！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 50,
+     "title": "以梦之翼飞翔吧MYDREAM！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103381",
+     "time": "2018-03-20T09:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 783047,
+   "sort": 51,
+   "name": "み～んなあつまれ！ アイドル始める時間だよ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 51,
+     "title": "大家都过来吧！开始偶像时间咯！",
+     "url": "https://www.bilibili.com/bangumi/play/ep103382",
+     "time": "2018-03-27T09:55:00.000Z"
+    }
+   ]
+  }
+ ]
+}

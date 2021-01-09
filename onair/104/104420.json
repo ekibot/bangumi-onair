@@ -1,1 +1,27 @@
-{"id":"104420","name":"棺姫のチャイカ OVA","sites":[{"site":"bilibili","id":"3485","sort":1}],"eps":[{"id":401135,"sort":1,"name":"狙われた棺 / 蘇る遺跡","sites":[{"site":"bilibili","sort":1,"title":"被盯上的棺材","url":"https://www.bilibili.com/bangumi/play/ep85411","time":"2016-03-23T05:50:49.000Z"}]}]}
+{
+ "id": "104420",
+ "name": "棺姫のチャイカ OVA",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3485",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 401135,
+   "sort": 1,
+   "name": "狙われた棺 / 蘇る遺跡",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "被盯上的棺材",
+     "url": "https://www.bilibili.com/bangumi/play/ep85411",
+     "time": "2016-03-23T05:50:49.000Z"
+    }
+   ]
+  }
+ ]
+}

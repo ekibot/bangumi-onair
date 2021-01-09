@@ -1,1 +1,27 @@
-{"id":"10829","name":"とある飛空士への追憶","sites":[{"site":"bilibili","id":"4462","sort":1}],"eps":[{"id":64261,"sort":1,"name":"とある飛空士への追憶","sites":[{"site":"bilibili","sort":1,"title":"对某飞行员的追忆","url":"https://www.bilibili.com/bangumi/play/ep88950","time":"2016-06-06T02:47:30.000Z"}]}]}
+{
+ "id": "10829",
+ "name": "とある飛空士への追憶",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4462",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 64261,
+   "sort": 1,
+   "name": "とある飛空士への追憶",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "对某飞行员的追忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep88950",
+     "time": "2016-06-06T02:47:30.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,38 @@
-{"id":"444","name":"ドラえもん のび太と竜の騎士","sites":[{"site":"qq","id":"z/z8alyhrvkd3jp2y","sort":32},{"site":"bilibili","id":"2555","sort":1}],"eps":[{"id":859519,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"1980：大雄的恐龙王国","url":"https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"},{"site":"bilibili","sort":1,"title":"大雄与龙骑士","url":"https://www.bilibili.com/bangumi/play/ep63678","time":"2015-02-14T09:12:32.000Z"}]}]}
+{
+ "id": "444",
+ "name": "ドラえもん のび太と竜の騎士",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "z/z8alyhrvkd3jp2y",
+   "sort": 31
+  },
+  {
+   "site": "bilibili",
+   "id": "2555",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 859519,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "1980：大雄与小恐龙",
+     "url": "https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "大雄与龙骑士",
+     "url": "https://www.bilibili.com/bangumi/play/ep63678",
+     "time": "2015-02-14T09:12:32.000Z"
+    }
+   ]
+  }
+ ]
+}

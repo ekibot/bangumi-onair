@@ -1,1 +1,27 @@
-{"id":"211618","name":"特別版 Free!-Take Your Marks-","sites":[{"site":"bilibili","id":"114452","sort":1}],"eps":[{"id":786282,"sort":1,"name":"運命のチョイス!","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep233310","time":"2018-07-10T08:27:00.000Z"}]}]}
+{
+ "id": "211618",
+ "name": "特別版 Free!-Take Your Marks-",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "114452",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 786282,
+   "sort": 1,
+   "name": "運命のチョイス!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep233310",
+     "time": "2018-07-10T08:27:00.000Z"
+    }
+   ]
+  }
+ ]
+}

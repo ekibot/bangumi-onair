@@ -1,1 +1,195 @@
-{"id":"212003","name":"ウマ娘 プリティーダービー","sites":[{"site":"bilibili","id":"77972","sort":13}],"eps":[{"id":787299,"sort":1,"name":"夢のゲートっ！","sites":[{"site":"bilibili","sort":1,"title":"梦想的大门","url":"https://www.bilibili.com/bangumi/play/ep199681","time":"2018-04-01T16:00:00.000Z"}]},{"id":787300,"sort":2,"name":"いきなりのデビュー戦","sites":[{"site":"bilibili","sort":2,"title":"突如其来的出道战","url":"https://www.bilibili.com/bangumi/play/ep199682","time":"2018-04-01T16:30:00.000Z"}]},{"id":787301,"sort":3,"name":"初めての大一番","sites":[{"site":"bilibili","sort":3,"title":"第一次的决胜战","url":"https://www.bilibili.com/bangumi/play/ep199683","time":"2018-04-08T16:00:00.000Z"}]},{"id":787302,"sort":4,"name":"特訓ですっ！","sites":[{"site":"bilibili","sort":4,"title":"来特训吧","url":"https://www.bilibili.com/bangumi/play/ep199684","time":"2018-04-15T16:00:00.000Z"}]},{"id":787303,"sort":5,"name":"ライバルとのダービー","sites":[{"site":"bilibili","sort":5,"title":"达比上的宿敌之战","url":"https://www.bilibili.com/bangumi/play/ep199685","time":"2018-04-22T16:00:00.000Z"}]},{"id":787304,"sort":6,"name":"天高く、ウマ娘燃ゆる秋","sites":[{"site":"bilibili","sort":6,"title":"秋高马肥","url":"https://www.bilibili.com/bangumi/play/ep199686","time":"2018-04-29T16:00:00.000Z"}]},{"id":787305,"sort":7,"name":"約束","sites":[{"site":"bilibili","sort":7,"title":"约定","url":"https://www.bilibili.com/bangumi/play/ep199687","time":"2018-05-06T16:00:00.000Z"}]},{"id":787306,"sort":8,"name":"あなたの為に","sites":[{"site":"bilibili","sort":8,"title":"为了你","url":"https://www.bilibili.com/bangumi/play/ep199688","time":"2018-05-13T16:00:00.000Z"}]},{"id":787307,"sort":9,"name":"スピカの夢","sites":[{"site":"bilibili","sort":9,"title":"Spica的梦想","url":"https://www.bilibili.com/bangumi/play/ep199689","time":"2018-05-20T16:00:00.000Z"}]},{"id":787308,"sort":10,"name":"何度負けても","sites":[{"site":"bilibili","sort":10,"title":"无论跌倒多少次","url":"https://www.bilibili.com/bangumi/play/ep199690","time":"2018-05-27T16:00:00.000Z"}]},{"id":787309,"sort":11,"name":"おかえりなさい！","sites":[{"site":"bilibili","sort":11,"title":"欢迎回来","url":"https://www.bilibili.com/bangumi/play/ep199691","time":"2018-06-03T16:00:00.000Z"}]},{"id":787310,"sort":12,"name":"夢の舞台","sites":[{"site":"bilibili","sort":12,"title":"梦想的舞台","url":"https://www.bilibili.com/bangumi/play/ep199692","time":"2018-06-10T16:00:00.000Z"}]},{"id":787311,"sort":13,"name":"EXTRA.響け、ファンファーレ","sites":[{"site":"bilibili","sort":13,"title":"特别圈 吹响未来的乐章","url":"https://www.bilibili.com/bangumi/play/ep199693","time":"2018-06-17T16:00:00.000Z"}]}]}
+{
+ "id": "212003",
+ "name": "ウマ娘 プリティーダービー",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "77972",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 787299,
+   "sort": 1,
+   "name": "夢のゲートっ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "梦想的大门",
+     "url": "https://www.bilibili.com/bangumi/play/ep199681",
+     "time": "2018-04-01T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787300,
+   "sort": 2,
+   "name": "いきなりのデビュー戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "突如其来的出道战",
+     "url": "https://www.bilibili.com/bangumi/play/ep199682",
+     "time": "2018-04-01T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787301,
+   "sort": 3,
+   "name": "初めての大一番",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "第一次的决胜战",
+     "url": "https://www.bilibili.com/bangumi/play/ep199683",
+     "time": "2018-04-08T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787302,
+   "sort": 4,
+   "name": "特訓ですっ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "来特训吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep199684",
+     "time": "2018-04-15T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787303,
+   "sort": 5,
+   "name": "ライバルとのダービー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "达比上的宿敌之战",
+     "url": "https://www.bilibili.com/bangumi/play/ep199685",
+     "time": "2018-04-22T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787304,
+   "sort": 6,
+   "name": "天高く、ウマ娘燃ゆる秋",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "秋高马肥",
+     "url": "https://www.bilibili.com/bangumi/play/ep199686",
+     "time": "2018-04-29T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787305,
+   "sort": 7,
+   "name": "約束",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "约定",
+     "url": "https://www.bilibili.com/bangumi/play/ep199687",
+     "time": "2018-05-06T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787306,
+   "sort": 8,
+   "name": "あなたの為に",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "为了你",
+     "url": "https://www.bilibili.com/bangumi/play/ep199688",
+     "time": "2018-05-13T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787307,
+   "sort": 9,
+   "name": "スピカの夢",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "Spica的梦想",
+     "url": "https://www.bilibili.com/bangumi/play/ep199689",
+     "time": "2018-05-20T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787308,
+   "sort": 10,
+   "name": "何度負けても",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "无论跌倒多少次",
+     "url": "https://www.bilibili.com/bangumi/play/ep199690",
+     "time": "2018-05-27T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787309,
+   "sort": 11,
+   "name": "おかえりなさい！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "欢迎回来",
+     "url": "https://www.bilibili.com/bangumi/play/ep199691",
+     "time": "2018-06-03T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787310,
+   "sort": 12,
+   "name": "夢の舞台",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "梦想的舞台",
+     "url": "https://www.bilibili.com/bangumi/play/ep199692",
+     "time": "2018-06-10T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 787311,
+   "sort": 13,
+   "name": "EXTRA.響け、ファンファーレ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "特别圈 吹响未来的乐章",
+     "url": "https://www.bilibili.com/bangumi/play/ep199693",
+     "time": "2018-06-17T16:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

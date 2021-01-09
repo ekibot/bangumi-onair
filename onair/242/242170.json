@@ -1,1 +1,195 @@
-{"id":"242170","name":"オーバーロードIII","sites":[{"site":"bilibili","id":"102252","sort":13}],"eps":[{"id":788318,"sort":1,"name":"支配者の憂鬱 -A Ruler’s Melancholy-","sites":[{"site":"bilibili","sort":1,"title":"统治者的忧郁","url":"https://www.bilibili.com/bangumi/play/ep232532","time":"2018-07-10T14:30:00.000Z"}]},{"id":788322,"sort":2,"name":"カルネ村再び -Carne Village Once More-","sites":[{"site":"bilibili","sort":2,"title":"再访卡恩村","url":"https://www.bilibili.com/bangumi/play/ep232533","time":"2018-07-17T14:30:00.000Z"}]},{"id":788323,"sort":3,"name":"エンリの激動かつ慌ただしい日々 -Enri's Upheaval and Hectic Days-","sites":[{"site":"bilibili","sort":3,"title":"安莉动荡又匆忙的生活","url":"https://www.bilibili.com/bangumi/play/ep232534","time":"2018-07-24T14:30:00.000Z"}]},{"id":788324,"sort":4,"name":"東の巨人、西の魔蛇 -Giant of the East, Demon Snake of the West-","sites":[{"site":"bilibili","sort":4,"title":"东方巨人、西方魔蛇","url":"https://www.bilibili.com/bangumi/play/ep232535","time":"2018-07-31T14:30:00.000Z"}]},{"id":788325,"sort":5,"name":"二人の指導者 -Two Leaders-","sites":[{"site":"bilibili","sort":5,"title":"两位指导者","url":"https://www.bilibili.com/bangumi/play/ep232536","time":"2018-08-07T14:30:00.000Z"}]},{"id":788326,"sort":6,"name":"死出への誘い -Invitation to Death-","sites":[{"site":"bilibili","sort":6,"title":"死亡邀约","url":"https://www.bilibili.com/bangumi/play/ep232537","time":"2018-08-14T14:30:13.000Z"}]},{"id":788327,"sort":7,"name":"蜘蛛に絡められる蝶 -Butterfly Entangled in a Spider's Web-","sites":[{"site":"bilibili","sort":7,"title":"落入蜘蛛网的蝴蝶","url":"https://www.bilibili.com/bangumi/play/ep232538","time":"2018-08-21T14:30:26.000Z"}]},{"id":788328,"sort":8,"name":"一握りの希望 -A Handful of Hope-","sites":[{"site":"bilibili","sort":8,"title":"一缕希望","url":"https://www.bilibili.com/bangumi/play/ep232539","time":"2018-08-28T14:30:38.000Z"}]},{"id":788329,"sort":9,"name":"舌戦 -War of Words-","sites":[{"site":"bilibili","sort":9,"title":"唇枪舌战","url":"https://www.bilibili.com/bangumi/play/ep232540","time":"2018-09-04T14:30:02.000Z"}]},{"id":788330,"sort":10,"name":"戦争準備 -Preparation for War-","sites":[{"site":"bilibili","sort":10,"title":"战争准备","url":"https://www.bilibili.com/bangumi/play/ep232541","time":"2018-09-11T14:30:00.000Z"}]},{"id":788331,"sort":11,"name":"もう一つの戦い -Another Battle-","sites":[{"site":"bilibili","sort":11,"title":"另一场战争","url":"https://www.bilibili.com/bangumi/play/ep232542","time":"2018-09-18T14:30:00.000Z"}]},{"id":788332,"sort":12,"name":"大虐殺 -Massacre-","sites":[{"site":"bilibili","sort":12,"title":"大开杀戒","url":"https://www.bilibili.com/bangumi/play/ep232543","time":"2018-09-25T14:30:00.000Z"}]},{"id":788333,"sort":13,"name":"PVP -Player vs Player-","sites":[{"site":"bilibili","sort":13,"title":"PVP","url":"https://www.bilibili.com/bangumi/play/ep232544","time":"2018-10-02T14:30:00.000Z"}]}]}
+{
+ "id": "242170",
+ "name": "オーバーロードIII",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "102252",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 788318,
+   "sort": 1,
+   "name": "支配者の憂鬱 -A Ruler’s Melancholy-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "统治者的忧郁",
+     "url": "https://www.bilibili.com/bangumi/play/ep232532",
+     "time": "2018-07-10T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 788322,
+   "sort": 2,
+   "name": "カルネ村再び -Carne Village Once More-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "再访卡恩村",
+     "url": "https://www.bilibili.com/bangumi/play/ep232533",
+     "time": "2018-07-17T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 788323,
+   "sort": 3,
+   "name": "エンリの激動かつ慌ただしい日々 -Enri's Upheaval and Hectic Days-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "安莉动荡又匆忙的生活",
+     "url": "https://www.bilibili.com/bangumi/play/ep232534",
+     "time": "2018-07-24T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 788324,
+   "sort": 4,
+   "name": "東の巨人、西の魔蛇 -Giant of the East, Demon Snake of the West-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "东方巨人、西方魔蛇",
+     "url": "https://www.bilibili.com/bangumi/play/ep232535",
+     "time": "2018-07-31T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 788325,
+   "sort": 5,
+   "name": "二人の指導者 -Two Leaders-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "两位指导者",
+     "url": "https://www.bilibili.com/bangumi/play/ep232536",
+     "time": "2018-08-07T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 788326,
+   "sort": 6,
+   "name": "死出への誘い -Invitation to Death-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "死亡邀约",
+     "url": "https://www.bilibili.com/bangumi/play/ep232537",
+     "time": "2018-08-14T14:30:13.000Z"
+    }
+   ]
+  },
+  {
+   "id": 788327,
+   "sort": 7,
+   "name": "蜘蛛に絡められる蝶 -Butterfly Entangled in a Spider's Web-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "落入蜘蛛网的蝴蝶",
+     "url": "https://www.bilibili.com/bangumi/play/ep232538",
+     "time": "2018-08-21T14:30:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 788328,
+   "sort": 8,
+   "name": "一握りの希望 -A Handful of Hope-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "一缕希望",
+     "url": "https://www.bilibili.com/bangumi/play/ep232539",
+     "time": "2018-08-28T14:30:38.000Z"
+    }
+   ]
+  },
+  {
+   "id": 788329,
+   "sort": 9,
+   "name": "舌戦 -War of Words-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "唇枪舌战",
+     "url": "https://www.bilibili.com/bangumi/play/ep232540",
+     "time": "2018-09-04T14:30:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 788330,
+   "sort": 10,
+   "name": "戦争準備 -Preparation for War-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "战争准备",
+     "url": "https://www.bilibili.com/bangumi/play/ep232541",
+     "time": "2018-09-11T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 788331,
+   "sort": 11,
+   "name": "もう一つの戦い -Another Battle-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "另一场战争",
+     "url": "https://www.bilibili.com/bangumi/play/ep232542",
+     "time": "2018-09-18T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 788332,
+   "sort": 12,
+   "name": "大虐殺 -Massacre-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "大开杀戒",
+     "url": "https://www.bilibili.com/bangumi/play/ep232543",
+     "time": "2018-09-25T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 788333,
+   "sort": 13,
+   "name": "PVP -Player vs Player-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "PVP",
+     "url": "https://www.bilibili.com/bangumi/play/ep232544",
+     "time": "2018-10-02T14:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

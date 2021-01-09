@@ -1,0 +1,169 @@
+{
+ "id": "5976",
+ "name": "神のみぞ知るセカイ",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "fcbec78661ad11e0bea1",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 38182,
+   "sort": 1,
+   "name": "世界はアイで動いている",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "世界因爱而转动",
+     "url": "https://v.youku.com/v_show/id_XMjk3NzE0NjM2.html?s=fcbec78661ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 38183,
+   "sort": 2,
+   "name": "あくまでも妹です／ベイビー・ユー・アー・ア・リッチ・ガール",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "无论如何我也要当妹妹",
+     "url": "https://v.youku.com/v_show/id_XMjk3OTI4Mjk2.html?s=fcbec78661ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 38184,
+   "sort": 3,
+   "name": "ドライヴ・マイ・カー／パーティーはそのままに",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "DRIVE MY CAR",
+     "url": "https://v.youku.com/v_show/id_XMjk3OTMyMjA4.html?s=fcbec78661ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 38185,
+   "sort": 4,
+   "name": "今そこにある聖戦",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "现在就在彼方的圣战",
+     "url": "https://v.youku.com/v_show/id_XMjk3NzE3MzI0.html?s=fcbec78661ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 38186,
+   "sort": 5,
+   "name": "IDOL BOMB!!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "IDOL BOMB！",
+     "url": "https://v.youku.com/v_show/id_XMjk3NzE4MjIw.html?s=fcbec78661ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 38187,
+   "sort": 6,
+   "name": "ワタシ平凡？",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "我很平凡吗",
+     "url": "https://v.youku.com/v_show/id_XMjk3NzE5MTc2.html?s=fcbec78661ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 38188,
+   "sort": 7,
+   "name": "Shining Star",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "闪亮的明星",
+     "url": "https://v.youku.com/v_show/id_XMjk3NzIwMDgw.html?s=fcbec78661ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 38189,
+   "sort": 8,
+   "name": "Coupling with with with with",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "Coupling with with with with",
+     "url": "https://v.youku.com/v_show/id_XMjk3NzIwNzc2.html?s=fcbec78661ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 38190,
+   "sort": 9,
+   "name": "大きな壁の中と外",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "大墙壁的内与外",
+     "url": "https://v.youku.com/v_show/id_XMjk3NzIxNzIw.html?s=fcbec78661ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 38191,
+   "sort": 10,
+   "name": "あたしの心の……",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "在我心中的",
+     "url": "https://v.youku.com/v_show/id_XMjk3NzIyMTY4.html?s=fcbec78661ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 38192,
+   "sort": 11,
+   "name": "おしまいの日",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "休业之日",
+     "url": "https://v.youku.com/v_show/id_XMjk3NzIyODIw.html?s=fcbec78661ad11e0bea1"
+    }
+   ]
+  },
+  {
+   "id": 38193,
+   "sort": 12,
+   "name": "神以上、人間未満",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "神之上、人类未满",
+     "url": "https://v.youku.com/v_show/id_XMjk3NzIzNjE2.html?s=fcbec78661ad11e0bea1"
+    }
+   ]
+  }
+ ]
+}

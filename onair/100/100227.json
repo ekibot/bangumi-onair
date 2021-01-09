@@ -1,1 +1,347 @@
-{"id":"100227","name":"繰繰れ！コックリさん","sites":[{"site":"iqiyi","id":"a_19rrhc0zdp","sort":12},{"site":"bilibili","id":"297","sort":12}],"eps":[{"id":436183,"sort":1,"name":"人形少女・ミーツ・コックリさん！","sites":[{"site":"iqiyi","sort":1,"title":"银仙 第1集","url":"http://www.iqiyi.com/v_19rrnkm67c.html","time":"2014-10-05T17:04:52.000Z"},{"site":"bilibili","sort":1,"title":"人偶少女·遇见·银仙大人！","url":"https://www.bilibili.com/bangumi/play/ep5827","time":"2014-10-05T17:05:22.000Z"}]},{"id":436184,"sort":2,"name":"爽やか笑顔は真人間への第一歩！","sites":[{"site":"iqiyi","sort":2,"title":"银仙 第2集","url":"http://www.iqiyi.com/v_19rrn5t1ns.html","time":"2014-10-12T17:04:43.000Z"},{"site":"bilibili","sort":2,"title":"爽朗的笑容是通往真正人类的第一步！","url":"https://www.bilibili.com/bangumi/play/ep5826","time":"2014-10-12T17:05:59.000Z"}]},{"id":436185,"sort":3,"name":"狗神ステイハウス！","sites":[{"site":"iqiyi","sort":3,"title":"银仙 第3集","url":"http://www.iqiyi.com/v_19rrn57g3s.html","time":"2014-10-19T17:25:13.000Z"},{"site":"bilibili","sort":3,"title":"狗神在家！","url":"https://www.bilibili.com/bangumi/play/ep5825","time":"2014-10-19T17:25:02.000Z"}]},{"id":436186,"sort":4,"name":"気になるアイツはSF系！","sites":[{"site":"iqiyi","sort":4,"title":"银仙 第4集","url":"http://www.iqiyi.com/v_19rrn3oaz8.html","time":"2014-10-26T17:04:35.000Z"},{"site":"bilibili","sort":4,"title":"令人在意的那家伙是SF系！","url":"https://www.bilibili.com/bangumi/play/ep5824","time":"2014-10-26T17:05:31.000Z"}]},{"id":436187,"sort":5,"name":"机のお花はメッセージ！","sites":[{"site":"iqiyi","sort":5,"title":"银仙 第5集","url":"http://www.iqiyi.com/v_19rrn3bawk.html","time":"2014-11-02T17:04:37.000Z"},{"site":"bilibili","sort":5,"title":"桌上的鲜花是给你的留言！","url":"https://www.bilibili.com/bangumi/play/ep7223","time":"2014-11-02T17:05:19.000Z"}]},{"id":436188,"sort":6,"name":"こひなと一つ目と信楽！","sites":[{"site":"iqiyi","sort":6,"title":"银仙 第6集","url":"http://www.iqiyi.com/v_19rrn1taoc.html","time":"2014-11-09T17:04:28.000Z"},{"site":"bilibili","sort":6,"title":"小雏、一目与信乐！","url":"https://www.bilibili.com/bangumi/play/ep12378","time":"2014-11-09T17:05:25.000Z"}]},{"id":436189,"sort":7,"name":"猫神タマの一目惚れ！","sites":[{"site":"iqiyi","sort":7,"title":"银仙 第7集","url":"http://www.iqiyi.com/v_19rrn1fwkg.html","time":"2014-11-16T17:04:45.000Z"},{"site":"bilibili","sort":7,"title":"猫神小玉的一见钟情！","url":"https://www.bilibili.com/bangumi/play/ep17394","time":"2014-11-16T17:05:55.000Z"}]},{"id":436190,"sort":8,"name":"コックリさんの湯けむり秘湯めぐり！","sites":[{"site":"iqiyi","sort":8,"title":"银仙 第8集","url":"http://www.iqiyi.com/v_19rrn9xyr8.html","time":"2014-11-23T17:04:16.000Z"},{"site":"bilibili","sort":8,"title":"银仙的雾气腾腾秘藏温泉巡礼！","url":"https://www.bilibili.com/bangumi/play/ep21337","time":"2014-11-23T17:05:25.000Z"}]},{"id":436191,"sort":9,"name":"悩み多きド・シ・ゴ・ロ！","sites":[{"site":"iqiyi","sort":9,"title":"银仙 第9集","url":"http://www.iqiyi.com/v_19rrn8eixw.html","time":"2014-11-30T17:04:23.000Z"},{"site":"bilibili","sort":9,"title":"充满烦恼的年龄！","url":"https://www.bilibili.com/bangumi/play/ep21405","time":"2014-11-30T17:05:50.000Z"}]},{"id":436192,"sort":10,"name":"紅葉待ちぼうけの日々！","sites":[{"site":"iqiyi","sort":10,"title":"银仙 第10集","url":"http://www.iqiyi.com/v_19rrn8asc8.html","time":"2014-12-07T17:03:30.000Z"},{"site":"bilibili","sort":10,"title":"空等红叶的日子！","url":"https://www.bilibili.com/bangumi/play/ep25517","time":"2014-12-07T17:05:25.000Z"}]},{"id":436193,"sort":11,"name":"大人ドロップアウトでコスプレイ！","sites":[{"site":"iqiyi","sort":11,"title":"银仙 第11集","url":"http://www.iqiyi.com/v_19rrn6yr9g.html","time":"2014-12-14T18:05:11.000Z"},{"site":"bilibili","sort":11,"title":"大人失格的cosplay！","url":"https://www.bilibili.com/bangumi/play/ep25575","time":"2014-12-14T18:05:51.000Z"}]},{"id":436194,"sort":12,"name":"DESTINY！","sites":[{"site":"iqiyi","sort":12,"title":"银仙 第12集","url":"http://www.iqiyi.com/v_19rrnzij38.html","time":"2014-12-21T17:04:47.000Z"},{"site":"bilibili","sort":12,"title":"DESTINY！","url":"https://www.bilibili.com/bangumi/play/ep27873","time":"2014-12-21T17:05:06.000Z"}]}]}
+{
+ "id": "100227",
+ "name": "繰繰れ！コックリさん",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhc0zdp",
+   "sort": 12
+  },
+  {
+   "site": "youku",
+   "id": "e31f4ef6c92211e3a705",
+   "sort": 12
+  },
+  {
+   "site": "bilibili",
+   "id": "297",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 436183,
+   "sort": 1,
+   "name": "人形少女・ミーツ・コックリさん！",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "银仙 第1集",
+     "url": "http://www.iqiyi.com/v_19rrnkm67c.html",
+     "time": "2014-10-05T17:04:52.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 人偶少女·meets·银仙!",
+     "url": "https://v.youku.com/v_show/id_XNzk2MjUwNTIw.html?s=e31f4ef6c92211e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "人偶少女·遇见·银仙大人！",
+     "url": "https://www.bilibili.com/bangumi/play/ep5827",
+     "time": "2014-10-05T17:05:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 436184,
+   "sort": 2,
+   "name": "爽やか笑顔は真人間への第一歩！",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "银仙 第2集",
+     "url": "http://www.iqiyi.com/v_19rrn5t1ns.html",
+     "time": "2014-10-12T17:04:43.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 爽朗的笑容是迈向真正人类的第一步!",
+     "url": "https://v.youku.com/v_show/id_XODAxMDI4ODMy.html?s=e31f4ef6c92211e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "爽朗的笑容是通往真正人类的第一步！",
+     "url": "https://www.bilibili.com/bangumi/play/ep5826",
+     "time": "2014-10-12T17:05:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 436185,
+   "sort": 3,
+   "name": "狗神ステイハウス！",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "银仙 第3集",
+     "url": "http://www.iqiyi.com/v_19rrn57g3s.html",
+     "time": "2014-10-19T17:25:13.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 狗神回窝",
+     "url": "https://v.youku.com/v_show/id_XODA1MTQ2ODky.html?s=e31f4ef6c92211e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "狗神在家！",
+     "url": "https://www.bilibili.com/bangumi/play/ep5825",
+     "time": "2014-10-19T17:25:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 436186,
+   "sort": 4,
+   "name": "気になるアイツはSF系！",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "银仙 第4集",
+     "url": "http://www.iqiyi.com/v_19rrn3oaz8.html",
+     "time": "2014-10-26T17:04:35.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 在意的家伙是SF系",
+     "url": "https://v.youku.com/v_show/id_XODExMTAxNTEy.html?s=e31f4ef6c92211e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "令人在意的那家伙是SF系！",
+     "url": "https://www.bilibili.com/bangumi/play/ep5824",
+     "time": "2014-10-26T17:05:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 436187,
+   "sort": 5,
+   "name": "机のお花はメッセージ！",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "银仙 第5集",
+     "url": "http://www.iqiyi.com/v_19rrn3bawk.html",
+     "time": "2014-11-02T17:04:37.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 桌上的花是信号",
+     "url": "https://v.youku.com/v_show/id_XODE2MzIxODYw.html?s=e31f4ef6c92211e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "桌上的鲜花是给你的留言！",
+     "url": "https://www.bilibili.com/bangumi/play/ep7223",
+     "time": "2014-11-02T17:05:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 436188,
+   "sort": 6,
+   "name": "こひなと一つ目と信楽！",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "银仙 第6集",
+     "url": "http://www.iqiyi.com/v_19rrn1taoc.html",
+     "time": "2014-11-09T17:04:28.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 小雏 独眼怪和信乐",
+     "url": "https://v.youku.com/v_show/id_XODIyMjUyMzIw.html?s=e31f4ef6c92211e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "小雏、一目与信乐！",
+     "url": "https://www.bilibili.com/bangumi/play/ep12378",
+     "time": "2014-11-09T17:05:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 436189,
+   "sort": 7,
+   "name": "猫神タマの一目惚れ！",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "银仙 第7集",
+     "url": "http://www.iqiyi.com/v_19rrn1fwkg.html",
+     "time": "2014-11-16T17:04:45.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 猫神小玉的一见钟情",
+     "url": "https://v.youku.com/v_show/id_XODI3MDg5NTA0.html?s=e31f4ef6c92211e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "猫神小玉的一见钟情！",
+     "url": "https://www.bilibili.com/bangumi/play/ep17394",
+     "time": "2014-11-16T17:05:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 436190,
+   "sort": 8,
+   "name": "コックリさんの湯けむり秘湯めぐり！",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "银仙 第8集",
+     "url": "http://www.iqiyi.com/v_19rrn9xyr8.html",
+     "time": "2014-11-23T17:04:16.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 银仙热气腾腾的秘密温泉",
+     "url": "https://v.youku.com/v_show/id_XODMyMjU3NTM2.html?s=e31f4ef6c92211e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "银仙的雾气腾腾秘藏温泉巡礼！",
+     "url": "https://www.bilibili.com/bangumi/play/ep21337",
+     "time": "2014-11-23T17:05:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 436191,
+   "sort": 9,
+   "name": "悩み多きド・シ・ゴ・ロ！",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "银仙 第9集",
+     "url": "http://www.iqiyi.com/v_19rrn8eixw.html",
+     "time": "2014-11-30T17:04:23.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 充满烦恼的年龄",
+     "url": "https://v.youku.com/v_show/id_XODM3Njg1MTk2.html?s=e31f4ef6c92211e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "充满烦恼的年龄！",
+     "url": "https://www.bilibili.com/bangumi/play/ep21405",
+     "time": "2014-11-30T17:05:50.000Z"
+    }
+   ]
+  },
+  {
+   "id": 436192,
+   "sort": 10,
+   "name": "紅葉待ちぼうけの日々！",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "银仙 第10集",
+     "url": "http://www.iqiyi.com/v_19rrn8asc8.html",
+     "time": "2014-12-07T17:03:30.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 红叶苦苦等待的日子",
+     "url": "https://v.youku.com/v_show/id_XODQyNjk2NjA0.html?s=e31f4ef6c92211e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "空等红叶的日子！",
+     "url": "https://www.bilibili.com/bangumi/play/ep25517",
+     "time": "2014-12-07T17:05:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 436193,
+   "sort": 11,
+   "name": "大人ドロップアウトでコスプレイ！",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "银仙 第11集",
+     "url": "http://www.iqiyi.com/v_19rrn6yr9g.html",
+     "time": "2014-12-14T18:05:11.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 大人返老还童玩变装",
+     "url": "https://v.youku.com/v_show/id_XODQ3ODc2MDU2.html?s=e31f4ef6c92211e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "大人失格的cosplay！",
+     "url": "https://www.bilibili.com/bangumi/play/ep25575",
+     "time": "2014-12-14T18:05:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 436194,
+   "sort": 12,
+   "name": "DESTINY！",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "银仙 第12集",
+     "url": "http://www.iqiyi.com/v_19rrnzij38.html",
+     "time": "2014-12-21T17:04:47.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 命运",
+     "url": "https://v.youku.com/v_show/id_XODUyNzU1Njgw.html?s=e31f4ef6c92211e3a705"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "DESTINY！",
+     "url": "https://www.bilibili.com/bangumi/play/ep27873",
+     "time": "2014-12-21T17:05:06.000Z"
+    }
+   ]
+  }
+ ]
+}

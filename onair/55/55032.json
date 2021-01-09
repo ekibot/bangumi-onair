@@ -1,1 +1,195 @@
-{"id":"55032","name":"フォトカノ","sites":[{"site":"bilibili","id":"580","sort":13}],"eps":[{"id":254884,"sort":1,"name":"出会い","sites":[{"site":"bilibili","sort":1,"title":"邂逅","url":"https://www.bilibili.com/bangumi/play/ep10457","time":"2013-04-05T03:46:34.000Z"}]},{"id":254885,"sort":2,"name":"学園天国","sites":[{"site":"bilibili","sort":2,"title":"学园天堂","url":"https://www.bilibili.com/bangumi/play/ep10456","time":"2013-04-12T05:44:53.000Z"}]},{"id":254886,"sort":3,"name":"百花繚乱","sites":[{"site":"bilibili","sort":3,"title":" 百花缭乱","url":"https://www.bilibili.com/bangumi/play/ep10455","time":"2013-04-19T13:46:25.000Z"}]},{"id":254887,"sort":4,"name":"これからの想い","sites":[{"site":"bilibili","sort":4,"title":"今后的心情","url":"https://www.bilibili.com/bangumi/play/ep10454","time":"2013-04-26T05:45:18.000Z"}]},{"id":254888,"sort":5,"name":"恋の掛け違い","sites":[{"site":"bilibili","sort":5,"title":"错过的恋爱","url":"https://www.bilibili.com/bangumi/play/ep10453","time":"2013-05-03T05:36:22.000Z"}]},{"id":254889,"sort":6,"name":"想いはるかに","sites":[{"site":"bilibili","sort":6,"title":"向遥佳告白","url":"https://www.bilibili.com/bangumi/play/ep10452","time":"2013-05-10T06:07:43.000Z"}]},{"id":254890,"sort":7,"name":"星の笑顔","sites":[{"site":"bilibili","sort":7,"title":"星星的笑容","url":"https://www.bilibili.com/bangumi/play/ep10451","time":"2013-05-17T08:35:59.000Z"}]},{"id":254891,"sort":8,"name":"素顔を見つめて","sites":[{"site":"bilibili","sort":8,"title":"凝视你的素颜","url":"https://www.bilibili.com/bangumi/play/ep10450","time":"2013-05-24T04:44:16.000Z"}]},{"id":254892,"sort":9,"name":"恋の果たし状","sites":[{"site":"bilibili","sort":9,"title":"恋爱挑战书","url":"https://www.bilibili.com/bangumi/play/ep10449","time":"2013-05-31T04:34:16.000Z"}]},{"id":254893,"sort":10,"name":"天使の舞い","sites":[{"site":"bilibili","sort":10,"title":"天使之舞","url":"https://www.bilibili.com/bangumi/play/ep10448","time":"2013-06-07T06:48:22.000Z"}]},{"id":254894,"sort":11,"name":"学園のお嫁さん","sites":[{"site":"bilibili","sort":11,"title":"学园新娘","url":"https://www.bilibili.com/bangumi/play/ep10447","time":"2013-06-14T05:30:59.000Z"}]},{"id":254895,"sort":12,"name":"フォトグラフメモリー","sites":[{"site":"bilibili","sort":12,"title":"写真回忆","url":"https://www.bilibili.com/bangumi/play/ep10446","time":"2013-06-21T01:49:40.000Z"}]},{"id":286429,"sort":13,"name":"想い合い","sites":[{"site":"bilibili","sort":13,"title":"相爱","url":"https://www.bilibili.com/bangumi/play/ep10445","time":"2013-06-28T00:30:32.000Z"}]}]}
+{
+ "id": "55032",
+ "name": "フォトカノ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "580",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 254884,
+   "sort": 1,
+   "name": "出会い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "邂逅",
+     "url": "https://www.bilibili.com/bangumi/play/ep10457",
+     "time": "2013-04-05T03:46:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 254885,
+   "sort": 2,
+   "name": "学園天国",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "学园天堂",
+     "url": "https://www.bilibili.com/bangumi/play/ep10456",
+     "time": "2013-04-12T05:44:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 254886,
+   "sort": 3,
+   "name": "百花繚乱",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": " 百花缭乱",
+     "url": "https://www.bilibili.com/bangumi/play/ep10455",
+     "time": "2013-04-19T13:46:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 254887,
+   "sort": 4,
+   "name": "これからの想い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "今后的心情",
+     "url": "https://www.bilibili.com/bangumi/play/ep10454",
+     "time": "2013-04-26T05:45:18.000Z"
+    }
+   ]
+  },
+  {
+   "id": 254888,
+   "sort": 5,
+   "name": "恋の掛け違い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "错过的恋爱",
+     "url": "https://www.bilibili.com/bangumi/play/ep10453",
+     "time": "2013-05-03T05:36:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 254889,
+   "sort": 6,
+   "name": "想いはるかに",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "向遥佳告白",
+     "url": "https://www.bilibili.com/bangumi/play/ep10452",
+     "time": "2013-05-10T06:07:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 254890,
+   "sort": 7,
+   "name": "星の笑顔",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "星星的笑容",
+     "url": "https://www.bilibili.com/bangumi/play/ep10451",
+     "time": "2013-05-17T08:35:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 254891,
+   "sort": 8,
+   "name": "素顔を見つめて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "凝视你的素颜",
+     "url": "https://www.bilibili.com/bangumi/play/ep10450",
+     "time": "2013-05-24T04:44:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 254892,
+   "sort": 9,
+   "name": "恋の果たし状",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "恋爱挑战书",
+     "url": "https://www.bilibili.com/bangumi/play/ep10449",
+     "time": "2013-05-31T04:34:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 254893,
+   "sort": 10,
+   "name": "天使の舞い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "天使之舞",
+     "url": "https://www.bilibili.com/bangumi/play/ep10448",
+     "time": "2013-06-07T06:48:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 254894,
+   "sort": 11,
+   "name": "学園のお嫁さん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "学园新娘",
+     "url": "https://www.bilibili.com/bangumi/play/ep10447",
+     "time": "2013-06-14T05:30:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 254895,
+   "sort": 12,
+   "name": "フォトグラフメモリー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "写真回忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep10446",
+     "time": "2013-06-21T01:49:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 286429,
+   "sort": 13,
+   "name": "想い合い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "相爱",
+     "url": "https://www.bilibili.com/bangumi/play/ep10445",
+     "time": "2013-06-28T00:30:32.000Z"
+    }
+   ]
+  }
+ ]
+}

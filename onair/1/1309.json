@@ -1,1 +1,278 @@
-{"id":"1309","name":"D.C.II ～ダ・カーポII～","sites":[{"site":"qq","id":"w/w2kmu8dgn83qups","sort":13},{"site":"bilibili","id":"658","sort":13}],"eps":[{"id":4090,"sort":1,"name":"小さな恋の季節","sites":[{"site":"qq","sort":1,"title":"初音岛Ⅱ第一季_01","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/e0031bn5g0s.html"},{"site":"bilibili","sort":1,"title":"小恋的季节","url":"https://www.bilibili.com/bangumi/play/ep66333","time":"2015-06-19T16:52:00.000Z"}]},{"id":4091,"sort":2,"name":"バナナと人間","sites":[{"site":"qq","sort":2,"title":"初音岛Ⅱ第一季_02","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/v00318ko4t9.html"},{"site":"bilibili","sort":2,"title":"香蕉和人类","url":"https://www.bilibili.com/bangumi/play/ep66334","time":"2015-06-19T16:52:00.000Z"}]},{"id":4092,"sort":3,"name":"ファーストレッスン","sites":[{"site":"qq","sort":3,"title":"初音岛Ⅱ第一季_03","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/q00314b56s0.html"},{"site":"bilibili","sort":3,"title":"First Lesson","url":"https://www.bilibili.com/bangumi/play/ep66335","time":"2015-06-19T16:52:00.000Z"}]},{"id":4093,"sort":4,"name":"秋風の中で","sites":[{"site":"qq","sort":4,"title":"初音岛Ⅱ第一季_04","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/l00313sk7hk.html"},{"site":"bilibili","sort":4,"title":"秋风拂面","url":"https://www.bilibili.com/bangumi/play/ep66336","time":"2015-06-19T16:52:00.000Z"}]},{"id":4094,"sort":5,"name":"あと2センチの距離","sites":[{"site":"qq","sort":5,"title":"初音岛Ⅱ第一季_05","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/v003158ftep.html"},{"site":"bilibili","sort":5,"title":"最后的2厘米","url":"https://www.bilibili.com/bangumi/play/ep66337","time":"2015-06-19T16:52:00.000Z"}]},{"id":4095,"sort":6,"name":"人間キライ","sites":[{"site":"qq","sort":6,"title":"初音岛Ⅱ第一季_06","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/u00313besxv.html"},{"site":"bilibili","sort":6,"title":"讨厌人类","url":"https://www.bilibili.com/bangumi/play/ep66338","time":"2015-06-19T16:52:00.000Z"}]},{"id":4096,"sort":7,"name":"にわか嵐","sites":[{"site":"qq","sort":7,"title":"初音岛Ⅱ第一季_07","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/a00314j8h9d.html"},{"site":"bilibili","sort":7,"title":"疾风骤雨","url":"https://www.bilibili.com/bangumi/play/ep66339","time":"2015-06-19T16:52:00.000Z"}]},{"id":4097,"sort":8,"name":"白日の時","sites":[{"site":"qq","sort":8,"title":"初音岛Ⅱ第一季_08","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/i00311bjq9q.html"},{"site":"bilibili","sort":8,"title":"白日之时","url":"https://www.bilibili.com/bangumi/play/ep66340","time":"2015-06-19T16:52:00.000Z"}]},{"id":4098,"sort":9,"name":"恋模様大和路","sites":[{"site":"qq","sort":9,"title":"初音岛Ⅱ第一季_09","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/y0031o6c9a4.html"},{"site":"bilibili","sort":9,"title":"恋爱图纹大和路","url":"https://www.bilibili.com/bangumi/play/ep66341","time":"2015-06-19T16:52:00.000Z"}]},{"id":4099,"sort":10,"name":"霞んでいく想い","sites":[{"site":"qq","sort":10,"title":"初音岛Ⅱ第一季_10","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/d0031g0esbp.html"},{"site":"bilibili","sort":10,"title":"褪色的思念","url":"https://www.bilibili.com/bangumi/play/ep66342","time":"2015-06-19T16:52:00.000Z"}]},{"id":4100,"sort":11,"name":"小恋、ココロ、うらはら","sites":[{"site":"qq","sort":11,"title":"初音岛Ⅱ第一季_11","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/q0031h95h9p.html"},{"site":"bilibili","sort":11,"title":"小恋言不由衷的心","url":"https://www.bilibili.com/bangumi/play/ep66343","time":"2015-06-19T16:52:00.000Z"}]},{"id":4101,"sort":12,"name":"心の架け橋","sites":[{"site":"qq","sort":12,"title":"初音岛Ⅱ第一季_12","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/b0031f6rjc1.html"},{"site":"bilibili","sort":12,"title":"架起心中那座桥","url":"https://www.bilibili.com/bangumi/play/ep66344","time":"2015-06-19T16:52:00.000Z"}]},{"id":4102,"sort":13,"name":"桜笑み君想う","sites":[{"site":"qq","sort":13,"title":"初音岛Ⅱ第一季_13","url":"https://v.qq.com/x/cover/w2kmu8dgn83qups/s0031ix3itn.html"},{"site":"bilibili","sort":13,"title":"想起樱花下微笑的你","url":"https://www.bilibili.com/bangumi/play/ep66345","time":"2015-06-19T16:52:00.000Z"}]}]}
+{
+ "id": "1309",
+ "name": "D.C.II ～ダ・カーポII～",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "w/w2kmu8dgn83qups",
+   "sort": 13
+  },
+  {
+   "site": "bilibili",
+   "id": "658",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 4090,
+   "sort": 1,
+   "name": "小さな恋の季節",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "初音岛Ⅱ第一季_01",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/e0031bn5g0s.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "小恋的季节",
+     "url": "https://www.bilibili.com/bangumi/play/ep66333",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 4091,
+   "sort": 2,
+   "name": "バナナと人間",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "初音岛Ⅱ第一季_02",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/v00318ko4t9.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "香蕉和人类",
+     "url": "https://www.bilibili.com/bangumi/play/ep66334",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 4092,
+   "sort": 3,
+   "name": "ファーストレッスン",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "初音岛Ⅱ第一季_03",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/q00314b56s0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "First Lesson",
+     "url": "https://www.bilibili.com/bangumi/play/ep66335",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 4093,
+   "sort": 4,
+   "name": "秋風の中で",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "初音岛Ⅱ第一季_04",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/l00313sk7hk.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "秋风拂面",
+     "url": "https://www.bilibili.com/bangumi/play/ep66336",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 4094,
+   "sort": 5,
+   "name": "あと2センチの距離",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "初音岛Ⅱ第一季_05",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/v003158ftep.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "最后的2厘米",
+     "url": "https://www.bilibili.com/bangumi/play/ep66337",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 4095,
+   "sort": 6,
+   "name": "人間キライ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "初音岛Ⅱ第一季_06",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/u00313besxv.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "讨厌人类",
+     "url": "https://www.bilibili.com/bangumi/play/ep66338",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 4096,
+   "sort": 7,
+   "name": "にわか嵐",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "初音岛Ⅱ第一季_07",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/a00314j8h9d.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "疾风骤雨",
+     "url": "https://www.bilibili.com/bangumi/play/ep66339",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 4097,
+   "sort": 8,
+   "name": "白日の時",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "初音岛Ⅱ第一季_08",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/i00311bjq9q.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "白日之时",
+     "url": "https://www.bilibili.com/bangumi/play/ep66340",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 4098,
+   "sort": 9,
+   "name": "恋模様大和路",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "初音岛Ⅱ第一季_09",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/y0031o6c9a4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "恋爱图纹大和路",
+     "url": "https://www.bilibili.com/bangumi/play/ep66341",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 4099,
+   "sort": 10,
+   "name": "霞んでいく想い",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "初音岛Ⅱ第一季_10",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/d0031g0esbp.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "褪色的思念",
+     "url": "https://www.bilibili.com/bangumi/play/ep66342",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 4100,
+   "sort": 11,
+   "name": "小恋、ココロ、うらはら",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "初音岛Ⅱ第一季_11",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/q0031h95h9p.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "小恋言不由衷的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep66343",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 4101,
+   "sort": 12,
+   "name": "心の架け橋",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "初音岛Ⅱ第一季_12",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/b0031f6rjc1.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "架起心中那座桥",
+     "url": "https://www.bilibili.com/bangumi/play/ep66344",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 4102,
+   "sort": 13,
+   "name": "桜笑み君想う",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "初音岛Ⅱ第一季_13",
+     "url": "https://v.qq.com/x/cover/w2kmu8dgn83qups/s0031ix3itn.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "想起樱花下微笑的你",
+     "url": "https://www.bilibili.com/bangumi/play/ep66345",
+     "time": "2015-06-19T16:52:00.000Z"
+    }
+   ]
+  }
+ ]
+}

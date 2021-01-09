@@ -1,1 +1,27 @@
-{"id":"11598","name":"×××HOLiC・籠 あだゆめ","sites":[{"site":"bilibili","id":"3395","sort":1}],"eps":[{"id":67095,"sort":1,"name":"xxxHOLiC Rou Adayume","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep84774","time":"2016-03-08T05:57:07.000Z"}]}]}
+{
+ "id": "11598",
+ "name": "×××HOLiC・籠 あだゆめ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3395",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 67095,
+   "sort": 1,
+   "name": "xxxHOLiC Rou Adayume",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep84774",
+     "time": "2016-03-08T05:57:07.000Z"
+    }
+   ]
+  }
+ ]
+}

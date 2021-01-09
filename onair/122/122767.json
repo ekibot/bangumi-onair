@@ -1,1 +1,195 @@
-{"id":"122767","name":"霧くまs","sites":[{"site":"bilibili","id":"4224","sort":13}],"eps":[{"id":467268,"sort":1,"name":"あのイントネ〜ション 1「幽体離脱」/ キリシマの野望 1","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88623","time":"2016-05-31T05:55:18.000Z"}]},{"id":467269,"sort":2,"name":"あのイントネ〜ション 2「求愛行動」/ 全裸温泉 1/ ハルナの辞典 第1版「自宅警備員」","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88624","time":"2016-05-31T05:55:40.000Z"}]},{"id":467270,"sort":3,"name":"合体戦艦 キリシマ☆ハルナ 1/ 困惑タカオとヒュウガ博士 1 /キリシマの野望 2","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88625","time":"2016-05-31T05:56:02.000Z"}]},{"id":467271,"sort":4,"name":"キリシマの野望 3/ 合体戦艦 キリシマ☆ハルナ 2 / ハルナの辞典 第2版「あざとい」/ あのイントネ〜ション 3「就職活動」","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88626","time":"2016-05-31T05:56:15.000Z"}]},{"id":467272,"sort":5,"name":"あのイントネ〜ション 4「希望退職」/ コマーシャル 1/ 端午の節句","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88627","time":"2016-05-31T05:56:32.000Z"}]},{"id":467273,"sort":6,"name":"野生の王国 1/ 困惑タカオとヒュウガ博士 2/ 野生の王国 2","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88628","time":"2016-05-31T05:56:48.000Z"}]},{"id":467274,"sort":7,"name":"あのイントネ〜ション 5「QRコード」/ あのイントネ〜ション 6「シャンソン歌手」/ コマーシャル 2 / キリシマの野望 4","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88629","time":"2016-05-31T05:57:02.000Z"}]},{"id":467275,"sort":8,"name":"全裸温泉 2/ 大戦艦コンゴウさん /  あのイントネ〜ション 7「九州旅行」","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88630","time":"2016-05-31T05:57:22.000Z"}]},{"id":467276,"sort":9,"name":"恋するフォーチュン☆タカオ / 熊の艦隊 / 困惑タカオとヒュウガ博士 3","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88631","time":"2016-05-31T05:57:36.000Z"}]},{"id":467277,"sort":10,"name":"合体戦艦 キリシマ☆ハルナ 最終話 / キリシマの野望 5","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88632","time":"2016-05-31T05:57:51.000Z"}]},{"id":467278,"sort":11,"name":"あのイントネ〜ション 8「QRコード」/  あのイントネ〜ション 9「東京特許許可局」/ わたしはマヤ 1 /  ハルナの辞典 第3版「魚雷」","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88633","time":"2016-05-31T05:58:07.000Z"}]},{"id":467279,"sort":12,"name":"キリシマの野望 6 / あのイントネ〜ション 10「九蓮宝燈」/ わたしはマヤ 2 / キリシマの野望 7","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88634","time":"2016-05-31T05:58:32.000Z"}]},{"id":467280,"sort":13,"name":"「Purest Blue」霧くまsバージョン","sites":[{"site":"bilibili","sort":13,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88635","time":"2016-05-31T05:58:49.000Z"}]}]}
+{
+ "id": "122767",
+ "name": "霧くまs",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4224",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 467268,
+   "sort": 1,
+   "name": "あのイントネ〜ション 1「幽体離脱」/ キリシマの野望 1",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88623",
+     "time": "2016-05-31T05:55:18.000Z"
+    }
+   ]
+  },
+  {
+   "id": 467269,
+   "sort": 2,
+   "name": "あのイントネ〜ション 2「求愛行動」/ 全裸温泉 1/ ハルナの辞典 第1版「自宅警備員」",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88624",
+     "time": "2016-05-31T05:55:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 467270,
+   "sort": 3,
+   "name": "合体戦艦 キリシマ☆ハルナ 1/ 困惑タカオとヒュウガ博士 1 /キリシマの野望 2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88625",
+     "time": "2016-05-31T05:56:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 467271,
+   "sort": 4,
+   "name": "キリシマの野望 3/ 合体戦艦 キリシマ☆ハルナ 2 / ハルナの辞典 第2版「あざとい」/ あのイントネ〜ション 3「就職活動」",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88626",
+     "time": "2016-05-31T05:56:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 467272,
+   "sort": 5,
+   "name": "あのイントネ〜ション 4「希望退職」/ コマーシャル 1/ 端午の節句",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88627",
+     "time": "2016-05-31T05:56:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 467273,
+   "sort": 6,
+   "name": "野生の王国 1/ 困惑タカオとヒュウガ博士 2/ 野生の王国 2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88628",
+     "time": "2016-05-31T05:56:48.000Z"
+    }
+   ]
+  },
+  {
+   "id": 467274,
+   "sort": 7,
+   "name": "あのイントネ〜ション 5「QRコード」/ あのイントネ〜ション 6「シャンソン歌手」/ コマーシャル 2 / キリシマの野望 4",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88629",
+     "time": "2016-05-31T05:57:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 467275,
+   "sort": 8,
+   "name": "全裸温泉 2/ 大戦艦コンゴウさん /  あのイントネ〜ション 7「九州旅行」",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88630",
+     "time": "2016-05-31T05:57:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 467276,
+   "sort": 9,
+   "name": "恋するフォーチュン☆タカオ / 熊の艦隊 / 困惑タカオとヒュウガ博士 3",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88631",
+     "time": "2016-05-31T05:57:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 467277,
+   "sort": 10,
+   "name": "合体戦艦 キリシマ☆ハルナ 最終話 / キリシマの野望 5",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88632",
+     "time": "2016-05-31T05:57:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 467278,
+   "sort": 11,
+   "name": "あのイントネ〜ション 8「QRコード」/  あのイントネ〜ション 9「東京特許許可局」/ わたしはマヤ 1 /  ハルナの辞典 第3版「魚雷」",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88633",
+     "time": "2016-05-31T05:58:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 467279,
+   "sort": 12,
+   "name": "キリシマの野望 6 / あのイントネ〜ション 10「九蓮宝燈」/ わたしはマヤ 2 / キリシマの野望 7",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88634",
+     "time": "2016-05-31T05:58:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 467280,
+   "sort": 13,
+   "name": "「Purest Blue」霧くまsバージョン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88635",
+     "time": "2016-05-31T05:58:49.000Z"
+    }
+   ]
+  }
+ ]
+}

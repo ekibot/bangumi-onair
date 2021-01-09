@@ -1,1 +1,181 @@
-{"id":"239960","name":"百錬の覇王と聖約の戦乙女","sites":[{"site":"bilibili","id":"102772","sort":12}],"eps":[{"id":803649,"sort":1,"name":"盃の誓い","sites":[{"site":"bilibili","sort":1,"title":"举杯结义","url":"https://www.bilibili.com/bangumi/play/ep232479","time":"2018-07-07T16:30:00.000Z"}]},{"id":803650,"sort":2,"name":"狼の戦術","sites":[{"site":"bilibili","sort":2,"title":"狼的战术","url":"https://www.bilibili.com/bangumi/play/ep232480","time":"2018-07-14T16:30:00.000Z"}]},{"id":803651,"sort":3,"name":"双紋と双子","sites":[{"site":"bilibili","sort":3,"title":"双纹与双子","url":"https://www.bilibili.com/bangumi/play/ep232481","time":"2018-07-21T16:30:00.000Z"}]},{"id":803652,"sort":4,"name":"百錬成鋼","sites":[{"site":"bilibili","sort":4,"title":"百炼成钢","url":"https://www.bilibili.com/bangumi/play/ep232482","time":"2018-07-28T16:30:00.000Z"}]},{"id":803653,"sort":5,"name":"虎を食う獅子","sites":[{"site":"bilibili","sort":5,"title":"食虎之狮","url":"https://www.bilibili.com/bangumi/play/ep232483","time":"2018-08-04T16:30:00.000Z"}]},{"id":803654,"sort":6,"name":"戦乙女の休日","sites":[{"site":"bilibili","sort":6,"title":"女武神的休息日","url":"https://www.bilibili.com/bangumi/play/ep232484","time":"2018-08-11T16:30:08.000Z"}]},{"id":803655,"sort":7,"name":"遺恨の報復","sites":[{"site":"bilibili","sort":7,"title":"遗恨的报复","url":"https://www.bilibili.com/bangumi/play/ep232485","time":"2018-08-18T16:30:21.000Z"}]},{"id":803656,"sort":8,"name":"こたつと空回りのふいご","sites":[{"site":"bilibili","sort":8,"title":"被炉与白忙活的吹玻璃","url":"https://www.bilibili.com/bangumi/play/ep232486","time":"2018-08-25T16:30:33.000Z"}]},{"id":803657,"sort":9,"name":"美しき月","sites":[{"site":"bilibili","sort":9,"title":"美丽明月","url":"https://www.bilibili.com/bangumi/play/ep232487","time":"2018-09-01T16:29:59.000Z"}]},{"id":803658,"sort":10,"name":"追い詰められた狼","sites":[{"site":"bilibili","sort":10,"title":"穷途末路之狼","url":"https://www.bilibili.com/bangumi/play/ep232488","time":"2018-09-08T16:30:09.000Z"}]},{"id":803659,"sort":11,"name":"覇王の証明","sites":[{"site":"bilibili","sort":11,"title":"霸王的证明","url":"https://www.bilibili.com/bangumi/play/ep232489","time":"2018-09-15T16:30:00.000Z"}]},{"id":803660,"sort":12,"name":"帰るべき場所","sites":[{"site":"bilibili","sort":12,"title":"回归之所","url":"https://www.bilibili.com/bangumi/play/ep232490","time":"2018-09-22T16:30:00.000Z"}]}]}
+{
+ "id": "239960",
+ "name": "百錬の覇王と聖約の戦乙女",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "102772",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 803649,
+   "sort": 1,
+   "name": "盃の誓い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "举杯结义",
+     "url": "https://www.bilibili.com/bangumi/play/ep232479",
+     "time": "2018-07-07T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 803650,
+   "sort": 2,
+   "name": "狼の戦術",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "狼的战术",
+     "url": "https://www.bilibili.com/bangumi/play/ep232480",
+     "time": "2018-07-14T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 803651,
+   "sort": 3,
+   "name": "双紋と双子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "双纹与双子",
+     "url": "https://www.bilibili.com/bangumi/play/ep232481",
+     "time": "2018-07-21T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 803652,
+   "sort": 4,
+   "name": "百錬成鋼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "百炼成钢",
+     "url": "https://www.bilibili.com/bangumi/play/ep232482",
+     "time": "2018-07-28T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 803653,
+   "sort": 5,
+   "name": "虎を食う獅子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "食虎之狮",
+     "url": "https://www.bilibili.com/bangumi/play/ep232483",
+     "time": "2018-08-04T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 803654,
+   "sort": 6,
+   "name": "戦乙女の休日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "女武神的休息日",
+     "url": "https://www.bilibili.com/bangumi/play/ep232484",
+     "time": "2018-08-11T16:30:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 803655,
+   "sort": 7,
+   "name": "遺恨の報復",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "遗恨的报复",
+     "url": "https://www.bilibili.com/bangumi/play/ep232485",
+     "time": "2018-08-18T16:30:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 803656,
+   "sort": 8,
+   "name": "こたつと空回りのふいご",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "被炉与白忙活的吹玻璃",
+     "url": "https://www.bilibili.com/bangumi/play/ep232486",
+     "time": "2018-08-25T16:30:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 803657,
+   "sort": 9,
+   "name": "美しき月",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "美丽明月",
+     "url": "https://www.bilibili.com/bangumi/play/ep232487",
+     "time": "2018-09-01T16:29:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 803658,
+   "sort": 10,
+   "name": "追い詰められた狼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "穷途末路之狼",
+     "url": "https://www.bilibili.com/bangumi/play/ep232488",
+     "time": "2018-09-08T16:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 803659,
+   "sort": 11,
+   "name": "覇王の証明",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "霸王的证明",
+     "url": "https://www.bilibili.com/bangumi/play/ep232489",
+     "time": "2018-09-15T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 803660,
+   "sort": 12,
+   "name": "帰るべき場所",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "回归之所",
+     "url": "https://www.bilibili.com/bangumi/play/ep232490",
+     "time": "2018-09-22T16:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

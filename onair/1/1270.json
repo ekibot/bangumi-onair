@@ -1,0 +1,26 @@
+{
+ "id": "1270",
+ "name": "ARIA The ORIGINATION",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "cc0078ac962411de83b1",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 3823,
+   "sort": 1,
+   "name": "その やがて訪れる春の風に…",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "那阵 吹拂而至的春风",
+     "url": "https://v.youku.com/v_show/id_XNDM5MDk2NzM2.html?s=cc0078ac962411de83b1"
+    }
+   ]
+  }
+ ]
+}

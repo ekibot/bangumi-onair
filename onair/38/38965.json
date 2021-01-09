@@ -1,1 +1,167 @@
-{"id":"38965","name":"HAND MAID メイ","sites":[{"site":"bilibili","id":"2142","sort":11}],"eps":[{"id":166799,"sort":1,"name":"はじめまして!","sites":[{"site":"bilibili","sort":1,"title":"初次见面","url":"https://www.bilibili.com/bangumi/play/ep46681","time":"2015-01-27T16:09:20.000Z"}]},{"id":166800,"sort":2,"name":"お役に立ってるのかな?","sites":[{"site":"bilibili","sort":2,"title":"我有帮上忙吗？","url":"https://www.bilibili.com/bangumi/play/ep46682","time":"2015-01-27T16:09:20.000Z"}]},{"id":166801,"sort":3,"name":"どうしましょう…","sites":[{"site":"bilibili","sort":3,"title":"怎么办呢？","url":"https://www.bilibili.com/bangumi/play/ep46683","time":"2015-01-27T16:09:20.000Z"}]},{"id":166802,"sort":4,"name":"見ないでください!","sites":[{"site":"bilibili","sort":4,"title":"不要看我","url":"https://www.bilibili.com/bangumi/play/ep46684","time":"2015-01-27T16:09:20.000Z"}]},{"id":166803,"sort":5,"name":"今日まで…本当に…","sites":[{"site":"bilibili","sort":5,"title":"谢谢你的照顾","url":"https://www.bilibili.com/bangumi/play/ep46685","time":"2015-01-27T16:09:20.000Z"}]},{"id":166804,"sort":6,"name":"もっともっと!","sites":[{"site":"bilibili","sort":6,"title":"我会更加努力","url":"https://www.bilibili.com/bangumi/play/ep46686","time":"2015-01-27T16:09:20.000Z"}]},{"id":166805,"sort":7,"name":"時間がない、ですか?","sites":[{"site":"bilibili","sort":7,"title":"没时间了吗？","url":"https://www.bilibili.com/bangumi/play/ep46687","time":"2015-01-27T16:09:20.000Z"}]},{"id":166806,"sort":8,"name":"たくさん欲しいんです!","sites":[{"site":"bilibili","sort":8,"title":"我希望拥有更多","url":"https://www.bilibili.com/bangumi/play/ep46688","time":"2015-01-27T16:09:20.000Z"}]},{"id":166807,"sort":9,"name":"それでも…信じてます","sites":[{"site":"bilibili","sort":9,"title":"我还是相信你","url":"https://www.bilibili.com/bangumi/play/ep46689","time":"2015-01-27T16:09:20.000Z"}]},{"id":166808,"sort":10,"name":"メイっぱい","sites":[{"site":"bilibili","sort":10,"title":"很多，很多…","url":"https://www.bilibili.com/bangumi/play/ep46690","time":"2015-01-27T16:09:20.000Z"}]},{"id":659191,"sort":11,"name":"あきらめません","sites":[{"site":"bilibili","sort":11,"title":"永不放弃","url":"https://www.bilibili.com/bangumi/play/ep46691","time":"2015-01-27T16:09:20.000Z"}]}]}
+{
+ "id": "38965",
+ "name": "HAND MAID メイ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2142",
+   "sort": 11
+  }
+ ],
+ "eps": [
+  {
+   "id": 166799,
+   "sort": 1,
+   "name": "はじめまして!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "初次见面",
+     "url": "https://www.bilibili.com/bangumi/play/ep46681",
+     "time": "2015-01-27T16:09:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 166800,
+   "sort": 2,
+   "name": "お役に立ってるのかな?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "我有帮上忙吗？",
+     "url": "https://www.bilibili.com/bangumi/play/ep46682",
+     "time": "2015-01-27T16:09:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 166801,
+   "sort": 3,
+   "name": "どうしましょう…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "怎么办呢？",
+     "url": "https://www.bilibili.com/bangumi/play/ep46683",
+     "time": "2015-01-27T16:09:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 166802,
+   "sort": 4,
+   "name": "見ないでください!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "不要看我",
+     "url": "https://www.bilibili.com/bangumi/play/ep46684",
+     "time": "2015-01-27T16:09:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 166803,
+   "sort": 5,
+   "name": "今日まで…本当に…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "谢谢你的照顾",
+     "url": "https://www.bilibili.com/bangumi/play/ep46685",
+     "time": "2015-01-27T16:09:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 166804,
+   "sort": 6,
+   "name": "もっともっと!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "我会更加努力",
+     "url": "https://www.bilibili.com/bangumi/play/ep46686",
+     "time": "2015-01-27T16:09:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 166805,
+   "sort": 7,
+   "name": "時間がない、ですか?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "没时间了吗？",
+     "url": "https://www.bilibili.com/bangumi/play/ep46687",
+     "time": "2015-01-27T16:09:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 166806,
+   "sort": 8,
+   "name": "たくさん欲しいんです!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "我希望拥有更多",
+     "url": "https://www.bilibili.com/bangumi/play/ep46688",
+     "time": "2015-01-27T16:09:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 166807,
+   "sort": 9,
+   "name": "それでも…信じてます",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "我还是相信你",
+     "url": "https://www.bilibili.com/bangumi/play/ep46689",
+     "time": "2015-01-27T16:09:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 166808,
+   "sort": 10,
+   "name": "メイっぱい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "很多，很多…",
+     "url": "https://www.bilibili.com/bangumi/play/ep46690",
+     "time": "2015-01-27T16:09:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 659191,
+   "sort": 11,
+   "name": "あきらめません",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "永不放弃",
+     "url": "https://www.bilibili.com/bangumi/play/ep46691",
+     "time": "2015-01-27T16:09:20.000Z"
+    }
+   ]
+  }
+ ]
+}

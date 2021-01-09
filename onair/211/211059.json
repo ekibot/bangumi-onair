@@ -1,1 +1,181 @@
-{"id":"211059","name":"十二大戦","sites":[{"site":"bilibili","id":"6420","sort":12}],"eps":[{"id":709444,"sort":1,"name":"猪も七代目には豚になる","sites":[{"site":"bilibili","sort":1,"title":"猪之七代亦为豚","url":"https://www.bilibili.com/bangumi/play/ep115030","time":"2017-10-03T15:00:00.000Z"}]},{"id":709445,"sort":2,"name":"鶏鳴狗盗","sites":[{"site":"bilibili","sort":2,"title":"鸡鸣狗盗","url":"https://www.bilibili.com/bangumi/play/ep115031","time":"2017-10-10T15:00:00.000Z"}]},{"id":709446,"sort":3,"name":"牛刀をもって鶏を裂く","sites":[{"site":"bilibili","sort":3,"title":"杀鸡焉用牛刀","url":"https://www.bilibili.com/bangumi/play/ep115032","time":"2017-10-17T15:00:00.000Z"}]},{"id":709447,"sort":4,"name":"敵もさる者ひっかく者","sites":[{"site":"bilibili","sort":4,"title":"猴爪亦非省油灯","url":"https://www.bilibili.com/bangumi/play/ep115033","time":"2017-10-24T15:00:00.000Z"}]},{"id":709448,"sort":5,"name":"羊の皮をかぶった狼","sites":[{"site":"bilibili","sort":5,"title":"披着羊皮的狼","url":"https://www.bilibili.com/bangumi/play/ep115034","time":"2017-10-31T15:00:00.000Z"}]},{"id":709449,"sort":6,"name":"千里の馬も蹴躓く","sites":[{"site":"bilibili","sort":6,"title":"千里之马 亦有失足","url":"https://www.bilibili.com/bangumi/play/ep115035","time":"2017-11-07T15:00:01.000Z"}]},{"id":709450,"sort":7,"name":"竜頭蛇尾（先攻）","sites":[{"site":"bilibili","sort":7,"title":"龙头蛇尾（先攻）","url":"https://www.bilibili.com/bangumi/play/ep115036","time":"2017-11-14T15:00:00.000Z"}]},{"id":709451,"sort":8,"name":"竜頭蛇尾（後攻）","sites":[{"site":"bilibili","sort":8,"title":"龙头蛇尾（后攻）","url":"https://www.bilibili.com/bangumi/play/ep115037","time":"2017-11-21T15:00:00.000Z"}]},{"id":709452,"sort":9,"name":"二兎追う者は一兎も得ず","sites":[{"site":"bilibili","sort":9,"title":"追二兔不得一兔","url":"https://www.bilibili.com/bangumi/play/ep115038","time":"2017-11-28T15:00:00.000Z"}]},{"id":709453,"sort":10,"name":"虎は死んで皮を残す","sites":[{"site":"bilibili","sort":10,"title":"虎死留皮","url":"https://www.bilibili.com/bangumi/play/ep115039","time":"2017-12-05T15:00:00.000Z"}]},{"id":709454,"sort":11,"name":"人の牛蒡で法事する","sites":[{"site":"bilibili","sort":11,"title":"借人牛蒡做法事","url":"https://www.bilibili.com/bangumi/play/ep115040","time":"2017-12-12T15:00:00.000Z"}]},{"id":709455,"sort":12,"name":"どうしても叶えたいたったひとつの願いと割とそうでもない99の願い","sites":[{"site":"bilibili","sort":12,"title":"无论如何也想实现的唯一一个愿望","url":"https://www.bilibili.com/bangumi/play/ep115041","time":"2017-12-19T15:00:00.000Z"}]}]}
+{
+ "id": "211059",
+ "name": "十二大戦",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6420",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 709444,
+   "sort": 1,
+   "name": "猪も七代目には豚になる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "猪之七代亦为豚",
+     "url": "https://www.bilibili.com/bangumi/play/ep115030",
+     "time": "2017-10-03T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 709445,
+   "sort": 2,
+   "name": "鶏鳴狗盗",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "鸡鸣狗盗",
+     "url": "https://www.bilibili.com/bangumi/play/ep115031",
+     "time": "2017-10-10T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 709446,
+   "sort": 3,
+   "name": "牛刀をもって鶏を裂く",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "杀鸡焉用牛刀",
+     "url": "https://www.bilibili.com/bangumi/play/ep115032",
+     "time": "2017-10-17T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 709447,
+   "sort": 4,
+   "name": "敵もさる者ひっかく者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "猴爪亦非省油灯",
+     "url": "https://www.bilibili.com/bangumi/play/ep115033",
+     "time": "2017-10-24T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 709448,
+   "sort": 5,
+   "name": "羊の皮をかぶった狼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "披着羊皮的狼",
+     "url": "https://www.bilibili.com/bangumi/play/ep115034",
+     "time": "2017-10-31T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 709449,
+   "sort": 6,
+   "name": "千里の馬も蹴躓く",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "千里之马 亦有失足",
+     "url": "https://www.bilibili.com/bangumi/play/ep115035",
+     "time": "2017-11-07T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 709450,
+   "sort": 7,
+   "name": "竜頭蛇尾（先攻）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "龙头蛇尾（先攻）",
+     "url": "https://www.bilibili.com/bangumi/play/ep115036",
+     "time": "2017-11-14T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 709451,
+   "sort": 8,
+   "name": "竜頭蛇尾（後攻）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "龙头蛇尾（后攻）",
+     "url": "https://www.bilibili.com/bangumi/play/ep115037",
+     "time": "2017-11-21T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 709452,
+   "sort": 9,
+   "name": "二兎追う者は一兎も得ず",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "追二兔不得一兔",
+     "url": "https://www.bilibili.com/bangumi/play/ep115038",
+     "time": "2017-11-28T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 709453,
+   "sort": 10,
+   "name": "虎は死んで皮を残す",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "虎死留皮",
+     "url": "https://www.bilibili.com/bangumi/play/ep115039",
+     "time": "2017-12-05T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 709454,
+   "sort": 11,
+   "name": "人の牛蒡で法事する",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "借人牛蒡做法事",
+     "url": "https://www.bilibili.com/bangumi/play/ep115040",
+     "time": "2017-12-12T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 709455,
+   "sort": 12,
+   "name": "どうしても叶えたいたったひとつの願いと割とそうでもない99の願い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "无论如何也想实现的唯一一个愿望",
+     "url": "https://www.bilibili.com/bangumi/play/ep115041",
+     "time": "2017-12-19T15:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

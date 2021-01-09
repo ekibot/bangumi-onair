@@ -1,1 +1,203 @@
-{"id":"94040","name":"無彩限のファントム・ワールド","sites":[],"eps":[{"id":596779,"sort":1,"name":"ファントムの時代","sites":[{"site":"acfun","sort":1,"title":"怪灵的时代","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723346","time":"2020-04-28T10:00:00.000Z"}]},{"id":596780,"sort":2,"name":"迷惑UFOをやっつけろ","sites":[{"site":"acfun","sort":2,"title":"干翻那个麻烦的UFO！","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723347","time":"2020-04-28T10:00:00.000Z"}]},{"id":596781,"sort":3,"name":"記憶コピペ作戦","sites":[{"site":"acfun","sort":3,"title":"记忆复制粘贴作战","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723348","time":"2020-04-28T10:00:00.000Z"}]},{"id":596782,"sort":4,"name":"模造家族","sites":[{"site":"acfun","sort":4,"title":"仿造家族","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723349","time":"2020-04-28T10:00:00.000Z"}]},{"id":596783,"sort":5,"name":"特異能力が使えない！","sites":[{"site":"acfun","sort":5,"title":"特异能力无法使用！","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723356","time":"2020-04-28T10:00:00.000Z"}]},{"id":596784,"sort":6,"name":"久瑠美とぬいぐるみ王国","sites":[{"site":"acfun","sort":6,"title":"久瑠美和玩偶王国","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723342","time":"2020-04-28T10:00:00.000Z"}]},{"id":596785,"sort":7,"name":"シュレーディンガーの猫屋敷","sites":[{"site":"acfun","sort":7,"title":"薛定谔的猫屋","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723343","time":"2020-04-28T10:00:00.000Z"}]},{"id":596786,"sort":8,"name":"猿温泉を突破せよ！","sites":[{"site":"acfun","sort":8,"title":"突破猴子温泉！","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723351","time":"2020-04-28T10:00:00.000Z"}]},{"id":596787,"sort":9,"name":"幕末ファントム異聞","sites":[{"site":"acfun","sort":9,"title":"幕末怪灵异闻","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723344","time":"2020-04-28T10:00:00.000Z"}]},{"id":596788,"sort":10,"name":"小さいルルの大きな夢","sites":[{"site":"acfun","sort":10,"title":"小露露的大梦想","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723352","time":"2020-04-28T10:00:00.000Z"}]},{"id":596789,"sort":11,"name":"ちびっ子晴彦くん","sites":[{"site":"acfun","sort":11,"title":"小个子的晴彦君","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723353","time":"2020-04-28T10:00:00.000Z"}]},{"id":596790,"sort":12,"name":"母は帰りぬ","sites":[{"site":"acfun","sort":12,"title":"妈妈回来了","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723357","time":"2020-04-28T10:00:00.000Z"}]},{"id":603200,"sort":13,"name":"永遠のファントム・ワールド","sites":[{"site":"acfun","sort":13,"title":"永远的怪灵世界","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723358","time":"2020-04-28T10:00:00.000Z"}]},{"id":603201,"sort":14,"name":"水玉の奇跡","sites":[{"site":"acfun","sort":14,"title":"水珠的奇迹","url":"https://www.acfun.cn/bangumi/ab6002227_36188_1723345","time":"2020-04-28T10:00:00.000Z"}]}]}
+{
+ "id": "94040",
+ "name": "無彩限のファントム・ワールド",
+ "sites": [],
+ "eps": [
+  {
+   "id": 596779,
+   "sort": 1,
+   "name": "ファントムの時代",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "怪灵的时代",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723346",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596780,
+   "sort": 2,
+   "name": "迷惑UFOをやっつけろ",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 2,
+     "title": "干翻那个麻烦的UFO！",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723347",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596781,
+   "sort": 3,
+   "name": "記憶コピペ作戦",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 3,
+     "title": "记忆复制粘贴作战",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723348",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596782,
+   "sort": 4,
+   "name": "模造家族",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 4,
+     "title": "仿造家族",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723349",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596783,
+   "sort": 5,
+   "name": "特異能力が使えない！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 5,
+     "title": "特异能力无法使用！",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723356",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596784,
+   "sort": 6,
+   "name": "久瑠美とぬいぐるみ王国",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 6,
+     "title": "久瑠美和玩偶王国",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723342",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596785,
+   "sort": 7,
+   "name": "シュレーディンガーの猫屋敷",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 7,
+     "title": "薛定谔的猫屋",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723343",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596786,
+   "sort": 8,
+   "name": "猿温泉を突破せよ！",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 8,
+     "title": "突破猴子温泉！",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723351",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596787,
+   "sort": 9,
+   "name": "幕末ファントム異聞",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 9,
+     "title": "幕末怪灵异闻",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723344",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596788,
+   "sort": 10,
+   "name": "小さいルルの大きな夢",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 10,
+     "title": "小露露的大梦想",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723352",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596789,
+   "sort": 11,
+   "name": "ちびっ子晴彦くん",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 11,
+     "title": "小个子的晴彦君",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723353",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 596790,
+   "sort": 12,
+   "name": "母は帰りぬ",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 12,
+     "title": "妈妈回来了",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723357",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 603200,
+   "sort": 13,
+   "name": "永遠のファントム・ワールド",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 13,
+     "title": "永远的怪灵世界",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723358",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 603201,
+   "sort": 14,
+   "name": "水玉の奇跡",
+   "sites": [
+    {
+     "site": "acfun",
+     "sort": 14,
+     "title": "水珠的奇迹",
+     "url": "https://www.acfun.cn/bangumi/ab6002227_36188_1723345",
+     "time": "2020-04-28T10:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

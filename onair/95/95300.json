@@ -1,0 +1,39 @@
+{
+ "id": "95300",
+ "name": "ワンダーモモ",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "e3795faaa03b11e3a705",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 368641,
+   "sort": 1,
+   "name": "敵は女子高生にお任せあれ!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 敌人就交给女子高中生!",
+     "url": "https://v.youku.com/v_show/id_XNjc4ODk5Nzc2.html?s=e3795faaa03b11e3a705"
+    }
+   ]
+  },
+  {
+   "id": 368642,
+   "sort": 2,
+   "name": "敵はアイドルがお好き?",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 敌人喜欢偶像?",
+     "url": "https://v.youku.com/v_show/id_XNjgwNTY3Njk2.html?s=e3795faaa03b11e3a705"
+    }
+   ]
+  }
+ ]
+}

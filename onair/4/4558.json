@@ -1,1 +1,50 @@
-{"id":"4558","name":"ドラえもん のび太の人魚大海戦","sites":[{"site":"qq","id":"z/z8alyhrvkd3jp2y","sort":32},{"site":"iqiyi","id":"a_19rrh6mk3l","sort":1},{"site":"bilibili","id":"3883","sort":1}],"eps":[{"id":660078,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"1980：大雄的恐龙王国","url":"https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"},{"site":"iqiyi","sort":1,"title":"大雄的人鱼大海战","url":"http://www.iqiyi.com/v_19rr0kdq34.html","time":"2018-05-31T16:00:21.000Z"},{"site":"bilibili","sort":1,"title":"哆啦A梦：大雄的人鱼大海战","url":"https://www.bilibili.com/bangumi/play/ep86838","time":"2016-04-28T02:49:00.000Z"}]}]}
+{
+ "id": "4558",
+ "name": "ドラえもん のび太の人魚大海戦",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "z/z8alyhrvkd3jp2y",
+   "sort": 31
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh6mk3l",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "3883",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 660078,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "1980：大雄与小恐龙",
+     "url": "https://v.qq.com/x/cover/z8alyhrvkd3jp2y/v0014vi8idx.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "大雄的人鱼大海战",
+     "url": "http://www.iqiyi.com/v_19rr0kdq34.html",
+     "time": "2018-05-31T16:00:21.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "哆啦A梦：大雄的人鱼大海战",
+     "url": "https://www.bilibili.com/bangumi/play/ep86838",
+     "time": "2016-04-28T02:49:00.000Z"
+    }
+   ]
+  }
+ ]
+}

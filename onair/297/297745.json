@@ -1,1 +1,125 @@
-{"id":"297745","name":"むぎゅっと！ブラッククローバー","sites":[{"site":"bilibili","id":"28226981","sort":8},{"site":"iqiyi","id":"a_19rrhwxael","sort":8}],"eps":[{"id":925615,"sort":1,"name":"教えて魔法帝！ 魔法帝になるには どうしたらいいの！？","sites":[{"site":"bilibili","sort":1,"title":"告诉我魔法帝！怎么做才能当上魔法帝呢！？","url":"https://www.bilibili.com/bangumi/play/ep307779","time":"2019-12-31T16:00:03.000Z"},{"site":"iqiyi","sort":1,"title":"Q版！黑色四叶草 第1集","url":"http://www.iqiyi.com/v_19rwef5oag.html","time":"2019-12-31T16:00:08.000Z"}]},{"id":925616,"sort":2,"name":"流れ星のスター","sites":[{"site":"bilibili","sort":2,"title":"流星star","url":"https://www.bilibili.com/bangumi/play/ep307780","time":"2019-12-31T16:00:03.000Z"},{"site":"iqiyi","sort":2,"title":"Q版！黑色四叶草 第2集","url":"http://www.iqiyi.com/v_19rwef5oy8.html","time":"2019-12-31T16:00:07.000Z"}]},{"id":925617,"sort":3,"name":"実績をミルフィーユのように 積み上げるのら、 ららのらららのら！","sites":[{"site":"bilibili","sort":3,"title":"要让实绩像千层派一样堆积上去！","url":"https://www.bilibili.com/bangumi/play/ep307781","time":"2019-12-31T16:00:03.000Z"},{"site":"iqiyi","sort":3,"title":"Q版！黑色四叶草 第3集","url":"http://www.iqiyi.com/v_19rwef5oes.html","time":"2019-12-31T16:00:07.000Z"}]},{"id":925618,"sort":4,"name":"ヘベレケ魔女の横で ナンパ魔法騎士は悪夢を見る","sites":[{"site":"bilibili","sort":4,"title":"醉酒的魔女旁边 有个爱搭讪的魔法骑士在做恶梦","url":"https://www.bilibili.com/bangumi/play/ep307782","time":"2019-12-31T16:00:03.000Z"},{"site":"iqiyi","sort":4,"title":"Q版！黑色四叶草 第4集","url":"http://www.iqiyi.com/v_19rwef5p10.html","time":"2019-12-31T16:00:12.000Z"}]},{"id":925619,"sort":5,"name":"マリー・マイラブ","sites":[{"site":"bilibili","sort":5,"title":"玛莉·我的爱","url":"https://www.bilibili.com/bangumi/play/ep307783","time":"2019-12-31T16:00:03.000Z"},{"site":"iqiyi","sort":5,"title":"Q版！黑色四叶草 第5集","url":"http://www.iqiyi.com/v_19rwef5ohw.html","time":"2019-12-31T16:00:06.000Z"}]},{"id":925620,"sort":6,"name":"どきどきノエル　 だって私は王族よ","sites":[{"site":"bilibili","sort":6,"title":"心跳诺艾尔 因为我是王族","url":"https://www.bilibili.com/bangumi/play/ep307784","time":"2019-12-31T16:00:03.000Z"},{"site":"iqiyi","sort":6,"title":"Q版！黑色四叶草 第6集","url":"http://www.iqiyi.com/v_19rwef5ong.html","time":"2019-12-31T16:00:05.000Z"}]},{"id":925621,"sort":7,"name":"魔神大戦勃発（うそ）","sites":[{"site":"bilibili","sort":7,"title":"魔神大战爆发（并没有）","url":"https://www.bilibili.com/bangumi/play/ep307785","time":"2019-12-31T16:00:03.000Z"},{"site":"iqiyi","sort":7,"title":"Q版！黑色四叶草 第7集","url":"http://www.iqiyi.com/v_19rwef5ors.html","time":"2019-12-31T16:00:05.000Z"}]},{"id":925622,"sort":8,"name":"アスタよ、永遠に・・・","sites":[{"site":"bilibili","sort":8,"title":"亚斯塔啊，永垂不朽…","url":"https://www.bilibili.com/bangumi/play/ep307786","time":"2019-12-31T16:00:03.000Z"},{"site":"iqiyi","sort":8,"title":"Q版！黑色四叶草 第8集","url":"http://www.iqiyi.com/v_19rwef5p1c.html","time":"2019-12-31T16:00:07.000Z"}]}]}
+{
+ "id": "297745",
+ "name": "むぎゅっと！ブラッククローバー",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28226981",
+   "sort": 8
+  }
+ ],
+ "eps": [
+  {
+   "id": 925615,
+   "sort": 1,
+   "name": "教えて魔法帝！ 魔法帝になるには どうしたらいいの！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "告诉我魔法帝！怎么做才能当上魔法帝呢！？",
+     "url": "https://www.bilibili.com/bangumi/play/ep307779",
+     "time": "2019-12-31T16:00:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 925616,
+   "sort": 2,
+   "name": "流れ星のスター",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "流星star",
+     "url": "https://www.bilibili.com/bangumi/play/ep307780",
+     "time": "2019-12-31T16:00:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 925617,
+   "sort": 3,
+   "name": "実績をミルフィーユのように 積み上げるのら、 ららのらららのら！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "要让实绩像千层派一样堆积上去！",
+     "url": "https://www.bilibili.com/bangumi/play/ep307781",
+     "time": "2019-12-31T16:00:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 925618,
+   "sort": 4,
+   "name": "ヘベレケ魔女の横で ナンパ魔法騎士は悪夢を見る",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "醉酒的魔女旁边 有个爱搭讪的魔法骑士在做恶梦",
+     "url": "https://www.bilibili.com/bangumi/play/ep307782",
+     "time": "2019-12-31T16:00:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 925619,
+   "sort": 5,
+   "name": "マリー・マイラブ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "玛莉·我的爱",
+     "url": "https://www.bilibili.com/bangumi/play/ep307783",
+     "time": "2019-12-31T16:00:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 925620,
+   "sort": 6,
+   "name": "どきどきノエル　 だって私は王族よ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "心跳诺艾尔 因为我是王族",
+     "url": "https://www.bilibili.com/bangumi/play/ep307784",
+     "time": "2019-12-31T16:00:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 925621,
+   "sort": 7,
+   "name": "魔神大戦勃発（うそ）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "魔神大战爆发（并没有）",
+     "url": "https://www.bilibili.com/bangumi/play/ep307785",
+     "time": "2019-12-31T16:00:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 925622,
+   "sort": 8,
+   "name": "アスタよ、永遠に・・・",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "亚斯塔啊，永垂不朽…",
+     "url": "https://www.bilibili.com/bangumi/play/ep307786",
+     "time": "2019-12-31T16:00:03.000Z"
+    }
+   ]
+  }
+ ]
+}

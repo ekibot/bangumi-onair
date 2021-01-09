@@ -1,1 +1,27 @@
-{"id":"47725","name":"トワノクオン 第二章 混沌の蘭舞","sites":[{"site":"bilibili","id":"4472","sort":6}],"eps":[{"id":258123,"sort":2,"name":"トワノクオン 第二章 混沌の蘭舞","sites":[{"site":"bilibili","sort":2,"title":"第二章 混沌之兰舞","url":"https://www.bilibili.com/bangumi/play/ep92709","time":"2016-07-18T05:50:00.000Z"}]}]}
+{
+ "id": "47725",
+ "name": "トワノクオン 第二章 混沌の蘭舞",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4472",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 258123,
+   "sort": 2,
+   "name": "トワノクオン 第二章 混沌の蘭舞",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "第二章 混沌之兰舞",
+     "url": "https://www.bilibili.com/bangumi/play/ep92709",
+     "time": "2016-07-18T05:50:00.000Z"
+    }
+   ]
+  }
+ ]
+}

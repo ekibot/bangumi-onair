@@ -1,1 +1,125 @@
-{"id":"181880","name":"クビキリサイクル 青色サヴァンと戯言遣い","sites":[{"site":"bilibili","id":"5621","sort":8}],"eps":[{"id":658822,"sort":1,"name":"三日目(1) サヴァンの群青","sites":[{"site":"bilibili","sort":1,"title":"第三天(1) 群青色的学者","url":"https://www.bilibili.com/bangumi/play/ep97013","time":"2016-10-26T02:31:21.000Z"}]},{"id":658823,"sort":2,"name":"三日目(2) 集合と算数","sites":[{"site":"bilibili","sort":2,"title":"第三天(2) 集合与算数","url":"https://www.bilibili.com/bangumi/play/ep97464","time":"2016-12-07T04:22:34.000Z"}]},{"id":658824,"sort":3,"name":"四日目(1) 首斬り 一つ","sites":[{"site":"bilibili","sort":3,"title":"第四天(1) 斩首之一","url":"https://www.bilibili.com/bangumi/play/ep101128","time":"2017-01-27T03:22:04.000Z"}]},{"id":658825,"sort":4,"name":"四日目(2) 0.14の悲劇","sites":[{"site":"bilibili","sort":4,"title":"第四天(2) 0.14的悲剧","url":"https://www.bilibili.com/bangumi/play/ep102107","time":"2017-02-27T02:34:56.000Z"}]},{"id":658826,"sort":5,"name":"五日目(1) 首斬り二つ","sites":[{"site":"bilibili","sort":5,"title":"第五天(1) 斩首之二","url":"https://www.bilibili.com/bangumi/play/ep103430","time":"2017-03-31T04:03:31.000Z"}]},{"id":658827,"sort":6,"name":"五日目(2) 嘘","sites":[{"site":"bilibili","sort":6,"title":"第五天(2) 嘘","url":"https://www.bilibili.com/bangumi/play/ep108131","time":"2017-06-02T03:00:30.000Z"}]},{"id":658828,"sort":7,"name":"五日目(3) 鴉の濡れ羽","sites":[{"site":"bilibili","sort":7,"title":"第五天(3) 鸦濡羽","url":"https://www.bilibili.com/bangumi/play/ep114440","time":"2017-08-31T07:20:00.000Z"}]},{"id":658829,"sort":8,"name":"一週間後 分岐／後日談 まっかなおとぎばなし","sites":[{"site":"bilibili","sort":8,"title":"一星期后  分歧/后日谈  纯属童话","url":"https://www.bilibili.com/bangumi/play/ep114792","time":"2017-09-27T09:00:00.000Z"}]}]}
+{
+ "id": "181880",
+ "name": "クビキリサイクル 青色サヴァンと戯言遣い",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5621",
+   "sort": 8
+  }
+ ],
+ "eps": [
+  {
+   "id": 658822,
+   "sort": 1,
+   "name": "三日目(1) サヴァンの群青",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "第三天(1) 群青色的学者",
+     "url": "https://www.bilibili.com/bangumi/play/ep97013",
+     "time": "2016-10-26T02:31:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 658823,
+   "sort": 2,
+   "name": "三日目(2) 集合と算数",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "第三天(2) 集合与算数",
+     "url": "https://www.bilibili.com/bangumi/play/ep97464",
+     "time": "2016-12-07T04:22:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 658824,
+   "sort": 3,
+   "name": "四日目(1) 首斬り 一つ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "第四天(1) 斩首之一",
+     "url": "https://www.bilibili.com/bangumi/play/ep101128",
+     "time": "2017-01-27T03:22:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 658825,
+   "sort": 4,
+   "name": "四日目(2) 0.14の悲劇",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "第四天(2) 0.14的悲剧",
+     "url": "https://www.bilibili.com/bangumi/play/ep102107",
+     "time": "2017-02-27T02:34:56.000Z"
+    }
+   ]
+  },
+  {
+   "id": 658826,
+   "sort": 5,
+   "name": "五日目(1) 首斬り二つ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "第五天(1) 斩首之二",
+     "url": "https://www.bilibili.com/bangumi/play/ep103430",
+     "time": "2017-03-31T04:03:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 658827,
+   "sort": 6,
+   "name": "五日目(2) 嘘",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "第五天(2) 嘘",
+     "url": "https://www.bilibili.com/bangumi/play/ep108131",
+     "time": "2017-06-02T03:00:30.000Z"
+    }
+   ]
+  },
+  {
+   "id": 658828,
+   "sort": 7,
+   "name": "五日目(3) 鴉の濡れ羽",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "第五天(3) 鸦濡羽",
+     "url": "https://www.bilibili.com/bangumi/play/ep114440",
+     "time": "2017-08-31T07:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 658829,
+   "sort": 8,
+   "name": "一週間後 分岐／後日談 まっかなおとぎばなし",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "一星期后  分歧/后日谈  纯属童话",
+     "url": "https://www.bilibili.com/bangumi/play/ep114792",
+     "time": "2017-09-27T09:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

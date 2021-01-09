@@ -1,1 +1,181 @@
-{"id":"158415","name":"ダンガンロンパ3-The End of 希望ヶ峰学園-未来編","sites":[{"site":"bilibili","id":"5056","sort":12}],"eps":[{"id":641012,"sort":1,"name":"Third time's the charm","sites":[{"site":"bilibili","sort":1,"title":"事三而功成","url":"https://www.bilibili.com/bangumi/play/ep90846","time":"2016-07-11T15:30:01.000Z"}]},{"id":641013,"sort":2,"name":"Hang the Witch","sites":[{"site":"bilibili","sort":2,"title":"绞杀罪魁","url":"https://www.bilibili.com/bangumi/play/ep92382","time":"2016-07-18T15:30:02.000Z"}]},{"id":641014,"sort":3,"name":"Cruel violence and hollow words","sites":[{"site":"bilibili","sort":3,"title":"残酷的暴力与虚伪的言语","url":"https://www.bilibili.com/bangumi/play/ep92383","time":"2016-07-25T15:30:02.000Z"}]},{"id":641015,"sort":4,"name":"Who is a liar","sites":[{"site":"bilibili","sort":4,"title":"谁是说谎的人","url":"https://www.bilibili.com/bangumi/play/ep92384","time":"2016-08-01T15:30:01.000Z"}]},{"id":641016,"sort":5,"name":"Dreams of distant days","sites":[{"site":"bilibili","sort":5,"title":"昔日之梦","url":"https://www.bilibili.com/bangumi/play/ep92385","time":"2016-08-08T15:30:02.000Z"}]},{"id":641017,"sort":6,"name":"No man is an island","sites":[{"site":"bilibili","sort":6,"title":"没有谁是一座孤岛","url":"https://www.bilibili.com/bangumi/play/ep92386","time":"2016-08-15T15:30:09.000Z"}]},{"id":641018,"sort":7,"name":"Ultra Despair Girls","sites":[{"site":"bilibili","sort":7,"title":"绝对绝望少女","url":"https://www.bilibili.com/bangumi/play/ep92387","time":"2016-08-22T15:30:09.000Z"}]},{"id":641019,"sort":8,"name":"Who Killed Cock Robin","sites":[{"site":"bilibili","sort":8,"title":"谁杀了知更鸟","url":"https://www.bilibili.com/bangumi/play/ep92388","time":"2016-08-29T15:30:10.000Z"}]},{"id":641020,"sort":9,"name":"You are my reason to Die","sites":[{"site":"bilibili","sort":9,"title":"你是我甘愿赴死的理由","url":"https://www.bilibili.com/bangumi/play/ep92389","time":"2016-09-05T15:30:09.000Z"}]},{"id":641021,"sort":10,"name":"Death,Destruction,Despair","sites":[{"site":"bilibili","sort":10,"title":"死亡 毁灭 绝望","url":"https://www.bilibili.com/bangumi/play/ep92390","time":"2016-09-12T15:30:09.000Z"}]},{"id":641022,"sort":11,"name":"All good things","sites":[{"site":"bilibili","sort":11,"title":"所有美好的东西","url":"https://www.bilibili.com/bangumi/play/ep92391","time":"2016-09-19T15:30:09.000Z"}]},{"id":641023,"sort":12,"name":"It is always darkest","sites":[{"site":"bilibili","sort":12,"title":"这永远是最黑暗的","url":"https://www.bilibili.com/bangumi/play/ep92392","time":"2016-09-26T15:30:10.000Z"}]}]}
+{
+ "id": "158415",
+ "name": "ダンガンロンパ3-The End of 希望ヶ峰学園-未来編",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5056",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 641012,
+   "sort": 1,
+   "name": "Third time's the charm",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "事三而功成",
+     "url": "https://www.bilibili.com/bangumi/play/ep90846",
+     "time": "2016-07-11T15:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641013,
+   "sort": 2,
+   "name": "Hang the Witch",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "绞杀罪魁",
+     "url": "https://www.bilibili.com/bangumi/play/ep92382",
+     "time": "2016-07-18T15:30:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641014,
+   "sort": 3,
+   "name": "Cruel violence and hollow words",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "残酷的暴力与虚伪的言语",
+     "url": "https://www.bilibili.com/bangumi/play/ep92383",
+     "time": "2016-07-25T15:30:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641015,
+   "sort": 4,
+   "name": "Who is a liar",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "谁是说谎的人",
+     "url": "https://www.bilibili.com/bangumi/play/ep92384",
+     "time": "2016-08-01T15:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641016,
+   "sort": 5,
+   "name": "Dreams of distant days",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "昔日之梦",
+     "url": "https://www.bilibili.com/bangumi/play/ep92385",
+     "time": "2016-08-08T15:30:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641017,
+   "sort": 6,
+   "name": "No man is an island",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "没有谁是一座孤岛",
+     "url": "https://www.bilibili.com/bangumi/play/ep92386",
+     "time": "2016-08-15T15:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641018,
+   "sort": 7,
+   "name": "Ultra Despair Girls",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "绝对绝望少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep92387",
+     "time": "2016-08-22T15:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641019,
+   "sort": 8,
+   "name": "Who Killed Cock Robin",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "谁杀了知更鸟",
+     "url": "https://www.bilibili.com/bangumi/play/ep92388",
+     "time": "2016-08-29T15:30:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641020,
+   "sort": 9,
+   "name": "You are my reason to Die",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "你是我甘愿赴死的理由",
+     "url": "https://www.bilibili.com/bangumi/play/ep92389",
+     "time": "2016-09-05T15:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641021,
+   "sort": 10,
+   "name": "Death,Destruction,Despair",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "死亡 毁灭 绝望",
+     "url": "https://www.bilibili.com/bangumi/play/ep92390",
+     "time": "2016-09-12T15:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641022,
+   "sort": 11,
+   "name": "All good things",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "所有美好的东西",
+     "url": "https://www.bilibili.com/bangumi/play/ep92391",
+     "time": "2016-09-19T15:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 641023,
+   "sort": 12,
+   "name": "It is always darkest",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "这永远是最黑暗的",
+     "url": "https://www.bilibili.com/bangumi/play/ep92392",
+     "time": "2016-09-26T15:30:10.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,27 @@
-{"id":"84719","name":"となりの関くん OAD","sites":[{"site":"bilibili","id":"4230","sort":1}],"eps":[{"id":353145,"sort":1,"name":"棒倒し/猫","sites":[{"site":"bilibili","sort":1,"title":"倒杆/猫","url":"https://www.bilibili.com/bangumi/play/ep88636","time":"2016-05-31T06:43:32.000Z"}]}]}
+{
+ "id": "84719",
+ "name": "となりの関くん OAD",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4230",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 353145,
+   "sort": 1,
+   "name": "棒倒し/猫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "倒杆/猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep88636",
+     "time": "2016-05-31T06:43:32.000Z"
+    }
+   ]
+  }
+ ]
+}

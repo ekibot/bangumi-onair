@@ -1,1 +1,27 @@
-{"id":"508","name":"茄子 アンダルシアの夏","sites":[{"site":"qq","id":"p/phdveh4l16eaonj","sort":1},{"site":"bilibili","id":"2622","sort":1}],"eps":[{"id":722833,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"茄子：安达卢西亚之夏_01","url":"https://v.qq.com/x/cover/phdveh4l16eaonj/b00178r09pw.html"},{"site":"bilibili","sort":1,"title":"茄子·安达卢西亚之夏","url":"https://www.bilibili.com/bangumi/play/ep63847","time":"2015-07-03T07:26:35.000Z"}]}]}
+{
+ "id": "508",
+ "name": "茄子 アンダルシアの夏",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2622",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 722833,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "茄子·安达卢西亚之夏",
+     "url": "https://www.bilibili.com/bangumi/play/ep63847",
+     "time": "2015-07-03T07:26:35.000Z"
+    }
+   ]
+  }
+ ]
+}

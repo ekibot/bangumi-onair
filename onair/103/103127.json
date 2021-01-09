@@ -1,1 +1,181 @@
-{"id":"103127","name":"デンキ街の本屋さん","sites":[{"site":"bilibili","id":"282","sort":12}],"eps":[{"id":432246,"sort":1,"name":"ラブ&amp;エロス フォー オール/ナイトメア ビフォア カルナバル","sites":[{"site":"bilibili","sort":1,"title":"一切都是为了爱&色色/祭典前的恶梦","url":"https://www.bilibili.com/bangumi/play/ep5741","time":"2014-10-02T15:30:01.000Z"}]},{"id":435891,"sort":2,"name":"Deep Deep Night/デンキ街は燃えているか","sites":[{"site":"bilibili","sort":2,"title":"很深很深的夜/电器街燃起来了吗","url":"https://www.bilibili.com/bangumi/play/ep5740","time":"2014-10-09T15:30:02.000Z"}]},{"id":435892,"sort":3,"name":"Party Hard/ひおたんよ家に帰れ/エンドレス・カルナバル","sites":[{"site":"bilibili","sort":3,"title":"努力派对/小日啊 回去吧/永无止境・嘉年华","url":"https://www.bilibili.com/bangumi/play/ep5739","time":"2014-10-16T15:30:03.000Z"}]},{"id":435893,"sort":4,"name":"キングオブPOP/chocolate panic","sites":[{"site":"bilibili","sort":4,"title":"宣传之王/巧克力风波","url":"https://www.bilibili.com/bangumi/play/ep5738","time":"2014-10-23T15:30:04.000Z"}]},{"id":435894,"sort":5,"name":"春にパンチラ/I am Rain/ざわめき","sites":[{"site":"bilibili","sort":5,"title":"春天的裙底风光/I am Rain/喧嚣","url":"https://www.bilibili.com/bangumi/play/ep6396","time":"2014-10-30T15:30:05.000Z"}]},{"id":435895,"sort":6,"name":"宿はなし/Secret Paradise","sites":[{"site":"bilibili","sort":6,"title":"无家可归/秘密天堂","url":"https://www.bilibili.com/bangumi/play/ep11331","time":"2014-11-06T15:30:06.000Z"}]},{"id":435896,"sort":7,"name":"いざ銭湯へ……/胸がいっぱい","sites":[{"site":"bilibili","sort":7,"title":"前往澡堂……/胸部满满","url":"https://www.bilibili.com/bangumi/play/ep16301","time":"2014-11-13T15:30:07.000Z"}]},{"id":435897,"sort":8,"name":"眠る人/ラフさりげなく","sites":[{"site":"bilibili","sort":8,"title":"犯困之人/随意若无其事","url":"https://www.bilibili.com/bangumi/play/ep20143","time":"2014-11-20T15:30:08.000Z"}]},{"id":435898,"sort":9,"name":"Koijanaino/やあ、調子はどうだい/雪の降る夜","sites":[{"site":"bilibili","sort":9,"title":"才不是恋爱呢/哎呀、状态怎么样/降雪的夜晚","url":"https://www.bilibili.com/bangumi/play/ep21368","time":"2014-11-27T15:30:09.000Z"}]},{"id":435899,"sort":10,"name":"ワンダフル・チョコレート／chocolate philosophy／飴色の部屋／眠れぬ夜につかまえた","sites":[{"site":"bilibili","sort":10,"title":"棒棒・巧克力/巧克力哲学/糖稀色的房间/抓住不眠之夜","url":"https://www.bilibili.com/bangumi/play/ep25482","time":"2014-12-04T15:30:10.000Z"}]},{"id":435900,"sort":11,"name":"小さな頃から/暴かれた生活/唇のソレ","sites":[{"site":"bilibili","sort":11,"title":"从小时候开始/生活被曝光/嘴唇的触感","url":"https://www.bilibili.com/bangumi/play/ep25543","time":"2014-12-11T15:30:11.000Z"}]},{"id":435901,"sort":12,"name":"隠者の書庫/桜が咲いたら/Welcoming morning","sites":[{"site":"bilibili","sort":12,"title":"隐者的书库/樱花开了/Welcoming morning","url":"https://www.bilibili.com/bangumi/play/ep27843","time":"2014-12-18T15:30:12.000Z"}]}]}
+{
+ "id": "103127",
+ "name": "デンキ街の本屋さん",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "282",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 432246,
+   "sort": 1,
+   "name": "ラブ&amp;エロス フォー オール/ナイトメア ビフォア カルナバル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "一切都是为了爱&色色/祭典前的恶梦",
+     "url": "https://www.bilibili.com/bangumi/play/ep5741",
+     "time": "2014-10-02T15:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 435891,
+   "sort": 2,
+   "name": "Deep Deep Night/デンキ街は燃えているか",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "很深很深的夜/电器街燃起来了吗",
+     "url": "https://www.bilibili.com/bangumi/play/ep5740",
+     "time": "2014-10-09T15:30:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 435892,
+   "sort": 3,
+   "name": "Party Hard/ひおたんよ家に帰れ/エンドレス・カルナバル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "努力派对/小日啊 回去吧/永无止境・嘉年华",
+     "url": "https://www.bilibili.com/bangumi/play/ep5739",
+     "time": "2014-10-16T15:30:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 435893,
+   "sort": 4,
+   "name": "キングオブPOP/chocolate panic",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "宣传之王/巧克力风波",
+     "url": "https://www.bilibili.com/bangumi/play/ep5738",
+     "time": "2014-10-23T15:30:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 435894,
+   "sort": 5,
+   "name": "春にパンチラ/I am Rain/ざわめき",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "春天的裙底风光/I am Rain/喧嚣",
+     "url": "https://www.bilibili.com/bangumi/play/ep6396",
+     "time": "2014-10-30T15:30:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 435895,
+   "sort": 6,
+   "name": "宿はなし/Secret Paradise",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "无家可归/秘密天堂",
+     "url": "https://www.bilibili.com/bangumi/play/ep11331",
+     "time": "2014-11-06T15:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 435896,
+   "sort": 7,
+   "name": "いざ銭湯へ……/胸がいっぱい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "前往澡堂……/胸部满满",
+     "url": "https://www.bilibili.com/bangumi/play/ep16301",
+     "time": "2014-11-13T15:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 435897,
+   "sort": 8,
+   "name": "眠る人/ラフさりげなく",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "犯困之人/随意若无其事",
+     "url": "https://www.bilibili.com/bangumi/play/ep20143",
+     "time": "2014-11-20T15:30:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 435898,
+   "sort": 9,
+   "name": "Koijanaino/やあ、調子はどうだい/雪の降る夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "才不是恋爱呢/哎呀、状态怎么样/降雪的夜晚",
+     "url": "https://www.bilibili.com/bangumi/play/ep21368",
+     "time": "2014-11-27T15:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 435899,
+   "sort": 10,
+   "name": "ワンダフル・チョコレート／chocolate philosophy／飴色の部屋／眠れぬ夜につかまえた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "棒棒・巧克力/巧克力哲学/糖稀色的房间/抓住不眠之夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep25482",
+     "time": "2014-12-04T15:30:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 435900,
+   "sort": 11,
+   "name": "小さな頃から/暴かれた生活/唇のソレ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "从小时候开始/生活被曝光/嘴唇的触感",
+     "url": "https://www.bilibili.com/bangumi/play/ep25543",
+     "time": "2014-12-11T15:30:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 435901,
+   "sort": 12,
+   "name": "隠者の書庫/桜が咲いたら/Welcoming morning",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "隐者的书库/樱花开了/Welcoming morning",
+     "url": "https://www.bilibili.com/bangumi/play/ep27843",
+     "time": "2014-12-18T15:30:12.000Z"
+    }
+   ]
+  }
+ ]
+}

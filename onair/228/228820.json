@@ -1,1 +1,181 @@
-{"id":"228820","name":"Free!－Dive to the Future－","sites":[{"site":"bilibili","id":"102232","sort":12}],"eps":[{"id":762289,"sort":1,"name":"放送直前特番「今からでも分かる『Free!シリーズ』」","sites":[{"site":"bilibili","sort":1,"title":"萌芽的出发起跳！","url":"https://www.bilibili.com/bangumi/play/ep232261","time":"2018-07-11T15:30:00.000Z"}]},{"id":794527,"sort":2,"name":"流星のプロミス！","sites":[{"site":"bilibili","sort":2,"title":"流星的承诺！","url":"https://www.bilibili.com/bangumi/play/ep232262","time":"2018-07-18T15:30:00.000Z"}]},{"id":794528,"sort":3,"name":"異国のフィストスイム！","sites":[{"site":"bilibili","sort":3,"title":"异国的握拳游！","url":"https://www.bilibili.com/bangumi/play/ep232263","time":"2018-07-25T15:30:00.000Z"}]},{"id":794529,"sort":4,"name":"喪失のインターフェア！","sites":[{"site":"bilibili","sort":4,"title":"丧失的妨碍！","url":"https://www.bilibili.com/bangumi/play/ep232264","time":"2018-08-01T15:30:00.000Z"}]},{"id":794530,"sort":5,"name":"兆しのワークアウト！","sites":[{"site":"bilibili","sort":5,"title":"预兆的体能训练！","url":"https://www.bilibili.com/bangumi/play/ep232265","time":"2018-08-08T15:30:00.000Z"}]},{"id":794531,"sort":6,"name":"深淵のマーメイド！","sites":[{"site":"bilibili","sort":6,"title":"深渊的人鱼","url":"https://www.bilibili.com/bangumi/play/ep232266","time":"2018-08-15T15:30:00.000Z"}]},{"id":794532,"sort":7,"name":"孤高のメドレー！","sites":[{"site":"bilibili","sort":7,"title":"孤傲的混合泳","url":"https://www.bilibili.com/bangumi/play/ep232267","time":"2018-08-22T15:30:00.000Z"}]},{"id":794533,"sort":8,"name":"魂のメタモルフォーゼ！","sites":[{"site":"bilibili","sort":8,"title":"灵魂的变形！","url":"https://www.bilibili.com/bangumi/play/ep232268","time":"2018-08-29T15:30:00.000Z"}]},{"id":794534,"sort":9,"name":"夕凪のインターバル！","sites":[{"site":"bilibili","sort":9,"title":"风平浪静的幕间休息","url":"https://www.bilibili.com/bangumi/play/ep232269","time":"2018-09-05T15:30:00.000Z"}]},{"id":794535,"sort":10,"name":"希望のグラブスタート！","sites":[{"site":"bilibili","sort":10,"title":"希望的抓台出发！","url":"https://www.bilibili.com/bangumi/play/ep232270","time":"2018-09-12T15:30:00.000Z"}]},{"id":794536,"sort":11,"name":"集結のストリームライン！","sites":[{"site":"bilibili","sort":11,"title":"集结的流线体型","url":"https://www.bilibili.com/bangumi/play/ep232271","time":"2018-09-19T15:30:00.000Z"}]},{"id":794537,"sort":12,"name":"Dive to the Future！","sites":[{"site":"bilibili","sort":12,"title":"Dive to the Future！","url":"https://www.bilibili.com/bangumi/play/ep232272","time":"2018-09-26T15:30:00.000Z"}]}]}
+{
+ "id": "228820",
+ "name": "Free!－Dive to the Future－",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "102232",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 762289,
+   "sort": 1,
+   "name": "放送直前特番「今からでも分かる『Free!シリーズ』」",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "萌芽的出发起跳！",
+     "url": "https://www.bilibili.com/bangumi/play/ep232261",
+     "time": "2018-07-11T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 794527,
+   "sort": 2,
+   "name": "流星のプロミス！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "流星的承诺！",
+     "url": "https://www.bilibili.com/bangumi/play/ep232262",
+     "time": "2018-07-18T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 794528,
+   "sort": 3,
+   "name": "異国のフィストスイム！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "异国的握拳游！",
+     "url": "https://www.bilibili.com/bangumi/play/ep232263",
+     "time": "2018-07-25T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 794529,
+   "sort": 4,
+   "name": "喪失のインターフェア！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "丧失的妨碍！",
+     "url": "https://www.bilibili.com/bangumi/play/ep232264",
+     "time": "2018-08-01T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 794530,
+   "sort": 5,
+   "name": "兆しのワークアウト！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "预兆的体能训练！",
+     "url": "https://www.bilibili.com/bangumi/play/ep232265",
+     "time": "2018-08-08T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 794531,
+   "sort": 6,
+   "name": "深淵のマーメイド！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "深渊的人鱼",
+     "url": "https://www.bilibili.com/bangumi/play/ep232266",
+     "time": "2018-08-15T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 794532,
+   "sort": 7,
+   "name": "孤高のメドレー！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "孤傲的混合泳",
+     "url": "https://www.bilibili.com/bangumi/play/ep232267",
+     "time": "2018-08-22T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 794533,
+   "sort": 8,
+   "name": "魂のメタモルフォーゼ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "灵魂的变形！",
+     "url": "https://www.bilibili.com/bangumi/play/ep232268",
+     "time": "2018-08-29T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 794534,
+   "sort": 9,
+   "name": "夕凪のインターバル！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "风平浪静的幕间休息",
+     "url": "https://www.bilibili.com/bangumi/play/ep232269",
+     "time": "2018-09-05T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 794535,
+   "sort": 10,
+   "name": "希望のグラブスタート！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "希望的抓台出发！",
+     "url": "https://www.bilibili.com/bangumi/play/ep232270",
+     "time": "2018-09-12T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 794536,
+   "sort": 11,
+   "name": "集結のストリームライン！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "集结的流线体型",
+     "url": "https://www.bilibili.com/bangumi/play/ep232271",
+     "time": "2018-09-19T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 794537,
+   "sort": 12,
+   "name": "Dive to the Future！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "Dive to the Future！",
+     "url": "https://www.bilibili.com/bangumi/play/ep232272",
+     "time": "2018-09-26T15:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

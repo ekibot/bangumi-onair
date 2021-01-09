@@ -1,1 +1,258 @@
-{"id":"2120","name":"藍より青し～縁～","sites":[{"site":"qq","id":"e/elvvgfnye3nmber","sort":25},{"site":"bilibili","id":"2019","sort":13}],"eps":[{"id":12106,"sort":1,"name":"桜春〜おうしゅん〜","sites":[{"site":"qq","sort":1,"title":"青出于蓝第一季01","url":"http://v.youku.com/v_show/id_XMzIwMTExMjYw.html"},{"site":"bilibili","sort":1,"title":"樱春","url":"https://www.bilibili.com/bangumi/play/ep43469","time":"2011-08-23T15:52:22.000Z"}]},{"id":12107,"sort":2,"name":"友垣〜ともがき〜","sites":[{"site":"qq","sort":2,"title":"第02话 友垣","url":"http://v.youku.com/v_show/id_XMzc4MzA0MTY=.html"},{"site":"bilibili","sort":2,"title":"友人","url":"https://www.bilibili.com/bangumi/play/ep43470","time":"2011-08-23T15:52:22.000Z"}]},{"id":12108,"sort":3,"name":"庭球〜ていきゅう〜","sites":[{"site":"qq","sort":3,"title":"青出于蓝第一季03","url":"http://v.youku.com/v_show/id_XMzIwMTEwODQ0.html"},{"site":"bilibili","sort":3,"title":"网球","url":"https://www.bilibili.com/bangumi/play/ep43471","time":"2011-08-23T15:52:22.000Z"}]},{"id":12109,"sort":4,"name":"怪〜もののけ〜","sites":[{"site":"qq","sort":4,"title":"第04话 怪","url":"http://v.youku.com/v_show/id_XMTcyODU3MTc1Mg==.html"},{"site":"bilibili","sort":4,"title":"物怪","url":"https://www.bilibili.com/bangumi/play/ep43472","time":"2011-08-23T15:52:22.000Z"}]},{"id":12110,"sort":5,"name":"洋琴〜ようきん〜","sites":[{"site":"qq","sort":5,"title":"青出于蓝第一季05","url":"http://v.youku.com/v_show/id_XMzc4MzQzMjA=.html"},{"site":"bilibili","sort":5,"title":"钢琴","url":"https://www.bilibili.com/bangumi/play/ep43473","time":"2011-08-23T15:52:22.000Z"}]},{"id":12111,"sort":6,"name":"道程〜どうてい〜","sites":[{"site":"qq","sort":6,"title":"青出于蓝第一季06","url":"http://v.youku.com/v_show/id_XMzc4MzU1MzI=.html"},{"site":"bilibili","sort":6,"title":"行程","url":"https://www.bilibili.com/bangumi/play/ep43474","time":"2011-08-23T15:52:22.000Z"}]},{"id":12112,"sort":7,"name":"避暑〜ひしょ〜","sites":[{"site":"qq","sort":7,"title":"青出于蓝第一季07","url":"http://v.youku.com/v_show/id_XMzQ3ODE3MjA=.html"},{"site":"bilibili","sort":7,"title":"避暑","url":"https://www.bilibili.com/bangumi/play/ep43475","time":"2011-08-23T15:52:22.000Z"}]},{"id":12113,"sort":8,"name":"水魚〜すいぎょ〜","sites":[{"site":"qq","sort":8,"title":"青出于蓝第一季08","url":"http://v.youku.com/v_show/id_XMjgzNDgzNTUy.html"},{"site":"bilibili","sort":8,"title":"鱼水","url":"https://www.bilibili.com/bangumi/play/ep43476","time":"2011-08-23T15:52:22.000Z"}]},{"id":12114,"sort":9,"name":"白妙〜しろたえ〜","sites":[{"site":"qq","sort":9,"title":"青出于蓝第一季09","url":"http://v.youku.com/v_show/id_XMjQ0ODI3MTQ4.html"},{"site":"bilibili","sort":9,"title":"桑皮白布","url":"https://www.bilibili.com/bangumi/play/ep43477","time":"2011-08-23T15:52:22.000Z"}]},{"id":12115,"sort":10,"name":"湯帷子〜ゆかたびら〜","sites":[{"site":"qq","sort":10,"title":"青出于蓝第一季10","url":"http://v.youku.com/v_show/id_XNDkxNzczNTIw.html"},{"site":"bilibili","sort":10,"title":"麻布单衣","url":"https://www.bilibili.com/bangumi/play/ep43478","time":"2011-08-23T15:52:22.000Z"}]},{"id":12116,"sort":11,"name":"月光〜げっこう〜","sites":[{"site":"qq","sort":11,"title":"青出于蓝第一季11","url":"http://v.youku.com/v_show/id_XMjQ0ODI5NzM2.html"},{"site":"bilibili","sort":11,"title":"月光","url":"https://www.bilibili.com/bangumi/play/ep43479","time":"2011-08-23T15:52:22.000Z"}]},{"id":12117,"sort":12,"name":"絆〜きずな〜","sites":[{"site":"qq","sort":12,"title":"青出于蓝第一季12","url":"http://v.youku.com/v_show/id_XMjQ0ODM1OTU2.html"},{"site":"bilibili","sort":12,"title":"羁绊","url":"https://www.bilibili.com/bangumi/play/ep43480","time":"2011-08-23T15:52:22.000Z"}]}]}
+{
+ "id": "2120",
+ "name": "藍より青し～縁～",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "e/elvvgfnye3nmber",
+   "sort": 25
+  },
+  {
+   "site": "bilibili",
+   "id": "2019",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 12106,
+   "sort": 1,
+   "name": "桜春〜おうしゅん〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第01话 桜春",
+     "url": "http://v.youku.com/v_show/id_XMjkwNjY0NTUy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "樱春",
+     "url": "https://www.bilibili.com/bangumi/play/ep43469",
+     "time": "2011-08-23T15:52:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12107,
+   "sort": 2,
+   "name": "友垣〜ともがき〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "☆青出于蓝2～缘☆  02",
+     "url": "http://v.youku.com/v_show/id_XMzAxNTAxOTU2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "友人",
+     "url": "https://www.bilibili.com/bangumi/play/ep43470",
+     "time": "2011-08-23T15:52:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12108,
+   "sort": 3,
+   "name": "庭球〜ていきゅう〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "青出于蓝第一季03",
+     "url": "http://v.youku.com/v_show/id_XMTM4MjQ3ODg=.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "网球",
+     "url": "https://www.bilibili.com/bangumi/play/ep43471",
+     "time": "2011-08-23T15:52:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12109,
+   "sort": 4,
+   "name": "怪〜もののけ〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "青出于蓝第一季04",
+     "url": "http://v.youku.com/v_show/id_XMjQ0ODA2ODky.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "物怪",
+     "url": "https://www.bilibili.com/bangumi/play/ep43472",
+     "time": "2011-08-23T15:52:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12110,
+   "sort": 5,
+   "name": "洋琴〜ようきん〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "青出于蓝第一季05",
+     "url": "http://v.youku.com/v_show/id_XMjk0Njg1OTI=.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "钢琴",
+     "url": "https://www.bilibili.com/bangumi/play/ep43473",
+     "time": "2011-08-23T15:52:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12111,
+   "sort": 6,
+   "name": "道程〜どうてい〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "青出于蓝第一季06",
+     "url": "http://v.youku.com/v_show/id_XMzc5MDI1ODg=.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "行程",
+     "url": "https://www.bilibili.com/bangumi/play/ep43474",
+     "time": "2011-08-23T15:52:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12112,
+   "sort": 7,
+   "name": "避暑〜ひしょ〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "青出于蓝第一季07",
+     "url": "http://v.youku.com/v_show/id_XNjY1OTMzNDA=.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "避暑",
+     "url": "https://www.bilibili.com/bangumi/play/ep43475",
+     "time": "2011-08-23T15:52:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12113,
+   "sort": 8,
+   "name": "水魚〜すいぎょ〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "青出于蓝第一季08",
+     "url": "http://v.youku.com/v_show/id_XMjE2ODc0NTY0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "鱼水",
+     "url": "https://www.bilibili.com/bangumi/play/ep43476",
+     "time": "2011-08-23T15:52:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12114,
+   "sort": 9,
+   "name": "白妙〜しろたえ〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "青出于蓝第一季09",
+     "url": "http://v.youku.com/v_show/id_XMjgzNTU4MDI0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "桑皮白布",
+     "url": "https://www.bilibili.com/bangumi/play/ep43477",
+     "time": "2011-08-23T15:52:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12115,
+   "sort": 10,
+   "name": "湯帷子〜ゆかたびら〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "青出于蓝第一季10",
+     "url": "http://v.youku.com/v_show/id_XMzIwMTY1MTA4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "麻布单衣",
+     "url": "https://www.bilibili.com/bangumi/play/ep43478",
+     "time": "2011-08-23T15:52:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12116,
+   "sort": 11,
+   "name": "月光〜げっこう〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "青出于蓝第一季11",
+     "url": "http://v.youku.com/v_show/id_XMjgzNTYwMTA4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "月光",
+     "url": "https://www.bilibili.com/bangumi/play/ep43479",
+     "time": "2011-08-23T15:52:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 12117,
+   "sort": 12,
+   "name": "絆〜きずな〜",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "【可乐上传】青出于蓝 缘12",
+     "url": "http://v.youku.com/v_show/id_XMzQ3OTk0ODA=.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "羁绊",
+     "url": "https://www.bilibili.com/bangumi/play/ep43480",
+     "time": "2011-08-23T15:52:22.000Z"
+    }
+   ]
+  }
+ ]
+}

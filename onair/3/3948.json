@@ -1,1 +1,73 @@
-{"id":"3948","name":"舞-乙HiME 0 ~S.ifr~","sites":[{"site":"qq","id":"g/g1q6xq8nstooltu","sort":3}],"eps":[{"id":28593,"sort":1,"name":"よそ見してると死にますよ","sites":[{"site":"qq","sort":1,"title":"舞-乙HIME 0~S.ifr~ OVA_01","url":"https://v.qq.com/x/cover/g1q6xq8nstooltu/o0033gknss3.html"},{"site":"acfun","sort":1,"title":"分神的话就会死哦","url":"https://www.acfun.cn/bangumi/ab6002267_36188_1723906","time":"2020-04-30T16:00:00.000Z"}]},{"id":28594,"sort":2,"name":"ヒメとヲトメ","sites":[{"site":"qq","sort":2,"title":"舞-乙HIME 0~S.ifr~ OVA_02","url":"https://v.qq.com/x/cover/g1q6xq8nstooltu/d0033qx6z9e.html"},{"site":"acfun","sort":2,"title":"HiME与乙HiME","url":"https://www.acfun.cn/bangumi/ab6002267_36188_1723907","time":"2020-04-30T16:00:00.000Z"}]},{"id":28595,"sort":3,"name":"わたしは生きたいのよ","sites":[{"site":"qq","sort":3,"title":"舞-乙HIME 0~S.ifr~ OVA_03","url":"https://v.qq.com/x/cover/g1q6xq8nstooltu/j0033k41ljb.html"},{"site":"acfun","sort":3,"title":"我想活下去啊","url":"https://www.acfun.cn/bangumi/ab6002267_36188_1723908","time":"2020-04-30T16:00:00.000Z"}]}]}
+{
+ "id": "3948",
+ "name": "舞-乙HiME 0 ~S.ifr~",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "g/g1q6xq8nstooltu",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 28593,
+   "sort": 1,
+   "name": "よそ見してると死にますよ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "舞-乙HIME 0~S.ifr~ OVA_01",
+     "url": "https://v.qq.com/x/cover/g1q6xq8nstooltu/o0033gknss3.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "分神的话就会死哦",
+     "url": "https://www.acfun.cn/bangumi/ab6002267_36188_1723906",
+     "time": "2020-04-30T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28594,
+   "sort": 2,
+   "name": "ヒメとヲトメ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "舞-乙HIME 0~S.ifr~ OVA_02",
+     "url": "https://v.qq.com/x/cover/g1q6xq8nstooltu/d0033qx6z9e.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 2,
+     "title": "HiME与乙HiME",
+     "url": "https://www.acfun.cn/bangumi/ab6002267_36188_1723907",
+     "time": "2020-04-30T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 28595,
+   "sort": 3,
+   "name": "わたしは生きたいのよ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "舞-乙HIME 0~S.ifr~ OVA_03",
+     "url": "https://v.qq.com/x/cover/g1q6xq8nstooltu/j0033k41ljb.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 3,
+     "title": "我想活下去啊",
+     "url": "https://www.acfun.cn/bangumi/ab6002267_36188_1723908",
+     "time": "2020-04-30T16:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

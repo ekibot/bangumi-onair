@@ -1,1 +1,55 @@
-{"id":"74206","name":"バカ・ミゼラブル","sites":[{"site":"bilibili","id":"679","sort":3}],"eps":[{"id":274016,"sort":1,"name":"お父さん篇 ～悲しみのトイレ～","sites":[{"site":"bilibili","sort":1,"title":"父上篇 ～悲伤的厕所～","url":"https://www.bilibili.com/bangumi/play/ep12385","time":"2013-05-22T15:22:07.000Z"}]},{"id":274017,"sort":2,"name":"息子篇 ～怒りの同窓会～","sites":[{"site":"bilibili","sort":2,"title":"儿子篇～愤怒的同学会~","url":"https://www.bilibili.com/bangumi/play/ep12384","time":"2013-06-11T17:56:49.000Z"}]},{"id":274018,"sort":3,"name":"お母さん篇 ～嘆きのヘアー","sites":[{"site":"bilibili","sort":3,"title":"母上篇 ~叹息的发型~","url":"https://www.bilibili.com/bangumi/play/ep12383","time":"2013-06-30T14:45:08.000Z"}]}]}
+{
+ "id": "74206",
+ "name": "バカ・ミゼラブル",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "679",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 274016,
+   "sort": 1,
+   "name": "お父さん篇 ～悲しみのトイレ～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "父上篇 ～悲伤的厕所～",
+     "url": "https://www.bilibili.com/bangumi/play/ep12385",
+     "time": "2013-05-22T15:22:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 274017,
+   "sort": 2,
+   "name": "息子篇 ～怒りの同窓会～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "儿子篇～愤怒的同学会~",
+     "url": "https://www.bilibili.com/bangumi/play/ep12384",
+     "time": "2013-06-11T17:56:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 274018,
+   "sort": 3,
+   "name": "お母さん篇 ～嘆きのヘアー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "母上篇 ~叹息的发型~",
+     "url": "https://www.bilibili.com/bangumi/play/ep12383",
+     "time": "2013-06-30T14:45:08.000Z"
+    }
+   ]
+  }
+ ]
+}

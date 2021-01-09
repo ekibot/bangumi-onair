@@ -1,1 +1,280 @@
-{"id":"165553","name":"ラブライブ！サンシャイン!!","sites":[{"site":"bilibili","id":"5062","sort":13},{"site":"qq","id":"g/g6jw8dxf8zg5x88","week":6,"time":"2200","sort":13}],"eps":[{"id":645214,"sort":1,"name":"輝きたい！！","sites":[{"site":"bilibili","sort":1,"title":"想要闪闪发亮","url":"https://www.bilibili.com/bangumi/play/ep90819","time":"2016-07-02T14:00:02.000Z"},{"site":"qq","sort":1,"title":"LoveLive! SunShine!!_01","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/y0020a1ah1r.html"}]},{"id":645215,"sort":2,"name":"転校生をつかまえろ！","sites":[{"site":"bilibili","sort":2,"title":"抓住转学生吧！","url":"https://www.bilibili.com/bangumi/play/ep90925","time":"2016-07-09T14:00:02.000Z"},{"site":"qq","sort":2,"title":"LoveLive! SunShine!!_02","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/b0020sgky9b.html"}]},{"id":645216,"sort":3,"name":"ファーストステップ","sites":[{"site":"bilibili","sort":3,"title":"First Step","url":"https://www.bilibili.com/bangumi/play/ep90926","time":"2016-07-16T14:00:02.000Z"},{"site":"qq","sort":3,"title":"LoveLive! SunShine!!_03","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/l0020hut6zn.html"}]},{"id":645217,"sort":4,"name":"ふたりのキモチ","sites":[{"site":"bilibili","sort":4,"title":"两人的心情","url":"https://www.bilibili.com/bangumi/play/ep90927","time":"2016-07-23T14:00:01.000Z"},{"site":"qq","sort":4,"title":"LoveLive! SunShine!!_04","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/z0020apizsx.html"}]},{"id":645218,"sort":5,"name":"ヨハネ堕天","sites":[{"site":"bilibili","sort":5,"title":"夜羽堕天","url":"https://www.bilibili.com/bangumi/play/ep90928","time":"2016-07-30T14:00:02.000Z"},{"site":"qq","sort":5,"title":"LoveLive! SunShine!!_05","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/k0021q0lq7v.html"}]},{"id":645219,"sort":6,"name":"PVを作ろう","sites":[{"site":"bilibili","sort":6,"title":"来做PV吧！","url":"https://www.bilibili.com/bangumi/play/ep90929","time":"2016-08-06T14:00:02.000Z"},{"site":"qq","sort":6,"title":"LoveLive! SunShine!!_06","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/m0021io5ty0.html"}]},{"id":645220,"sort":7,"name":"TOKYO","sites":[{"site":"bilibili","sort":7,"title":"TOKYO","url":"https://www.bilibili.com/bangumi/play/ep90930","time":"2016-08-13T14:04:39.000Z"},{"site":"qq","sort":7,"title":"LoveLive! SunShine!!_07","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/z0021rquur2.html"}]},{"id":645221,"sort":8,"name":"くやしくないの？","sites":[{"site":"bilibili","sort":8,"title":"不懊悔吗","url":"https://www.bilibili.com/bangumi/play/ep90931","time":"2016-08-20T14:00:00.000Z"},{"site":"qq","sort":8,"title":"LoveLive! SunShine!!_08","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/v0021u8slyx.html"}]},{"id":645222,"sort":9,"name":"未熟DREAMER","sites":[{"site":"bilibili","sort":9,"title":"不成熟的DREAMER","url":"https://www.bilibili.com/bangumi/play/ep90932","time":"2016-08-27T14:00:10.000Z"},{"site":"qq","sort":9,"title":"LoveLive! SunShine!!_09","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/c0021xl0tnx.html"}]},{"id":645223,"sort":10,"name":"シャイ煮はじめました","sites":[{"site":"bilibili","sort":10,"title":"开始Shiny","url":"https://www.bilibili.com/bangumi/play/ep90933","time":"2016-09-03T14:00:10.000Z"},{"site":"qq","sort":10,"title":"LoveLive! SunShine!!_10","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/d0021y10ppp.html"}]},{"id":645224,"sort":11,"name":"友情ヨーソロー","sites":[{"site":"bilibili","sort":11,"title":"友情直直前进","url":"https://www.bilibili.com/bangumi/play/ep90934","time":"2016-09-10T14:00:00.000Z"},{"site":"qq","sort":11,"title":"LoveLive! SunShine!!_11","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/x0021x92ucn.html"}]},{"id":645225,"sort":12,"name":"はばたきのとき","sites":[{"site":"bilibili","sort":12,"title":"振翅飞翔之时","url":"https://www.bilibili.com/bangumi/play/ep90946","time":"2016-09-17T14:00:10.000Z"},{"site":"qq","sort":12,"title":"LoveLive! SunShine!!_12","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/k0021exhwer.html"}]},{"id":646193,"sort":13,"name":"サンシャイン!!","sites":[{"site":"bilibili","sort":13,"title":"Sunshine!!","url":"https://www.bilibili.com/bangumi/play/ep95907","time":"2016-09-24T14:00:10.000Z"},{"site":"qq","sort":13,"title":"LoveLive! Sunshine!!_13","url":"https://v.qq.com/x/cover/g6jw8dxf8zg5x88/o0021kzkdvx.html"}]}]}
+{
+ "id": "165553",
+ "name": "ラブライブ！サンシャイン!!",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5062",
+   "sort": 13
+  },
+  {
+   "site": "qq",
+   "id": "g/g6jw8dxf8zg5x88",
+   "week": 6,
+   "time": "2200",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 645214,
+   "sort": 1,
+   "name": "輝きたい！！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "想要闪闪发亮",
+     "url": "https://www.bilibili.com/bangumi/play/ep90819",
+     "time": "2016-07-02T14:00:02.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "想要闪闪发亮",
+     "url": "http://bangumi.bilibili.com/anime/v/90819"
+    }
+   ]
+  },
+  {
+   "id": 645215,
+   "sort": 2,
+   "name": "転校生をつかまえろ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "抓住转学生吧！",
+     "url": "https://www.bilibili.com/bangumi/play/ep90925",
+     "time": "2016-07-09T14:00:02.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "抓住转学生吧！",
+     "url": "http://bangumi.bilibili.com/anime/v/90925"
+    }
+   ]
+  },
+  {
+   "id": 645216,
+   "sort": 3,
+   "name": "ファーストステップ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "First Step",
+     "url": "https://www.bilibili.com/bangumi/play/ep90926",
+     "time": "2016-07-16T14:00:02.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "First Step",
+     "url": "http://bangumi.bilibili.com/anime/v/90926"
+    }
+   ]
+  },
+  {
+   "id": 645217,
+   "sort": 4,
+   "name": "ふたりのキモチ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "两人的心情",
+     "url": "https://www.bilibili.com/bangumi/play/ep90927",
+     "time": "2016-07-23T14:00:01.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "两人的心情",
+     "url": "http://bangumi.bilibili.com/anime/v/90927"
+    }
+   ]
+  },
+  {
+   "id": 645218,
+   "sort": 5,
+   "name": "ヨハネ堕天",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "夜羽堕天",
+     "url": "https://www.bilibili.com/bangumi/play/ep90928",
+     "time": "2016-07-30T14:00:02.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "夜羽堕天",
+     "url": "http://bangumi.bilibili.com/anime/v/90928"
+    }
+   ]
+  },
+  {
+   "id": 645219,
+   "sort": 6,
+   "name": "PVを作ろう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "来做PV吧！",
+     "url": "https://www.bilibili.com/bangumi/play/ep90929",
+     "time": "2016-08-06T14:00:02.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "来做PV吧！",
+     "url": "http://bangumi.bilibili.com/anime/v/90929"
+    }
+   ]
+  },
+  {
+   "id": 645220,
+   "sort": 7,
+   "name": "TOKYO",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "TOKYO",
+     "url": "https://www.bilibili.com/bangumi/play/ep90930",
+     "time": "2016-08-13T14:04:39.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "TOKYO",
+     "url": "http://bangumi.bilibili.com/anime/v/90930"
+    }
+   ]
+  },
+  {
+   "id": 645221,
+   "sort": 8,
+   "name": "くやしくないの？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "不懊悔吗",
+     "url": "https://www.bilibili.com/bangumi/play/ep90931",
+     "time": "2016-08-20T14:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "不懊悔吗",
+     "url": "http://bangumi.bilibili.com/anime/v/90931"
+    }
+   ]
+  },
+  {
+   "id": 645222,
+   "sort": 9,
+   "name": "未熟DREAMER",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "不成熟的DREAMER",
+     "url": "https://www.bilibili.com/bangumi/play/ep90932",
+     "time": "2016-08-27T14:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "不成熟的DREAMER",
+     "url": "http://bangumi.bilibili.com/anime/v/90932"
+    }
+   ]
+  },
+  {
+   "id": 645223,
+   "sort": 10,
+   "name": "シャイ煮はじめました",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "开始Shiny",
+     "url": "https://www.bilibili.com/bangumi/play/ep90933",
+     "time": "2016-09-03T14:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "开始Shiny",
+     "url": "http://bangumi.bilibili.com/anime/v/90933"
+    }
+   ]
+  },
+  {
+   "id": 645224,
+   "sort": 11,
+   "name": "友情ヨーソロー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "友情直直前进",
+     "url": "https://www.bilibili.com/bangumi/play/ep90934",
+     "time": "2016-09-10T14:00:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "友情直直前进",
+     "url": "http://bangumi.bilibili.com/anime/v/90934"
+    }
+   ]
+  },
+  {
+   "id": 645225,
+   "sort": 12,
+   "name": "はばたきのとき",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "振翅飞翔之时",
+     "url": "https://www.bilibili.com/bangumi/play/ep90946",
+     "time": "2016-09-17T14:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "振翅飞翔之时",
+     "url": "http://bangumi.bilibili.com/anime/v/90946"
+    }
+   ]
+  },
+  {
+   "id": 646193,
+   "sort": 13,
+   "name": "サンシャイン!!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "Sunshine!!",
+     "url": "https://www.bilibili.com/bangumi/play/ep95907",
+     "time": "2016-09-24T14:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "Sunshine!!",
+     "url": "http://bangumi.bilibili.com/anime/v/95907"
+    }
+   ]
+  }
+ ]
+}

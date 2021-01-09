@@ -1,1 +1,27 @@
-{"id":"192637","name":"拡張少女系トライナリー","sites":[{"site":"bilibili","id":"6069","sort":29}],"eps":[{"id":713024,"sort":1,"name":"Act1","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep104024","time":"2017-04-14T02:53:13.000Z"}]}]}
+{
+ "id": "192637",
+ "name": "拡張少女系トライナリー",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6069",
+   "sort": 29
+  }
+ ],
+ "eps": [
+  {
+   "id": 713024,
+   "sort": 1,
+   "name": "Act1",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep104024",
+     "time": "2017-04-14T02:53:13.000Z"
+    }
+   ]
+  }
+ ]
+}

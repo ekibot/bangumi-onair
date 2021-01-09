@@ -1,1 +1,349 @@
-{"id":"132981","name":"神撃のバハムート VIRGIN SOUL","sites":[{"site":"bilibili","id":"5968","sort":24}],"eps":[{"id":624664,"sort":1,"name":"Red Dragon","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep103950","time":"2017-04-08T02:11:11.000Z"}]},{"id":624665,"sort":2,"name":"The Miserables","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep104086","time":"2017-04-16T01:34:54.000Z"}]},{"id":624666,"sort":3,"name":"Close Encounter","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep104264","time":"2017-04-22T01:36:46.000Z"}]},{"id":624667,"sort":4,"name":"Firestarter","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep105002","time":"2017-04-29T07:19:58.000Z"}]},{"id":624668,"sort":5,"name":"Those Who Won't Give Up","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep105230","time":"2017-05-07T02:21:15.000Z"}]},{"id":624669,"sort":6,"name":"Anatean Holiday","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep106413","time":"2017-05-13T02:16:34.000Z"}]},{"id":624670,"sort":7,"name":"The Day of Victory","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep107121","time":"2017-05-20T02:21:22.000Z"}]},{"id":624671,"sort":8,"name":"The Day of Defeat","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep107801","time":"2017-05-27T10:42:42.000Z"}]},{"id":624672,"sort":9,"name":"Same Old, Same Old","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep108220","time":"2017-06-03T03:07:06.000Z"}]},{"id":624673,"sort":10,"name":"The Way She Was","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep111480","time":"2017-06-10T04:55:32.000Z"}]},{"id":624674,"sort":11,"name":"Declaration of  War","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep112865","time":"2017-06-17T02:52:59.000Z"}]},{"id":624675,"sort":12,"name":"The Great Escape","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep113014","time":"2017-06-24T03:20:02.000Z"}]},{"id":624676,"sort":13,"name":"A Farewell to Arms","sites":[{"site":"bilibili","sort":13,"title":"","url":"https://www.bilibili.com/bangumi/play/ep113224","time":"2017-07-02T11:51:30.000Z"}]},{"id":624677,"sort":14,"name":"Homecoming","sites":[{"site":"bilibili","sort":14,"title":"","url":"https://www.bilibili.com/bangumi/play/ep113508","time":"2017-07-08T08:29:08.000Z"}]},{"id":624678,"sort":15,"name":"City of the Gods, Part 1","sites":[{"site":"bilibili","sort":15,"title":"","url":"https://www.bilibili.com/bangumi/play/ep113677","time":"2017-07-15T03:33:36.000Z"}]},{"id":624679,"sort":16,"name":"City of the Gods, Part 2","sites":[{"site":"bilibili","sort":16,"title":"","url":"https://www.bilibili.com/bangumi/play/ep113798","time":"2017-07-25T13:24:26.000Z"}]},{"id":624680,"sort":17,"name":"Virgin Souls","sites":[{"site":"bilibili","sort":17,"title":"","url":"https://www.bilibili.com/bangumi/play/ep113900","time":"2017-07-29T09:20:16.000Z"}]},{"id":624681,"sort":18,"name":"Invictus","sites":[{"site":"bilibili","sort":18,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114124","time":"2017-08-19T07:30:29.000Z"}]},{"id":624682,"sort":19,"name":"Shall We Dance？","sites":[{"site":"bilibili","sort":19,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114372","time":"2017-08-26T02:17:00.000Z"}]},{"id":624683,"sort":20,"name":"From Heaven to Hell","sites":[{"site":"bilibili","sort":20,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114467","time":"2017-09-02T18:36:00.000Z"}]},{"id":624684,"sort":21,"name":"Vengeance","sites":[{"site":"bilibili","sort":21,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114550","time":"2017-09-09T07:11:00.000Z"}]},{"id":624685,"sort":22,"name":"Which Way Is the Wind Blowing?","sites":[{"site":"bilibili","sort":22,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114668","time":"2017-09-18T11:30:00.000Z"}]},{"id":624686,"sort":23,"name":"Rise of the Nightmare","sites":[{"site":"bilibili","sort":23,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114751","time":"2017-09-26T02:02:00.000Z"}]},{"id":624687,"sort":24,"name":"Run, Nina, Run","sites":[{"site":"bilibili","sort":24,"title":"","url":"https://www.bilibili.com/bangumi/play/ep115059","time":"2017-10-02T02:15:00.000Z"}]}]}
+{
+ "id": "132981",
+ "name": "神撃のバハムート VIRGIN SOUL",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5968",
+   "sort": 24
+  }
+ ],
+ "eps": [
+  {
+   "id": 624664,
+   "sort": 1,
+   "name": "Red Dragon",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep103950",
+     "time": "2017-04-08T02:11:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624665,
+   "sort": 2,
+   "name": "The Miserables",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep104086",
+     "time": "2017-04-16T01:34:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624666,
+   "sort": 3,
+   "name": "Close Encounter",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep104264",
+     "time": "2017-04-22T01:36:46.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624667,
+   "sort": 4,
+   "name": "Firestarter",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep105002",
+     "time": "2017-04-29T07:19:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624668,
+   "sort": 5,
+   "name": "Those Who Won't Give Up",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep105230",
+     "time": "2017-05-07T02:21:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624669,
+   "sort": 6,
+   "name": "Anatean Holiday",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep106413",
+     "time": "2017-05-13T02:16:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624670,
+   "sort": 7,
+   "name": "The Day of Victory",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep107121",
+     "time": "2017-05-20T02:21:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624671,
+   "sort": 8,
+   "name": "The Day of Defeat",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep107801",
+     "time": "2017-05-27T10:42:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624672,
+   "sort": 9,
+   "name": "Same Old, Same Old",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep108220",
+     "time": "2017-06-03T03:07:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624673,
+   "sort": 10,
+   "name": "The Way She Was",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep111480",
+     "time": "2017-06-10T04:55:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624674,
+   "sort": 11,
+   "name": "Declaration of  War",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep112865",
+     "time": "2017-06-17T02:52:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624675,
+   "sort": 12,
+   "name": "The Great Escape",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep113014",
+     "time": "2017-06-24T03:20:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624676,
+   "sort": 13,
+   "name": "A Farewell to Arms",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep113224",
+     "time": "2017-07-02T11:51:30.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624677,
+   "sort": 14,
+   "name": "Homecoming",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep113508",
+     "time": "2017-07-08T08:29:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624678,
+   "sort": 15,
+   "name": "City of the Gods, Part 1",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep113677",
+     "time": "2017-07-15T03:33:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624679,
+   "sort": 16,
+   "name": "City of the Gods, Part 2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep113798",
+     "time": "2017-07-25T13:24:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624680,
+   "sort": 17,
+   "name": "Virgin Souls",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep113900",
+     "time": "2017-07-29T09:20:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624681,
+   "sort": 18,
+   "name": "Invictus",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114124",
+     "time": "2017-08-19T07:30:29.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624682,
+   "sort": 19,
+   "name": "Shall We Dance？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114372",
+     "time": "2017-08-26T02:17:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624683,
+   "sort": 20,
+   "name": "From Heaven to Hell",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114467",
+     "time": "2017-09-02T18:36:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624684,
+   "sort": 21,
+   "name": "Vengeance",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114550",
+     "time": "2017-09-09T07:11:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624685,
+   "sort": 22,
+   "name": "Which Way Is the Wind Blowing?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114668",
+     "time": "2017-09-18T11:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624686,
+   "sort": 23,
+   "name": "Rise of the Nightmare",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114751",
+     "time": "2017-09-26T02:02:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 624687,
+   "sort": 24,
+   "name": "Run, Nina, Run",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep115059",
+     "time": "2017-10-02T02:15:00.000Z"
+    }
+   ]
+  }
+ ]
+}

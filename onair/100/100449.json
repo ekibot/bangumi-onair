@@ -1,1 +1,258 @@
-{"id":"100449","name":"月刊少女野崎くん","sites":[{"site":"bilibili","id":"53","sort":12}],"eps":[{"id":405297,"sort":1,"name":"その恋は､少女漫画化されてゆく｡","sites":[{"site":"bilibili","sort":1,"title":"这场恋爱，越来越像少女漫画。","url":"https://www.bilibili.com/bangumi/play/ep770","time":"2014-07-06T17:12:00.000Z"}]},{"id":405298,"sort":2,"name":"新(ニュー)ヒロインをよろしくね♪","sites":[{"site":"bilibili","sort":2,"title":"新的女主角请多指教♪","url":"https://www.bilibili.com/bangumi/play/ep769","time":"2014-07-13T17:12:00.000Z"}]},{"id":405299,"sort":3,"name":"バイオレンスVSプリンス","sites":[{"site":"bilibili","sort":3,"title":"Violence VS Prince","url":"https://www.bilibili.com/bangumi/play/ep768","time":"2014-07-20T17:11:00.000Z"}]},{"id":405300,"sort":4,"name":"男には、戦わねばならない、時がある。","sites":[{"site":"bilibili","sort":4,"title":"男人有时非战斗不可。","url":"https://www.bilibili.com/bangumi/play/ep767","time":"2014-07-27T17:07:00.000Z"}]},{"id":405301,"sort":5,"name":"恋を「思い」「描く」男子。","sites":[{"site":"bilibili","sort":5,"title":"「思考」「描绘」恋情的男子。","url":"https://www.bilibili.com/bangumi/play/ep766","time":"2014-08-03T17:06:00.000Z"}]},{"id":405302,"sort":6,"name":"魔法をかけて、あ・げ・る♡","sites":[{"site":"bilibili","sort":6,"title":"为你・施・加・魔・法❤","url":"https://www.bilibili.com/bangumi/play/ep765","time":"2014-08-10T17:07:00.000Z"}]},{"id":405303,"sort":7,"name":"漫画家脳野崎くん","sites":[{"site":"bilibili","sort":7,"title":"漫画家思维的野崎君","url":"https://www.bilibili.com/bangumi/play/ep764","time":"2014-08-17T17:26:00.000Z"}]},{"id":405304,"sort":8,"name":"学園の王子様（女子）の悩み","sites":[{"site":"bilibili","sort":8,"title":"学园的王子（女生）的烦恼","url":"https://www.bilibili.com/bangumi/play/ep763","time":"2014-08-24T17:05:00.000Z"}]},{"id":405305,"sort":9,"name":"ドキドキ、たりてる？","sites":[{"site":"bilibili","sort":9,"title":"心跳不已的感觉，还足够吗？","url":"https://www.bilibili.com/bangumi/play/ep762","time":"2014-08-31T17:01:00.000Z"}]},{"id":405306,"sort":10,"name":"強まるのは、絆と手綱。","sites":[{"site":"bilibili","sort":10,"title":"加强了羁绊、勒紧了缰绳。","url":"https://www.bilibili.com/bangumi/play/ep761","time":"2014-09-07T17:03:00.000Z"}]},{"id":405307,"sort":11,"name":"米しよっ♡","sites":[{"site":"bilibili","sort":11,"title":"来点米❤","url":"https://www.bilibili.com/bangumi/play/ep760","time":"2014-09-14T16:58:00.000Z"}]},{"id":405308,"sort":12,"name":"この気持ちが恋じゃないなら、きっと世界に恋はない。","sites":[{"site":"bilibili","sort":12,"title":"如果这都不算爱，谈何还有真情在。","url":"https://www.bilibili.com/bangumi/play/ep759","time":"2014-09-21T17:00:00.000Z"}]}]}
+{
+ "id": "100449",
+ "name": "月刊少女野崎くん",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "dde1b9beb26211e3b8b7",
+   "sort": 12
+  },
+  {
+   "site": "bilibili",
+   "id": "53",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 405297,
+   "sort": 1,
+   "name": "その恋は､少女漫画化されてゆく｡",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "创刊号 这场恋情将被改编为少女漫画",
+     "url": "https://v.youku.com/v_show/id_XNzM1ODUyOTY0.html?s=dde1b9beb26211e3b8b7"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "这场恋爱，越来越像少女漫画。",
+     "url": "https://www.bilibili.com/bangumi/play/ep770",
+     "time": "2014-07-06T17:12:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 405298,
+   "sort": 2,
+   "name": "新(ニュー)ヒロインをよろしくね♪",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "新女主角就拜托咯",
+     "url": "https://v.youku.com/v_show/id_XNzM5MDE1NTU2.html?s=dde1b9beb26211e3b8b7"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "新的女主角请多指教♪",
+     "url": "https://www.bilibili.com/bangumi/play/ep769",
+     "time": "2014-07-13T17:12:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 405299,
+   "sort": 3,
+   "name": "バイオレンスVSプリンス",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "暴力学长VS王子殿下",
+     "url": "https://v.youku.com/v_show/id_XNzQyNTEzMjYw.html?s=dde1b9beb26211e3b8b7"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Violence VS Prince",
+     "url": "https://www.bilibili.com/bangumi/play/ep768",
+     "time": "2014-07-20T17:11:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 405300,
+   "sort": 4,
+   "name": "男には、戦わねばならない、時がある。",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "男子汉难免有不得不战的时刻",
+     "url": "https://v.youku.com/v_show/id_XNzQ1ODk1MDc2.html?s=dde1b9beb26211e3b8b7"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "男人有时非战斗不可。",
+     "url": "https://www.bilibili.com/bangumi/play/ep767",
+     "time": "2014-07-27T17:07:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 405301,
+   "sort": 5,
+   "name": "恋を「思い」「描く」男子。",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "思考 描绘 恋情的男子",
+     "url": "https://v.youku.com/v_show/id_XNzQ5MzI1Mzg4.html?s=dde1b9beb26211e3b8b7"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "「思考」「描绘」恋情的男子。",
+     "url": "https://www.bilibili.com/bangumi/play/ep766",
+     "time": "2014-08-03T17:06:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 405302,
+   "sort": 6,
+   "name": "魔法をかけて、あ・げ・る♡",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "对你施展魔法",
+     "url": "https://v.youku.com/v_show/id_XNzUyNTczMTU2.html?s=dde1b9beb26211e3b8b7"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "为你・施・加・魔・法❤",
+     "url": "https://www.bilibili.com/bangumi/play/ep765",
+     "time": "2014-08-10T17:07:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 405303,
+   "sort": 7,
+   "name": "漫画家脳野崎くん",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "漫画家脑的野崎同学",
+     "url": "https://v.youku.com/v_show/id_XNzU2MTQ2Nzc2.html?s=dde1b9beb26211e3b8b7"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "漫画家思维的野崎君",
+     "url": "https://www.bilibili.com/bangumi/play/ep764",
+     "time": "2014-08-17T17:26:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 405304,
+   "sort": 8,
+   "name": "学園の王子様（女子）の悩み",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "校园王子（女生）的烦恼",
+     "url": "https://v.youku.com/v_show/id_XNzYwMjc0MzQw.html?s=dde1b9beb26211e3b8b7"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "学园的王子（女生）的烦恼",
+     "url": "https://www.bilibili.com/bangumi/play/ep763",
+     "time": "2014-08-24T17:05:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 405305,
+   "sort": 9,
+   "name": "ドキドキ、たりてる？",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "心跳感觉够不够？",
+     "url": "https://v.youku.com/v_show/id_XNzY0NTQ4NjI0.html?s=dde1b9beb26211e3b8b7"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "心跳不已的感觉，还足够吗？",
+     "url": "https://www.bilibili.com/bangumi/play/ep762",
+     "time": "2014-08-31T17:01:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 405306,
+   "sort": 10,
+   "name": "強まるのは、絆と手綱。",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "日益坚固的是羁绊和缰绳",
+     "url": "https://v.youku.com/v_show/id_XNzc1MTgyODky.html?s=dde1b9beb26211e3b8b7"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "加强了羁绊、勒紧了缰绳。",
+     "url": "https://www.bilibili.com/bangumi/play/ep761",
+     "time": "2014-09-07T17:03:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 405307,
+   "sort": 11,
+   "name": "米しよっ♡",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "来点米",
+     "url": "https://v.youku.com/v_show/id_XNzgxMjgzODA4.html?s=dde1b9beb26211e3b8b7"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "来点米❤",
+     "url": "https://www.bilibili.com/bangumi/play/ep760",
+     "time": "2014-09-14T16:58:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 405308,
+   "sort": 12,
+   "name": "この気持ちが恋じゃないなら、きっと世界に恋はない。",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "休刊号",
+     "url": "https://v.youku.com/v_show/id_XNzg2Mzg5NTEy.html?s=dde1b9beb26211e3b8b7"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "如果这都不算爱，谈何还有真情在。",
+     "url": "https://www.bilibili.com/bangumi/play/ep759",
+     "time": "2014-09-21T17:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

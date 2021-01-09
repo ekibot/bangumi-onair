@@ -1,0 +1,338 @@
+{
+ "id": "1444",
+ "name": "咲-Saki-",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "6a35f680de5c11de97c0",
+   "sort": 25
+  }
+ ],
+ "eps": [
+  {
+   "id": 5168,
+   "sort": 1,
+   "name": "出会い",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "相遇",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDkwMjQw.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 5169,
+   "sort": 2,
+   "name": "勝負",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "胜负",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDkwMTY0.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 5170,
+   "sort": 3,
+   "name": "対立",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "对立",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDkwMzY4.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 5171,
+   "sort": 4,
+   "name": "翻弄",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "翻弄",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDkxMTQ4.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 5172,
+   "sort": 5,
+   "name": "合宿",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "合宿",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDkxNjIw.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 5173,
+   "sort": 6,
+   "name": "開幕",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "开幕",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDkxMjk2.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 5174,
+   "sort": 7,
+   "name": "伝統",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "传统",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDkyMDY0.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 5175,
+   "sort": 8,
+   "name": "前夜",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "前夜",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDkyMjEy.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 5176,
+   "sort": 9,
+   "name": "開眼",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "开眼",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDkzNDEy.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 5177,
+   "sort": 10,
+   "name": "初心者",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "初学者",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDkyOTgw.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 5178,
+   "sort": 11,
+   "name": "悪戯",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "恶作剧",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDkzMjg0.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 5179,
+   "sort": 12,
+   "name": "目醒め",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "觉醒",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk0MTY4.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 7462,
+   "sort": 13,
+   "name": "微熱",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 13,
+     "title": "微热",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk0MzQ4.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 7566,
+   "sort": 14,
+   "name": "存在",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 14,
+     "title": "存在",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk0NDI4.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 7567,
+   "sort": 15,
+   "name": "魔物",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 15,
+     "title": "魔物",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk1NjI0.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 7568,
+   "sort": 16,
+   "name": "結託",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 16,
+     "title": "合谋",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk2MTg0.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 7569,
+   "sort": 17,
+   "name": "悪夢",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 17,
+     "title": "恶梦",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk2MTY4.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 7570,
+   "sort": 18,
+   "name": "繫がり",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 18,
+     "title": "联系",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk2ODQ4.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 7571,
+   "sort": 19,
+   "name": "友達",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 19,
+     "title": "朋友",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk4NjEy.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 7572,
+   "sort": 20,
+   "name": "姉妹",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 20,
+     "title": "姐妹",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk4MTMy.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 7573,
+   "sort": 21,
+   "name": "追想",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 21,
+     "title": "回忆",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk4MjMy.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 7574,
+   "sort": 22,
+   "name": "約束",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 22,
+     "title": "约定",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk5ODI4.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 7575,
+   "sort": 23,
+   "name": "本気",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 23,
+     "title": "认真",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk5MzA4.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 14226,
+   "sort": 24,
+   "name": "夏祭り",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 24,
+     "title": "夏祭",
+     "url": "https://v.youku.com/v_show/id_XMzY4NDk5OTcy.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  },
+  {
+   "id": 14227,
+   "sort": 25,
+   "name": "全国",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 25,
+     "title": "全国",
+     "url": "https://v.youku.com/v_show/id_XMzY4NTAwNDY4.html?s=6a35f680de5c11de97c0"
+    }
+   ]
+  }
+ ]
+}

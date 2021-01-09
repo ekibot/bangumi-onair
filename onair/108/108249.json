@@ -1,1 +1,55 @@
-{"id":"108249","name":"熱血人面犬 LIFE IS MOVIE","sites":[{"site":"bilibili","id":"4134","sort":3}],"eps":[{"id":412583,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88559","time":"2016-05-27T07:05:02.000Z"}]},{"id":434100,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88560","time":"2016-05-27T07:05:16.000Z"}]},{"id":434101,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88561","time":"2016-05-27T07:05:29.000Z"}]}]}
+{
+ "id": "108249",
+ "name": "熱血人面犬 LIFE IS MOVIE",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4134",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 412583,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88559",
+     "time": "2016-05-27T07:05:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 434100,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88560",
+     "time": "2016-05-27T07:05:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 434101,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88561",
+     "time": "2016-05-27T07:05:29.000Z"
+    }
+   ]
+  }
+ ]
+}

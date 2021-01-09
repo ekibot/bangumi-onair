@@ -1,1 +1,37 @@
-{"id":"27555","name":"クレヨンしんちゃん 嵐を呼ぶ！オラと宇宙のプリンセス","sites":[{"site":"qq","id":"b/bymafsjpccgo4bw","sort":21}],"eps":[{"id":863791,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"蜡笔小新1993剧场版：动感超人大战高叉魔王","url":"https://v.qq.com/x/cover/bymafsjpccgo4bw/x0014he9pm4.html"}]}]}
+{
+ "id": "27555",
+ "name": "クレヨンしんちゃん 嵐を呼ぶ！オラと宇宙のプリンセス",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "b/bymafsjpccgo4bw",
+   "sort": 21
+  },
+  {
+   "site": "youku",
+   "id": "84eabd787a3e11e1b16f",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 863791,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "蜡笔小新1993剧场版：动感超人大战高叉魔王",
+     "url": "https://v.qq.com/x/cover/bymafsjpccgo4bw/x0014he9pm4.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "蜡笔小新2012剧场版 我和我的宇宙公主",
+     "url": "https://v.youku.com/v_show/id_XNDkwNDcwMjI0.html?s=84eabd787a3e11e1b16f"
+    }
+   ]
+  }
+ ]
+}

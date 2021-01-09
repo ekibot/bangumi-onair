@@ -1,1 +1,349 @@
-{"id":"30522","name":"ガンパレード・オーケストラ","sites":[{"site":"bilibili","id":"4992","sort":24}],"eps":[{"id":141574,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"首战","url":"https://www.bilibili.com/bangumi/play/ep90396","time":"2016-06-20T09:35:41.000Z"}]},{"id":141575,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"战争爆发","url":"https://www.bilibili.com/bangumi/play/ep90397","time":"2016-06-20T09:35:41.000Z"}]},{"id":141576,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"太过遥远的路桥","url":"https://www.bilibili.com/bangumi/play/ep90398","time":"2016-06-20T09:35:41.000Z"}]},{"id":141577,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"特别的一天","url":"https://www.bilibili.com/bangumi/play/ep90399","time":"2016-06-20T09:35:41.000Z"}]},{"id":141578,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"地下作战","url":"https://www.bilibili.com/bangumi/play/ep90400","time":"2016-06-20T09:35:41.000Z"}]},{"id":141579,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"黄金七人组","url":"https://www.bilibili.com/bangumi/play/ep90401","time":"2016-06-20T09:35:41.000Z"}]},{"id":141580,"sort":7,"name":"","sites":[{"site":"bilibili","sort":7,"title":"春天将至","url":"https://www.bilibili.com/bangumi/play/ep90402","time":"2016-06-20T09:35:41.000Z"}]},{"id":141581,"sort":8,"name":"","sites":[{"site":"bilibili","sort":8,"title":"未完成的交响乐","url":"https://www.bilibili.com/bangumi/play/ep90403","time":"2016-06-20T09:35:41.000Z"}]},{"id":141582,"sort":9,"name":"","sites":[{"site":"bilibili","sort":9,"title":"战火的彼端","url":"https://www.bilibili.com/bangumi/play/ep90404","time":"2016-06-20T09:35:41.000Z"}]},{"id":141583,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"战争犬","url":"https://www.bilibili.com/bangumi/play/ep90405","time":"2016-06-20T09:35:41.000Z"}]},{"id":141584,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"白昼的决斗","url":"https://www.bilibili.com/bangumi/play/ep90406","time":"2016-06-20T09:35:41.000Z"}]},{"id":141585,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"风平浪静","url":"https://www.bilibili.com/bangumi/play/ep90407","time":"2016-06-20T09:35:41.000Z"}]},{"id":141586,"sort":13,"name":"","sites":[{"site":"bilibili","sort":13,"title":"追踪者","url":"https://www.bilibili.com/bangumi/play/ep90408","time":"2016-06-20T09:35:41.000Z"}]},{"id":141587,"sort":14,"name":"","sites":[{"site":"bilibili","sort":14,"title":"野莓","url":"https://www.bilibili.com/bangumi/play/ep90409","time":"2016-06-20T09:35:41.000Z"}]},{"id":141588,"sort":15,"name":"","sites":[{"site":"bilibili","sort":15,"title":"没有理由的反抗","url":"https://www.bilibili.com/bangumi/play/ep90410","time":"2016-06-20T09:35:41.000Z"}]},{"id":141589,"sort":16,"name":"","sites":[{"site":"bilibili","sort":16,"title":"激战","url":"https://www.bilibili.com/bangumi/play/ep90411","time":"2016-06-20T09:35:41.000Z"}]},{"id":141590,"sort":17,"name":"","sites":[{"site":"bilibili","sort":17,"title":"西部战线无异常","url":"https://www.bilibili.com/bangumi/play/ep90412","time":"2016-06-20T09:35:41.000Z"}]},{"id":141591,"sort":18,"name":"","sites":[{"site":"bilibili","sort":18,"title":"迈入夏天的大门","url":"https://www.bilibili.com/bangumi/play/ep90413","time":"2016-06-20T09:35:41.000Z"}]},{"id":141592,"sort":19,"name":"","sites":[{"site":"bilibili","sort":19,"title":"恋爱行星","url":"https://www.bilibili.com/bangumi/play/ep90414","time":"2016-06-20T09:35:41.000Z"}]},{"id":141593,"sort":20,"name":"","sites":[{"site":"bilibili","sort":20,"title":"祈祷之海","url":"https://www.bilibili.com/bangumi/play/ep90415","time":"2016-06-20T09:35:41.000Z"}]},{"id":141594,"sort":21,"name":"","sites":[{"site":"bilibili","sort":21,"title":"里美的世界","url":"https://www.bilibili.com/bangumi/play/ep90416","time":"2016-06-20T09:35:41.000Z"}]},{"id":141595,"sort":22,"name":"","sites":[{"site":"bilibili","sort":22,"title":"南岛的千寿","url":"https://www.bilibili.com/bangumi/play/ep90417","time":"2016-06-20T09:35:41.000Z"}]},{"id":141596,"sort":23,"name":"","sites":[{"site":"bilibili","sort":23,"title":"马拉松健将","url":"https://www.bilibili.com/bangumi/play/ep90418","time":"2016-06-20T09:35:41.000Z"}]},{"id":141597,"sort":24,"name":"","sites":[{"site":"bilibili","sort":24,"title":"在夏日的尾声","url":"https://www.bilibili.com/bangumi/play/ep90419","time":"2016-06-20T09:35:41.000Z"}]}]}
+{
+ "id": "30522",
+ "name": "ガンパレード・オーケストラ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4992",
+   "sort": 24
+  }
+ ],
+ "eps": [
+  {
+   "id": 141574,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "首战",
+     "url": "https://www.bilibili.com/bangumi/play/ep90396",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141575,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "战争爆发",
+     "url": "https://www.bilibili.com/bangumi/play/ep90397",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141576,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "太过遥远的路桥",
+     "url": "https://www.bilibili.com/bangumi/play/ep90398",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141577,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "特别的一天",
+     "url": "https://www.bilibili.com/bangumi/play/ep90399",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141578,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "地下作战",
+     "url": "https://www.bilibili.com/bangumi/play/ep90400",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141579,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "黄金七人组",
+     "url": "https://www.bilibili.com/bangumi/play/ep90401",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141580,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "春天将至",
+     "url": "https://www.bilibili.com/bangumi/play/ep90402",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141581,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "未完成的交响乐",
+     "url": "https://www.bilibili.com/bangumi/play/ep90403",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141582,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "战火的彼端",
+     "url": "https://www.bilibili.com/bangumi/play/ep90404",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141583,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "战争犬",
+     "url": "https://www.bilibili.com/bangumi/play/ep90405",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141584,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "白昼的决斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep90406",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141585,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "风平浪静",
+     "url": "https://www.bilibili.com/bangumi/play/ep90407",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141586,
+   "sort": 13,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "追踪者",
+     "url": "https://www.bilibili.com/bangumi/play/ep90408",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141587,
+   "sort": 14,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "野莓",
+     "url": "https://www.bilibili.com/bangumi/play/ep90409",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141588,
+   "sort": 15,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "没有理由的反抗",
+     "url": "https://www.bilibili.com/bangumi/play/ep90410",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141589,
+   "sort": 16,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "激战",
+     "url": "https://www.bilibili.com/bangumi/play/ep90411",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141590,
+   "sort": 17,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "西部战线无异常",
+     "url": "https://www.bilibili.com/bangumi/play/ep90412",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141591,
+   "sort": 18,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "迈入夏天的大门",
+     "url": "https://www.bilibili.com/bangumi/play/ep90413",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141592,
+   "sort": 19,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "恋爱行星",
+     "url": "https://www.bilibili.com/bangumi/play/ep90414",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141593,
+   "sort": 20,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "祈祷之海",
+     "url": "https://www.bilibili.com/bangumi/play/ep90415",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141594,
+   "sort": 21,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "里美的世界",
+     "url": "https://www.bilibili.com/bangumi/play/ep90416",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141595,
+   "sort": 22,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "南岛的千寿",
+     "url": "https://www.bilibili.com/bangumi/play/ep90417",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141596,
+   "sort": 23,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "马拉松健将",
+     "url": "https://www.bilibili.com/bangumi/play/ep90418",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 141597,
+   "sort": 24,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "在夏日的尾声",
+     "url": "https://www.bilibili.com/bangumi/play/ep90419",
+     "time": "2016-06-20T09:35:41.000Z"
+    }
+   ]
+  }
+ ]
+}

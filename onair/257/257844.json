@@ -1,1 +1,181 @@
-{"id":"257844","name":"アイドルマスター SideM 理由あってMini!","sites":[{"site":"bilibili","id":"139472","sort":12}],"eps":[{"id":830844,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep251129","time":"2018-10-09T13:54:00.000Z"}]},{"id":830845,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep251130","time":"2018-10-16T13:54:00.000Z"}]},{"id":830846,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep251131","time":"2018-10-23T13:54:00.000Z"}]},{"id":830847,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep251132","time":"2018-10-30T13:54:00.000Z"}]},{"id":830848,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep251133","time":"2018-11-06T13:54:00.000Z"}]},{"id":830849,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep251134","time":"2018-11-13T13:54:00.000Z"}]},{"id":830850,"sort":7,"name":"","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep251135","time":"2018-11-20T13:54:00.000Z"}]},{"id":830851,"sort":8,"name":"","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep251136","time":"2018-11-27T13:54:00.000Z"}]},{"id":830852,"sort":9,"name":"","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep251137","time":"2018-12-04T13:54:00.000Z"}]},{"id":830853,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep251138","time":"2018-12-11T13:54:00.000Z"}]},{"id":830854,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep251139","time":"2018-12-18T13:54:00.000Z"}]},{"id":830855,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep251140","time":"2018-12-25T13:54:00.000Z"}]}]}
+{
+ "id": "257844",
+ "name": "アイドルマスター SideM 理由あってMini!",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "139472",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 830844,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep251129",
+     "time": "2018-10-09T13:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 830845,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep251130",
+     "time": "2018-10-16T13:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 830846,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep251131",
+     "time": "2018-10-23T13:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 830847,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep251132",
+     "time": "2018-10-30T13:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 830848,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep251133",
+     "time": "2018-11-06T13:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 830849,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep251134",
+     "time": "2018-11-13T13:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 830850,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep251135",
+     "time": "2018-11-20T13:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 830851,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep251136",
+     "time": "2018-11-27T13:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 830852,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep251137",
+     "time": "2018-12-04T13:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 830853,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep251138",
+     "time": "2018-12-11T13:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 830854,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep251139",
+     "time": "2018-12-18T13:54:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 830855,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep251140",
+     "time": "2018-12-25T13:54:00.000Z"
+    }
+   ]
+  }
+ ]
+}

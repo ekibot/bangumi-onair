@@ -1,1 +1,83 @@
-{"id":"3341","name":"魔法先生ネギま! ～もうひとつの世界～","sites":[{"site":"bilibili","id":"3773","sort":5}],"eps":[{"id":24222,"sort":1,"name":"壊滅！？ネギ・パーティ！！","sites":[{"site":"bilibili","sort":1,"title":"毁灭!?涅吉党!!","url":"https://www.bilibili.com/bangumi/play/ep86455","time":"2016-04-18T06:13:36.000Z"}]},{"id":24223,"sort":2,"name":"探すぞ僕の仲間たち！","sites":[{"site":"bilibili","sort":2,"title":"要找回我的伙伴们!","url":"https://www.bilibili.com/bangumi/play/ep86456","time":"2016-04-18T06:13:36.000Z"}]},{"id":24224,"sort":3,"name":"新・師弟コンビ誕生","sites":[{"site":"bilibili","sort":3,"title":"新?师徒组合诞生","url":"https://www.bilibili.com/bangumi/play/ep86457","time":"2016-04-18T06:13:36.000Z"}]},{"id":24225,"sort":4,"name":"父の道か、師の道か！？","sites":[{"site":"bilibili","sort":4,"title":"父亲的道路、师傅的道路!?","url":"https://www.bilibili.com/bangumi/play/ep86458","time":"2016-04-18T06:13:36.000Z"}]},{"id":96555,"sort":5,"name":"魔法少女ユエ ♥","sites":[{"site":"bilibili","sort":5,"title":"魔法少女夕映","url":"https://www.bilibili.com/bangumi/play/ep86459","time":"2016-04-18T06:13:36.000Z"}]}]}
+{
+ "id": "3341",
+ "name": "魔法先生ネギま! ～もうひとつの世界～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3773",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 24222,
+   "sort": 1,
+   "name": "壊滅！？ネギ・パーティ！！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "毁灭!?涅吉党!!",
+     "url": "https://www.bilibili.com/bangumi/play/ep86455",
+     "time": "2016-04-18T06:13:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 24223,
+   "sort": 2,
+   "name": "探すぞ僕の仲間たち！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "要找回我的伙伴们!",
+     "url": "https://www.bilibili.com/bangumi/play/ep86456",
+     "time": "2016-04-18T06:13:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 24224,
+   "sort": 3,
+   "name": "新・師弟コンビ誕生",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "新?师徒组合诞生",
+     "url": "https://www.bilibili.com/bangumi/play/ep86457",
+     "time": "2016-04-18T06:13:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 24225,
+   "sort": 4,
+   "name": "父の道か、師の道か！？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "父亲的道路、师傅的道路!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep86458",
+     "time": "2016-04-18T06:13:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 96555,
+   "sort": 5,
+   "name": "魔法少女ユエ ♥",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "魔法少女夕映",
+     "url": "https://www.bilibili.com/bangumi/play/ep86459",
+     "time": "2016-04-18T06:13:36.000Z"
+    }
+   ]
+  }
+ ]
+}

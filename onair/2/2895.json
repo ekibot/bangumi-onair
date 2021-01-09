@@ -1,1 +1,41 @@
-{"id":"2895","name":"ツバサ 春雷記","sites":[{"site":"bilibili","id":"2855","sort":2}],"eps":[{"id":19131,"sort":1,"name":"ツバサ 春雷記＜前編＞","sites":[{"site":"bilibili","sort":1,"title":"翼春雷记 前篇","url":"https://www.bilibili.com/bangumi/play/ep74397","time":"2015-10-15T16:18:00.000Z"}]},{"id":19132,"sort":2,"name":"ツバサ 春雷記＜後編＞","sites":[{"site":"bilibili","sort":2,"title":"翼春雷记 后篇","url":"https://www.bilibili.com/bangumi/play/ep74398","time":"2015-10-15T16:18:00.000Z"}]}]}
+{
+ "id": "2895",
+ "name": "ツバサ 春雷記",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2855",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 19131,
+   "sort": 1,
+   "name": "ツバサ 春雷記＜前編＞",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "翼春雷记 前篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep74397",
+     "time": "2015-10-15T16:18:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 19132,
+   "sort": 2,
+   "name": "ツバサ 春雷記＜後編＞",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "翼春雷记 后篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep74398",
+     "time": "2015-10-15T16:18:00.000Z"
+    }
+   ]
+  }
+ ]
+}

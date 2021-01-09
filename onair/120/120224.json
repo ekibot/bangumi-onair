@@ -1,1 +1,181 @@
-{"id":"120224","name":"緋弾のアリアAA","sites":[{"site":"bilibili","id":"2764","sort":12}],"eps":[{"id":563520,"sort":1,"name":"もう一人のA","sites":[{"site":"bilibili","sort":1,"title":"另一位A","url":"https://www.bilibili.com/bangumi/play/ep70889","time":"2015-10-06T14:30:00.000Z"}]},{"id":563521,"sort":2,"name":"危险な関係","sites":[{"site":"bilibili","sort":2,"title":"危险的关系","url":"https://www.bilibili.com/bangumi/play/ep72089","time":"2015-10-13T14:30:00.000Z"}]},{"id":563522,"sort":3,"name":"戦妹（アミカ）志願","sites":[{"site":"bilibili","sort":3,"title":"战妹志愿","url":"https://www.bilibili.com/bangumi/play/ep74005","time":"2015-10-20T14:30:00.000Z"}]},{"id":563523,"sort":4,"name":"カルテット・前編","sites":[{"site":"bilibili","sort":4,"title":"四重奏・前篇","url":"https://www.bilibili.com/bangumi/play/ep75435","time":"2015-10-27T14:30:00.000Z"}]},{"id":563524,"sort":5,"name":"カルテット・後編","sites":[{"site":"bilibili","sort":5,"title":"四重奏・后篇","url":"https://www.bilibili.com/bangumi/play/ep76136","time":"2015-11-03T14:30:00.000Z"}]},{"id":563525,"sort":6,"name":"小悪魔たちの依頼","sites":[{"site":"bilibili","sort":6,"title":"小恶魔们的委托","url":"https://www.bilibili.com/bangumi/play/ep77350","time":"2015-11-10T14:30:00.000Z"}]},{"id":563526,"sort":7,"name":"あかり争奪戦","sites":[{"site":"bilibili","sort":7,"title":"明里争夺战","url":"https://www.bilibili.com/bangumi/play/ep77691","time":"2015-11-17T14:30:00.000Z"}]},{"id":563527,"sort":8,"name":"プール・トラップ","sites":[{"site":"bilibili","sort":8,"title":"泳池陷阱","url":"https://www.bilibili.com/bangumi/play/ep79219","time":"2015-11-24T14:30:00.000Z"}]},{"id":563528,"sort":9,"name":"家庭訪問","sites":[{"site":"bilibili","sort":9,"title":"家庭访问","url":"https://www.bilibili.com/bangumi/play/ep79985","time":"2015-12-01T14:30:00.000Z"}]},{"id":563529,"sort":10,"name":"ファーストミッション","sites":[{"site":"bilibili","sort":10,"title":"首个任务","url":"https://www.bilibili.com/bangumi/play/ep80732","time":"2015-12-08T14:30:00.000Z"}]},{"id":563530,"sort":11,"name":"決戦","sites":[{"site":"bilibili","sort":11,"title":"决战","url":"https://www.bilibili.com/bangumi/play/ep81514","time":"2015-12-16T02:52:51.000Z"}]},{"id":563531,"sort":12,"name":"二人のA","sites":[{"site":"bilibili","sort":12,"title":"两人的A","url":"https://www.bilibili.com/bangumi/play/ep81854","time":"2015-12-22T14:33:00.000Z"}]}]}
+{
+ "id": "120224",
+ "name": "緋弾のアリアAA",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2764",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 563520,
+   "sort": 1,
+   "name": "もう一人のA",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "另一位A",
+     "url": "https://www.bilibili.com/bangumi/play/ep70889",
+     "time": "2015-10-06T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563521,
+   "sort": 2,
+   "name": "危险な関係",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "危险的关系",
+     "url": "https://www.bilibili.com/bangumi/play/ep72089",
+     "time": "2015-10-13T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563522,
+   "sort": 3,
+   "name": "戦妹（アミカ）志願",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "战妹志愿",
+     "url": "https://www.bilibili.com/bangumi/play/ep74005",
+     "time": "2015-10-20T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563523,
+   "sort": 4,
+   "name": "カルテット・前編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "四重奏・前篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep75435",
+     "time": "2015-10-27T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563524,
+   "sort": 5,
+   "name": "カルテット・後編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "四重奏・后篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep76136",
+     "time": "2015-11-03T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563525,
+   "sort": 6,
+   "name": "小悪魔たちの依頼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "小恶魔们的委托",
+     "url": "https://www.bilibili.com/bangumi/play/ep77350",
+     "time": "2015-11-10T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563526,
+   "sort": 7,
+   "name": "あかり争奪戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "明里争夺战",
+     "url": "https://www.bilibili.com/bangumi/play/ep77691",
+     "time": "2015-11-17T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563527,
+   "sort": 8,
+   "name": "プール・トラップ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "泳池陷阱",
+     "url": "https://www.bilibili.com/bangumi/play/ep79219",
+     "time": "2015-11-24T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563528,
+   "sort": 9,
+   "name": "家庭訪問",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "家庭访问",
+     "url": "https://www.bilibili.com/bangumi/play/ep79985",
+     "time": "2015-12-01T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563529,
+   "sort": 10,
+   "name": "ファーストミッション",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "首个任务",
+     "url": "https://www.bilibili.com/bangumi/play/ep80732",
+     "time": "2015-12-08T14:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563530,
+   "sort": 11,
+   "name": "決戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "决战",
+     "url": "https://www.bilibili.com/bangumi/play/ep81514",
+     "time": "2015-12-16T02:52:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 563531,
+   "sort": 12,
+   "name": "二人のA",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "两人的A",
+     "url": "https://www.bilibili.com/bangumi/play/ep81854",
+     "time": "2015-12-22T14:33:00.000Z"
+    }
+   ]
+  }
+ ]
+}

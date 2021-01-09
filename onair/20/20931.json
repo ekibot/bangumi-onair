@@ -1,1 +1,27 @@
-{"id":"20931","name":"サクラ大戦 神崎すみれ 引退記念 す・み・れ","sites":[{"site":"bilibili","id":"3407","sort":1}],"eps":[{"id":112970,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"神崎堇引退纪念","url":"https://www.bilibili.com/bangumi/play/ep84899","time":"2016-03-09T04:04:01.000Z"}]}]}
+{
+ "id": "20931",
+ "name": "サクラ大戦 神崎すみれ 引退記念 す・み・れ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3407",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 112970,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "神崎堇引退纪念",
+     "url": "https://www.bilibili.com/bangumi/play/ep84899",
+     "time": "2016-03-09T04:04:01.000Z"
+    }
+   ]
+  }
+ ]
+}

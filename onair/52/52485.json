@@ -1,1 +1,195 @@
-{"id":"52485","name":"カーニヴァル","sites":[{"site":"bilibili","id":"572","sort":13}],"eps":[{"id":252540,"sort":1,"name":"なないろ導花線","sites":[{"site":"bilibili","sort":1,"title":"七彩导花线","url":"https://www.bilibili.com/bangumi/play/ep80734","time":"2015-12-09T02:46:42.000Z"}]},{"id":252541,"sort":2,"name":"フォーチュンキャツト","sites":[{"site":"bilibili","sort":2,"title":"招财猫","url":"https://www.bilibili.com/bangumi/play/ep80735","time":"2015-12-09T02:46:42.000Z"}]},{"id":252542,"sort":3,"name":"幻ピクニック","sites":[{"site":"bilibili","sort":3,"title":"梦幻郊游","url":"https://www.bilibili.com/bangumi/play/ep80736","time":"2015-12-09T02:46:42.000Z"}]},{"id":252543,"sort":4,"name":"宵待燕","sites":[{"site":"bilibili","sort":4,"title":"宵待燕","url":"https://www.bilibili.com/bangumi/play/ep80737","time":"2015-12-09T02:46:42.000Z"}]},{"id":252544,"sort":5,"name":"ピエロの処方箋","sites":[{"site":"bilibili","sort":5,"title":"小丑的处方笺","url":"https://www.bilibili.com/bangumi/play/ep80738","time":"2015-12-09T02:46:42.000Z"}]},{"id":252545,"sort":6,"name":"朝陽の翼","sites":[{"site":"bilibili","sort":6,"title":"朝阳之翼","url":"https://www.bilibili.com/bangumi/play/ep80739","time":"2015-12-09T02:46:42.000Z"}]},{"id":252546,"sort":7,"name":"「マーメイドの溜息」と三人の騎士","sites":[{"site":"bilibili","sort":7,"title":"“人鱼的叹息”与三位骑士","url":"https://www.bilibili.com/bangumi/play/ep80740","time":"2015-12-09T02:46:42.000Z"}]},{"id":252547,"sort":8,"name":"白銀の匣","sites":[{"site":"bilibili","sort":8,"title":"白银之匣","url":"https://www.bilibili.com/bangumi/play/ep80741","time":"2015-12-09T02:46:42.000Z"}]},{"id":252548,"sort":9,"name":"蒼い薔薇","sites":[{"site":"bilibili","sort":9,"title":"青色蔷薇","url":"https://www.bilibili.com/bangumi/play/ep80742","time":"2015-12-09T02:46:42.000Z"}]},{"id":252549,"sort":10,"name":"猛獣使の泪","sites":[{"site":"bilibili","sort":10,"title":"驯兽师的眼泪","url":"https://www.bilibili.com/bangumi/play/ep80743","time":"2015-12-09T02:46:42.000Z"}]},{"id":252550,"sort":11,"name":"アイスクリームパレード","sites":[{"site":"bilibili","sort":11,"title":"冰激凌游行","url":"https://www.bilibili.com/bangumi/play/ep80744","time":"2015-12-09T02:46:42.000Z"}]},{"id":252551,"sort":12,"name":"ニジの約束","sites":[{"site":"bilibili","sort":12,"title":"虹的约定","url":"https://www.bilibili.com/bangumi/play/ep80745","time":"2015-12-09T02:46:42.000Z"}]},{"id":252552,"sort":13,"name":"カーニヴァル","sites":[{"site":"bilibili","sort":13,"title":"黑色嘉年华","url":"https://www.bilibili.com/bangumi/play/ep80746","time":"2015-12-09T02:46:42.000Z"}]}]}
+{
+ "id": "52485",
+ "name": "カーニヴァル",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "572",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 252540,
+   "sort": 1,
+   "name": "なないろ導花線",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "七彩导花线",
+     "url": "https://www.bilibili.com/bangumi/play/ep80734",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 252541,
+   "sort": 2,
+   "name": "フォーチュンキャツト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "招财猫",
+     "url": "https://www.bilibili.com/bangumi/play/ep80735",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 252542,
+   "sort": 3,
+   "name": "幻ピクニック",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "梦幻郊游",
+     "url": "https://www.bilibili.com/bangumi/play/ep80736",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 252543,
+   "sort": 4,
+   "name": "宵待燕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "宵待燕",
+     "url": "https://www.bilibili.com/bangumi/play/ep80737",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 252544,
+   "sort": 5,
+   "name": "ピエロの処方箋",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "小丑的处方笺",
+     "url": "https://www.bilibili.com/bangumi/play/ep80738",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 252545,
+   "sort": 6,
+   "name": "朝陽の翼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "朝阳之翼",
+     "url": "https://www.bilibili.com/bangumi/play/ep80739",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 252546,
+   "sort": 7,
+   "name": "「マーメイドの溜息」と三人の騎士",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "“人鱼的叹息”与三位骑士",
+     "url": "https://www.bilibili.com/bangumi/play/ep80740",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 252547,
+   "sort": 8,
+   "name": "白銀の匣",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "白银之匣",
+     "url": "https://www.bilibili.com/bangumi/play/ep80741",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 252548,
+   "sort": 9,
+   "name": "蒼い薔薇",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "青色蔷薇",
+     "url": "https://www.bilibili.com/bangumi/play/ep80742",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 252549,
+   "sort": 10,
+   "name": "猛獣使の泪",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "驯兽师的眼泪",
+     "url": "https://www.bilibili.com/bangumi/play/ep80743",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 252550,
+   "sort": 11,
+   "name": "アイスクリームパレード",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "冰激凌游行",
+     "url": "https://www.bilibili.com/bangumi/play/ep80744",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 252551,
+   "sort": 12,
+   "name": "ニジの約束",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "虹的约定",
+     "url": "https://www.bilibili.com/bangumi/play/ep80745",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 252552,
+   "sort": 13,
+   "name": "カーニヴァル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "黑色嘉年华",
+     "url": "https://www.bilibili.com/bangumi/play/ep80746",
+     "time": "2015-12-09T02:46:42.000Z"
+    }
+   ]
+  }
+ ]
+}

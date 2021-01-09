@@ -1,1 +1,195 @@
-{"id":"890","name":"みなみけ～おかわり～","sites":[{"site":"bilibili","id":"621","sort":13}],"eps":[{"id":2731,"sort":1,"name":"1杯目 温泉、いただきます","sites":[{"site":"bilibili","sort":1,"title":"享受温泉","url":"https://www.bilibili.com/bangumi/play/ep11360","time":"2014-05-16T10:08:49.000Z"}]},{"id":2732,"sort":2,"name":"2杯目 味は代々受け継がれていくもの","sites":[{"site":"bilibili","sort":2,"title":"代代相传的味道","url":"https://www.bilibili.com/bangumi/play/ep11361","time":"2014-05-16T10:08:49.000Z"}]},{"id":2733,"sort":3,"name":"3杯目 もてなしの夜、そっと出し","sites":[{"site":"bilibili","sort":3,"title":"热闹的夜晚，悄悄拿出佳肴","url":"https://www.bilibili.com/bangumi/play/ep11362","time":"2014-05-16T10:08:49.000Z"}]},{"id":2734,"sort":4,"name":"4杯目 片付けちゃっていいですか?","sites":[{"site":"bilibili","sort":4,"title":"能收拾吗？","url":"https://www.bilibili.com/bangumi/play/ep11363","time":"2014-05-16T10:08:49.000Z"}]},{"id":2735,"sort":5,"name":"5杯目 出した茶碗は引っ込められない","sites":[{"site":"bilibili","sort":5,"title":"拿出的碗不能放回去","url":"https://www.bilibili.com/bangumi/play/ep11364","time":"2014-05-16T10:08:49.000Z"}]},{"id":2736,"sort":6,"name":"6杯目 冷めてもあったか、ウチゴハン","sites":[{"site":"bilibili","sort":6,"title":"家里的饭，就算凉了也能给人带来温暖","url":"https://www.bilibili.com/bangumi/play/ep11365","time":"2014-05-16T10:08:49.000Z"}]},{"id":2737,"sort":7,"name":"7杯目 噛めば噛むほど甘くなるんだよ","sites":[{"site":"bilibili","sort":7,"title":"越细嚼越甘甜","url":"https://www.bilibili.com/bangumi/play/ep11366","time":"2014-05-16T10:08:49.000Z"}]},{"id":2738,"sort":8,"name":"8杯目 プールは別腹です","sites":[{"site":"bilibili","sort":8,"title":"吃饱了去游泳","url":"https://www.bilibili.com/bangumi/play/ep11367","time":"2014-05-16T10:08:49.000Z"}]},{"id":2739,"sort":9,"name":"9杯目 そろそろ苦しい? ひみつのマコちゃん","sites":[{"site":"bilibili","sort":9,"title":"不能坚持下去了？真子的秘密","url":"https://www.bilibili.com/bangumi/play/ep11368","time":"2014-05-16T10:08:49.000Z"}]},{"id":2740,"sort":10,"name":"10杯目 花より団子のお年頃","sites":[{"site":"bilibili","sort":10,"title":"比起理想，更重现实的年龄","url":"https://www.bilibili.com/bangumi/play/ep11369","time":"2014-05-16T10:08:49.000Z"}]},{"id":2741,"sort":11,"name":"11杯目 さすがにヤバくなってきました","sites":[{"site":"bilibili","sort":11,"title":"果然不妙","url":"https://www.bilibili.com/bangumi/play/ep11370","time":"2014-05-16T10:08:49.000Z"}]},{"id":2742,"sort":12,"name":"12杯目 もう一口が辛いのです","sites":[{"site":"bilibili","sort":12,"title":"一小口都吃不下了","url":"https://www.bilibili.com/bangumi/play/ep11371","time":"2014-05-16T10:08:49.000Z"}]},{"id":2743,"sort":13,"name":"13杯目 みんな揃って、ごちそうさま","sites":[{"site":"bilibili","sort":13,"title":"吃完后要跟大家说“我吃饱了”","url":"https://www.bilibili.com/bangumi/play/ep11372","time":"2014-05-16T10:08:49.000Z"}]}]}
+{
+ "id": "890",
+ "name": "みなみけ～おかわり～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "621",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 2731,
+   "sort": 1,
+   "name": "1杯目 温泉、いただきます",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "享受温泉",
+     "url": "https://www.bilibili.com/bangumi/play/ep11360",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2732,
+   "sort": 2,
+   "name": "2杯目 味は代々受け継がれていくもの",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "代代相传的味道",
+     "url": "https://www.bilibili.com/bangumi/play/ep11361",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2733,
+   "sort": 3,
+   "name": "3杯目 もてなしの夜、そっと出し",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "热闹的夜晚，悄悄拿出佳肴",
+     "url": "https://www.bilibili.com/bangumi/play/ep11362",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2734,
+   "sort": 4,
+   "name": "4杯目 片付けちゃっていいですか?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "能收拾吗？",
+     "url": "https://www.bilibili.com/bangumi/play/ep11363",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2735,
+   "sort": 5,
+   "name": "5杯目 出した茶碗は引っ込められない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "拿出的碗不能放回去",
+     "url": "https://www.bilibili.com/bangumi/play/ep11364",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2736,
+   "sort": 6,
+   "name": "6杯目 冷めてもあったか、ウチゴハン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "家里的饭，就算凉了也能给人带来温暖",
+     "url": "https://www.bilibili.com/bangumi/play/ep11365",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2737,
+   "sort": 7,
+   "name": "7杯目 噛めば噛むほど甘くなるんだよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "越细嚼越甘甜",
+     "url": "https://www.bilibili.com/bangumi/play/ep11366",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2738,
+   "sort": 8,
+   "name": "8杯目 プールは別腹です",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "吃饱了去游泳",
+     "url": "https://www.bilibili.com/bangumi/play/ep11367",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2739,
+   "sort": 9,
+   "name": "9杯目 そろそろ苦しい? ひみつのマコちゃん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "不能坚持下去了？真子的秘密",
+     "url": "https://www.bilibili.com/bangumi/play/ep11368",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2740,
+   "sort": 10,
+   "name": "10杯目 花より団子のお年頃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "比起理想，更重现实的年龄",
+     "url": "https://www.bilibili.com/bangumi/play/ep11369",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2741,
+   "sort": 11,
+   "name": "11杯目 さすがにヤバくなってきました",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "果然不妙",
+     "url": "https://www.bilibili.com/bangumi/play/ep11370",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2742,
+   "sort": 12,
+   "name": "12杯目 もう一口が辛いのです",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "一小口都吃不下了",
+     "url": "https://www.bilibili.com/bangumi/play/ep11371",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 2743,
+   "sort": 13,
+   "name": "13杯目 みんな揃って、ごちそうさま",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "吃完后要跟大家说“我吃饱了”",
+     "url": "https://www.bilibili.com/bangumi/play/ep11372",
+     "time": "2014-05-16T10:08:49.000Z"
+    }
+   ]
+  }
+ ]
+}

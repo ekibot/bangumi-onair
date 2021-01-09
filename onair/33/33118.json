@@ -1,1 +1,181 @@
-{"id":"33118","name":"センチメンタルジャーニー","sites":[{"site":"bilibili","id":"2257","sort":12}],"eps":[{"id":146737,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep50368","time":"2013-04-11T12:36:36.000Z"}]},{"id":146738,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep50369","time":"2013-04-11T12:36:36.000Z"}]},{"id":146739,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep50370","time":"2013-04-11T12:36:36.000Z"}]},{"id":146740,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep50371","time":"2013-04-11T12:36:36.000Z"}]},{"id":146741,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep50372","time":"2013-04-11T12:36:36.000Z"}]},{"id":146742,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep50373","time":"2013-04-11T12:36:36.000Z"}]},{"id":146743,"sort":7,"name":"","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep50374","time":"2013-04-11T12:36:36.000Z"}]},{"id":146744,"sort":8,"name":"","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep50375","time":"2013-04-11T12:36:36.000Z"}]},{"id":146745,"sort":9,"name":"","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep50376","time":"2013-04-11T12:36:36.000Z"}]},{"id":146746,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep50377","time":"2013-04-11T12:36:36.000Z"}]},{"id":146747,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep50378","time":"2013-04-11T12:36:36.000Z"}]},{"id":146748,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep50379","time":"2013-04-11T12:36:36.000Z"}]}]}
+{
+ "id": "33118",
+ "name": "センチメンタルジャーニー",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2257",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 146737,
+   "sort": 1,
+   "name": "遠藤晶〜少女のためのヴァイオリン・ソナタ〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep50368",
+     "time": "2013-04-11T12:36:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 146738,
+   "sort": 2,
+   "name": "松岡千恵〜書けないラブソング〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep50369",
+     "time": "2013-04-11T12:36:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 146739,
+   "sort": 3,
+   "name": "七瀬優〜星降る夜の天使〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep50370",
+     "time": "2013-04-11T12:36:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 146740,
+   "sort": 4,
+   "name": "杉原真奈美〜微熱少女〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep50371",
+     "time": "2013-04-11T12:36:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 146741,
+   "sort": 5,
+   "name": "森井夏穂〜友情の通天閣スペシャル〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep50372",
+     "time": "2013-04-11T12:36:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 146742,
+   "sort": 6,
+   "name": "綾崎若菜〜莫煩悩〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep50373",
+     "time": "2013-04-11T12:36:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 146743,
+   "sort": 7,
+   "name": "山本るりか〜中部戦線異状あり!〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep50374",
+     "time": "2013-04-11T12:36:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 146744,
+   "sort": 8,
+   "name": "星野明日香〜Dreams will never die.〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep50375",
+     "time": "2013-04-11T12:36:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 146745,
+   "sort": 9,
+   "name": "保坂美由紀〜私らしく明日へ〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep50376",
+     "time": "2013-04-11T12:36:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 146746,
+   "sort": 10,
+   "name": "永倉えみる〜はてしない物語〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep50377",
+     "time": "2013-04-11T12:36:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 146747,
+   "sort": 11,
+   "name": "安達妙子〜ほろにがトライアングル〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep50378",
+     "time": "2013-04-11T12:36:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 146748,
+   "sort": 12,
+   "name": "沢渡ほのか〜ほのかな恋の物語〜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep50379",
+     "time": "2013-04-11T12:36:36.000Z"
+    }
+   ]
+  }
+ ]
+}

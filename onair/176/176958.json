@@ -1,1 +1,181 @@
-{"id":"176958","name":"スカーレッドライダーゼクス","sites":[{"site":"iqiyi","id":"a_19rrhans3h","sort":12},{"site":"bilibili","id":"5037","sort":12}],"eps":[{"id":640878,"sort":1,"name":"RYUKYU Calling","sites":[{"site":"iqiyi","sort":1,"title":"琉球召唤","url":"http://www.iqiyi.com/v_19rrmauskc.html","time":"2016-07-05T17:30:11.000Z"},{"site":"bilibili","sort":1,"title":"琉球 Calling","url":"https://www.bilibili.com/bangumi/play/ep90840","time":"2016-07-05T17:35:02.000Z"}]},{"id":640879,"sort":2,"name":"Combat Rock","sites":[{"site":"iqiyi","sort":2,"title":"战斗摇滚","url":"http://www.iqiyi.com/v_19rrm8xt68.html","time":"2016-07-12T17:30:12.000Z"},{"site":"bilibili","sort":2,"title":"Combat Rock","url":"https://www.bilibili.com/bangumi/play/ep91303","time":"2016-07-12T17:35:02.000Z"}]},{"id":640880,"sort":3,"name":"The Right Profile","sites":[{"site":"iqiyi","sort":3,"title":"右侧肖像","url":"http://www.iqiyi.com/v_19rrm7090s.html","time":"2016-07-19T17:30:13.000Z"},{"site":"bilibili","sort":3,"title":"The Right Profile","url":"https://www.bilibili.com/bangumi/play/ep91304","time":"2016-07-19T17:35:02.000Z"}]},{"id":640881,"sort":4,"name":"Hi-Fi Highway","sites":[{"site":"iqiyi","sort":4,"title":"高保真路径","url":"http://www.iqiyi.com/v_19rrmf531g.html","time":"2016-07-26T17:30:13.000Z"},{"site":"bilibili","sort":4,"title":"Hi-Fi Highway","url":"https://www.bilibili.com/bangumi/play/ep91305","time":"2016-07-26T17:35:02.000Z"}]},{"id":640882,"sort":5,"name":"Plan 6 Channel 5","sites":[{"site":"iqiyi","sort":5,"title":"计划6 频道5","url":"http://www.iqiyi.com/v_19rrmd90tk.html","time":"2016-08-02T17:30:15.000Z"},{"site":"bilibili","sort":5,"title":"Plan 6 Channel 5","url":"https://www.bilibili.com/bangumi/play/ep91306","time":"2016-08-02T17:35:02.000Z"}]},{"id":640883,"sort":6,"name":"My Generation","sites":[{"site":"iqiyi","sort":6,"title":"我们这代人","url":"http://www.iqiyi.com/v_19rrm1ib8s.html","time":"2016-08-09T17:30:13.000Z"},{"site":"bilibili","sort":6,"title":"My Generation","url":"https://www.bilibili.com/bangumi/play/ep91307","time":"2016-08-09T17:45:02.000Z"}]},{"id":640884,"sort":7,"name":"Quadrophenia","sites":[{"site":"iqiyi","sort":7,"title":"声道","url":"http://www.iqiyi.com/v_19rrlzo5z0.html","time":"2016-08-16T17:40:07.000Z"},{"site":"bilibili","sort":7,"title":"Quadrophenia","url":"https://www.bilibili.com/bangumi/play/ep91308","time":"2016-08-16T17:45:10.000Z"}]},{"id":640885,"sort":8,"name":"To Be Someone","sites":[{"site":"iqiyi","sort":8,"title":"功成名就","url":"http://www.iqiyi.com/v_19rrlxyf4s.html","time":"2016-08-23T17:30:10.000Z"},{"site":"bilibili","sort":8,"title":"To Be Someone","url":"https://www.bilibili.com/bangumi/play/ep91309","time":"2016-08-23T17:35:10.000Z"}]},{"id":640886,"sort":9,"name":"Away From The Number","sites":[{"site":"iqiyi","sort":9,"title":"远离番号","url":"http://www.iqiyi.com/v_19rrm56b4c.html","time":"2016-08-30T17:30:14.000Z"},{"site":"bilibili","sort":9,"title":"Away From The Number","url":"https://www.bilibili.com/bangumi/play/ep91310","time":"2016-08-30T17:35:10.000Z"}]},{"id":640887,"sort":10,"name":"Stay or Go","sites":[{"site":"iqiyi","sort":10,"title":"留下还是离开","url":"http://www.iqiyi.com/v_19rrm3cpt0.html","time":"2016-09-06T17:30:06.000Z"},{"site":"bilibili","sort":10,"title":"Stay Or Go","url":"https://www.bilibili.com/bangumi/play/ep91311","time":"2016-09-06T17:35:10.000Z"}]},{"id":640888,"sort":11,"name":"Not Of This Blue Earth","sites":[{"site":"iqiyi","sort":11,"title":"不是来自这个蓝色世界","url":"http://www.iqiyi.com/v_19rr9k22jo.html","time":"2016-09-13T17:30:07.000Z"},{"site":"bilibili","sort":11,"title":"Not Of This Blue Earth","url":"https://www.bilibili.com/bangumi/play/ep91312","time":"2016-09-13T17:35:00.000Z"}]},{"id":640889,"sort":12,"name":"LAST GIG","sites":[{"site":"iqiyi","sort":12,"title":"最后的教官","url":"http://www.iqiyi.com/v_19rr9i8m8g.html","time":"2016-09-20T17:30:05.000Z"},{"site":"bilibili","sort":12,"title":"Last Gig","url":"https://www.bilibili.com/bangumi/play/ep91313","time":"2016-09-20T17:35:10.000Z"}]}]}
+{
+ "id": "176958",
+ "name": "スカーレッドライダーゼクス",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5037",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 640878,
+   "sort": 1,
+   "name": "RYUKYU Calling",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "琉球 Calling",
+     "url": "https://www.bilibili.com/bangumi/play/ep90840",
+     "time": "2016-07-05T17:35:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640879,
+   "sort": 2,
+   "name": "Combat Rock",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "Combat Rock",
+     "url": "https://www.bilibili.com/bangumi/play/ep91303",
+     "time": "2016-07-12T17:35:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640880,
+   "sort": 3,
+   "name": "The Right Profile",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "The Right Profile",
+     "url": "https://www.bilibili.com/bangumi/play/ep91304",
+     "time": "2016-07-19T17:35:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640881,
+   "sort": 4,
+   "name": "Hi-Fi Highway",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Hi-Fi Highway",
+     "url": "https://www.bilibili.com/bangumi/play/ep91305",
+     "time": "2016-07-26T17:35:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640882,
+   "sort": 5,
+   "name": "Plan 6 Channel 5",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Plan 6 Channel 5",
+     "url": "https://www.bilibili.com/bangumi/play/ep91306",
+     "time": "2016-08-02T17:35:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640883,
+   "sort": 6,
+   "name": "My Generation",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "My Generation",
+     "url": "https://www.bilibili.com/bangumi/play/ep91307",
+     "time": "2016-08-09T17:45:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640884,
+   "sort": 7,
+   "name": "Quadrophenia",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "Quadrophenia",
+     "url": "https://www.bilibili.com/bangumi/play/ep91308",
+     "time": "2016-08-16T17:45:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640885,
+   "sort": 8,
+   "name": "To Be Someone",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "To Be Someone",
+     "url": "https://www.bilibili.com/bangumi/play/ep91309",
+     "time": "2016-08-23T17:35:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640886,
+   "sort": 9,
+   "name": "Away From The Number",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "Away From The Number",
+     "url": "https://www.bilibili.com/bangumi/play/ep91310",
+     "time": "2016-08-30T17:35:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640887,
+   "sort": 10,
+   "name": "Stay or Go",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "Stay Or Go",
+     "url": "https://www.bilibili.com/bangumi/play/ep91311",
+     "time": "2016-09-06T17:35:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640888,
+   "sort": 11,
+   "name": "Not Of This Blue Earth",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "Not Of This Blue Earth",
+     "url": "https://www.bilibili.com/bangumi/play/ep91312",
+     "time": "2016-09-13T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640889,
+   "sort": 12,
+   "name": "LAST GIG",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "Last Gig",
+     "url": "https://www.bilibili.com/bangumi/play/ep91313",
+     "time": "2016-09-20T17:35:10.000Z"
+    }
+   ]
+  }
+ ]
+}

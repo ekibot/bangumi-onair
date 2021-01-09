@@ -1,1 +1,167 @@
-{"id":"277518","name":"ギヴン","sites":[{"site":"bilibili","id":"28221405","sort":11}],"eps":[{"id":893949,"sort":1,"name":"Boys in the Band","sites":[{"site":"bilibili","sort":1,"title":"Boys in the Band","url":"https://www.bilibili.com/bangumi/play/ep277955","time":"2019-07-11T19:25:00.000Z"}]},{"id":893950,"sort":2,"name":"Like Someone In Love","sites":[{"site":"bilibili","sort":2,"title":"Like Someone In Love","url":"https://www.bilibili.com/bangumi/play/ep277956","time":"2019-07-18T19:25:00.000Z"}]},{"id":893951,"sort":3,"name":"Somebody Else","sites":[{"site":"bilibili","sort":3,"title":"Somebody Else","url":"https://www.bilibili.com/bangumi/play/ep277957","time":"2019-07-25T19:25:00.000Z"}]},{"id":893952,"sort":4,"name":"Fluorescent Adolescent","sites":[{"site":"bilibili","sort":4,"title":"Fluorescent Adolescent","url":"https://www.bilibili.com/bangumi/play/ep277958","time":"2019-08-01T19:25:00.000Z"}]},{"id":893953,"sort":5,"name":"The Reason","sites":[{"site":"bilibili","sort":5,"title":"The Reason","url":"https://www.bilibili.com/bangumi/play/ep277959","time":"2019-08-08T19:25:00.000Z"}]},{"id":893954,"sort":6,"name":"Creep","sites":[{"site":"bilibili","sort":6,"title":"Creep","url":"https://www.bilibili.com/bangumi/play/ep277960","time":"2019-08-15T19:25:00.000Z"}]},{"id":893955,"sort":7,"name":"Tumbling Dice","sites":[{"site":"bilibili","sort":7,"title":"Tumbling Dice","url":"https://www.bilibili.com/bangumi/play/ep277961","time":"2019-08-22T19:25:00.000Z"}]},{"id":893956,"sort":8,"name":"Time Is Running Out","sites":[{"site":"bilibili","sort":8,"title":"Time Is Running Out","url":"https://www.bilibili.com/bangumi/play/ep277962","time":"2019-08-29T19:25:00.000Z"}]},{"id":893957,"sort":9,"name":"冬のはなし","sites":[{"site":"bilibili","sort":9,"title":"冬天的故事","url":"https://www.bilibili.com/bangumi/play/ep277963","time":"2019-09-05T19:25:00.000Z"}]},{"id":893958,"sort":10,"name":"Wonderwall","sites":[{"site":"bilibili","sort":10,"title":"Wonderwall","url":"https://www.bilibili.com/bangumi/play/ep277964","time":"2019-09-12T19:25:00.000Z"}]},{"id":893959,"sort":11,"name":"Song2","sites":[{"site":"bilibili","sort":11,"title":"Song2","url":"https://www.bilibili.com/bangumi/play/ep277965","time":"2019-09-19T19:24:59.000Z"}]}]}
+{
+ "id": "277518",
+ "name": "ギヴン",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28221405",
+   "sort": 11
+  }
+ ],
+ "eps": [
+  {
+   "id": 893949,
+   "sort": 1,
+   "name": "Boys in the Band",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Boys in the Band",
+     "url": "https://www.bilibili.com/bangumi/play/ep277955",
+     "time": "2019-07-11T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893950,
+   "sort": 2,
+   "name": "Like Someone In Love",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "Like Someone In Love",
+     "url": "https://www.bilibili.com/bangumi/play/ep277956",
+     "time": "2019-07-18T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893951,
+   "sort": 3,
+   "name": "Somebody Else",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Somebody Else",
+     "url": "https://www.bilibili.com/bangumi/play/ep277957",
+     "time": "2019-07-25T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893952,
+   "sort": 4,
+   "name": "Fluorescent Adolescent",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Fluorescent Adolescent",
+     "url": "https://www.bilibili.com/bangumi/play/ep277958",
+     "time": "2019-08-01T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893953,
+   "sort": 5,
+   "name": "The Reason",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "The Reason",
+     "url": "https://www.bilibili.com/bangumi/play/ep277959",
+     "time": "2019-08-08T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893954,
+   "sort": 6,
+   "name": "Creep",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Creep",
+     "url": "https://www.bilibili.com/bangumi/play/ep277960",
+     "time": "2019-08-15T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893955,
+   "sort": 7,
+   "name": "Tumbling Dice",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "Tumbling Dice",
+     "url": "https://www.bilibili.com/bangumi/play/ep277961",
+     "time": "2019-08-22T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893956,
+   "sort": 8,
+   "name": "Time Is Running Out",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "Time Is Running Out",
+     "url": "https://www.bilibili.com/bangumi/play/ep277962",
+     "time": "2019-08-29T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893957,
+   "sort": 9,
+   "name": "冬のはなし",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "冬天的故事",
+     "url": "https://www.bilibili.com/bangumi/play/ep277963",
+     "time": "2019-09-05T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893958,
+   "sort": 10,
+   "name": "Wonderwall",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "Wonderwall",
+     "url": "https://www.bilibili.com/bangumi/play/ep277964",
+     "time": "2019-09-12T19:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 893959,
+   "sort": 11,
+   "name": "Song2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "Song2",
+     "url": "https://www.bilibili.com/bangumi/play/ep277965",
+     "time": "2019-09-19T19:24:59.000Z"
+    }
+   ]
+  }
+ ]
+}

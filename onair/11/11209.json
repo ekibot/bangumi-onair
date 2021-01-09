@@ -1,1 +1,349 @@
-{"id":"11209","name":"NIGHT HEAD GENESIS","sites":[{"site":"bilibili","id":"1470","sort":24}],"eps":[{"id":66701,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"记忆","url":"https://www.bilibili.com/bangumi/play/ep27505","time":"2012-10-07T10:31:19.000Z"}]},{"id":66702,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"接触","url":"https://www.bilibili.com/bangumi/play/ep27506","time":"2012-10-07T10:31:19.000Z"}]},{"id":66703,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"焦躁","url":"https://www.bilibili.com/bangumi/play/ep27507","time":"2012-10-07T10:31:19.000Z"}]},{"id":66704,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"痕迹","url":"https://www.bilibili.com/bangumi/play/ep27508","time":"2012-10-07T10:31:19.000Z"}]},{"id":66705,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"回想","url":"https://www.bilibili.com/bangumi/play/ep27509","time":"2012-10-07T10:31:19.000Z"}]},{"id":66706,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"连锁","url":"https://www.bilibili.com/bangumi/play/ep27510","time":"2012-10-07T10:31:19.000Z"}]},{"id":66707,"sort":7,"name":"","sites":[{"site":"bilibili","sort":7,"title":"悔恨","url":"https://www.bilibili.com/bangumi/play/ep27511","time":"2012-10-07T10:31:19.000Z"}]},{"id":66708,"sort":8,"name":"","sites":[{"site":"bilibili","sort":8,"title":"追忆","url":"https://www.bilibili.com/bangumi/play/ep27512","time":"2012-10-07T10:31:19.000Z"}]},{"id":66709,"sort":9,"name":"","sites":[{"site":"bilibili","sort":9,"title":"灭减","url":"https://www.bilibili.com/bangumi/play/ep27513","time":"2012-10-07T10:31:19.000Z"}]},{"id":66710,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"神意","url":"https://www.bilibili.com/bangumi/play/ep27514","time":"2012-10-07T10:31:19.000Z"}]},{"id":66711,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"噩梦","url":"https://www.bilibili.com/bangumi/play/ep27515","time":"2012-10-07T10:31:19.000Z"}]},{"id":66712,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"困惑","url":"https://www.bilibili.com/bangumi/play/ep27516","time":"2012-10-07T10:31:19.000Z"}]},{"id":66713,"sort":13,"name":"","sites":[{"site":"bilibili","sort":13,"title":"游戏","url":"https://www.bilibili.com/bangumi/play/ep27517","time":"2012-10-07T10:31:19.000Z"}]},{"id":66714,"sort":14,"name":"","sites":[{"site":"bilibili","sort":14,"title":"幽闭","url":"https://www.bilibili.com/bangumi/play/ep27518","time":"2012-10-07T10:31:19.000Z"}]},{"id":66715,"sort":15,"name":"","sites":[{"site":"bilibili","sort":15,"title":"波动","url":"https://www.bilibili.com/bangumi/play/ep27519","time":"2012-10-07T10:31:19.000Z"}]},{"id":66716,"sort":16,"name":"","sites":[{"site":"bilibili","sort":16,"title":"再会","url":"https://www.bilibili.com/bangumi/play/ep27520","time":"2012-10-07T10:31:19.000Z"}]},{"id":66717,"sort":17,"name":"","sites":[{"site":"bilibili","sort":17,"title":"沙尘","url":"https://www.bilibili.com/bangumi/play/ep27521","time":"2012-10-07T10:31:19.000Z"}]},{"id":66718,"sort":18,"name":"","sites":[{"site":"bilibili","sort":18,"title":"方舟","url":"https://www.bilibili.com/bangumi/play/ep27522","time":"2012-10-07T10:31:19.000Z"}]},{"id":66719,"sort":19,"name":"","sites":[{"site":"bilibili","sort":19,"title":"梦幻","url":"https://www.bilibili.com/bangumi/play/ep27523","time":"2012-10-07T10:31:19.000Z"}]},{"id":66720,"sort":20,"name":"","sites":[{"site":"bilibili","sort":20,"title":"怀柔","url":"https://www.bilibili.com/bangumi/play/ep27524","time":"2012-10-07T10:31:19.000Z"}]},{"id":66721,"sort":21,"name":"","sites":[{"site":"bilibili","sort":21,"title":"葬送","url":"https://www.bilibili.com/bangumi/play/ep27525","time":"2012-10-07T10:31:19.000Z"}]},{"id":66722,"sort":22,"name":"","sites":[{"site":"bilibili","sort":22,"title":"神判","url":"https://www.bilibili.com/bangumi/play/ep27526","time":"2012-10-07T10:31:19.000Z"}]},{"id":66723,"sort":23,"name":"","sites":[{"site":"bilibili","sort":23,"title":"彷徨","url":"https://www.bilibili.com/bangumi/play/ep27527","time":"2012-10-07T10:31:19.000Z"}]},{"id":66724,"sort":24,"name":"","sites":[{"site":"bilibili","sort":24,"title":"希望","url":"https://www.bilibili.com/bangumi/play/ep27528","time":"2012-10-07T10:31:19.000Z"}]}]}
+{
+ "id": "11209",
+ "name": "NIGHT HEAD GENESIS",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1470",
+   "sort": 24
+  }
+ ],
+ "eps": [
+  {
+   "id": 66701,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "记忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep27505",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66702,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "接触",
+     "url": "https://www.bilibili.com/bangumi/play/ep27506",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66703,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "焦躁",
+     "url": "https://www.bilibili.com/bangumi/play/ep27507",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66704,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "痕迹",
+     "url": "https://www.bilibili.com/bangumi/play/ep27508",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66705,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "回想",
+     "url": "https://www.bilibili.com/bangumi/play/ep27509",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66706,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "连锁",
+     "url": "https://www.bilibili.com/bangumi/play/ep27510",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66707,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "悔恨",
+     "url": "https://www.bilibili.com/bangumi/play/ep27511",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66708,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "追忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep27512",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66709,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "灭减",
+     "url": "https://www.bilibili.com/bangumi/play/ep27513",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66710,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "神意",
+     "url": "https://www.bilibili.com/bangumi/play/ep27514",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66711,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "噩梦",
+     "url": "https://www.bilibili.com/bangumi/play/ep27515",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66712,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "困惑",
+     "url": "https://www.bilibili.com/bangumi/play/ep27516",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66713,
+   "sort": 13,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "游戏",
+     "url": "https://www.bilibili.com/bangumi/play/ep27517",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66714,
+   "sort": 14,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "幽闭",
+     "url": "https://www.bilibili.com/bangumi/play/ep27518",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66715,
+   "sort": 15,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "波动",
+     "url": "https://www.bilibili.com/bangumi/play/ep27519",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66716,
+   "sort": 16,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "再会",
+     "url": "https://www.bilibili.com/bangumi/play/ep27520",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66717,
+   "sort": 17,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "沙尘",
+     "url": "https://www.bilibili.com/bangumi/play/ep27521",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66718,
+   "sort": 18,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "方舟",
+     "url": "https://www.bilibili.com/bangumi/play/ep27522",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66719,
+   "sort": 19,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "梦幻",
+     "url": "https://www.bilibili.com/bangumi/play/ep27523",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66720,
+   "sort": 20,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "怀柔",
+     "url": "https://www.bilibili.com/bangumi/play/ep27524",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66721,
+   "sort": 21,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "葬送",
+     "url": "https://www.bilibili.com/bangumi/play/ep27525",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66722,
+   "sort": 22,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "神判",
+     "url": "https://www.bilibili.com/bangumi/play/ep27526",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66723,
+   "sort": 23,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "彷徨",
+     "url": "https://www.bilibili.com/bangumi/play/ep27527",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66724,
+   "sort": 24,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "希望",
+     "url": "https://www.bilibili.com/bangumi/play/ep27528",
+     "time": "2012-10-07T10:31:19.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,258 @@
-{"id":"928","name":"げんしけん","sites":[{"site":"qq","id":"c/cngva81rdw5b2sw","sort":13},{"site":"bilibili","id":"517","sort":15}],"eps":[{"id":1228,"sort":1,"name":"現代における視覚を中心とした文化の研究","sites":[{"site":"qq","sort":1,"title":"现视研1 01","url":"http://www.tudou.com/programs/view/9_s4o3PD6YA/"},{"site":"bilibili","sort":1,"title":"以現代視覺為主題的文化研究","url":"https://www.bilibili.com/bangumi/play/ep9648","time":"2010-12-10T20:21:39.000Z"}]},{"id":1229,"sort":2,"name":"消費と遊興による現代青少年の比較分類","sites":[{"site":"qq","sort":2,"title":"现视研2季第2话","url":"http://www.tudou.com/programs/view/SmXgqE7C9Zk/"},{"site":"bilibili","sort":2,"title":"根據消費與玩樂所做的現代青少年的比較分類","url":"https://www.bilibili.com/bangumi/play/ep9649","time":"2010-12-10T20:21:39.000Z"}]},{"id":1230,"sort":3,"name":"地域文化振興の問題点とその功績","sites":[{"site":"qq","sort":3,"title":"现视研2季第3话","url":"http://www.tudou.com/programs/view/aks6QIpc-vE/"},{"site":"bilibili","sort":3,"title":"地區文化振興的問題點與其功績","url":"https://www.bilibili.com/bangumi/play/ep9650","time":"2010-12-10T20:21:39.000Z"}]},{"id":1231,"sort":4,"name":"扮装と仮装の異化による心理的障壁の昇華作用","sites":[{"site":"qq","sort":4,"title":"现视研2a04","url":"http://www.tudou.com/programs/view/Why8l3lIYEc/"},{"site":"bilibili","sort":4,"title":"由偽裝與扮裝的異化而造成的心理隔閡昇華作用","url":"https://www.bilibili.com/bangumi/play/ep9651","time":"2010-12-10T20:21:39.000Z"}]},{"id":1232,"sort":5,"name":"自律行動に見る排斥と受容の境界","sites":[{"site":"qq","sort":5,"title":"现视研2季第5话","url":"http://www.tudou.com/programs/view/PGKqKu2nSvI/"},{"site":"bilibili","sort":5,"title":"從自律行動觀察排斥與接納的界線","url":"https://www.bilibili.com/bangumi/play/ep9652","time":"2010-12-10T20:21:39.000Z"}]},{"id":1233,"sort":6,"name":"サブカルチャーをめぐる他者との関係論","sites":[{"site":"qq","sort":6,"title":"现视研2a06","url":"http://www.tudou.com/programs/view/bHlTUKwNYn8/"},{"site":"bilibili","sort":6,"title":"藉由次文化探討與他人的關係論","url":"https://www.bilibili.com/bangumi/play/ep9653","time":"2010-12-10T20:21:39.000Z"}]},{"id":1234,"sort":7,"name":"対人関係における行動選択の特徴","sites":[{"site":"qq","sort":7,"title":"现视研第7话","url":"http://www.tudou.com/programs/view/BvE6NIpnwfM/"},{"site":"bilibili","sort":7,"title":"在對人關係上行動選擇的特徵","url":"https://www.bilibili.com/bangumi/play/ep9654","time":"2010-12-10T20:21:39.000Z"}]},{"id":1235,"sort":8,"name":"量産型製造過程における比較研究","sites":[{"site":"qq","sort":8,"title":"现视研2a08","url":"http://www.tudou.com/programs/view/UwLhjGJtPL8/"},{"site":"bilibili","sort":8,"title":"量產型製造過程的比較研究","url":"https://www.bilibili.com/bangumi/play/ep9655","time":"2010-12-10T20:21:39.000Z"}]},{"id":1236,"sort":9,"name":"特殊閉鎖状況下における説明義務の有無について","sites":[{"site":"qq","sort":9,"title":"现视研第9话","url":"http://www.tudou.com/programs/view/IkcAJ488fCo/"},{"site":"bilibili","sort":9,"title":"關於特殊封閉環境下說明義務的存在與否","url":"https://www.bilibili.com/bangumi/play/ep9656","time":"2010-12-10T20:21:39.000Z"}]},{"id":1237,"sort":10,"name":"経済効果から考える余暇消費のフェティシズム","sites":[{"site":"qq","sort":10,"title":"现视研1 10","url":"http://www.tudou.com/programs/view/6612TRMGsy4/"},{"site":"bilibili","sort":10,"title":"從經濟效益探索閒暇消費之戀物癖","url":"https://www.bilibili.com/bangumi/play/ep9657","time":"2010-12-10T20:21:39.000Z"}]},{"id":1238,"sort":11,"name":"都市型犯罪における悪意の所在論","sites":[{"site":"qq","sort":11,"title":"现视研2a11","url":"http://www.tudou.com/programs/view/8O7mWDFDTHM/"},{"site":"bilibili","sort":11,"title":"都市型犯罪中之惡意所在論","url":"https://www.bilibili.com/bangumi/play/ep9658","time":"2010-12-10T20:21:39.000Z"}]},{"id":1239,"sort":12,"name":"組織の再構築時に発生する課題と対策","sites":[{"site":"qq","sort":12,"title":"现视研（12）","url":"http://www.tudou.com/programs/view/jnnsDa1NzbQ/"},{"site":"bilibili","sort":12,"title":"組織再建構時會發生之問題與對策","url":"https://www.bilibili.com/bangumi/play/ep9659","time":"2010-12-10T20:21:39.000Z"}]}]}
+{
+ "id": "928",
+ "name": "げんしけん",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "c/cngva81rdw5b2sw",
+   "sort": 13
+  },
+  {
+   "site": "bilibili",
+   "id": "517",
+   "sort": 15
+  }
+ ],
+ "eps": [
+  {
+   "id": 1228,
+   "sort": 1,
+   "name": "現代における視覚を中心とした文化の研究",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "现视研1 01",
+     "url": "http://www.tudou.com/programs/view/9_s4o3PD6YA/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "以現代視覺為主題的文化研究",
+     "url": "https://www.bilibili.com/bangumi/play/ep9648",
+     "time": "2010-12-10T20:21:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1229,
+   "sort": 2,
+   "name": "消費と遊興による現代青少年の比較分類",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "现视研2季第2话",
+     "url": "http://www.tudou.com/programs/view/SmXgqE7C9Zk/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "根據消費與玩樂所做的現代青少年的比較分類",
+     "url": "https://www.bilibili.com/bangumi/play/ep9649",
+     "time": "2010-12-10T20:21:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1230,
+   "sort": 3,
+   "name": "地域文化振興の問題点とその功績",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "现视研2季第3话",
+     "url": "http://www.tudou.com/programs/view/aks6QIpc-vE/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "地區文化振興的問題點與其功績",
+     "url": "https://www.bilibili.com/bangumi/play/ep9650",
+     "time": "2010-12-10T20:21:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1231,
+   "sort": 4,
+   "name": "扮装と仮装の異化による心理的障壁の昇華作用",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "现视研2a04",
+     "url": "http://www.tudou.com/programs/view/Why8l3lIYEc/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "由偽裝與扮裝的異化而造成的心理隔閡昇華作用",
+     "url": "https://www.bilibili.com/bangumi/play/ep9651",
+     "time": "2010-12-10T20:21:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1232,
+   "sort": 5,
+   "name": "自律行動に見る排斥と受容の境界",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "现视研2季第5话",
+     "url": "http://www.tudou.com/programs/view/PGKqKu2nSvI/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "從自律行動觀察排斥與接納的界線",
+     "url": "https://www.bilibili.com/bangumi/play/ep9652",
+     "time": "2010-12-10T20:21:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1233,
+   "sort": 6,
+   "name": "サブカルチャーをめぐる他者との関係論",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "现视研2a06",
+     "url": "http://www.tudou.com/programs/view/bHlTUKwNYn8/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "藉由次文化探討與他人的關係論",
+     "url": "https://www.bilibili.com/bangumi/play/ep9653",
+     "time": "2010-12-10T20:21:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1234,
+   "sort": 7,
+   "name": "対人関係における行動選択の特徴",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "现视研第7话",
+     "url": "http://www.tudou.com/programs/view/BvE6NIpnwfM/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "在對人關係上行動選擇的特徵",
+     "url": "https://www.bilibili.com/bangumi/play/ep9654",
+     "time": "2010-12-10T20:21:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1235,
+   "sort": 8,
+   "name": "量産型製造過程における比較研究",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "现视研2a08",
+     "url": "http://www.tudou.com/programs/view/UwLhjGJtPL8/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "量產型製造過程的比較研究",
+     "url": "https://www.bilibili.com/bangumi/play/ep9655",
+     "time": "2010-12-10T20:21:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1236,
+   "sort": 9,
+   "name": "特殊閉鎖状況下における説明義務の有無について",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "现视研第9话",
+     "url": "http://www.tudou.com/programs/view/IkcAJ488fCo/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "關於特殊封閉環境下說明義務的存在與否",
+     "url": "https://www.bilibili.com/bangumi/play/ep9656",
+     "time": "2010-12-10T20:21:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1237,
+   "sort": 10,
+   "name": "経済効果から考える余暇消費のフェティシズム",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "现视研1 10",
+     "url": "http://www.tudou.com/programs/view/6612TRMGsy4/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "從經濟效益探索閒暇消費之戀物癖",
+     "url": "https://www.bilibili.com/bangumi/play/ep9657",
+     "time": "2010-12-10T20:21:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1238,
+   "sort": 11,
+   "name": "都市型犯罪における悪意の所在論",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "现视研2a11",
+     "url": "http://www.tudou.com/programs/view/8O7mWDFDTHM/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "都市型犯罪中之惡意所在論",
+     "url": "https://www.bilibili.com/bangumi/play/ep9658",
+     "time": "2010-12-10T20:21:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1239,
+   "sort": 12,
+   "name": "組織の再構築時に発生する課題と対策",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "现视研（12）",
+     "url": "http://www.tudou.com/programs/view/jnnsDa1NzbQ/"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "組織再建構時會發生之問題與對策",
+     "url": "https://www.bilibili.com/bangumi/play/ep9659",
+     "time": "2010-12-10T20:21:39.000Z"
+    }
+   ]
+  }
+ ]
+}

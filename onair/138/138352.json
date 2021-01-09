@@ -1,1 +1,195 @@
-{"id":"138352","name":"みじかもん","sites":[{"site":"bilibili","id":"4086","sort":13}],"eps":[{"id":542995,"sort":0,"name":"半田、パンチ","sites":[{"site":"bilibili","sort":0,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88505","time":"2016-05-27T02:17:54.000Z"}]},{"id":542983,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88506","time":"2016-05-27T02:17:54.000Z"}]},{"id":542984,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88507","time":"2016-05-27T02:17:54.000Z"}]},{"id":542985,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88508","time":"2016-05-27T02:17:54.000Z"}]},{"id":542986,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88509","time":"2016-05-27T02:17:54.000Z"}]},{"id":542987,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88510","time":"2016-05-27T02:17:54.000Z"}]},{"id":542988,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88511","time":"2016-05-27T02:17:54.000Z"}]},{"id":542989,"sort":7,"name":"","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88512","time":"2016-05-27T02:17:54.000Z"}]},{"id":542990,"sort":8,"name":"","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88513","time":"2016-05-27T02:17:54.000Z"}]},{"id":542991,"sort":9,"name":"","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88514","time":"2016-05-27T02:17:54.000Z"}]},{"id":542992,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88515","time":"2016-05-27T02:17:54.000Z"}]},{"id":542993,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88516","time":"2016-05-27T02:17:54.000Z"}]},{"id":542994,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep88517","time":"2016-05-27T02:17:54.000Z"}]}]}
+{
+ "id": "138352",
+ "name": "みじかもん",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4086",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 542995,
+   "sort": 0,
+   "name": "半田、パンチ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 0,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88505",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 542983,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88506",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 542984,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88507",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 542985,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88508",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 542986,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88509",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 542987,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88510",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 542988,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88511",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 542989,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88512",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 542990,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88513",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 542991,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88514",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 542992,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88515",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 542993,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88516",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 542994,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep88517",
+     "time": "2016-05-27T02:17:54.000Z"
+    }
+   ]
+  }
+ ]
+}

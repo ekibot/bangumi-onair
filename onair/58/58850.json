@@ -1,1 +1,181 @@
-{"id":"58850","name":"恋愛ラボ","sites":[{"site":"bilibili","id":"451","sort":13}],"eps":[{"id":292691,"sort":1,"name":"出会ってしまった二人","sites":[{"site":"bilibili","sort":1,"title":"不期而遇的两人","url":"https://www.bilibili.com/bangumi/play/ep8338","time":"2013-07-05T18:46:00.000Z"}]},{"id":295339,"sort":2,"name":"恥ずかしがり屋とクー兒と變態？","sites":[{"site":"bilibili","sort":2,"title":"怕羞少女与冰山与变态？","url":"https://www.bilibili.com/bangumi/play/ep8337","time":"2013-07-13T04:50:00.000Z"}]},{"id":292693,"sort":3,"name":"宣戦布告のサヨとエノ","sites":[{"site":"bilibili","sort":3,"title":"公开宣战的沙依和小榎","url":"https://www.bilibili.com/bangumi/play/ep8336","time":"2013-07-20T01:31:00.000Z"}]},{"id":292694,"sort":4,"name":"恋愛研究再開！と思ったら……","sites":[{"site":"bilibili","sort":4,"title":"恋爱研究再开！不曾想……","url":"https://www.bilibili.com/bangumi/play/ep8335","time":"2013-07-26T14:39:00.000Z"}]},{"id":292695,"sort":5,"name":"こちら藤女恋愛放送局","sites":[{"site":"bilibili","sort":5,"title":"这里是藤女恋爱电台","url":"https://www.bilibili.com/bangumi/play/ep8334","time":"2013-08-03T01:35:00.000Z"}]},{"id":292696,"sort":6,"name":"最低伝説リコ","sites":[{"site":"bilibili","sort":6,"title":"最差劲传说莉子","url":"https://www.bilibili.com/bangumi/play/ep8333","time":"2013-08-10T02:15:00.000Z"}]},{"id":292697,"sort":7,"name":"いざ倉橋家！","sites":[{"site":"bilibili","sort":7,"title":"出阵仓桥家！","url":"https://www.bilibili.com/bangumi/play/ep8332","time":"2013-08-17T02:41:00.000Z"}]},{"id":292698,"sort":8,"name":"ワイルドな君へ……","sites":[{"site":"bilibili","sort":8,"title":"致狂野的你……","url":"https://www.bilibili.com/bangumi/play/ep8331","time":"2013-08-25T02:46:00.000Z"}]},{"id":292699,"sort":9,"name":"その笑顔が……","sites":[{"site":"bilibili","sort":9,"title":"那个笑容……","url":"https://www.bilibili.com/bangumi/play/ep8330","time":"2013-08-31T15:12:00.000Z"}]},{"id":292700,"sort":10,"name":"よりぬき生徒会（撮り下ろし）","sites":[{"site":"bilibili","sort":10,"title":"精挑细选学生会（特殊摄制版）","url":"https://www.bilibili.com/bangumi/play/ep8329","time":"2013-09-06T19:46:00.000Z"}]},{"id":292701,"sort":11,"name":"恋愛ラボ？","sites":[{"site":"bilibili","sort":11,"title":"恋爱研究？","url":"https://www.bilibili.com/bangumi/play/ep8328","time":"2013-09-14T01:08:00.000Z"}]},{"id":292702,"sort":12,"name":"ずっと友達でいてくださいね","sites":[{"site":"bilibili","sort":12,"title":"请永远做我的朋友吧","url":"https://www.bilibili.com/bangumi/play/ep8327","time":"2013-09-21T00:26:00.000Z"}]},{"id":320912,"sort":13,"name":"その手を重ねて","sites":[{"site":"bilibili","sort":13,"title":"牵手","url":"https://www.bilibili.com/bangumi/play/ep8326","time":"2013-09-28T11:26:00.000Z"}]}]}
+{
+ "id": "58850",
+ "name": "恋愛ラボ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "451",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 292691,
+   "sort": 1,
+   "name": "出会ってしまった二人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "不期而遇的两人",
+     "url": "https://www.bilibili.com/bangumi/play/ep8338",
+     "time": "2013-07-05T18:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 292693,
+   "sort": 3,
+   "name": "宣戦布告のサヨとエノ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "公开宣战的沙依和小榎",
+     "url": "https://www.bilibili.com/bangumi/play/ep8336",
+     "time": "2013-07-20T01:31:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 292694,
+   "sort": 4,
+   "name": "恋愛研究再開！と思ったら……",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "恋爱研究再开！不曾想……",
+     "url": "https://www.bilibili.com/bangumi/play/ep8335",
+     "time": "2013-07-26T14:39:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 292695,
+   "sort": 5,
+   "name": "こちら藤女恋愛放送局",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "这里是藤女恋爱电台",
+     "url": "https://www.bilibili.com/bangumi/play/ep8334",
+     "time": "2013-08-03T01:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 292696,
+   "sort": 6,
+   "name": "最低伝説リコ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "最差劲传说莉子",
+     "url": "https://www.bilibili.com/bangumi/play/ep8333",
+     "time": "2013-08-10T02:15:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 292697,
+   "sort": 7,
+   "name": "いざ倉橋家！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "出阵仓桥家！",
+     "url": "https://www.bilibili.com/bangumi/play/ep8332",
+     "time": "2013-08-17T02:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 292698,
+   "sort": 8,
+   "name": "ワイルドな君へ……",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "致狂野的你……",
+     "url": "https://www.bilibili.com/bangumi/play/ep8331",
+     "time": "2013-08-25T02:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 292699,
+   "sort": 9,
+   "name": "その笑顔が……",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "那个笑容……",
+     "url": "https://www.bilibili.com/bangumi/play/ep8330",
+     "time": "2013-08-31T15:12:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 292700,
+   "sort": 10,
+   "name": "よりぬき生徒会（撮り下ろし）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "精挑细选学生会（特殊摄制版）",
+     "url": "https://www.bilibili.com/bangumi/play/ep8329",
+     "time": "2013-09-06T19:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 292701,
+   "sort": 11,
+   "name": "恋愛ラボ？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "恋爱研究？",
+     "url": "https://www.bilibili.com/bangumi/play/ep8328",
+     "time": "2013-09-14T01:08:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 292702,
+   "sort": 12,
+   "name": "ずっと友達でいてくださいね",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "请永远做我的朋友吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep8327",
+     "time": "2013-09-21T00:26:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 320912,
+   "sort": 13,
+   "name": "その手を重ねて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "牵手",
+     "url": "https://www.bilibili.com/bangumi/play/ep8326",
+     "time": "2013-09-28T11:26:00.000Z"
+    }
+   ]
+  }
+ ]
+}

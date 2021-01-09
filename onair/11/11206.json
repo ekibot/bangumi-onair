@@ -1,1 +1,97 @@
-{"id":"11206","name":"カッパの飼い方","sites":[{"site":"bilibili","id":"4994","sort":6}],"eps":[{"id":66661,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep90448","time":"2016-06-21T02:45:33.000Z"}]},{"id":66662,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep90449","time":"2016-06-21T02:45:33.000Z"}]},{"id":66663,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep90450","time":"2016-06-21T02:45:33.000Z"}]},{"id":66664,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep90451","time":"2016-06-21T02:45:33.000Z"}]},{"id":66665,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep90452","time":"2016-06-21T02:45:33.000Z"}]},{"id":66666,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep90453","time":"2016-06-21T02:45:33.000Z"}]}]}
+{
+ "id": "11206",
+ "name": "カッパの飼い方",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "4994",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 66661,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep90448",
+     "time": "2016-06-21T02:45:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66662,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep90449",
+     "time": "2016-06-21T02:45:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66663,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep90450",
+     "time": "2016-06-21T02:45:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66664,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep90451",
+     "time": "2016-06-21T02:45:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66665,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep90452",
+     "time": "2016-06-21T02:45:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 66666,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep90453",
+     "time": "2016-06-21T02:45:33.000Z"
+    }
+   ]
+  }
+ ]
+}

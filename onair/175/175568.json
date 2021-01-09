@@ -1,1 +1,181 @@
-{"id":"175568","name":"B-PROJECT～鼓動＊アンビシャス～","sites":[{"site":"bilibili","id":"5019","sort":13},{"site":"youku","id":"edb852fe3a7c11e6a080","sort":13}],"eps":[{"id":640746,"sort":1,"name":"BOYS MEET GIRL","sites":[{"site":"bilibili","sort":1,"title":"BOYS MEET GIRL","url":"https://www.bilibili.com/bangumi/play/ep92673","time":"2016-07-16T17:00:02.000Z"}]},{"id":640747,"sort":2,"name":"BAD ENDも悪くない","sites":[{"site":"bilibili","sort":2,"title":"BAD END也不壞啊","url":"https://www.bilibili.com/bangumi/play/ep92674","time":"2016-07-16T17:00:02.000Z"}]},{"id":640748,"sort":3,"name":"BRILLIANTで行こう☆","sites":[{"site":"bilibili","sort":3,"title":"Brilliant閃耀前進吧☆","url":"https://www.bilibili.com/bangumi/play/ep92675","time":"2016-07-16T17:00:03.000Z"}]},{"id":640749,"sort":4,"name":"BREAK OUT STAR","sites":[{"site":"bilibili","sort":4,"title":"BREAK OUT STAR","url":"https://www.bilibili.com/bangumi/play/ep92676","time":"2016-07-23T17:00:02.000Z"}]},{"id":640750,"sort":5,"name":"BACK TO THE BABY","sites":[{"site":"bilibili","sort":5,"title":"BACK TO THE BABY","url":"https://www.bilibili.com/bangumi/play/ep92678","time":"2016-08-06T17:00:02.000Z"}]},{"id":640751,"sort":6,"name":"SIX SENSE BLADE","sites":[{"site":"bilibili","sort":6,"title":"SIX SENSE BLADE","url":"https://www.bilibili.com/bangumi/play/ep92679","time":"2016-08-13T17:00:00.000Z"}]},{"id":640752,"sort":7,"name":"胸のBULLET","sites":[{"site":"bilibili","sort":7,"title":"胸前的BULLET","url":"https://www.bilibili.com/bangumi/play/ep92680","time":"2016-08-20T17:00:00.000Z"}]},{"id":640753,"sort":8,"name":"BYE-BYE YESTERDAY","sites":[{"site":"bilibili","sort":8,"title":"BYE-BYE YESTERDAY","url":"https://www.bilibili.com/bangumi/play/ep92681","time":"2016-08-27T17:00:00.000Z"}]},{"id":640754,"sort":9,"name":"浮気なPLAY BOY","sites":[{"site":"bilibili","sort":9,"title":"花心PLAY BOY","url":"https://www.bilibili.com/bangumi/play/ep92682","time":"2016-09-03T17:00:00.000Z"}]},{"id":640755,"sort":10,"name":"BIRTHDAY","sites":[{"site":"bilibili","sort":10,"title":"BIRTHDAY","url":"https://www.bilibili.com/bangumi/play/ep92683","time":"2016-09-10T17:00:00.000Z"}]},{"id":640756,"sort":11,"name":"BEYOND YOU","sites":[{"site":"bilibili","sort":11,"title":"BEYOND YOU","url":"https://www.bilibili.com/bangumi/play/ep92684","time":"2016-09-17T17:00:00.000Z"}]},{"id":640757,"sort":12,"name":"BOYS BE AMBITIOUS!","sites":[{"site":"bilibili","sort":12,"title":"BOYS BE AMBITIOUS","url":"https://www.bilibili.com/bangumi/play/ep92685","time":"2016-09-24T17:00:00.000Z"}]}]}
+{
+ "id": "175568",
+ "name": "B-PROJECT～鼓動＊アンビシャス～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5019",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 640746,
+   "sort": 1,
+   "name": "BOYS MEET GIRL",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "BOYS MEET GIRL",
+     "url": "https://www.bilibili.com/bangumi/play/ep92673",
+     "time": "2016-07-16T17:00:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640747,
+   "sort": 2,
+   "name": "BAD ENDも悪くない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "BAD END也不壞啊",
+     "url": "https://www.bilibili.com/bangumi/play/ep92674",
+     "time": "2016-07-16T17:00:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640748,
+   "sort": 3,
+   "name": "BRILLIANTで行こう☆",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Brilliant閃耀前進吧☆",
+     "url": "https://www.bilibili.com/bangumi/play/ep92675",
+     "time": "2016-07-16T17:00:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640749,
+   "sort": 4,
+   "name": "BREAK OUT STAR",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "BREAK OUT STAR",
+     "url": "https://www.bilibili.com/bangumi/play/ep92676",
+     "time": "2016-07-23T17:00:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640750,
+   "sort": 5,
+   "name": "BACK TO THE BABY",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "BACK TO THE BABY",
+     "url": "https://www.bilibili.com/bangumi/play/ep92678",
+     "time": "2016-08-06T17:00:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640751,
+   "sort": 6,
+   "name": "SIX SENSE BLADE",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "SIX SENSE BLADE",
+     "url": "https://www.bilibili.com/bangumi/play/ep92679",
+     "time": "2016-08-13T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640752,
+   "sort": 7,
+   "name": "胸のBULLET",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "胸前的BULLET",
+     "url": "https://www.bilibili.com/bangumi/play/ep92680",
+     "time": "2016-08-20T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640753,
+   "sort": 8,
+   "name": "BYE-BYE YESTERDAY",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "BYE-BYE YESTERDAY",
+     "url": "https://www.bilibili.com/bangumi/play/ep92681",
+     "time": "2016-08-27T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640754,
+   "sort": 9,
+   "name": "浮気なPLAY BOY",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "花心PLAY BOY",
+     "url": "https://www.bilibili.com/bangumi/play/ep92682",
+     "time": "2016-09-03T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640755,
+   "sort": 10,
+   "name": "BIRTHDAY",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "BIRTHDAY",
+     "url": "https://www.bilibili.com/bangumi/play/ep92683",
+     "time": "2016-09-10T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640756,
+   "sort": 11,
+   "name": "BEYOND YOU",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "BEYOND YOU",
+     "url": "https://www.bilibili.com/bangumi/play/ep92684",
+     "time": "2016-09-17T17:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 640757,
+   "sort": 12,
+   "name": "BOYS BE AMBITIOUS!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "BOYS BE AMBITIOUS",
+     "url": "https://www.bilibili.com/bangumi/play/ep92685",
+     "time": "2016-09-24T17:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

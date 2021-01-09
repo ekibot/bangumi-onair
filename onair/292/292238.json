@@ -1,1 +1,181 @@
-{"id":"292238","name":"ソードアート・オンライン アリシゼーション War of Underworld -THE LAST SEASON-","sites":[{"site":"bilibili","id":"28228119","week":7,"time":"0030","sort":16}],"eps":[{"id":962364,"sort":12.5,"name":"レミニセンス","sites":[{"site":"bilibili","sort":12.5,"title":"回忆","url":"https://www.bilibili.com/bangumi/play/ep330478","time":"2020-07-04T16:30:01.000Z"}]},{"id":905531,"sort":13,"name":"アンダーワールド大戦","sites":[{"site":"bilibili","sort":13,"title":"Under World大战","url":"https://www.bilibili.com/bangumi/play/ep330479","time":"2020-07-11T16:30:01.000Z"}]},{"id":905532,"sort":14,"name":"無限の果て","sites":[{"site":"bilibili","sort":14,"title":"无限的终点","url":"https://www.bilibili.com/bangumi/play/ep330480","time":"2020-07-18T16:30:01.000Z"}]},{"id":905533,"sort":15,"name":"扇動","sites":[{"site":"bilibili","sort":15,"title":"煽动","url":"https://www.bilibili.com/bangumi/play/ep330481","time":"2020-07-25T16:30:01.000Z"}]},{"id":905534,"sort":16,"name":"コード871","sites":[{"site":"bilibili","sort":16,"title":"Code871","url":"https://www.bilibili.com/bangumi/play/ep330482","time":"2020-08-01T16:30:01.000Z"}]},{"id":905535,"sort":17,"name":"悪魔の子","sites":[{"site":"bilibili","sort":17,"title":"恶魔之子","url":"https://www.bilibili.com/bangumi/play/ep330483","time":"2020-08-08T16:30:01.000Z"}]},{"id":905536,"sort":18,"name":"記憶","sites":[{"site":"bilibili","sort":18,"title":"记忆","url":"https://www.bilibili.com/bangumi/play/ep330484","time":"2020-08-15T16:30:01.000Z"}]},{"id":905537,"sort":19,"name":"覚醒","sites":[{"site":"bilibili","sort":19,"title":"觉醒","url":"https://www.bilibili.com/bangumi/play/ep330485","time":"2020-08-22T16:30:01.000Z"}]},{"id":905538,"sort":20,"name":"夜空の剣","sites":[{"site":"bilibili","sort":20,"title":"夜空之剑","url":"https://www.bilibili.com/bangumi/play/ep330486","time":"2020-08-29T16:30:01.000Z"}]},{"id":905539,"sort":21,"name":"時の彼方","sites":[{"site":"bilibili","sort":21,"title":"时间的彼方","url":"https://www.bilibili.com/bangumi/play/ep330487","time":"2020-09-05T16:30:01.000Z"}]},{"id":905540,"sort":22,"name":"アリス","sites":[{"site":"bilibili","sort":22,"title":"爱丽丝","url":"https://www.bilibili.com/bangumi/play/ep330488","time":"2020-09-12T16:30:01.000Z"}]},{"id":905541,"sort":23,"name":"ニューワールド","sites":[{"site":"bilibili","sort":23,"title":"New World","url":"https://www.bilibili.com/bangumi/play/ep330489","time":"2020-09-19T16:30:00.000Z"}]}]}
+{
+ "id": "292238",
+ "name": "ソードアート・オンライン アリシゼーション War of Underworld -THE LAST SEASON-",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28228119",
+   "sort": 16
+  }
+ ],
+ "eps": [
+  {
+   "id": 962364,
+   "sort": 12.5,
+   "name": "レミニセンス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12.5,
+     "title": "回忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep330478",
+     "time": "2020-07-04T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905531,
+   "sort": 13,
+   "name": "アンダーワールド大戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "Under World大战",
+     "url": "https://www.bilibili.com/bangumi/play/ep330479",
+     "time": "2020-07-11T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905532,
+   "sort": 14,
+   "name": "無限の果て",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "无限的终点",
+     "url": "https://www.bilibili.com/bangumi/play/ep330480",
+     "time": "2020-07-18T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905533,
+   "sort": 15,
+   "name": "扇動",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "煽动",
+     "url": "https://www.bilibili.com/bangumi/play/ep330481",
+     "time": "2020-07-25T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905534,
+   "sort": 16,
+   "name": "コード871",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "Code871",
+     "url": "https://www.bilibili.com/bangumi/play/ep330482",
+     "time": "2020-08-01T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905535,
+   "sort": 17,
+   "name": "悪魔の子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "恶魔之子",
+     "url": "https://www.bilibili.com/bangumi/play/ep330483",
+     "time": "2020-08-08T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905536,
+   "sort": 18,
+   "name": "記憶",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "记忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep330484",
+     "time": "2020-08-15T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905537,
+   "sort": 19,
+   "name": "覚醒",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "觉醒",
+     "url": "https://www.bilibili.com/bangumi/play/ep330485",
+     "time": "2020-08-22T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905538,
+   "sort": 20,
+   "name": "夜空の剣",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "夜空之剑",
+     "url": "https://www.bilibili.com/bangumi/play/ep330486",
+     "time": "2020-08-29T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905539,
+   "sort": 21,
+   "name": "時の彼方",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "时间的彼方",
+     "url": "https://www.bilibili.com/bangumi/play/ep330487",
+     "time": "2020-09-05T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905540,
+   "sort": 22,
+   "name": "アリス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "爱丽丝",
+     "url": "https://www.bilibili.com/bangumi/play/ep330488",
+     "time": "2020-09-12T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 905541,
+   "sort": 23,
+   "name": "ニューワールド",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "New World",
+     "url": "https://www.bilibili.com/bangumi/play/ep330489",
+     "time": "2020-09-19T16:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

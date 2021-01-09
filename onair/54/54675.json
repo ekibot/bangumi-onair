@@ -1,1 +1,27 @@
-{"id":"54675","name":"リトルウィッチアカデミア","sites":[{"site":"bilibili","id":"2547","sort":1}],"eps":[{"id":212100,"sort":1,"name":"リトルウィッチアカデミア","sites":[{"site":"bilibili","sort":1,"title":"小魔女学园","url":"https://www.bilibili.com/bangumi/play/ep63670","time":"2015-06-24T04:23:12.000Z"}]}]}
+{
+ "id": "54675",
+ "name": "リトルウィッチアカデミア",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2547",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 212100,
+   "sort": 1,
+   "name": "リトルウィッチアカデミア",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "小魔女学园",
+     "url": "https://www.bilibili.com/bangumi/play/ep63670",
+     "time": "2015-06-24T04:23:12.000Z"
+    }
+   ]
+  }
+ ]
+}

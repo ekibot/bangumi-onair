@@ -1,1 +1,26 @@
-{"id":"135195","name":"はじめの一歩 Champion Road","sites":[{"site":"qq","id":"w/wn72554nzwyr688","sort":1}],"eps":[{"id":534415,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"第一神拳电视特别篇 -冠军之路","url":"https://v.qq.com/x/cover/wn72554nzwyr688/q0033tsourh.html"}]}]}
+{
+ "id": "135195",
+ "name": "はじめの一歩 Champion Road",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "w/wn72554nzwyr688",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 534415,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第一神拳电视特别篇 -冠军之路",
+     "url": "https://v.qq.com/x/cover/wn72554nzwyr688/q0033tsourh.html"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,41 @@
-{"id":"143751","name":"てーきゅう(第6期)","sites":[{"site":"bilibili","id":"2792","sort":12}],"eps":[{"id":673159,"sort":1,"name":"先輩とパシフィック・リム","sites":[{"site":"bilibili","sort":1,"title":"前辈与烈火雄心","url":"https://www.bilibili.com/bangumi/play/ep70882","time":"2015-10-05T16:15:00.000Z"}]},{"id":673160,"sort":2,"name":"兎亀高校庭球部","sites":[{"site":"bilibili","sort":2,"title":"前辈与黄金眼","url":"https://www.bilibili.com/bangumi/play/ep72087","time":"2015-10-12T16:15:00.000Z"}]}]}
+{
+ "id": "143751",
+ "name": "てーきゅう(第6期)",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2792",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 673159,
+   "sort": 9,
+   "name": "先輩とパシフィック・リム",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "前辈与拜见岳父大人",
+     "url": "https://www.bilibili.com/bangumi/play/ep79953",
+     "time": "2015-11-30T16:15:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 673160,
+   "sort": 10,
+   "name": "兎亀高校庭球部",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "前辈与温布尔登",
+     "url": "https://www.bilibili.com/bangumi/play/ep80727",
+     "time": "2015-12-07T16:15:00.000Z"
+    }
+   ]
+  }
+ ]
+}

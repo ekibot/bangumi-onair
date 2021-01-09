@@ -1,1 +1,291 @@
-{"id":"2087","name":"ワールド・デストラクション～世界撲滅の六人～","sites":[{"site":"iqiyi","id":"a_19rrhaai6x","sort":13},{"site":"bilibili","id":"1233","sort":13}],"eps":[{"id":11734,"sort":1,"name":"","sites":[{"site":"iqiyi","sort":1,"title":"勇者有两种","url":"http://www.iqiyi.com/v_19rrl6v4t8.html","time":"2016-01-06T16:00:18.000Z"},{"site":"bilibili","sort":1,"title":"勇者有两种","url":"https://www.bilibili.com/bangumi/play/ep102444","time":"2017-03-18T06:30:06.000Z"}]},{"id":11735,"sort":2,"name":"","sites":[{"site":"iqiyi","sort":2,"title":"世界分为两种","url":"http://www.iqiyi.com/v_19rrl6v45s.html","time":"2016-01-06T16:00:19.000Z"},{"site":"bilibili","sort":2,"title":"世界分为两种","url":"https://www.bilibili.com/bangumi/play/ep102446","time":"2017-03-18T06:30:06.000Z"}]},{"id":11736,"sort":3,"name":"","sites":[{"site":"iqiyi","sort":3,"title":"兽人有两种","url":"http://www.iqiyi.com/v_19rrl6v6ns.html","time":"2016-01-06T16:00:19.000Z"},{"site":"bilibili","sort":3,"title":"兽人有两种","url":"https://www.bilibili.com/bangumi/play/ep102445","time":"2017-03-18T06:30:06.000Z"}]},{"id":11737,"sort":4,"name":"","sites":[{"site":"iqiyi","sort":4,"title":"人类有两种","url":"http://www.iqiyi.com/v_19rrl6uwpo.html","time":"2016-01-06T16:00:23.000Z"},{"site":"bilibili","sort":4,"title":"人类有两种","url":"https://www.bilibili.com/bangumi/play/ep102450","time":"2017-03-18T06:30:06.000Z"}]},{"id":11738,"sort":5,"name":"","sites":[{"site":"iqiyi","sort":5,"title":"男人有两种","url":"http://www.iqiyi.com/v_19rrl6ux3k.html","time":"2016-01-06T16:00:20.000Z"},{"site":"bilibili","sort":5,"title":"男人有两种","url":"https://www.bilibili.com/bangumi/play/ep102448","time":"2017-03-18T06:30:06.000Z"}]},{"id":11739,"sort":6,"name":"","sites":[{"site":"iqiyi","sort":6,"title":"夏天有两种","url":"http://www.iqiyi.com/v_19rrl6uxbw.html","time":"2016-01-06T16:00:23.000Z"},{"site":"bilibili","sort":6,"title":"夏天有两种","url":"https://www.bilibili.com/bangumi/play/ep102449","time":"2017-03-18T06:30:06.000Z"}]},{"id":11740,"sort":7,"name":"","sites":[{"site":"iqiyi","sort":7,"title":"同伴有两种","url":"http://www.iqiyi.com/v_19rrl6uutw.html","time":"2016-01-06T16:00:21.000Z"},{"site":"bilibili","sort":7,"title":"同伴有两种","url":"https://www.bilibili.com/bangumi/play/ep102447","time":"2017-03-18T06:30:06.000Z"}]},{"id":11741,"sort":8,"name":"","sites":[{"site":"iqiyi","sort":8,"title":"送货人有两种","url":"http://www.iqiyi.com/v_19rrl6uvg4.html","time":"2016-01-06T16:00:19.000Z"},{"site":"bilibili","sort":8,"title":"送货人有两种","url":"https://www.bilibili.com/bangumi/play/ep102451","time":"2017-03-18T06:30:06.000Z"}]},{"id":11742,"sort":9,"name":"","sites":[{"site":"iqiyi","sort":9,"title":"秋天有两种","url":"http://www.iqiyi.com/v_19rrl6uvnk.html","time":"2016-01-06T16:00:24.000Z"},{"site":"bilibili","sort":9,"title":"秋天有两种","url":"https://www.bilibili.com/bangumi/play/ep102454","time":"2017-03-18T06:30:06.000Z"}]},{"id":11743,"sort":10,"name":"","sites":[{"site":"iqiyi","sort":10,"title":"机械机器人有108条原则","url":"http://www.iqiyi.com/v_19rrl6uxy0.html","time":"2016-01-06T16:00:24.000Z"},{"site":"bilibili","sort":10,"title":"机械机器人有108条原则","url":"https://www.bilibili.com/bangumi/play/ep102453","time":"2017-03-18T06:30:06.000Z"}]},{"id":11744,"sort":11,"name":"","sites":[{"site":"iqiyi","sort":11,"title":"力量有两种","url":"http://www.iqiyi.com/v_19rrl6v5r4.html","time":"2016-01-06T16:00:17.000Z"},{"site":"bilibili","sort":11,"title":"力量有两种","url":"https://www.bilibili.com/bangumi/play/ep102455","time":"2017-03-18T06:30:06.000Z"}]},{"id":11745,"sort":12,"name":"","sites":[{"site":"iqiyi","sort":12,"title":"过去有两种","url":"http://www.iqiyi.com/v_19rrl6v5sc.html","time":"2016-01-06T16:00:25.000Z"},{"site":"bilibili","sort":12,"title":"过去有两种","url":"https://www.bilibili.com/bangumi/play/ep102452","time":"2017-03-18T06:30:06.000Z"}]},{"id":11746,"sort":13,"name":"","sites":[{"site":"iqiyi","sort":13,"title":"未来有两种","url":"http://www.iqiyi.com/v_19rrl6v634.html","time":"2016-01-06T16:00:25.000Z"},{"site":"bilibili","sort":13,"title":"未来有两种","url":"https://www.bilibili.com/bangumi/play/ep102456","time":"2017-03-18T06:30:06.000Z"}]}]}
+{
+ "id": "2087",
+ "name": "ワールド・デストラクション～世界撲滅の六人～",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhaai6x",
+   "sort": 13
+  },
+  {
+   "site": "bilibili",
+   "id": "1233",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 11734,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "勇者有两种",
+     "url": "http://www.iqiyi.com/v_19rrl6v4t8.html",
+     "time": "2016-01-06T16:00:18.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "勇者有两种",
+     "url": "https://www.bilibili.com/bangumi/play/ep102444",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 11735,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "世界分为两种",
+     "url": "http://www.iqiyi.com/v_19rrl6v45s.html",
+     "time": "2016-01-06T16:00:19.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "世界分为两种",
+     "url": "https://www.bilibili.com/bangumi/play/ep102446",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 11736,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "兽人有两种",
+     "url": "http://www.iqiyi.com/v_19rrl6v6ns.html",
+     "time": "2016-01-06T16:00:19.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "兽人有两种",
+     "url": "https://www.bilibili.com/bangumi/play/ep102445",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 11737,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "人类有两种",
+     "url": "http://www.iqiyi.com/v_19rrl6uwpo.html",
+     "time": "2016-01-06T16:00:23.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "人类有两种",
+     "url": "https://www.bilibili.com/bangumi/play/ep102450",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 11738,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "男人有两种",
+     "url": "http://www.iqiyi.com/v_19rrl6ux3k.html",
+     "time": "2016-01-06T16:00:20.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "男人有两种",
+     "url": "https://www.bilibili.com/bangumi/play/ep102448",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 11739,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "夏天有两种",
+     "url": "http://www.iqiyi.com/v_19rrl6uxbw.html",
+     "time": "2016-01-06T16:00:23.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "夏天有两种",
+     "url": "https://www.bilibili.com/bangumi/play/ep102449",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 11740,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "同伴有两种",
+     "url": "http://www.iqiyi.com/v_19rrl6uutw.html",
+     "time": "2016-01-06T16:00:21.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "同伴有两种",
+     "url": "https://www.bilibili.com/bangumi/play/ep102447",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 11741,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "送货人有两种",
+     "url": "http://www.iqiyi.com/v_19rrl6uvg4.html",
+     "time": "2016-01-06T16:00:19.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "送货人有两种",
+     "url": "https://www.bilibili.com/bangumi/play/ep102451",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 11742,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "秋天有两种",
+     "url": "http://www.iqiyi.com/v_19rrl6uvnk.html",
+     "time": "2016-01-06T16:00:24.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "秋天有两种",
+     "url": "https://www.bilibili.com/bangumi/play/ep102454",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 11743,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "机械机器人有108条原则",
+     "url": "http://www.iqiyi.com/v_19rrl6uxy0.html",
+     "time": "2016-01-06T16:00:24.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "机械机器人有108条原则",
+     "url": "https://www.bilibili.com/bangumi/play/ep102453",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 11744,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "力量有两种",
+     "url": "http://www.iqiyi.com/v_19rrl6v5r4.html",
+     "time": "2016-01-06T16:00:17.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "力量有两种",
+     "url": "https://www.bilibili.com/bangumi/play/ep102455",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 11745,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "过去有两种",
+     "url": "http://www.iqiyi.com/v_19rrl6v5sc.html",
+     "time": "2016-01-06T16:00:25.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "过去有两种",
+     "url": "https://www.bilibili.com/bangumi/play/ep102452",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 11746,
+   "sort": 13,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 13,
+     "title": "未来有两种",
+     "url": "http://www.iqiyi.com/v_19rrl6v634.html",
+     "time": "2016-01-06T16:00:25.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "未来有两种",
+     "url": "https://www.bilibili.com/bangumi/play/ep102456",
+     "time": "2017-03-18T06:30:06.000Z"
+    }
+   ]
+  }
+ ]
+}

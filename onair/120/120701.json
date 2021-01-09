@@ -1,1 +1,181 @@
-{"id":"120701","name":"雨色ココア","sites":[{"site":"bilibili","id":"1550","sort":12}],"eps":[{"id":513142,"sort":1,"name":"都倉碧です","sites":[{"site":"bilibili","sort":1,"title":"我是都仓碧","url":"https://www.bilibili.com/bangumi/play/ep28922","time":"2015-04-05T15:28:46.000Z"}]},{"id":513143,"sort":2,"name":"オーナーの仕事？","sites":[{"site":"bilibili","sort":2,"title":"主人的工作？","url":"https://www.bilibili.com/bangumi/play/ep29117","time":"2015-04-12T15:28:06.000Z"}]},{"id":513144,"sort":3,"name":"開店準備…？","sites":[{"site":"bilibili","sort":3,"title":"开店准备？","url":"https://www.bilibili.com/bangumi/play/ep29987","time":"2015-04-19T15:28:00.000Z"}]},{"id":513145,"sort":4,"name":"啓一の素顔","sites":[{"site":"bilibili","sort":4,"title":"啓一真面目","url":"https://www.bilibili.com/bangumi/play/ep35264","time":"2015-04-26T15:28:29.000Z"}]},{"id":513146,"sort":5,"name":"ふたりは親友!?","sites":[{"site":"bilibili","sort":5,"title":"两个人是亲友!?","url":"https://www.bilibili.com/bangumi/play/ep36423","time":"2015-05-03T15:28:25.000Z"}]},{"id":513147,"sort":6,"name":"ふたりの距離①","sites":[{"site":"bilibili","sort":6,"title":"两个人的距离①","url":"https://www.bilibili.com/bangumi/play/ep45753","time":"2015-05-10T15:28:28.000Z"}]},{"id":513148,"sort":7,"name":"ふたりの距離②","sites":[{"site":"bilibili","sort":7,"title":"两个人的距离②","url":"https://www.bilibili.com/bangumi/play/ep54274","time":"2015-05-17T15:28:00.000Z"}]},{"id":513149,"sort":8,"name":"ふたりの距離③","sites":[{"site":"bilibili","sort":8,"title":"两个人的距离③","url":"https://www.bilibili.com/bangumi/play/ep62418","time":"2015-05-24T15:28:00.000Z"}]},{"id":513150,"sort":9,"name":"ふたりの距離④","sites":[{"site":"bilibili","sort":9,"title":"两个人的距离④","url":"https://www.bilibili.com/bangumi/play/ep62697","time":"2015-05-31T15:28:00.000Z"}]},{"id":513151,"sort":10,"name":"ふたりの距離⑤","sites":[{"site":"bilibili","sort":10,"title":"两个人的距离⑤","url":"https://www.bilibili.com/bangumi/play/ep62755","time":"2015-06-07T15:28:00.000Z"}]},{"id":513152,"sort":11,"name":"ふたりの距離⑥","sites":[{"site":"bilibili","sort":11,"title":"两个人的距离⑥","url":"https://www.bilibili.com/bangumi/play/ep62863","time":"2015-06-14T15:28:08.000Z"}]},{"id":513153,"sort":12,"name":"ふたりの距離⑦","sites":[{"site":"bilibili","sort":12,"title":"两个人的距离⑦","url":"https://www.bilibili.com/bangumi/play/ep63593","time":"2015-06-21T15:28:32.000Z"}]}]}
+{
+ "id": "120701",
+ "name": "雨色ココア",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1550",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 513142,
+   "sort": 1,
+   "name": "都倉碧です",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "我是都仓碧",
+     "url": "https://www.bilibili.com/bangumi/play/ep28922",
+     "time": "2015-04-05T15:28:46.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513143,
+   "sort": 2,
+   "name": "オーナーの仕事？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "主人的工作？",
+     "url": "https://www.bilibili.com/bangumi/play/ep29117",
+     "time": "2015-04-12T15:28:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513144,
+   "sort": 3,
+   "name": "開店準備…？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "开店准备？",
+     "url": "https://www.bilibili.com/bangumi/play/ep29987",
+     "time": "2015-04-19T15:28:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513145,
+   "sort": 4,
+   "name": "啓一の素顔",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "啓一真面目",
+     "url": "https://www.bilibili.com/bangumi/play/ep35264",
+     "time": "2015-04-26T15:28:29.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513146,
+   "sort": 5,
+   "name": "ふたりは親友!?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "两个人是亲友!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep36423",
+     "time": "2015-05-03T15:28:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513147,
+   "sort": 6,
+   "name": "ふたりの距離①",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "两个人的距离①",
+     "url": "https://www.bilibili.com/bangumi/play/ep45753",
+     "time": "2015-05-10T15:28:28.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513148,
+   "sort": 7,
+   "name": "ふたりの距離②",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "两个人的距离②",
+     "url": "https://www.bilibili.com/bangumi/play/ep54274",
+     "time": "2015-05-17T15:28:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513149,
+   "sort": 8,
+   "name": "ふたりの距離③",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "两个人的距离③",
+     "url": "https://www.bilibili.com/bangumi/play/ep62418",
+     "time": "2015-05-24T15:28:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513150,
+   "sort": 9,
+   "name": "ふたりの距離④",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "两个人的距离④",
+     "url": "https://www.bilibili.com/bangumi/play/ep62697",
+     "time": "2015-05-31T15:28:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513151,
+   "sort": 10,
+   "name": "ふたりの距離⑤",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "两个人的距离⑤",
+     "url": "https://www.bilibili.com/bangumi/play/ep62755",
+     "time": "2015-06-07T15:28:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513152,
+   "sort": 11,
+   "name": "ふたりの距離⑥",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "两个人的距离⑥",
+     "url": "https://www.bilibili.com/bangumi/play/ep62863",
+     "time": "2015-06-14T15:28:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 513153,
+   "sort": 12,
+   "name": "ふたりの距離⑦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "两个人的距离⑦",
+     "url": "https://www.bilibili.com/bangumi/play/ep63593",
+     "time": "2015-06-21T15:28:32.000Z"
+    }
+   ]
+  }
+ ]
+}

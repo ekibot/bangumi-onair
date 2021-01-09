@@ -1,1 +1,195 @@
-{"id":"40651","name":"好きっていいなよ。","sites":[{"site":"bilibili","id":"735","sort":13}],"eps":[{"id":193974,"sort":1,"name":"キスをした","sites":[{"site":"bilibili","sort":1,"title":"接吻","url":"https://www.bilibili.com/bangumi/play/ep13264","time":"2012-10-05T19:11:00.000Z"}]},{"id":193975,"sort":2,"name":"唐あげ味の","sites":[{"site":"bilibili","sort":2,"title":"炸鸡味的","url":"https://www.bilibili.com/bangumi/play/ep13263","time":"2012-10-14T01:28:00.000Z"}]},{"id":193976,"sort":3,"name":"人を信じれば……","sites":[{"site":"bilibili","sort":3,"title":"相信别人……","url":"https://www.bilibili.com/bangumi/play/ep13262","time":"2012-10-21T02:18:00.000Z"}]},{"id":193977,"sort":4,"name":"傷が、ある","sites":[{"site":"bilibili","sort":4,"title":"曾有的伤","url":"https://www.bilibili.com/bangumi/play/ep13261","time":"2012-10-28T09:37:00.000Z"}]},{"id":193978,"sort":5,"name":"このままが","sites":[{"site":"bilibili","sort":5,"title":"像现在这样","url":"https://www.bilibili.com/bangumi/play/ep13260","time":"2012-11-04T02:57:00.000Z"}]},{"id":193979,"sort":6,"name":"どうして…","sites":[{"site":"bilibili","sort":6,"title":"为什么…","url":"https://www.bilibili.com/bangumi/play/ep13259","time":"2012-11-11T00:48:00.000Z"}]},{"id":193980,"sort":7,"name":"好き、なのに","sites":[{"site":"bilibili","sort":7,"title":"就是喜欢","url":"https://www.bilibili.com/bangumi/play/ep13258","time":"2012-11-18T00:57:00.000Z"}]},{"id":193981,"sort":8,"name":"恋愛初心者","sites":[{"site":"bilibili","sort":8,"title":"恋爱初学者","url":"https://www.bilibili.com/bangumi/play/ep13257","time":"2012-11-24T22:30:00.000Z"}]},{"id":193982,"sort":9,"name":"それぞれの","sites":[{"site":"bilibili","sort":9,"title":"各自纷扰","url":"https://www.bilibili.com/bangumi/play/ep13256","time":"2012-12-02T00:19:00.000Z"}]},{"id":193983,"sort":10,"name":"他には何も","sites":[{"site":"bilibili","sort":10,"title":"别无所求","url":"https://www.bilibili.com/bangumi/play/ep13255","time":"2012-12-09T02:28:00.000Z"}]},{"id":193984,"sort":11,"name":"パレード","sites":[{"site":"bilibili","sort":11,"title":"游行","url":"https://www.bilibili.com/bangumi/play/ep13254","time":"2012-12-16T03:07:00.000Z"}]},{"id":193985,"sort":12,"name":"守ってるよ","sites":[{"site":"bilibili","sort":12,"title":"我会一直保护你的","url":"https://www.bilibili.com/bangumi/play/ep13253","time":"2012-12-23T01:42:00.000Z"}]},{"id":193986,"sort":13,"name":"Say &quot;I love you&quot;","sites":[{"site":"bilibili","sort":13,"title":"Say \"I love you\"","url":"https://www.bilibili.com/bangumi/play/ep13252","time":"2012-12-30T00:47:00.000Z"}]}]}
+{
+ "id": "40651",
+ "name": "好きっていいなよ。",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "735",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 193974,
+   "sort": 1,
+   "name": "キスをした",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "接吻",
+     "url": "https://www.bilibili.com/bangumi/play/ep13264",
+     "time": "2012-10-05T19:11:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 193975,
+   "sort": 2,
+   "name": "唐あげ味の",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "炸鸡味的",
+     "url": "https://www.bilibili.com/bangumi/play/ep13263",
+     "time": "2012-10-14T01:28:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 193976,
+   "sort": 3,
+   "name": "人を信じれば……",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "相信别人……",
+     "url": "https://www.bilibili.com/bangumi/play/ep13262",
+     "time": "2012-10-21T02:18:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 193977,
+   "sort": 4,
+   "name": "傷が、ある",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "曾有的伤",
+     "url": "https://www.bilibili.com/bangumi/play/ep13261",
+     "time": "2012-10-28T09:37:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 193978,
+   "sort": 5,
+   "name": "このままが",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "像现在这样",
+     "url": "https://www.bilibili.com/bangumi/play/ep13260",
+     "time": "2012-11-04T02:57:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 193979,
+   "sort": 6,
+   "name": "どうして…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "为什么…",
+     "url": "https://www.bilibili.com/bangumi/play/ep13259",
+     "time": "2012-11-11T00:48:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 193980,
+   "sort": 7,
+   "name": "好き、なのに",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "就是喜欢",
+     "url": "https://www.bilibili.com/bangumi/play/ep13258",
+     "time": "2012-11-18T00:57:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 193981,
+   "sort": 8,
+   "name": "恋愛初心者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "恋爱初学者",
+     "url": "https://www.bilibili.com/bangumi/play/ep13257",
+     "time": "2012-11-24T22:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 193982,
+   "sort": 9,
+   "name": "それぞれの",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "各自纷扰",
+     "url": "https://www.bilibili.com/bangumi/play/ep13256",
+     "time": "2012-12-02T00:19:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 193983,
+   "sort": 10,
+   "name": "他には何も",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "别无所求",
+     "url": "https://www.bilibili.com/bangumi/play/ep13255",
+     "time": "2012-12-09T02:28:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 193984,
+   "sort": 11,
+   "name": "パレード",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "游行",
+     "url": "https://www.bilibili.com/bangumi/play/ep13254",
+     "time": "2012-12-16T03:07:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 193985,
+   "sort": 12,
+   "name": "守ってるよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "我会一直保护你的",
+     "url": "https://www.bilibili.com/bangumi/play/ep13253",
+     "time": "2012-12-23T01:42:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 193986,
+   "sort": 13,
+   "name": "Say &quot;I love you&quot;",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "Say \"I love you\"",
+     "url": "https://www.bilibili.com/bangumi/play/ep13252",
+     "time": "2012-12-30T00:47:00.000Z"
+    }
+   ]
+  }
+ ]
+}

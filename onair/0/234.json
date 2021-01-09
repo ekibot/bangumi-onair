@@ -1,1 +1,271 @@
-{"id":"234","name":"AIR","sites":[{"site":"qq","id":"6/6kqmd0vvva39lba","sort":15},{"site":"bilibili","id":"1816","sort":12}],"eps":[{"id":1794,"sort":1,"name":"かぜ～breeze～","sites":[{"site":"qq","sort":1,"title":"青空AIR_01","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/z0033labsqm.html"},{"site":"bilibili","sort":1,"title":"微风～breeze～","url":"https://www.bilibili.com/bangumi/play/ep36852","time":"2018-07-21T09:41:00.000Z"}]},{"id":1795,"sort":2,"name":"まち～town～","sites":[{"site":"qq","sort":2,"title":"青空AIR_02","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/s00333nj2my.html"},{"site":"bilibili","sort":2,"title":"小镇～town～","url":"https://www.bilibili.com/bangumi/play/ep36853","time":"2018-07-21T09:41:00.000Z"}]},{"id":1796,"sort":3,"name":"こえ～whisper～","sites":[{"site":"qq","sort":3,"title":"青空AIR_03","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/c0033jji634.html"},{"site":"bilibili","sort":3,"title":"细语～whisper～","url":"https://www.bilibili.com/bangumi/play/ep36854","time":"2018-07-21T09:41:00.000Z"}]},{"id":1797,"sort":4,"name":"はね～plume～","sites":[{"site":"qq","sort":4,"title":"青空AIR_04","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/j00339fhr0k.html"},{"site":"bilibili","sort":4,"title":"羽毛～plume～","url":"https://www.bilibili.com/bangumi/play/ep36855","time":"2018-07-21T09:41:00.000Z"}]},{"id":1798,"sort":5,"name":"つばさ～wing～","sites":[{"site":"qq","sort":5,"title":"青空AIR_05","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/v0033h5pl1r.html"},{"site":"bilibili","sort":5,"title":"翼～wing～","url":"https://www.bilibili.com/bangumi/play/ep36856","time":"2018-07-21T09:41:00.000Z"}]},{"id":1799,"sort":6,"name":"ほし～star～","sites":[{"site":"qq","sort":6,"title":"青空AIR_06","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/s0033l5w5ne.html"},{"site":"bilibili","sort":6,"title":"星～star～","url":"https://www.bilibili.com/bangumi/play/ep36857","time":"2018-07-21T09:41:00.000Z"}]},{"id":1800,"sort":7,"name":"ゆめ～dream～","sites":[{"site":"qq","sort":7,"title":"青空AIR_07","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/a00338psje7.html"},{"site":"bilibili","sort":7,"title":"梦～dream～","url":"https://www.bilibili.com/bangumi/play/ep36858","time":"2018-07-21T09:41:00.000Z"}]},{"id":1801,"sort":8,"name":"なつ～summer～","sites":[{"site":"qq","sort":8,"title":"青空AIR_08","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/j0033l7v9ji.html"},{"site":"bilibili","sort":8,"title":"夏～summer～","url":"https://www.bilibili.com/bangumi/play/ep36859","time":"2018-07-21T09:41:00.000Z"}]},{"id":1802,"sort":9,"name":"つき～moon～","sites":[{"site":"qq","sort":9,"title":"青空AIR_09","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/d0033d0mpx5.html"},{"site":"bilibili","sort":9,"title":"月～moon～","url":"https://www.bilibili.com/bangumi/play/ep36860","time":"2018-07-21T09:41:00.000Z"}]},{"id":1803,"sort":10,"name":"ひかり～light～","sites":[{"site":"qq","sort":10,"title":"青空AIR_10","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/x0033vgk1a7.html"},{"site":"bilibili","sort":10,"title":"光～light～","url":"https://www.bilibili.com/bangumi/play/ep36861","time":"2018-07-21T09:41:00.000Z"}]},{"id":1804,"sort":11,"name":"うみ～sea～","sites":[{"site":"qq","sort":11,"title":"青空AIR_11","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/x0033fg6d6o.html"},{"site":"bilibili","sort":11,"title":"海～sea～","url":"https://www.bilibili.com/bangumi/play/ep36862","time":"2018-07-21T09:41:00.000Z"}]},{"id":1805,"sort":12,"name":"そら～air～","sites":[{"site":"qq","sort":12,"title":"青空AIR_12","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/k0033wzvorl.html"},{"site":"bilibili","sort":12,"title":"青空～air～","url":"https://www.bilibili.com/bangumi/play/ep36863","time":"2018-07-21T09:42:00.000Z"}]},{"id":1806,"sort":13,"name":"総集編","sites":[{"site":"qq","sort":13,"title":"青空AIR_13","url":"https://v.qq.com/x/cover/6kqmd0vvva39lba/c00334c4i45.html"}]}]}
+{
+ "id": "234",
+ "name": "AIR",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "6/6kqmd0vvva39lba",
+   "sort": 15
+  },
+  {
+   "site": "bilibili",
+   "id": "1816",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 1794,
+   "sort": 1,
+   "name": "かぜ～breeze～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "青空AIR_01",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/z0033labsqm.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "微风～breeze～",
+     "url": "https://www.bilibili.com/bangumi/play/ep36852",
+     "time": "2018-07-21T09:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1795,
+   "sort": 2,
+   "name": "まち～town～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "青空AIR_02",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/s00333nj2my.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "小镇～town～",
+     "url": "https://www.bilibili.com/bangumi/play/ep36853",
+     "time": "2018-07-21T09:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1796,
+   "sort": 3,
+   "name": "こえ～whisper～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "青空AIR_03",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/c0033jji634.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "细语～whisper～",
+     "url": "https://www.bilibili.com/bangumi/play/ep36854",
+     "time": "2018-07-21T09:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1797,
+   "sort": 4,
+   "name": "はね～plume～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "青空AIR_04",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/j00339fhr0k.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "羽毛～plume～",
+     "url": "https://www.bilibili.com/bangumi/play/ep36855",
+     "time": "2018-07-21T09:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1798,
+   "sort": 5,
+   "name": "つばさ～wing～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "青空AIR_05",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/v0033h5pl1r.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "翼～wing～",
+     "url": "https://www.bilibili.com/bangumi/play/ep36856",
+     "time": "2018-07-21T09:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1799,
+   "sort": 6,
+   "name": "ほし～star～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "青空AIR_06",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/s0033l5w5ne.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "星～star～",
+     "url": "https://www.bilibili.com/bangumi/play/ep36857",
+     "time": "2018-07-21T09:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1800,
+   "sort": 7,
+   "name": "ゆめ～dream～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "青空AIR_07",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/a00338psje7.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "梦～dream～",
+     "url": "https://www.bilibili.com/bangumi/play/ep36858",
+     "time": "2018-07-21T09:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1801,
+   "sort": 8,
+   "name": "なつ～summer～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "青空AIR_08",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/j0033l7v9ji.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "夏～summer～",
+     "url": "https://www.bilibili.com/bangumi/play/ep36859",
+     "time": "2018-07-21T09:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1802,
+   "sort": 9,
+   "name": "つき～moon～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "青空AIR_09",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/d0033d0mpx5.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "月～moon～",
+     "url": "https://www.bilibili.com/bangumi/play/ep36860",
+     "time": "2018-07-21T09:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1803,
+   "sort": 10,
+   "name": "ひかり～light～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "青空AIR_10",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/x0033vgk1a7.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "光～light～",
+     "url": "https://www.bilibili.com/bangumi/play/ep36861",
+     "time": "2018-07-21T09:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1804,
+   "sort": 11,
+   "name": "うみ～sea～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "青空AIR_11",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/x0033fg6d6o.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "海～sea～",
+     "url": "https://www.bilibili.com/bangumi/play/ep36862",
+     "time": "2018-07-21T09:41:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1805,
+   "sort": 12,
+   "name": "そら～air～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "青空AIR_12",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/k0033wzvorl.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "青空～air～",
+     "url": "https://www.bilibili.com/bangumi/play/ep36863",
+     "time": "2018-07-21T09:42:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1806,
+   "sort": 13,
+   "name": "総集編",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "青空AIR_13",
+     "url": "https://v.qq.com/x/cover/6kqmd0vvva39lba/c00334c4i45.html"
+    }
+   ]
+  }
+ ]
+}

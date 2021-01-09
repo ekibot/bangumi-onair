@@ -1,1 +1,335 @@
-{"id":"90222","name":"神々の悪戯","sites":[{"site":"qq","id":"5/5ok7kcoif1avn8c","sort":12},{"site":"bilibili","id":"170","sort":12},{"site":"youku","id":"a8216ff2734e11e3b8b7","sort":12}],"eps":[{"id":385114,"sort":1,"name":"禁じられた箱庭（がくえん）","sites":[{"site":"qq","sort":1,"title":"第01话 禁忌的学院","url":"http://v.youku.com/v_show/id_XNjU2NDk5NTg0.html"},{"site":"bilibili","sort":1,"title":"禁忌的箱庭（校园）","url":"https://www.bilibili.com/bangumi/play/ep4105","time":"2014-04-06T12:27:22.000Z"}]},{"id":385115,"sort":2,"name":"美しき呪縛（かせ）","sites":[{"site":"qq","sort":2,"title":"第02话 美丽的枷锁","url":"http://v.youku.com/v_show/id_XNjk4NjY2OTQ4.html"},{"site":"bilibili","sort":2,"title":"美丽的咒缚（枷锁）","url":"https://www.bilibili.com/bangumi/play/ep4104","time":"2014-04-13T09:26:03.000Z"}]},{"id":385116,"sort":3,"name":"海風の葛藤（いさかい）","sites":[{"site":"qq","sort":3,"title":"第03话 海风的纠葛","url":"http://v.youku.com/v_show/id_XNzAxNjA1NjE2.html"},{"site":"bilibili","sort":3,"title":"海风的纠葛","url":"https://www.bilibili.com/bangumi/play/ep4103","time":"2014-04-20T09:04:27.000Z"}]},{"id":385117,"sort":4,"name":"冥王の不幸（のろい）","sites":[{"site":"qq","sort":4,"title":"第04话 冥王的不幸","url":"http://v.youku.com/v_show/id_XNzA0ODc3NzA0.html"},{"site":"bilibili","sort":4,"title":"冥王的不幸（诅咒）","url":"https://www.bilibili.com/bangumi/play/ep4102","time":"2014-04-27T08:36:36.000Z"}]},{"id":385118,"sort":5,"name":"許されざる激情（こころ）","sites":[{"site":"qq","sort":5,"title":"第05话 不能被原谅的激情(心意)","url":"http://v.youku.com/v_show/id_XNzA3NTA4MDA4.html"},{"site":"bilibili","sort":5,"title":"不可饶恕的激情（心）","url":"https://www.bilibili.com/bangumi/play/ep4101","time":"2014-05-04T07:41:48.000Z"}]},{"id":385119,"sort":6,"name":"月光の指輪（きもち）","sites":[{"site":"qq","sort":6,"title":"第06话 月光的戒指","url":"http://v.youku.com/v_show/id_XNzEwNTUyOTM2.html"},{"site":"bilibili","sort":6,"title":"月光的戒指（心绪）","url":"https://www.bilibili.com/bangumi/play/ep4100","time":"2014-05-11T08:24:24.000Z"}]},{"id":385120,"sort":7,"name":"雪原の約束（ちかい）","sites":[{"site":"qq","sort":7,"title":"第07话 雪原的约定","url":"http://v.youku.com/v_show/id_XNzEzOTE4ODQw.html"},{"site":"bilibili","sort":7,"title":"雪原的约定（誓约）","url":"https://www.bilibili.com/bangumi/play/ep4099","time":"2014-05-18T14:49:25.000Z"}]},{"id":385121,"sort":8,"name":"光たる羨望（こどく）","sites":[{"site":"qq","sort":8,"title":"第08话 光神的孤独","url":"http://v.youku.com/v_show/id_XNjc3MjI3Njk2.html"},{"site":"bilibili","sort":8,"title":"光明的羡慕（孤独）","url":"https://www.bilibili.com/bangumi/play/ep4098","time":"2014-05-25T14:49:41.000Z"}]},{"id":385122,"sort":9,"name":"昏き花散る迷宮（おり）","sites":[{"site":"qq","sort":9,"title":"第09话 黄昏落花之迷宫","url":"http://v.youku.com/v_show/id_XNzIxNDE0OTcy.html"},{"site":"bilibili","sort":9,"title":"昏暗的落花迷宫（牢笼）","url":"https://www.bilibili.com/bangumi/play/ep4097","time":"2014-06-01T09:54:21.000Z"}]},{"id":385123,"sort":10,"name":"愛すべき日常（うたかた）","sites":[{"site":"qq","sort":10,"title":"第10话 應憐爱的日常","url":"http://v.youku.com/v_show/id_XNzIzNjg5Mjcy.html"},{"site":"bilibili","sort":10,"title":"应该去爱的日常（泡影）","url":"https://www.bilibili.com/bangumi/play/ep4096","time":"2014-06-08T14:59:57.000Z"}]},{"id":385124,"sort":11,"name":"宿命の牢獄（くさり）","sites":[{"site":"qq","sort":11,"title":"第11话 命运的监牢(锁链)","url":"http://v.youku.com/v_show/id_XNzI3MDgzMDQw.html"},{"site":"bilibili","sort":11,"title":"宿命的牢狱（锁链）","url":"https://www.bilibili.com/bangumi/play/ep4095","time":"2014-06-15T12:58:44.000Z"}]},{"id":385125,"sort":12,"name":"永遠の終止符（わかれ）","sites":[{"site":"qq","sort":12,"title":"第12话 永远的终止符","url":"http://v.youku.com/v_show/id_XNzMwMjkwMTI0.html"},{"site":"bilibili","sort":12,"title":"永远的句点（离别）","url":"https://www.bilibili.com/bangumi/play/ep4094","time":"2014-06-22T08:48:43.000Z"}]}]}
+{
+ "id": "90222",
+ "name": "神々の悪戯",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "a8216ff2734e11e3b8b7",
+   "sort": 12
+  },
+  {
+   "site": "qq",
+   "id": "5/5ok7kcoif1avn8c",
+   "sort": 12
+  },
+  {
+   "site": "bilibili",
+   "id": "170",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 385114,
+   "sort": 1,
+   "name": "禁じられた箱庭（がくえん）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 禁忌的学院",
+     "url": "https://v.youku.com/v_show/id_XNjk1MzEzMzY0.html?s=a8216ff2734e11e3b8b7"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第01话 禁忌的学院",
+     "url": "http://v.youku.com/v_show/id_XNjU2NDk5NTg0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "禁忌的箱庭（校园）",
+     "url": "https://www.bilibili.com/bangumi/play/ep4105",
+     "time": "2014-04-06T12:27:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385115,
+   "sort": 2,
+   "name": "美しき呪縛（かせ）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 美丽的枷锁",
+     "url": "https://v.youku.com/v_show/id_XNjk4NjY2OTQ4.html?s=a8216ff2734e11e3b8b7"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "第02话 美丽的枷锁",
+     "url": "http://v.youku.com/v_show/id_XNjk4NjY2OTQ4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "美丽的咒缚（枷锁）",
+     "url": "https://www.bilibili.com/bangumi/play/ep4104",
+     "time": "2014-04-13T09:26:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385116,
+   "sort": 3,
+   "name": "海風の葛藤（いさかい）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 海风的纠葛",
+     "url": "https://v.youku.com/v_show/id_XNzAxNjA1NjE2.html?s=a8216ff2734e11e3b8b7"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "第03话 海风的纠葛",
+     "url": "http://v.youku.com/v_show/id_XNzAxNjA1NjE2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "海风的纠葛",
+     "url": "https://www.bilibili.com/bangumi/play/ep4103",
+     "time": "2014-04-20T09:04:27.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385117,
+   "sort": 4,
+   "name": "冥王の不幸（のろい）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 冥王的不幸",
+     "url": "https://v.youku.com/v_show/id_XNzA0ODc3NzA0.html?s=a8216ff2734e11e3b8b7"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "第04话 冥王的不幸",
+     "url": "http://v.youku.com/v_show/id_XNzA0ODc3NzA0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "冥王的不幸（诅咒）",
+     "url": "https://www.bilibili.com/bangumi/play/ep4102",
+     "time": "2014-04-27T08:36:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385118,
+   "sort": 5,
+   "name": "許されざる激情（こころ）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 不能被原谅的激情(心意)",
+     "url": "https://v.youku.com/v_show/id_XNzA3NTA4MDA4.html?s=a8216ff2734e11e3b8b7"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "第05话 不能被原谅的激情(心意)",
+     "url": "http://v.youku.com/v_show/id_XNzA3NTA4MDA4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "不可饶恕的激情（心）",
+     "url": "https://www.bilibili.com/bangumi/play/ep4101",
+     "time": "2014-05-04T07:41:48.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385119,
+   "sort": 6,
+   "name": "月光の指輪（きもち）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 月光的戒指",
+     "url": "https://v.youku.com/v_show/id_XNzEwNTUyOTM2.html?s=a8216ff2734e11e3b8b7"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "第06话 月光的戒指",
+     "url": "http://v.youku.com/v_show/id_XNzEwNTUyOTM2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "月光的戒指（心绪）",
+     "url": "https://www.bilibili.com/bangumi/play/ep4100",
+     "time": "2014-05-11T08:24:24.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385120,
+   "sort": 7,
+   "name": "雪原の約束（ちかい）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 雪原的约定",
+     "url": "https://v.youku.com/v_show/id_XNzEzOTE4ODQw.html?s=a8216ff2734e11e3b8b7"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "第07话 雪原的约定",
+     "url": "http://v.youku.com/v_show/id_XNzEzOTE4ODQw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "雪原的约定（誓约）",
+     "url": "https://www.bilibili.com/bangumi/play/ep4099",
+     "time": "2014-05-18T14:49:25.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385121,
+   "sort": 8,
+   "name": "光たる羨望（こどく）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 光神的孤独",
+     "url": "https://v.youku.com/v_show/id_XNzE3MTgwMTE2.html?s=a8216ff2734e11e3b8b7"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "第08话 光神的孤独",
+     "url": "http://v.youku.com/v_show/id_XNjc3MjI3Njk2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "光明的羡慕（孤独）",
+     "url": "https://www.bilibili.com/bangumi/play/ep4098",
+     "time": "2014-05-25T14:49:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385122,
+   "sort": 9,
+   "name": "昏き花散る迷宮（おり）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 黄昏落花之迷宫",
+     "url": "https://v.youku.com/v_show/id_XNzIxNDE0OTcy.html?s=a8216ff2734e11e3b8b7"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "第09话 黄昏落花之迷宫",
+     "url": "http://v.youku.com/v_show/id_XNzIxNDE0OTcy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "昏暗的落花迷宫（牢笼）",
+     "url": "https://www.bilibili.com/bangumi/play/ep4097",
+     "time": "2014-06-01T09:54:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385123,
+   "sort": 10,
+   "name": "愛すべき日常（うたかた）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 應憐爱的日常",
+     "url": "https://v.youku.com/v_show/id_XNzIzNjg5Mjcy.html?s=a8216ff2734e11e3b8b7"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "第10话 應憐爱的日常",
+     "url": "http://v.youku.com/v_show/id_XNzIzNjg5Mjcy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "应该去爱的日常（泡影）",
+     "url": "https://www.bilibili.com/bangumi/play/ep4096",
+     "time": "2014-06-08T14:59:57.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385124,
+   "sort": 11,
+   "name": "宿命の牢獄（くさり）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 命运的监牢(锁链)",
+     "url": "https://v.youku.com/v_show/id_XNzI3MDgzMDQw.html?s=a8216ff2734e11e3b8b7"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "第11话 命运的监牢(锁链)",
+     "url": "http://v.youku.com/v_show/id_XNzI3MDgzMDQw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "宿命的牢狱（锁链）",
+     "url": "https://www.bilibili.com/bangumi/play/ep4095",
+     "time": "2014-06-15T12:58:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 385125,
+   "sort": 12,
+   "name": "永遠の終止符（わかれ）",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 永远的终止符",
+     "url": "https://v.youku.com/v_show/id_XNzMwMjkwMTI0.html?s=a8216ff2734e11e3b8b7"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "第12话 永远的终止符",
+     "url": "http://v.youku.com/v_show/id_XNzMwMjkwMTI0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "永远的句点（离别）",
+     "url": "https://www.bilibili.com/bangumi/play/ep4094",
+     "time": "2014-06-22T08:48:43.000Z"
+    }
+   ]
+  }
+ ]
+}

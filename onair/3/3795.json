@@ -1,1 +1,195 @@
-{"id":"3795","name":"NieA_7","sites":[{"site":"bilibili","id":"2153","sort":13}],"eps":[{"id":27503,"sort":1,"name":"宇宙人と、打ち上げUFOの湯","sites":[{"site":"bilibili","sort":1,"title":"外星人与UFO","url":"https://www.bilibili.com/bangumi/play/ep46919","time":"2012-01-02T18:49:11.000Z"}]},{"id":27504,"sort":2,"name":"宇宙人と、暴れ宇宙風呂の湯","sites":[{"site":"bilibili","sort":2,"title":"外星人大闹宇宙澡堂","url":"https://www.bilibili.com/bangumi/play/ep46920","time":"2012-01-02T18:49:11.000Z"}]},{"id":27505,"sort":3,"name":"宇宙人と、レディオノイズの湯","sites":[{"site":"bilibili","sort":3,"title":"外星人与收音机","url":"https://www.bilibili.com/bangumi/play/ep46921","time":"2012-01-02T18:49:11.000Z"}]},{"id":27506,"sort":4,"name":"宇宙人と、新米ウェイトレスの湯","sites":[{"site":"bilibili","sort":4,"title":"外星人与菜鸟女服务生","url":"https://www.bilibili.com/bangumi/play/ep46922","time":"2012-01-02T18:49:11.000Z"}]},{"id":27507,"sort":5,"name":"宇宙人と、激枯アミューズメントの湯","sites":[{"site":"bilibili","sort":5,"title":"外星人与超刺激娱乐","url":"https://www.bilibili.com/bangumi/play/ep46923","time":"2012-01-02T18:49:11.000Z"}]},{"id":27508,"sort":6,"name":"宇宙人と、ライバル銭湯の湯","sites":[{"site":"bilibili","sort":6,"title":"外星人与竞争对手的澡堂","url":"https://www.bilibili.com/bangumi/play/ep46924","time":"2012-01-02T18:49:11.000Z"}]},{"id":27509,"sort":7,"name":"母船と合コンと曇り空の湯","sites":[{"site":"bilibili","sort":7,"title":"母舰、联谊与阴天","url":"https://www.bilibili.com/bangumi/play/ep46925","time":"2012-01-02T18:49:11.000Z"}]},{"id":27510,"sort":8,"name":"ゆーうつと、夏のぬけがらの湯","sites":[{"site":"bilibili","sort":8,"title":"失魂落魄的澡堂","url":"https://www.bilibili.com/bangumi/play/ep46926","time":"2012-01-02T18:49:11.000Z"}]},{"id":27511,"sort":9,"name":"接近遭遇と、雨上がりの湯","sites":[{"site":"bilibili","sort":9,"title":"接近遭遇与雨停","url":"https://www.bilibili.com/bangumi/play/ep46927","time":"2012-01-02T18:49:11.000Z"}]},{"id":27512,"sort":10,"name":"蛍火と、夜想曲の湯","sites":[{"site":"bilibili","sort":10,"title":"萤火虫梦想曲","url":"https://www.bilibili.com/bangumi/play/ep46928","time":"2012-01-02T18:49:11.000Z"}]},{"id":27513,"sort":11,"name":"にあ・あんだーせぶんの湯（前編）","sites":[{"site":"bilibili","sort":11,"title":"尼亚，你是全部（前篇）","url":"https://www.bilibili.com/bangumi/play/ep46929","time":"2012-01-02T18:49:11.000Z"}]},{"id":27514,"sort":12,"name":"にあ・あんだーせぶんの湯（後編）","sites":[{"site":"bilibili","sort":12,"title":"尼亚，你是全部（后篇）","url":"https://www.bilibili.com/bangumi/play/ep46930","time":"2012-01-02T18:49:11.000Z"}]},{"id":27515,"sort":13,"name":"荏の花に、時は流れるの湯","sites":[{"site":"bilibili","sort":13,"title":"荏之花澡堂，时光飞逝","url":"https://www.bilibili.com/bangumi/play/ep46931","time":"2012-01-02T18:49:11.000Z"}]}]}
+{
+ "id": "3795",
+ "name": "NieA_7",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2153",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 27503,
+   "sort": 1,
+   "name": "宇宙人と、打ち上げUFOの湯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "外星人与UFO",
+     "url": "https://www.bilibili.com/bangumi/play/ep46919",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27504,
+   "sort": 2,
+   "name": "宇宙人と、暴れ宇宙風呂の湯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "外星人大闹宇宙澡堂",
+     "url": "https://www.bilibili.com/bangumi/play/ep46920",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27505,
+   "sort": 3,
+   "name": "宇宙人と、レディオノイズの湯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "外星人与收音机",
+     "url": "https://www.bilibili.com/bangumi/play/ep46921",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27506,
+   "sort": 4,
+   "name": "宇宙人と、新米ウェイトレスの湯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "外星人与菜鸟女服务生",
+     "url": "https://www.bilibili.com/bangumi/play/ep46922",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27507,
+   "sort": 5,
+   "name": "宇宙人と、激枯アミューズメントの湯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "外星人与超刺激娱乐",
+     "url": "https://www.bilibili.com/bangumi/play/ep46923",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27508,
+   "sort": 6,
+   "name": "宇宙人と、ライバル銭湯の湯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "外星人与竞争对手的澡堂",
+     "url": "https://www.bilibili.com/bangumi/play/ep46924",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27509,
+   "sort": 7,
+   "name": "母船と合コンと曇り空の湯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "母舰、联谊与阴天",
+     "url": "https://www.bilibili.com/bangumi/play/ep46925",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27510,
+   "sort": 8,
+   "name": "ゆーうつと、夏のぬけがらの湯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "失魂落魄的澡堂",
+     "url": "https://www.bilibili.com/bangumi/play/ep46926",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27511,
+   "sort": 9,
+   "name": "接近遭遇と、雨上がりの湯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "接近遭遇与雨停",
+     "url": "https://www.bilibili.com/bangumi/play/ep46927",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27512,
+   "sort": 10,
+   "name": "蛍火と、夜想曲の湯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "萤火虫梦想曲",
+     "url": "https://www.bilibili.com/bangumi/play/ep46928",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27513,
+   "sort": 11,
+   "name": "にあ・あんだーせぶんの湯（前編）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "尼亚，你是全部（前篇）",
+     "url": "https://www.bilibili.com/bangumi/play/ep46929",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27514,
+   "sort": 12,
+   "name": "にあ・あんだーせぶんの湯（後編）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "尼亚，你是全部（后篇）",
+     "url": "https://www.bilibili.com/bangumi/play/ep46930",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  },
+  {
+   "id": 27515,
+   "sort": 13,
+   "name": "荏の花に、時は流れるの湯",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "荏之花澡堂，时光飞逝",
+     "url": "https://www.bilibili.com/bangumi/play/ep46931",
+     "time": "2012-01-02T18:49:11.000Z"
+    }
+   ]
+  }
+ ]
+}

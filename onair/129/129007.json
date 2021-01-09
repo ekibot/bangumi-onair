@@ -1,1 +1,181 @@
-{"id":"129007","name":"スタミュ 高校星歌劇","sites":[{"site":"bilibili","id":"2735","sort":12}],"eps":[{"id":565131,"sort":1,"name":"第1幕","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep70880","time":"2015-10-05T16:00:00.000Z"}]},{"id":565132,"sort":2,"name":"第2幕","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep72085","time":"2015-10-12T16:00:00.000Z"}]},{"id":565133,"sort":3,"name":"第3幕","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep73961","time":"2015-10-19T16:00:00.000Z"}]},{"id":565134,"sort":4,"name":"第4幕","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep75379","time":"2015-10-26T16:00:00.000Z"}]},{"id":565135,"sort":5,"name":"第5幕","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep76129","time":"2015-11-02T16:00:00.000Z"}]},{"id":565136,"sort":6,"name":"第6幕","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep77341","time":"2015-11-09T16:00:00.000Z"}]},{"id":565137,"sort":7,"name":"第7幕","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep77680","time":"2015-11-16T16:00:00.000Z"}]},{"id":565138,"sort":8,"name":"第8幕","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep79211","time":"2015-11-23T16:00:00.000Z"}]},{"id":565139,"sort":9,"name":"第9幕","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep79951","time":"2015-11-30T16:00:00.000Z"}]},{"id":565140,"sort":10,"name":"第10幕","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep80725","time":"2015-12-07T16:00:00.000Z"}]},{"id":565141,"sort":11,"name":"第11幕","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep81459","time":"2015-12-14T16:00:00.000Z"}]},{"id":565142,"sort":12,"name":"第12幕","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep81845","time":"2015-12-21T16:01:00.000Z"}]}]}
+{
+ "id": "129007",
+ "name": "スタミュ 高校星歌劇",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2735",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 565131,
+   "sort": 1,
+   "name": "第1幕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep70880",
+     "time": "2015-10-05T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 565132,
+   "sort": 2,
+   "name": "第2幕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep72085",
+     "time": "2015-10-12T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 565133,
+   "sort": 3,
+   "name": "第3幕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep73961",
+     "time": "2015-10-19T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 565134,
+   "sort": 4,
+   "name": "第4幕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep75379",
+     "time": "2015-10-26T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 565135,
+   "sort": 5,
+   "name": "第5幕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep76129",
+     "time": "2015-11-02T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 565136,
+   "sort": 6,
+   "name": "第6幕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep77341",
+     "time": "2015-11-09T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 565137,
+   "sort": 7,
+   "name": "第7幕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep77680",
+     "time": "2015-11-16T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 565138,
+   "sort": 8,
+   "name": "第8幕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep79211",
+     "time": "2015-11-23T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 565139,
+   "sort": 9,
+   "name": "第9幕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep79951",
+     "time": "2015-11-30T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 565140,
+   "sort": 10,
+   "name": "第10幕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep80725",
+     "time": "2015-12-07T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 565141,
+   "sort": 11,
+   "name": "第11幕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep81459",
+     "time": "2015-12-14T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 565142,
+   "sort": 12,
+   "name": "第12幕",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep81845",
+     "time": "2015-12-21T16:01:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "id": "119394",
+ "name": "昭和元禄落語心中",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "faedb5a4a86911e5be16",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 591832,
+   "sort": 1,
+   "name": "与太郎放浪篇",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTQzOTY4OTU4NA==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  },
+  {
+   "id": 591833,
+   "sort": 2,
+   "name": "第二話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTQ0NjYzNjM3Mg==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  },
+  {
+   "id": 591834,
+   "sort": 3,
+   "name": "第三話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTQ1MjI5NjQ3Ng==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  },
+  {
+   "id": 591835,
+   "sort": 4,
+   "name": "第四話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTQ2MDA1MzI2NA==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  },
+  {
+   "id": 591836,
+   "sort": 5,
+   "name": "第五話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTQ2NjAyNjgyNA==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  },
+  {
+   "id": 591837,
+   "sort": 6,
+   "name": "第六話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTQ3MDEwMTI3Mg==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  },
+  {
+   "id": 591838,
+   "sort": 7,
+   "name": "第七話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTQ3NTk5ODA5Mg==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  },
+  {
+   "id": 591839,
+   "sort": 8,
+   "name": "第八話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTQ4Mjg0NjI0NA==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  },
+  {
+   "id": 591840,
+   "sort": 9,
+   "name": "第九話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTQ4OTc1NzQ2OA==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  },
+  {
+   "id": 591841,
+   "sort": 10,
+   "name": "第十話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTQ5NjY4NTY0NA==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  },
+  {
+   "id": 591842,
+   "sort": 11,
+   "name": "第十一話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTUwMzk3NDMyOA==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  },
+  {
+   "id": 591843,
+   "sort": 12,
+   "name": "第十二話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTUxMDUzOTI5Mg==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  },
+  {
+   "id": 591844,
+   "sort": 13,
+   "name": "第十三話",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 13,
+     "title": "第13话 昭和元禄落语心中",
+     "url": "https://v.youku.com/v_show/id_XMTUxODQ1MDMyNA==.html?s=faedb5a4a86911e5be16"
+    }
+   ]
+  }
+ ]
+}

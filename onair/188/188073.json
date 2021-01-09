@@ -1,1 +1,27 @@
-{"id":"188073","name":"チェインクロニクル ～ヘクセイタスの閃～ 第3章","sites":[{"site":"iqiyi","id":"a_19rrha8tqp","sort":3}],"eps":[{"id":875402,"sort":3,"name":"","sites":[{"site":"iqiyi","sort":3,"title":"剧场版第三章","url":"http://www.iqiyi.com/v_19rracrotk.html","time":"2017-02-24T09:00:13.000Z"}]}]}
+{
+ "id": "188073",
+ "name": "チェインクロニクル ～ヘクセイタスの閃～ 第3章",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrha8tqp",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 875402,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "剧场版第三章",
+     "url": "http://www.iqiyi.com/v_19rracrotk.html",
+     "time": "2017-02-24T09:00:13.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "id": "210230",
+ "name": "キリングバイツ",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "67d89910efbfbd5c11ef",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 767883,
+   "sort": 1,
+   "name": "牙の鋭い方が勝つ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 牙齿锐利的一方会赢",
+     "url": "https://v.youku.com/v_show/id_XMzMxMTMyOTU3Ng==.html?s=67d89910efbfbd5c11ef"
+    }
+   ]
+  },
+  {
+   "id": 767884,
+   "sort": 2,
+   "name": "やっばい惚れちゃいそう",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 糟糕要迷上了",
+     "url": "https://v.youku.com/v_show/id_XMzMyMjYyNDAzMg==.html?s=67d89910efbfbd5c11ef"
+    }
+   ]
+  },
+  {
+   "id": 767885,
+   "sort": 3,
+   "name": "ほんっと何の取り柄もないんです",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 真的一无是处",
+     "url": "https://v.youku.com/v_show/id_XMzM0Mzg5OTEwOA==.html?s=67d89910efbfbd5c11ef"
+    }
+   ]
+  },
+  {
+   "id": 767886,
+   "sort": 4,
+   "name": "だから辞めろと言ったのよクズが！",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 所以说让你退出的啊垃圾",
+     "url": "https://v.youku.com/v_show/id_XMzM2NTcyOTM4NA==.html?s=67d89910efbfbd5c11ef"
+    }
+   ]
+  },
+  {
+   "id": 767887,
+   "sort": 5,
+   "name": "どんな風に犯ろうと、自由",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 不论怎样侵犯都是个人自由",
+     "url": "https://v.youku.com/v_show/id_XMzM4MzQ2NjY4MA==.html?s=67d89910efbfbd5c11ef"
+    }
+   ]
+  },
+  {
+   "id": 767888,
+   "sort": 6,
+   "name": "そんな事、私が知るか",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 那种事,我怎么知道",
+     "url": "https://v.youku.com/v_show/id_XMzQwMDcwMzU0OA==.html?s=67d89910efbfbd5c11ef"
+    }
+   ]
+  },
+  {
+   "id": 767889,
+   "sort": 7,
+   "name": "だって…そういう気分なんだから",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 因为……就是想这么做",
+     "url": "https://v.youku.com/v_show/id_XMzQxMTQwMDQyNA==.html?s=67d89910efbfbd5c11ef"
+    }
+   ]
+  },
+  {
+   "id": 767890,
+   "sort": 8,
+   "name": "やばい…やばいやばいやばいやばい!!",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 糟糕······糟糕糟糕糟糕糟糕!!",
+     "url": "https://v.youku.com/v_show/id_XMzQyOTYxNzUxMg==.html?s=67d89910efbfbd5c11ef"
+    }
+   ]
+  },
+  {
+   "id": 767891,
+   "sort": 9,
+   "name": "それだけは絶対に曲げない！",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 只有那点决不妥协!",
+     "url": "https://v.youku.com/v_show/id_XMzQ0NjAxMTgwMA==.html?s=67d89910efbfbd5c11ef"
+    }
+   ]
+  },
+  {
+   "id": 767892,
+   "sort": 10,
+   "name": "一緒に行こう",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 一起走吧",
+     "url": "https://v.youku.com/v_show/id_XMzQ2MzM1NDc4MA==.html?s=67d89910efbfbd5c11ef"
+    }
+   ]
+  },
+  {
+   "id": 767893,
+   "sort": 11,
+   "name": "ママを…いじめるな",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 别欺负······妈妈",
+     "url": "https://v.youku.com/v_show/id_XMzQ4MDc4ODM2MA==.html?s=67d89910efbfbd5c11ef"
+    }
+   ]
+  },
+  {
+   "id": 767894,
+   "sort": 12,
+   "name": "今までありがとな",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 至今为止谢谢了啊",
+     "url": "https://v.youku.com/v_show/id_XMzQ5NzMyMzYxMg==.html?s=67d89910efbfbd5c11ef"
+    }
+   ]
+  }
+ ]
+}

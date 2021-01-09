@@ -1,1 +1,97 @@
-{"id":"8365","name":"ここはグリーン・ウッド","sites":[{"site":"bilibili","id":"3152","sort":6}],"eps":[{"id":48009,"sort":1,"name":"汝の日常を愛せよ","sites":[{"site":"bilibili","sort":1,"title":"爱上你的日常生活","url":"https://www.bilibili.com/bangumi/play/ep81235","time":"2015-12-07T12:57:06.000Z"}]},{"id":48010,"sort":2,"name":"渚狂走曲","sites":[{"site":"bilibili","sort":2,"title":"小渚狂骚曲","url":"https://www.bilibili.com/bangumi/play/ep81236","time":"2015-12-07T12:57:06.000Z"}]},{"id":48011,"sort":3,"name":"学園祭出品作“ここは魔王の森”","sites":[{"site":"bilibili","sort":3,"title":"校庆参赛作品“这里是魔王森林”","url":"https://www.bilibili.com/bangumi/play/ep81246","time":"2015-12-07T12:57:06.000Z"}]},{"id":48012,"sort":4,"name":"光流とゴースト〜緑林寮の幻","sites":[{"site":"bilibili","sort":4,"title":"光流与幽灵～绿林寮之幻影","url":"https://www.bilibili.com/bangumi/play/ep81238","time":"2015-12-07T12:57:06.000Z"}]},{"id":48013,"sort":5,"name":"君を好きでよかった（前編）","sites":[{"site":"bilibili","sort":5,"title":"爱上你真好（前篇）","url":"https://www.bilibili.com/bangumi/play/ep81239","time":"2015-12-07T12:57:06.000Z"}]},{"id":48014,"sort":6,"name":"君を好きでよかった（後編）","sites":[{"site":"bilibili","sort":6,"title":"爱上你真好（后篇）","url":"https://www.bilibili.com/bangumi/play/ep81240","time":"2015-12-07T12:57:06.000Z"}]}]}
+{
+ "id": "8365",
+ "name": "ここはグリーン・ウッド",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3152",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 48009,
+   "sort": 1,
+   "name": "汝の日常を愛せよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "爱上你的日常生活",
+     "url": "https://www.bilibili.com/bangumi/play/ep81235",
+     "time": "2015-12-07T12:57:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 48010,
+   "sort": 2,
+   "name": "渚狂走曲",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "小渚狂骚曲",
+     "url": "https://www.bilibili.com/bangumi/play/ep81236",
+     "time": "2015-12-07T12:57:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 48011,
+   "sort": 3,
+   "name": "学園祭出品作“ここは魔王の森”",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "校庆参赛作品“这里是魔王森林”",
+     "url": "https://www.bilibili.com/bangumi/play/ep81246",
+     "time": "2015-12-07T12:57:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 48012,
+   "sort": 4,
+   "name": "光流とゴースト〜緑林寮の幻",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "光流与幽灵～绿林寮之幻影",
+     "url": "https://www.bilibili.com/bangumi/play/ep81238",
+     "time": "2015-12-07T12:57:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 48013,
+   "sort": 5,
+   "name": "君を好きでよかった（前編）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "爱上你真好（前篇）",
+     "url": "https://www.bilibili.com/bangumi/play/ep81239",
+     "time": "2015-12-07T12:57:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 48014,
+   "sort": 6,
+   "name": "君を好きでよかった（後編）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "爱上你真好（后篇）",
+     "url": "https://www.bilibili.com/bangumi/play/ep81240",
+     "time": "2015-12-07T12:57:06.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,222 @@
-{"id":"212021","name":"カイトアンサ","sites":[{"site":"bilibili","id":"6376","sort":12},{"site":"youku","id":"10efbfbd3cefbfbd61ef","sort":6}],"eps":[{"id":728241,"sort":1,"name":"おはなし","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep113673","time":"2017-07-14T10:33:12.000Z"}]},{"id":728242,"sort":2,"name":"鼻水","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep113747","time":"2017-07-20T06:53:54.000Z"}]},{"id":728243,"sort":3,"name":"エロス","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep113879","time":"2017-07-28T06:14:39.000Z"}]},{"id":728244,"sort":4,"name":"ゆとり","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep113973","time":"2017-08-07T07:29:05.000Z"}]},{"id":728245,"sort":5,"name":"駄菓子","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114053","time":"2017-08-12T11:48:33.000Z"}]},{"id":728246,"sort":6,"name":"よわむし","sites":[{"site":"bilibili","sort":6,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114379","time":"2017-08-28T07:19:00.000Z"}]},{"id":728247,"sort":7,"name":"退学","sites":[{"site":"bilibili","sort":7,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114420","time":"2017-08-30T08:24:00.000Z"}]},{"id":728248,"sort":8,"name":"カヲス","sites":[{"site":"bilibili","sort":8,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114622","time":"2017-09-13T03:03:00.000Z"}]},{"id":728249,"sort":9,"name":"ナイフ","sites":[{"site":"bilibili","sort":9,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114753","time":"2017-09-26T02:04:00.000Z"}]},{"id":728250,"sort":10,"name":"裏切り","sites":[{"site":"bilibili","sort":10,"title":"","url":"https://www.bilibili.com/bangumi/play/ep114786","time":"2017-09-26T10:37:00.000Z"}]},{"id":728251,"sort":11,"name":"バトル","sites":[{"site":"bilibili","sort":11,"title":"","url":"https://www.bilibili.com/bangumi/play/ep115493","time":"2017-10-04T12:30:00.000Z"}]},{"id":728252,"sort":12,"name":"筋書","sites":[{"site":"bilibili","sort":12,"title":"","url":"https://www.bilibili.com/bangumi/play/ep115505","time":"2017-10-07T02:28:00.000Z"}]}]}
+{
+ "id": "212021",
+ "name": "カイトアンサ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6376",
+   "sort": 12
+  },
+  {
+   "site": "youku",
+   "id": "10efbfbd3cefbfbd61ef",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 728241,
+   "sort": 1,
+   "name": "おはなし",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep113673",
+     "time": "2017-07-14T10:33:12.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "01 解谜之音 第二季",
+     "url": "https://v.youku.com/v_show/id_XMjg5NzE0NDg0NA==.html?s=10efbfbd3cefbfbd61ef"
+    }
+   ]
+  },
+  {
+   "id": 728242,
+   "sort": 2,
+   "name": "鼻水",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep113747",
+     "time": "2017-07-20T06:53:54.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "02 解谜之音 第二季",
+     "url": "https://v.youku.com/v_show/id_XMjkwNzIzOTQ5Ng==.html?s=10efbfbd3cefbfbd61ef"
+    }
+   ]
+  },
+  {
+   "id": 728243,
+   "sort": 3,
+   "name": "エロス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep113879",
+     "time": "2017-07-28T06:14:39.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "03 解谜之音 第二季",
+     "url": "https://v.youku.com/v_show/id_XMjkzMDI4OTg5Ng==.html?s=10efbfbd3cefbfbd61ef"
+    }
+   ]
+  },
+  {
+   "id": 728244,
+   "sort": 4,
+   "name": "ゆとり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep113973",
+     "time": "2017-08-07T07:29:05.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "04 解谜之音 第二季",
+     "url": "https://v.youku.com/v_show/id_XMjk0OTg3MjQ2NA==.html?s=10efbfbd3cefbfbd61ef"
+    }
+   ]
+  },
+  {
+   "id": 728245,
+   "sort": 5,
+   "name": "駄菓子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114053",
+     "time": "2017-08-12T11:48:33.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "05 解谜之音 第二季",
+     "url": "https://v.youku.com/v_show/id_XMjk2NTM5OTUxNg==.html?s=10efbfbd3cefbfbd61ef"
+    }
+   ]
+  },
+  {
+   "id": 728246,
+   "sort": 6,
+   "name": "よわむし",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114379",
+     "time": "2017-08-28T07:19:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "06 解谜之音 第二季",
+     "url": "https://v.youku.com/v_show/id_XMjk4NDM4NDIzNg==.html?s=10efbfbd3cefbfbd61ef"
+    }
+   ]
+  },
+  {
+   "id": 728247,
+   "sort": 7,
+   "name": "退学",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114420",
+     "time": "2017-08-30T08:24:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728248,
+   "sort": 8,
+   "name": "カヲス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114622",
+     "time": "2017-09-13T03:03:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728249,
+   "sort": 9,
+   "name": "ナイフ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114753",
+     "time": "2017-09-26T02:04:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728250,
+   "sort": 10,
+   "name": "裏切り",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep114786",
+     "time": "2017-09-26T10:37:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728251,
+   "sort": 11,
+   "name": "バトル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep115493",
+     "time": "2017-10-04T12:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 728252,
+   "sort": 12,
+   "name": "筋書",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep115505",
+     "time": "2017-10-07T02:28:00.000Z"
+    }
+   ]
+  }
+ ]
+}

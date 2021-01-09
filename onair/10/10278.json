@@ -1,1 +1,195 @@
-{"id":"10278","name":"DOG DAYS","sites":[{"site":"bilibili","id":"1631","sort":13}],"eps":[{"id":84740,"sort":1,"name":"勇者誕生！","sites":[{"site":"bilibili","sort":1,"title":"勇者诞生！","url":"https://www.bilibili.com/bangumi/play/ep29799","time":"2017-11-02T03:00:00.000Z"}]},{"id":84741,"sort":2,"name":"はじめての戦！","sites":[{"site":"bilibili","sort":2,"title":"最初的战斗！","url":"https://www.bilibili.com/bangumi/play/ep29800","time":"2017-11-02T03:00:00.000Z"}]},{"id":84742,"sort":3,"name":"帰りたい！帰れない？勇者inフロニャルド！","sites":[{"site":"bilibili","sort":3,"title":"想回去！回不去？勇者in弗洛尼尔德！","url":"https://www.bilibili.com/bangumi/play/ep29801","time":"2017-11-02T03:00:00.000Z"}]},{"id":84743,"sort":4,"name":"突撃！ 姫さま奪還戦！！","sites":[{"site":"bilibili","sort":4,"title":"突击！公主殿下夺回作战！！","url":"https://www.bilibili.com/bangumi/play/ep29802","time":"2017-11-02T03:00:00.000Z"}]},{"id":84744,"sort":5,"name":"激闘！ミオン砦！","sites":[{"site":"bilibili","sort":5,"title":"激斗！米恩堡！","url":"https://www.bilibili.com/bangumi/play/ep29803","time":"2017-11-02T03:00:00.000Z"}]},{"id":84745,"sort":6,"name":"星詠みの姫","sites":[{"site":"bilibili","sort":6,"title":"占星的公主","url":"https://www.bilibili.com/bangumi/play/ep29804","time":"2017-11-02T03:00:00.000Z"}]},{"id":84746,"sort":7,"name":"宣戦布告","sites":[{"site":"bilibili","sort":7,"title":"宣战布告","url":"https://www.bilibili.com/bangumi/play/ep29805","time":"2017-11-02T03:00:00.000Z"}]},{"id":84747,"sort":8,"name":"開戦の日","sites":[{"site":"bilibili","sort":8,"title":"开战之日","url":"https://www.bilibili.com/bangumi/play/ep29806","time":"2017-11-02T03:00:00.000Z"}]},{"id":84748,"sort":9,"name":"グラナ砦攻防戦","sites":[{"site":"bilibili","sort":9,"title":"古拉纳堡攻防战","url":"https://www.bilibili.com/bangumi/play/ep29807","time":"2017-11-02T03:00:00.000Z"}]},{"id":84749,"sort":10,"name":"勇者と姫と希望の光","sites":[{"site":"bilibili","sort":10,"title":"勇者与公主与希望之光","url":"https://www.bilibili.com/bangumi/play/ep29808","time":"2017-11-02T03:00:00.000Z"}]},{"id":84750,"sort":11,"name":"夜空に花が舞うように","sites":[{"site":"bilibili","sort":11,"title":"如花瓣飞舞于夜空","url":"https://www.bilibili.com/bangumi/play/ep29809","time":"2017-11-02T03:00:00.000Z"}]},{"id":84751,"sort":12,"name":"4つの条件","sites":[{"site":"bilibili","sort":12,"title":"四个条件","url":"https://www.bilibili.com/bangumi/play/ep29810","time":"2017-11-02T03:00:00.000Z"}]},{"id":103986,"sort":13,"name":"約束","sites":[{"site":"bilibili","sort":13,"title":"约定","url":"https://www.bilibili.com/bangumi/play/ep29811","time":"2017-11-02T03:00:00.000Z"}]}]}
+{
+ "id": "10278",
+ "name": "DOG DAYS",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1631",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 84740,
+   "sort": 1,
+   "name": "勇者誕生！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "勇者诞生！",
+     "url": "https://www.bilibili.com/bangumi/play/ep29799",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84741,
+   "sort": 2,
+   "name": "はじめての戦！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "最初的战斗！",
+     "url": "https://www.bilibili.com/bangumi/play/ep29800",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84742,
+   "sort": 3,
+   "name": "帰りたい！帰れない？勇者inフロニャルド！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "想回去！回不去？勇者in弗洛尼尔德！",
+     "url": "https://www.bilibili.com/bangumi/play/ep29801",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84743,
+   "sort": 4,
+   "name": "突撃！ 姫さま奪還戦！！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "突击！公主殿下夺回作战！！",
+     "url": "https://www.bilibili.com/bangumi/play/ep29802",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84744,
+   "sort": 5,
+   "name": "激闘！ミオン砦！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "激斗！米恩堡！",
+     "url": "https://www.bilibili.com/bangumi/play/ep29803",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84745,
+   "sort": 6,
+   "name": "星詠みの姫",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "占星的公主",
+     "url": "https://www.bilibili.com/bangumi/play/ep29804",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84746,
+   "sort": 7,
+   "name": "宣戦布告",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "宣战布告",
+     "url": "https://www.bilibili.com/bangumi/play/ep29805",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84747,
+   "sort": 8,
+   "name": "開戦の日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "开战之日",
+     "url": "https://www.bilibili.com/bangumi/play/ep29806",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84748,
+   "sort": 9,
+   "name": "グラナ砦攻防戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "古拉纳堡攻防战",
+     "url": "https://www.bilibili.com/bangumi/play/ep29807",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84749,
+   "sort": 10,
+   "name": "勇者と姫と希望の光",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "勇者与公主与希望之光",
+     "url": "https://www.bilibili.com/bangumi/play/ep29808",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84750,
+   "sort": 11,
+   "name": "夜空に花が舞うように",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "如花瓣飞舞于夜空",
+     "url": "https://www.bilibili.com/bangumi/play/ep29809",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 84751,
+   "sort": 12,
+   "name": "4つの条件",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "四个条件",
+     "url": "https://www.bilibili.com/bangumi/play/ep29810",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 103986,
+   "sort": 13,
+   "name": "約束",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "约定",
+     "url": "https://www.bilibili.com/bangumi/play/ep29811",
+     "time": "2017-11-02T03:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

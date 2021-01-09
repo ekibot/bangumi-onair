@@ -1,1 +1,27 @@
-{"id":"181995","name":"ご注文はうさぎですか？？～Dear My Sister～","sites":[{"site":"bilibili","id":"122632","sort":1}],"eps":[{"id":764138,"sort":1,"name":"ご注文はうさぎですか？？～Dear My Sister～","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep240759","time":"2018-08-08T16:00:02.000Z"}]}]}
+{
+ "id": "181995",
+ "name": "ご注文はうさぎですか？？～Dear My Sister～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "122632",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 764138,
+   "sort": 1,
+   "name": "ご注文はうさぎですか？？～Dear My Sister～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep240759",
+     "time": "2018-08-08T16:00:02.000Z"
+    }
+   ]
+  }
+ ]
+}

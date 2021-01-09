@@ -1,1 +1,27 @@
-{"id":"100437","name":"LUPIN THE IIIRD 次元大介の墓標","sites":[{"site":"bilibili","id":"19724023","sort":1}],"eps":[{"id":456696,"sort":1,"name":"次元大介の墓標 前編","sites":[{"site":"bilibili","sort":1,"title":"01","url":"https://www.bilibili.com/bangumi/play/ep264356","time":"2019-03-05T06:06:15.000Z"}]}]}
+{
+ "id": "100437",
+ "name": "LUPIN THE IIIRD 次元大介の墓標",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "19724023",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 456696,
+   "sort": 1,
+   "name": "次元大介の墓標 前編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "01",
+     "url": "https://www.bilibili.com/bangumi/play/ep264356",
+     "time": "2019-03-05T06:06:15.000Z"
+    }
+   ]
+  }
+ ]
+}

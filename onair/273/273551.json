@@ -1,1 +1,181 @@
-{"id":"273551","name":"A3! SEASON SPRING & SUMMER","sites":[{"site":"bilibili","id":"28224077","week":2,"time":"0030","sort":13}],"eps":[{"id":924929,"sort":1,"name":"滿開の未来へ","sites":[{"site":"bilibili","sort":1,"title":"走向盛开的未来","url":"https://www.bilibili.com/bangumi/play/ep307044","time":"2020-01-13T16:30:00.000Z"}]},{"id":924930,"sort":2,"name":"ロミオとジュリアス","sites":[{"site":"bilibili","sort":2,"title":"罗密欧和朱利亚斯","url":"https://www.bilibili.com/bangumi/play/ep307045","time":"2020-01-20T16:30:00.000Z"}]},{"id":924931,"sort":3,"name":"おやすみシアター","sites":[{"site":"bilibili","sort":3,"title":"晚安剧场","url":"https://www.bilibili.com/bangumi/play/ep307046","time":"2020-01-27T16:30:00.000Z"}]},{"id":924932,"sort":4,"name":"新たな挑戦","sites":[{"site":"bilibili","sort":4,"title":"新的挑战","url":"https://www.bilibili.com/bangumi/play/ep307047","time":"2020-04-27T16:30:00.000Z"}]},{"id":924933,"sort":5,"name":"恋について・春","sites":[{"site":"bilibili","sort":5,"title":"关于恋爱·春","url":"https://www.bilibili.com/bangumi/play/ep307048","time":"2020-05-04T16:30:00.000Z"}]},{"id":924934,"sort":6,"name":"The Show Must Go On!","sites":[{"site":"bilibili","sort":6,"title":"The Show Must Go On !","url":"https://www.bilibili.com/bangumi/play/ep307049","time":"2020-05-11T16:30:00.000Z"}]},{"id":924935,"sort":7,"name":"新しい季節","sites":[{"site":"bilibili","sort":7,"title":"新的季节","url":"https://www.bilibili.com/bangumi/play/ep307050","time":"2020-05-18T16:30:00.000Z"}]},{"id":924936,"sort":8,"name":"千夜一夜物語","sites":[{"site":"bilibili","sort":8,"title":"一千零一夜","url":"https://www.bilibili.com/bangumi/play/ep307051","time":"2020-05-25T16:30:00.000Z"}]},{"id":924937,"sort":9,"name":"はじまりの夏合宿","sites":[{"site":"bilibili","sort":9,"title":"夏季合宿开幕","url":"https://www.bilibili.com/bangumi/play/ep307052","time":"2020-06-01T16:30:00.000Z"}]},{"id":924938,"sort":10,"name":"本当のオトモダチ","sites":[{"site":"bilibili","sort":10,"title":"真正的朋友","url":"https://www.bilibili.com/bangumi/play/ep307053","time":"2020-06-08T16:30:00.000Z"}]},{"id":924939,"sort":11,"name":"オレの弱さを","sites":[{"site":"bilibili","sort":11,"title":"我的弱点","url":"https://www.bilibili.com/bangumi/play/ep307054","time":"2020-06-15T16:30:00.000Z"}]},{"id":924940,"sort":12,"name":"克服のSUMMER！","sites":[{"site":"bilibili","sort":12,"title":"克服的SUMMER!","url":"https://www.bilibili.com/bangumi/play/ep307055","time":"2020-06-22T16:30:00.000Z"}]}]}
+{
+ "id": "273551",
+ "name": "A3! SEASON SPRING & SUMMER",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28224077",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 924929,
+   "sort": 1,
+   "name": "滿開の未来へ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "走向盛开的未来",
+     "url": "https://www.bilibili.com/bangumi/play/ep307044",
+     "time": "2020-01-13T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924930,
+   "sort": 2,
+   "name": "ロミオとジュリアス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "罗密欧和朱利亚斯",
+     "url": "https://www.bilibili.com/bangumi/play/ep307045",
+     "time": "2020-01-20T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924931,
+   "sort": 3,
+   "name": "おやすみシアター",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "晚安剧场",
+     "url": "https://www.bilibili.com/bangumi/play/ep307046",
+     "time": "2020-01-27T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924932,
+   "sort": 4,
+   "name": "新たな挑戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "新的挑战",
+     "url": "https://www.bilibili.com/bangumi/play/ep307047",
+     "time": "2020-04-27T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924933,
+   "sort": 5,
+   "name": "恋について・春",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "关于恋爱·春",
+     "url": "https://www.bilibili.com/bangumi/play/ep307048",
+     "time": "2020-05-04T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924934,
+   "sort": 6,
+   "name": "The Show Must Go On!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "The Show Must Go On !",
+     "url": "https://www.bilibili.com/bangumi/play/ep307049",
+     "time": "2020-05-11T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924935,
+   "sort": 7,
+   "name": "新しい季節",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "新的季节",
+     "url": "https://www.bilibili.com/bangumi/play/ep307050",
+     "time": "2020-05-18T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924936,
+   "sort": 8,
+   "name": "千夜一夜物語",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "一千零一夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep307051",
+     "time": "2020-05-25T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924937,
+   "sort": 9,
+   "name": "はじまりの夏合宿",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "夏季合宿开幕",
+     "url": "https://www.bilibili.com/bangumi/play/ep307052",
+     "time": "2020-06-01T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924938,
+   "sort": 10,
+   "name": "本当のオトモダチ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "真正的朋友",
+     "url": "https://www.bilibili.com/bangumi/play/ep307053",
+     "time": "2020-06-08T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924939,
+   "sort": 11,
+   "name": "オレの弱さを",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "我的弱点",
+     "url": "https://www.bilibili.com/bangumi/play/ep307054",
+     "time": "2020-06-15T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 924940,
+   "sort": 12,
+   "name": "克服のSUMMER！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "克服的SUMMER!",
+     "url": "https://www.bilibili.com/bangumi/play/ep307055",
+     "time": "2020-06-22T16:30:00.000Z"
+    }
+   ]
+  }
+ ]
+}

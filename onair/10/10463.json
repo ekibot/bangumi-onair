@@ -1,1 +1,195 @@
-{"id":"10463","name":"COPPELION","sites":[{"site":"bilibili","id":"485","sort":13}],"eps":[{"id":323917,"sort":1,"name":"人形","sites":[{"site":"bilibili","sort":1,"title":"人偶","url":"https://www.bilibili.com/bangumi/play/ep8940","time":"2013-10-02T13:34:24.000Z"}]},{"id":323918,"sort":2,"name":"未来","sites":[{"site":"bilibili","sort":2,"title":"未来","url":"https://www.bilibili.com/bangumi/play/ep8939","time":"2013-10-09T14:16:48.000Z"}]},{"id":323964,"sort":3,"name":"希望","sites":[{"site":"bilibili","sort":3,"title":"希望","url":"https://www.bilibili.com/bangumi/play/ep8938","time":"2013-10-16T13:42:55.000Z"}]},{"id":323965,"sort":4,"name":"夕陽","sites":[{"site":"bilibili","sort":4,"title":"夕阳","url":"https://www.bilibili.com/bangumi/play/ep8937","time":"2013-10-23T13:03:32.000Z"}]},{"id":323966,"sort":5,"name":"生命","sites":[{"site":"bilibili","sort":5,"title":"生命","url":"https://www.bilibili.com/bangumi/play/ep8936","time":"2013-10-30T13:59:08.000Z"}]},{"id":323967,"sort":6,"name":"惑星","sites":[{"site":"bilibili","sort":6,"title":"星球","url":"https://www.bilibili.com/bangumi/play/ep8935","time":"2013-11-06T13:19:53.000Z"}]},{"id":323968,"sort":7,"name":"遥人","sites":[{"site":"bilibili","sort":7,"title":"遥人","url":"https://www.bilibili.com/bangumi/play/ep8934","time":"2013-11-13T13:10:26.000Z"}]},{"id":323969,"sort":8,"name":"姉妹","sites":[{"site":"bilibili","sort":8,"title":"姐妹","url":"https://www.bilibili.com/bangumi/play/ep8933","time":"2013-11-20T13:51:36.000Z"}]},{"id":323970,"sort":9,"name":"陽動","sites":[{"site":"bilibili","sort":9,"title":"佯攻","url":"https://www.bilibili.com/bangumi/play/ep8932","time":"2013-11-27T13:43:35.000Z"}]},{"id":323971,"sort":10,"name":"人間","sites":[{"site":"bilibili","sort":10,"title":"人类","url":"https://www.bilibili.com/bangumi/play/ep8931","time":"2013-12-04T14:25:18.000Z"}]},{"id":323972,"sort":11,"name":"覚醒","sites":[{"site":"bilibili","sort":11,"title":"觉醒","url":"https://www.bilibili.com/bangumi/play/ep8930","time":"2013-12-11T13:22:20.000Z"}]},{"id":323973,"sort":12,"name":"約束","sites":[{"site":"bilibili","sort":12,"title":"约定","url":"https://www.bilibili.com/bangumi/play/ep8929","time":"2013-12-18T13:02:32.000Z"}]},{"id":323974,"sort":13,"name":"天使","sites":[{"site":"bilibili","sort":13,"title":"天使","url":"https://www.bilibili.com/bangumi/play/ep8928","time":"2013-12-25T14:18:17.000Z"}]}]}
+{
+ "id": "10463",
+ "name": "COPPELION",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "485",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 323917,
+   "sort": 1,
+   "name": "人形",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "人偶",
+     "url": "https://www.bilibili.com/bangumi/play/ep8940",
+     "time": "2013-10-02T13:34:24.000Z"
+    }
+   ]
+  },
+  {
+   "id": 323918,
+   "sort": 2,
+   "name": "未来",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "未来",
+     "url": "https://www.bilibili.com/bangumi/play/ep8939",
+     "time": "2013-10-09T14:16:48.000Z"
+    }
+   ]
+  },
+  {
+   "id": 323964,
+   "sort": 3,
+   "name": "希望",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "希望",
+     "url": "https://www.bilibili.com/bangumi/play/ep8938",
+     "time": "2013-10-16T13:42:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 323965,
+   "sort": 4,
+   "name": "夕陽",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "夕阳",
+     "url": "https://www.bilibili.com/bangumi/play/ep8937",
+     "time": "2013-10-23T13:03:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 323966,
+   "sort": 5,
+   "name": "生命",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "生命",
+     "url": "https://www.bilibili.com/bangumi/play/ep8936",
+     "time": "2013-10-30T13:59:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 323967,
+   "sort": 6,
+   "name": "惑星",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "星球",
+     "url": "https://www.bilibili.com/bangumi/play/ep8935",
+     "time": "2013-11-06T13:19:53.000Z"
+    }
+   ]
+  },
+  {
+   "id": 323968,
+   "sort": 7,
+   "name": "遥人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "遥人",
+     "url": "https://www.bilibili.com/bangumi/play/ep8934",
+     "time": "2013-11-13T13:10:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": 323969,
+   "sort": 8,
+   "name": "姉妹",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "姐妹",
+     "url": "https://www.bilibili.com/bangumi/play/ep8933",
+     "time": "2013-11-20T13:51:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": 323970,
+   "sort": 9,
+   "name": "陽動",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "佯攻",
+     "url": "https://www.bilibili.com/bangumi/play/ep8932",
+     "time": "2013-11-27T13:43:35.000Z"
+    }
+   ]
+  },
+  {
+   "id": 323971,
+   "sort": 10,
+   "name": "人間",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "人类",
+     "url": "https://www.bilibili.com/bangumi/play/ep8931",
+     "time": "2013-12-04T14:25:18.000Z"
+    }
+   ]
+  },
+  {
+   "id": 323972,
+   "sort": 11,
+   "name": "覚醒",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "觉醒",
+     "url": "https://www.bilibili.com/bangumi/play/ep8930",
+     "time": "2013-12-11T13:22:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 323973,
+   "sort": 12,
+   "name": "約束",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "约定",
+     "url": "https://www.bilibili.com/bangumi/play/ep8929",
+     "time": "2013-12-18T13:02:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 323974,
+   "sort": 13,
+   "name": "天使",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "天使",
+     "url": "https://www.bilibili.com/bangumi/play/ep8928",
+     "time": "2013-12-25T14:18:17.000Z"
+    }
+   ]
+  }
+ ]
+}

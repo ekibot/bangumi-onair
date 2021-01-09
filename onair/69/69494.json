@@ -1,1 +1,265 @@
-{"id":"69494","name":"ガッチャマン クラウズ","sites":[{"site":"bilibili","id":"520","sort":12}],"eps":[{"id":278258,"sort":1,"name":"Avant-garde","sites":[{"site":"bilibili","sort":1,"title":"先驱者","url":"https://www.bilibili.com/bangumi/play/ep9700","time":"2013-07-13T02:54:58.000Z"},{"site":"acfun","sort":1,"title":"Avant-garde","url":"https://www.acfun.cn/bangumi/ab6003896_36188_1749506","time":"2020-10-01T02:19:08.145Z"}]},{"id":278259,"sort":2,"name":"Asymmetry","sites":[{"site":"bilibili","sort":2,"title":"不对称","url":"https://www.bilibili.com/bangumi/play/ep9699","time":"2013-07-20T09:40:39.000Z"},{"site":"acfun","sort":2,"title":"Asymmetry","url":"https://www.acfun.cn/bangumi/ab6003896_36188_1749507","time":"2020-10-01T02:19:08.146Z"}]},{"id":278260,"sort":3,"name":"Futurism","sites":[{"site":"bilibili","sort":3,"title":"未来主义","url":"https://www.bilibili.com/bangumi/play/ep9698","time":"2013-07-26T20:01:22.000Z"},{"site":"acfun","sort":3,"title":"Futurism","url":"https://www.acfun.cn/bangumi/ab6003896_36188_1749508","time":"2020-10-01T02:19:08.146Z"}]},{"id":278261,"sort":4,"name":"Kitsch","sites":[{"site":"bilibili","sort":4,"title":"刻奇","url":"https://www.bilibili.com/bangumi/play/ep9697","time":"2013-08-03T01:25:07.000Z"},{"site":"acfun","sort":4,"title":"Kitsch","url":"https://www.acfun.cn/bangumi/ab6003896_36188_1749509","time":"2020-10-01T02:19:08.146Z"}]},{"id":278262,"sort":5,"name":"Collaboration","sites":[{"site":"bilibili","sort":5,"title":"合作","url":"https://www.bilibili.com/bangumi/play/ep9696","time":"2013-08-09T20:38:14.000Z"},{"site":"acfun","sort":5,"title":"Collaboration","url":"https://www.acfun.cn/bangumi/ab6003896_36188_1749510","time":"2020-10-01T02:19:08.146Z"}]},{"id":278263,"sort":6,"name":"Originality","sites":[{"site":"bilibili","sort":6,"title":"创造性","url":"https://www.bilibili.com/bangumi/play/ep9695","time":"2013-08-16T20:04:22.000Z"},{"site":"acfun","sort":6,"title":"Originality","url":"https://www.acfun.cn/bangumi/ab6003896_36188_1749511","time":"2020-10-01T02:19:08.146Z"}]},{"id":278264,"sort":7,"name":"Abjection","sites":[{"site":"bilibili","sort":7,"title":"落魄","url":"https://www.bilibili.com/bangumi/play/ep9694","time":"2013-08-24T01:07:00.000Z"},{"site":"acfun","sort":7,"title":"Abjection","url":"https://www.acfun.cn/bangumi/ab6003896_36188_1749512","time":"2020-10-01T02:19:08.146Z"}]},{"id":278265,"sort":8,"name":"Genuine","sites":[{"site":"bilibili","sort":8,"title":"真诚","url":"https://www.bilibili.com/bangumi/play/ep9693","time":"2013-08-31T01:12:29.000Z"},{"site":"acfun","sort":8,"title":"Genuine","url":"https://www.acfun.cn/bangumi/ab6003896_36188_1749513","time":"2020-10-01T02:19:08.146Z"}]},{"id":278266,"sort":9,"name":"Forgery","sites":[{"site":"bilibili","sort":9,"title":"伪造","url":"https://www.bilibili.com/bangumi/play/ep9692","time":"2013-09-06T23:33:19.000Z"},{"site":"acfun","sort":9,"title":"Forgery","url":"https://www.acfun.cn/bangumi/ab6003896_36188_1749514","time":"2020-10-01T02:19:08.146Z"}]},{"id":278267,"sort":10,"name":"Crowds","sites":[{"site":"bilibili","sort":10,"title":"crowds","url":"https://www.bilibili.com/bangumi/play/ep9691","time":"2013-09-14T00:14:06.000Z"},{"site":"acfun","sort":10,"title":"Crowds","url":"https://www.acfun.cn/bangumi/ab6003896_36188_1749515","time":"2020-10-01T02:19:08.146Z"}]},{"id":278268,"sort":11,"name":"Gamification","sites":[{"site":"bilibili","sort":11,"title":"游戏化","url":"https://www.bilibili.com/bangumi/play/ep9690","time":"2013-09-20T23:02:30.000Z"},{"site":"acfun","sort":11,"title":"Gamification","url":"https://www.acfun.cn/bangumi/ab6003896_36188_1749516","time":"2020-10-01T02:19:08.146Z"}]},{"id":320909,"sort":12,"name":"Collage","sites":[{"site":"bilibili","sort":12,"title":"Collage","url":"https://www.bilibili.com/bangumi/play/ep9689","time":"2013-09-27T20:39:14.000Z"},{"site":"acfun","sort":12,"title":"Collage","url":"https://www.acfun.cn/bangumi/ab6003896_36188_1749517","time":"2020-10-01T02:19:08.146Z"}]}]}
+{
+ "id": "69494",
+ "name": "ガッチャマン クラウズ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "520",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 278258,
+   "sort": 1,
+   "name": "Avant-garde",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "先驱者",
+     "url": "https://www.bilibili.com/bangumi/play/ep9700",
+     "time": "2013-07-13T02:54:58.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "Avant-garde",
+     "url": "https://www.acfun.cn/bangumi/ab6003896_36188_1749506",
+     "time": "2020-10-01T02:19:08.145Z"
+    }
+   ]
+  },
+  {
+   "id": 278259,
+   "sort": 2,
+   "name": "Asymmetry",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "不对称",
+     "url": "https://www.bilibili.com/bangumi/play/ep9699",
+     "time": "2013-07-20T09:40:39.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 2,
+     "title": "Asymmetry",
+     "url": "https://www.acfun.cn/bangumi/ab6003896_36188_1749507",
+     "time": "2020-10-01T02:19:08.146Z"
+    }
+   ]
+  },
+  {
+   "id": 278260,
+   "sort": 3,
+   "name": "Futurism",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "未来主义",
+     "url": "https://www.bilibili.com/bangumi/play/ep9698",
+     "time": "2013-07-26T20:01:22.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 3,
+     "title": "Futurism",
+     "url": "https://www.acfun.cn/bangumi/ab6003896_36188_1749508",
+     "time": "2020-10-01T02:19:08.146Z"
+    }
+   ]
+  },
+  {
+   "id": 278261,
+   "sort": 4,
+   "name": "Kitsch",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "刻奇",
+     "url": "https://www.bilibili.com/bangumi/play/ep9697",
+     "time": "2013-08-03T01:25:07.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 4,
+     "title": "Kitsch",
+     "url": "https://www.acfun.cn/bangumi/ab6003896_36188_1749509",
+     "time": "2020-10-01T02:19:08.146Z"
+    }
+   ]
+  },
+  {
+   "id": 278262,
+   "sort": 5,
+   "name": "Collaboration",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "合作",
+     "url": "https://www.bilibili.com/bangumi/play/ep9696",
+     "time": "2013-08-09T20:38:14.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 5,
+     "title": "Collaboration",
+     "url": "https://www.acfun.cn/bangumi/ab6003896_36188_1749510",
+     "time": "2020-10-01T02:19:08.146Z"
+    }
+   ]
+  },
+  {
+   "id": 278263,
+   "sort": 6,
+   "name": "Originality",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "创造性",
+     "url": "https://www.bilibili.com/bangumi/play/ep9695",
+     "time": "2013-08-16T20:04:22.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 6,
+     "title": "Originality",
+     "url": "https://www.acfun.cn/bangumi/ab6003896_36188_1749511",
+     "time": "2020-10-01T02:19:08.146Z"
+    }
+   ]
+  },
+  {
+   "id": 278264,
+   "sort": 7,
+   "name": "Abjection",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "落魄",
+     "url": "https://www.bilibili.com/bangumi/play/ep9694",
+     "time": "2013-08-24T01:07:00.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 7,
+     "title": "Abjection",
+     "url": "https://www.acfun.cn/bangumi/ab6003896_36188_1749512",
+     "time": "2020-10-01T02:19:08.146Z"
+    }
+   ]
+  },
+  {
+   "id": 278265,
+   "sort": 8,
+   "name": "Genuine",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "真诚",
+     "url": "https://www.bilibili.com/bangumi/play/ep9693",
+     "time": "2013-08-31T01:12:29.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 8,
+     "title": "Genuine",
+     "url": "https://www.acfun.cn/bangumi/ab6003896_36188_1749513",
+     "time": "2020-10-01T02:19:08.146Z"
+    }
+   ]
+  },
+  {
+   "id": 278266,
+   "sort": 9,
+   "name": "Forgery",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "伪造",
+     "url": "https://www.bilibili.com/bangumi/play/ep9692",
+     "time": "2013-09-06T23:33:19.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 9,
+     "title": "Forgery",
+     "url": "https://www.acfun.cn/bangumi/ab6003896_36188_1749514",
+     "time": "2020-10-01T02:19:08.146Z"
+    }
+   ]
+  },
+  {
+   "id": 278267,
+   "sort": 10,
+   "name": "Crowds",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "crowds",
+     "url": "https://www.bilibili.com/bangumi/play/ep9691",
+     "time": "2013-09-14T00:14:06.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 10,
+     "title": "Crowds",
+     "url": "https://www.acfun.cn/bangumi/ab6003896_36188_1749515",
+     "time": "2020-10-01T02:19:08.146Z"
+    }
+   ]
+  },
+  {
+   "id": 278268,
+   "sort": 11,
+   "name": "Gamification",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "游戏化",
+     "url": "https://www.bilibili.com/bangumi/play/ep9690",
+     "time": "2013-09-20T23:02:30.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 11,
+     "title": "Gamification",
+     "url": "https://www.acfun.cn/bangumi/ab6003896_36188_1749516",
+     "time": "2020-10-01T02:19:08.146Z"
+    }
+   ]
+  },
+  {
+   "id": 320909,
+   "sort": 12,
+   "name": "Collage",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "Collage",
+     "url": "https://www.bilibili.com/bangumi/play/ep9689",
+     "time": "2013-09-27T20:39:14.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 12,
+     "title": "Collage",
+     "url": "https://www.acfun.cn/bangumi/ab6003896_36188_1749517",
+     "time": "2020-10-01T02:19:08.146Z"
+    }
+   ]
+  }
+ ]
+}

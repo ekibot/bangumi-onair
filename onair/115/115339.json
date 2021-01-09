@@ -1,1 +1,181 @@
-{"id":"115339","name":"浦和の調ちゃん","sites":[{"site":"bilibili","id":"1597","sort":12}],"eps":[{"id":496518,"sort":1,"name":"今日もいい日でありますように","sites":[{"site":"bilibili","sort":1,"title":"但愿今天也是个好日子","url":"https://www.bilibili.com/bangumi/play/ep29283","time":"2015-04-09T20:23:32.000Z"}]},{"id":496519,"sort":2,"name":"部活へ行こう！","sites":[{"site":"bilibili","sort":2,"title":"去社团活动吧！","url":"https://www.bilibili.com/bangumi/play/ep29797","time":"2015-04-16T19:41:55.000Z"}]},{"id":496520,"sort":3,"name":"風、語りかける今日この頃","sites":[{"site":"bilibili","sort":3,"title":"风儿，绵声细语 就在此时此刻","url":"https://www.bilibili.com/bangumi/play/ep35284","time":"2015-04-23T19:05:44.000Z"}]},{"id":496521,"sort":4,"name":"浦和の暴走天使 沼影 彩湖登場！","sites":[{"site":"bilibili","sort":4,"title":"浦和的暴走天使 沼影 彩湖登场！","url":"https://www.bilibili.com/bangumi/play/ep36219","time":"2015-05-01T03:46:40.000Z"}]},{"id":496522,"sort":5,"name":"人生は迷いの連続である","sites":[{"site":"bilibili","sort":5,"title":"人生如梦","url":"https://www.bilibili.com/bangumi/play/ep43740","time":"2015-05-07T19:13:10.000Z"}]},{"id":496523,"sort":6,"name":"ニンジャガール・アイデンティティ","sites":[{"site":"bilibili","sort":6,"title":"Ninja Girl・Identity","url":"https://www.bilibili.com/bangumi/play/ep54239","time":"2015-05-14T18:36:54.000Z"}]},{"id":496524,"sort":7,"name":"お見合いの時期は突然に","sites":[{"site":"bilibili","sort":7,"title":"相亲季突如其来","url":"https://www.bilibili.com/bangumi/play/ep62341","time":"2015-05-21T19:35:03.000Z"}]},{"id":496525,"sort":8,"name":"激突！生徒会 VS 鉄道部 その壱","sites":[{"site":"bilibili","sort":8,"title":"激战！学生会 VS 铁道部 其一","url":"https://www.bilibili.com/bangumi/play/ep62673","time":"2015-05-28T18:57:57.000Z"}]},{"id":496526,"sort":9,"name":"決戦！クイズサイタマニア","sites":[{"site":"bilibili","sort":9,"title":"决战！琦玉迷","url":"https://www.bilibili.com/bangumi/play/ep62731","time":"2015-06-04T20:04:58.000Z"}]},{"id":496527,"sort":10,"name":"ロッカーは大事に使いましょう","sites":[{"site":"bilibili","sort":10,"title":"用柜子时要当心哦","url":"https://www.bilibili.com/bangumi/play/ep62796","time":"2015-06-11T23:50:03.000Z"}]},{"id":496528,"sort":11,"name":"突っ込んだら そこで負け！","sites":[{"site":"bilibili","sort":11,"title":"吐槽，就输了！","url":"https://www.bilibili.com/bangumi/play/ep63503","time":"2015-06-19T01:46:30.000Z"}]},{"id":496529,"sort":12,"name":"明日もいい日になりますように","sites":[{"site":"bilibili","sort":12,"title":"但愿明天也是个好日子","url":"https://www.bilibili.com/bangumi/play/ep63719","time":"2015-06-25T19:04:54.000Z"}]}]}
+{
+ "id": "115339",
+ "name": "浦和の調ちゃん",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1597",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 496518,
+   "sort": 1,
+   "name": "今日もいい日でありますように",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "但愿今天也是个好日子",
+     "url": "https://www.bilibili.com/bangumi/play/ep29283",
+     "time": "2015-04-09T20:23:32.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496519,
+   "sort": 2,
+   "name": "部活へ行こう！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "去社团活动吧！",
+     "url": "https://www.bilibili.com/bangumi/play/ep29797",
+     "time": "2015-04-16T19:41:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496520,
+   "sort": 3,
+   "name": "風、語りかける今日この頃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "风儿，绵声细语 就在此时此刻",
+     "url": "https://www.bilibili.com/bangumi/play/ep35284",
+     "time": "2015-04-23T19:05:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496521,
+   "sort": 4,
+   "name": "浦和の暴走天使 沼影 彩湖登場！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "浦和的暴走天使 沼影 彩湖登场！",
+     "url": "https://www.bilibili.com/bangumi/play/ep36219",
+     "time": "2015-05-01T03:46:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496522,
+   "sort": 5,
+   "name": "人生は迷いの連続である",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "人生如梦",
+     "url": "https://www.bilibili.com/bangumi/play/ep43740",
+     "time": "2015-05-07T19:13:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496523,
+   "sort": 6,
+   "name": "ニンジャガール・アイデンティティ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Ninja Girl・Identity",
+     "url": "https://www.bilibili.com/bangumi/play/ep54239",
+     "time": "2015-05-14T18:36:54.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496524,
+   "sort": 7,
+   "name": "お見合いの時期は突然に",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "相亲季突如其来",
+     "url": "https://www.bilibili.com/bangumi/play/ep62341",
+     "time": "2015-05-21T19:35:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496525,
+   "sort": 8,
+   "name": "激突！生徒会 VS 鉄道部 その壱",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "激战！学生会 VS 铁道部 其一",
+     "url": "https://www.bilibili.com/bangumi/play/ep62673",
+     "time": "2015-05-28T18:57:57.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496526,
+   "sort": 9,
+   "name": "決戦！クイズサイタマニア",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "决战！琦玉迷",
+     "url": "https://www.bilibili.com/bangumi/play/ep62731",
+     "time": "2015-06-04T20:04:58.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496527,
+   "sort": 10,
+   "name": "ロッカーは大事に使いましょう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "用柜子时要当心哦",
+     "url": "https://www.bilibili.com/bangumi/play/ep62796",
+     "time": "2015-06-11T23:50:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496528,
+   "sort": 11,
+   "name": "突っ込んだら そこで負け！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "吐槽，就输了！",
+     "url": "https://www.bilibili.com/bangumi/play/ep63503",
+     "time": "2015-06-19T01:46:30.000Z"
+    }
+   ]
+  },
+  {
+   "id": 496529,
+   "sort": 12,
+   "name": "明日もいい日になりますように",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "但愿明天也是个好日子",
+     "url": "https://www.bilibili.com/bangumi/play/ep63719",
+     "time": "2015-06-25T19:04:54.000Z"
+    }
+   ]
+  }
+ ]
+}

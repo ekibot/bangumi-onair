@@ -1,1 +1,26 @@
-{"id":"10291","name":"GHOST IN THE SHELL / 攻殻機動隊2.0","sites":[{"site":"qq","id":"y/yfkvf60im3q0i2v","sort":1}],"eps":[{"id":96820,"sort":1,"name":"","sites":[{"site":"qq","sort":1,"title":"攻壳机动队 剧场版2008","url":"https://v.qq.com/x/cover/yfkvf60im3q0i2v/z0034i1eet8.html"}]}]}
+{
+ "id": "10291",
+ "name": "GHOST IN THE SHELL / 攻殻機動隊2.0",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "y/yfkvf60im3q0i2v",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 96820,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "攻壳机动队 剧场版2008",
+     "url": "https://v.qq.com/x/cover/yfkvf60im3q0i2v/z0034i1eet8.html"
+    }
+   ]
+  }
+ ]
+}

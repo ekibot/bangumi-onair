@@ -1,1 +1,139 @@
-{"id":"133962","name":"怪獣酒場 カンパーイ！","sites":[{"site":"bilibili","id":"2608","sort":10}],"eps":[{"id":530100,"sort":1,"name":"闇酒場","sites":[{"site":"bilibili","sort":1,"title":"暗黑酒馆","url":"https://www.bilibili.com/bangumi/play/ep63964","time":"2015-07-08T07:33:06.000Z"}]},{"id":530101,"sort":2,"name":"白子、あります","sites":[{"site":"bilibili","sort":2,"title":"鱼白、有卖","url":"https://www.bilibili.com/bangumi/play/ep63963","time":"2015-07-15T17:44:13.000Z"}]},{"id":530102,"sort":3,"name":"果てしなき愚痴","sites":[{"site":"bilibili","sort":3,"title":"无尽的抱怨","url":"https://www.bilibili.com/bangumi/play/ep64010","time":"2015-07-21T18:44:03.000Z"}]},{"id":530103,"sort":4,"name":"偽装はふたたび","sites":[{"site":"bilibili","sort":4,"title":"再次伪装","url":"https://www.bilibili.com/bangumi/play/ep64186","time":"2015-07-28T17:39:49.000Z"}]},{"id":530104,"sort":5,"name":"狙われた領土","sites":[{"site":"bilibili","sort":5,"title":"被盯上的领土","url":"https://www.bilibili.com/bangumi/play/ep64448","time":"2015-08-06T04:48:43.000Z"}]},{"id":530105,"sort":6,"name":"小さな新人","sites":[{"site":"bilibili","sort":6,"title":"小小新人","url":"https://www.bilibili.com/bangumi/play/ep65073","time":"2015-08-16T22:32:20.000Z"}]},{"id":530106,"sort":7,"name":"ゆるキャラ酒場","sites":[{"site":"bilibili","sort":7,"title":"吉祥物酒场","url":"https://www.bilibili.com/bangumi/play/ep66483","time":"2015-08-19T07:18:21.000Z"}]},{"id":530107,"sort":8,"name":"小悪魔の誘惑","sites":[{"site":"bilibili","sort":8,"title":"小恶魔的诱惑","url":"https://www.bilibili.com/bangumi/play/ep66484","time":"2015-08-29T02:49:43.000Z"}]},{"id":600352,"sort":14,"name":"せいじん総進撃","sites":[{"site":"bilibili","sort":14,"title":"星人总进攻","url":"https://www.bilibili.com/bangumi/play/ep82826","time":"2016-01-12T08:21:56.000Z"}]}]}
+{
+ "id": "133962",
+ "name": "怪獣酒場 カンパーイ！",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2608",
+   "sort": 10
+  }
+ ],
+ "eps": [
+  {
+   "id": 530100,
+   "sort": 1,
+   "name": "闇酒場",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "暗黑酒馆",
+     "url": "https://www.bilibili.com/bangumi/play/ep63964",
+     "time": "2015-07-08T07:33:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 530101,
+   "sort": 2,
+   "name": "白子、あります",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "鱼白、有卖",
+     "url": "https://www.bilibili.com/bangumi/play/ep63963",
+     "time": "2015-07-15T17:44:13.000Z"
+    }
+   ]
+  },
+  {
+   "id": 530102,
+   "sort": 3,
+   "name": "果てしなき愚痴",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "无尽的抱怨",
+     "url": "https://www.bilibili.com/bangumi/play/ep64010",
+     "time": "2015-07-21T18:44:03.000Z"
+    }
+   ]
+  },
+  {
+   "id": 530103,
+   "sort": 4,
+   "name": "偽装はふたたび",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "再次伪装",
+     "url": "https://www.bilibili.com/bangumi/play/ep64186",
+     "time": "2015-07-28T17:39:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 530104,
+   "sort": 5,
+   "name": "狙われた領土",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "被盯上的领土",
+     "url": "https://www.bilibili.com/bangumi/play/ep64448",
+     "time": "2015-08-06T04:48:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 530105,
+   "sort": 6,
+   "name": "小さな新人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "小小新人",
+     "url": "https://www.bilibili.com/bangumi/play/ep65073",
+     "time": "2015-08-16T22:32:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 530106,
+   "sort": 7,
+   "name": "ゆるキャラ酒場",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "吉祥物酒场",
+     "url": "https://www.bilibili.com/bangumi/play/ep66483",
+     "time": "2015-08-19T07:18:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 530107,
+   "sort": 8,
+   "name": "小悪魔の誘惑",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "小恶魔的诱惑",
+     "url": "https://www.bilibili.com/bangumi/play/ep66484",
+     "time": "2015-08-29T02:49:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 600352,
+   "sort": 14,
+   "name": "せいじん総進撃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "星人总进攻",
+     "url": "https://www.bilibili.com/bangumi/play/ep82826",
+     "time": "2016-01-12T08:21:56.000Z"
+    }
+   ]
+  }
+ ]
+}

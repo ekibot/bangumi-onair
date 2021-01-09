@@ -1,1 +1,69 @@
-{"id":"67749","name":"テニスの王子様 ANOTHER STORY II～アノトキノボクラ","sites":[{"site":"bilibili","id":"10164120","sort":4}],"eps":[{"id":251710,"sort":1,"name":"誕生! 部長 白石蔵ノ介","sites":[{"site":"bilibili","sort":1,"title":"01","url":"https://www.bilibili.com/bangumi/play/ep260705","time":"2019-01-15T07:28:21.000Z"}]},{"id":251711,"sort":2,"name":"青春学園七不思議","sites":[{"site":"bilibili","sort":2,"title":"02","url":"https://www.bilibili.com/bangumi/play/ep260706","time":"2019-01-15T07:28:21.000Z"}]},{"id":251712,"sort":3,"name":"九州二翼","sites":[{"site":"bilibili","sort":3,"title":"03","url":"https://www.bilibili.com/bangumi/play/ep260707","time":"2019-01-15T07:28:21.000Z"}]},{"id":251713,"sort":4,"name":"ジローの目覚め","sites":[{"site":"bilibili","sort":4,"title":"04","url":"https://www.bilibili.com/bangumi/play/ep260708","time":"2019-01-15T07:28:21.000Z"}]}]}
+{
+ "id": "67749",
+ "name": "テニスの王子様 ANOTHER STORY II～アノトキノボクラ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "10164120",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 251710,
+   "sort": 1,
+   "name": "誕生! 部長 白石蔵ノ介",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "01",
+     "url": "https://www.bilibili.com/bangumi/play/ep260705",
+     "time": "2019-01-15T07:28:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 251711,
+   "sort": 2,
+   "name": "青春学園七不思議",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "02",
+     "url": "https://www.bilibili.com/bangumi/play/ep260706",
+     "time": "2019-01-15T07:28:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 251712,
+   "sort": 3,
+   "name": "九州二翼",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "03",
+     "url": "https://www.bilibili.com/bangumi/play/ep260707",
+     "time": "2019-01-15T07:28:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 251713,
+   "sort": 4,
+   "name": "ジローの目覚め",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "04",
+     "url": "https://www.bilibili.com/bangumi/play/ep260708",
+     "time": "2019-01-15T07:28:21.000Z"
+    }
+   ]
+  }
+ ]
+}

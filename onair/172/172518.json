@@ -1,0 +1,52 @@
+{
+ "id": "172518",
+ "name": "魔法使いの嫁 星待つひと",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "1e186ae3758911e6b16e",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 620040,
+   "sort": 1,
+   "name": "魔法使いの嫁 星待つひと 前篇",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "魔法使的新娘 等待繁星之人 前篇",
+     "url": "https://v.youku.com/v_show/id_XMTcxODc1OTQzNg==.html?s=1e186ae3758911e6b16e"
+    }
+   ]
+  },
+  {
+   "id": 620041,
+   "sort": 2,
+   "name": "魔法使いの嫁 星待つひと 中篇",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "魔法使的新娘 等待繁星之人 中篇",
+     "url": "https://v.youku.com/v_show/id_XMjYxMjcxNzQ5Ng==.html?s=1e186ae3758911e6b16e"
+    }
+   ]
+  },
+  {
+   "id": 620042,
+   "sort": 3,
+   "name": "魔法使いの嫁 星待つひと 後篇",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "魔法使的新娘 等待繁星之人 后篇",
+     "url": "https://v.youku.com/v_show/id_XMjk3ODE0NTExMg==.html?s=1e186ae3758911e6b16e"
+    }
+   ]
+  }
+ ]
+}

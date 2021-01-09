@@ -1,0 +1,26 @@
+{
+ "id": "11726",
+ "name": "戦国乙女～桃色パラドックス～",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "b521179c877511e0a046",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 85452,
+   "sort": 1,
+   "name": "転送乙女",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "転送乙女",
+     "url": "https://v.youku.com/v_show/id_XNTM0NDc2MDA0.html?s=b521179c877511e0a046"
+    }
+   ]
+  }
+ ]
+}

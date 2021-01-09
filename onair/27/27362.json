@@ -1,1 +1,27 @@
-{"id":"27362","name":"聖闘士星矢 神々の熱き戦い","sites":[{"site":"iqiyi","id":"a_19rrhb4um9","sort":6}],"eps":[{"id":875453,"sort":1,"name":"","sites":[{"site":"iqiyi","sort":1,"title":"邪神爱丽丝","url":"http://www.iqiyi.com/v_19rro9u6yw.html","time":"2015-08-10T08:39:45.000Z"}]}]}
+{
+ "id": "27362",
+ "name": "聖闘士星矢 神々の熱き戦い",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhb4um9",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 875453,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "邪神爱丽丝",
+     "url": "http://www.iqiyi.com/v_19rro9u6yw.html",
+     "time": "2015-08-10T08:39:45.000Z"
+    }
+   ]
+  }
+ ]
+}

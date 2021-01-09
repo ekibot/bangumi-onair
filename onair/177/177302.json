@@ -1,1 +1,83 @@
-{"id":"177302","name":"ソウルワーカー","sites":[{"site":"bilibili","id":"5696","sort":5}],"eps":[{"id":627128,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep97144","time":"2016-11-07T03:14:29.000Z"}]},{"id":627129,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep97145","time":"2016-11-07T03:14:52.000Z"}]},{"id":627130,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep97146","time":"2016-11-07T03:15:10.000Z"}]},{"id":627131,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"","url":"https://www.bilibili.com/bangumi/play/ep97147","time":"2016-11-07T03:15:33.000Z"}]},{"id":627132,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"","url":"https://www.bilibili.com/bangumi/play/ep97148","time":"2016-11-07T03:15:56.000Z"}]}]}
+{
+ "id": "177302",
+ "name": "ソウルワーカー",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "5696",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 627128,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep97144",
+     "time": "2016-11-07T03:14:29.000Z"
+    }
+   ]
+  },
+  {
+   "id": 627129,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep97145",
+     "time": "2016-11-07T03:14:52.000Z"
+    }
+   ]
+  },
+  {
+   "id": 627130,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep97146",
+     "time": "2016-11-07T03:15:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 627131,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep97147",
+     "time": "2016-11-07T03:15:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": 627132,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep97148",
+     "time": "2016-11-07T03:15:56.000Z"
+    }
+   ]
+  }
+ ]
+}

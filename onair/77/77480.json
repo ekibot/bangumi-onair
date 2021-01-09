@@ -1,1 +1,167 @@
-{"id":"77480","name":"銀の匙 Silver Spoon(第2期)","sites":[{"site":"bilibili","id":"240","sort":11}],"eps":[{"id":350545,"sort":1,"name":"八軒、副部長になる","sites":[{"site":"bilibili","sort":1,"title":"八轩，当上副部长","url":"https://www.bilibili.com/bangumi/play/ep5074","time":"2014-01-09T15:43:43.000Z"}]},{"id":350546,"sort":2,"name":"八軒、副ぶちょーを拾う","sites":[{"site":"bilibili","sort":2,"title":"八轩，捡到副部长","url":"https://www.bilibili.com/bangumi/play/ep5073","time":"2014-01-16T15:54:49.000Z"}]},{"id":350547,"sort":3,"name":"八軒、高く跳ぶ","sites":[{"site":"bilibili","sort":3,"title":"八轩，高高跃起","url":"https://www.bilibili.com/bangumi/play/ep5072","time":"2014-01-23T15:59:34.000Z"}]},{"id":350548,"sort":4,"name":"南九条、あらわる","sites":[{"site":"bilibili","sort":4,"title":"南九条，出现","url":"https://www.bilibili.com/bangumi/play/ep5071","time":"2014-01-30T15:57:10.000Z"}]},{"id":350549,"sort":5,"name":"八軒、大わらわ","sites":[{"site":"bilibili","sort":5,"title":"八轩，苦战","url":"https://www.bilibili.com/bangumi/play/ep5070","time":"2014-02-06T16:02:45.000Z"}]},{"id":350550,"sort":6,"name":"御影、奮闘す","sites":[{"site":"bilibili","sort":6,"title":"御影，奋斗","url":"https://www.bilibili.com/bangumi/play/ep5069","time":"2014-02-13T15:57:01.000Z"}]},{"id":350551,"sort":7,"name":"駒場、マウンドに立つ","sites":[{"site":"bilibili","sort":7,"title":"驹场，踏上投手丘","url":"https://www.bilibili.com/bangumi/play/ep5068","time":"2014-02-27T15:55:49.000Z"}]},{"id":350552,"sort":8,"name":"八軒、咆える","sites":[{"site":"bilibili","sort":8,"title":"八轩，怒吼","url":"https://www.bilibili.com/bangumi/play/ep5067","time":"2014-03-06T15:53:21.000Z"}]},{"id":350553,"sort":9,"name":"最後の牛乳","sites":[{"site":"bilibili","sort":9,"title":"最后的牛奶","url":"https://www.bilibili.com/bangumi/play/ep5066","time":"2014-03-13T16:16:48.000Z"}]},{"id":350554,"sort":10,"name":"夢","sites":[{"site":"bilibili","sort":10,"title":"梦想","url":"https://www.bilibili.com/bangumi/play/ep5065","time":"2014-03-20T16:05:06.000Z"}]},{"id":350555,"sort":11,"name":"何度でも","sites":[{"site":"bilibili","sort":11,"title":"坚持不懈","url":"https://www.bilibili.com/bangumi/play/ep5064","time":"2014-03-27T15:59:12.000Z"}]}]}
+{
+ "id": "77480",
+ "name": "銀の匙 Silver Spoon(第2期)",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "240",
+   "sort": 11
+  }
+ ],
+ "eps": [
+  {
+   "id": 350545,
+   "sort": 1,
+   "name": "八軒、副部長になる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "八轩，当上副部长",
+     "url": "https://www.bilibili.com/bangumi/play/ep5074",
+     "time": "2014-01-09T15:43:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": 350546,
+   "sort": 2,
+   "name": "八軒、副ぶちょーを拾う",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "八轩，捡到副部长",
+     "url": "https://www.bilibili.com/bangumi/play/ep5073",
+     "time": "2014-01-16T15:54:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 350547,
+   "sort": 3,
+   "name": "八軒、高く跳ぶ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "八轩，高高跃起",
+     "url": "https://www.bilibili.com/bangumi/play/ep5072",
+     "time": "2014-01-23T15:59:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": 350548,
+   "sort": 4,
+   "name": "南九条、あらわる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "南九条，出现",
+     "url": "https://www.bilibili.com/bangumi/play/ep5071",
+     "time": "2014-01-30T15:57:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 350549,
+   "sort": 5,
+   "name": "八軒、大わらわ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "八轩，苦战",
+     "url": "https://www.bilibili.com/bangumi/play/ep5070",
+     "time": "2014-02-06T16:02:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 350550,
+   "sort": 6,
+   "name": "御影、奮闘す",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "御影，奋斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep5069",
+     "time": "2014-02-13T15:57:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 350551,
+   "sort": 7,
+   "name": "駒場、マウンドに立つ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "驹场，踏上投手丘",
+     "url": "https://www.bilibili.com/bangumi/play/ep5068",
+     "time": "2014-02-27T15:55:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": 350552,
+   "sort": 8,
+   "name": "八軒、咆える",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "八轩，怒吼",
+     "url": "https://www.bilibili.com/bangumi/play/ep5067",
+     "time": "2014-03-06T15:53:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 350553,
+   "sort": 9,
+   "name": "最後の牛乳",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "最后的牛奶",
+     "url": "https://www.bilibili.com/bangumi/play/ep5066",
+     "time": "2014-03-13T16:16:48.000Z"
+    }
+   ]
+  },
+  {
+   "id": 350554,
+   "sort": 10,
+   "name": "夢",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "梦想",
+     "url": "https://www.bilibili.com/bangumi/play/ep5065",
+     "time": "2014-03-20T16:05:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 350555,
+   "sort": 11,
+   "name": "何度でも",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "坚持不懈",
+     "url": "https://www.bilibili.com/bangumi/play/ep5064",
+     "time": "2014-03-27T15:59:12.000Z"
+    }
+   ]
+  }
+ ]
+}

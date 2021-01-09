@@ -1,1 +1,264 @@
-{"id":"7218","name":"ZOMBIE-LOAN","sites":[{"site":"qq","id":"9/90p2tgfoljepnsy","sort":13},{"site":"bilibili","id":"1371","sort":12}],"eps":[{"id":42864,"sort":1,"name":"死神の目","sites":[{"site":"qq","sort":1,"title":"第01话 死神之眼","url":"http://v.youku.com/v_show/id_XNDUzNDY4Mzgw.html"},{"site":"bilibili","sort":1,"title":"死神之眼","url":"https://www.bilibili.com/bangumi/play/ep25431","time":"2010-09-21T09:36:12.000Z"}]},{"id":42865,"sort":2,"name":"逝っとく?","sites":[{"site":"qq","sort":2,"title":"第02话 死吗","url":"http://v.youku.com/v_show/id_XNDUzNDY2OTI0.html"},{"site":"bilibili","sort":2,"title":"逝去？","url":"https://www.bilibili.com/bangumi/play/ep25432","time":"2010-09-21T09:36:12.000Z"}]},{"id":42866,"sort":3,"name":"死者の舌","sites":[{"site":"qq","sort":3,"title":"第03话 死者之舌","url":"http://v.youku.com/v_show/id_XNDUzNDY4Mzg0.html"},{"site":"bilibili","sort":3,"title":"死者之舌","url":"https://www.bilibili.com/bangumi/play/ep25433","time":"2010-09-21T09:36:12.000Z"}]},{"id":42867,"sort":4,"name":"蝶の羽音","sites":[{"site":"qq","sort":4,"title":"第04话 蝴蝶的振翅声","url":"http://v.youku.com/v_show/id_XNDUzNDY2OTI4.html"},{"site":"bilibili","sort":4,"title":"蝶之羽音","url":"https://www.bilibili.com/bangumi/play/ep25434","time":"2010-09-21T09:36:12.000Z"}]},{"id":42868,"sort":5,"name":"贄","sites":[{"site":"qq","sort":5,"title":"第05话 祭品","url":"http://v.youku.com/v_show/id_XNDUzNDY2OTMy.html"},{"site":"bilibili","sort":5,"title":"活祭","url":"https://www.bilibili.com/bangumi/play/ep25435","time":"2010-09-21T09:36:12.000Z"}]},{"id":42869,"sort":6,"name":"自由への渇望","sites":[{"site":"qq","sort":6,"title":"第06话 自由的渴望","url":"http://v.youku.com/v_show/id_XNDUzNDY2OTM2.html"},{"site":"bilibili","sort":6,"title":"对自由的渴望","url":"https://www.bilibili.com/bangumi/play/ep25436","time":"2010-09-21T09:36:12.000Z"}]},{"id":42870,"sort":7,"name":"彷徨う心","sites":[{"site":"qq","sort":7,"title":"第07话 彷徨之心","url":"http://v.youku.com/v_show/id_XNDUzNDY2OTQw.html"},{"site":"bilibili","sort":7,"title":"彷徨的心","url":"https://www.bilibili.com/bangumi/play/ep25437","time":"2010-09-21T09:36:12.000Z"}]},{"id":42871,"sort":8,"name":"死んでからも、孤独","sites":[{"site":"qq","sort":8,"title":"第08话 死后依然孤独","url":"http://v.youku.com/v_show/id_XNDUzNDY2OTQ0.html"},{"site":"bilibili","sort":8,"title":"死了之后也孤独","url":"https://www.bilibili.com/bangumi/play/ep25438","time":"2010-09-21T09:36:12.000Z"}]},{"id":42872,"sort":9,"name":"生きた屍","sites":[{"site":"qq","sort":9,"title":"第09话 活着的尸体","url":"http://v.youku.com/v_show/id_XNDUzNDY2OTUy.html"},{"site":"bilibili","sort":9,"title":"活着的尸体","url":"https://www.bilibili.com/bangumi/play/ep25439","time":"2010-09-21T09:36:12.000Z"}]},{"id":42873,"sort":10,"name":"尸解の法","sites":[{"site":"qq","sort":10,"title":"第10话 尸解法","url":"http://v.youku.com/v_show/id_XNDUzNDY2OTU2.html"},{"site":"bilibili","sort":10,"title":"尸解之法","url":"https://www.bilibili.com/bangumi/play/ep25440","time":"2010-09-21T09:36:12.000Z"}]},{"id":42874,"sort":11,"name":"命と、死と","sites":[{"site":"qq","sort":11,"title":"第11话 生与死","url":"http://v.youku.com/v_show/id_XNDUzNzM4Mzk2.html"},{"site":"bilibili","sort":11,"title":"命运与死亡","url":"https://www.bilibili.com/bangumi/play/ep25441","time":"2010-09-21T09:36:12.000Z"}]},{"id":42875,"sort":12,"name":"運命の輪","sites":[{"site":"qq","sort":12,"title":"第12话 命运之轮","url":"http://v.youku.com/v_show/id_XNDcxOTg2NTAw.html"}]},{"id":42876,"sort":13,"name":"守りたい","sites":[{"site":"qq","sort":13,"title":"第13话 想守护","url":"http://v.youku.com/v_show/id_XNDcxOTg3NDg0.html"}]}]}
+{
+ "id": "7218",
+ "name": "ZOMBIE-LOAN",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "9/90p2tgfoljepnsy",
+   "sort": 13
+  },
+  {
+   "site": "bilibili",
+   "id": "1371",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 42864,
+   "sort": 1,
+   "name": "死神の目",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "第01话 死神之眼",
+     "url": "http://v.youku.com/v_show/id_XNDUzNDY4Mzgw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "死神之眼",
+     "url": "https://www.bilibili.com/bangumi/play/ep25431",
+     "time": "2010-09-21T09:36:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 42865,
+   "sort": 2,
+   "name": "逝っとく?",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "第02话 死吗",
+     "url": "http://v.youku.com/v_show/id_XNDUzNDY2OTI0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "逝去？",
+     "url": "https://www.bilibili.com/bangumi/play/ep25432",
+     "time": "2010-09-21T09:36:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 42866,
+   "sort": 3,
+   "name": "死者の舌",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "第03话 死者之舌",
+     "url": "http://v.youku.com/v_show/id_XNDUzNDY4Mzg0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "死者之舌",
+     "url": "https://www.bilibili.com/bangumi/play/ep25433",
+     "time": "2010-09-21T09:36:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 42867,
+   "sort": 4,
+   "name": "蝶の羽音",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "第04话 蝴蝶的振翅声",
+     "url": "http://v.youku.com/v_show/id_XNDUzNDY2OTI4.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "蝶之羽音",
+     "url": "https://www.bilibili.com/bangumi/play/ep25434",
+     "time": "2010-09-21T09:36:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 42868,
+   "sort": 5,
+   "name": "贄",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "第05话 祭品",
+     "url": "http://v.youku.com/v_show/id_XNDUzNDY2OTMy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "活祭",
+     "url": "https://www.bilibili.com/bangumi/play/ep25435",
+     "time": "2010-09-21T09:36:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 42869,
+   "sort": 6,
+   "name": "自由への渇望",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "第06话 自由的渴望",
+     "url": "http://v.youku.com/v_show/id_XNDUzNDY2OTM2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "对自由的渴望",
+     "url": "https://www.bilibili.com/bangumi/play/ep25436",
+     "time": "2010-09-21T09:36:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 42870,
+   "sort": 7,
+   "name": "彷徨う心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "第07话 彷徨之心",
+     "url": "http://v.youku.com/v_show/id_XNDUzNDY2OTQw.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "彷徨的心",
+     "url": "https://www.bilibili.com/bangumi/play/ep25437",
+     "time": "2010-09-21T09:36:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 42871,
+   "sort": 8,
+   "name": "死んでからも、孤独",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "第08话 死后依然孤独",
+     "url": "http://v.youku.com/v_show/id_XNDUzNDY2OTQ0.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "死了之后也孤独",
+     "url": "https://www.bilibili.com/bangumi/play/ep25438",
+     "time": "2010-09-21T09:36:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 42872,
+   "sort": 9,
+   "name": "生きた屍",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "第09话 活着的尸体",
+     "url": "http://v.youku.com/v_show/id_XNDUzNDY2OTUy.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "活着的尸体",
+     "url": "https://www.bilibili.com/bangumi/play/ep25439",
+     "time": "2010-09-21T09:36:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 42873,
+   "sort": 10,
+   "name": "尸解の法",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "第10话 尸解法",
+     "url": "http://v.youku.com/v_show/id_XNDUzNDY2OTU2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "尸解之法",
+     "url": "https://www.bilibili.com/bangumi/play/ep25440",
+     "time": "2010-09-21T09:36:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 42874,
+   "sort": 11,
+   "name": "命と、死と",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "第11话 生与死",
+     "url": "http://v.youku.com/v_show/id_XNDUzNzM4Mzk2.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "命运与死亡",
+     "url": "https://www.bilibili.com/bangumi/play/ep25441",
+     "time": "2010-09-21T09:36:12.000Z"
+    }
+   ]
+  },
+  {
+   "id": 42875,
+   "sort": 12,
+   "name": "運命の輪",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "第12话 命运之轮",
+     "url": "http://v.youku.com/v_show/id_XNDcxOTg2NTAw.html"
+    }
+   ]
+  },
+  {
+   "id": 42876,
+   "sort": 13,
+   "name": "守りたい",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "第13话 想守护",
+     "url": "http://v.youku.com/v_show/id_XNDcxOTg3NDg0.html"
+    }
+   ]
+  }
+ ]
+}

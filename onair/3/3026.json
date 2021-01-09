@@ -1,1 +1,50 @@
-{"id":"3026","name":"劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス","sites":[{"site":"iqiyi","id":"a_19rrhb8sh9","sort":21},{"site":"qq","id":"e/ejr0xfirssdm33y","sort":19},{"site":"bilibili","id":"5755","sort":1}],"eps":[{"id":857099,"sort":1,"name":"","sites":[{"site":"iqiyi","sort":1,"title":"超梦的逆袭","url":"http://www.iqiyi.com/v_19rrobr42w.html","time":"2015-09-17T05:39:45.000Z"},{"site":"qq","sort":1,"title":"精灵宝可梦1998剧场版：超梦的逆袭","url":"https://v.qq.com/x/cover/ejr0xfirssdm33y/f0016nuw81n.html"},{"site":"bilibili","sort":1,"title":"【剧场版】精灵宝可梦剧场版5 水都的守护神拉帝亚斯与拉帝欧斯","url":"https://www.bilibili.com/bangumi/play/ep97472","time":"2016-12-07T06:26:49.000Z"}]}]}
+{
+ "id": "3026",
+ "name": "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhb8sh9",
+   "sort": 21
+  },
+  {
+   "site": "qq",
+   "id": "e/ejr0xfirssdm33y",
+   "sort": 19
+  },
+  {
+   "site": "bilibili",
+   "id": "5755",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 857099,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "超梦的逆袭",
+     "url": "http://www.iqiyi.com/v_19rrobr42w.html",
+     "time": "2015-09-17T05:39:45.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "精灵宝可梦1998剧场版：超梦的逆袭",
+     "url": "https://v.qq.com/x/cover/ejr0xfirssdm33y/f0016nuw81n.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "【剧场版】精灵宝可梦剧场版5 水都的守护神拉帝亚斯与拉帝欧斯",
+     "url": "https://www.bilibili.com/bangumi/play/ep97472",
+     "time": "2016-12-07T06:26:49.000Z"
+    }
+   ]
+  }
+ ]
+}

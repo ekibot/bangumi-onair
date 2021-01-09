@@ -1,1 +1,181 @@
-{"id":"205845","name":"ワールドフールニュース PARTII","sites":[{"site":"bilibili","id":"6035","sort":12}],"eps":[{"id":715406,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep103486","time":"2017-04-02T10:45:02.000Z"}]},{"id":715407,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"超级婴儿 工作的作风!?","url":"https://www.bilibili.com/bangumi/play/ep103487","time":"2017-04-09T10:45:02.000Z"}]},{"id":715408,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"美食节目大作战!?","url":"https://www.bilibili.com/bangumi/play/ep103488","time":"2017-04-16T10:45:02.000Z"}]},{"id":715409,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"悄然靠近的黑影!?","url":"https://www.bilibili.com/bangumi/play/ep103489","time":"2017-04-23T10:45:02.000Z"}]},{"id":715410,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"薄井先生 借助狗狗帮忙的日子!?","url":"https://www.bilibili.com/bangumi/play/ep103490","time":"2017-04-30T10:45:02.000Z"}]},{"id":715411,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"从古代国家问好!?","url":"https://www.bilibili.com/bangumi/play/ep103491","time":"2017-05-07T10:45:02.000Z"}]},{"id":715412,"sort":7,"name":"","sites":[{"site":"bilibili","sort":7,"title":"日式火锅与乔纳森!?","url":"https://www.bilibili.com/bangumi/play/ep103492","time":"2017-05-14T10:45:02.000Z"}]},{"id":715413,"sort":8,"name":"","sites":[{"site":"bilibili","sort":8,"title":"美贵的另一面!?","url":"https://www.bilibili.com/bangumi/play/ep103493","time":"2017-05-21T10:45:02.000Z"}]},{"id":715414,"sort":9,"name":"","sites":[{"site":"bilibili","sort":9,"title":"台风之后!?","url":"https://www.bilibili.com/bangumi/play/ep103494","time":"2017-05-28T10:45:02.000Z"}]},{"id":715415,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"寻找那一天的萤火虫!?","url":"https://www.bilibili.com/bangumi/play/ep103495","time":"2017-06-04T10:45:02.000Z"}]},{"id":715416,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"启程的季节!?","url":"https://www.bilibili.com/bangumi/play/ep103496","time":"2017-06-11T10:45:00.000Z"}]},{"id":715417,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"各自的选择!?","url":"https://www.bilibili.com/bangumi/play/ep103497","time":"2017-06-18T10:49:45.000Z"}]}]}
+{
+ "id": "205845",
+ "name": "ワールドフールニュース PARTII",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "6035",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 715406,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep103486",
+     "time": "2017-04-02T10:45:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 715407,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "超级婴儿 工作的作风!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep103487",
+     "time": "2017-04-09T10:45:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 715408,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "美食节目大作战!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep103488",
+     "time": "2017-04-16T10:45:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 715409,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "悄然靠近的黑影!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep103489",
+     "time": "2017-04-23T10:45:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 715410,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "薄井先生 借助狗狗帮忙的日子!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep103490",
+     "time": "2017-04-30T10:45:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 715411,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "从古代国家问好!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep103491",
+     "time": "2017-05-07T10:45:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 715412,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "日式火锅与乔纳森!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep103492",
+     "time": "2017-05-14T10:45:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 715413,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "美贵的另一面!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep103493",
+     "time": "2017-05-21T10:45:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 715414,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "台风之后!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep103494",
+     "time": "2017-05-28T10:45:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 715415,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "寻找那一天的萤火虫!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep103495",
+     "time": "2017-06-04T10:45:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 715416,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "启程的季节!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep103496",
+     "time": "2017-06-11T10:45:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 715417,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "各自的选择!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep103497",
+     "time": "2017-06-18T10:49:45.000Z"
+    }
+   ]
+  }
+ ]
+}

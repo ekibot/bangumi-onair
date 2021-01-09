@@ -1,1 +1,125 @@
-{"id":"1957","name":"新世紀GPXサイバーフォーミュラSAGA","sites":[{"site":"bilibili","id":"3810","sort":8}],"eps":[{"id":9840,"sort":1,"name":"NO TITLE","sites":[{"site":"bilibili","sort":1,"title":"NO TITLE","url":"https://www.bilibili.com/bangumi/play/ep86606","time":"2016-04-20T04:13:51.000Z"}]},{"id":9841,"sort":2,"name":"FIRED!","sites":[{"site":"bilibili","sort":2,"title":"FIRED!","url":"https://www.bilibili.com/bangumi/play/ep86607","time":"2016-04-20T04:13:51.000Z"}]},{"id":9842,"sort":3,"name":"CRITICAL DAYS","sites":[{"site":"bilibili","sort":3,"title":"CRITICAL DAYS","url":"https://www.bilibili.com/bangumi/play/ep86608","time":"2016-04-20T04:13:51.000Z"}]},{"id":9843,"sort":4,"name":"EVENING CALM","sites":[{"site":"bilibili","sort":4,"title":"EVENING CALM","url":"https://www.bilibili.com/bangumi/play/ep86609","time":"2016-04-20T04:13:51.000Z"}]},{"id":9844,"sort":5,"name":"BURNING!!","sites":[{"site":"bilibili","sort":5,"title":"BURNING!!","url":"https://www.bilibili.com/bangumi/play/ep86610","time":"2016-04-20T04:13:51.000Z"}]},{"id":9845,"sort":6,"name":"LIFTING TURN","sites":[{"site":"bilibili","sort":6,"title":"LIFTING TURN","url":"https://www.bilibili.com/bangumi/play/ep86611","time":"2016-04-20T04:13:51.000Z"}]},{"id":9846,"sort":7,"name":"LOSE HIS WAY","sites":[{"site":"bilibili","sort":7,"title":"LOSE HIS WAY","url":"https://www.bilibili.com/bangumi/play/ep86612","time":"2016-04-20T04:13:51.000Z"}]},{"id":9847,"sort":8,"name":"NEVER","sites":[{"site":"bilibili","sort":8,"title":"NEVER","url":"https://www.bilibili.com/bangumi/play/ep86613","time":"2016-04-20T04:13:51.000Z"}]}]}
+{
+ "id": "1957",
+ "name": "新世紀GPXサイバーフォーミュラSAGA",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3810",
+   "sort": 8
+  }
+ ],
+ "eps": [
+  {
+   "id": 9840,
+   "sort": 1,
+   "name": "NO TITLE",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "NO TITLE",
+     "url": "https://www.bilibili.com/bangumi/play/ep86606",
+     "time": "2016-04-20T04:13:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9841,
+   "sort": 2,
+   "name": "FIRED!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "FIRED!",
+     "url": "https://www.bilibili.com/bangumi/play/ep86607",
+     "time": "2016-04-20T04:13:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9842,
+   "sort": 3,
+   "name": "CRITICAL DAYS",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "CRITICAL DAYS",
+     "url": "https://www.bilibili.com/bangumi/play/ep86608",
+     "time": "2016-04-20T04:13:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9843,
+   "sort": 4,
+   "name": "EVENING CALM",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "EVENING CALM",
+     "url": "https://www.bilibili.com/bangumi/play/ep86609",
+     "time": "2016-04-20T04:13:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9844,
+   "sort": 5,
+   "name": "BURNING!!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "BURNING!!",
+     "url": "https://www.bilibili.com/bangumi/play/ep86610",
+     "time": "2016-04-20T04:13:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9845,
+   "sort": 6,
+   "name": "LIFTING TURN",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "LIFTING TURN",
+     "url": "https://www.bilibili.com/bangumi/play/ep86611",
+     "time": "2016-04-20T04:13:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9846,
+   "sort": 7,
+   "name": "LOSE HIS WAY",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "LOSE HIS WAY",
+     "url": "https://www.bilibili.com/bangumi/play/ep86612",
+     "time": "2016-04-20T04:13:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 9847,
+   "sort": 8,
+   "name": "NEVER",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "NEVER",
+     "url": "https://www.bilibili.com/bangumi/play/ep86613",
+     "time": "2016-04-20T04:13:51.000Z"
+    }
+   ]
+  }
+ ]
+}

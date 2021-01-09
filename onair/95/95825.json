@@ -1,1 +1,195 @@
-{"id":"95825","name":"ブレイドアンドソウル","sites":[{"site":"bilibili","id":"111","sort":13}],"eps":[{"id":390528,"sort":1,"name":"道","sites":[{"site":"bilibili","sort":1,"title":"道","url":"https://www.bilibili.com/bangumi/play/ep1653","time":"2014-04-03T22:25:40.000Z"}]},{"id":390529,"sort":2,"name":"欲","sites":[{"site":"bilibili","sort":2,"title":"欲","url":"https://www.bilibili.com/bangumi/play/ep1652","time":"2014-04-11T00:45:44.000Z"}]},{"id":390530,"sort":3,"name":"仇","sites":[{"site":"bilibili","sort":3,"title":"仇","url":"https://www.bilibili.com/bangumi/play/ep1651","time":"2014-04-18T01:14:22.000Z"}]},{"id":390531,"sort":4,"name":"剣","sites":[{"site":"bilibili","sort":4,"title":"剑","url":"https://www.bilibili.com/bangumi/play/ep1650","time":"2014-04-24T18:46:09.000Z"}]},{"id":390532,"sort":5,"name":"花","sites":[{"site":"bilibili","sort":5,"title":"花","url":"https://www.bilibili.com/bangumi/play/ep1649","time":"2014-05-02T01:13:29.000Z"}]},{"id":390533,"sort":6,"name":"夢","sites":[{"site":"bilibili","sort":6,"title":"梦","url":"https://www.bilibili.com/bangumi/play/ep1648","time":"2014-05-09T02:00:59.000Z"}]},{"id":390534,"sort":7,"name":"時","sites":[{"site":"bilibili","sort":7,"title":"时","url":"https://www.bilibili.com/bangumi/play/ep1647","time":"2014-05-15T19:28:18.000Z"}]},{"id":390535,"sort":8,"name":"空","sites":[{"site":"bilibili","sort":8,"title":"空","url":"https://www.bilibili.com/bangumi/play/ep1646","time":"2014-05-22T18:31:31.000Z"}]},{"id":390536,"sort":9,"name":"月","sites":[{"site":"bilibili","sort":9,"title":"月","url":"https://www.bilibili.com/bangumi/play/ep1645","time":"2014-05-29T18:36:10.000Z"}]},{"id":390537,"sort":10,"name":"罪","sites":[{"site":"bilibili","sort":10,"title":"罪","url":"https://www.bilibili.com/bangumi/play/ep1644","time":"2014-06-05T18:29:57.000Z"}]},{"id":390538,"sort":11,"name":"罰","sites":[{"site":"bilibili","sort":11,"title":"罚","url":"https://www.bilibili.com/bangumi/play/ep1643","time":"2014-06-12T18:32:18.000Z"}]},{"id":390539,"sort":12,"name":"魂","sites":[{"site":"bilibili","sort":12,"title":"魂","url":"https://www.bilibili.com/bangumi/play/ep1642","time":"2014-06-19T18:32:22.000Z"}]},{"id":407422,"sort":13,"name":"神","sites":[{"site":"bilibili","sort":13,"title":"神","url":"https://www.bilibili.com/bangumi/play/ep1641","time":"2014-06-26T18:38:57.000Z"}]}]}
+{
+ "id": "95825",
+ "name": "ブレイドアンドソウル",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "111",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 390528,
+   "sort": 1,
+   "name": "道",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "道",
+     "url": "https://www.bilibili.com/bangumi/play/ep1653",
+     "time": "2014-04-03T22:25:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390529,
+   "sort": 2,
+   "name": "欲",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "欲",
+     "url": "https://www.bilibili.com/bangumi/play/ep1652",
+     "time": "2014-04-11T00:45:44.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390530,
+   "sort": 3,
+   "name": "仇",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "仇",
+     "url": "https://www.bilibili.com/bangumi/play/ep1651",
+     "time": "2014-04-18T01:14:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390531,
+   "sort": 4,
+   "name": "剣",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "剑",
+     "url": "https://www.bilibili.com/bangumi/play/ep1650",
+     "time": "2014-04-24T18:46:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390532,
+   "sort": 5,
+   "name": "花",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "花",
+     "url": "https://www.bilibili.com/bangumi/play/ep1649",
+     "time": "2014-05-02T01:13:29.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390533,
+   "sort": 6,
+   "name": "夢",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "梦",
+     "url": "https://www.bilibili.com/bangumi/play/ep1648",
+     "time": "2014-05-09T02:00:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390534,
+   "sort": 7,
+   "name": "時",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "时",
+     "url": "https://www.bilibili.com/bangumi/play/ep1647",
+     "time": "2014-05-15T19:28:18.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390535,
+   "sort": 8,
+   "name": "空",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "空",
+     "url": "https://www.bilibili.com/bangumi/play/ep1646",
+     "time": "2014-05-22T18:31:31.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390536,
+   "sort": 9,
+   "name": "月",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "月",
+     "url": "https://www.bilibili.com/bangumi/play/ep1645",
+     "time": "2014-05-29T18:36:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390537,
+   "sort": 10,
+   "name": "罪",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "罪",
+     "url": "https://www.bilibili.com/bangumi/play/ep1644",
+     "time": "2014-06-05T18:29:57.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390538,
+   "sort": 11,
+   "name": "罰",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "罚",
+     "url": "https://www.bilibili.com/bangumi/play/ep1643",
+     "time": "2014-06-12T18:32:18.000Z"
+    }
+   ]
+  },
+  {
+   "id": 390539,
+   "sort": 12,
+   "name": "魂",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "魂",
+     "url": "https://www.bilibili.com/bangumi/play/ep1642",
+     "time": "2014-06-19T18:32:22.000Z"
+    }
+   ]
+  },
+  {
+   "id": 407422,
+   "sort": 13,
+   "name": "神",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "神",
+     "url": "https://www.bilibili.com/bangumi/play/ep1641",
+     "time": "2014-06-26T18:38:57.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,55 @@
-{"id":"9385","name":"夜桜四重奏 〜ホシノウミ〜","sites":[{"site":"bilibili","id":"474","sort":3}],"eps":[{"id":53273,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep8819","time":"2010-10-18T06:34:52.000Z"}]},{"id":53274,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"","url":"https://www.bilibili.com/bangumi/play/ep8818","time":"2011-05-15T06:16:04.000Z"}]},{"id":93092,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"","url":"https://www.bilibili.com/bangumi/play/ep8817","time":"2011-11-23T08:57:13.000Z"}]}]}
+{
+ "id": "9385",
+ "name": "夜桜四重奏 〜ホシノウミ〜",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "474",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 53273,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep8819",
+     "time": "2010-10-18T06:34:52.000Z"
+    }
+   ]
+  },
+  {
+   "id": 53274,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep8818",
+     "time": "2011-05-15T06:16:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 93092,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep8817",
+     "time": "2011-11-23T08:57:13.000Z"
+    }
+   ]
+  }
+ ]
+}

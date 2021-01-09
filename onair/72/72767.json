@@ -1,1 +1,69 @@
-{"id":"72767","name":"男子高校生の日常 特典映像","sites":[{"site":"bilibili","id":"2681","sort":4}],"eps":[{"id":268665,"sort":1,"name":"男子高校生と理想","sites":[{"site":"bilibili","sort":1,"title":"男子高中生与理想","url":"https://www.bilibili.com/bangumi/play/ep65701","time":"2012-04-07T15:25:23.000Z"}]},{"id":268666,"sort":2,"name":"男子高校生と孤独","sites":[{"site":"bilibili","sort":2,"title":"男子高中生与孤独","url":"https://www.bilibili.com/bangumi/play/ep65700","time":"2012-05-04T15:34:08.000Z"}]},{"id":268667,"sort":3,"name":"男子高校生とチャック","sites":[{"site":"bilibili","sort":3,"title":"男子高中生与拉链","url":"https://www.bilibili.com/bangumi/play/ep65699","time":"2012-06-10T12:43:14.000Z"}]},{"id":268668,"sort":4,"name":"男子高校生とひっかけ","sites":[{"site":"bilibili","sort":4,"title":"男子高中生与欺骗","url":"https://www.bilibili.com/bangumi/play/ep65698","time":"2012-07-10T17:16:23.000Z"}]}]}
+{
+ "id": "72767",
+ "name": "男子高校生の日常 特典映像",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2681",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 268665,
+   "sort": 1,
+   "name": "男子高校生と理想",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "男子高中生与理想",
+     "url": "https://www.bilibili.com/bangumi/play/ep65701",
+     "time": "2012-04-07T15:25:23.000Z"
+    }
+   ]
+  },
+  {
+   "id": 268666,
+   "sort": 2,
+   "name": "男子高校生と孤独",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "男子高中生与孤独",
+     "url": "https://www.bilibili.com/bangumi/play/ep65700",
+     "time": "2012-05-04T15:34:08.000Z"
+    }
+   ]
+  },
+  {
+   "id": 268667,
+   "sort": 3,
+   "name": "男子高校生とチャック",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "男子高中生与拉链",
+     "url": "https://www.bilibili.com/bangumi/play/ep65699",
+     "time": "2012-06-10T12:43:14.000Z"
+    }
+   ]
+  },
+  {
+   "id": 268668,
+   "sort": 4,
+   "name": "男子高校生とひっかけ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "男子高中生与欺骗",
+     "url": "https://www.bilibili.com/bangumi/play/ep65698",
+     "time": "2012-07-10T17:16:00.000Z"
+    }
+   ]
+  }
+ ]
+}

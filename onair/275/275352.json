@@ -1,1 +1,169 @@
-{"id":"275352","name":"うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。","sites":[{"site":"qq","id":"e/er0k7wjhbw8f4vj","sort":12}],"eps":[{"id":893790,"sort":1,"name":"青年、ちいさな娘と出会う。","sites":[{"site":"qq","sort":1,"title":"为了女儿，我说不定连魔王都能干掉。_01","url":"https://v.qq.com/x/cover/er0k7wjhbw8f4vj/y00318qqc64.html"}]},{"id":893791,"sort":2,"name":"ちいさな娘、新たな生活をはじめる。","sites":[{"site":"qq","sort":2,"title":"为了女儿，我说不定连魔王都能干掉。_02","url":"https://v.qq.com/x/cover/er0k7wjhbw8f4vj/j00316a7oqg.html"}]},{"id":893792,"sort":3,"name":"青年、留守にする。","sites":[{"site":"qq","sort":3,"title":"为了女儿，我说不定连魔王都能干掉。_03","url":"https://v.qq.com/x/cover/er0k7wjhbw8f4vj/r00314gbzcj.html"}]},{"id":893793,"sort":4,"name":"ちいさな娘、その『事件』。","sites":[{"site":"qq","sort":4,"title":"为了女儿，我说不定连魔王都能干掉。_04","url":"https://v.qq.com/x/cover/er0k7wjhbw8f4vj/j0031asbueo.html"}]},{"id":893794,"sort":5,"name":"ちいさな娘、 雪に感激する。","sites":[{"site":"qq","sort":5,"title":"为了女儿，我说不定连魔王都能干掉。_05","url":"https://v.qq.com/x/cover/er0k7wjhbw8f4vj/z00314fb6nd.html"}]},{"id":893795,"sort":6,"name":"幼き少女、旅に出る。","sites":[{"site":"qq","sort":6,"title":"为了女儿，我说不定连魔王都能干掉。_06","url":"https://v.qq.com/x/cover/er0k7wjhbw8f4vj/t00313w6z46.html"}]},{"id":893796,"sort":7,"name":"幼き少女、港町へ行く。","sites":[{"site":"qq","sort":7,"title":"为了女儿，我说不定连魔王都能干掉。_07","url":"https://v.qq.com/x/cover/er0k7wjhbw8f4vj/h0031gp7any.html"}]},{"id":893797,"sort":8,"name":"青年、故郷に着く。","sites":[{"site":"qq","sort":8,"title":"为了女儿，我说不定连魔王都能干掉。_08","url":"https://v.qq.com/x/cover/er0k7wjhbw8f4vj/c0031kk8u7f.html"}]},{"id":893798,"sort":9,"name":"青年、弟の結婚式と幼い少女と。","sites":[{"site":"qq","sort":9,"title":"为了女儿，我说不定连魔王都能干掉。_09","url":"https://v.qq.com/x/cover/er0k7wjhbw8f4vj/u0032d5jt2i.html"}]},{"id":893799,"sort":10,"name":"幼き少女、クロイツに帰る。","sites":[{"site":"qq","sort":10,"title":"为了女儿，我说不定连魔王都能干掉。_10","url":"https://v.qq.com/x/cover/er0k7wjhbw8f4vj/j0032kuumc0.html"}]},{"id":893800,"sort":11,"name":"幼き少女とにゃんこパラダイス。","sites":[{"site":"qq","sort":11,"title":"为了女儿，我说不定连魔王都能干掉。_11","url":"https://v.qq.com/x/cover/er0k7wjhbw8f4vj/d0032xmqwau.html"}]},{"id":893801,"sort":12,"name":"幼き少女、願う。","sites":[{"site":"qq","sort":12,"title":"为了女儿，我说不定连魔王都能干掉。_12","url":"https://v.qq.com/x/cover/er0k7wjhbw8f4vj/n00327vrskk.html"}]}]}
+{
+ "id": "275352",
+ "name": "うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "e/er0k7wjhbw8f4vj",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 893790,
+   "sort": 1,
+   "name": "青年、ちいさな娘と出会う。",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "为了女儿，我说不定连魔王都能干掉。_01",
+     "url": "https://v.qq.com/x/cover/er0k7wjhbw8f4vj/y00318qqc64.html"
+    }
+   ]
+  },
+  {
+   "id": 893791,
+   "sort": 2,
+   "name": "ちいさな娘、新たな生活をはじめる。",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "为了女儿，我说不定连魔王都能干掉。_02",
+     "url": "https://v.qq.com/x/cover/er0k7wjhbw8f4vj/j00316a7oqg.html"
+    }
+   ]
+  },
+  {
+   "id": 893792,
+   "sort": 3,
+   "name": "青年、留守にする。",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "为了女儿，我说不定连魔王都能干掉。_03",
+     "url": "https://v.qq.com/x/cover/er0k7wjhbw8f4vj/r00314gbzcj.html"
+    }
+   ]
+  },
+  {
+   "id": 893793,
+   "sort": 4,
+   "name": "ちいさな娘、その『事件』。",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "为了女儿，我说不定连魔王都能干掉。_04",
+     "url": "https://v.qq.com/x/cover/er0k7wjhbw8f4vj/j0031asbueo.html"
+    }
+   ]
+  },
+  {
+   "id": 893794,
+   "sort": 5,
+   "name": "ちいさな娘、 雪に感激する。",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "为了女儿，我说不定连魔王都能干掉。_05",
+     "url": "https://v.qq.com/x/cover/er0k7wjhbw8f4vj/z00314fb6nd.html"
+    }
+   ]
+  },
+  {
+   "id": 893795,
+   "sort": 6,
+   "name": "幼き少女、旅に出る。",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "为了女儿，我说不定连魔王都能干掉。_06",
+     "url": "https://v.qq.com/x/cover/er0k7wjhbw8f4vj/t00313w6z46.html"
+    }
+   ]
+  },
+  {
+   "id": 893796,
+   "sort": 7,
+   "name": "幼き少女、港町へ行く。",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "为了女儿，我说不定连魔王都能干掉。_07",
+     "url": "https://v.qq.com/x/cover/er0k7wjhbw8f4vj/h0031gp7any.html"
+    }
+   ]
+  },
+  {
+   "id": 893797,
+   "sort": 8,
+   "name": "青年、故郷に着く。",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "为了女儿，我说不定连魔王都能干掉。_08",
+     "url": "https://v.qq.com/x/cover/er0k7wjhbw8f4vj/c0031kk8u7f.html"
+    }
+   ]
+  },
+  {
+   "id": 893798,
+   "sort": 9,
+   "name": "青年、弟の結婚式と幼い少女と。",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "为了女儿，我说不定连魔王都能干掉。_09",
+     "url": "https://v.qq.com/x/cover/er0k7wjhbw8f4vj/u0032d5jt2i.html"
+    }
+   ]
+  },
+  {
+   "id": 893799,
+   "sort": 10,
+   "name": "幼き少女、クロイツに帰る。",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "为了女儿，我说不定连魔王都能干掉。_10",
+     "url": "https://v.qq.com/x/cover/er0k7wjhbw8f4vj/j0032kuumc0.html"
+    }
+   ]
+  },
+  {
+   "id": 893800,
+   "sort": 11,
+   "name": "幼き少女とにゃんこパラダイス。",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "为了女儿，我说不定连魔王都能干掉。_11",
+     "url": "https://v.qq.com/x/cover/er0k7wjhbw8f4vj/d0032xmqwau.html"
+    }
+   ]
+  },
+  {
+   "id": 893801,
+   "sort": 12,
+   "name": "幼き少女、願う。",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "为了女儿，我说不定连魔王都能干掉。_12",
+     "url": "https://v.qq.com/x/cover/er0k7wjhbw8f4vj/n00327vrskk.html"
+    }
+   ]
+  }
+ ]
+}

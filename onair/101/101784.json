@@ -1,1 +1,195 @@
-{"id":"101784","name":"Hi☆sCoool! セハガール","sites":[{"site":"bilibili","id":"321","sort":13}],"eps":[{"id":433968,"sort":1,"name":"いつだって10年早いんだよ！","sites":[{"site":"bilibili","sort":1,"title":"你还嫩着呢！","url":"https://www.bilibili.com/bangumi/play/ep6077","time":"2014-10-08T14:00:00.000Z"}]},{"id":433969,"sort":2,"name":"コンボでつなげ 熱い気持ち","sites":[{"site":"bilibili","sort":2,"title":"连击招数 炽热心情","url":"https://www.bilibili.com/bangumi/play/ep6076","time":"2014-10-15T14:00:00.000Z"}]},{"id":433970,"sort":3,"name":"アップ、ダウン、レフト、ライト、たまにナナメ上","sites":[{"site":"bilibili","sort":3,"title":"上、下、左、右、偶尔斜上方","url":"https://www.bilibili.com/bangumi/play/ep6075","time":"2014-10-22T14:00:02.000Z"}]},{"id":433971,"sort":4,"name":"【セハガール】スペースチャンネル5【踊ってみた】","sites":[{"site":"bilibili","sort":4,"title":"【世嘉女孩】太空频道5【跳了一下】","url":"https://www.bilibili.com/bangumi/play/ep6074","time":"2014-10-29T14:00:06.000Z"}]},{"id":433972,"sort":5,"name":"ぷよ+ぷよ+ぷよ+ぷよ=0","sites":[{"site":"bilibili","sort":5,"title":"噗哟+噗哟+噗哟+噗哟=0","url":"https://www.bilibili.com/bangumi/play/ep9849","time":"2014-11-05T14:00:00.000Z"}]},{"id":433973,"sort":6,"name":"センター先生のセンター試驗","sites":[{"site":"bilibili","sort":6,"title":"中心老师的期中考试","url":"https://www.bilibili.com/bangumi/play/ep14993","time":"2014-11-12T14:00:00.000Z"}]},{"id":433974,"sort":7,"name":"Dr.エッグマンVSソニックwithセガ・ハード・ガールズ","sites":[{"site":"bilibili","sort":7,"title":"蛋头博士VS索尼克 with 世嘉硬件女孩","url":"https://www.bilibili.com/bangumi/play/ep19786","time":"2014-11-19T14:00:00.000Z"}]},{"id":433975,"sort":8,"name":"輝け! 第54回! 脳天直撃!ポロリはないけど、ポロリ青春 限界のバリアを打ち破れ! セハガガ学園文化祭!","sites":[{"site":"bilibili","sort":8,"title":"发光吧！第54回！头顶直击！虽然没有走光 走光青春 打破极限的屏障！世硬嘉嘉学园文化祭！","url":"https://www.bilibili.com/bangumi/play/ep21361","time":"2014-11-26T14:00:00.000Z"}]},{"id":433976,"sort":9,"name":"武器強化の成功率50%、体感では15%説","sites":[{"site":"bilibili","sort":9,"title":"武器强化的成功率50%、体感15%学说","url":"https://www.bilibili.com/bangumi/play/ep23129","time":"2014-12-03T14:00:00.000Z"}]},{"id":433977,"sort":10,"name":"壊れかけのジェットセットラジオ","sites":[{"site":"bilibili","sort":10,"title":"坏掉的街头涂鸦","url":"https://www.bilibili.com/bangumi/play/ep25533","time":"2014-12-10T14:00:00.000Z"}]},{"id":433978,"sort":11,"name":"ドリラッピー、サタラッピー、メガラッピー、??ラッピー","sites":[{"site":"bilibili","sort":11,"title":"Dream拉比、土星拉比、Mega拉比、？？拉比","url":"https://www.bilibili.com/bangumi/play/ep27837","time":"2014-12-17T14:00:00.000Z"}]},{"id":433979,"sort":12,"name":"セハガ、卒業するんだってよ","sites":[{"site":"bilibili","sort":12,"title":"世嘉女孩、听说要毕业了","url":"https://www.bilibili.com/bangumi/play/ep27889","time":"2014-12-24T14:00:00.000Z"}]},{"id":433980,"sort":13,"name":"いつだって、つながってますから!","sites":[{"site":"bilibili","sort":13,"title":"无论何时都会紧密相连！","url":"https://www.bilibili.com/bangumi/play/ep27888","time":"2014-12-24T14:00:00.000Z"}]}]}
+{
+ "id": "101784",
+ "name": "Hi☆sCoool! セハガール",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "321",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 433968,
+   "sort": 1,
+   "name": "いつだって10年早いんだよ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "你还嫩着呢！",
+     "url": "https://www.bilibili.com/bangumi/play/ep6077",
+     "time": "2014-10-08T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 433969,
+   "sort": 2,
+   "name": "コンボでつなげ 熱い気持ち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "连击招数 炽热心情",
+     "url": "https://www.bilibili.com/bangumi/play/ep6076",
+     "time": "2014-10-15T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 433970,
+   "sort": 3,
+   "name": "アップ、ダウン、レフト、ライト、たまにナナメ上",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "上、下、左、右、偶尔斜上方",
+     "url": "https://www.bilibili.com/bangumi/play/ep6075",
+     "time": "2014-10-22T14:00:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 433971,
+   "sort": 4,
+   "name": "【セハガール】スペースチャンネル5【踊ってみた】",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "【世嘉女孩】太空频道5【跳了一下】",
+     "url": "https://www.bilibili.com/bangumi/play/ep6074",
+     "time": "2014-10-29T14:00:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 433972,
+   "sort": 5,
+   "name": "ぷよ+ぷよ+ぷよ+ぷよ=0",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "噗哟+噗哟+噗哟+噗哟=0",
+     "url": "https://www.bilibili.com/bangumi/play/ep9849",
+     "time": "2014-11-05T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 433973,
+   "sort": 6,
+   "name": "センター先生のセンター試驗",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "中心老师的期中考试",
+     "url": "https://www.bilibili.com/bangumi/play/ep14993",
+     "time": "2014-11-12T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 433974,
+   "sort": 7,
+   "name": "Dr.エッグマンVSソニックwithセガ・ハード・ガールズ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "蛋头博士VS索尼克 with 世嘉硬件女孩",
+     "url": "https://www.bilibili.com/bangumi/play/ep19786",
+     "time": "2014-11-19T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 433975,
+   "sort": 8,
+   "name": "輝け! 第54回! 脳天直撃!ポロリはないけど、ポロリ青春 限界のバリアを打ち破れ! セハガガ学園文化祭!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "发光吧！第54回！头顶直击！虽然没有走光 走光青春 打破极限的屏障！世硬嘉嘉学园文化祭！",
+     "url": "https://www.bilibili.com/bangumi/play/ep21361",
+     "time": "2014-11-26T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 433976,
+   "sort": 9,
+   "name": "武器強化の成功率50%、体感では15%説",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "武器强化的成功率50%、体感15%学说",
+     "url": "https://www.bilibili.com/bangumi/play/ep23129",
+     "time": "2014-12-03T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 433977,
+   "sort": 10,
+   "name": "壊れかけのジェットセットラジオ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "坏掉的街头涂鸦",
+     "url": "https://www.bilibili.com/bangumi/play/ep25533",
+     "time": "2014-12-10T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 433978,
+   "sort": 11,
+   "name": "ドリラッピー、サタラッピー、メガラッピー、??ラッピー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "Dream拉比、土星拉比、Mega拉比、？？拉比",
+     "url": "https://www.bilibili.com/bangumi/play/ep27837",
+     "time": "2014-12-17T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 433979,
+   "sort": 12,
+   "name": "セハガ、卒業するんだってよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "世嘉女孩、听说要毕业了",
+     "url": "https://www.bilibili.com/bangumi/play/ep27889",
+     "time": "2014-12-24T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 433980,
+   "sort": 13,
+   "name": "いつだって、つながってますから!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "无论何时都会紧密相连！",
+     "url": "https://www.bilibili.com/bangumi/play/ep27888",
+     "time": "2014-12-24T14:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

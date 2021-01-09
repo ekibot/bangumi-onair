@@ -1,1 +1,253 @@
-{"id":"106981","name":"銃皇無尽のファフニール","sites":[{"site":"qq","id":"z/zs9oqgxk78ete07","sort":12}],"eps":[{"id":465411,"sort":1,"name":"竜園のミッドガル","sites":[{"site":"qq","sort":1,"title":"铳皇无尽的法夫纳_01","url":"https://v.qq.com/x/cover/zs9oqgxk78ete07/d0033brzz4r.html"},{"site":"acfun","sort":1,"title":"龙园米德加尔","url":"https://www.acfun.cn/bangumi/ab6003944_36188_1749445","time":"2020-09-30T19:28:58.682Z"}]},{"id":465412,"sort":2,"name":"白のリヴァイアサン","sites":[{"site":"qq","sort":2,"title":"铳皇无尽的法夫纳_02","url":"https://v.qq.com/x/cover/zs9oqgxk78ete07/d0033eu53uh.html"},{"site":"acfun","sort":2,"title":"「白」之利维坦","url":"https://www.acfun.cn/bangumi/ab6003944_36188_1749446","time":"2020-09-30T19:28:58.682Z"}]},{"id":465413,"sort":3,"name":"咆哮のファフニール","sites":[{"site":"qq","sort":3,"title":"铳皇无尽的法夫纳_03","url":"https://v.qq.com/x/cover/zs9oqgxk78ete07/e00335c96tn.html"},{"site":"acfun","sort":3,"title":"咆哮的法夫纳","url":"https://www.acfun.cn/bangumi/ab6003944_36188_1749447","time":"2020-09-30T19:28:58.682Z"}]},{"id":465414,"sort":4,"name":"竜人のティア","sites":[{"site":"qq","sort":4,"title":"铳皇无尽的法夫纳_04","url":"https://v.qq.com/x/cover/zs9oqgxk78ete07/h0033ns94u6.html"},{"site":"acfun","sort":4,"title":"龙人缇娅","url":"https://www.acfun.cn/bangumi/ab6003944_36188_1749448","time":"2020-09-30T19:28:58.682Z"}]},{"id":465415,"sort":5,"name":"禍焔のムスペルヘイム","sites":[{"site":"qq","sort":5,"title":"铳皇无尽的法夫纳_05","url":"https://v.qq.com/x/cover/zs9oqgxk78ete07/y0033p5637a.html"},{"site":"acfun","sort":5,"title":"火焰的祸焰界","url":"https://www.acfun.cn/bangumi/ab6003944_36188_1749449","time":"2020-09-30T19:28:58.682Z"}]},{"id":466289,"sort":6,"name":"紅翼のティアマト","sites":[{"site":"qq","sort":6,"title":"铳皇无尽的法夫纳_06","url":"https://v.qq.com/x/cover/zs9oqgxk78ete07/h0033yshdqp.html"},{"site":"acfun","sort":6,"title":"红翼之蒂亚马特","url":"https://www.acfun.cn/bangumi/ab6003944_36188_1749450","time":"2020-09-30T19:28:58.682Z"}]},{"id":466290,"sort":7,"name":"スカーレット・イノセント","sites":[{"site":"qq","sort":7,"title":"铳皇无尽的法夫纳_07","url":"https://v.qq.com/x/cover/zs9oqgxk78ete07/r0033p28pnj.html"},{"site":"acfun","sort":7,"title":"无瑕之绯","url":"https://www.acfun.cn/bangumi/ab6003944_36188_1749451","time":"2020-09-30T19:28:58.682Z"}]},{"id":466291,"sort":8,"name":"侵攻のバジリスク","sites":[{"site":"qq","sort":8,"title":"铳皇无尽的法夫纳_08","url":"https://v.qq.com/x/cover/zs9oqgxk78ete07/v0033lm94lo.html"},{"site":"acfun","sort":8,"title":"袭来的巴西利斯克","url":"https://www.acfun.cn/bangumi/ab6003944_36188_1749452","time":"2020-09-30T19:28:58.682Z"}]},{"id":466292,"sort":9,"name":"絶海のフロントライン","sites":[{"site":"qq","sort":9,"title":"铳皇无尽的法夫纳_09","url":"https://v.qq.com/x/cover/zs9oqgxk78ete07/p0033sa54p4.html"},{"site":"acfun","sort":9,"title":"远海的前线","url":"https://www.acfun.cn/bangumi/ab6003944_36188_1749453","time":"2020-09-30T19:28:58.682Z"}]},{"id":466293,"sort":10,"name":"赤色のカタストロフ","sites":[{"site":"qq","sort":10,"title":"铳皇无尽的法夫纳_10","url":"https://v.qq.com/x/cover/zs9oqgxk78ete07/l0033oawrs9.html"},{"site":"acfun","sort":10,"title":"赤色灾厄","url":"https://www.acfun.cn/bangumi/ab6003944_36188_1749454","time":"2020-09-30T19:28:58.682Z"}]},{"id":466294,"sort":11,"name":"天墜のミストルテイン","sites":[{"site":"qq","sort":11,"title":"铳皇无尽的法夫纳_11","url":"https://v.qq.com/x/cover/zs9oqgxk78ete07/c0033zbabe8.html"},{"site":"acfun","sort":11,"title":"堕天的米斯特汀","url":"https://www.acfun.cn/bangumi/ab6003944_36188_1749455","time":"2020-09-30T19:28:58.682Z"}]},{"id":466295,"sort":12,"name":"アンリミテッド・ファフニール","sites":[{"site":"qq","sort":12,"title":"铳皇无尽的法夫纳_12","url":"https://v.qq.com/x/cover/zs9oqgxk78ete07/e0033ybc5yr.html"},{"site":"acfun","sort":12,"title":"无尽之法夫纳","url":"https://www.acfun.cn/bangumi/ab6003944_36188_1749456","time":"2020-09-30T19:28:58.682Z"}]}]}
+{
+ "id": "106981",
+ "name": "銃皇無尽のファフニール",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "z/zs9oqgxk78ete07",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 465411,
+   "sort": 1,
+   "name": "竜園のミッドガル",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "铳皇无尽的法夫纳_01",
+     "url": "https://v.qq.com/x/cover/zs9oqgxk78ete07/d0033brzz4r.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "龙园米德加尔",
+     "url": "https://www.acfun.cn/bangumi/ab6003944_36188_1749445",
+     "time": "2020-09-30T19:28:58.682Z"
+    }
+   ]
+  },
+  {
+   "id": 465412,
+   "sort": 2,
+   "name": "白のリヴァイアサン",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "铳皇无尽的法夫纳_02",
+     "url": "https://v.qq.com/x/cover/zs9oqgxk78ete07/d0033eu53uh.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 2,
+     "title": "「白」之利维坦",
+     "url": "https://www.acfun.cn/bangumi/ab6003944_36188_1749446",
+     "time": "2020-09-30T19:28:58.682Z"
+    }
+   ]
+  },
+  {
+   "id": 465413,
+   "sort": 3,
+   "name": "咆哮のファフニール",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "铳皇无尽的法夫纳_03",
+     "url": "https://v.qq.com/x/cover/zs9oqgxk78ete07/e00335c96tn.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 3,
+     "title": "咆哮的法夫纳",
+     "url": "https://www.acfun.cn/bangumi/ab6003944_36188_1749447",
+     "time": "2020-09-30T19:28:58.682Z"
+    }
+   ]
+  },
+  {
+   "id": 465414,
+   "sort": 4,
+   "name": "竜人のティア",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "铳皇无尽的法夫纳_04",
+     "url": "https://v.qq.com/x/cover/zs9oqgxk78ete07/h0033ns94u6.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 4,
+     "title": "龙人缇娅",
+     "url": "https://www.acfun.cn/bangumi/ab6003944_36188_1749448",
+     "time": "2020-09-30T19:28:58.682Z"
+    }
+   ]
+  },
+  {
+   "id": 465415,
+   "sort": 5,
+   "name": "禍焔のムスペルヘイム",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "铳皇无尽的法夫纳_05",
+     "url": "https://v.qq.com/x/cover/zs9oqgxk78ete07/y0033p5637a.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 5,
+     "title": "火焰的祸焰界",
+     "url": "https://www.acfun.cn/bangumi/ab6003944_36188_1749449",
+     "time": "2020-09-30T19:28:58.682Z"
+    }
+   ]
+  },
+  {
+   "id": 466289,
+   "sort": 6,
+   "name": "紅翼のティアマト",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "铳皇无尽的法夫纳_06",
+     "url": "https://v.qq.com/x/cover/zs9oqgxk78ete07/h0033yshdqp.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 6,
+     "title": "红翼之蒂亚马特",
+     "url": "https://www.acfun.cn/bangumi/ab6003944_36188_1749450",
+     "time": "2020-09-30T19:28:58.682Z"
+    }
+   ]
+  },
+  {
+   "id": 466290,
+   "sort": 7,
+   "name": "スカーレット・イノセント",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "铳皇无尽的法夫纳_07",
+     "url": "https://v.qq.com/x/cover/zs9oqgxk78ete07/r0033p28pnj.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 7,
+     "title": "无瑕之绯",
+     "url": "https://www.acfun.cn/bangumi/ab6003944_36188_1749451",
+     "time": "2020-09-30T19:28:58.682Z"
+    }
+   ]
+  },
+  {
+   "id": 466291,
+   "sort": 8,
+   "name": "侵攻のバジリスク",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "铳皇无尽的法夫纳_08",
+     "url": "https://v.qq.com/x/cover/zs9oqgxk78ete07/v0033lm94lo.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 8,
+     "title": "袭来的巴西利斯克",
+     "url": "https://www.acfun.cn/bangumi/ab6003944_36188_1749452",
+     "time": "2020-09-30T19:28:58.682Z"
+    }
+   ]
+  },
+  {
+   "id": 466292,
+   "sort": 9,
+   "name": "絶海のフロントライン",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "铳皇无尽的法夫纳_09",
+     "url": "https://v.qq.com/x/cover/zs9oqgxk78ete07/p0033sa54p4.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 9,
+     "title": "远海的前线",
+     "url": "https://www.acfun.cn/bangumi/ab6003944_36188_1749453",
+     "time": "2020-09-30T19:28:58.682Z"
+    }
+   ]
+  },
+  {
+   "id": 466293,
+   "sort": 10,
+   "name": "赤色のカタストロフ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "铳皇无尽的法夫纳_10",
+     "url": "https://v.qq.com/x/cover/zs9oqgxk78ete07/l0033oawrs9.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 10,
+     "title": "赤色灾厄",
+     "url": "https://www.acfun.cn/bangumi/ab6003944_36188_1749454",
+     "time": "2020-09-30T19:28:58.682Z"
+    }
+   ]
+  },
+  {
+   "id": 466294,
+   "sort": 11,
+   "name": "天墜のミストルテイン",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "铳皇无尽的法夫纳_11",
+     "url": "https://v.qq.com/x/cover/zs9oqgxk78ete07/c0033zbabe8.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 11,
+     "title": "堕天的米斯特汀",
+     "url": "https://www.acfun.cn/bangumi/ab6003944_36188_1749455",
+     "time": "2020-09-30T19:28:58.682Z"
+    }
+   ]
+  },
+  {
+   "id": 466295,
+   "sort": 12,
+   "name": "アンリミテッド・ファフニール",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "铳皇无尽的法夫纳_12",
+     "url": "https://v.qq.com/x/cover/zs9oqgxk78ete07/e0033ybc5yr.html"
+    },
+    {
+     "site": "acfun",
+     "sort": 12,
+     "title": "无尽之法夫纳",
+     "url": "https://www.acfun.cn/bangumi/ab6003944_36188_1749456",
+     "time": "2020-09-30T19:28:58.682Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,1 +1,169 @@
-{"id":"218712","name":"SSSS.GRIDMAN","sites":[{"site":"qq","id":"o/o28lfr4elqppz6q","sort":12}],"eps":[{"id":812399,"sort":1,"name":"覚・醒","sites":[{"site":"qq","sort":1,"title":"SSSS 古立特 日语版_01","url":"https://v.qq.com/x/cover/o28lfr4elqppz6q/c00271fjrtd.html"}]},{"id":812400,"sort":2,"name":"修・復","sites":[{"site":"qq","sort":2,"title":"SSSS 古立特 日语版_02","url":"https://v.qq.com/x/cover/o28lfr4elqppz6q/s002747muya.html"}]},{"id":812401,"sort":3,"name":"敗・北","sites":[{"site":"qq","sort":3,"title":"SSSS 古立特 日语版_03","url":"https://v.qq.com/x/cover/o28lfr4elqppz6q/q0027pgrfgz.html"}]},{"id":812402,"sort":4,"name":"疑・心","sites":[{"site":"qq","sort":4,"title":"SSSS 古立特 日语版_04","url":"https://v.qq.com/x/cover/o28lfr4elqppz6q/l00283nm8gk.html"}]},{"id":812403,"sort":5,"name":"挑・発","sites":[{"site":"qq","sort":5,"title":"SSSS 古立特 日语版_05","url":"https://v.qq.com/x/cover/o28lfr4elqppz6q/r0028ejof40.html"}]},{"id":812404,"sort":6,"name":"接・触","sites":[{"site":"qq","sort":6,"title":"SSSS 古立特 日语版_06","url":"https://v.qq.com/x/cover/o28lfr4elqppz6q/m0028a6rw72.html"}]},{"id":812405,"sort":7,"name":"策・略","sites":[{"site":"qq","sort":7,"title":"SSSS 古立特 日语版_07","url":"https://v.qq.com/x/cover/o28lfr4elqppz6q/o0028a4mero.html"}]},{"id":812406,"sort":8,"name":"対・立","sites":[{"site":"qq","sort":8,"title":"SSSS 古立特 日语版_08","url":"https://v.qq.com/x/cover/o28lfr4elqppz6q/u0028aw43bt.html"}]},{"id":812407,"sort":9,"name":"夢・想","sites":[{"site":"qq","sort":9,"title":"SSSS 古立特 日语版_09","url":"https://v.qq.com/x/cover/o28lfr4elqppz6q/r002911z02s.html"}]},{"id":812408,"sort":10,"name":"崩・壊","sites":[{"site":"qq","sort":10,"title":"SSSS 古立特 日语版_10","url":"https://v.qq.com/x/cover/o28lfr4elqppz6q/p00296pbi6x.html"}]},{"id":812409,"sort":11,"name":"決・戦","sites":[{"site":"qq","sort":11,"title":"SSSS 古立特 日语版_11","url":"https://v.qq.com/x/cover/o28lfr4elqppz6q/s0029up54c9.html"}]},{"id":812410,"sort":12,"name":"覚醒","sites":[{"site":"qq","sort":12,"title":"SSSS 古立特 日语版_12","url":"https://v.qq.com/x/cover/o28lfr4elqppz6q/o00292ht2lb.html"}]}]}
+{
+ "id": "218712",
+ "name": "SSSS.GRIDMAN",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "o/o28lfr4elqppz6q",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 812399,
+   "sort": 1,
+   "name": "覚・醒",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "SSSS 古立特 日语版_01",
+     "url": "https://v.qq.com/x/cover/o28lfr4elqppz6q/c00271fjrtd.html"
+    }
+   ]
+  },
+  {
+   "id": 812400,
+   "sort": 2,
+   "name": "修・復",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "SSSS 古立特 日语版_02",
+     "url": "https://v.qq.com/x/cover/o28lfr4elqppz6q/s002747muya.html"
+    }
+   ]
+  },
+  {
+   "id": 812401,
+   "sort": 3,
+   "name": "敗・北",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "SSSS 古立特 日语版_03",
+     "url": "https://v.qq.com/x/cover/o28lfr4elqppz6q/q0027pgrfgz.html"
+    }
+   ]
+  },
+  {
+   "id": 812402,
+   "sort": 4,
+   "name": "疑・心",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "SSSS 古立特 日语版_04",
+     "url": "https://v.qq.com/x/cover/o28lfr4elqppz6q/l00283nm8gk.html"
+    }
+   ]
+  },
+  {
+   "id": 812403,
+   "sort": 5,
+   "name": "挑・発",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "SSSS 古立特 日语版_05",
+     "url": "https://v.qq.com/x/cover/o28lfr4elqppz6q/r0028ejof40.html"
+    }
+   ]
+  },
+  {
+   "id": 812404,
+   "sort": 6,
+   "name": "接・触",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "SSSS 古立特 日语版_06",
+     "url": "https://v.qq.com/x/cover/o28lfr4elqppz6q/m0028a6rw72.html"
+    }
+   ]
+  },
+  {
+   "id": 812405,
+   "sort": 7,
+   "name": "策・略",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "SSSS 古立特 日语版_07",
+     "url": "https://v.qq.com/x/cover/o28lfr4elqppz6q/o0028a4mero.html"
+    }
+   ]
+  },
+  {
+   "id": 812406,
+   "sort": 8,
+   "name": "対・立",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "SSSS 古立特 日语版_08",
+     "url": "https://v.qq.com/x/cover/o28lfr4elqppz6q/u0028aw43bt.html"
+    }
+   ]
+  },
+  {
+   "id": 812407,
+   "sort": 9,
+   "name": "夢・想",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "SSSS 古立特 日语版_09",
+     "url": "https://v.qq.com/x/cover/o28lfr4elqppz6q/r002911z02s.html"
+    }
+   ]
+  },
+  {
+   "id": 812408,
+   "sort": 10,
+   "name": "崩・壊",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "SSSS 古立特 日语版_10",
+     "url": "https://v.qq.com/x/cover/o28lfr4elqppz6q/p00296pbi6x.html"
+    }
+   ]
+  },
+  {
+   "id": 812409,
+   "sort": 11,
+   "name": "決・戦",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "SSSS 古立特 日语版_11",
+     "url": "https://v.qq.com/x/cover/o28lfr4elqppz6q/s0029up54c9.html"
+    }
+   ]
+  },
+  {
+   "id": 812410,
+   "sort": 12,
+   "name": "覚醒",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "SSSS 古立特 日语版_12",
+     "url": "https://v.qq.com/x/cover/o28lfr4elqppz6q/o00292ht2lb.html"
+    }
+   ]
+  }
+ ]
+}

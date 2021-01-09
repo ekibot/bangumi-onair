@@ -1,0 +1,27 @@
+{
+ "id": "297396",
+ "name": "バック・アロウ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231925",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 996274,
+   "sort": 1,
+   "name": "飛んで来た男にパンツはあるか",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "飞来的男子有底裤吗",
+     "url": "https://www.bilibili.com/bangumi/play/ep374644",
+     "time": "2021-01-08T16:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

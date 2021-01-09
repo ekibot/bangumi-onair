@@ -1,1 +1,181 @@
-{"id":"18771","name":"VIPER'S CREED","sites":[{"site":"bilibili","id":"1099","sort":12}],"eps":[{"id":240559,"sort":1,"name":"","sites":[{"site":"bilibili","sort":1,"title":"独眼","url":"https://www.bilibili.com/bangumi/play/ep33575","time":"2014-08-25T07:12:42.000Z"}]},{"id":240560,"sort":2,"name":"","sites":[{"site":"bilibili","sort":2,"title":"新兵","url":"https://www.bilibili.com/bangumi/play/ep33576","time":"2014-08-25T07:12:42.000Z"}]},{"id":240561,"sort":3,"name":"","sites":[{"site":"bilibili","sort":3,"title":"枪声","url":"https://www.bilibili.com/bangumi/play/ep33577","time":"2014-08-25T07:12:42.000Z"}]},{"id":240562,"sort":4,"name":"","sites":[{"site":"bilibili","sort":4,"title":"魔女","url":"https://www.bilibili.com/bangumi/play/ep33578","time":"2014-08-25T07:12:42.000Z"}]},{"id":240563,"sort":5,"name":"","sites":[{"site":"bilibili","sort":5,"title":"死神","url":"https://www.bilibili.com/bangumi/play/ep33579","time":"2014-08-25T07:12:42.000Z"}]},{"id":240564,"sort":6,"name":"","sites":[{"site":"bilibili","sort":6,"title":"木偶","url":"https://www.bilibili.com/bangumi/play/ep33580","time":"2014-08-25T07:12:42.000Z"}]},{"id":240565,"sort":7,"name":"","sites":[{"site":"bilibili","sort":7,"title":"骚乱","url":"https://www.bilibili.com/bangumi/play/ep33581","time":"2014-08-25T07:12:42.000Z"}]},{"id":240566,"sort":8,"name":"","sites":[{"site":"bilibili","sort":8,"title":"乐园","url":"https://www.bilibili.com/bangumi/play/ep33582","time":"2014-08-25T07:12:42.000Z"}]},{"id":240567,"sort":9,"name":"","sites":[{"site":"bilibili","sort":9,"title":"谋略","url":"https://www.bilibili.com/bangumi/play/ep33583","time":"2014-08-25T07:12:42.000Z"}]},{"id":240568,"sort":10,"name":"","sites":[{"site":"bilibili","sort":10,"title":"反击","url":"https://www.bilibili.com/bangumi/play/ep33584","time":"2014-08-25T07:12:42.000Z"}]},{"id":240569,"sort":11,"name":"","sites":[{"site":"bilibili","sort":11,"title":"真实","url":"https://www.bilibili.com/bangumi/play/ep33585","time":"2014-08-25T07:12:42.000Z"}]},{"id":240570,"sort":12,"name":"","sites":[{"site":"bilibili","sort":12,"title":"睛眼","url":"https://www.bilibili.com/bangumi/play/ep33586","time":"2014-08-25T07:12:42.000Z"}]}]}
+{
+ "id": "18771",
+ "name": "VIPER'S CREED",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1099",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 240559,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "独眼",
+     "url": "https://www.bilibili.com/bangumi/play/ep33575",
+     "time": "2014-08-25T07:12:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 240560,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "新兵",
+     "url": "https://www.bilibili.com/bangumi/play/ep33576",
+     "time": "2014-08-25T07:12:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 240561,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "枪声",
+     "url": "https://www.bilibili.com/bangumi/play/ep33577",
+     "time": "2014-08-25T07:12:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 240562,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "魔女",
+     "url": "https://www.bilibili.com/bangumi/play/ep33578",
+     "time": "2014-08-25T07:12:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 240563,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "死神",
+     "url": "https://www.bilibili.com/bangumi/play/ep33579",
+     "time": "2014-08-25T07:12:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 240564,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "木偶",
+     "url": "https://www.bilibili.com/bangumi/play/ep33580",
+     "time": "2014-08-25T07:12:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 240565,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "骚乱",
+     "url": "https://www.bilibili.com/bangumi/play/ep33581",
+     "time": "2014-08-25T07:12:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 240566,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "乐园",
+     "url": "https://www.bilibili.com/bangumi/play/ep33582",
+     "time": "2014-08-25T07:12:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 240567,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "谋略",
+     "url": "https://www.bilibili.com/bangumi/play/ep33583",
+     "time": "2014-08-25T07:12:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 240568,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "反击",
+     "url": "https://www.bilibili.com/bangumi/play/ep33584",
+     "time": "2014-08-25T07:12:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 240569,
+   "sort": 11,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "真实",
+     "url": "https://www.bilibili.com/bangumi/play/ep33585",
+     "time": "2014-08-25T07:12:42.000Z"
+    }
+   ]
+  },
+  {
+   "id": 240570,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "睛眼",
+     "url": "https://www.bilibili.com/bangumi/play/ep33586",
+     "time": "2014-08-25T07:12:42.000Z"
+    }
+   ]
+  }
+ ]
+}

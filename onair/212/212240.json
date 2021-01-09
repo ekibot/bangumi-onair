@@ -1,1 +1,56 @@
-{"id":"212240","name":"カードキャプターさくら クリアカード編 プロローグ さくらとふたつのくま","sites":[{"site":"qq","id":"j/jodsh3q8h6lulgl","sort":1},{"site":"bilibili","id":"80072","sort":1}],"eps":[{"id":709729,"sort":1,"name":"さくらとふたつのくま","sites":[{"site":"qq","sort":1,"title":"魔卡少女樱 透明牌篇 OAD-- 序章 小樱与两只小熊","url":"https://v.qq.com/x/cover/jodsh3q8h6lulgl/n0026up7phc.html"},{"site":"acfun","sort":1,"title":"全1话","url":"https://www.acfun.cn/bangumi/ab6000810_36188_1705135","time":"2019-12-12T06:21:35.000Z"},{"site":"bilibili","sort":1,"title":"","url":"https://www.bilibili.com/bangumi/play/ep199117","time":"2018-03-27T02:43:00.000Z"}]}]}
+{
+ "id": "212240",
+ "name": "カードキャプターさくら クリアカード編 プロローグ さくらとふたつのくま",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "j/jodsh3q8h6lulgl",
+   "sort": 1
+  },
+  {
+   "site": "youku",
+   "id": "efbfbdd398efbfbdefbf",
+   "sort": 1
+  },
+  {
+   "site": "bilibili",
+   "id": "80072",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 709729,
+   "sort": 1,
+   "name": "さくらとふたつのくま",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "魔卡少女樱 透明牌篇 OAD-- 序章 小樱与两只小熊",
+     "url": "https://v.qq.com/x/cover/jodsh3q8h6lulgl/n0026up7phc.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "魔卡少女樱 透明牌篇 序 小樱与两只小熊",
+     "url": "https://v.youku.com/v_show/id_XMzQyNzE4MTQzMg==.html?s=efbfbdd398efbfbdefbf"
+    },
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "全1话",
+     "url": "https://www.acfun.cn/bangumi/ab6000810_36188_1705135",
+     "time": "2019-12-12T06:21:35.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep199117",
+     "time": "2018-03-27T02:43:00.000Z"
+    }
+   ]
+  }
+ ]
+}

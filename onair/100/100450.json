@@ -1,1 +1,27 @@
-{"id":"100450","name":"あの夏で待ってる 特別編","sites":[{"site":"bilibili","id":"3837","sort":1},{"site":"youku","id":"2b945114026111e48b3f","sort":1}],"eps":[{"id":406013,"sort":1,"name":"僕達は高校最後の夏を過ごしながら、あの夏を待っている。","sites":[{"site":"bilibili","sort":1,"title":"僕達は高校最後の夏を過ごしながら、あの夏を待っている。","url":"https://www.bilibili.com/bangumi/play/ep86737","time":"2016-04-25T03:54:15.000Z"}]}]}
+{
+ "id": "100450",
+ "name": "あの夏で待ってる 特別編",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3837",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 406013,
+   "sort": 1,
+   "name": "僕達は高校最後の夏を過ごしながら、あの夏を待っている。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "僕達は高校最後の夏を過ごしながら、あの夏を待っている。",
+     "url": "https://www.bilibili.com/bangumi/play/ep86737",
+     "time": "2016-04-25T03:54:15.000Z"
+    }
+   ]
+  }
+ ]
+}

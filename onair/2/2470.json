@@ -1,1 +1,181 @@
-{"id":"2470","name":"がくえんゆーとぴあ まなびストレート！","sites":[{"site":"bilibili","id":"1315","sort":12}],"eps":[{"id":14961,"sort":1,"name":"学美星人、あらわる","sites":[{"site":"bilibili","sort":1,"title":"学美星人出现了","url":"https://www.bilibili.com/bangumi/play/ep24402","time":"2013-11-15T12:21:00.000Z"}]},{"id":14962,"sort":2,"name":"まっすぐでゴー","sites":[{"site":"bilibili","sort":2,"title":"一直向前GO！","url":"https://www.bilibili.com/bangumi/play/ep24403","time":"2013-11-15T12:21:00.000Z"}]},{"id":14963,"sort":3,"name":"月曜日じゃ遅すぎる","sites":[{"site":"bilibili","sort":3,"title":"星期一就来不及啦","url":"https://www.bilibili.com/bangumi/play/ep24404","time":"2013-11-15T12:21:00.000Z"}]},{"id":14964,"sort":4,"name":"プロモでゴーの巻","sites":[{"site":"bilibili","sort":4,"title":"宣传活动GO！","url":"https://www.bilibili.com/bangumi/play/ep24405","time":"2013-11-15T12:21:00.000Z"}]},{"id":14965,"sort":5,"name":"ふたりっきりの、夜","sites":[{"site":"bilibili","sort":5,"title":"属于两人的夜晚","url":"https://www.bilibili.com/bangumi/play/ep24406","time":"2013-11-15T12:21:00.000Z"}]},{"id":14966,"sort":6,"name":"シナモンシュガーレイズド・ハピネス","sites":[{"site":"bilibili","sort":6,"title":"肉桂糖霜风味的幸福","url":"https://www.bilibili.com/bangumi/play/ep24407","time":"2013-11-15T12:21:00.000Z"}]},{"id":14967,"sort":7,"name":"なつのおしまい（ばいばい）","sites":[{"site":"bilibili","sort":7,"title":"夏天结束了(bye bye)","url":"https://www.bilibili.com/bangumi/play/ep24408","time":"2013-11-15T12:21:00.000Z"}]},{"id":14968,"sort":8,"name":"たたかえ聖桜生徒会!","sites":[{"site":"bilibili","sort":8,"title":"战吧，圣樱学生会！","url":"https://www.bilibili.com/bangumi/play/ep24409","time":"2013-11-15T12:21:00.000Z"}]},{"id":14969,"sort":9,"name":"わたしたちのうた","sites":[{"site":"bilibili","sort":9,"title":"我们的诗歌","url":"https://www.bilibili.com/bangumi/play/ep24410","time":"2013-11-15T12:21:00.000Z"}]},{"id":14970,"sort":10,"name":"集う仲間たち","sites":[{"site":"bilibili","sort":10,"title":"集结的伙伴们","url":"https://www.bilibili.com/bangumi/play/ep24411","time":"2013-11-15T12:21:00.000Z"}]},{"id":14971,"sort":11,"name":"わたしにもみえるよ","sites":[{"site":"bilibili","sort":11,"title":"我也能看得见了","url":"https://www.bilibili.com/bangumi/play/ep24412","time":"2013-11-15T12:21:00.000Z"}]},{"id":14972,"sort":12,"name":"桜色の未来たち","sites":[{"site":"bilibili","sort":12,"title":"樱花色的未来","url":"https://www.bilibili.com/bangumi/play/ep24413","time":"2013-11-15T12:21:00.000Z"}]}]}
+{
+ "id": "2470",
+ "name": "がくえんゆーとぴあ まなびストレート！",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1315",
+   "sort": 12
+  }
+ ],
+ "eps": [
+  {
+   "id": 14961,
+   "sort": 1,
+   "name": "学美星人、あらわる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "学美星人出现了",
+     "url": "https://www.bilibili.com/bangumi/play/ep24402",
+     "time": "2013-11-15T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 14962,
+   "sort": 2,
+   "name": "まっすぐでゴー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "一直向前GO！",
+     "url": "https://www.bilibili.com/bangumi/play/ep24403",
+     "time": "2013-11-15T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 14963,
+   "sort": 3,
+   "name": "月曜日じゃ遅すぎる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "星期一就来不及啦",
+     "url": "https://www.bilibili.com/bangumi/play/ep24404",
+     "time": "2013-11-15T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 14964,
+   "sort": 4,
+   "name": "プロモでゴーの巻",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "宣传活动GO！",
+     "url": "https://www.bilibili.com/bangumi/play/ep24405",
+     "time": "2013-11-15T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 14965,
+   "sort": 5,
+   "name": "ふたりっきりの、夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "属于两人的夜晚",
+     "url": "https://www.bilibili.com/bangumi/play/ep24406",
+     "time": "2013-11-15T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 14966,
+   "sort": 6,
+   "name": "シナモンシュガーレイズド・ハピネス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "肉桂糖霜风味的幸福",
+     "url": "https://www.bilibili.com/bangumi/play/ep24407",
+     "time": "2013-11-15T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 14967,
+   "sort": 7,
+   "name": "なつのおしまい（ばいばい）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "夏天结束了(bye bye)",
+     "url": "https://www.bilibili.com/bangumi/play/ep24408",
+     "time": "2013-11-15T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 14968,
+   "sort": 8,
+   "name": "たたかえ聖桜生徒会!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "战吧，圣樱学生会！",
+     "url": "https://www.bilibili.com/bangumi/play/ep24409",
+     "time": "2013-11-15T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 14969,
+   "sort": 9,
+   "name": "わたしたちのうた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "我们的诗歌",
+     "url": "https://www.bilibili.com/bangumi/play/ep24410",
+     "time": "2013-11-15T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 14970,
+   "sort": 10,
+   "name": "集う仲間たち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "集结的伙伴们",
+     "url": "https://www.bilibili.com/bangumi/play/ep24411",
+     "time": "2013-11-15T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 14971,
+   "sort": 11,
+   "name": "わたしにもみえるよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "我也能看得见了",
+     "url": "https://www.bilibili.com/bangumi/play/ep24412",
+     "time": "2013-11-15T12:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 14972,
+   "sort": 12,
+   "name": "桜色の未来たち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "樱花色的未来",
+     "url": "https://www.bilibili.com/bangumi/play/ep24413",
+     "time": "2013-11-15T12:21:00.000Z"
+    }
+   ]
+  }
+ ]
+}

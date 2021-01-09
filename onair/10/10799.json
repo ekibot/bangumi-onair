@@ -1,1 +1,27 @@
-{"id":"10799","name":"鋼の錬金術師 嘆きの丘の聖なる星","sites":[{"site":"bilibili","id":"1090","sort":1}],"eps":[{"id":147407,"sort":1,"name":"鋼の錬金術師 嘆きの丘の聖なる星","sites":[{"site":"bilibili","sort":1,"title":"叹息之丘的圣星","url":"https://www.bilibili.com/bangumi/play/ep113736","time":"2017-07-19T08:22:52.000Z"}]}]}
+{
+ "id": "10799",
+ "name": "鋼の錬金術師 嘆きの丘の聖なる星",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "1090",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 147407,
+   "sort": 1,
+   "name": "鋼の錬金術師 嘆きの丘の聖なる星",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "叹息之丘的圣星",
+     "url": "https://www.bilibili.com/bangumi/play/ep113736",
+     "time": "2017-07-19T08:22:52.000Z"
+    }
+   ]
+  }
+ ]
+}

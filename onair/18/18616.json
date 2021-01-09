@@ -1,1 +1,26 @@
-{"id":"18616","name":"犬夜叉 天下覇道の剣","sites":[{"site":"qq","id":"j/jouk3zs06zpvsx1","sort":1}],"eps":[{"id":794769,"sort":1,"name":"犬夜叉 天下覇道の剣","sites":[{"site":"qq","sort":1,"title":"犬夜叉剧场版 天下霸道之剑","url":"http://v.youku.com/v_show/id_XNDgyNDE1MjQw.html"}]}]}
+{
+ "id": "18616",
+ "name": "犬夜叉 天下覇道の剣",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "j/jouk3zs06zpvsx1",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 794769,
+   "sort": 1,
+   "name": "犬夜叉 天下覇道の剣",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "犬夜叉剧场版 天下霸道之剑",
+     "url": "http://v.youku.com/v_show/id_XNDgyNDE1MjQw.html"
+    }
+   ]
+  }
+ ]
+}

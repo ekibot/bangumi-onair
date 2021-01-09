@@ -1,1 +1,195 @@
-{"id":"115917","name":"K RETURN OF KINGS","sites":[{"site":"bilibili","id":"2725","sort":13}],"eps":[{"id":560663,"sort":1,"name":"Knave","sites":[{"site":"bilibili","sort":1,"title":"Knave","url":"https://www.bilibili.com/bangumi/play/ep70863","time":"2015-10-02T18:40:00.000Z"}]},{"id":560664,"sort":2,"name":"Kindness","sites":[{"site":"bilibili","sort":2,"title":"Kindness","url":"https://www.bilibili.com/bangumi/play/ep71919","time":"2015-10-09T19:45:00.000Z"}]},{"id":560665,"sort":3,"name":"Kismet","sites":[{"site":"bilibili","sort":3,"title":"Kismet","url":"https://www.bilibili.com/bangumi/play/ep72686","time":"2015-10-16T18:55:00.000Z"}]},{"id":560666,"sort":4,"name":"Knot","sites":[{"site":"bilibili","sort":4,"title":"Knot","url":"https://www.bilibili.com/bangumi/play/ep75101","time":"2015-10-23T18:45:00.000Z"}]},{"id":560667,"sort":5,"name":"Ken","sites":[{"site":"bilibili","sort":5,"title":"Ken","url":"https://www.bilibili.com/bangumi/play/ep76027","time":"2015-10-30T18:55:00.000Z"}]},{"id":560668,"sort":6,"name":"Keeper","sites":[{"site":"bilibili","sort":6,"title":"Keeper","url":"https://www.bilibili.com/bangumi/play/ep76682","time":"2015-11-06T18:40:00.000Z"}]},{"id":560669,"sort":7,"name":"Kick down","sites":[{"site":"bilibili","sort":7,"title":"Kick down","url":"https://www.bilibili.com/bangumi/play/ep77659","time":"2015-11-13T18:45:00.000Z"}]},{"id":560670,"sort":8,"name":"Kaput","sites":[{"site":"bilibili","sort":8,"title":"Kaput","url":"https://www.bilibili.com/bangumi/play/ep79185","time":"2015-11-20T18:40:00.000Z"}]},{"id":560671,"sort":9,"name":"kids room","sites":[{"site":"bilibili","sort":9,"title":"kids room","url":"https://www.bilibili.com/bangumi/play/ep79461","time":"2015-11-27T18:40:00.000Z"}]},{"id":560672,"sort":10,"name":"Keystone","sites":[{"site":"bilibili","sort":10,"title":"Keystone","url":"https://www.bilibili.com/bangumi/play/ep80534","time":"2015-12-04T18:40:00.000Z"}]},{"id":560673,"sort":11,"name":"Kaliyvga","sites":[{"site":"bilibili","sort":11,"title":"Kaliyuga","url":"https://www.bilibili.com/bangumi/play/ep81314","time":"2015-12-11T18:40:00.000Z"}]},{"id":560674,"sort":12,"name":"Knuckle bump","sites":[{"site":"bilibili","sort":12,"title":"Knuckle bump","url":"https://www.bilibili.com/bangumi/play/ep81706","time":"2015-12-18T18:56:01.000Z"}]},{"id":560675,"sort":13,"name":"Kings","sites":[{"site":"bilibili","sort":13,"title":"Kings","url":"https://www.bilibili.com/bangumi/play/ep82118","time":"2015-12-25T18:31:00.000Z"}]}]}
+{
+ "id": "115917",
+ "name": "K RETURN OF KINGS",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "2725",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 560663,
+   "sort": 1,
+   "name": "Knave",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "Knave",
+     "url": "https://www.bilibili.com/bangumi/play/ep70863",
+     "time": "2015-10-02T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 560664,
+   "sort": 2,
+   "name": "Kindness",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "Kindness",
+     "url": "https://www.bilibili.com/bangumi/play/ep71919",
+     "time": "2015-10-09T19:45:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 560665,
+   "sort": 3,
+   "name": "Kismet",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "Kismet",
+     "url": "https://www.bilibili.com/bangumi/play/ep72686",
+     "time": "2015-10-16T18:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 560666,
+   "sort": 4,
+   "name": "Knot",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "Knot",
+     "url": "https://www.bilibili.com/bangumi/play/ep75101",
+     "time": "2015-10-23T18:45:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 560667,
+   "sort": 5,
+   "name": "Ken",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "Ken",
+     "url": "https://www.bilibili.com/bangumi/play/ep76027",
+     "time": "2015-10-30T18:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 560668,
+   "sort": 6,
+   "name": "Keeper",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "Keeper",
+     "url": "https://www.bilibili.com/bangumi/play/ep76682",
+     "time": "2015-11-06T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 560669,
+   "sort": 7,
+   "name": "Kick down",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "Kick down",
+     "url": "https://www.bilibili.com/bangumi/play/ep77659",
+     "time": "2015-11-13T18:45:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 560670,
+   "sort": 8,
+   "name": "Kaput",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "Kaput",
+     "url": "https://www.bilibili.com/bangumi/play/ep79185",
+     "time": "2015-11-20T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 560671,
+   "sort": 9,
+   "name": "kids room",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "kids room",
+     "url": "https://www.bilibili.com/bangumi/play/ep79461",
+     "time": "2015-11-27T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 560672,
+   "sort": 10,
+   "name": "Keystone",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "Keystone",
+     "url": "https://www.bilibili.com/bangumi/play/ep80534",
+     "time": "2015-12-04T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 560673,
+   "sort": 11,
+   "name": "Kaliyvga",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "Kaliyuga",
+     "url": "https://www.bilibili.com/bangumi/play/ep81314",
+     "time": "2015-12-11T18:40:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 560674,
+   "sort": 12,
+   "name": "Knuckle bump",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "Knuckle bump",
+     "url": "https://www.bilibili.com/bangumi/play/ep81706",
+     "time": "2015-12-18T18:56:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 560675,
+   "sort": 13,
+   "name": "Kings",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "Kings",
+     "url": "https://www.bilibili.com/bangumi/play/ep82118",
+     "time": "2015-12-25T18:31:00.000Z"
+    }
+   ]
+  }
+ ]
+}
