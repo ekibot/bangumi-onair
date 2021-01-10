@@ -34,6 +34,13 @@ axios.interceptors.response.use(
  * @param { number } retry
  */
 async function safeRequest(url, options, retry = 3) {
+    return _safeRequest.call(this, url, options, retry).then((value) => {
+        if (this.closed) throw new Error("thread timeout");
+        return value;
+    })
+}
+
+async function _safeRequest(url, options, retry = 3) {
     return retry ? axios.get(url, options).catch((error) => {
         if (error.response) {
             this.log.e(error.response.status, typeof error.response.data === 'string'
@@ -72,6 +79,7 @@ function createThis(printer = (type, ...message) => console[type](...message)) {
     };
     return {
         chalk,
+        closed: false,
         log,
         safeRequest,
     };
@@ -91,6 +99,9 @@ async function queue(_fetchs, run, num = 2) {
             const pre = [chalk.yellow(`${_fetchs.length - fetchs.length + 1}/${_fetchs.length}`), chalk.green(i)];
             const messages = [];
             const _this = createThis((...message) => messages.push(message));
+            setTimeout(() => {
+                _this.closed = true;
+            }, 30 * 1000); // 30sec timeout
             try {
                 await run.call(_this, fetchs.shift());
             } catch (e) { _this.log.e(e.stack || e); }
