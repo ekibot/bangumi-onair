@@ -1,0 +1,117 @@
+{
+ "id": "92161",
+ "name": "遊☆戯☆王ARC‐V",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "40c8abaa99e511e3b8b7",
+   "sort": 8
+  }
+ ],
+ "eps": [
+  {
+   "id": 387571,
+   "sort": 2,
+   "name": "決闘最強進化系！！その名はアクションデュエル",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "决斗最强进化形！其名为动作决斗",
+     "url": "https://v.youku.com/v_show/id_XNjk4NjQ5ODQ0.html?s=40c8abaa99e511e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 387572,
+   "sort": 3,
+   "name": "ダークタウン 奪われたペンデュラム召喚！！",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "暗黑镇 被夺去的P召唤",
+     "url": "https://v.youku.com/v_show/id_XNzAxNjY2OTQw.html?s=40c8abaa99e511e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 391355,
+   "sort": 4,
+   "name": "一筋の希望！！ブロックスパイダー",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "一线希望！！积木蜘蛛",
+     "url": "https://v.youku.com/v_show/id_XNzA0ODE2MDY0.html?s=40c8abaa99e511e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 391356,
+   "sort": 5,
+   "name": "弟子入り志願!? おかしなおっかけ「紫雲院素良」",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "申请拜师!? 怪异追师族[紫云院素良]",
+     "url": "https://v.youku.com/v_show/id_XNzEzOTU0OTc2.html?s=40c8abaa99e511e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 391357,
+   "sort": 6,
+   "name": "無邪気な融合玩具 デストーイ・シザー・ベアー",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "纯真的融合玩具 死亡玩具剪刀熊",
+     "url": "https://v.youku.com/v_show/id_XNzE0MDM5MDc2.html?s=40c8abaa99e511e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 391358,
+   "sort": 7,
+   "name": "反旗の逆鱗ダーク・リベリオン・エクシーズ・ドラゴン",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "叛旗之逆鳞 暗黑叛逆XYZ龙",
+     "url": "https://v.youku.com/v_show/id_XNzE3NDExMjQ0.html?s=40c8abaa99e511e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 391360,
+   "sort": 9,
+   "name": "星々の裁き！エクシーズ使い「志島北斗」",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "繁星的裁决 XYZ使用者志岛北斗",
+     "url": "https://v.youku.com/v_show/id_XNzIzNzI4MDI4.html?s=40c8abaa99e511e3b8b7"
+    }
+   ]
+  },
+  {
+   "id": 391361,
+   "sort": 10,
+   "name": "秘石の騎士！融合使い「光津真澄」",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "秘石之骑士！融合高手光津真澄",
+     "url": "https://v.youku.com/v_show/id_XNzI3MDYzODQ0.html?s=40c8abaa99e511e3b8b7"
+    }
+   ]
+  }
+ ]
+}

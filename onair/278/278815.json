@@ -1,0 +1,27 @@
+{
+ "id": "278815",
+ "name": "はたらく細胞!!",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231816",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 994871,
+   "sort": 1,
+   "name": "たんこぶ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "肿包",
+     "url": "https://www.bilibili.com/bangumi/play/ep373878",
+     "time": "2021-01-09T16:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "315456",
+ "name": "SK∞ エスケーエイト",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231854",
+   "week": 7,
+   "time": "0230",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 996286,
+   "sort": 1,
+   "name": "#01 PART 熱い夜に雪が降る",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "飘雪的火热之夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep374681",
+     "time": "2021-01-09T18:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

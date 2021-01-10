@@ -1,0 +1,49 @@
+{
+ "id": "314447",
+ "name": "怪病医ラムネ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231929",
+   "week": 7,
+   "time": "0200",
+   "sort": 5
+  },
+  {
+   "site": "acfun",
+   "id": "6004595",
+   "week": 7,
+   "time": "0200"
+  }
+ ],
+ "eps": [
+  {
+   "id": 996298,
+   "sort": 1,
+   "name": "調味料の涙",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "调味料眼泪",
+     "url": "https://www.bilibili.com/bangumi/play/ep373976",
+     "time": "2021-01-09T18:00:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "PV",
+     "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1759467",
+     "time": "2021-01-09T18:03:44.931Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "调味料眼泪",
+     "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1759462",
+     "time": "2021-01-09T18:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}
