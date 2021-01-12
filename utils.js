@@ -24,7 +24,8 @@ axios.interceptors.response.use(
  * 函数上下文
  * @typedef { Object } This
  * @property { { v: (...message) => void, e: (...message) => void } } log
- * @property { typeof safeRequest } safeRequest
+ * @property { typeof _safeRequest } safeRequest
+ * @property { (promise: PromiseLike, timeout?: number) => Promise } awaitTimeout
  */
 
 /**
@@ -33,13 +34,6 @@ axios.interceptors.response.use(
  * @param { * } options
  * @param { number } retry
  */
-async function safeRequest(url, options, retry = 3) {
-    return _safeRequest.call(this, url, options, retry).then((value) => {
-        if (this.closed) throw new Error("thread timeout");
-        return value;
-    })
-}
-
 async function _safeRequest(url, options, retry = 3) {
     return retry ? axios.get(url, options).catch((error) => {
         if (error.response) {
@@ -49,9 +43,10 @@ async function _safeRequest(url, options, retry = 3) {
             return undefined;
         }
         this.log.e(error.message);
-        return safeRequest.call(this, url, options, retry - 1);
+        return _safeRequest.call(this, url, options, retry - 1);
     }) : undefined;
 }
+
 
 /**
  * set of append list
@@ -77,12 +72,27 @@ function createThis(printer = (type, ...message) => console[type](...message)) {
         v: (...message) => printer('log', ...message),
         e: (...message) => printer('error', ...message),
     };
-    return {
+    /** @type { This } */
+    const _this = {
         chalk,
         closed: false,
         log,
-        safeRequest,
     };
+    _this.awaitTimeout = (promise, timeout) => {
+        if (timeout) _this._timeout = new Promise((_, rej) => {
+            setTimeout(() => {
+                _this.closed = true;
+                rej("await timeout");
+            }, timeout);
+        });
+        return new Promise((res, rej) => {
+            if (_this._timeout) _this._timeout.catch(rej);
+            Promise.resolve(promise).then(res).catch(rej);
+        });
+    };
+    _this.safeRequest = (url, options, retry) =>
+        _this.awaitTimeout(_safeRequest.call(_this, url, options, retry));
+    return _this;
 }
 
 /**
@@ -92,18 +102,15 @@ function createThis(printer = (type, ...message) => console[type](...message)) {
  * @param { (data: T) => Promise } run
  * @param { number } num
  */
-async function queue(_fetchs, run, num = 2) {
+async function queue(_fetchs, run, num = 2, timeout = 30 * 1000) {
     const fetchs = _fetchs.concat();
     await Promise.all(new Array(num).fill(0).map(async (_, i) => {
         while (fetchs.length) {
             const pre = [chalk.yellow(`${_fetchs.length - fetchs.length + 1}/${_fetchs.length}`), chalk.green(i)];
             const messages = [];
             const _this = createThis((...message) => messages.push(message));
-            setTimeout(() => {
-                _this.closed = true;
-            }, 30 * 1000); // 30sec timeout
             try {
-                await run.call(_this, fetchs.shift());
+                await _this.awaitTimeout(run.call(_this, fetchs.shift()), timeout);
             } catch (e) { _this.log.e(e.stack || e); }
             messages[0] = messages[0] || ['log'];
             messages[0].splice(1, 0, ...pre);
@@ -114,8 +121,22 @@ async function queue(_fetchs, run, num = 2) {
 }
 
 module.exports = {
-    safeRequest,
     setOrPush,
     queue,
     createThis,
 };
+
+
+if (!module.parent) {
+    const bangumiData = require('bangumi-data');
+    (async () => {
+        async function queueItem(bgmItem) {
+            while(true) {
+                const test = new Promise((res) => setTimeout(()=>res(bgmItem.title), 10));
+                this.log.v(await this.awaitTimeout(test));
+            }
+        }
+        await queue(bangumiData.items, queueItem, 5, 100);
+    })();
+    
+}

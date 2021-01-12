@@ -122,14 +122,14 @@ function getChinaDate(item, sites) {
             }
             const sitePath = `./site/${site.site}.js`;
             if (fs.existsSync(sitePath)) try {
-                /** @type { SiteEpisode[] } */const eps = await (require(sitePath)).call(this, site);
+                /** @type { SiteEpisode[] } */const eps = await this.awaitTimeout((require(sitePath)).call(this, site));
                 /**
                  * 更新剧集信息
                  */
                 if (eps && eps.length > 0) for (const siteEp of eps) {
                     const bgmSort = (rule && rule[site.site] && rule[site.site].sort)
                         ? rule[site.site].sort(siteEp.sort) : siteEp.sort;
-                    const bgmEps = (await getSubject()).eps;
+                    const bgmEps = (await this.awaitTimeout(getSubject())).eps;
                     const bgmEp = bgmEps && bgmEps.find((v) => v.sort === bgmSort);
                     if (!bgmEp) continue;
                     const ep = data.eps.find((v) => v.id === bgmEp.id);
@@ -171,7 +171,7 @@ function getChinaDate(item, sites) {
          * 时间表
          */
         if (isNewSubject) {
-            const subject = await getSubject();
+            const subject = await this.awaitTimeout(getSubject());
             const dateJP = parseWeekTime(bgmItem.begin);
             const dateCN = getChinaDate(bgmItem, data.sites);
             const eps = subject.eps && subject.eps.filter((ep) => ep.airdate && Math.abs(now.diff(moment(ep.airdate), 'day')) < 10).map((ep) => {
