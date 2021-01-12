@@ -39,7 +39,9 @@ jobs:
         git add . -v
         git commit -m "Update at ${time}"
         git tag "${time}"
+        sha=$(git rev-parse HEAD)
         echo ::set-output name=time::$time
+        echo ::set-output name=sha::$sha
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
@@ -54,3 +56,4 @@ jobs:
         tag_name: ${{ steps.commit.outputs.time }}
         release_name: Release ${{ steps.commit.outputs.time }}
         body: ${{ steps.commit.outputs.time }}
+        commitish: ${{ steps.commit.outputs.sha }}
