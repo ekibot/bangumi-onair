@@ -1,0 +1,27 @@
+{
+ "id": "310950",
+ "name": "ワールドウィッチーズ発進しますっ！",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231931",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 994907,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "宫藤 要拍宣传片了？",
+     "url": "https://www.bilibili.com/bangumi/play/ep374380",
+     "time": "2021-01-12T16:45:01.000Z"
+    }
+   ]
+  }
+ ]
+}
