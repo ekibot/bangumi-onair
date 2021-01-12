@@ -223,4 +223,6 @@ function getChinaDate(item, sites) {
         }
     }
     await utils.queue(bangumiData.items, queueItem, 5);
+    console.log("done!");
+    process.exit(0);
 })();

@@ -35,7 +35,8 @@ axios.interceptors.response.use(
  * @param { number } retry
  */
 async function _safeRequest(url, options, retry = 3) {
-    return retry ? axios.get(url, options).catch((error) => {
+    if (!retry) throw "Error: max retry exceed!";
+    return axios.get(url, options).catch((error) => {
         if (error.response) {
             this.log.e(error.response.status, typeof error.response.data === 'string'
                 ? cheerio.load(error.response.data).text().trim().split('\n')[0].substring(0, 100)
@@ -44,9 +45,8 @@ async function _safeRequest(url, options, retry = 3) {
         }
         this.log.e(error.message);
         return _safeRequest.call(this, url, options, retry - 1);
-    }) : undefined;
+    });
 }
-
 
 /**
  * set of append list
@@ -75,14 +75,12 @@ function createThis(printer = (type, ...message) => console[type](...message)) {
     /** @type { This } */
     const _this = {
         chalk,
-        closed: false,
         log,
     };
     _this.awaitTimeout = (promise, timeout) => {
         if (timeout) _this._timeout = new Promise((_, rej) => {
             setTimeout(() => {
-                _this.closed = true;
-                rej("await timeout");
+                rej("Error: await timeout");
             }, timeout);
         });
         return new Promise((res, rej) => {
@@ -112,6 +110,7 @@ async function queue(_fetchs, run, num = 2, timeout = 30 * 1000) {
             try {
                 await _this.awaitTimeout(run.call(_this, fetchs.shift()), timeout);
             } catch (e) { _this.log.e(e.stack || e); }
+            _this.log = createThis(() => { }).log;
             messages[0] = messages[0] || ['log'];
             messages[0].splice(1, 0, ...pre);
             // eslint-disable-next-line no-console
@@ -131,12 +130,11 @@ if (!module.parent) {
     const bangumiData = require('bangumi-data');
     (async () => {
         async function queueItem(bgmItem) {
-            while(true) {
-                const test = new Promise((res) => setTimeout(()=>res(bgmItem.title), 10));
+            while (true) {
+                const test = new Promise((res) => setTimeout(() => res(bgmItem.title), 10));
                 this.log.v(await this.awaitTimeout(test));
             }
         }
         await queue(bangumiData.items, queueItem, 5, 100);
     })();
-    
 }
