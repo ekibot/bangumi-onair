@@ -1,0 +1,3 @@
+[submodule "Data"]
+  path = data
+  url = https://github.com/ekibun/bangumi_onair.git

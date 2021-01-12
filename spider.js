@@ -68,7 +68,7 @@ function getChinaDate(item, sites) {
         /**
          * 加载上次保存的数据
          */
-        const filePath = `./onair/${Math.floor(bgmId / 1000)}/${bgmId}.json`;
+        const filePath = `./data/onair/${Math.floor(bgmId / 1000)}/${bgmId}.json`;
         /** @type { Subject } */ let data = {
             id: bgmId,
             name: bgmItem.title,
@@ -77,7 +77,7 @@ function getChinaDate(item, sites) {
         };
         if (fs.existsSync(filePath)) try {
             data = JSON.parse(fs.readFileSync(filePath));
-        } catch (e) { this.log.e(e.stack || e); }
+        } catch (e) { this.log.e(e); }
 
         /**
          * 加载条目规则
@@ -91,7 +91,7 @@ function getChinaDate(item, sites) {
                 ...bgmItem,
                 ...rule._item,
             };
-        } catch (e) { this.log.e(e.stack || e); }
+        } catch (e) { this.log.e(e); }
 
         /**
          * 检测保存的条目是否满足规则
@@ -148,7 +148,7 @@ function getChinaDate(item, sites) {
                 }
                 this.log.v(site);
             } catch (e) {
-                this.log.e(e.stack || e);
+                this.log.e(e);
             }
             if (site.week || site.sort) {
                 /**
@@ -218,7 +218,7 @@ function getChinaDate(item, sites) {
                     eps,
                 });
                 calendar.sort((a, b) => a.id - b.id);
-                fs.writeFileSync('calendar.json', `[${calendar.map((v) => JSON.stringify(v)).join(',\n')}]`);
+                fs.writeFileSync('./data/calendar.json', `[${calendar.map((v) => JSON.stringify(v)).join(',\n')}]`);
             }
         }
     }

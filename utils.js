@@ -6,6 +6,7 @@
  * @LastEditTime : 2020-01-05 15:16:26
  */
 const cheerio = require('cheerio');
+const util = require('util');
 const http = require('http');
 const https = require('https');
 const axios = require('axios').default.create({
@@ -35,7 +36,7 @@ axios.interceptors.response.use(
  * @param { number } retry
  */
 async function _safeRequest(url, options, retry = 3) {
-    if (!retry) throw "Error: max retry exceed!";
+    if (!retry) throw new Error("max retry exceed!");
     return axios.get(url, options).catch((error) => {
         if (error.response) {
             this.log.e(error.response.status, typeof error.response.data === 'string'
@@ -78,9 +79,10 @@ function createThis(printer = (type, ...message) => console[type](...message)) {
         log,
     };
     _this.awaitTimeout = (promise, timeout) => {
+        const errorMsg = new Error("await timeout");
         if (timeout) _this._timeout = new Promise((_, rej) => {
             setTimeout(() => {
-                rej("Error: await timeout");
+                rej(errorMsg);
             }, timeout);
         });
         return new Promise((res, rej) => {
@@ -109,12 +111,17 @@ async function queue(_fetchs, run, num = 2, timeout = 30 * 1000) {
             const _this = createThis((...message) => messages.push(message));
             try {
                 await _this.awaitTimeout(run.call(_this, fetchs.shift()), timeout);
-            } catch (e) { _this.log.e(e.stack || e); }
+            } catch (e) { _this.log.e(e); }
             _this.log = createThis(() => { }).log;
             messages[0] = messages[0] || ['log'];
             messages[0].splice(1, 0, ...pre);
             // eslint-disable-next-line no-console
-            messages.forEach((v) => v && console[v[0]] && console[v[0]](...v.slice(1)));
+            const logToConsole = (type, ...message) => {
+                if (type == "error") {
+                    console.log(...message.map(msg => chalk.red(util.inspect(msg))));
+                } else console.log(...message);
+            }
+            messages.forEach((v) => v && logToConsole(...v));
         }
     }));
 }
@@ -135,6 +142,7 @@ if (!module.parent) {
                 this.log.v(await this.awaitTimeout(test));
             }
         }
+        // console.log(...[chalk.red(inspect(new Error("233")).toString())])
         await queue(bangumiData.items, queueItem, 5, 100);
     })();
 }
