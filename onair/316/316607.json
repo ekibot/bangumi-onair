@@ -1,0 +1,29 @@
+{
+ "id": "316607",
+ "name": "ワンダーエッグ・プライオリティ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231851",
+   "week": 2,
+   "time": "2300",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 999856,
+   "sort": 1,
+   "name": "子供の領分",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "孩子的领域",
+     "url": "https://www.bilibili.com/bangumi/play/ep374355",
+     "time": "2021-01-12T15:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
