@@ -7,7 +7,7 @@
    "id": "28232238",
    "week": 1,
    "time": "2300",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "东海帝皇",
      "url": "https://www.bilibili.com/bangumi/play/ep374306",
      "time": "2021-01-04T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996734,
+   "sort": 2,
+   "name": "譲れないから！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "绝不退让！",
+     "url": "https://www.bilibili.com/bangumi/play/ep374307",
+     "time": "2021-01-11T15:00:01.000Z"
     }
    ]
   }

@@ -1,0 +1,27 @@
+{
+ "id": "277554",
+ "name": "無職転生～異世界行ったら本気だす～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231810",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 994895,
+   "sort": 1,
+   "name": "無職転生",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "无职转生",
+     "url": "https://www.bilibili.com/bangumi/play/ep373886",
+     "time": "2021-01-10T16:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

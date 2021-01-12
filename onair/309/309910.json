@@ -7,7 +7,7 @@
    "id": "28229892",
    "week": 2,
    "time": "0130",
-   "sort": 14
+   "sort": 15
   },
   {
    "site": "youku",
@@ -267,6 +267,20 @@
      "title": "新年快乐松",
      "url": "https://www.bilibili.com/bangumi/play/ep341086",
      "time": "2021-01-04T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996218,
+   "sort": 14,
+   "name": "「ワカサギ釣り」、「死闘」、「キラキラ ファントム ストリーム」",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "闪耀 Phantom Stream 等",
+     "url": "https://www.bilibili.com/bangumi/play/ep341087",
+     "time": "2021-01-11T17:30:01.000Z"
     }
    ]
   }
