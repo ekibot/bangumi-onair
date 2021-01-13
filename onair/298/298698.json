@@ -1,0 +1,29 @@
+{
+ "id": "298698",
+ "name": "ログ・ホライズン 円卓崩壊",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231741",
+   "week": 3,
+   "time": "1825",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 941788,
+   "sort": 1,
+   "name": "レイネシアの結婚",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "蕾妮希雅结婚",
+     "url": "https://www.bilibili.com/bangumi/play/ep374476",
+     "time": "2021-01-13T10:25:01.000Z"
+    }
+   ]
+  }
+ ]
+}

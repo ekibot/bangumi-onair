@@ -1,0 +1,29 @@
+{
+ "id": "302639",
+ "name": "七つの大罪 憤怒の審判",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28232005",
+   "week": 3,
+   "time": "1735",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 996310,
+   "sort": 1,
+   "name": "煉獄より From Purgatory",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "来自炼狱",
+     "url": "https://www.bilibili.com/bangumi/play/ep374444",
+     "time": "2021-01-13T09:35:01.000Z"
+    }
+   ]
+  }
+ ]
+}
