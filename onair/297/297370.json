@@ -7,7 +7,7 @@
    "id": "28231926",
    "week": 4,
    "time": "0100",
-   "sort": 2
+   "sort": 3
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "觉悟 ~与加梅里亚的战斗~",
      "url": "https://www.bilibili.com/bangumi/play/ep374504",
      "time": "2021-01-06T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 997835,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "记忆 （玛格尼亚的传说）",
+     "url": "https://www.bilibili.com/bangumi/play/ep374505",
+     "time": "2021-01-13T17:00:01.000Z"
     }
    ]
   }
