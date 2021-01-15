@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231852",
-   "sort": 2,
+   "sort": 3,
    "week": 5,
    "time": "0155"
   }
@@ -22,6 +22,20 @@
      "title": "",
      "url": "https://www.bilibili.com/bangumi/play/ep374554",
      "time": "2021-01-06T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996251,
+   "sort": 2,
+   "name": "第2話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep374555",
+     "time": "2021-01-14T17:55:01.000Z"
     }
    ]
   }

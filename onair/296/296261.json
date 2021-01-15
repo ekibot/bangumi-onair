@@ -1,0 +1,29 @@
+{
+ "id": "296261",
+ "name": "Dr.STONE STONE WARS",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231817",
+   "week": 4,
+   "time": "2230",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 994959,
+   "sort": 1,
+   "name": "STONE WARS BEGINNING",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "STONE WARS BEGINNING",
+     "url": "https://www.bilibili.com/bangumi/play/ep374014",
+     "time": "2021-01-14T14:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}
