@@ -7,7 +7,7 @@
    "id": "28231850",
    "week": 6,
    "time": "0225",
-   "sort": 2
+   "sort": 3
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "这座城市曾有英雄存在",
      "url": "https://www.bilibili.com/bangumi/play/ep373949",
      "time": "2021-01-08T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996263,
+   "sort": 2,
+   "name": "ケルベロス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "刻耳柏洛斯",
+     "url": "https://www.bilibili.com/bangumi/play/ep373950",
+     "time": "2021-01-15T18:25:01.000Z"
     }
    ]
   }

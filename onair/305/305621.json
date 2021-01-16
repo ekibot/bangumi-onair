@@ -7,7 +7,7 @@
    "id": "28229889",
    "week": 6,
    "time": "0123",
-   "sort": 16
+   "sort": 17
   },
   {
    "site": "youku",
@@ -17,7 +17,9 @@
   {
    "site": "iqiyi",
    "id": "a_1rfl8eqv7bx",
-   "sort": 14
+   "sort": 16,
+   "week": 6,
+   "time": "0123"
   }
  ],
  "eps": [
@@ -410,6 +412,34 @@
      "title": "荒地的死斗",
      "url": "https://www.bilibili.com/bangumi/play/ep370328",
      "time": "2021-01-08T17:23:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 15,
+     "title": "荒地中的死斗",
+     "url": "http://www.iqiyi.com/v_tptrvpgyr0.html",
+     "time": "2021-01-15T11:45:51.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996233,
+   "sort": 16,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "拥有自由之翼的佣兵",
+     "url": "https://www.bilibili.com/bangumi/play/ep370329",
+     "time": "2021-01-15T17:23:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 16,
+     "title": "拥有自由之翼的佣兵",
+     "url": "http://www.iqiyi.com/v_k20bjcwaog.html",
+     "time": "2021-01-15T17:23:03.000Z"
     }
    ]
   }

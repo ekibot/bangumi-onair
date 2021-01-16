@@ -17,7 +17,9 @@
   {
    "site": "iqiyi",
    "id": "a_18481af6vfd",
-   "sort": 13
+   "sort": 14,
+   "week": 6,
+   "time": "0930"
   }
  ],
  "eps": [
@@ -383,6 +385,13 @@
      "title": "冰炎将军弗雷查特",
      "url": "https://www.bilibili.com/bangumi/play/ep341346",
      "time": "2021-01-09T01:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 14,
+     "title": "冰炎将军弗雷查特",
+     "url": "http://www.iqiyi.com/v_20sbyft1y6k.html",
+     "time": "2021-01-16T00:26:39.000Z"
     }
    ]
   }

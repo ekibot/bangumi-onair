@@ -7,7 +7,7 @@
    "id": "28231807",
    "week": 5,
    "time": "2030",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "不管怎么样 有名的游戏基本都会有趣",
      "url": "https://www.bilibili.com/bangumi/play/ep374606",
      "time": "2021-01-08T12:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994835,
+   "sort": 2,
+   "name": "Lv.2 一回の戦闘でレベルが連続で上がるとめっちゃ気持ちいい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "一次战斗等级连续上升就会很爽",
+     "url": "https://www.bilibili.com/bangumi/play/ep374607",
+     "time": "2021-01-15T12:30:01.000Z"
     }
    ]
   }

@@ -5,7 +5,9 @@
   {
    "site": "bilibili",
    "id": "28229899",
-   "sort": 29
+   "sort": 29,
+   "week": 6,
+   "time": "0125"
   },
   {
    "site": "youku",
@@ -284,6 +286,13 @@
      "sort": 14,
      "title": "《咒术回战》第14集首1分钟抢先看！",
      "url": "https://v.youku.com/v_show/id_XNTA0ODQwNTk5Ng==.html?s=dfaa9262a41b49a9a7bb"
+    },
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "京都姐妹校交流会-团体战0-",
+     "url": "https://www.bilibili.com/bangumi/play/ep375395",
+     "time": "2021-01-15T17:25:01.000Z"
     }
    ]
   }
