@@ -7,7 +7,7 @@
    "id": "a_19rrhc0gyd",
    "week": 6,
    "time": "1930",
-   "sort": 1050
+   "sort": 1051
   },
   {
    "site": "qq",
@@ -26,7 +26,7 @@
   {
    "site": "bilibili",
    "id": "28228775",
-   "sort": 1051
+   "sort": 1052
   }
  ],
  "eps": [
@@ -33873,6 +33873,27 @@
      "sort": 1050,
      "title": "第1050集 替身京极真（上集）",
      "url": "https://v.qq.com/x/cover/53q0eh78q97e4d1/c0035cvahum.html"
+    }
+   ]
+  },
+  {
+   "id": 1001820,
+   "sort": 994,
+   "name": "代役・京極真（中編）",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1051,
+     "title": "替身京极真 中篇",
+     "url": "http://www.iqiyi.com/v_b6w1jiidfg.html",
+     "time": "2021-01-16T11:30:04.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 994,
+     "title": "巨人塔罗斯的必杀拳（上集）",
+     "url": "https://www.bilibili.com/bangumi/play/ep322837",
+     "time": "2020-04-30T11:01:01.000Z"
     }
    ]
   }

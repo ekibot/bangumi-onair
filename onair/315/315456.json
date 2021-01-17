@@ -7,7 +7,7 @@
    "id": "28231854",
    "week": 7,
    "time": "0230",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "飘雪的火热之夜",
      "url": "https://www.bilibili.com/bangumi/play/ep374681",
      "time": "2021-01-09T18:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996287,
+   "sort": 2,
+   "name": "#02 PART はじめてのサイコー！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "第一次的太棒了！",
+     "url": "https://www.bilibili.com/bangumi/play/ep374682",
+     "time": "2021-01-16T18:30:01.000Z"
     }
    ]
   }

@@ -12,7 +12,9 @@
   {
    "site": "iqiyi",
    "id": "a_19rrgyp04l",
-   "sort": 135
+   "sort": 136,
+   "week": 7,
+   "time": "1800"
   },
   {
    "site": "youku",
@@ -2868,6 +2870,13 @@
      "title": "托奇和柏木 男人们的重逢",
      "url": "https://www.bilibili.com/bangumi/play/ep358194",
      "time": "2021-01-10T10:00:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 136,
+     "title": "托奇和柏木 男人们的再会",
+     "url": "http://www.iqiyi.com/v_1j3r4e5m4pg.html",
+     "time": "2021-01-16T23:02:28.000Z"
     }
    ]
   }

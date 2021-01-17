@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231819",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -20,6 +20,20 @@
      "title": "吸烟、细菌、终焉的开始",
      "url": "https://www.bilibili.com/bangumi/play/ep373963",
      "time": "2021-01-09T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994860,
+   "sort": 2,
+   "name": "肝臓、アルコール、誇り。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "肝脏、酒精、荣耀。",
+     "url": "https://www.bilibili.com/bangumi/play/ep373964",
+     "time": "2021-01-16T16:30:01.000Z"
     }
    ]
   }
