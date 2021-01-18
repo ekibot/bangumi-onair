@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231933",
-   "sort": 2
+   "sort": 3
   }
  ],
  "eps": [
@@ -20,6 +20,20 @@
      "title": "从这一步开始",
      "url": "https://www.bilibili.com/bangumi/play/ep374693",
      "time": "2021-01-10T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 999982,
+   "sort": 2,
+   "name": "ここに立つその理由",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "站在这里的理由",
+     "url": "https://www.bilibili.com/bangumi/play/ep374694",
+     "time": "2021-01-17T16:30:01.000Z"
     }
    ]
   }

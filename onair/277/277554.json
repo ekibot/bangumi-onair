@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231810",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -20,6 +20,20 @@
      "title": "无职转生",
      "url": "https://www.bilibili.com/bangumi/play/ep373886",
      "time": "2021-01-10T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994896,
+   "sort": 2,
+   "name": "师匠",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "老师",
+     "url": "https://www.bilibili.com/bangumi/play/ep373887",
+     "time": "2021-01-17T16:30:01.000Z"
     }
    ]
   }
