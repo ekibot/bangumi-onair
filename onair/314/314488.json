@@ -8,6 +8,13 @@
    "week": 6,
    "time": "0225",
    "sort": 3
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_1tgwhmyi3yl",
+   "week": 6,
+   "time": "0225",
+   "sort": 2
   }
  ],
  "eps": [
@@ -22,6 +29,13 @@
      "title": "这座城市曾有英雄存在",
      "url": "https://www.bilibili.com/bangumi/play/ep373949",
      "time": "2021-01-08T18:55:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "英雄",
+     "url": "http://www.iqiyi.com/v_13cw0i7u6u0.html",
+     "time": "2021-01-08T18:55:04.000Z"
     }
    ]
   },
@@ -36,6 +50,13 @@
      "title": "刻耳柏洛斯",
      "url": "https://www.bilibili.com/bangumi/play/ep373950",
      "time": "2021-01-15T18:25:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "刻耳柏洛斯",
+     "url": "http://www.iqiyi.com/v_29nhzl73bik.html",
+     "time": "2021-01-15T18:25:04.000Z"
     }
    ]
   }

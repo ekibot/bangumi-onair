@@ -8,6 +8,13 @@
    "week": 7,
    "time": "2200",
    "sort": 5
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhlplux",
+   "week": 7,
+   "time": "2200",
+   "sort": 4
   }
  ],
  "eps": [
@@ -22,6 +29,13 @@
      "title": "盟约",
      "url": "https://www.bilibili.com/bangumi/play/ep374036",
      "time": "2020-12-27T14:00:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "盟约",
+     "url": "http://www.iqiyi.com/v_t5z2qttzrc.html",
+     "time": "2020-12-27T14:00:05.000Z"
     }
    ]
   },
@@ -36,6 +50,13 @@
      "title": "空白期",
      "url": "https://www.bilibili.com/bangumi/play/ep374037",
      "time": "2021-01-03T14:00:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "空白期",
+     "url": "http://www.iqiyi.com/v_1kt66tuzk20.html",
+     "time": "2021-01-03T14:00:05.000Z"
     }
    ]
   },
@@ -50,6 +71,13 @@
      "title": "自我中心",
      "url": "https://www.bilibili.com/bangumi/play/ep374038",
      "time": "2021-01-10T14:00:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "自我中心",
+     "url": "http://www.iqiyi.com/v_19yz8nqj4ng.html",
+     "time": "2021-01-10T14:00:04.000Z"
     }
    ]
   },
@@ -64,6 +92,13 @@
      "title": "刺激",
      "url": "https://www.bilibili.com/bangumi/play/ep374039",
      "time": "2021-01-17T14:00:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "刺激",
+     "url": "http://www.iqiyi.com/v_qfmjmh7qlg.html",
+     "time": "2021-01-17T14:00:04.000Z"
     }
    ]
   }

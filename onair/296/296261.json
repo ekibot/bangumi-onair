@@ -8,6 +8,20 @@
    "week": 4,
    "time": "2230",
    "sort": 7
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_1c0l9eb3b6x",
+   "week": 4,
+   "time": "2230",
+   "sort": 1
+  },
+  {
+   "site": "qq",
+   "id": "m/mzc00200dux4h7o",
+   "week": 4,
+   "time": "2230",
+   "sort": 1
   }
  ],
  "eps": [
@@ -22,6 +36,19 @@
      "title": "STONE WARS BEGINNING",
      "url": "https://www.bilibili.com/bangumi/play/ep374014",
      "time": "2021-01-14T14:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "STONE WARS BEGINNING",
+     "url": "http://www.iqiyi.com/v_2btkoysxnvc.html",
+     "time": "2021-01-14T14:30:07.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "Ｄｒ．ＳＴＯＮＥ 石纪元 第2季_01",
+     "url": "https://v.qq.com/x/cover/mzc00200dux4h7o/f0035h1e2qs.html"
     }
    ]
   }

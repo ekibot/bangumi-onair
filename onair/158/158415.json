@@ -6,6 +6,11 @@
    "site": "bilibili",
    "id": "5056",
    "sort": 12
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_s5gwy31rpl",
+   "sort": 10
   }
  ],
  "eps": [
@@ -20,6 +25,13 @@
      "title": "事三而功成",
      "url": "https://www.bilibili.com/bangumi/play/ep90846",
      "time": "2016-07-11T15:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "三局为定",
+     "url": "http://www.iqiyi.com/v_bdv1nimu9w.html",
+     "time": "2020-12-02T05:28:09.000Z"
     }
    ]
   },
@@ -34,6 +46,13 @@
      "title": "绞杀罪魁",
      "url": "https://www.bilibili.com/bangumi/play/ep92382",
      "time": "2016-07-18T15:30:02.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "绞死女巫",
+     "url": "http://www.iqiyi.com/v_1jybjvl3a3w.html",
+     "time": "2020-12-02T03:54:37.000Z"
     }
    ]
   },
@@ -48,6 +67,13 @@
      "title": "残酷的暴力与虚伪的言语",
      "url": "https://www.bilibili.com/bangumi/play/ep92383",
      "time": "2016-07-25T15:30:02.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "残忍暴力和空洞话语",
+     "url": "http://www.iqiyi.com/v_26j7oyk3plc.html",
+     "time": "2020-12-02T03:57:42.000Z"
     }
    ]
   },
@@ -62,6 +88,13 @@
      "title": "谁是说谎的人",
      "url": "https://www.bilibili.com/bangumi/play/ep92384",
      "time": "2016-08-01T15:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "谁是骗子",
+     "url": "http://www.iqiyi.com/v_236unubhn4g.html",
+     "time": "2020-12-02T06:26:13.000Z"
     }
    ]
   },
@@ -76,6 +109,13 @@
      "title": "昔日之梦",
      "url": "https://www.bilibili.com/bangumi/play/ep92385",
      "time": "2016-08-08T15:30:02.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "遥远往昔的梦想",
+     "url": "http://www.iqiyi.com/v_11r9zdegz7k.html",
+     "time": "2020-12-02T05:27:12.000Z"
     }
    ]
   },
@@ -90,6 +130,13 @@
      "title": "没有谁是一座孤岛",
      "url": "https://www.bilibili.com/bangumi/play/ep92386",
      "time": "2016-08-15T15:30:09.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "没有谁是一座孤岛",
+     "url": "http://www.iqiyi.com/v_g3rruhqtns.html",
+     "time": "2020-12-02T05:22:34.000Z"
     }
    ]
   },
@@ -104,6 +151,13 @@
      "title": "绝对绝望少女",
      "url": "https://www.bilibili.com/bangumi/play/ep92387",
      "time": "2016-08-22T15:30:09.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "绝对绝望女孩们",
+     "url": "http://www.iqiyi.com/v_1mujx5tzhac.html",
+     "time": "2020-12-02T03:56:29.000Z"
     }
    ]
   },
@@ -118,6 +172,13 @@
      "title": "谁杀了知更鸟",
      "url": "https://www.bilibili.com/bangumi/play/ep92388",
      "time": "2016-08-29T15:30:10.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "谁杀死了知更鸟",
+     "url": "http://www.iqiyi.com/v_1m60828p1eo.html",
+     "time": "2020-12-02T04:00:14.000Z"
     }
    ]
   },
@@ -132,6 +193,13 @@
      "title": "你是我甘愿赴死的理由",
      "url": "https://www.bilibili.com/bangumi/play/ep92389",
      "time": "2016-09-05T15:30:09.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "你是我死亡的理由",
+     "url": "http://www.iqiyi.com/v_2dt9auzhbu4.html",
+     "time": "2020-12-02T05:30:44.000Z"
     }
    ]
   },
@@ -146,6 +214,13 @@
      "title": "死亡 毁灭 绝望",
      "url": "https://www.bilibili.com/bangumi/play/ep92390",
      "time": "2016-09-12T15:30:09.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "死亡 毁灭 绝望",
+     "url": "http://www.iqiyi.com/v_ev8i98ak00.html",
+     "time": "2020-12-02T06:33:23.000Z"
     }
    ]
   },

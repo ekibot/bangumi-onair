@@ -1,0 +1,156 @@
+{
+ "id": "976",
+ "name": "怪～ayakashi～",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "m/mzc00200d9l3tvb",
+   "sort": 11
+  }
+ ],
+ "eps": [
+  {
+   "id": 1437,
+   "sort": 1,
+   "name": "四谷怪談 序の幕",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "怪_01",
+     "url": "https://v.qq.com/x/cover/mzc00200d9l3tvb/n0035gfltin.html"
+    }
+   ]
+  },
+  {
+   "id": 1438,
+   "sort": 2,
+   "name": "四谷怪談 二の幕",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "怪_02",
+     "url": "https://v.qq.com/x/cover/mzc00200d9l3tvb/e0035nktzj7.html"
+    }
+   ]
+  },
+  {
+   "id": 1439,
+   "sort": 3,
+   "name": "四谷怪談 三の幕",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "怪_03",
+     "url": "https://v.qq.com/x/cover/mzc00200d9l3tvb/d0035ktz8b6.html"
+    }
+   ]
+  },
+  {
+   "id": 1440,
+   "sort": 4,
+   "name": "四谷怪談 大詰め",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "怪_04",
+     "url": "https://v.qq.com/x/cover/mzc00200d9l3tvb/p0035zs7a4i.html"
+    }
+   ]
+  },
+  {
+   "id": 1441,
+   "sort": 5,
+   "name": "天守物語 序の幕",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "怪_05",
+     "url": "https://v.qq.com/x/cover/mzc00200d9l3tvb/l0035m8ibag.html"
+    }
+   ]
+  },
+  {
+   "id": 1442,
+   "sort": 6,
+   "name": "天守物語 二の幕",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "怪_06",
+     "url": "https://v.qq.com/x/cover/mzc00200d9l3tvb/f0035k4388u.html"
+    }
+   ]
+  },
+  {
+   "id": 1443,
+   "sort": 7,
+   "name": "天守物語 三の幕",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "怪_07",
+     "url": "https://v.qq.com/x/cover/mzc00200d9l3tvb/s0035mjycku.html"
+    }
+   ]
+  },
+  {
+   "id": 1444,
+   "sort": 8,
+   "name": "天守物語 大詰め",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "怪_08",
+     "url": "https://v.qq.com/x/cover/mzc00200d9l3tvb/v00353q96hy.html"
+    }
+   ]
+  },
+  {
+   "id": 1445,
+   "sort": 9,
+   "name": "化猫 序の幕",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "怪_09",
+     "url": "https://v.qq.com/x/cover/mzc00200d9l3tvb/v0035p2dsq2.html"
+    }
+   ]
+  },
+  {
+   "id": 1446,
+   "sort": 10,
+   "name": "化猫 二の幕",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "怪_10",
+     "url": "https://v.qq.com/x/cover/mzc00200d9l3tvb/j0035r6v1p0.html"
+    }
+   ]
+  },
+  {
+   "id": 1447,
+   "sort": 11,
+   "name": "化猫 大詰め",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "怪_11",
+     "url": "https://v.qq.com/x/cover/mzc00200d9l3tvb/d00358wocim.html"
+    }
+   ]
+  }
+ ]
+}

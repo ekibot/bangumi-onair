@@ -1,0 +1,41 @@
+{
+ "id": "296875",
+ "name": "ワールドトリガー 2ndシーズン",
+ "sites": [
+  {
+   "site": "iqiyi",
+   "id": "a_1almkzhcvu5",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 999932,
+   "sort": 1,
+   "name": "襲来",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "来袭",
+     "url": "http://www.iqiyi.com/v_1idbqihs6qc.html",
+     "time": "2021-01-10T05:19:21.000Z"
+    }
+   ]
+  },
+  {
+   "id": 999933,
+   "sort": 2,
+   "name": "",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "激战",
+     "url": "http://www.iqiyi.com/v_19m3ye4psz4.html",
+     "time": "2021-01-17T04:09:17.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -6,6 +6,11 @@
    "site": "bilibili",
    "id": "4400",
    "sort": 13
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_ahwc19gr8l",
+   "sort": 13
   }
  ],
  "eps": [
@@ -20,6 +25,13 @@
      "title": "欢迎来到绝望学园",
      "url": "https://www.bilibili.com/bangumi/play/ep95713",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "欢迎来到绝望学园",
+     "url": "http://www.iqiyi.com/v_ipncgl95xc.html",
+     "time": "2020-12-07T08:52:05.000Z"
     }
    ]
   },
@@ -34,6 +46,13 @@
      "title": "活至终点",
      "url": "https://www.bilibili.com/bangumi/play/ep95714",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "活下去（非）日常篇",
+     "url": "http://www.iqiyi.com/v_2g2wrn4c1xg.html",
+     "time": "2020-12-07T08:52:03.000Z"
     }
    ]
   },
@@ -48,6 +67,13 @@
      "title": "活至终点 非日常篇",
      "url": "https://www.bilibili.com/bangumi/play/ep95715",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "活下去 非日常篇",
+     "url": "http://www.iqiyi.com/v_11lncoglv4w.html",
+     "time": "2020-12-07T08:52:00.000Z"
     }
    ]
   },
@@ -62,6 +88,13 @@
      "title": "周刊少年绝望Magazine",
      "url": "https://www.bilibili.com/bangumi/play/ep95716",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "周刊少年绝望杂志（非）日常篇",
+     "url": "http://www.iqiyi.com/v_1eb3dmby8jc.html",
+     "time": "2020-12-07T08:52:01.000Z"
     }
    ]
   },
@@ -76,6 +109,13 @@
      "title": "周刊少年绝望MAGAZINE 非日常篇",
      "url": "https://www.bilibili.com/bangumi/play/ep95717",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "周刊少年绝望杂志非日常编",
+     "url": "http://www.iqiyi.com/v_14spph6kc3g.html",
+     "time": "2020-12-07T08:51:56.000Z"
     }
    ]
   },
@@ -90,6 +130,13 @@
      "title": "新世纪银河传说再现！装甲勇者耸立于大地！",
      "url": "https://www.bilibili.com/bangumi/play/ep95718",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "新世纪银河传说再现！装甲勇者啊、立足大地吧！（非）日常篇",
+     "url": "http://www.iqiyi.com/v_1y00939ay4o.html",
+     "time": "2020-12-07T08:51:55.000Z"
     }
    ]
   },
@@ -104,6 +151,13 @@
      "title": "新世纪银河传说再现！装甲勇者耸立于大地！ 非日常篇",
      "url": "https://www.bilibili.com/bangumi/play/ep95719",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "新世纪银河传说再现！装甲勇者啊、立足大地吧！非日常篇",
+     "url": "http://www.iqiyi.com/v_zviu1r8d4k.html",
+     "time": "2020-12-07T08:51:52.000Z"
     }
    ]
   },
@@ -118,6 +172,13 @@
      "title": "ALL·ALL·APOLOGY\\'S",
      "url": "https://www.bilibili.com/bangumi/play/ep95720",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "All All Apologies（非）日常篇",
+     "url": "http://www.iqiyi.com/v_1yr0rp5hfkg.html",
+     "time": "2020-12-07T08:51:50.000Z"
     }
    ]
   },
@@ -132,6 +193,13 @@
      "title": "ALL ALL APOLOGY\\'SⅡ",
      "url": "https://www.bilibili.com/bangumi/play/ep95721",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "All All Apologies非日常篇",
+     "url": "http://www.iqiyi.com/v_22scj8wc7z8.html",
+     "time": "2020-12-08T14:37:35.000Z"
     }
    ]
   },
@@ -146,6 +214,13 @@
      "title": "疾走青春的绝望JUNK FOOD",
      "url": "https://www.bilibili.com/bangumi/play/ep95722",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "高速奔驰吧，青春的绝望垃圾食物（非）日常篇",
+     "url": "http://www.iqiyi.com/v_22vgsxnu2qw.html",
+     "time": "2020-12-08T14:37:37.000Z"
     }
    ]
   },
@@ -160,6 +235,13 @@
      "title": "疾走青春的绝望JUNK FOOD 非日常篇",
      "url": "https://www.bilibili.com/bangumi/play/ep95723",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "高速奔驰吧，青春的绝望垃圾食物 非日常篇",
+     "url": "http://www.iqiyi.com/v_1jev7vdp1vw.html",
+     "time": "2020-12-08T14:37:39.000Z"
     }
    ]
   },
@@ -174,6 +256,13 @@
      "title": "超高校级的霉运是引起超高校级的杀人处刑和绝望的理由",
      "url": "https://www.bilibili.com/bangumi/play/ep95724",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "超高校级的不幸引来超高校级的绝望的缘由",
+     "url": "http://www.iqiyi.com/v_hh4u5wylfg.html",
+     "time": "2020-12-08T14:37:40.000Z"
     }
    ]
   },
@@ -188,6 +277,13 @@
      "title": "再见 绝望学园",
      "url": "https://www.bilibili.com/bangumi/play/ep95725",
      "time": "2016-09-02T13:41:55.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 13,
+     "title": "再见了绝望学园",
+     "url": "http://www.iqiyi.com/v_1a3jgdwgr48.html",
+     "time": "2020-12-08T14:37:42.000Z"
     }
    ]
   }

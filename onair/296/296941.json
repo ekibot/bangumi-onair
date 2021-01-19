@@ -14,6 +14,19 @@
    "id": "6004594",
    "week": 7,
    "time": "2230"
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_ery42cmbyx",
+   "week": 7,
+   "time": "2230",
+   "sort": 2
+  },
+  {
+   "site": "qq",
+   "id": "m/mzc00200b8tg7au",
+   "week": 7,
+   "time": "2230"
   }
  ],
  "eps": [
@@ -42,6 +55,13 @@
      "title": "夏羽",
      "url": "https://www.acfun.cn/bangumi/ab6004594_36188_1759486",
      "time": "2021-01-10T14:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "夏羽",
+     "url": "http://www.iqiyi.com/v_1uwffnufmm8.html",
+     "time": "2021-01-10T14:30:03.000Z"
     }
    ]
   },
@@ -63,6 +83,13 @@
      "title": "怪物屋",
      "url": "https://www.acfun.cn/bangumi/ab6004594_36188_1760110",
      "time": "2021-01-17T14:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "怪物屋",
+     "url": "http://www.iqiyi.com/v_snxreq2ih4.html",
+     "time": "2021-01-17T14:30:04.000Z"
     }
    ]
   }
