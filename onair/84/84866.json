@@ -6,6 +6,11 @@
    "site": "bilibili",
    "id": "27127860",
    "sort": 1
+  },
+  {
+   "site": "qq",
+   "id": "g/gk7198e45vjkdee",
+   "sort": 1
   }
  ],
  "eps": [
@@ -20,6 +25,12 @@
      "title": "01",
      "url": "https://www.bilibili.com/bangumi/play/ep268842",
      "time": "2019-04-09T10:53:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "刀剑神域 Extra Edition特别篇",
+     "url": "https://v.qq.com/x/cover/gk7198e45vjkdee/q0034lxalk7.html"
     }
    ]
   }

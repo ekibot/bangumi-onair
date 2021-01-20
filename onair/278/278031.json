@@ -7,14 +7,14 @@
    "id": "28231812",
    "week": 2,
    "time": "2330",
-   "sort": 4
+   "sort": 5
   },
   {
    "site": "iqiyi",
    "id": "a_giqcbo152p",
    "week": 2,
    "time": "2330",
-   "sort": 2
+   "sort": 3
   }
  ],
  "eps": [
@@ -43,6 +43,20 @@
      "title": "利姆鲁繁忙的每一天",
      "url": "https://www.bilibili.com/bangumi/play/ep374001",
      "time": "2021-01-12T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994948,
+   "sort": 26,
+   "name": "獣王国との交易",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 26,
+     "title": "与兽王国的交易",
+     "url": "https://www.bilibili.com/bangumi/play/ep374002",
+     "time": "2021-01-19T15:30:01.000Z"
     }
    ]
   }

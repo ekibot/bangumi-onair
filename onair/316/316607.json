@@ -7,7 +7,7 @@
    "id": "28231851",
    "week": 2,
    "time": "2300",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "孩子的领域",
      "url": "https://www.bilibili.com/bangumi/play/ep374355",
      "time": "2021-01-12T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 999857,
+   "sort": 2,
+   "name": "友達の条件",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "朋友的条件",
+     "url": "https://www.bilibili.com/bangumi/play/ep374356",
+     "time": "2021-01-19T15:00:01.000Z"
     }
    ]
   }
