@@ -1,0 +1,29 @@
+{
+ "id": "303172",
+ "name": "魔術士オーフェンはぐれ旅 キムラック編",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28231927",
+   "week": 3,
+   "time": "2100",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 996323,
+   "sort": 1,
+   "name": "我が遺志を伝えよ魔王",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "魔王啊 传承吾之遗志",
+     "url": "https://www.bilibili.com/bangumi/play/ep374025",
+     "time": "2021-01-20T13:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
