@@ -7,7 +7,7 @@
    "id": "28231807",
    "week": 5,
    "time": "2030",
-   "sort": 4
+   "sort": 5
   }
  ],
  "eps": [
@@ -36,6 +36,20 @@
      "title": "一次战斗等级连续上升就会很爽",
      "url": "https://www.bilibili.com/bangumi/play/ep374607",
      "time": "2021-01-15T12:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994836,
+   "sort": 3,
+   "name": "Lv.3 一人目の仲間が女の子だとしばらくデート気分で冒険できる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "第一个伙伴是女孩子的话暂时能以约会的感觉去冒险",
+     "url": "https://www.bilibili.com/bangumi/play/ep374608",
+     "time": "2021-01-22T12:30:01.000Z"
     }
    ]
   }

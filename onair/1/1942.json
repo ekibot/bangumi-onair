@@ -6,6 +6,11 @@
    "site": "bilibili",
    "id": "3860",
    "sort": 1
+  },
+  {
+   "site": "qq",
+   "id": "m/mzc00200naxyf8g",
+   "sort": 1
   }
  ],
  "eps": [
@@ -20,6 +25,12 @@
      "title": "魔卡少女樱 被封印的卡片",
      "url": "https://www.bilibili.com/bangumi/play/ep86803",
      "time": "2020-12-21T07:15:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "剧场版魔卡少女樱 被封印的卡片",
+     "url": "https://v.qq.com/x/cover/mzc00200naxyf8g/p0035dndizj.html"
     }
    ]
   }

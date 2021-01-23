@@ -21,7 +21,7 @@
    "id": "m/mzc00200dux4h7o",
    "week": 4,
    "time": "2230",
-   "sort": 1
+   "sort": 2
   }
  ],
  "eps": [
@@ -70,6 +70,12 @@
      "title": "热线",
      "url": "http://www.iqiyi.com/v_23dittyl7nk.html",
      "time": "2021-01-21T14:30:03.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "Ｄｒ．ＳＴＯＮＥ 石纪元 第2季_02",
+     "url": "https://v.qq.com/x/cover/mzc00200dux4h7o/h0035mqz3d6.html"
     }
    ]
   }

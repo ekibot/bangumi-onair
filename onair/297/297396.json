@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231925",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -34,6 +34,20 @@
      "title": "梦想完全是碍事的吗",
      "url": "https://www.bilibili.com/bangumi/play/ep374645",
      "time": "2021-01-15T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996276,
+   "sort": 3,
+   "name": "巨大な城艦(ふね)は希望になるか",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "巨型城舰会成为希望吗",
+     "url": "https://www.bilibili.com/bangumi/play/ep374646",
+     "time": "2021-01-22T16:30:01.000Z"
     }
    ]
   }
