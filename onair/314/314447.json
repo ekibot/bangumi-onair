@@ -7,7 +7,7 @@
    "id": "28231929",
    "week": 7,
    "time": "0200",
-   "sort": 6
+   "sort": 7
   },
   {
    "site": "acfun",
@@ -63,6 +63,27 @@
      "title": "竹轮牛子",
      "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1759891",
      "time": "2021-01-16T18:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996300,
+   "sort": 3,
+   "name": "怪具屋あかつき",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "怪具店晓",
+     "url": "https://www.bilibili.com/bangumi/play/ep373978",
+     "time": "2021-01-23T18:00:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 3,
+     "title": "怪具店晓",
+     "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1761174",
+     "time": "2021-01-23T18:00:00.000Z"
     }
    ]
   }

@@ -5,21 +5,21 @@
   {
    "site": "qq",
    "id": "m/mzc002009b3n1il",
-   "sort": 15
+   "sort": 16
   },
   {
    "site": "bilibili",
    "id": "28229900",
    "week": 6,
    "time": "1800",
-   "sort": 17
+   "sort": 18
   },
   {
    "site": "iqiyi",
    "id": "a_xnuvg1xks1",
    "week": 6,
    "time": "1800",
-   "sort": 15
+   "sort": 16
   }
  ],
  "eps": [
@@ -425,6 +425,33 @@
      "sort": 15,
      "title": "半妖的夜叉姬_15",
      "url": "https://v.qq.com/x/cover/mzc002009b3n1il/x0035kek5p1.html"
+    }
+   ]
+  },
+  {
+   "id": 994486,
+   "sort": 16,
+   "name": "もろはの刃",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 16,
+     "title": "半妖的夜叉姬_16",
+     "url": "https://v.qq.com/x/cover/mzc002009b3n1il/t0035pslm7n.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "诸叶之刃",
+     "url": "https://www.bilibili.com/bangumi/play/ep341448",
+     "time": "2021-01-23T10:00:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 16,
+     "title": "诸叶之刃",
+     "url": "http://www.iqiyi.com/v_1yq3rdmn3h0.html",
+     "time": "2021-01-23T10:00:04.000Z"
     }
    ]
   }
