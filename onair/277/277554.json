@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231810",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -34,6 +34,20 @@
      "title": "师父",
      "url": "https://www.bilibili.com/bangumi/play/ep373887",
      "time": "2021-01-17T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994897,
+   "sort": 3,
+   "name": "友達",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "朋友",
+     "url": "https://www.bilibili.com/bangumi/play/ep373888",
+     "time": "2021-01-24T16:30:01.000Z"
     }
    ]
   }
