@@ -7,7 +7,7 @@
    "id": "28232238",
    "week": 1,
    "time": "2300",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -50,6 +50,20 @@
      "title": "相遇",
      "url": "https://www.bilibili.com/bangumi/play/ep374308",
      "time": "2021-01-18T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996736,
+   "sort": 4,
+   "name": "ＴＭ対決！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "TM对决！",
+     "url": "https://www.bilibili.com/bangumi/play/ep374309",
+     "time": "2021-01-25T15:00:01.000Z"
     }
    ]
   }
