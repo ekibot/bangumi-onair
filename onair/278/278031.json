@@ -7,14 +7,14 @@
    "id": "28231812",
    "week": 2,
    "time": "2330",
-   "sort": 5
+   "sort": 6
   },
   {
    "site": "iqiyi",
    "id": "a_giqcbo152p",
    "week": 2,
    "time": "2330",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -57,6 +57,20 @@
      "title": "与兽王国的交易",
      "url": "https://www.bilibili.com/bangumi/play/ep374002",
      "time": "2021-01-19T15:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994949,
+   "sort": 27,
+   "name": "楽園、再び",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 27,
+     "title": "乐园再临",
+     "url": "https://www.bilibili.com/bangumi/play/ep374003",
+     "time": "2021-01-26T15:30:01.000Z"
     }
    ]
   }
