@@ -7,7 +7,7 @@
    "id": "28231927",
    "week": 3,
    "time": "2100",
-   "sort": 4
+   "sort": 5
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "魔王啊 传承吾之遗志",
      "url": "https://www.bilibili.com/bangumi/play/ep374025",
      "time": "2021-01-20T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996324,
+   "sort": 2,
+   "name": "彼にとっての天使と悪魔",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "他眼中的天使与恶魔",
+     "url": "https://www.bilibili.com/bangumi/play/ep374026",
+     "time": "2021-01-27T13:00:01.000Z"
     }
    ]
   }
