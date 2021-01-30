@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28229899",
-   "sort": 31,
+   "sort": 32,
    "week": 6,
    "time": "0125"
   },
@@ -307,6 +307,20 @@
      "title": "京都姐妹校交流会-团体战①-",
      "url": "https://www.bilibili.com/bangumi/play/ep375396",
      "time": "2021-01-22T17:40:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 995460,
+   "sort": 16,
+   "name": "京都姉妹校交流会－団体戦②－",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "京都姐妹校交流会-团体战②-",
+     "url": "https://www.bilibili.com/bangumi/play/ep375397",
+     "time": "2021-01-29T17:25:01.000Z"
     }
    ]
   }

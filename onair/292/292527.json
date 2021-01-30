@@ -7,7 +7,7 @@
    "id": "28231807",
    "week": 5,
    "time": "2030",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -50,6 +50,20 @@
      "title": "第一个伙伴是女孩子的话暂时能以约会的感觉去冒险",
      "url": "https://www.bilibili.com/bangumi/play/ep374608",
      "time": "2021-01-22T12:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994837,
+   "sort": 4,
+   "name": "Lv.4 ダンジョン攻略後に村に帰ると強いボスがいたりする",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "有时攻略地下城后回到村子发现强力boss在",
+     "url": "https://www.bilibili.com/bangumi/play/ep374609",
+     "time": "2021-01-29T12:30:01.000Z"
     }
    ]
   }
