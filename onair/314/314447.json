@@ -7,7 +7,7 @@
    "id": "28231929",
    "week": 7,
    "time": "0200",
-   "sort": 7
+   "sort": 8
   },
   {
    "site": "acfun",
@@ -84,6 +84,27 @@
      "title": "怪具店晓",
      "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1761174",
      "time": "2021-01-23T18:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996301,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "辣椒指甲",
+     "url": "https://www.bilibili.com/bangumi/play/ep373979",
+     "time": "2021-01-30T18:00:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 4,
+     "title": "辣椒指甲",
+     "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1761606",
+     "time": "2021-01-30T18:00:00.000Z"
     }
    ]
   }

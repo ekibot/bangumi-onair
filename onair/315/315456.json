@@ -7,7 +7,7 @@
    "id": "28231854",
    "week": 7,
    "time": "0230",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -50,6 +50,20 @@
      "title": "没愿望的勇者",
      "url": "https://www.bilibili.com/bangumi/play/ep374683",
      "time": "2021-01-23T18:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996289,
+   "sort": 4,
+   "name": "#04 PART 愛のマタドール、愛抱夢",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "爱的斗牛士，爱抱梦",
+     "url": "https://www.bilibili.com/bangumi/play/ep374684",
+     "time": "2021-01-30T18:30:01.000Z"
     }
    ]
   }

@@ -5,21 +5,21 @@
   {
    "site": "qq",
    "id": "m/mzc002009b3n1il",
-   "sort": 16
+   "sort": 17
   },
   {
    "site": "bilibili",
    "id": "28229900",
    "week": 6,
    "time": "1800",
-   "sort": 18
+   "sort": 19
   },
   {
    "site": "iqiyi",
    "id": "a_xnuvg1xks1",
    "week": 6,
    "time": "1800",
-   "sort": 16
+   "sort": 17
   }
  ],
  "eps": [
@@ -452,6 +452,33 @@
      "title": "诸叶之刃",
      "url": "http://www.iqiyi.com/v_1yq3rdmn3h0.html",
      "time": "2021-01-23T10:00:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994487,
+   "sort": 17,
+   "name": "二凶の罠",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 17,
+     "title": "半妖的夜叉姬_17",
+     "url": "https://v.qq.com/x/cover/mzc002009b3n1il/h0035pl0p2f.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "二凶的陷阱",
+     "url": "https://www.bilibili.com/bangumi/play/ep341449",
+     "time": "2021-01-30T10:00:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 17,
+     "title": "二凶的陷阱",
+     "url": "http://www.iqiyi.com/v_al19cm9wqw.html",
+     "time": "2021-01-30T10:00:05.000Z"
     }
    ]
   }
