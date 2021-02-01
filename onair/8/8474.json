@@ -6,6 +6,11 @@
    "site": "bilibili",
    "id": "951",
    "sort": 13
+  },
+  {
+   "site": "qq",
+   "id": "3/3y6r941k791up2w",
+   "sort": 11
   }
  ],
  "eps": [
@@ -20,6 +25,12 @@
      "title": "女孩是用什么做的？ ～Roses are red, violets are blue～",
      "url": "https://www.bilibili.com/bangumi/play/ep17133",
      "time": "2011-01-14T00:46:13.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "放浪男孩_01",
+     "url": "https://v.qq.com/x/cover/3y6r941k791up2w/i0034cw6ram.html"
     }
    ]
   },
@@ -34,6 +45,12 @@
      "title": "讨厌 讨厌 最讨厌 ～Cry baby cry～",
      "url": "https://www.bilibili.com/bangumi/play/ep17132",
      "time": "2011-01-21T01:25:20.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "放浪男孩_02",
+     "url": "https://v.qq.com/x/cover/3y6r941k791up2w/u003408gq65.html"
     }
    ]
   },
@@ -48,6 +65,12 @@
      "title": "罗密欧与茱丽叶 ～Juliet and Romeo～",
      "url": "https://www.bilibili.com/bangumi/play/ep17131",
      "time": "2011-01-28T03:40:55.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "放浪男孩_03",
+     "url": "https://v.qq.com/x/cover/3y6r941k791up2w/l0034aiwlye.html"
     }
    ]
   },
@@ -62,6 +85,12 @@
      "title": "给你我的名字 ～The sound of your name～",
      "url": "https://www.bilibili.com/bangumi/play/ep17130",
      "time": "2011-02-04T04:51:47.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "放浪男孩_04",
+     "url": "https://v.qq.com/x/cover/3y6r941k791up2w/t0034k4jhq6.html"
     }
    ]
   },
@@ -76,6 +105,12 @@
      "title": "夏日的终幕 ～Long, long shadow～",
      "url": "https://www.bilibili.com/bangumi/play/ep17129",
      "time": "2011-02-18T05:02:39.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "放浪男孩_05",
+     "url": "https://v.qq.com/x/cover/3y6r941k791up2w/h0034sn1jbj.html"
     }
    ]
   },
@@ -90,6 +125,12 @@
      "title": "文化祭 ～Dream of butterfly～",
      "url": "https://www.bilibili.com/bangumi/play/ep17128",
      "time": "2011-02-25T03:20:44.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "放浪男孩_06",
+     "url": "https://v.qq.com/x/cover/3y6r941k791up2w/r0034b0gtwj.html"
     }
    ]
   },
@@ -104,6 +145,12 @@
      "title": "蔷薇色的脸颊 ～Growing pains～",
      "url": "https://www.bilibili.com/bangumi/play/ep17127",
      "time": "2011-03-04T02:40:45.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "放浪男孩_07",
+     "url": "https://v.qq.com/x/cover/3y6r941k791up2w/h0034144gk3.html"
     }
    ]
   },
@@ -118,6 +165,12 @@
      "title": "春 ～Brand new me～",
      "url": "https://www.bilibili.com/bangumi/play/ep17126",
      "time": "2011-03-11T03:34:28.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "放浪男孩_08",
+     "url": "https://v.qq.com/x/cover/3y6r941k791up2w/e0034x4vmoh.html"
     }
    ]
   },
@@ -132,6 +185,12 @@
      "title": "帅气的她 ～Green eye～",
      "url": "https://www.bilibili.com/bangumi/play/ep17125",
      "time": "2011-03-18T22:36:49.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "放浪男孩_09",
+     "url": "https://v.qq.com/x/cover/3y6r941k791up2w/k0034g429gg.html"
     }
    ]
   },
@@ -146,6 +205,32 @@
      "title": "到哪都是放浪男孩 ～Wandering son's",
      "url": "https://www.bilibili.com/bangumi/play/ep17122",
      "time": "2011-10-20T13:43:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 85304,
+   "sort": 10,
+   "name": "ぼくだけ笑われた ～Black sheep～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "放浪男孩_10",
+     "url": "https://v.qq.com/x/cover/3y6r941k791up2w/o0034mr9w1q.html"
+    }
+   ]
+  },
+  {
+   "id": 85305,
+   "sort": 11,
+   "name": "告白 ～Each season～",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "放浪男孩_11",
+     "url": "https://v.qq.com/x/cover/3y6r941k791up2w/s0034zzbifs.html"
     }
    ]
   }
