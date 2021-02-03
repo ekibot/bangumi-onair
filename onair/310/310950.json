@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231931",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -48,6 +48,20 @@
      "title": "501 开始还愿之旅了？",
      "url": "https://www.bilibili.com/bangumi/play/ep374382",
      "time": "2021-01-26T16:45:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994910,
+   "sort": 4,
+   "name": "502、紹介しちゃいます？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "502 要介绍了吗",
+     "url": "https://www.bilibili.com/bangumi/play/ep374383",
+     "time": "2021-02-02T16:45:00.000Z"
     }
    ]
   }
