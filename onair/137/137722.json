@@ -11,6 +11,11 @@
    "site": "youku",
    "id": "17a6b178a85111e5be16",
    "sort": 12
+  },
+  {
+   "site": "qq",
+   "id": "f/f79uwp0ne7sxujw",
+   "sort": 12
   }
  ],
  "eps": [
@@ -31,6 +36,12 @@
      "sort": 1,
      "title": "第01话 走马灯",
      "url": "https://v.youku.com/v_show/id_XMTQzNzg1NjM0NA==.html?s=17a6b178a85111e5be16"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "只有我不存在的城市_01",
+     "url": "https://v.qq.com/x/cover/f79uwp0ne7sxujw/m003422rggq.html"
     }
    ]
   },
@@ -51,6 +62,12 @@
      "sort": 2,
      "title": "第02话 手掌",
      "url": "https://v.youku.com/v_show/id_XMTQ0NTEzOTI4MA==.html?s=17a6b178a85111e5be16"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "只有我不存在的城市_02",
+     "url": "https://v.qq.com/x/cover/f79uwp0ne7sxujw/x003477oojz.html"
     }
    ]
   },
@@ -71,6 +88,12 @@
      "sort": 3,
      "title": "第03话 斑",
      "url": "https://v.youku.com/v_show/id_XMTQ1MjIyODYyOA==.html?s=17a6b178a85111e5be16"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "只有我不存在的城市_03",
+     "url": "https://v.qq.com/x/cover/f79uwp0ne7sxujw/t0034m4mtbb.html"
     }
    ]
   },
@@ -91,6 +114,12 @@
      "sort": 4,
      "title": "第04话 达成",
      "url": "https://v.youku.com/v_show/id_XMTQ1OTAwODg1Mg==.html?s=17a6b178a85111e5be16"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "只有我不存在的城市_04",
+     "url": "https://v.qq.com/x/cover/f79uwp0ne7sxujw/h0034e0l41t.html"
     }
    ]
   },
@@ -111,6 +140,12 @@
      "sort": 5,
      "title": "第05话 逃跑",
      "url": "https://v.youku.com/v_show/id_XMTQ2NTMwNzkyMA==.html?s=17a6b178a85111e5be16"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "只有我不存在的城市_05",
+     "url": "https://v.qq.com/x/cover/f79uwp0ne7sxujw/c0034xq61wx.html"
     }
    ]
   },
@@ -131,6 +166,12 @@
      "sort": 6,
      "title": "第06话 死神",
      "url": "https://v.youku.com/v_show/id_XMTQ2OTM2Nzc5Mg==.html?s=17a6b178a85111e5be16"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "只有我不存在的城市_06",
+     "url": "https://v.qq.com/x/cover/f79uwp0ne7sxujw/m0034psrhdq.html"
     }
    ]
   },
@@ -151,6 +192,12 @@
      "sort": 7,
      "title": "第07话 暴走",
      "url": "https://v.youku.com/v_show/id_XMTQ3NDcxMzQ0NA==.html?s=17a6b178a85111e5be16"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "只有我不存在的城市_07",
+     "url": "https://v.qq.com/x/cover/f79uwp0ne7sxujw/m0034zw25rh.html"
     }
    ]
   },
@@ -171,6 +218,12 @@
      "sort": 8,
      "title": "第08话 螺旋",
      "url": "https://v.youku.com/v_show/id_XMTQ4MTgxOTQ2OA==.html?s=17a6b178a85111e5be16"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "只有我不存在的城市_08",
+     "url": "https://v.qq.com/x/cover/f79uwp0ne7sxujw/y0034dof47s.html"
     }
    ]
   },
@@ -191,6 +244,12 @@
      "sort": 9,
      "title": "第09话 闭幕",
      "url": "https://v.youku.com/v_show/id_XMTQ4ODc0MTk2NA==.html?s=17a6b178a85111e5be16"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "只有我不存在的城市_09",
+     "url": "https://v.qq.com/x/cover/f79uwp0ne7sxujw/i0034ra8bil.html"
     }
    ]
   },
@@ -211,6 +270,12 @@
      "sort": 10,
      "title": "第10话 欢喜",
      "url": "https://v.youku.com/v_show/id_XMTQ5NTg5MDY4MA==.html?s=17a6b178a85111e5be16"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "只有我不存在的城市_10",
+     "url": "https://v.qq.com/x/cover/f79uwp0ne7sxujw/o0034n3dfkd.html"
     }
    ]
   },
@@ -231,6 +296,12 @@
      "sort": 11,
      "title": "第11话 未来",
      "url": "https://v.youku.com/v_show/id_XMTUwMjU2ODU2NA==.html?s=17a6b178a85111e5be16"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "只有我不存在的城市_11",
+     "url": "https://v.qq.com/x/cover/f79uwp0ne7sxujw/j0034i6730c.html"
     }
    ]
   },
@@ -251,6 +322,12 @@
      "sort": 12,
      "title": "第12话 宝物",
      "url": "https://v.youku.com/v_show/id_XMTUxMDQ1NDQyNA==.html?s=17a6b178a85111e5be16"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "只有我不存在的城市_12",
+     "url": "https://v.qq.com/x/cover/f79uwp0ne7sxujw/s0034ih4m5m.html"
     }
    ]
   }
