@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 19
+   "sort": 20
   },
   {
    "site": "youku",
@@ -17,7 +17,7 @@
   {
    "site": "iqiyi",
    "id": "a_18481af6vfd",
-   "sort": 17,
+   "sort": 18,
    "week": 6,
    "time": "0930"
   }
@@ -455,6 +455,27 @@
      "title": "不死之身的救世主",
      "url": "http://www.iqiyi.com/v_2e7p2orvkz4.html",
      "time": "2021-01-30T01:30:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 998299,
+   "sort": 18,
+   "name": "ヒュンケル対ハドラー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "修凯尔VS哈德拉",
+     "url": "https://www.bilibili.com/bangumi/play/ep341350",
+     "time": "2021-02-06T01:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 18,
+     "title": "修凯尔对哈德拉",
+     "url": "http://www.iqiyi.com/v_1c2fkrii18s.html",
+     "time": "2021-02-06T01:30:05.000Z"
     }
    ]
   }

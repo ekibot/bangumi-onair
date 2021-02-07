@@ -7,7 +7,7 @@
    "id": "28231929",
    "week": 7,
    "time": "0200",
-   "sort": 8
+   "sort": 9
   },
   {
    "site": "acfun",
@@ -90,7 +90,7 @@
   {
    "id": 996301,
    "sort": 4,
-   "name": "",
+   "name": "唐辛子の指先",
    "sites": [
     {
      "site": "bilibili",
@@ -105,6 +105,27 @@
      "title": "辣椒指甲",
      "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1761606",
      "time": "2021-01-30T18:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996302,
+   "sort": 5,
+   "name": "餃子の耳・前編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "饺子耳朵·前篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep373980",
+     "time": "2021-02-06T18:00:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 5,
+     "title": "饺子耳朵 上篇",
+     "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1764056",
+     "time": "2021-02-06T18:00:00.000Z"
     }
    ]
   }

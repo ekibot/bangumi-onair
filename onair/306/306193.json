@@ -5,21 +5,21 @@
   {
    "site": "qq",
    "id": "m/mzc002009b3n1il",
-   "sort": 17
+   "sort": 18
   },
   {
    "site": "bilibili",
    "id": "28229900",
    "week": 6,
    "time": "1800",
-   "sort": 19
+   "sort": 20
   },
   {
    "site": "iqiyi",
    "id": "a_xnuvg1xks1",
    "week": 6,
    "time": "1800",
-   "sort": 17
+   "sort": 18
   }
  ],
  "eps": [
@@ -479,6 +479,33 @@
      "title": "二凶的陷阱",
      "url": "http://www.iqiyi.com/v_al19cm9wqw.html",
      "time": "2021-01-30T10:00:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994488,
+   "sort": 18,
+   "name": "殺生丸と麒麟丸",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 18,
+     "title": "半妖的夜叉姬_18",
+     "url": "https://v.qq.com/x/cover/mzc002009b3n1il/o00354rg5xk.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "杀生丸与麒麟丸",
+     "url": "https://www.bilibili.com/bangumi/play/ep341450",
+     "time": "2021-02-06T10:00:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 18,
+     "title": "杀生丸与麒麟丸",
+     "url": "http://www.iqiyi.com/v_ucrlhk5ks4.html",
+     "time": "2021-02-06T10:00:06.000Z"
     }
    ]
   }
