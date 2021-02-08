@@ -7,7 +7,7 @@
    "id": "28231884",
    "week": 7,
    "time": "2230",
-   "sort": 5
+   "sort": 6
   },
   {
    "site": "acfun",
@@ -20,14 +20,14 @@
    "id": "a_ery42cmbyx",
    "week": 7,
    "time": "2230",
-   "sort": 4
+   "sort": 5
   },
   {
    "site": "qq",
    "id": "m/mzc00200b8tg7au",
    "week": 7,
    "time": "2230",
-   "sort": 4
+   "sort": 5
   }
  ],
  "eps": [
@@ -171,6 +171,40 @@
      "sort": 4,
      "title": "怪物事变_04",
      "url": "https://v.qq.com/x/cover/mzc00200b8tg7au/s0035ntdbp2.html"
+    }
+   ]
+  },
+  {
+   "id": 1000519,
+   "sort": 5,
+   "name": "潜入",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "「潜入」",
+     "url": "https://www.bilibili.com/bangumi/play/ep373992",
+     "time": "2021-02-07T14:30:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 5,
+     "title": "潜入",
+     "url": "https://www.acfun.cn/bangumi/ab6004594_36188_1764057",
+     "time": "2021-02-07T14:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "潜入",
+     "url": "http://www.iqiyi.com/v_xwlea6w0xc.html",
+     "time": "2021-02-07T14:30:05.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "怪物事变_05",
+     "url": "https://v.qq.com/x/cover/mzc00200b8tg7au/c0035i4uzth.html"
     }
    ]
   }

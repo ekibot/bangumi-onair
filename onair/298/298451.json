@@ -7,7 +7,7 @@
    "id": "a_19rrhwmdmd",
    "week": 7,
    "time": "中午",
-   "sort": 34
+   "sort": 35
   }
  ],
  "eps": [
@@ -484,6 +484,20 @@
      "title": "小光与迪路兽",
      "url": "http://www.iqiyi.com/v_hmoyjyoqrs.html",
      "time": "2021-01-31T03:47:20.000Z"
+    }
+   ]
+  },
+  {
+   "id": 968489,
+   "sort": 35,
+   "name": "煌くエンジェウーモン",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 35,
+     "title": "光辉的天女兽",
+     "url": "http://www.iqiyi.com/v_108fvp87dds.html",
+     "time": "2021-02-07T03:32:58.000Z"
     }
    ]
   }
