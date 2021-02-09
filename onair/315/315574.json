@@ -7,7 +7,7 @@
    "id": "28232238",
    "week": 1,
    "time": "2300",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "不败与蝉联",
      "url": "https://www.bilibili.com/bangumi/play/ep374310",
      "time": "2021-02-01T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996738,
+   "sort": 6,
+   "name": "なんのために",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "为了什么",
+     "url": "https://www.bilibili.com/bangumi/play/ep374311",
+     "time": "2021-02-08T15:00:01.000Z"
     }
    ]
   }

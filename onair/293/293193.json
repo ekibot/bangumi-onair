@@ -7,7 +7,7 @@
    "id": "28231833",
    "week": 1,
    "time": "2230",
-   "sort": 13
+   "sort": 14
   },
   {
    "site": "acfun",
@@ -20,7 +20,7 @@
    "id": "m/mzc00200gj8jiut",
    "week": 1,
    "time": "2230",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -198,6 +198,33 @@
      "sort": 5,
      "title": "好比是最终迷宫前的少年到新手村生活一般的故事_05",
      "url": "https://v.qq.com/x/cover/mzc00200gj8jiut/u00353iizol.html"
+    }
+   ]
+  },
+  {
+   "id": 994743,
+   "sort": 6,
+   "name": "たとえば絶対勝つだろうってやつが勝って、絶対負けるだろうってやつも勝つような交流試合の開始",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "好比是该赢的人赢了 该输的人也赢了的交流赛的开始",
+     "url": "https://www.bilibili.com/bangumi/play/ep373904",
+     "time": "2021-02-08T14:30:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 6,
+     "title": "好比是感觉肯定会赢的人赢了感觉肯定会输的人也赢了的友谊赛的开场",
+     "url": "https://www.acfun.cn/bangumi/ab6004592_36188_1764063",
+     "time": "2021-02-08T14:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "好比是最终迷宫前的少年到新手村生活一般的故事_06",
+     "url": "https://v.qq.com/x/cover/mzc00200gj8jiut/s0035b7c0wy.html"
     }
    ]
   }

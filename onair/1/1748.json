@@ -6,6 +6,11 @@
    "site": "bilibili",
    "id": "8312",
    "sort": 12
+  },
+  {
+   "site": "qq",
+   "id": "2/2vxszgx0ils9fbd",
+   "sort": 18
   }
  ],
  "eps": [
@@ -20,6 +25,12 @@
      "title": "黑执事",
      "url": "https://www.bilibili.com/bangumi/play/ep119003",
      "time": "2017-11-17T05:57:32.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "黑执事2_01",
+     "url": "https://v.qq.com/x/cover/2vxszgx0ils9fbd/x0035n8x8nb.html"
     }
    ]
   },
@@ -34,6 +45,12 @@
      "title": "单执事",
      "url": "https://www.bilibili.com/bangumi/play/ep119004",
      "time": "2017-11-17T05:57:32.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "黑执事2_02",
+     "url": "https://v.qq.com/x/cover/2vxszgx0ils9fbd/b00359pbr54.html"
     }
    ]
   },
@@ -48,6 +65,12 @@
      "title": "女郎执事",
      "url": "https://www.bilibili.com/bangumi/play/ep119005",
      "time": "2017-11-17T05:57:32.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "黑执事2_03",
+     "url": "https://v.qq.com/x/cover/2vxszgx0ils9fbd/f00352n43hh.html"
     }
    ]
   },
@@ -62,6 +85,12 @@
      "title": "恐怖执事",
      "url": "https://www.bilibili.com/bangumi/play/ep119006",
      "time": "2017-11-17T05:57:32.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "黑执事2_04",
+     "url": "https://v.qq.com/x/cover/2vxszgx0ils9fbd/w0035ugztd4.html"
     }
    ]
   },
@@ -76,6 +105,12 @@
      "title": "狼烟执事",
      "url": "https://www.bilibili.com/bangumi/play/ep119007",
      "time": "2017-11-17T05:57:32.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "黑执事2_05",
+     "url": "https://v.qq.com/x/cover/2vxszgx0ils9fbd/g0035s2osif.html"
     }
    ]
   },
@@ -90,6 +125,12 @@
      "title": "夜露执事",
      "url": "https://www.bilibili.com/bangumi/play/ep119008",
      "time": "2017-11-17T05:57:32.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "黑执事2_06",
+     "url": "https://v.qq.com/x/cover/2vxszgx0ils9fbd/e0035kx60z1.html"
     }
    ]
   },
@@ -104,6 +145,12 @@
      "title": "杀执事",
      "url": "https://www.bilibili.com/bangumi/play/ep119009",
      "time": "2017-11-17T05:57:32.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "黑执事2_07",
+     "url": "https://v.qq.com/x/cover/2vxszgx0ils9fbd/m0035j0rg61.html"
     }
    ]
   },
@@ -118,6 +165,12 @@
      "title": "吐露执事",
      "url": "https://www.bilibili.com/bangumi/play/ep119010",
      "time": "2017-11-17T05:57:32.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "黑执事2_08",
+     "url": "https://v.qq.com/x/cover/2vxszgx0ils9fbd/n0035wtu8sh.html"
     }
    ]
   },
@@ -132,6 +185,12 @@
      "title": "虚执事",
      "url": "https://www.bilibili.com/bangumi/play/ep119011",
      "time": "2017-11-17T05:57:32.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "黑执事2_09",
+     "url": "https://v.qq.com/x/cover/2vxszgx0ils9fbd/z003572qsbb.html"
     }
    ]
   },
@@ -146,6 +205,12 @@
      "title": "零执事",
      "url": "https://www.bilibili.com/bangumi/play/ep119012",
      "time": "2017-11-17T05:57:32.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "黑执事2_10",
+     "url": "https://v.qq.com/x/cover/2vxszgx0ils9fbd/v00350pf1i2.html"
     }
    ]
   },
@@ -160,6 +225,12 @@
      "title": "岐路执事",
      "url": "https://www.bilibili.com/bangumi/play/ep119013",
      "time": "2017-11-17T05:57:32.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "黑执事2_11",
+     "url": "https://v.qq.com/x/cover/2vxszgx0ils9fbd/o0035lylx1i.html"
     }
    ]
   },
@@ -174,6 +245,12 @@
      "title": "黑执事",
      "url": "https://www.bilibili.com/bangumi/play/ep119014",
      "time": "2017-11-17T05:57:32.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "黑执事2_12",
+     "url": "https://v.qq.com/x/cover/2vxszgx0ils9fbd/a0035c04qm1.html"
     }
    ]
   }

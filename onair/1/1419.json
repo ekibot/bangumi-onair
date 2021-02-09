@@ -6,6 +6,11 @@
    "site": "bilibili",
    "id": "1124",
    "sort": 26
+  },
+  {
+   "site": "qq",
+   "id": "q/q0sx66mq40cphgf",
+   "sort": 26
   }
  ],
  "eps": [
@@ -20,6 +25,12 @@
      "title": "I Am Legend 我是传奇",
      "url": "https://www.bilibili.com/bangumi/play/ep20114",
      "time": "2020-11-12T02:59:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "飞篮扣杀_01",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/d0035drpzcq.html"
     }
    ]
   },
@@ -34,6 +45,12 @@
      "title": "Legend is Dead 传说已死",
      "url": "https://www.bilibili.com/bangumi/play/ep20115",
      "time": "2020-11-12T03:01:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "飞篮扣杀_02",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/y0035rgwyww.html"
     }
    ]
   },
@@ -48,6 +65,12 @@
      "title": "Destroy, Destroy 破坏,破坏",
      "url": "https://www.bilibili.com/bangumi/play/ep20116",
      "time": "2020-11-12T03:03:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "飞篮扣杀_03",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/x0035faow9v.html"
     }
    ]
   },
@@ -62,6 +85,12 @@
      "title": "Three Way Free Fight 三重奏 自由战斗",
      "url": "https://www.bilibili.com/bangumi/play/ep20117",
      "time": "2020-11-12T03:04:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "飞篮扣杀_04",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/u00354o3uco.html"
     }
    ]
   },
@@ -76,6 +105,12 @@
      "title": "BASQUASH!",
      "url": "https://www.bilibili.com/bangumi/play/ep20118",
      "time": "2020-11-12T03:05:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "飞篮扣杀_05",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/x0035kv1vxb.html"
     }
    ]
   },
@@ -90,6 +125,12 @@
      "title": "Saint Has Come 聖人來也",
      "url": "https://www.bilibili.com/bangumi/play/ep20119",
      "time": "2020-11-12T03:06:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "飞篮扣杀_06",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/v0035ltzdud.html"
     }
    ]
   },
@@ -104,6 +145,12 @@
      "title": "Within out of",
      "url": "https://www.bilibili.com/bangumi/play/ep20120",
      "time": "2020-11-12T03:08:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "飞篮扣杀_07",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/c00355l3axp.html"
     }
    ]
   },
@@ -118,6 +165,12 @@
      "title": "Pass of Truth 传达真实",
      "url": "https://www.bilibili.com/bangumi/play/ep20121",
      "time": "2020-11-12T03:08:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "飞篮扣杀_08",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/l0035wa3m57.html"
     }
    ]
   },
@@ -132,6 +185,12 @@
      "title": "Idol Attack！ 偶像攻击",
      "url": "https://www.bilibili.com/bangumi/play/ep20122",
      "time": "2020-11-12T03:19:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "飞篮扣杀_09",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/s0035mm4sug.html"
     }
    ]
   },
@@ -146,6 +205,12 @@
      "title": "Nonstop, Jump Stop",
      "url": "https://www.bilibili.com/bangumi/play/ep20123",
      "time": "2020-11-12T03:20:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "飞篮扣杀_10",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/h0035b2khzs.html"
     }
    ]
   },
@@ -160,6 +225,12 @@
      "title": "In the Night Before 在夜晚來臨前",
      "url": "https://www.bilibili.com/bangumi/play/ep20124",
      "time": "2020-11-12T03:21:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "飞篮扣杀_11",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/y0035aoaxhm.html"
     }
    ]
   },
@@ -174,6 +245,12 @@
      "title": "League, League, League",
      "url": "https://www.bilibili.com/bangumi/play/ep20125",
      "time": "2020-11-12T03:23:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "飞篮扣杀_12",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/n0035gm5xse.html"
     }
    ]
   },
@@ -188,6 +265,12 @@
      "title": "See You on the Moon 月球上再會",
      "url": "https://www.bilibili.com/bangumi/play/ep20126",
      "time": "2020-11-12T03:24:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "飞篮扣杀_13",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/v0035e7ntw4.html"
     }
    ]
   },
@@ -202,6 +285,12 @@
      "title": "Splash Dash Crash",
      "url": "https://www.bilibili.com/bangumi/play/ep20127",
      "time": "2020-11-12T03:26:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 14,
+     "title": "飞篮扣杀_14",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/u00352i3kfj.html"
     }
    ]
   },
@@ -216,6 +305,12 @@
      "title": "RUN AND CANNON",
      "url": "https://www.bilibili.com/bangumi/play/ep20128",
      "time": "2020-11-12T03:26:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 15,
+     "title": "飞篮扣杀_15",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/b003528p18w.html"
     }
    ]
   },
@@ -230,6 +325,12 @@
      "title": "UNDERGROUND 地下",
      "url": "https://www.bilibili.com/bangumi/play/ep20129",
      "time": "2020-11-12T03:27:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 16,
+     "title": "飞篮扣杀_16",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/f00354lff5r.html"
     }
    ]
   },
@@ -244,6 +345,12 @@
      "title": "Giant Step 巨人之步",
      "url": "https://www.bilibili.com/bangumi/play/ep20130",
      "time": "2020-11-12T03:28:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 17,
+     "title": "飞篮扣杀_17",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/y0035z8tl0l.html"
     }
    ]
   },
@@ -258,6 +365,12 @@
      "title": "Memory of You 你的記憶",
      "url": "https://www.bilibili.com/bangumi/play/ep20131",
      "time": "2020-11-12T03:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 18,
+     "title": "飞篮扣杀_18",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/k0035nbjzp8.html"
     }
    ]
   },
@@ -272,6 +385,12 @@
      "title": "Turn Over 比賽結束",
      "url": "https://www.bilibili.com/bangumi/play/ep20132",
      "time": "2020-11-12T03:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 19,
+     "title": "飞篮扣杀_19",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/s0035hv02u4.html"
     }
    ]
   },
@@ -286,6 +405,12 @@
      "title": "Fit in Break",
      "url": "https://www.bilibili.com/bangumi/play/ep20133",
      "time": "2020-11-12T03:31:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 20,
+     "title": "飞篮扣杀_20",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/d0035rlyk3l.html"
     }
    ]
   },
@@ -300,6 +425,12 @@
      "title": "Total Eclipse 全面日食",
      "url": "https://www.bilibili.com/bangumi/play/ep20134",
      "time": "2020-11-12T03:32:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 21,
+     "title": "飞篮扣杀_21",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/j00352n0d1r.html"
     }
    ]
   },
@@ -314,6 +445,12 @@
      "title": "Clutch Shot",
      "url": "https://www.bilibili.com/bangumi/play/ep20135",
      "time": "2020-11-12T03:33:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 22,
+     "title": "飞篮扣杀_22",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/f0035y95akv.html"
     }
    ]
   },
@@ -328,6 +465,12 @@
      "title": "Cause Slash Said So",
      "url": "https://www.bilibili.com/bangumi/play/ep20136",
      "time": "2020-11-12T03:34:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 23,
+     "title": "飞篮扣杀_23",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/c00357gc3ie.html"
     }
    ]
   },
@@ -342,6 +485,12 @@
      "title": "Who are you? 你是谁?",
      "url": "https://www.bilibili.com/bangumi/play/ep20137",
      "time": "2020-11-12T03:35:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 24,
+     "title": "飞篮扣杀_24",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/d00352cgfmy.html"
     }
    ]
   },
@@ -356,6 +505,12 @@
      "title": "ABOVE THE RIM",
      "url": "https://www.bilibili.com/bangumi/play/ep20138",
      "time": "2020-11-12T03:36:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 25,
+     "title": "飞篮扣杀_25",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/e0035wj91d0.html"
     }
    ]
   },
@@ -370,6 +525,12 @@
      "title": "Free",
      "url": "https://www.bilibili.com/bangumi/play/ep20139",
      "time": "2020-11-12T03:36:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 26,
+     "title": "飞篮扣杀_26",
+     "url": "https://v.qq.com/x/cover/q0sx66mq40cphgf/k0035dq6621.html"
     }
    ]
   }
