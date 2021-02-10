@@ -7,12 +7,12 @@
    "id": "6422",
    "week": 2,
    "time": "1825",
-   "sort": 163
+   "sort": 164
   },
   {
    "site": "iqiyi",
    "id": "a_19rrhek9x9",
-   "sort": 163,
+   "sort": 164,
    "week": 2,
    "time": "1825"
   }
@@ -3424,6 +3424,27 @@
      "title": "大战在即",
      "url": "http://www.iqiyi.com/v_2bql2y2bgz4.html",
      "time": "2021-02-02T10:46:29.000Z"
+    }
+   ]
+  },
+  {
+   "id": 998326,
+   "sort": 163,
+   "name": "ダンテVS黒の暴牛団長",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 163,
+     "title": "但丁VS黑色暴牛团长",
+     "url": "https://www.bilibili.com/bangumi/play/ep378743",
+     "time": "2021-02-09T10:25:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 164,
+     "title": "但丁VS黑色暴牛团长",
+     "url": "http://www.iqiyi.com/v_1hajdu8aqu8.html",
+     "time": "2021-02-09T10:25:06.000Z"
     }
    ]
   }
