@@ -7,7 +7,7 @@
    "id": "28231927",
    "week": 3,
    "time": "2100",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -50,6 +50,20 @@
      "title": "拒绝魔术士的城市",
      "url": "https://www.bilibili.com/bangumi/play/ep374027",
      "time": "2021-02-03T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996326,
+   "sort": 4,
+   "name": "シスター・イスターシバ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "修女伊斯特西瓦",
+     "url": "https://www.bilibili.com/bangumi/play/ep374028",
+     "time": "2021-02-10T13:00:01.000Z"
     }
    ]
   }
