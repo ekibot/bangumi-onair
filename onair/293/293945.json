@@ -7,7 +7,7 @@
    "id": "28231928",
    "week": 5,
    "time": "0130",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "Stand by me",
      "url": "https://www.bilibili.com/bangumi/play/ep374545",
      "time": "2021-02-04T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 989968,
+   "sort": 6,
+   "name": "笑うキングと泣き虫ジャック",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "笑面国王和爱哭鬼骑士",
+     "url": "https://www.bilibili.com/bangumi/play/ep374546",
+     "time": "2021-02-11T17:30:01.000Z"
     }
    ]
   }
