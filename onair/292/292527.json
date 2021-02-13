@@ -7,7 +7,7 @@
    "id": "28231807",
    "week": 5,
    "time": "2030",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "攻略高难度事件后加入的同伴能力值基本都很高",
      "url": "https://www.bilibili.com/bangumi/play/ep374610",
      "time": "2021-02-05T12:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994839,
+   "sort": 6,
+   "name": "Lv.6 ゲーム内ゲームをやり出すとマジで止まらない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "开始玩游戏内小游戏的话真的就停不下来了",
+     "url": "https://www.bilibili.com/bangumi/play/ep374611",
+     "time": "2021-02-12T12:30:01.000Z"
     }
    ]
   }
