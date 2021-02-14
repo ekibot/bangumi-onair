@@ -7,14 +7,14 @@
    "id": "a_19rrhc0gyd",
    "week": 6,
    "time": "1930",
-   "sort": 1053
+   "sort": 1054
   },
   {
    "site": "qq",
    "id": "5/53q0eh78q97e4d1",
    "week": 6,
    "time": "1930",
-   "sort": 1053
+   "sort": 1054
   },
   {
    "site": "youku",
@@ -26,7 +26,7 @@
   {
    "site": "bilibili",
    "id": "28228775",
-   "sort": 1054
+   "sort": 1055
   }
  ],
  "eps": [
@@ -33968,6 +33968,19 @@
      "title": "消失的恋人",
      "url": "https://www.bilibili.com/bangumi/play/ep322840",
      "time": "2020-04-30T11:01:02.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1054,
+     "title": "微笑之乡的阴谋",
+     "url": "http://www.iqiyi.com/v_1dvhqsrc4eo.html",
+     "time": "2021-02-13T11:30:04.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1054,
+     "title": "第1054集 微笑之乡的阴谋",
+     "url": "https://v.qq.com/x/cover/53q0eh78q97e4d1/m0036vssamm.html"
     }
    ]
   },

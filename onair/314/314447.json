@@ -7,7 +7,7 @@
    "id": "28231929",
    "week": 7,
    "time": "0200",
-   "sort": 9
+   "sort": 10
   },
   {
    "site": "acfun",
@@ -126,6 +126,27 @@
      "title": "饺子耳朵 上篇",
      "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1764056",
      "time": "2021-02-06T18:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996303,
+   "sort": 6,
+   "name": "餃子の耳・後編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "饺子耳朵·后篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep373981",
+     "time": "2021-02-13T18:00:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 6,
+     "title": "饺子耳朵 下篇",
+     "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1764362",
+     "time": "2021-02-13T18:00:00.000Z"
     }
    ]
   }

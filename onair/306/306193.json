@@ -5,21 +5,21 @@
   {
    "site": "qq",
    "id": "m/mzc002009b3n1il",
-   "sort": 18
+   "sort": 19
   },
   {
    "site": "bilibili",
    "id": "28229900",
    "week": 6,
    "time": "1800",
-   "sort": 20
+   "sort": 21
   },
   {
    "site": "iqiyi",
    "id": "a_xnuvg1xks1",
    "week": 6,
    "time": "1800",
-   "sort": 18
+   "sort": 19
   }
  ],
  "eps": [
@@ -506,6 +506,33 @@
      "title": "杀生丸与麒麟丸",
      "url": "http://www.iqiyi.com/v_ucrlhk5ks4.html",
      "time": "2021-02-06T10:00:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994489,
+   "sort": 19,
+   "name": "愛矢姫の紅夜叉退治",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 19,
+     "title": "半妖的夜叉姬_19",
+     "url": "https://v.qq.com/x/cover/mzc002009b3n1il/s0035kehfcv.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "爱矢姬的红夜叉讨伐",
+     "url": "https://www.bilibili.com/bangumi/play/ep341451",
+     "time": "2021-02-13T10:00:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 19,
+     "title": "爱失姬的红夜叉讨伐",
+     "url": "http://www.iqiyi.com/v_gs4fbj2d4o.html",
+     "time": "2021-02-13T10:00:04.000Z"
     }
    ]
   }
