@@ -6,6 +6,11 @@
    "site": "bilibili",
    "id": "5020",
    "sort": 13
+  },
+  {
+   "site": "qq",
+   "id": "q/qdnui7dqxkwl2ib",
+   "sort": 24
   }
  ],
  "eps": [
@@ -20,6 +25,12 @@
      "title": "世界或自己",
      "url": "https://www.bilibili.com/bangumi/play/ep90821",
      "time": "2016-07-02T16:00:01.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "Rewrite_01",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/g0034cg1zym.html"
     }
    ]
   },
@@ -34,6 +45,12 @@
      "title": "青春伊始的地方",
      "url": "https://www.bilibili.com/bangumi/play/ep90948",
      "time": "2016-07-09T16:00:01.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "Rewrite_02",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/g0034l5auvz.html"
     }
    ]
   },
@@ -48,6 +65,12 @@
      "title": "欢迎光临 超常现象",
      "url": "https://www.bilibili.com/bangumi/play/ep90949",
      "time": "2016-07-16T16:00:01.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "Rewrite_03",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/w0034q6zw7l.html"
     }
    ]
   },
@@ -62,6 +85,12 @@
      "title": "直到回到那天为止",
      "url": "https://www.bilibili.com/bangumi/play/ep90950",
      "time": "2016-07-23T16:00:01.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "Rewrite_04",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/d0034f4rz0k.html"
     }
    ]
   },
@@ -76,6 +105,12 @@
      "title": "旭春花",
      "url": "https://www.bilibili.com/bangumi/play/ep90951",
      "time": "2016-07-30T16:00:02.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "Rewrite_05",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/j0034iwexex.html"
     }
    ]
   },
@@ -90,6 +125,12 @@
      "title": "超自研活动记录",
      "url": "https://www.bilibili.com/bangumi/play/ep90952",
      "time": "2016-08-06T16:00:01.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "Rewrite_06",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/d00347440bl.html"
     }
    ]
   },
@@ -104,6 +145,12 @@
      "title": "失去的地方",
      "url": "https://www.bilibili.com/bangumi/play/ep90953",
      "time": "2016-08-13T16:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "Rewrite_07",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/v0034o604ma.html"
     }
    ]
   },
@@ -118,6 +165,12 @@
      "title": "吾名是小篝",
      "url": "https://www.bilibili.com/bangumi/play/ep90954",
      "time": "2016-08-20T16:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "Rewrite_08",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/w0034ecjyx1.html"
     }
    ]
   },
@@ -132,6 +185,12 @@
      "title": "开始转动的命运",
      "url": "https://www.bilibili.com/bangumi/play/ep90955",
      "time": "2016-08-27T16:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "Rewrite_09",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/c0034zmkszf.html"
     }
    ]
   },
@@ -146,6 +205,12 @@
      "title": "只是、作为朋友",
      "url": "https://www.bilibili.com/bangumi/play/ep90956",
      "time": "2016-09-03T16:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "Rewrite_10",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/p0034f91cyj.html"
     }
    ]
   },
@@ -160,6 +225,12 @@
      "title": "倒计时",
      "url": "https://www.bilibili.com/bangumi/play/ep90957",
      "time": "2016-09-10T16:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "Rewrite_11",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/o0034b8p7km.html"
     }
    ]
   },
@@ -174,6 +245,12 @@
      "title": "毁灭之歌",
      "url": "https://www.bilibili.com/bangumi/play/ep90958",
      "time": "2016-09-17T16:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "Rewrite_12",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/c00345cvwbh.html"
     }
    ]
   },
@@ -188,6 +265,12 @@
      "title": "与你许下的约定",
      "url": "https://www.bilibili.com/bangumi/play/ep90959",
      "time": "2016-09-24T16:00:10.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 13,
+     "title": "Rewrite_13",
+     "url": "https://v.qq.com/x/cover/qdnui7dqxkwl2ib/t0034cn4vik.html"
     }
    ]
   }
