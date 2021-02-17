@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231931",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -76,6 +76,20 @@
      "title": "501 要揭穿谎言了吗",
      "url": "https://www.bilibili.com/bangumi/play/ep374384",
      "time": "2021-02-09T16:45:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994912,
+   "sort": 6,
+   "name": "502、入隊しちゃいます？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "502 要入队了？",
+     "url": "https://www.bilibili.com/bangumi/play/ep374385",
+     "time": "2021-02-16T16:45:01.000Z"
     }
    ]
   }

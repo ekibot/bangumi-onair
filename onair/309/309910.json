@@ -19,7 +19,7 @@
    "id": "a_19rrh1jyy5",
    "week": 2,
    "time": "0130",
-   "sort": 18
+   "sort": 19
   }
  ],
  "eps": [
@@ -476,7 +476,7 @@
   {
    "id": 996223,
    "sort": 19,
-   "name": "「犬」",
+   "name": "「解散の危機」、「すもう部屋」、「犬」",
    "sites": [
     {
      "site": "bilibili",
@@ -484,6 +484,13 @@
      "title": "狗 等",
      "url": "https://www.bilibili.com/bangumi/play/ep341092",
      "time": "2021-02-15T17:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 19,
+     "title": "阿松 第3季 第19集",
+     "url": "http://www.iqiyi.com/v_2ephggqtro8.html",
+     "time": "2021-02-16T06:59:43.000Z"
     }
    ]
   }
