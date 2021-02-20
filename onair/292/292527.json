@@ -7,7 +7,7 @@
    "id": "28231807",
    "week": 5,
    "time": "2030",
-   "sort": 8
+   "sort": 9
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "开始玩游戏内小游戏的话真的就停不下来了",
      "url": "https://www.bilibili.com/bangumi/play/ep374611",
      "time": "2021-02-12T12:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994840,
+   "sort": 7,
+   "name": "Lv.7 師匠キャラがボスになると詰むくらい強かったりする",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "师父如果变成boss的话 有时会强到让人卡关",
+     "url": "https://www.bilibili.com/bangumi/play/ep374612",
+     "time": "2021-02-19T12:30:01.000Z"
     }
    ]
   }
