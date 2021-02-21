@@ -5,21 +5,21 @@
   {
    "site": "qq",
    "id": "m/mzc002009b3n1il",
-   "sort": 19
+   "sort": 20
   },
   {
    "site": "bilibili",
    "id": "28229900",
    "week": 6,
    "time": "1800",
-   "sort": 21
+   "sort": 22
   },
   {
    "site": "iqiyi",
    "id": "a_xnuvg1xks1",
    "week": 6,
    "time": "1800",
-   "sort": 19
+   "sort": 20
   }
  ],
  "eps": [
@@ -533,6 +533,33 @@
      "title": "爱失姬的红夜叉讨伐",
      "url": "http://www.iqiyi.com/v_gs4fbj2d4o.html",
      "time": "2021-02-13T10:00:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994490,
+   "sort": 20,
+   "name": "半妖の隠れ里",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 20,
+     "title": "半妖的夜叉姬_20",
+     "url": "https://v.qq.com/x/cover/mzc002009b3n1il/t0036ui2als.html"
+    },
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "半妖的避世村",
+     "url": "https://www.bilibili.com/bangumi/play/ep341452",
+     "time": "2021-02-20T10:00:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 20,
+     "title": "半妖的避世村",
+     "url": "http://www.iqiyi.com/v_18db1pj4eh4.html",
+     "time": "2021-02-20T10:00:06.000Z"
     }
    ]
   }

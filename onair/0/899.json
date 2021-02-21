@@ -7,14 +7,14 @@
    "id": "a_19rrhc0gyd",
    "week": 6,
    "time": "1930",
-   "sort": 1054
+   "sort": 1055
   },
   {
    "site": "qq",
    "id": "5/53q0eh78q97e4d1",
    "week": 6,
    "time": "1930",
-   "sort": 1054
+   "sort": 1055
   },
   {
    "site": "youku",
@@ -26,7 +26,7 @@
   {
    "site": "bilibili",
    "id": "28228775",
-   "sort": 1055
+   "sort": 1056
   }
  ],
  "eps": [
@@ -33995,6 +33995,19 @@
      "title": "寻找玛丽亚（上集）",
      "url": "https://www.bilibili.com/bangumi/play/ep322841",
      "time": "2020-04-30T11:01:02.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1055,
+     "title": "仇恨的平底锅",
+     "url": "http://www.iqiyi.com/v_auzuzkldq0.html",
+     "time": "2021-02-20T11:30:04.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1055,
+     "title": "第1055集 仇恨的平底锅",
+     "url": "https://v.qq.com/x/cover/53q0eh78q97e4d1/p0036wj58z7.html"
     }
    ]
   },

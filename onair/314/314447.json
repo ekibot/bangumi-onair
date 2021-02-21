@@ -7,7 +7,7 @@
    "id": "28231929",
    "week": 7,
    "time": "0200",
-   "sort": 10
+   "sort": 11
   },
   {
    "site": "acfun",
@@ -147,6 +147,27 @@
      "title": "饺子耳朵 下篇",
      "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1764362",
      "time": "2021-02-13T18:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996304,
+   "sort": 7,
+   "name": "頭からポップコーン・前編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "头上冒出的爆米花·前篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep373982",
+     "time": "2021-02-20T18:00:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 7,
+     "title": "头上长出爆米花 上篇",
+     "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1765123",
+     "time": "2021-02-20T18:00:00.000Z"
     }
    ]
   }
