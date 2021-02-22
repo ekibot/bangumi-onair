@@ -7,7 +7,7 @@
    "id": "28231884",
    "week": 7,
    "time": "2230",
-   "sort": 7
+   "sort": 8
   },
   {
    "site": "acfun",
@@ -20,14 +20,14 @@
    "id": "a_ery42cmbyx",
    "week": 7,
    "time": "2230",
-   "sort": 6
+   "sort": 7
   },
   {
    "site": "qq",
    "id": "m/mzc00200b8tg7au",
    "week": 7,
    "time": "2230",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -239,6 +239,40 @@
      "sort": 6,
      "title": "怪物事变_06",
      "url": "https://v.qq.com/x/cover/mzc00200b8tg7au/s003623271b.html"
+    }
+   ]
+  },
+  {
+   "id": 1000521,
+   "sort": 7,
+   "name": "故郷",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "「故乡」",
+     "url": "https://www.bilibili.com/bangumi/play/ep373994",
+     "time": "2021-02-21T14:30:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 7,
+     "title": "故乡",
+     "url": "https://www.acfun.cn/bangumi/ab6004594_36188_1765202",
+     "time": "2021-02-21T14:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "故乡",
+     "url": "http://www.iqiyi.com/v_15r74m6t3x8.html",
+     "time": "2021-02-21T14:30:04.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "怪物事变_07",
+     "url": "https://v.qq.com/x/cover/mzc00200b8tg7au/a00360lewvi.html"
     }
    ]
   }
