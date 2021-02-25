@@ -7,7 +7,7 @@
    "id": "28231927",
    "week": 3,
    "time": "2100",
-   "sort": 8
+   "sort": 9
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "血泪洗刷吾之圣都",
      "url": "https://www.bilibili.com/bangumi/play/ep374029",
      "time": "2021-02-17T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996328,
+   "sort": 6,
+   "name": "死の聖なるかな",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "死亡之圣也",
+     "url": "https://www.bilibili.com/bangumi/play/ep374030",
+     "time": "2021-02-24T13:00:01.000Z"
     }
    ]
   }

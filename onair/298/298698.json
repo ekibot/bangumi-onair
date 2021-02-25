@@ -7,7 +7,7 @@
    "id": "28231741",
    "week": 3,
    "time": "1825",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "桃源乡的仙君",
      "url": "https://www.bilibili.com/bangumi/play/ep374481",
      "time": "2021-02-17T10:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 941794,
+   "sort": 7,
+   "name": "呪いではなく",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "并非诅咒",
+     "url": "https://www.bilibili.com/bangumi/play/ep374482",
+     "time": "2021-02-24T10:25:01.000Z"
     }
    ]
   }
