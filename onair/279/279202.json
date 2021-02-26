@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231852",
-   "sort": 8,
+   "sort": 9,
    "week": 5,
    "time": "0155"
   }
@@ -106,6 +106,20 @@
      "title": "",
      "url": "https://www.bilibili.com/bangumi/play/ep374560",
      "time": "2021-02-18T17:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996256,
+   "sort": 7,
+   "name": "EPISODE7",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep374561",
+     "time": "2021-02-25T17:55:01.000Z"
     }
    ]
   }
