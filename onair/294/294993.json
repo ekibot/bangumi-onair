@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28229899",
-   "sort": 36,
+   "sort": 37,
    "week": 6,
    "time": "0125"
   },
@@ -363,6 +363,20 @@
      "title": "黑闪",
      "url": "https://www.bilibili.com/bangumi/play/ep375400",
      "time": "2021-02-19T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 995464,
+   "sort": 20,
+   "name": "規格外",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "超规格",
+     "url": "https://www.bilibili.com/bangumi/play/ep375401",
+     "time": "2021-02-26T17:25:01.000Z"
     }
    ]
   }
