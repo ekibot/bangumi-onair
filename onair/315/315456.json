@@ -7,7 +7,7 @@
    "id": "28231854",
    "week": 7,
    "time": "0230",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "井浅河深",
      "url": "https://www.bilibili.com/bangumi/play/ep374687",
      "time": "2021-02-20T18:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996293,
+   "sort": 8,
+   "name": "#08 PART 宿命のトーナメント！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "宿命的竞标赛！",
+     "url": "https://www.bilibili.com/bangumi/play/ep374688",
+     "time": "2021-02-27T18:30:01.000Z"
     }
    ]
   }

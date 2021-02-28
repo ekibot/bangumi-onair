@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231816",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -104,6 +104,20 @@
      "title": "癌细胞Ⅱ（前篇）",
      "url": "https://www.bilibili.com/bangumi/play/ep373884",
      "time": "2021-02-20T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994878,
+   "sort": 8,
+   "name": "がん細胞II(後編)",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "癌细胞Ⅱ（后篇）",
+     "url": "https://www.bilibili.com/bangumi/play/ep373885",
+     "time": "2021-02-27T16:00:01.000Z"
     }
    ]
   }
