@@ -7,7 +7,7 @@
    "id": "a_19rrhwmdmd",
    "week": 7,
    "time": "中午",
-   "sort": 37
+   "sort": 38
   }
  ],
  "eps": [
@@ -526,6 +526,20 @@
      "title": "美美的战争",
      "url": "http://www.iqiyi.com/v_mgjc3cbthk.html",
      "time": "2021-02-21T02:35:45.000Z"
+    }
+   ]
+  },
+  {
+   "id": 968492,
+   "sort": 38,
+   "name": "燃える 蒼き友情",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 38,
+     "title": "燃烧吧 苍蓝的友情",
+     "url": "http://www.iqiyi.com/v_168f5kxeb1c.html",
+     "time": "2021-02-28T03:23:28.000Z"
     }
    ]
   }
