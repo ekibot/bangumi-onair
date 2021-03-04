@@ -7,7 +7,7 @@
    "id": "28231927",
    "week": 3,
    "time": "2100",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "死亡之圣也",
      "url": "https://www.bilibili.com/bangumi/play/ep374030",
      "time": "2021-02-24T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996329,
+   "sort": 7,
+   "name": "その魔術が彼を殺すと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "这个魔术会杀掉他",
+     "url": "https://www.bilibili.com/bangumi/play/ep374031",
+     "time": "2021-03-03T13:00:01.000Z"
     }
    ]
   }

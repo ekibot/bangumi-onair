@@ -7,7 +7,7 @@
    "id": "28231741",
    "week": 3,
    "time": "1825",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "并非诅咒",
      "url": "https://www.bilibili.com/bangumi/play/ep374482",
      "time": "2021-02-24T10:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 941795,
+   "sort": 8,
+   "name": "最古の古来種",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "最始的古代神",
+     "url": "https://www.bilibili.com/bangumi/play/ep374483",
+     "time": "2021-03-03T10:25:01.000Z"
     }
    ]
   }
