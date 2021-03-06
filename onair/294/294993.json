@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28229899",
-   "sort": 37,
+   "sort": 38,
    "week": 6,
    "time": "0125"
   },
@@ -377,6 +377,20 @@
      "title": "超规格",
      "url": "https://www.bilibili.com/bangumi/play/ep375401",
      "time": "2021-02-26T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 995465,
+   "sort": 21,
+   "name": "呪術甲子園",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "咒术甲子园",
+     "url": "https://www.bilibili.com/bangumi/play/ep375402",
+     "time": "2021-03-05T17:25:01.000Z"
     }
    ]
   }
