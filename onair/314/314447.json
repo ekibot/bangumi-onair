@@ -7,7 +7,7 @@
    "id": "28231929",
    "week": 7,
    "time": "0200",
-   "sort": 12
+   "sort": 13
   },
   {
    "site": "acfun",
@@ -189,6 +189,27 @@
      "title": "头上长出爆米花 下篇",
      "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1765778",
      "time": "2021-02-27T18:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996306,
+   "sort": 9,
+   "name": "怪廻迷宮",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "怪回迷宫",
+     "url": "https://www.bilibili.com/bangumi/play/ep373984",
+     "time": "2021-03-06T18:00:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 9,
+     "title": "怪回迷宫",
+     "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1766452",
+     "time": "2021-03-06T18:00:00.000Z"
     }
    ]
   }
