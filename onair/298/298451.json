@@ -7,7 +7,7 @@
    "id": "a_19rrhwmdmd",
    "week": 7,
    "time": "中午",
-   "sort": 38
+   "sort": 39
   }
  ],
  "eps": [
@@ -540,6 +540,20 @@
      "title": "燃烧吧 苍蓝的友情",
      "url": "http://www.iqiyi.com/v_168f5kxeb1c.html",
      "time": "2021-02-28T03:23:28.000Z"
+    }
+   ]
+  },
+  {
+   "id": 968493,
+   "sort": 39,
+   "name": "ジャガモン ポテト地獄",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 39,
+     "title": "马铃薯兽 土豆地狱",
+     "url": "http://www.iqiyi.com/v_af8419x4vs.html",
+     "time": "2021-03-07T03:46:41.000Z"
     }
    ]
   }
