@@ -7,7 +7,7 @@
    "id": "28231833",
    "week": 1,
    "time": "2230",
-   "sort": 17
+   "sort": 18
   },
   {
    "site": "acfun",
@@ -20,7 +20,7 @@
    "id": "m/mzc00200gj8jiut",
    "week": 1,
    "time": "2230",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -306,6 +306,33 @@
      "sort": 9,
      "title": "好比是最终迷宫前的少年到新手村生活一般的故事_09",
      "url": "https://v.qq.com/x/cover/mzc00200gj8jiut/o00365ilhzr.html"
+    }
+   ]
+  },
+  {
+   "id": 994747,
+   "sort": 10,
+   "name": "たとえば「ネバーランドに一泊二日してくる」並みにありえない伝説の村への帰郷",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "好比是跟“去幻想岛两日一夜游”一样令人难以置信的传奇村落归乡之旅",
+     "url": "https://www.bilibili.com/bangumi/play/ep373908",
+     "time": "2021-03-08T14:30:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 10,
+     "title": "好比是跟“去尼泊尔玩两天一夜就回来”同样不现实的前往传说之村的回乡之旅",
+     "url": "https://www.acfun.cn/bangumi/ab6004592_36188_1766753",
+     "time": "2021-03-08T14:30:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "好比是最终迷宫前的少年到新手村生活一般的故事_10",
+     "url": "https://v.qq.com/x/cover/mzc00200gj8jiut/f0036qyfuqw.html"
     }
    ]
   }
