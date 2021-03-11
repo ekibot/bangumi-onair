@@ -7,7 +7,7 @@
    "id": "28231927",
    "week": 3,
    "time": "2100",
-   "sort": 10
+   "sort": 11
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "这个魔术会杀掉他",
      "url": "https://www.bilibili.com/bangumi/play/ep374031",
      "time": "2021-03-03T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996330,
+   "sort": 8,
+   "name": "詩聖の間",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "诗圣之间",
+     "url": "https://www.bilibili.com/bangumi/play/ep374032",
+     "time": "2021-03-10T13:00:01.000Z"
     }
    ]
   }
