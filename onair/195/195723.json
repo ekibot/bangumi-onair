@@ -7,7 +7,7 @@
    "id": "28231932",
    "week": 2,
    "time": "2030",
-   "sort": 14
+   "sort": 15
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "「创世及其他诸事纪」",
      "url": "https://www.bilibili.com/bangumi/play/ep374351",
      "time": "2021-03-09T12:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 673092,
+   "sort": 11,
+   "name": "わたしたち死んだものが目覚めたら",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "咱们死人醒来的时候",
+     "url": "https://www.bilibili.com/bangumi/play/ep374352",
+     "time": "2021-03-16T12:30:01.000Z"
     }
    ]
   }

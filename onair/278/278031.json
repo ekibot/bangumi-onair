@@ -7,14 +7,14 @@
    "id": "28231812",
    "week": 2,
    "time": "2330",
-   "sort": 13
+   "sort": 14
   },
   {
    "site": "iqiyi",
    "id": "a_giqcbo152p",
    "week": 2,
    "time": "2330",
-   "sort": 10
+   "sort": 11
   }
  ],
  "eps": [
@@ -155,6 +155,20 @@
      "title": "赌上一切",
      "url": "https://www.bilibili.com/bangumi/play/ep374009",
      "time": "2021-03-09T15:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994956,
+   "sort": 34,
+   "name": "神之怒",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 34,
+     "title": "神之怒",
+     "url": "https://www.bilibili.com/bangumi/play/ep374010",
+     "time": "2021-03-16T15:30:01.000Z"
     }
    ]
   }

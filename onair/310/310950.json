@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231931",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -132,6 +132,20 @@
      "title": "501 要策动阴谋了？",
      "url": "https://www.bilibili.com/bangumi/play/ep374388",
      "time": "2021-03-09T16:45:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994916,
+   "sort": 10,
+   "name": "502、はじめてのおつかいしちゃいます？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "502 要第一次跑腿了？",
+     "url": "https://www.bilibili.com/bangumi/play/ep374389",
+     "time": "2021-03-16T16:45:01.000Z"
     }
    ]
   }
