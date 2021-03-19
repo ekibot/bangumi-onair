@@ -7,7 +7,7 @@
    "id": "28231928",
    "week": 5,
    "time": "0130",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "英雄与天才 1",
      "url": "https://www.bilibili.com/bangumi/play/ep374550",
      "time": "2021-03-11T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 989973,
+   "sort": 11,
+   "name": "英雄と天才2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "英雄与天才 2",
+     "url": "https://www.bilibili.com/bangumi/play/ep374551",
+     "time": "2021-03-18T17:30:01.000Z"
     }
    ]
   }

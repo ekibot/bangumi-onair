@@ -7,21 +7,21 @@
    "id": "28231817",
    "week": 4,
    "time": "2230",
-   "sort": 16
+   "sort": 17
   },
   {
    "site": "iqiyi",
    "id": "a_1c0l9eb3b6x",
    "week": 4,
    "time": "2230",
-   "sort": 9
+   "sort": 10
   },
   {
    "site": "qq",
    "id": "m/mzc00200dux4h7o",
    "week": 4,
    "time": "2230",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -265,6 +265,33 @@
      "sort": 9,
      "title": "Ｄｒ．ＳＴＯＮＥ 石纪元 第2季_09",
      "url": "https://v.qq.com/x/cover/mzc00200dux4h7o/r0036dgoriw.html"
+    }
+   ]
+  },
+  {
+   "id": 994968,
+   "sort": 10,
+   "name": "人類最強のタッグ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "人类最强组合",
+     "url": "https://www.bilibili.com/bangumi/play/ep374023",
+     "time": "2021-03-18T14:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "人类最强组合",
+     "url": "http://www.iqiyi.com/v_oh6508soic.html",
+     "time": "2021-03-18T14:30:04.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "Ｄｒ．ＳＴＯＮＥ 石纪元 第2季_10",
+     "url": "https://v.qq.com/x/cover/mzc00200dux4h7o/v0036ocahuv.html"
     }
    ]
   }
