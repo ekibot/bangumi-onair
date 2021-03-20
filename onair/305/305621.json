@@ -7,7 +7,7 @@
    "id": "28229889",
    "week": 6,
    "time": "0123",
-   "sort": 25
+   "sort": 26
   },
   {
    "site": "youku",
@@ -17,7 +17,7 @@
   {
    "site": "iqiyi",
    "id": "a_1rfl8eqv7bx",
-   "sort": 24,
+   "sort": 25,
    "week": 6,
    "time": "0123"
   }
@@ -608,6 +608,27 @@
      "title": "共同迎战的人们",
      "url": "http://www.iqiyi.com/v_ilc7m5zncg.html",
      "time": "2021-03-12T17:23:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996242,
+   "sort": 25,
+   "name": "闇咲く、復讐の刃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 25,
+     "title": "绽放在黑暗中的复仇之刃",
+     "url": "https://www.bilibili.com/bangumi/play/ep370338",
+     "time": "2021-03-19T17:23:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 25,
+     "title": "黑暗中盛开的复仇之刃",
+     "url": "http://www.iqiyi.com/v_16rmfcund5k.html",
+     "time": "2021-03-19T17:23:03.000Z"
     }
    ]
   }

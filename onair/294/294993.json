@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28229899",
-   "sort": 39,
+   "sort": 40,
    "week": 6,
    "time": "0125"
   },
@@ -405,6 +405,20 @@
      "title": "起始雷同",
      "url": "https://www.bilibili.com/bangumi/play/ep375403",
      "time": "2021-03-12T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 995467,
+   "sort": 23,
+   "name": "起首雷同 -弐-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "起始雷同 二",
+     "url": "https://www.bilibili.com/bangumi/play/ep391795",
+     "time": "2021-03-19T17:25:01.000Z"
     }
    ]
   }
