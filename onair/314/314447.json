@@ -7,7 +7,7 @@
    "id": "28231929",
    "week": 7,
    "time": "0200",
-   "sort": 14
+   "sort": 15
   },
   {
    "site": "acfun",
@@ -231,6 +231,27 @@
      "title": "悠流深怪物语 上篇",
      "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1767349",
      "time": "2021-03-13T18:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996308,
+   "sort": 11,
+   "name": "トール深怪物語・後編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "悠流深怪物语·后篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep373986",
+     "time": "2021-03-20T18:00:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 11,
+     "title": "悠流深怪物语 下篇",
+     "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1767818",
+     "time": "2021-03-20T18:00:00.000Z"
     }
    ]
   }
