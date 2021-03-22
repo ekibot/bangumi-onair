@@ -7,7 +7,7 @@
    "id": "28231884",
    "week": 7,
    "time": "2230",
-   "sort": 11
+   "sort": 12
   },
   {
    "site": "acfun",
@@ -20,14 +20,14 @@
    "id": "a_ery42cmbyx",
    "week": 7,
    "time": "2230",
-   "sort": 10
+   "sort": 11
   },
   {
    "site": "qq",
    "id": "m/mzc00200b8tg7au",
    "week": 7,
    "time": "2230",
-   "sort": 10
+   "sort": 11
   }
  ],
  "eps": [
@@ -375,6 +375,40 @@
      "sort": 10,
      "title": "怪物事变_10",
      "url": "https://v.qq.com/x/cover/mzc00200b8tg7au/l0036s08g7r.html"
+    }
+   ]
+  },
+  {
+   "id": 1000525,
+   "sort": 11,
+   "name": "記憶",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "「记忆」",
+     "url": "https://www.bilibili.com/bangumi/play/ep373998",
+     "time": "2021-03-21T14:30:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 11,
+     "title": "记忆",
+     "url": "https://www.acfun.cn/bangumi/ab6004594_36188_1767819",
+     "time": "2021-03-21T14:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "记忆",
+     "url": "http://www.iqiyi.com/v_1um89ar4oak.html",
+     "time": "2021-03-21T14:30:04.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "怪物事变_11",
+     "url": "https://v.qq.com/x/cover/mzc00200b8tg7au/i0036028dyb.html"
     }
    ]
   }

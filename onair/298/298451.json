@@ -7,7 +7,7 @@
    "id": "a_19rrhwmdmd",
    "week": 7,
    "time": "中午",
-   "sort": 39
+   "sort": 40
   }
  ],
  "eps": [
@@ -532,7 +532,7 @@
   {
    "id": 968492,
    "sort": 38,
-   "name": "燃える 蒼き友情",
+   "name": "燃える　蒼き友情",
    "sites": [
     {
      "site": "iqiyi",
@@ -554,6 +554,20 @@
      "title": "马铃薯兽 土豆地狱",
      "url": "http://www.iqiyi.com/v_af8419x4vs.html",
      "time": "2021-03-07T03:46:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 968494,
+   "sort": 40,
+   "name": "決めろ！必殺シュート",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 40,
+     "title": "决定了! 必杀射门!",
+     "url": "http://www.iqiyi.com/v_20lwlgl9hso.html",
+     "time": "2021-03-21T03:21:10.000Z"
     }
    ]
   }
