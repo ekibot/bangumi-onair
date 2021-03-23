@@ -1,0 +1,27 @@
+{
+ "id": "84991",
+ "name": "ルパン三世 EPISODE:0 ファーストコンタクト",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3950",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 325083,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "鲁邦三世 初次交锋",
+     "url": "https://www.bilibili.com/bangumi/play/ep87340",
+     "time": "2016-05-04T06:51:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -7,7 +7,7 @@
    "id": "28232238",
    "week": 1,
    "time": "2300",
-   "sort": 13
+   "sort": 14
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "这种感觉是…",
      "url": "https://www.bilibili.com/bangumi/play/ep374316",
      "time": "2021-03-15T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996744,
+   "sort": 12,
+   "name": "ふたり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "两个人",
+     "url": "https://www.bilibili.com/bangumi/play/ep374317",
+     "time": "2021-03-22T15:00:01.000Z"
     }
    ]
   }
