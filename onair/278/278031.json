@@ -7,14 +7,14 @@
    "id": "28231812",
    "week": 2,
    "time": "2330",
-   "sort": 14
+   "sort": 15
   },
   {
    "site": "iqiyi",
    "id": "a_giqcbo152p",
    "week": 2,
    "time": "2330",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -169,6 +169,20 @@
      "title": "神之怒",
      "url": "https://www.bilibili.com/bangumi/play/ep374010",
      "time": "2021-03-16T15:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994957,
+   "sort": 35,
+   "name": "魔王誕生",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 35,
+     "title": "魔王诞生",
+     "url": "https://www.bilibili.com/bangumi/play/ep374011",
+     "time": "2021-03-23T15:30:01.000Z"
     }
    ]
   }

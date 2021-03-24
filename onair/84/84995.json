@@ -1,0 +1,27 @@
+{
+ "id": "84995",
+ "name": "ルパン三世 天使の策略～夢のカケラは殺しの香り～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3940",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 325086,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "鲁邦三世：天使的策略～梦的碎片是杀人的香味～",
+     "url": "https://www.bilibili.com/bangumi/play/ep87329",
+     "time": "2021-03-23T03:29:00.000Z"
+    }
+   ]
+  }
+ ]
+}
