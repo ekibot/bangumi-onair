@@ -7,7 +7,7 @@
    "id": "28232005",
    "week": 3,
    "time": "1735",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "太阳的救赎",
      "url": "https://www.bilibili.com/bangumi/play/ep374453",
      "time": "2021-03-17T09:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996320,
+   "sort": 11,
+   "name": "神と対峙する人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "与神对峙的人",
+     "url": "https://www.bilibili.com/bangumi/play/ep374454",
+     "time": "2021-03-24T09:35:01.000Z"
     }
    ]
   }

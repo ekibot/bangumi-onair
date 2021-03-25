@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231934",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -160,6 +160,20 @@
      "title": "游击小队主宰(Juggernaut)",
      "url": "https://www.bilibili.com/bangumi/play/ep374499",
      "time": "2021-03-17T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994773,
+   "sort": 12,
+   "name": "世界を救う絆",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "拯救世界的友情",
+     "url": "https://www.bilibili.com/bangumi/play/ep374500",
+     "time": "2021-03-24T16:30:01.000Z"
     }
    ]
   }
