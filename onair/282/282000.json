@@ -7,7 +7,7 @@
    "id": "28231808",
    "week": 5,
    "time": "0128",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "姐妹战争 前半",
      "url": "https://www.bilibili.com/bangumi/play/ep374539",
      "time": "2021-03-18T17:28:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994797,
+   "sort": 12,
+   "name": "シスターズウォー 後半戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "姐妹战争 后半",
+     "url": "https://www.bilibili.com/bangumi/play/ep374540",
+     "time": "2021-03-25T17:30:01.000Z"
     }
    ]
   }
