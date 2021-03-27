@@ -7,7 +7,7 @@
    "id": "28231807",
    "week": 5,
    "time": "2030",
-   "sort": 13
+   "sort": 14
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "有时一个选项就会改变一切",
      "url": "https://www.bilibili.com/bangumi/play/ep374616",
      "time": "2021-03-19T12:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994845,
+   "sort": 12,
+   "name": "Lv.12 ヒロインにしか装備できないアイテムには特別な効果がある",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "只有女主角能装备的道具有特殊效果",
+     "url": "https://www.bilibili.com/bangumi/play/ep374617",
+     "time": "2021-03-26T12:30:01.000Z"
     }
    ]
   }
