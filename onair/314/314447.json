@@ -7,7 +7,7 @@
    "id": "28231929",
    "week": 7,
    "time": "0200",
-   "sort": 15
+   "sort": 16
   },
   {
    "site": "acfun",
@@ -252,6 +252,27 @@
      "title": "悠流深怪物语 下篇",
      "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1767818",
      "time": "2021-03-20T18:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996309,
+   "sort": 12,
+   "name": "怪病医ラムネ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "怪病医拉姆尼",
+     "url": "https://www.bilibili.com/bangumi/play/ep373987",
+     "time": "2021-03-27T18:00:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 12,
+     "title": "怪病医拉姆尼",
+     "url": "https://www.acfun.cn/bangumi/ab6004595_36188_1768486",
+     "time": "2021-03-27T18:00:00.000Z"
     }
    ]
   }

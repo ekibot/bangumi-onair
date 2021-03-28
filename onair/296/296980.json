@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 26
+   "sort": 27
   },
   {
    "site": "youku",
@@ -17,7 +17,7 @@
   {
    "site": "iqiyi",
    "id": "a_18481af6vfd",
-   "sort": 24,
+   "sort": 25,
    "week": 6,
    "time": "0930"
   }
@@ -602,6 +602,27 @@
      "title": "龙骑将巴兰",
      "url": "http://www.iqiyi.com/v_1xk915cuxac.html",
      "time": "2021-03-20T01:30:04.000Z"
+    }
+   ]
+  },
+  {
+   "id": 998306,
+   "sort": 25,
+   "name": "戦慄の竜闘気",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 25,
+     "title": "战栗的龙斗气",
+     "url": "https://www.bilibili.com/bangumi/play/ep341357",
+     "time": "2021-03-27T01:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 25,
+     "title": "战栗的龙斗气",
+     "url": "http://www.iqiyi.com/v_2cscy35htew.html",
+     "time": "2021-03-27T01:30:05.000Z"
     }
    ]
   }
