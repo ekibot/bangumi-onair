@@ -7,12 +7,12 @@
    "id": "28228277",
    "week": 2,
    "time": "1755",
-   "sort": 52
+   "sort": 53
   },
   {
    "site": "iqiyi",
    "id": "a_19rrhlhld9",
-   "sort": 50,
+   "sort": 51,
    "week": 2,
    "time": "1755"
   }
@@ -1051,6 +1051,20 @@
      "title": "对战!影之诗!",
      "url": "https://www.bilibili.com/bangumi/play/ep339851",
      "time": "2021-03-23T09:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017035,
+   "sort": 48.5,
+   "name": "特別編",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 48.5,
+     "title": "影之诗特别篇",
+     "url": "https://www.bilibili.com/bangumi/play/ep395653",
+     "time": "2021-03-30T10:21:13.000Z"
     }
    ]
   }

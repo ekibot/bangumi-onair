@@ -7,14 +7,14 @@
    "id": "28231812",
    "week": 2,
    "time": "2330",
-   "sort": 15
+   "sort": 16
   },
   {
    "site": "iqiyi",
    "id": "a_giqcbo152p",
    "week": 2,
    "time": "2330",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -183,6 +183,20 @@
      "title": "魔王诞生",
      "url": "https://www.bilibili.com/bangumi/play/ep374011",
      "time": "2021-03-23T15:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 994958,
+   "sort": 36,
+   "name": "解き放たれし者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 36,
+     "title": "被解放之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep374012",
+     "time": "2021-03-30T15:30:01.000Z"
     }
    ]
   }
