@@ -1,0 +1,27 @@
+{
+ "id": "84997",
+ "name": "ルパン三世 霧のエリューシヴ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3944",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 325088,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "鲁邦三世 雾之谜",
+     "url": "https://www.bilibili.com/bangumi/play/ep87333",
+     "time": "2021-03-31T15:44:00.000Z"
+    }
+   ]
+  }
+ ]
+}

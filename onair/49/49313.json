@@ -1,0 +1,27 @@
+{
+ "id": "49313",
+ "name": "ルパン三世 the Last Job",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3951",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 197897,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "鲁邦三世：the last job",
+     "url": "https://www.bilibili.com/bangumi/play/ep87339",
+     "time": "2016-05-04T06:49:00.000Z"
+    }
+   ]
+  }
+ ]
+}

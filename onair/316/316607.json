@@ -7,7 +7,7 @@
    "id": "28231851",
    "week": 2,
    "time": "2300",
-   "sort": 18
+   "sort": 19
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "成熟的稚气",
      "url": "https://www.bilibili.com/bangumi/play/ep374365",
      "time": "2021-03-23T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 999867,
+   "sort": 12,
+   "name": "負けざる戦士",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "不败的战士",
+     "url": "https://www.bilibili.com/bangumi/play/ep374366",
+     "time": "2021-03-31T07:00:00.000Z"
     }
    ]
   }

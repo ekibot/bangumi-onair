@@ -1,0 +1,27 @@
+{
+ "id": "67767",
+ "name": "ルパン三世 ロシアより愛をこめて",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3934",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 251805,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "鲁邦三世：俄罗斯之恋",
+     "url": "https://www.bilibili.com/bangumi/play/ep87319",
+     "time": "2021-03-31T15:39:00.000Z"
+    }
+   ]
+  }
+ ]
+}

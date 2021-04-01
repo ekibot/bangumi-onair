@@ -1,0 +1,27 @@
+{
+ "id": "83012",
+ "name": "ルパン三世 炎の記憶～TOKYO CRISIS～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3945",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 315916,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "鲁邦三世：炎之记忆 东京危机",
+     "url": "https://www.bilibili.com/bangumi/play/ep87334",
+     "time": "2021-03-31T15:42:00.000Z"
+    }
+   ]
+  }
+ ]
+}

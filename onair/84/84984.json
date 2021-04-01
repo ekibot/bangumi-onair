@@ -1,0 +1,27 @@
+{
+ "id": "84984",
+ "name": "ルパン三世 ルパン暗殺指令",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3935",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 325076,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "鲁邦三世：鲁邦暗杀指令",
+     "url": "https://www.bilibili.com/bangumi/play/ep87322",
+     "time": "2021-03-31T14:41:00.000Z"
+    }
+   ]
+  }
+ ]
+}
