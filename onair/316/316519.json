@@ -1,0 +1,28 @@
+{
+ "id": "316519",
+ "name": "ゴジラ S.P",
+ "sites": [
+  {
+   "site": "qq",
+   "id": "m/mzc00200radura8",
+   "week": 4,
+   "time": "2230",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 1016270,
+   "sort": 1,
+   "name": "はるかなるいえじ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "哥斯拉：奇异点_01",
+     "url": "https://v.qq.com/x/cover/mzc00200radura8/q0036ez15cx.html"
+    }
+   ]
+  }
+ ]
+}

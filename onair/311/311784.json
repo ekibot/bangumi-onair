@@ -1,0 +1,40 @@
+{
+ "id": "311784",
+ "name": "ましろのおと",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233923",
+   "sort": 2
+  },
+  {
+   "site": "acfun",
+   "id": "6005304",
+   "week": 6,
+   "time": "0300"
+  }
+ ],
+ "eps": [
+  {
+   "id": 1017436,
+   "sort": 1,
+   "name": "寂寞",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "寂寞",
+     "url": "https://www.bilibili.com/bangumi/play/ep391345",
+     "time": "2021-04-02T19:00:01.000Z"
+    },
+    {
+     "site": "acfun",
+     "sort": 1,
+     "title": "寂寞",
+     "url": "https://www.acfun.cn/bangumi/ab6005304_36188_1768558",
+     "time": "2021-04-02T19:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}

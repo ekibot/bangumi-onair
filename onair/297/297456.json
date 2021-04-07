@@ -1,0 +1,41 @@
+{
+ "id": "297456",
+ "name": "恋と呼ぶには気持ち悪い",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233603",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1017688,
+   "sort": 1,
+   "name": "悪い人では",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "不是坏人",
+     "url": "https://www.bilibili.com/bangumi/play/ep398123",
+     "time": "2021-03-31T10:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017689,
+   "sort": 2,
+   "name": "香水の匂い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "香水的气味",
+     "url": "https://www.bilibili.com/bangumi/play/ep398808",
+     "time": "2021-04-05T12:45:01.000Z"
+    }
+   ]
+  }
+ ]
+}
