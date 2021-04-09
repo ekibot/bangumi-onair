@@ -1,0 +1,43 @@
+{
+ "id": "308558",
+ "name": "SHAMAN KING",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28234037",
+   "week": 4,
+   "time": "1800",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 1017424,
+   "sort": 1,
+   "name": "幽霊と踊る男",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "「与幽灵共舞的男人」",
+     "url": "https://www.bilibili.com/bangumi/play/ep399420",
+     "time": "2021-04-08T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017425,
+   "sort": 2,
+   "name": "もう一人のシャーマン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "「另一位通灵者」",
+     "url": "https://www.bilibili.com/bangumi/play/ep399421",
+     "time": "2021-04-08T10:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

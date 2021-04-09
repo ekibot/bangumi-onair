@@ -1,0 +1,29 @@
+{
+ "id": "287488",
+ "name": "ゾンビランドサガ リベンジ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233251",
+   "week": 4,
+   "time": "2345",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1019225,
+   "sort": 1,
+   "name": "第1話",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "早上好 欢迎回归 SAGA",
+     "url": "https://www.bilibili.com/bangumi/play/ep399472",
+     "time": "2021-04-08T15:45:01.000Z"
+    }
+   ]
+  }
+ ]
+}

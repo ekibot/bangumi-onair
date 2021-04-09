@@ -1,0 +1,29 @@
+{
+ "id": "317691",
+ "name": "極主夫道",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233902",
+   "week": 4,
+   "time": "1900",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 1020564,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "第1章-第6章",
+     "url": "https://www.bilibili.com/bangumi/play/ep399414",
+     "time": "2021-04-08T11:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

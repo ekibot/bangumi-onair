@@ -7,7 +7,7 @@
    "id": "m/mzc00200radura8",
    "week": 4,
    "time": "2230",
-   "sort": 1
+   "sort": 2
   }
  ],
  "eps": [
@@ -21,6 +21,19 @@
      "sort": 1,
      "title": "哥斯拉：奇异点_01",
      "url": "https://v.qq.com/x/cover/mzc00200radura8/q0036ez15cx.html"
+    }
+   ]
+  },
+  {
+   "id": 1017497,
+   "sort": 2,
+   "name": "まなつおにまつり",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "哥斯拉：奇异点_02",
+     "url": "https://v.qq.com/x/cover/mzc00200radura8/g0036okqarr.html"
     }
    ]
   }
