@@ -1,0 +1,29 @@
+{
+ "id": "328032",
+ "name": "BLUE REFLECTION RAY/澪",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233921",
+   "week": 6,
+   "time": "0230",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1016883,
+   "sort": 1,
+   "name": "消えない光",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep391743",
+     "time": "2021-04-09T18:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "309300",
+ "name": "すばらしきこのせかい The Animation",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233920",
+   "week": 6,
+   "time": "0255",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1014251,
+   "sort": 1,
+   "name": "死神ゲーム",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "死神游戏",
+     "url": "https://www.bilibili.com/bangumi/play/ep399484",
+     "time": "2021-04-09T18:55:01.000Z"
+    }
+   ]
+  }
+ ]
+}
