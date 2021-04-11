@@ -1,0 +1,29 @@
+{
+ "id": "308588",
+ "name": "EDENS ZERO",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233912",
+   "week": 7,
+   "time": "0125",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1018676,
+   "sort": 1,
+   "name": "桜舞うソラに",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "飞向樱舞之空",
+     "url": "https://www.bilibili.com/bangumi/play/ep399521",
+     "time": "2021-04-10T17:25:01.000Z"
+    }
+   ]
+  }
+ ]
+}
