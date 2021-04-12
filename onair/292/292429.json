@@ -1,0 +1,43 @@
+{
+ "id": "292429",
+ "name": "ドラゴン、家を買う。",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233919",
+   "week": 7,
+   "time": "2200",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 1017653,
+   "sort": 1,
+   "name": "1軒目 いろんな家",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "第一间 各种房",
+     "url": "https://www.bilibili.com/bangumi/play/ep399508",
+     "time": "2021-04-11T14:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017654,
+   "sort": 2,
+   "name": "2軒目 落ちる家",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "第二间 会掉落的家",
+     "url": "https://www.bilibili.com/bangumi/play/ep399509",
+     "time": "2021-04-11T14:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "294836",
+ "name": "NOMAD メガロボクス2",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233916",
+   "week": 7,
+   "time": "2300",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1017700,
+   "sort": 1,
+   "name": "ROUND1 Los fantasmas tararean un réquiem",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "亡灵们唱着镇魂曲",
+     "url": "https://www.bilibili.com/bangumi/play/ep395228",
+     "time": "2021-04-11T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017701,
+   "sort": 2,
+   "name": "ROUND2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "绝望会给与胆小鬼勇气",
+     "url": "https://www.bilibili.com/bangumi/play/ep395229",
+     "time": "2021-04-11T15:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

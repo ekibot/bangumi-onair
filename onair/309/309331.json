@@ -1,0 +1,29 @@
+{
+ "id": "309331",
+ "name": "バトルアスリーテス大運動会 ReSTART!",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233159",
+   "week": 7,
+   "time": "0030",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1019282,
+   "sort": 1,
+   "name": "オンユアマーク！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "On Your Mark！",
+     "url": "https://www.bilibili.com/bangumi/play/ep399874",
+     "time": "2021-04-11T13:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}
