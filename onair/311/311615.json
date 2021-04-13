@@ -1,0 +1,43 @@
+{
+ "id": "311615",
+ "name": "やくならマグカップも",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233925",
+   "week": 1,
+   "time": "2330",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1017448,
+   "sort": 1,
+   "name": "はじめまして！陶芸部",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "初体验！陶艺社",
+     "url": "https://www.bilibili.com/bangumi/play/ep393394",
+     "time": "2021-04-12T15:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017449,
+   "sort": 2,
+   "name": "陶芸部はとーげんきょう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "陶艺社是世外桃源",
+     "url": "https://www.bilibili.com/bangumi/play/ep393395",
+     "time": "2021-04-12T15:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}
