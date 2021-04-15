@@ -7,7 +7,7 @@
    "id": "28232005",
    "week": 3,
    "time": "1735",
-   "sort": 14
+   "sort": 15
   }
  ],
  "eps": [
@@ -190,6 +190,20 @@
      "title": "永恒旅程的终点",
      "url": "https://www.bilibili.com/bangumi/play/ep395834",
      "time": "2021-04-07T09:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1018390,
+   "sort": 14,
+   "name": "さよなら〈七つの大罪〉",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "永别了「七大罪」",
+     "url": "https://www.bilibili.com/bangumi/play/ep395835",
+     "time": "2021-04-14T09:35:01.000Z"
     }
    ]
   }
