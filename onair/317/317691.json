@@ -7,7 +7,7 @@
    "id": "28233902",
    "week": 4,
    "time": "1900",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "第1章-第6章",
      "url": "https://www.bilibili.com/bangumi/play/ep399414",
      "time": "2021-04-08T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1020565,
+   "sort": 2,
+   "name": "エピソード2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "第7章-第12章",
+     "url": "https://www.bilibili.com/bangumi/play/ep399415",
+     "time": "2021-04-15T11:00:00.000Z"
     }
    ]
   }
