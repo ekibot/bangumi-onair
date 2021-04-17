@@ -7,7 +7,7 @@
    "id": "28231809",
    "week": 5,
    "time": "2130",
-   "sort": 15
+   "sort": 16
   }
  ],
  "eps": [
@@ -190,6 +190,20 @@
      "title": "好耶～是外头～我自由……了？",
      "url": "https://www.bilibili.com/bangumi/play/ep374633",
      "time": "2021-04-09T13:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1009110,
+   "sort": 14,
+   "name": "おまえ反逆？　私、自虐",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "你搞反叛？我，自虐",
+     "url": "https://www.bilibili.com/bangumi/play/ep374634",
+     "time": "2021-04-16T13:30:01.000Z"
     }
    ]
   }
