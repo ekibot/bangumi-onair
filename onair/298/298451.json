@@ -6,8 +6,8 @@
    "site": "iqiyi",
    "id": "a_19rrhwmdmd",
    "week": 7,
-   "time": "中午",
-   "sort": 41
+   "time": "下午",
+   "sort": 43
   }
  ],
  "eps": [
@@ -582,6 +582,34 @@
      "title": "迷雾中的数码宝贝乐园",
      "url": "http://www.iqiyi.com/v_1y4utsp5bco.html",
      "time": "2021-03-28T03:17:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": 968496,
+   "sort": 42,
+   "name": "発明王ガーベモン",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 42,
+     "title": "发明王垃圾桶兽",
+     "url": "http://www.iqiyi.com/v_v6vn0ig684.html",
+     "time": "2021-04-17T07:45:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": 968497,
+   "sort": 43,
+   "name": "激突 キング・オブ・デジモン",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 43,
+     "title": "冲突 数码宝贝之王",
+     "url": "http://www.iqiyi.com/v_16p7n3g50bw.html",
+     "time": "2021-04-17T07:48:12.000Z"
     }
    ]
   }
