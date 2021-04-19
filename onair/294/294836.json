@@ -7,7 +7,7 @@
    "id": "28233916",
    "week": 7,
    "time": "2300",
-   "sort": 4
+   "sort": 5
   }
  ],
  "eps": [
@@ -36,6 +36,20 @@
      "title": "绝望会给与胆小鬼勇气",
      "url": "https://www.bilibili.com/bangumi/play/ep395229",
      "time": "2021-04-11T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017702,
+   "sort": 3,
+   "name": "患いの根腐れを望むなら、水瓶の穴を塞ぐな",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "如果想要根烂掉，就别塞住浇水的瓶口",
+     "url": "https://www.bilibili.com/bangumi/play/ep395230",
+     "time": "2021-04-18T15:00:01.000Z"
     }
    ]
   }
