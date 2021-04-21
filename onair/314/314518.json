@@ -1,0 +1,57 @@
+{
+ "id": "314518",
+ "name": "聖女の魔力は万能です",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233918",
+   "week": 3,
+   "time": "0000",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 1016733,
+   "sort": 1,
+   "name": "召喚",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "召唤",
+     "url": "https://www.bilibili.com/bangumi/play/ep399546",
+     "time": "2021-04-20T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017677,
+   "sort": 2,
+   "name": "親交",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "深交",
+     "url": "https://www.bilibili.com/bangumi/play/ep399547",
+     "time": "2021-04-20T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017678,
+   "sort": 3,
+   "name": "王都",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "王都",
+     "url": "https://www.bilibili.com/bangumi/play/ep399548",
+     "time": "2021-04-20T16:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
