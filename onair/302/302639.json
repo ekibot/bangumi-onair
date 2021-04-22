@@ -7,7 +7,7 @@
    "id": "28232005",
    "week": 3,
    "time": "1735",
-   "sort": 15
+   "sort": 16
   }
  ],
  "eps": [
@@ -204,6 +204,20 @@
      "title": "永别了「七大罪」",
      "url": "https://www.bilibili.com/bangumi/play/ep395835",
      "time": "2021-04-14T09:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1018391,
+   "sort": 15,
+   "name": "宿命の兄弟",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "宿命的兄弟",
+     "url": "https://www.bilibili.com/bangumi/play/ep395836",
+     "time": "2021-04-21T09:35:01.000Z"
     }
    ]
   }
