@@ -7,7 +7,7 @@
    "id": "28233251",
    "week": 4,
    "time": "2345",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -36,6 +36,20 @@
      "title": "快完蛋的收音机 SAGA",
      "url": "https://www.bilibili.com/bangumi/play/ep399473",
      "time": "2021-04-15T15:45:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019227,
+   "sort": 3,
+   "name": "愛と青春のアコースティック SAGA",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "「爱与青春的原声乐器 SAGA」",
+     "url": "https://www.bilibili.com/bangumi/play/ep399474",
+     "time": "2021-04-22T15:45:01.000Z"
     }
    ]
   }
