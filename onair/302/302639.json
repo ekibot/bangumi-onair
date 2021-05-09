@@ -7,7 +7,7 @@
    "id": "28232005",
    "week": 3,
    "time": "1735",
-   "sort": 16
+   "sort": 18
   }
  ],
  "eps": [
@@ -218,6 +218,34 @@
      "title": "宿命的兄弟",
      "url": "https://www.bilibili.com/bangumi/play/ep395836",
      "time": "2021-04-21T09:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1018392,
+   "sort": 16,
+   "name": "最終戦争",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "最终战争",
+     "url": "https://www.bilibili.com/bangumi/play/ep395837",
+     "time": "2021-04-28T09:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1018393,
+   "sort": 17,
+   "name": "キミの名を呼ぶ声",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "呼唤你名字的声音",
+     "url": "https://www.bilibili.com/bangumi/play/ep395838",
+     "time": "2021-05-05T09:35:01.000Z"
     }
    ]
   }

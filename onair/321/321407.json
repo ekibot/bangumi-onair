@@ -1,0 +1,78 @@
+{
+ "id": "321407",
+ "name": "究極進化したフルダイブRPGが現実よりもクソゲーだったら",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "acea9ca68d7d439aa7a0",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 1017539,
+   "sort": 1,
+   "name": "ＶＲ×リアル",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "VR×现实",
+     "url": "https://v.youku.com/v_show/id_XNTEyNjA0NTc4NA==.html?s=acea9ca68d7d439aa7a0"
+    }
+   ]
+  },
+  {
+   "id": 1017712,
+   "sort": 2,
+   "name": "過疎ゲーの住人",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "冷门游戏的玩家",
+     "url": "https://v.youku.com/v_show/id_XNTEyNzgzNDgyOA==.html?s=acea9ca68d7d439aa7a0"
+    }
+   ]
+  },
+  {
+   "id": 1017713,
+   "sort": 3,
+   "name": "大人のイベントタイム",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "成年人的活动时间",
+     "url": "https://v.youku.com/v_show/id_XNTEzNjQ5MDU0NA==.html?s=acea9ca68d7d439aa7a0"
+    }
+   ]
+  },
+  {
+   "id": 1017714,
+   "sort": 4,
+   "name": "ただ一人の攻略者",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "唯一通关的人",
+     "url": "https://v.youku.com/v_show/id_XNTEzNjQ5MDcyMA==.html?s=acea9ca68d7d439aa7a0"
+    }
+   ]
+  },
+  {
+   "id": 1017715,
+   "sort": 5,
+   "name": "殺人鬼の苦悩",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "杀人狂的苦恼",
+     "url": "https://v.youku.com/v_show/id_XNTE0MjYxNDIwOA==.html?s=acea9ca68d7d439aa7a0"
+    }
+   ]
+  }
+ ]
+}

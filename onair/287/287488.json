@@ -7,7 +7,7 @@
    "id": "28233251",
    "week": 4,
    "time": "2345",
-   "sort": 4
+   "sort": 6
   }
  ],
  "eps": [
@@ -35,7 +35,7 @@
      "sort": 2,
      "title": "快完蛋的收音机 SAGA",
      "url": "https://www.bilibili.com/bangumi/play/ep399473",
-     "time": "2021-04-15T15:45:01.000Z"
+     "time": "2021-04-15T15:45:00.000Z"
     }
    ]
   },
@@ -50,6 +50,34 @@
      "title": "「爱与青春的原声乐器 SAGA」",
      "url": "https://www.bilibili.com/bangumi/play/ep399474",
      "time": "2021-04-22T15:45:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019228,
+   "sort": 4,
+   "name": "純情エレクトリック SAGA",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "纯情电子乐器 SAGA",
+     "url": "https://www.bilibili.com/bangumi/play/ep399475",
+     "time": "2021-04-29T15:45:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019229,
+   "sort": 5,
+   "name": "リトルパラッポ SAGA",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "小小的即兴表演 SAGA",
+     "url": "https://www.bilibili.com/bangumi/play/ep399476",
+     "time": "2021-05-06T15:45:01.000Z"
     }
    ]
   }

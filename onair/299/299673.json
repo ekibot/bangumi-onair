@@ -1,0 +1,57 @@
+{
+ "id": "299673",
+ "name": "転生したらスライムだった件 転スラ日記",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233903",
+   "week": 7,
+   "time": "1200",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 1019153,
+   "sort": 1,
+   "name": "1日記 魔物の町の住人たち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "魔物城镇的居民们",
+     "url": "https://www.bilibili.com/bangumi/play/ep395211",
+     "time": "2021-05-02T04:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019154,
+   "sort": 2,
+   "name": "2日記 春の空気と",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "和春天的空气一起",
+     "url": "https://www.bilibili.com/bangumi/play/ep395212",
+     "time": "2021-05-02T04:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019155,
+   "sort": 3,
+   "name": "3日記 ジュラの夏",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "鸠拉的夏天",
+     "url": "https://www.bilibili.com/bangumi/play/ep395213",
+     "time": "2021-05-09T04:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

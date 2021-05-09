@@ -1,0 +1,71 @@
+{
+ "id": "297954",
+ "name": "不滅のあなたへ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233896",
+   "week": 5,
+   "time": "1900",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 941162,
+   "sort": 1,
+   "name": "最後のひとり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "最后一人",
+     "url": "https://www.bilibili.com/bangumi/play/ep399376",
+     "time": "2021-04-30T11:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 941163,
+   "sort": 2,
+   "name": "おとなしくない少女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "不老实的少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep399377",
+     "time": "2021-04-30T11:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 941164,
+   "sort": 3,
+   "name": "小さな進化",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "小小的进化",
+     "url": "https://www.bilibili.com/bangumi/play/ep399378",
+     "time": "2021-04-30T11:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 941165,
+   "sort": 4,
+   "name": "大きな器",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "巨大的容器",
+     "url": "https://www.bilibili.com/bangumi/play/ep399379",
+     "time": "2021-05-07T11:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

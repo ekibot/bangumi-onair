@@ -7,7 +7,7 @@
    "id": "28233902",
    "week": 4,
    "time": "1900",
-   "sort": 5
+   "sort": 7
   }
  ],
  "eps": [
@@ -50,6 +50,34 @@
      "title": "第13章-第18章",
      "url": "https://www.bilibili.com/bangumi/play/ep399416",
      "time": "2021-04-22T11:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1020567,
+   "sort": 4,
+   "name": "エピソード4",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "第19章-第24章",
+     "url": "https://www.bilibili.com/bangumi/play/ep399417",
+     "time": "2021-04-29T11:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1020568,
+   "sort": 5,
+   "name": "エピソード5",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "第25章-第30章",
+     "url": "https://www.bilibili.com/bangumi/play/ep399418",
+     "time": "2021-05-06T11:00:01.000Z"
     }
    ]
   }

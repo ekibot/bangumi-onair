@@ -7,7 +7,7 @@
    "id": "a_19rrhwmdmd",
    "week": 7,
    "time": "下午",
-   "sort": 45
+   "sort": 47
   }
  ],
  "eps": [
@@ -638,6 +638,34 @@
      "title": "启动 钢铁加鲁鲁兽",
      "url": "http://www.iqiyi.com/v_1yhmyz67154.html",
      "time": "2021-04-25T04:10:28.000Z"
+    }
+   ]
+  },
+  {
+   "id": 968500,
+   "sort": 46,
+   "name": "希望の聖剣",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 46,
+     "title": "希望的圣剑",
+     "url": "http://www.iqiyi.com/v_1hlw8bw7v5g.html",
+     "time": "2021-05-02T03:32:16.000Z"
+    }
+   ]
+  },
+  {
+   "id": 968501,
+   "sort": 47,
+   "name": "荒野の悪党たち",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 47,
+     "title": "荒野的恶党们",
+     "url": "http://www.iqiyi.com/v_dyyo00l6sc.html",
+     "time": "2021-05-09T03:55:05.000Z"
     }
    ]
   }

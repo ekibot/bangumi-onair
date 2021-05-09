@@ -1,0 +1,57 @@
+{
+ "id": "325286",
+ "name": "Vivy -Fluorite Eye's Song-",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28233942",
+   "week": 7,
+   "time": "0000",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1017484,
+   "sort": 1,
+   "name": "My Code -歌でみんなを幸せにするために-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "我的和弦-为了能用歌声给大家带来幸福-",
+     "url": "https://www.bilibili.com/bangumi/play/ep402367",
+     "time": "2021-05-01T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017485,
+   "sort": 2,
+   "name": "Quarter Note -百年の旅の始まり-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "四分音符-百年之旅的起始-",
+     "url": "https://www.bilibili.com/bangumi/play/ep402368",
+     "time": "2021-05-01T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017486,
+   "sort": 3,
+   "name": "A Tender Moon Tempo -星たちとの歓談-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "优雅的月球节奏 -群星们的欢谈-",
+     "url": "https://www.bilibili.com/bangumi/play/ep402369",
+     "time": "2021-05-08T16:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

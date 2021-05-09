@@ -1,0 +1,27 @@
+{
+ "id": "84990",
+ "name": "ルパン三世 生きていた魔術師",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "3933",
+   "sort": 1
+  }
+ ],
+ "eps": [
+  {
+   "id": 325082,
+   "sort": 1,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "鲁邦三世：活下来的魔术师",
+     "url": "https://www.bilibili.com/bangumi/play/ep87320",
+     "time": "2016-05-04T04:11:00.000Z"
+    }
+   ]
+  }
+ ]
+}

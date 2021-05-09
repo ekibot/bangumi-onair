@@ -7,7 +7,7 @@
    "id": "m/mzc00200radura8",
    "week": 4,
    "time": "2230",
-   "sort": 4
+   "sort": 6
   }
  ],
  "eps": [
@@ -60,6 +60,32 @@
      "sort": 4,
      "title": "哥斯拉：奇异点_04",
      "url": "https://v.qq.com/x/cover/mzc00200radura8/z0036lso45m.html"
+    }
+   ]
+  },
+  {
+   "id": 1017500,
+   "sort": 5,
+   "name": "はやきことかぜの",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "哥斯拉：奇异点_05",
+     "url": "https://v.qq.com/x/cover/mzc00200radura8/s0036ipvrs3.html"
+    }
+   ]
+  },
+  {
+   "id": 1017501,
+   "sort": 6,
+   "name": "りろんなきすうじ",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "哥斯拉：奇异点_06",
+     "url": "https://v.qq.com/x/cover/mzc00200radura8/g00364iff85.html"
     }
    ]
   }

@@ -6,6 +6,11 @@
    "site": "bilibili",
    "id": "16179187",
    "sort": 1
+  },
+  {
+   "site": "youku",
+   "id": "80a9fe723ec04a909a0e",
+   "sort": 1
   }
  ],
  "eps": [
@@ -20,6 +25,12 @@
      "title": "",
      "url": "https://www.bilibili.com/bangumi/play/ep262654",
      "time": "2019-02-16T15:00:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "王室教师海涅",
+     "url": "https://v.youku.com/v_show/id_XNDA2MjE5OTM0NA==.html?s=80a9fe723ec04a909a0e"
     }
    ]
   }

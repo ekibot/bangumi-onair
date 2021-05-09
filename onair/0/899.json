@@ -7,26 +7,26 @@
    "id": "a_19rrhc0gyd",
    "week": 6,
    "time": "1930",
-   "sort": 1060
+   "sort": 1062
   },
   {
    "site": "qq",
    "id": "5/53q0eh78q97e4d1",
    "week": 6,
    "time": "1930",
-   "sort": 1060
+   "sort": 1062
   },
   {
    "site": "youku",
    "id": "cc003400962411de83b1",
    "week": 6,
    "time": "1930",
-   "sort": 1050
+   "sort": 1062
   },
   {
    "site": "bilibili",
    "id": "28228775",
-   "sort": 1061
+   "sort": 1063
   }
  ],
  "eps": [
@@ -33900,6 +33900,12 @@
      "sort": 1051,
      "title": "第1051集 替身京极真（中集）",
      "url": "https://v.qq.com/x/cover/53q0eh78q97e4d1/u0035rbrnwq.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1051,
+     "title": "替身京极真 （中集）",
+     "url": "https://v.youku.com/v_show/id_XNTA2NjQyMDA5Ng==.html?s=cc003400962411de83b1"
     }
    ]
   },
@@ -33927,6 +33933,12 @@
      "title": "巨人塔罗斯的必杀拳（下集）",
      "url": "https://www.bilibili.com/bangumi/play/ep322838",
      "time": "2020-04-30T11:01:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1052,
+     "title": "替身京极真（下集）",
+     "url": "https://v.youku.com/v_show/id_XNTA4MDE1NDU5Ng==.html?s=cc003400962411de83b1"
     }
    ]
   },
@@ -33954,6 +33966,12 @@
      "title": "危险的化石采集",
      "url": "https://www.bilibili.com/bangumi/play/ep322839",
      "time": "2020-04-30T11:01:02.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1053,
+     "title": "真人不露罪",
+     "url": "https://v.youku.com/v_show/id_XNTA5MTc5OTc2OA==.html?s=cc003400962411de83b1"
     }
    ]
   },
@@ -33981,6 +33999,12 @@
      "sort": 1054,
      "title": "第1054集 微笑之乡的阴谋",
      "url": "https://v.qq.com/x/cover/53q0eh78q97e4d1/m0036vssamm.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1054,
+     "title": "微笑之乡的阴谋",
+     "url": "https://v.youku.com/v_show/id_XNTEwMzQwMjc4MA==.html?s=cc003400962411de83b1"
     }
    ]
   },
@@ -34008,6 +34032,12 @@
      "sort": 1055,
      "title": "第1055集 仇恨的平底锅",
      "url": "https://v.qq.com/x/cover/53q0eh78q97e4d1/p0036wj58z7.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1055,
+     "title": "仇恨的平底锅",
+     "url": "https://v.youku.com/v_show/id_XNTEwNzE3OTI4OA==.html?s=cc003400962411de83b1"
     }
    ]
   },
@@ -34035,6 +34065,12 @@
      "sort": 1056,
      "title": "第1056集 好心帮倒忙",
      "url": "https://v.qq.com/x/cover/53q0eh78q97e4d1/n0036s2f5qw.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1056,
+     "title": "好心帮倒忙",
+     "url": "https://v.youku.com/v_show/id_XNTExMTgzMjY4OA==.html?s=cc003400962411de83b1"
     }
    ]
   },
@@ -34062,6 +34098,12 @@
      "sort": 1057,
      "title": "第1057集 钢琴奏鸣曲《月光》杀人事件（上集）",
      "url": "https://v.qq.com/x/cover/53q0eh78q97e4d1/g0036lhpb4q.html"
+    },
+    {
+     "site": "youku",
+     "sort": 1057,
+     "title": "钢琴奏鸣曲《月光》杀人事件（上集）",
+     "url": "https://v.youku.com/v_show/id_XNTExNjI5MjI2MA==.html?s=cc003400962411de83b1"
     }
    ]
   }

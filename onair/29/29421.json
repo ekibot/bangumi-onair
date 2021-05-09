@@ -1,0 +1,182 @@
+{
+ "id": "29421",
+ "name": "君と僕。2",
+ "sites": [
+  {
+   "site": "youku",
+   "id": "fb8ae1fe0cd111e1a046",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 162622,
+   "sort": 1,
+   "name": "月のうさぎは夜を跳ねる",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "第01话 月亮上的小兔子在夜里跳着",
+     "url": "https://v.youku.com/v_show/id_XMzc2MjQxNTQ0.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  },
+  {
+   "id": 162623,
+   "sort": 2,
+   "name": "mary's christmas",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "第02话 MARY的圣诞节",
+     "url": "https://v.youku.com/v_show/id_XMzgxMzA0OTA4.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  },
+  {
+   "id": 162624,
+   "sort": 3,
+   "name": "VERY CHRISTMAS",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "第03话 非常圣诞节",
+     "url": "https://v.youku.com/v_show/id_XMzk3NDgwMjky.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  },
+  {
+   "id": 162625,
+   "sort": 4,
+   "name": "ゆげのなかに",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "第04话 盛怒之中",
+     "url": "https://v.youku.com/v_show/id_XMzk3NDgxMjE2.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  },
+  {
+   "id": 162626,
+   "sort": 5,
+   "name": "あの空の裾",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "第05话 那片天空之下",
+     "url": "https://v.youku.com/v_show/id_XMzkxMDY5MjI0.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  },
+  {
+   "id": 162627,
+   "sort": 6,
+   "name": "Colorless blue",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "第06话 透明的蓝色",
+     "url": "https://v.youku.com/v_show/id_XMzk0MDc5MzQ4.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  },
+  {
+   "id": 162628,
+   "sort": 7,
+   "name": "Sweet sweet,bitter",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "第07话 Sweet Sweet,Bitter",
+     "url": "https://v.youku.com/v_show/id_XMzk3Mjk0NTgw.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  },
+  {
+   "id": 162629,
+   "sort": 8,
+   "name": "ぼくたち男の子",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "第08话 我们男生",
+     "url": "https://v.youku.com/v_show/id_XNDAwNDMxNTc2.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  },
+  {
+   "id": 162630,
+   "sort": 9,
+   "name": "mix juice",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "第09话 Mix Juice",
+     "url": "https://v.youku.com/v_show/id_XNDA0NDM2NjMy.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  },
+  {
+   "id": 162631,
+   "sort": 10,
+   "name": "cherry",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "第10话 樱桃",
+     "url": "https://v.youku.com/v_show/id_XNDA4MjYyNTQ4.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  },
+  {
+   "id": 162632,
+   "sort": 11,
+   "name": "sugar baby, fly baby",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "第11话 Sugar Baby,Fly Baby",
+     "url": "https://v.youku.com/v_show/id_XNDExOTg5MTAw.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  },
+  {
+   "id": 162633,
+   "sort": 12,
+   "name": "赤裸々",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "第12话 赤裸裸",
+     "url": "https://v.youku.com/v_show/id_XNDE2NzgzMTQw.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  },
+  {
+   "id": 162634,
+   "sort": 13,
+   "name": "へそと凛",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 13,
+     "title": "第13话 屈身与凛然",
+     "url": "https://v.youku.com/v_show/id_XNDIzODQwMzEy.html?s=fb8ae1fe0cd111e1a046"
+    }
+   ]
+  }
+ ]
+}

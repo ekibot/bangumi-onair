@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231925",
-   "sort": 17
+   "sort": 19
   }
  ],
  "eps": [
@@ -230,6 +230,34 @@
      "title": "人期盼和平之时 神又想要什么",
      "url": "https://www.bilibili.com/bangumi/play/ep398689",
      "time": "2021-04-23T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1010882,
+   "sort": 17,
+   "name": "かくて彼らは立ち上がるのか",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "就这样 他们要奋身而起了吗",
+     "url": "https://www.bilibili.com/bangumi/play/ep398690",
+     "time": "2021-04-30T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1010883,
+   "sort": 18,
+   "name": "これが世界の真理なのか",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "这就是世界的真理吗",
+     "url": "https://www.bilibili.com/bangumi/play/ep398691",
+     "time": "2021-05-07T16:30:01.000Z"
     }
    ]
   }
