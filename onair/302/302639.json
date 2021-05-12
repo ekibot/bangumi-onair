@@ -7,7 +7,7 @@
    "id": "28232005",
    "week": 3,
    "time": "1735",
-   "sort": 18
+   "sort": 19
   }
  ],
  "eps": [
@@ -246,6 +246,20 @@
      "title": "呼唤你名字的声音",
      "url": "https://www.bilibili.com/bangumi/play/ep395838",
      "time": "2021-05-05T09:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1018394,
+   "sort": 18,
+   "name": "王は孤独に歌う",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "王者独唱",
+     "url": "https://www.bilibili.com/bangumi/play/ep395839",
+     "time": "2021-05-12T09:35:01.000Z"
     }
    ]
   }

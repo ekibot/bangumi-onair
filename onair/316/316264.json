@@ -7,7 +7,7 @@
    "id": "28233904",
    "week": 3,
    "time": "2000",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "青梅竹马绝对不会输的恋爱喜剧",
      "url": "https://www.bilibili.com/bangumi/play/ep402311",
      "time": "2021-05-05T12:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017523,
+   "sort": 2,
+   "name": "彼と彼女と彼女の事情",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "他与她与她的情况",
+     "url": "https://www.bilibili.com/bangumi/play/ep402312",
+     "time": "2021-05-12T12:00:01.000Z"
     }
    ]
   }

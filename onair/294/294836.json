@@ -7,7 +7,7 @@
    "id": "28233916",
    "week": 7,
    "time": "2300",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "应许之地回答说 根本没有救世主",
      "url": "https://www.bilibili.com/bangumi/play/ep395232",
      "time": "2021-05-02T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017705,
+   "sort": 6,
+   "name": "無力だと自覚しても、神は踏み絵を差し出す",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "即使你认识到自己的无力，上帝也会指引你的前路",
+     "url": "https://www.bilibili.com/bangumi/play/ep395233",
+     "time": "2021-05-09T15:00:00.000Z"
     }
    ]
   }
