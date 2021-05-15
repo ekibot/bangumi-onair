@@ -7,7 +7,7 @@
    "id": "28233920",
    "week": 6,
    "time": "0255",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "猫",
      "url": "https://www.bilibili.com/bangumi/play/ep399488",
      "time": "2021-05-07T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019252,
+   "sort": 6,
+   "name": "テリトリー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "地盘",
+     "url": "https://www.bilibili.com/bangumi/play/ep399489",
+     "time": "2021-05-14T18:55:01.000Z"
     }
    ]
   }
