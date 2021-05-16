@@ -7,7 +7,7 @@
    "id": "28233911",
    "week": 6,
    "time": "2130",
-   "sort": 11
+   "sort": 14
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "出现幽灵了",
      "url": "https://www.bilibili.com/bangumi/play/ep391721",
      "time": "2021-05-08T13:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019432,
+   "sort": 6,
+   "name": "リヴァイアサンが来た",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "利维坦来了",
+     "url": "https://www.bilibili.com/bangumi/play/ep391722",
+     "time": "2021-05-15T13:30:01.000Z"
     }
    ]
   }

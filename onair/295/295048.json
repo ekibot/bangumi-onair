@@ -1,0 +1,43 @@
+{
+ "id": "295048",
+ "name": "美少年探偵団",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28232007",
+   "week": 7,
+   "time": "0230",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 1004351,
+   "sort": 1,
+   "name": "「きみだけに光りかがやく暗黒星」その１",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "只对你一个人闪耀的暗黑星 其一",
+     "url": "https://www.bilibili.com/bangumi/play/ep403565",
+     "time": "2021-05-15T18:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1014969,
+   "sort": 2,
+   "name": "「きみだけに光りかがやく暗黒星」その2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "只对你一个人闪耀的暗黑星 其二",
+     "url": "https://www.bilibili.com/bangumi/play/ep403566",
+     "time": "2021-05-15T18:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}
