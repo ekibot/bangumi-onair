@@ -7,7 +7,7 @@
    "id": "28233903",
    "week": 7,
    "time": "1200",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -50,6 +50,20 @@
      "title": "鸠拉的夏天",
      "url": "https://www.bilibili.com/bangumi/play/ep395213",
      "time": "2021-05-09T04:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019156,
+   "sort": 4,
+   "name": "4日記 水着で１日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "穿泳衣过一天",
+     "url": "https://www.bilibili.com/bangumi/play/ep395214",
+     "time": "2021-05-16T04:00:01.000Z"
     }
    ]
   }

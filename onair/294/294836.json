@@ -7,7 +7,7 @@
    "id": "28233916",
    "week": 7,
    "time": "2300",
-   "sort": 8
+   "sort": 9
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "即使你认识到自己的无力，上帝也会指引你的前路",
      "url": "https://www.bilibili.com/bangumi/play/ep395233",
      "time": "2021-05-09T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017706,
+   "sort": 7,
+   "name": "カードが示す愚か者は間抜けな道化師じゃない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "亮出卡片的傻瓜不是愚蠢的小丑",
+     "url": "https://www.bilibili.com/bangumi/play/ep395234",
+     "time": "2021-05-16T15:00:01.000Z"
     }
    ]
   }
