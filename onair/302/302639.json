@@ -7,7 +7,7 @@
    "id": "28232005",
    "week": 3,
    "time": "1735",
-   "sort": 19
+   "sort": 20
   }
  ],
  "eps": [
@@ -260,6 +260,20 @@
      "title": "王者独唱",
      "url": "https://www.bilibili.com/bangumi/play/ep395839",
      "time": "2021-05-12T09:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1018395,
+   "sort": 19,
+   "name": "あがき",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "挣扎",
+     "url": "https://www.bilibili.com/bangumi/play/ep395840",
+     "time": "2021-05-19T09:35:01.000Z"
     }
    ]
   }
