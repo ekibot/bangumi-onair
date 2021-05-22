@@ -6,6 +6,11 @@
    "site": "bilibili",
    "id": "2610",
    "sort": 12
+  },
+  {
+   "site": "qq",
+   "id": "v/vxk0pmz40gf0hz0",
+   "sort": 23
   }
  ],
  "eps": [
@@ -20,6 +25,18 @@
      "title": "枕男子 梅里",
      "url": "https://www.bilibili.com/bangumi/play/ep63951",
      "time": "2015-07-14T04:51:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "中文版：枕男子梅里_1",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/n0017yrrjmf.html"
+    },
+    {
+     "site": "qq",
+     "sort": 1,
+     "title": "日文版：枕男子梅里_1",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/d00173vovrr.html"
     }
    ]
   },
@@ -34,6 +51,12 @@
      "title": "年长男子 田仲聪辅",
      "url": "https://www.bilibili.com/bangumi/play/ep64002",
      "time": "2015-07-20T16:15:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 2,
+     "title": "中文版：年长男子田仲聪辅_2",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/y0017l5fu38.html"
     }
    ]
   },
@@ -48,6 +71,18 @@
      "title": "音乐男子 花岭奏",
      "url": "https://www.bilibili.com/bangumi/play/ep64180",
      "time": "2015-07-27T16:15:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "中文版：音乐男子花岭奏_3",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/x0017yptoaz.html"
+    },
+    {
+     "site": "qq",
+     "sort": 3,
+     "title": "日文版：音乐男子花岭奏_3",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/d0017mkd2mb.html"
     }
    ]
   },
@@ -62,6 +97,18 @@
      "title": "方言男子 雉子波瑛治",
      "url": "https://www.bilibili.com/bangumi/play/ep64319",
      "time": "2015-08-03T16:15:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "中文版：方言男子雉子波瑛治_4",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/l00179vhkxm.html"
+    },
+    {
+     "site": "qq",
+     "sort": 4,
+     "title": "日文版：方言男子雉子波瑛治_4",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/f001735kdvh.html"
     }
    ]
   },
@@ -76,6 +123,18 @@
      "title": "天文男子 永守・T・隆士",
      "url": "https://www.bilibili.com/bangumi/play/ep64564",
      "time": "2015-08-10T16:15:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "中文版：天文男子永守T隆士_5",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/y0017sqonlq.html"
+    },
+    {
+     "site": "qq",
+     "sort": 5,
+     "title": "日文版：天文男子永守T隆士_5",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/w0017yrdul0.html"
     }
    ]
   },
@@ -90,6 +149,18 @@
      "title": "中二男子 舞木优",
      "url": "https://www.bilibili.com/bangumi/play/ep65194",
      "time": "2015-08-17T16:15:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "中文版：中二男子 舞木优_6",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/q0017z83zk0.html"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "日文版：中二男子 舞木优_6",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/t0017ztf4gk.html"
     }
    ]
   },
@@ -104,6 +175,18 @@
      "title": "稚气男子 可爱川晴斗",
      "url": "https://www.bilibili.com/bangumi/play/ep66028",
      "time": "2015-08-24T16:15:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "中文版：稚气男子 可爱川晴斗_7",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/t0017hc6pi6.html"
+    },
+    {
+     "site": "qq",
+     "sort": 7,
+     "title": "日文版：稚气男子 可爱川晴斗_7",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/u0017dzx43j.html"
     }
    ]
   },
@@ -118,6 +201,18 @@
      "title": "现充男子 笹山直央",
      "url": "https://www.bilibili.com/bangumi/play/ep66747",
      "time": "2015-08-31T16:15:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "中文版：现充男子 笹山直央_8",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/b00179y2zue.html"
+    },
+    {
+     "site": "qq",
+     "sort": 8,
+     "title": "日文版：现充男子 笹山直央_8",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/p0017dn3l16.html"
     }
    ]
   },
@@ -132,6 +227,18 @@
      "title": "图书管理员男子 望月识",
      "url": "https://www.bilibili.com/bangumi/play/ep67436",
      "time": "2015-09-07T16:15:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "中文版：图书管理员男子 望月识_9",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/a0017hulphq.html"
+    },
+    {
+     "site": "qq",
+     "sort": 9,
+     "title": "日文版：图书管理员男子 望月识_9",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/g0017nhtz6h.html"
     }
    ]
   },
@@ -146,6 +253,18 @@
      "title": "花道男子 千切夜长/夜宵",
      "url": "https://www.bilibili.com/bangumi/play/ep68744",
      "time": "2015-09-14T16:15:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "中文版：花道男子 千切夜长/夜宵_10",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/u0017v5x88m.html"
+    },
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "日文版：花道男子 千切夜长/夜宵_10",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/g0017xjwxvb.html"
     }
    ]
   },
@@ -160,6 +279,18 @@
      "title": "摆摊男子 饭田由一郎",
      "url": "https://www.bilibili.com/bangumi/play/ep69178",
      "time": "2015-09-21T16:15:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "中文版：摆摊男子 饭田由一郎_11",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/n0018o3wghf.html"
+    },
+    {
+     "site": "qq",
+     "sort": 11,
+     "title": "日文版：摆摊男子 饭田由一郎_11",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/r0018ux1uwa.html"
     }
    ]
   },
@@ -174,6 +305,18 @@
      "title": "续・枕男子 梅里",
      "url": "https://www.bilibili.com/bangumi/play/ep70347",
      "time": "2015-09-28T16:15:00.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "中文版：枕男子 梅里_12",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/o0018tlnc30.html"
+    },
+    {
+     "site": "qq",
+     "sort": 12,
+     "title": "日文版：枕男子 梅里_12",
+     "url": "https://v.qq.com/x/cover/vxk0pmz40gf0hz0/n0018z3akoj.html"
     }
    ]
   }
