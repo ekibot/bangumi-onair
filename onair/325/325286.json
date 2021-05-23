@@ -7,7 +7,7 @@
    "id": "28233942",
    "week": 7,
    "time": "0000",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -64,6 +64,20 @@
      "title": "北极星合奏 -我们的约定-",
      "url": "https://www.bilibili.com/bangumi/play/ep402370",
      "time": "2021-05-15T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017488,
+   "sort": 5,
+   "name": "Sing My Pleasure -あなたを笑顔に-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "歌唱我的快乐 -让你绽放笑容-",
+     "url": "https://www.bilibili.com/bangumi/play/ep402371",
+     "time": "2021-05-22T16:00:01.000Z"
     }
    ]
   }

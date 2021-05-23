@@ -7,7 +7,7 @@
    "id": "28233912",
    "week": 7,
    "time": "0125",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "骷髅妖精号",
      "url": "https://www.bilibili.com/bangumi/play/ep399526",
      "time": "2021-05-15T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1018682,
+   "sort": 7,
+   "name": "魔王戦艦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "魔王战舰",
+     "url": "https://www.bilibili.com/bangumi/play/ep399527",
+     "time": "2021-05-22T17:25:01.000Z"
     }
    ]
   }

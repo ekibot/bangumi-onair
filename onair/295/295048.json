@@ -7,7 +7,7 @@
    "id": "28232007",
    "week": 7,
    "time": "0230",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -36,6 +36,20 @@
      "title": "只对你一个人闪耀的暗黑星 其二",
      "url": "https://www.bilibili.com/bangumi/play/ep403566",
      "time": "2021-05-15T18:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1014970,
+   "sort": 3,
+   "name": "「きみだけに光りかがやく暗黒星」その3",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "只对你一个人闪耀的暗黑星 其三",
+     "url": "https://www.bilibili.com/bangumi/play/ep403567",
+     "time": "2021-05-22T18:30:01.000Z"
     }
    ]
   }
