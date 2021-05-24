@@ -7,7 +7,7 @@
    "id": "28233916",
    "week": 7,
    "time": "2300",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "亮出卡片的傻瓜不是愚蠢的小丑",
      "url": "https://www.bilibili.com/bangumi/play/ep395234",
      "time": "2021-05-16T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017707,
+   "sort": 8,
+   "name": "終わりの始まりに、虹の軌跡はアーチを描く",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "在结束的开始 彩虹画出弧线的轨迹",
+     "url": "https://www.bilibili.com/bangumi/play/ep395235",
+     "time": "2021-05-23T15:00:01.000Z"
     }
    ]
   }
