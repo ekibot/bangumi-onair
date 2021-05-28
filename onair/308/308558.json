@@ -7,7 +7,7 @@
    "id": "28234037",
    "week": 4,
    "time": "1800",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "「进化」",
      "url": "https://www.bilibili.com/bangumi/play/ep399613",
      "time": "2021-05-20T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017432,
+   "sort": 9,
+   "name": "葉VS蓮、再び！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "「叶VS莲 再战！」",
+     "url": "https://www.bilibili.com/bangumi/play/ep399614",
+     "time": "2021-05-27T10:00:01.000Z"
     }
    ]
   }
