@@ -7,7 +7,7 @@
    "id": "28233920",
    "week": 6,
    "time": "0255",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "约书亚",
      "url": "https://www.bilibili.com/bangumi/play/ep399490",
      "time": "2021-05-21T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019254,
+   "sort": 8,
+   "name": "エマージェンシーコール",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "紧急命令",
+     "url": "https://www.bilibili.com/bangumi/play/ep399491",
+     "time": "2021-05-28T18:55:01.000Z"
     }
    ]
   }
