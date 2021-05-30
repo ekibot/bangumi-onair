@@ -7,7 +7,7 @@
    "id": "28233942",
    "week": 7,
    "time": "0000",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "歌唱我的快乐 -让你绽放笑容-",
      "url": "https://www.bilibili.com/bangumi/play/ep402371",
      "time": "2021-05-22T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017489,
+   "sort": 6,
+   "name": "Sing My Pleasure -あなたを愛する-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "歌唱我的快乐-爱着你-",
+     "url": "https://www.bilibili.com/bangumi/play/ep402372",
+     "time": "2021-05-29T16:00:01.000Z"
     }
    ]
   }

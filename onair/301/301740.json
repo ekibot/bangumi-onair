@@ -7,7 +7,7 @@
    "id": "28233906",
    "week": 6,
    "time": "1900",
-   "sort": 4
+   "sort": 5
   }
  ],
  "eps": [
@@ -36,6 +36,20 @@
      "title": "艾梅莉的决断",
      "url": "https://www.bilibili.com/bangumi/play/ep403360",
      "time": "2021-05-22T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019384,
+   "sort": 3,
+   "name": "乙女な悪魔",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "少女恶魔",
+     "url": "https://www.bilibili.com/bangumi/play/ep403361",
+     "time": "2021-05-29T11:00:01.000Z"
     }
    ]
   }
