@@ -7,7 +7,7 @@
    "id": "28233918",
    "week": 3,
    "time": "0000",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "「觉醒」",
      "url": "https://www.bilibili.com/bangumi/play/ep399553",
      "time": "2021-05-25T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017684,
+   "sort": 9,
+   "name": "聖女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "「圣女」",
+     "url": "https://www.bilibili.com/bangumi/play/ep399554",
+     "time": "2021-06-01T16:00:01.000Z"
     }
    ]
   }
