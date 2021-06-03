@@ -7,7 +7,7 @@
    "id": "28233904",
    "week": 3,
    "time": "2000",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -64,6 +64,20 @@
      "title": "桃坂真理爱来袭",
      "url": "https://www.bilibili.com/bangumi/play/ep402314",
      "time": "2021-05-26T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017526,
+   "sort": 5,
+   "name": "記憶カケル少女／タコさんウインナーの罠",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "缺失记忆的少女/章鱼香肠的陷阱",
+     "url": "https://www.bilibili.com/bangumi/play/ep402315",
+     "time": "2021-06-02T12:00:01.000Z"
     }
    ]
   }

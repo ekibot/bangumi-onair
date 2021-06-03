@@ -10,7 +10,7 @@
   {
    "site": "qq",
    "id": "m/mzc00200gfw31x8",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -125,6 +125,12 @@
      "title": "满级勇者出发旅行",
      "url": "http://www.iqiyi.com/v_2cn4mk9bezc.html",
      "time": "2021-05-27T16:00:08.000Z"
+    },
+    {
+     "site": "qq",
+     "sort": 6,
+     "title": "天地无用！魉皇鬼 第五期 - 第6集 满级勇者出发旅行",
+     "url": "https://v.qq.com/x/cover/mzc00200gfw31x8/e325007po5o.html"
     }
    ]
   }
