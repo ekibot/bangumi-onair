@@ -7,7 +7,7 @@
    "id": "m/mzc00200radura8",
    "week": 4,
    "time": "2230",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -125,6 +125,19 @@
      "sort": 9,
      "title": "哥斯拉：奇异点_09",
      "url": "https://v.qq.com/x/cover/mzc00200radura8/j00360lh2q4.html"
+    }
+   ]
+  },
+  {
+   "id": 1017505,
+   "sort": 10,
+   "name": "りきがくのげんり",
+   "sites": [
+    {
+     "site": "qq",
+     "sort": 10,
+     "title": "哥斯拉：奇异点_10",
+     "url": "https://v.qq.com/x/cover/mzc00200radura8/v0037bxgvxb.html"
     }
    ]
   }

@@ -7,7 +7,7 @@
    "id": "28233251",
    "week": 4,
    "time": "2345",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "佐贺事变  其一",
      "url": "https://www.bilibili.com/bangumi/play/ep399479",
      "time": "2021-05-27T15:45:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019233,
+   "sort": 9,
+   "name": "佐賀事変 其ノ弐",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "佐贺事变 其二",
+     "url": "https://www.bilibili.com/bangumi/play/ep399480",
+     "time": "2021-06-03T15:45:01.000Z"
     }
    ]
   }

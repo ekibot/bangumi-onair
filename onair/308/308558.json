@@ -7,7 +7,7 @@
    "id": "28234037",
    "week": 4,
    "time": "1800",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -117,7 +117,7 @@
     {
      "site": "bilibili",
      "sort": 8,
-     "title": "「进化」",
+     "title": "进化",
      "url": "https://www.bilibili.com/bangumi/play/ep399613",
      "time": "2021-05-20T10:00:01.000Z"
     }
@@ -131,9 +131,23 @@
     {
      "site": "bilibili",
      "sort": 9,
-     "title": "「叶VS莲 再战！」",
+     "title": "叶VS莲 再战！",
      "url": "https://www.bilibili.com/bangumi/play/ep399614",
      "time": "2021-05-27T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017433,
+   "sort": 10,
+   "name": "炎の夜",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "炎焰之夜",
+     "url": "https://www.bilibili.com/bangumi/play/ep399615",
+     "time": "2021-06-03T10:00:01.000Z"
     }
    ]
   }
