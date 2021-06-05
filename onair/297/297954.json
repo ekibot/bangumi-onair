@@ -7,7 +7,7 @@
    "id": "28233896",
    "week": 5,
    "time": "1900",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "想要改变的少年",
      "url": "https://www.bilibili.com/bangumi/play/ep399382",
      "time": "2021-05-28T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 941169,
+   "sort": 8,
+   "name": "怪物兄弟",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "怪物兄弟",
+     "url": "https://www.bilibili.com/bangumi/play/ep399383",
+     "time": "2021-06-04T11:00:01.000Z"
     }
    ]
   }
