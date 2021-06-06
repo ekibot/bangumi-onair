@@ -7,7 +7,7 @@
    "id": "28232007",
    "week": 7,
    "time": "0230",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -64,6 +64,20 @@
      "title": " 欺诈师与空气男与美少年 其一",
      "url": "https://www.bilibili.com/bangumi/play/ep403568",
      "time": "2021-05-29T18:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1014972,
+   "sort": 5,
+   "name": "「ぺてん師と空気男と美少年」その２",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": " 欺诈师与空气男与美少年 其二",
+     "url": "https://www.bilibili.com/bangumi/play/ep403569",
+     "time": "2021-06-05T18:30:01.000Z"
     }
    ]
   }

@@ -7,7 +7,7 @@
    "id": "28233942",
    "week": 7,
    "time": "0000",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "歌唱我的快乐-爱着你-",
      "url": "https://www.bilibili.com/bangumi/play/ep402372",
      "time": "2021-05-29T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017490,
+   "sort": 7,
+   "name": "Galaxy Anthem -歌でみんなを幸せにするために-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "银河之歌-为了用歌声给大家带来幸福-",
+     "url": "https://www.bilibili.com/bangumi/play/ep402373",
+     "time": "2021-06-05T16:00:01.000Z"
     }
    ]
   }

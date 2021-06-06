@@ -7,7 +7,7 @@
    "id": "28233911",
    "week": 6,
    "time": "2130",
-   "sort": 19
+   "sort": 20
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "高原魔女的冒牌货出现了",
      "url": "https://www.bilibili.com/bangumi/play/ep391724",
      "time": "2021-05-29T13:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019435,
+   "sort": 9,
+   "name": "娘がスライムから戻れなくなった",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "女儿变成史莱姆后无法恢复了",
+     "url": "https://www.bilibili.com/bangumi/play/ep391725",
+     "time": "2021-06-05T13:30:01.000Z"
     }
    ]
   }
