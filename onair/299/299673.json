@@ -7,7 +7,7 @@
    "id": "28233903",
    "week": 7,
    "time": "1200",
-   "sort": 8
+   "sort": 9
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "物换星移",
      "url": "https://www.bilibili.com/bangumi/play/ep395216",
      "time": "2021-05-30T04:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019159,
+   "sort": 7,
+   "name": "7日記 魔王が来た！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "魔王来了",
+     "url": "https://www.bilibili.com/bangumi/play/ep395217",
+     "time": "2021-06-06T04:00:01.000Z"
     }
    ]
   }
