@@ -7,7 +7,7 @@
    "id": "28233904",
    "week": 3,
    "time": "2000",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "缺失记忆的少女/章鱼香肠的陷阱",
      "url": "https://www.bilibili.com/bangumi/play/ep402315",
      "time": "2021-06-02T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017527,
+   "sort": 6,
+   "name": "最後に笑う者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "笑到最后的人",
+     "url": "https://www.bilibili.com/bangumi/play/ep402316",
+     "time": "2021-06-09T12:00:01.000Z"
     }
    ]
   }
