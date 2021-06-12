@@ -7,7 +7,7 @@
    "id": "28233896",
    "week": 5,
    "time": "1900",
-   "sort": 10
+   "sort": 11
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "怪物兄弟",
      "url": "https://www.bilibili.com/bangumi/play/ep399383",
      "time": "2021-06-04T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 941170,
+   "sort": 9,
+   "name": "深い記憶",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "深沉的记忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep399384",
+     "time": "2021-06-11T11:00:01.000Z"
     }
    ]
   }
