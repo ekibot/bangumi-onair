@@ -7,7 +7,7 @@
    "id": "28233942",
    "week": 7,
    "time": "0000",
-   "sort": 8
+   "sort": 9
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "银河之歌-为了用歌声给大家带来幸福-",
      "url": "https://www.bilibili.com/bangumi/play/ep402373",
      "time": "2021-06-05T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017491,
+   "sort": 8,
+   "name": "Elegy Dedicated With Love -たった一人の大切なパートナー-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "用爱奉献的挽歌 -为了那独一无二珍贵的搭档-",
+     "url": "https://www.bilibili.com/bangumi/play/ep402374",
+     "time": "2021-06-12T16:00:01.000Z"
     }
    ]
   }

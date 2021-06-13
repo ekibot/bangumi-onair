@@ -7,7 +7,7 @@
    "id": "28233906",
    "week": 6,
    "time": "1900",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -64,6 +64,20 @@
      "title": "学生会长的风景",
      "url": "https://www.bilibili.com/bangumi/play/ep403362",
      "time": "2021-06-05T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019386,
+   "sort": 5,
+   "name": "オトモダチご招待！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "招待朋友！",
+     "url": "https://www.bilibili.com/bangumi/play/ep403363",
+     "time": "2021-06-12T11:00:01.000Z"
     }
    ]
   }
