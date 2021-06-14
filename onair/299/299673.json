@@ -7,7 +7,7 @@
    "id": "28233903",
    "week": 7,
    "time": "1200",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "魔王来了",
      "url": "https://www.bilibili.com/bangumi/play/ep395217",
      "time": "2021-06-06T04:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019160,
+   "sort": 8,
+   "name": "8日記 みのりの秋",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "丰收的秋天",
+     "url": "https://www.bilibili.com/bangumi/play/ep395218",
+     "time": "2021-06-13T04:00:01.000Z"
     }
    ]
   }

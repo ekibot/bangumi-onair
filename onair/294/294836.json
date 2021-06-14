@@ -7,7 +7,7 @@
    "id": "28233916",
    "week": 7,
    "time": "2300",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "过往的失败伴随着吉兆",
      "url": "https://www.bilibili.com/bangumi/play/ep395237",
      "time": "2021-06-06T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017710,
+   "sort": 11,
+   "name": "脱げなくなった鎧を外す時、不幸と幸福の種が芽を出す",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "当你卸下那脱不掉的铠甲 不幸与幸福的种子一起发芽",
+     "url": "https://www.bilibili.com/bangumi/play/ep395238",
+     "time": "2021-06-13T15:00:01.000Z"
     }
    ]
   }
