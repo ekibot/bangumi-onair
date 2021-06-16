@@ -7,8 +7,7 @@
 --> 
 # Bangumi播放源爬虫
 
-[![](https://data.jsdelivr.com/v1/package/gh/ekibun/bangumi_onair/badge)](https://www.jsdelivr.com/package/gh/ekibun/bangumi_onair)
-![spider](https://github.com/ekibun/bangumi_onair/workflows/spider/badge.svg)
+[![](https://data.jsdelivr.com/v1/package/gh/ekibot/bangumi_onair/badge)](https://www.jsdelivr.com/package/gh/ekibot/bangumi_onair)
 
 基于[bangumi-data](https://github.com/bangumi-data/bangumi-data)数据，借助github action每日更新的Bangumi播放源及时间表数据。目前支持Acfun、哔哩哔哩、爱奇艺、腾讯视频和优酷。
 
