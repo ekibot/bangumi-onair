@@ -7,7 +7,7 @@
    "id": "28232005",
    "week": 3,
    "time": "1735",
-   "sort": 23
+   "sort": 24
   }
  ],
  "eps": [
@@ -316,6 +316,20 @@
      "title": "混沌的一端",
      "url": "https://www.bilibili.com/bangumi/play/ep395843",
      "time": "2021-06-09T09:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1018399,
+   "sort": 23,
+   "name": "永遠の王国",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "永恒王国",
+     "url": "https://www.bilibili.com/bangumi/play/ep395844",
+     "time": "2021-06-16T09:35:01.000Z"
     }
    ]
   }
