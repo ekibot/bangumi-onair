@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28233923",
-   "sort": 12,
+   "sort": 13,
    "week": 6,
    "time": "0300"
   },
@@ -175,6 +175,20 @@
      "title": "记忆",
      "url": "https://www.bilibili.com/bangumi/play/ep391355",
      "time": "2021-06-11T19:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017447,
+   "sort": 12,
+   "name": "ましろのおと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "纯白之音",
+     "url": "https://www.bilibili.com/bangumi/play/ep391356",
+     "time": "2021-06-18T19:00:01.000Z"
     }
    ]
   }

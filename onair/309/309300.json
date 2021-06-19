@@ -7,7 +7,7 @@
    "id": "28233920",
    "week": 6,
    "time": "0255",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "这个世界的无数不幸",
      "url": "https://www.bilibili.com/bangumi/play/ep399493",
      "time": "2021-06-11T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019257,
+   "sort": 11,
+   "name": "審判の刻",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "审判之时",
+     "url": "https://www.bilibili.com/bangumi/play/ep399494",
+     "time": "2021-06-18T18:55:01.000Z"
     }
    ]
   }

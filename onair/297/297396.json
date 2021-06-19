@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28231925",
-   "sort": 24
+   "sort": 25
   }
  ],
  "eps": [
@@ -328,6 +328,20 @@
      "title": "从天而降的是毁灭之兆吗",
      "url": "https://www.bilibili.com/bangumi/play/ep398696",
      "time": "2021-06-11T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1010889,
+   "sort": 24,
+   "name": "我が赴くは星の群か",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "大结局",
+     "url": "https://www.bilibili.com/bangumi/play/ep398697",
+     "time": "2021-06-18T16:30:00.000Z"
     }
    ]
   }
