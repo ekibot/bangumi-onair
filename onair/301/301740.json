@@ -7,7 +7,7 @@
    "id": "28233906",
    "week": 6,
    "time": "1900",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "招待朋友！",
      "url": "https://www.bilibili.com/bangumi/play/ep403363",
      "time": "2021-06-12T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019387,
+   "sort": 6,
+   "name": "王の教室（ロイヤル・ワン）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "王之教室  Royal  one",
+     "url": "https://www.bilibili.com/bangumi/play/ep403364",
+     "time": "2021-06-19T11:00:01.000Z"
     }
    ]
   }

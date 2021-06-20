@@ -7,7 +7,7 @@
    "id": "28233912",
    "week": 7,
    "time": "0125",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "赤裸裸的逃脱作战",
      "url": "https://www.bilibili.com/bangumi/play/ep399530",
      "time": "2021-06-12T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1018686,
+   "sort": 11,
+   "name": "シスター・イヴリィ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "修女·伊芙瑞",
+     "url": "https://www.bilibili.com/bangumi/play/ep399531",
+     "time": "2021-06-19T17:25:01.000Z"
     }
    ]
   }

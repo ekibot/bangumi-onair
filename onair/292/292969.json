@@ -7,7 +7,7 @@
    "id": "28233911",
    "week": 6,
    "time": "2130",
-   "sort": 23
+   "sort": 24
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "吟游诗人来了",
      "url": "https://www.bilibili.com/bangumi/play/ep391726",
      "time": "2021-06-12T13:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019437,
+   "sort": 11,
+   "name": "キノコを食べて子供になった",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "吃下蘑菇变成小孩了",
+     "url": "https://www.bilibili.com/bangumi/play/ep391727",
+     "time": "2021-06-19T13:30:01.000Z"
     }
    ]
   }

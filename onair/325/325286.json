@@ -7,7 +7,7 @@
    "id": "28233942",
    "week": 7,
    "time": "0000",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "用爱奉献的挽歌 -为了那独一无二珍贵的搭档-",
      "url": "https://www.bilibili.com/bangumi/play/ep402374",
      "time": "2021-06-12T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017492,
+   "sort": 9,
+   "name": "Harmony of One's Heart -私の使命、あなたの未来-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "心的和谐 -我的使命，你的未来-",
+     "url": "https://www.bilibili.com/bangumi/play/ep402375",
+     "time": "2021-06-19T16:00:01.000Z"
     }
    ]
   }
