@@ -7,7 +7,7 @@
    "id": "28233916",
    "week": 7,
    "time": "2300",
-   "sort": 13
+   "sort": 14
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "当你卸下那脱不掉的铠甲 不幸与幸福的种子一起发芽",
      "url": "https://www.bilibili.com/bangumi/play/ep395238",
      "time": "2021-06-13T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017711,
+   "sort": 12,
+   "name": "喝采が鳴りやんでも、声なき者の声は消せやしない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "即便喝彩声停歇 无声者的声音也不会消逝",
+     "url": "https://www.bilibili.com/bangumi/play/ep395239",
+     "time": "2021-06-20T15:00:01.000Z"
     }
    ]
   }
