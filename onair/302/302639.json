@@ -7,7 +7,7 @@
    "id": "28232005",
    "week": 3,
    "time": "1735",
-   "sort": 24
+   "sort": 25
   }
  ],
  "eps": [
@@ -330,6 +330,20 @@
      "title": "永恒王国",
      "url": "https://www.bilibili.com/bangumi/play/ep395844",
      "time": "2021-06-16T09:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1018400,
+   "sort": 24,
+   "name": "継がれゆくもの",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "不断传承的事物",
+     "url": "https://www.bilibili.com/bangumi/play/ep395845",
+     "time": "2021-06-23T09:35:01.000Z"
     }
    ]
   }

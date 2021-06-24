@@ -7,7 +7,7 @@
    "id": "28233904",
    "week": 3,
    "time": "2000",
-   "sort": 8
+   "sort": 10
   }
  ],
  "eps": [
@@ -92,6 +92,34 @@
      "title": "笑到最后的人",
      "url": "https://www.bilibili.com/bangumi/play/ep402316",
      "time": "2021-06-09T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017528,
+   "sort": 7,
+   "name": "そうだ、沖縄へ行こう！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "没错，去冲绳吧！",
+     "url": "https://www.bilibili.com/bangumi/play/ep402317",
+     "time": "2021-06-23T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017529,
+   "sort": 8,
+   "name": "逆襲の白草",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "逆袭的白草",
+     "url": "https://www.bilibili.com/bangumi/play/ep402318",
+     "time": "2021-06-23T12:00:01.000Z"
     }
    ]
   }
