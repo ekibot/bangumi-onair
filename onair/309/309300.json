@@ -7,7 +7,7 @@
    "id": "28233920",
    "week": 6,
    "time": "0255",
-   "sort": 13
+   "sort": 14
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "审判之时",
      "url": "https://www.bilibili.com/bangumi/play/ep399494",
      "time": "2021-06-18T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019258,
+   "sort": 12,
+   "name": "すばらしきこのせかい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "美好世界",
+     "url": "https://www.bilibili.com/bangumi/play/ep399495",
+     "time": "2021-06-25T18:55:01.000Z"
     }
    ]
   }
