@@ -7,7 +7,7 @@
    "id": "28233906",
    "week": 6,
    "time": "1900",
-   "sort": 8
+   "sort": 9
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "王之教室  Royal  one",
      "url": "https://www.bilibili.com/bangumi/play/ep403364",
      "time": "2021-06-19T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019388,
+   "sort": 7,
+   "name": "悪魔学校(バビルス)の教師たち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "恶魔学校（巴比鲁斯）的教师们",
+     "url": "https://www.bilibili.com/bangumi/play/ep403365",
+     "time": "2021-06-26T11:00:01.000Z"
     }
    ]
   }

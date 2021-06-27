@@ -7,7 +7,7 @@
    "id": "28233912",
    "week": 7,
    "time": "0125",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "修女·伊芙瑞",
      "url": "https://www.bilibili.com/bangumi/play/ep399531",
      "time": "2021-06-19T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1018687,
+   "sort": 12,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "新的同伴们",
+     "url": "https://www.bilibili.com/bangumi/play/ep399532",
+     "time": "2021-06-26T17:25:01.000Z"
     }
    ]
   }

@@ -7,7 +7,7 @@
    "id": "28233159",
    "week": 7,
    "time": "0030",
-   "sort": 14
+   "sort": 15
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "请求",
      "url": "https://www.bilibili.com/bangumi/play/ep399884",
      "time": "2021-06-19T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019293,
+   "sort": 12,
+   "name": "オーバー・ザ・レインボー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "超越彩虹",
+     "url": "https://www.bilibili.com/bangumi/play/ep399885",
+     "time": "2021-06-26T16:30:01.000Z"
     }
    ]
   }
