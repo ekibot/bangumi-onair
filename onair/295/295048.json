@@ -7,7 +7,7 @@
    "id": "28232007",
    "week": 7,
    "time": "0230",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "押绘和旅行美少年 其一",
      "url": "https://www.bilibili.com/bangumi/play/ep403572",
      "time": "2021-06-26T18:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1014976,
+   "sort": 9,
+   "name": "「押絵と旅する美少年」その２",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "押绘和旅行美少年 其二",
+     "url": "https://www.bilibili.com/bangumi/play/ep403573",
+     "time": "2021-07-03T18:30:01.000Z"
     }
    ]
   }

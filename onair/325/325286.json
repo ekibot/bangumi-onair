@@ -7,7 +7,7 @@
    "id": "28233942",
    "week": 7,
    "time": "0000",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "薇薇乐谱 -真心实意地歌唱-",
      "url": "https://www.bilibili.com/bangumi/play/ep402376",
      "time": "2021-06-26T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017494,
+   "sort": 11,
+   "name": "World's End Modulation -西暦2161年4月11日-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "终焉世界变奏曲 -公元2161年4月11日-",
+     "url": "https://www.bilibili.com/bangumi/play/ep402377",
+     "time": "2021-07-03T16:00:01.000Z"
     }
    ]
   }
