@@ -1,0 +1,27 @@
+{
+ "id": "317680",
+ "name": "かげきしょうじょ!!",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28234655",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 1039558,
+   "sort": 1,
+   "name": "桜舞い散る木の下で",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "在樱花飞舞的树下",
+     "url": "https://www.bilibili.com/bangumi/play/ep409399",
+     "time": "2021-07-03T16:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

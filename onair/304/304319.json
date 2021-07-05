@@ -1,0 +1,27 @@
+{
+ "id": "304319",
+ "name": "現実主義勇者の王国再建記",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28234644",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 944605,
+   "sort": 1,
+   "name": "まず勇者より始めよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "先从勇者开始",
+     "url": "https://www.bilibili.com/bangumi/play/ep409505",
+     "time": "2021-07-03T17:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}
