@@ -1,0 +1,29 @@
+{
+ "id": "320851",
+ "name": "精霊幻想記",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28234625",
+   "week": 2,
+   "time": "0100",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1039900,
+   "sort": 1,
+   "name": "前世の記憶",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "前世的记忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep409914",
+     "time": "2021-07-05T17:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
