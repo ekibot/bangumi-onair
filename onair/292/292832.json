@@ -1,0 +1,27 @@
+{
+ "id": "292832",
+ "name": "うらみちお兄さん",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28234615",
+   "sort": 7
+  }
+ ],
+ "eps": [
+  {
+   "id": 1039863,
+   "sort": 1,
+   "name": "うらみちお兄さん",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "阴晴不定的大哥哥",
+     "url": "https://www.bilibili.com/bangumi/play/ep409942",
+     "time": "2021-07-06T10:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
