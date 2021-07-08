@@ -1,0 +1,29 @@
+{
+ "id": "317275",
+ "name": "月が導く異世界道中",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28234623",
+   "week": 3,
+   "time": "2300",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 1038280,
+   "sort": 1,
+   "name": "勇者…失格",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "勇者…失格",
+     "url": "https://www.bilibili.com/bangumi/play/ep409018",
+     "time": "2021-07-07T16:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
