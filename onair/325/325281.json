@@ -1,0 +1,29 @@
+{
+ "id": "325281",
+ "name": "白い砂のアクアトープ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28234647",
+   "week": 5,
+   "time": "0030",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1040882,
+   "sort": 1,
+   "name": "熱帯魚、逃げた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "相遇在残梦废墟中的两个少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep410621",
+     "time": "2021-07-08T16:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}
