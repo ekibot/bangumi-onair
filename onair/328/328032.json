@@ -7,7 +7,7 @@
    "id": "28233921",
    "week": 6,
    "time": "0230",
-   "sort": 13
+   "sort": 14
   }
  ],
  "eps": [
@@ -176,6 +176,20 @@
      "title": "最深",
      "url": "https://www.bilibili.com/bangumi/play/ep391754",
      "time": "2021-06-25T18:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1021318,
+   "sort": 13,
+   "name": "サム・ガールズ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "女孩子们",
+     "url": "https://www.bilibili.com/bangumi/play/ep391755",
+     "time": "2021-07-09T18:30:01.000Z"
     }
    ]
   }

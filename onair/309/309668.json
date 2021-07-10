@@ -1,0 +1,29 @@
+{
+ "id": "309668",
+ "name": "迷宮ブラックカンパニー",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28234626",
+   "week": 5,
+   "time": "2200",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1039875,
+   "sort": 1,
+   "name": "社畜の世界へようこそ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "欢迎来到社畜的世界",
+     "url": "https://www.bilibili.com/bangumi/play/ep410014",
+     "time": "2021-07-09T14:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28234614",
-   "sort": 3,
+   "sort": 4,
    "week": 6,
    "time": "0155"
   }
@@ -21,7 +21,21 @@
      "sort": 1,
      "title": "因为成功回避了破灭Flag，结果在文化祭上兴奋过头了…",
      "url": "https://www.bilibili.com/bangumi/play/ep409581",
-     "time": "2021-07-02T17:55:01.000Z"
+     "time": "2021-07-02T17:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039523,
+   "sort": 2,
+   "name": "悪役になってしまった…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "变成反派角色了…",
+     "url": "https://www.bilibili.com/bangumi/play/ep409582",
+     "time": "2021-07-09T17:55:01.000Z"
     }
    ]
   }
