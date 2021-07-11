@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28234644",
-   "sort": 2,
+   "sort": 3,
    "week": 7,
    "time": "0130"
   }
@@ -21,7 +21,21 @@
      "sort": 1,
      "title": "先从勇者开始",
      "url": "https://www.bilibili.com/bangumi/play/ep409505",
-     "time": "2021-07-03T17:30:01.000Z"
+     "time": "2021-07-03T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 944606,
+   "sort": 2,
+   "name": "ただ才あらば用いる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "唯才是举",
+     "url": "https://www.bilibili.com/bangumi/play/ep409506",
+     "time": "2021-07-10T17:30:01.000Z"
     }
    ]
   }

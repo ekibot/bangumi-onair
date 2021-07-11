@@ -7,7 +7,7 @@
    "id": "28233906",
    "week": 6,
    "time": "1900",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "小丑的奇迹",
      "url": "https://www.bilibili.com/bangumi/play/ep403366",
      "time": "2021-07-03T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019390,
+   "sort": 9,
+   "name": "魔界のお勉強",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "魔界的学习",
+     "url": "https://www.bilibili.com/bangumi/play/ep403367",
+     "time": "2021-07-10T11:00:01.000Z"
     }
    ]
   }
