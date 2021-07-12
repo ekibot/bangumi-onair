@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 198
+   "sort": 199
   }
  ],
  "eps": [
@@ -5262,6 +5262,20 @@
      "title": "相连的力量",
      "url": "https://www.bilibili.com/bangumi/play/ep409647",
      "time": "2021-07-04T09:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1003718,
+   "sort": 197,
+   "name": "デルタ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 197,
+     "title": "迪鲁达",
+     "url": "https://www.bilibili.com/bangumi/play/ep409648",
+     "time": "2021-07-11T09:30:01.000Z"
     }
    ]
   }

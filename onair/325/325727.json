@@ -1,0 +1,29 @@
+{
+ "id": "325727",
+ "name": "探偵はもう、死んでいる。",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28234637",
+   "week": 7,
+   "time": "2200",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 1037377,
+   "sort": 2,
+   "name": "今も、ずっと、憶えてる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "记忆从未磨灭",
+     "url": "https://www.bilibili.com/bangumi/play/ep409605",
+     "time": "2021-07-11T14:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
