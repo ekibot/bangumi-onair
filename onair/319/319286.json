@@ -1,0 +1,29 @@
+{
+ "id": "319286",
+ "name": "出会って5秒でバトル",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28234627",
+   "week": 2,
+   "time": "0130",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 1039888,
+   "sort": 1,
+   "name": "詭弁家",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "诡辩家",
+     "url": "https://www.bilibili.com/bangumi/play/ep409656",
+     "time": "2021-07-12T17:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}
