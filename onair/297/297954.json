@@ -7,7 +7,7 @@
    "id": "28233896",
    "week": 5,
    "time": "1900",
-   "sort": 15
+   "sort": 16
   }
  ],
  "eps": [
@@ -176,6 +176,20 @@
      "title": "觉醒",
      "url": "https://www.bilibili.com/bangumi/play/ep399387",
      "time": "2021-07-02T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 941174,
+   "sort": 13,
+   "name": "高みへの意志",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "进取的意志",
+     "url": "https://www.bilibili.com/bangumi/play/ep399388",
+     "time": "2021-07-16T11:00:01.000Z"
     }
    ]
   }

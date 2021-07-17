@@ -7,7 +7,7 @@
    "id": "28234641",
    "week": 6,
    "time": "0030",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "没错 去吉风吧",
      "url": "https://www.bilibili.com/bangumi/play/ep411124",
      "time": "2021-07-09T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996426,
+   "sort": 14,
+   "name": "ヤーナ＆アォユーふたりはヴァイクダム",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "雅娜&奥游 两人是维克达姆",
+     "url": "https://www.bilibili.com/bangumi/play/ep411125",
+     "time": "2021-07-16T16:30:01.000Z"
     }
    ]
   }
