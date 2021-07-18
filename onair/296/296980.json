@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 28
+   "sort": 29
   },
   {
    "site": "youku",
@@ -637,6 +637,20 @@
      "title": "势不可挡的龙骑众",
      "url": "https://www.bilibili.com/bangumi/play/ep341358",
      "time": "2021-07-10T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1013985,
+   "sort": 27,
+   "name": "陸戦騎ラーハルト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 27,
+     "title": "陆战骑拉赫特",
+     "url": "https://www.bilibili.com/bangumi/play/ep341359",
+     "time": "2021-07-17T01:30:01.000Z"
     }
    ]
   }

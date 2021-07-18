@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28234644",
-   "sort": 3,
+   "sort": 4,
    "week": 7,
    "time": "0130"
   }
@@ -36,6 +36,20 @@
      "title": "唯才是举",
      "url": "https://www.bilibili.com/bangumi/play/ep409506",
      "time": "2021-07-10T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 944607,
+   "sort": 3,
+   "name": "臣をして忠臣たらしむことなかれ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "为臣不可愚忠",
+     "url": "https://www.bilibili.com/bangumi/play/ep409507",
+     "time": "2021-07-17T17:30:01.000Z"
     }
    ]
   }

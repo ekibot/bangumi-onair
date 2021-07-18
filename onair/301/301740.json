@@ -7,7 +7,7 @@
    "id": "28233906",
    "week": 6,
    "time": "1900",
-   "sort": 13
+   "sort": 14
   }
  ],
  "eps": [
@@ -134,6 +134,20 @@
      "title": "魔界的学习",
      "url": "https://www.bilibili.com/bangumi/play/ep403367",
      "time": "2021-07-10T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019391,
+   "sort": 10,
+   "name": "バラムの授業",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "巴拉姆的课",
+     "url": "https://www.bilibili.com/bangumi/play/ep403368",
+     "time": "2021-07-17T11:00:01.000Z"
     }
    ]
   }
