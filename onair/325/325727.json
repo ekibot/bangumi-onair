@@ -7,7 +7,7 @@
    "id": "28234637",
    "week": 7,
    "time": "2200",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "记忆从未磨灭",
      "url": "https://www.bilibili.com/bangumi/play/ep409605",
      "time": "2021-07-11T14:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1037378,
+   "sort": 3,
+   "name": "それが、唯にゃクオリティ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "这就是唯喵品质！",
+     "url": "https://www.bilibili.com/bangumi/play/ep409606",
+     "time": "2021-07-18T14:00:01.000Z"
     }
    ]
   }
