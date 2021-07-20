@@ -7,7 +7,7 @@
    "id": "28234625",
    "week": 2,
    "time": "0100",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -36,6 +36,20 @@
      "title": "王立学院",
      "url": "https://www.bilibili.com/bangumi/play/ep409915",
      "time": "2021-07-12T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039902,
+   "sort": 3,
+   "name": "偽りの王国",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "虚伪的王国",
+     "url": "https://www.bilibili.com/bangumi/play/ep409916",
+     "time": "2021-07-19T17:00:01.000Z"
     }
    ]
   }

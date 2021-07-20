@@ -7,7 +7,7 @@
    "id": "28234627",
    "week": 2,
    "time": "0130",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "诡辩家",
      "url": "https://www.bilibili.com/bangumi/play/ep409656",
      "time": "2021-07-12T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039889,
+   "sort": 2,
+   "name": "鬼神",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "鬼神",
+     "url": "https://www.bilibili.com/bangumi/play/ep409657",
+     "time": "2021-07-19T17:30:01.000Z"
     }
    ]
   }
