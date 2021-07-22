@@ -7,7 +7,7 @@
    "id": "28234623",
    "week": 3,
    "time": "2300",
-   "sort": 4
+   "sort": 5
   }
  ],
  "eps": [
@@ -36,6 +36,20 @@
      "title": "天灾黑蜘蛛",
      "url": "https://www.bilibili.com/bangumi/play/ep409019",
      "time": "2021-07-14T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1038282,
+   "sort": 3,
+   "name": "ヒューマンショック",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "人族震惊",
+     "url": "https://www.bilibili.com/bangumi/play/ep409020",
+     "time": "2021-07-21T15:00:01.000Z"
     }
    ]
   }
