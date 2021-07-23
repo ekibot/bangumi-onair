@@ -7,7 +7,7 @@
    "id": "28234037",
    "week": 4,
    "time": "1800",
-   "sort": 19
+   "sort": 20
   }
  ],
  "eps": [
@@ -232,6 +232,20 @@
      "title": "向超级飞机头问好",
      "url": "https://www.bilibili.com/bangumi/play/ep399621",
      "time": "2021-07-15T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1035697,
+   "sort": 17,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "天使的手枪",
+     "url": "https://www.bilibili.com/bangumi/play/ep399622",
+     "time": "2021-07-22T10:00:01.000Z"
     }
    ]
   }
