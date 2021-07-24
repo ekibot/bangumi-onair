@@ -7,7 +7,7 @@
    "id": "28233896",
    "week": 5,
    "time": "1900",
-   "sort": 18
+   "sort": 19
   }
  ],
  "eps": [
@@ -189,7 +189,21 @@
      "sort": 13,
      "title": "进取的意志",
      "url": "https://www.bilibili.com/bangumi/play/ep399388",
-     "time": "2021-07-16T11:00:01.000Z"
+     "time": "2021-07-16T11:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 941175,
+   "sort": 14,
+   "name": "自由の島・ジャナンダ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "自由之岛 贾南达",
+     "url": "https://www.bilibili.com/bangumi/play/ep399389",
+     "time": "2021-07-23T11:00:00.000Z"
     }
    ]
   }

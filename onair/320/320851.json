@@ -7,7 +7,7 @@
    "id": "28234625",
    "week": 2,
    "time": "0100",
-   "sort": 6
+   "sort": 15
   }
  ],
  "eps": [
@@ -22,6 +22,13 @@
      "title": "前世的记忆",
      "url": "https://www.bilibili.com/bangumi/play/ep409914",
      "time": "2021-07-05T17:00:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep413818",
+     "time": "2021-07-23T12:00:01.000Z"
     }
    ]
   },
@@ -36,6 +43,13 @@
      "title": "王立学院",
      "url": "https://www.bilibili.com/bangumi/play/ep409915",
      "time": "2021-07-12T17:00:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep413819",
+     "time": "2021-07-23T12:00:01.000Z"
     }
    ]
   },
@@ -50,6 +64,97 @@
      "title": "虚伪的王国",
      "url": "https://www.bilibili.com/bangumi/play/ep409916",
      "time": "2021-07-19T17:00:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep413820",
+     "time": "2021-07-23T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039903,
+   "sort": 4,
+   "name": "暗殺者の少女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep413821",
+     "time": "2021-07-23T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039904,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep413822",
+     "time": "2021-07-23T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039905,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep413823",
+     "time": "2021-07-23T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039906,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep413824",
+     "time": "2021-07-23T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039907,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep413825",
+     "time": "2021-07-23T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039908,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "",
+     "url": "https://www.bilibili.com/bangumi/play/ep413826",
+     "time": "2021-07-23T12:00:01.000Z"
     }
    ]
   }
