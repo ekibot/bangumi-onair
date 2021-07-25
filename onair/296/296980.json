@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 29
+   "sort": 30
   },
   {
    "site": "youku",
@@ -651,6 +651,20 @@
      "title": "陆战骑拉赫特",
      "url": "https://www.bilibili.com/bangumi/play/ep341359",
      "time": "2021-07-17T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1013986,
+   "sort": 28,
+   "name": "ダイの秘密",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 28,
+     "title": "达伊的秘密",
+     "url": "https://www.bilibili.com/bangumi/play/ep341360",
+     "time": "2021-07-24T01:30:01.000Z"
     }
    ]
   }

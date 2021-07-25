@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28234655",
-   "sort": 5,
+   "sort": 6,
    "week": 7,
    "time": "0000"
   }
@@ -50,6 +50,20 @@
      "title": "小熊布偶",
      "url": "https://www.bilibili.com/bangumi/play/ep409401",
      "time": "2021-07-17T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039561,
+   "sort": 4,
+   "name": "涙の上書き",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "充满泪水的改写",
+     "url": "https://www.bilibili.com/bangumi/play/ep409402",
+     "time": "2021-07-24T16:00:01.000Z"
     }
    ]
   }
