@@ -7,7 +7,7 @@
    "id": "28234625",
    "week": 2,
    "time": "0100",
-   "sort": 15
+   "sort": 16
   }
  ],
  "eps": [
@@ -85,13 +85,20 @@
      "title": "",
      "url": "https://www.bilibili.com/bangumi/play/ep413821",
      "time": "2021-07-23T12:00:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "暗杀者少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep409917",
+     "time": "2021-07-26T17:00:01.000Z"
     }
    ]
   },
   {
    "id": 1039904,
    "sort": 5,
-   "name": "",
+   "name": "精霊の森",
    "sites": [
     {
      "site": "bilibili",

@@ -7,7 +7,7 @@
    "id": "28234627",
    "week": 2,
    "time": "0130",
-   "sort": 4
+   "sort": 5
   }
  ],
  "eps": [
@@ -36,6 +36,20 @@
      "title": "鬼神",
      "url": "https://www.bilibili.com/bangumi/play/ep409657",
      "time": "2021-07-19T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039890,
+   "sort": 3,
+   "name": "真剣師",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "真剑师",
+     "url": "https://www.bilibili.com/bangumi/play/ep409658",
+     "time": "2021-07-26T17:30:01.000Z"
     }
    ]
   }
