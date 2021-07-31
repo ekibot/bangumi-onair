@@ -7,7 +7,7 @@
    "id": "28234626",
    "week": 5,
    "time": "2200",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -50,6 +50,20 @@
      "title": "我司的快乐员工培训",
      "url": "https://www.bilibili.com/bangumi/play/ep410016",
      "time": "2021-07-23T14:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039878,
+   "sort": 4,
+   "name": "クレイジー・デスマーチ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "疯狂加班",
+     "url": "https://www.bilibili.com/bangumi/play/ep410017",
+     "time": "2021-07-30T14:00:01.000Z"
     }
    ]
   }

@@ -7,7 +7,7 @@
    "id": "28233896",
    "week": 5,
    "time": "1900",
-   "sort": 19
+   "sort": 20
   }
  ],
  "eps": [
@@ -204,6 +204,20 @@
      "title": "自由之岛 贾南达",
      "url": "https://www.bilibili.com/bangumi/play/ep399389",
      "time": "2021-07-23T11:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 941176,
+   "sort": 15,
+   "name": "トナリという名の少女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "名为托娜莉的少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep399390",
+     "time": "2021-07-30T11:00:01.000Z"
     }
    ]
   }

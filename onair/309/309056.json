@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28234614",
-   "sort": 6,
+   "sort": 7,
    "week": 6,
    "time": "0125"
   }
@@ -64,6 +64,20 @@
      "title": "和秀丽的管家一起愉快地喝茶了…",
      "url": "https://www.bilibili.com/bangumi/play/ep409584",
      "time": "2021-07-23T17:35:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039526,
+   "sort": 5,
+   "name": "弟たちへの愛が溢れてしまった…",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "对弟弟们的爱泛滥了…",
+     "url": "https://www.bilibili.com/bangumi/play/ep409585",
+     "time": "2021-07-30T18:00:01.000Z"
     }
    ]
   }
