@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28234556",
-   "sort": 14,
+   "sort": 15,
    "week": 6,
    "time": "2030"
   }
@@ -64,6 +64,20 @@
      "title": "思考自己能做到的",
      "url": "https://www.bilibili.com/bangumi/play/ep409009",
      "time": "2021-07-24T12:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039550,
+   "sort": 5,
+   "name": "自分の思いを打ちあけて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "表露真心",
+     "url": "https://www.bilibili.com/bangumi/play/ep409010",
+     "time": "2021-07-31T12:30:00.000Z"
     }
    ]
   }
