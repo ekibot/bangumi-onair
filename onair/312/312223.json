@@ -13,8 +13,8 @@
  "eps": [
   {
    "id": 1038410,
-   "sort": 1,
-   "name": "元姫と卯人",
+   "sort": 2,
+   "name": "鬼と人間",
    "sites": [
     {
      "site": "bilibili",
@@ -22,14 +22,7 @@
      "title": "前公主与卯人 ",
      "url": "https://www.bilibili.com/bangumi/play/ep412390",
      "time": "2021-07-15T13:40:01.000Z"
-    }
-   ]
-  },
-  {
-   "id": 1038499,
-   "sort": 2,
-   "name": "鬼と人間",
-   "sites": [
+    },
     {
      "site": "bilibili",
      "sort": 2,
@@ -40,10 +33,17 @@
    ]
   },
   {
-   "id": 1038500,
+   "id": 1038499,
    "sort": 3,
    "name": "サリーと岐路",
    "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "鬼与人",
+     "url": "https://www.bilibili.com/bangumi/play/ep412391",
+     "time": "2021-07-15T13:40:01.000Z"
+    },
     {
      "site": "bilibili",
      "sort": 3,
@@ -54,9 +54,30 @@
    ]
   },
   {
-   "id": 1038409,
+   "id": 1038500,
    "sort": 4,
    "name": "姫と桃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "萨丽与歧路",
+     "url": "https://www.bilibili.com/bangumi/play/ep412392",
+     "time": "2021-07-15T13:40:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "公主与桃",
+     "url": "https://www.bilibili.com/bangumi/play/ep412393",
+     "time": "2021-07-22T13:40:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1038409,
+   "sort": 1,
+   "name": "元姫と卯人",
    "sites": [
     {
      "site": "bilibili",
@@ -64,6 +85,13 @@
      "title": "公主与桃",
      "url": "https://www.bilibili.com/bangumi/play/ep412393",
      "time": "2021-07-22T13:40:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "前公主与卯人 ",
+     "url": "https://www.bilibili.com/bangumi/play/ep412390",
+     "time": "2021-07-15T13:40:01.000Z"
     }
    ]
   },
