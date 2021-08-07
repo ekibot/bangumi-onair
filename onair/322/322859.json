@@ -7,7 +7,7 @@
    "id": "28234641",
    "week": 6,
    "time": "0030",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -64,6 +64,20 @@
      "title": "流动的岛",
      "url": "https://www.bilibili.com/bangumi/play/ep411127",
      "time": "2021-07-30T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996429,
+   "sort": 17,
+   "name": "ツィンコ ビンビン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "崔因果 兵兵",
+     "url": "https://www.bilibili.com/bangumi/play/ep411128",
+     "time": "2021-08-06T16:30:01.000Z"
     }
    ]
   }
