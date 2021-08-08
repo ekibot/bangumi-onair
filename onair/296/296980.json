@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 31
+   "sort": 32
   },
   {
    "site": "youku",
@@ -679,6 +679,20 @@
      "title": "巴兰的怒火",
      "url": "https://www.bilibili.com/bangumi/play/ep341361",
      "time": "2021-07-31T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1013988,
+   "sort": 30,
+   "name": "ポップの覚悟",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 30,
+     "title": "波普的觉悟",
+     "url": "https://www.bilibili.com/bangumi/play/ep341362",
+     "time": "2021-08-07T01:30:01.000Z"
     }
    ]
   }

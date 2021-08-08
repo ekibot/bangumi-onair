@@ -7,7 +7,7 @@
    "id": "28233912",
    "week": 7,
    "time": "0125",
-   "sort": 18
+   "sort": 19
   }
  ],
  "eps": [
@@ -246,6 +246,20 @@
      "title": "知识的宫殿",
      "url": "https://www.bilibili.com/bangumi/play/ep399537",
      "time": "2021-07-31T17:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1021565,
+   "sort": 18,
+   "name": "言葉は強さを与える",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "语言能带来力量",
+     "url": "https://www.bilibili.com/bangumi/play/ep399538",
+     "time": "2021-08-07T18:35:01.000Z"
     }
    ]
   }

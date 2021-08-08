@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28234655",
-   "sort": 7,
+   "sort": 8,
    "week": 7,
    "time": "0000"
   }
@@ -78,6 +78,20 @@
      "title": "被选中的少女",
      "url": "https://www.bilibili.com/bangumi/play/ep409403",
      "time": "2021-07-31T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039563,
+   "sort": 6,
+   "name": "スターの片鱗",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "展露棱角的明星",
+     "url": "https://www.bilibili.com/bangumi/play/ep409404",
+     "time": "2021-08-07T16:00:01.000Z"
     }
    ]
   }
