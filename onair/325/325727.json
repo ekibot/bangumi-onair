@@ -7,7 +7,7 @@
    "id": "28234637",
    "week": 7,
    "time": "2130",
-   "sort": 8
+   "sort": 9
   }
  ],
  "eps": [
@@ -64,6 +64,20 @@
      "title": "那是为了一年后的未来",
      "url": "https://www.bilibili.com/bangumi/play/ep409608",
      "time": "2021-08-01T13:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1037381,
+   "sort": 6,
+   "name": "紅蓮の悪魔、氷の女王",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "业火恶魔，寒冰女王",
+     "url": "https://www.bilibili.com/bangumi/play/ep409609",
+     "time": "2021-08-08T13:30:01.000Z"
     }
    ]
   }
