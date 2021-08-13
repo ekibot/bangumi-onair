@@ -7,7 +7,7 @@
    "id": "28234037",
    "week": 4,
    "time": "1800",
-   "sort": 20
+   "sort": 21
   }
  ],
  "eps": [
@@ -246,6 +246,20 @@
      "title": "天使的手枪",
      "url": "https://www.bilibili.com/bangumi/play/ep399622",
      "time": "2021-07-22T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1035698,
+   "sort": 18,
+   "name": "グレート・スピリッツ　そしてマイチー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "宏伟精魂 以及我的队伍",
+     "url": "https://www.bilibili.com/bangumi/play/ep399623",
+     "time": "2021-08-12T10:00:01.000Z"
     }
    ]
   }

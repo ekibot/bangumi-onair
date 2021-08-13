@@ -7,7 +7,7 @@
    "id": "28234640",
    "week": 4,
    "time": "2140",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "卡洛特与米莉亚",
      "url": "https://www.bilibili.com/bangumi/play/ep412395",
      "time": "2021-08-05T13:40:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1038506,
+   "sort": 7,
+   "name": "種族と居場所",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "种族与容身之所",
+     "url": "https://www.bilibili.com/bangumi/play/ep412396",
+     "time": "2021-08-12T13:40:01.000Z"
     }
    ]
   }
