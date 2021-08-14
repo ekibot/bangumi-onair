@@ -7,7 +7,7 @@
    "id": "28233921",
    "week": 6,
    "time": "0230",
-   "sort": 18
+   "sort": 19
   }
  ],
  "eps": [
@@ -246,6 +246,20 @@
      "title": "天使与天使",
      "url": "https://www.bilibili.com/bangumi/play/ep391759",
      "time": "2021-08-06T18:40:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1021323,
+   "sort": 18,
+   "name": "セメタリー・ゲート",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "墓园之门",
+     "url": "https://www.bilibili.com/bangumi/play/ep391760",
+     "time": "2021-08-13T18:30:01.000Z"
     }
    ]
   }

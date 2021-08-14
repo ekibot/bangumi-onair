@@ -7,7 +7,7 @@
    "id": "28234641",
    "week": 6,
    "time": "0030",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "崔因果 兵兵",
      "url": "https://www.bilibili.com/bangumi/play/ep411128",
      "time": "2021-08-06T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996430,
+   "sort": 18,
+   "name": "彼らはただそれを見上げる",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "他们能做的 只有抬头仰望",
+     "url": "https://www.bilibili.com/bangumi/play/ep411129",
+     "time": "2021-08-13T16:30:01.000Z"
     }
    ]
   }
