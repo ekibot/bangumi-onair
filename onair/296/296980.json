@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 32
+   "sort": 33
   },
   {
    "site": "youku",
@@ -693,6 +693,20 @@
      "title": "波普的觉悟",
      "url": "https://www.bilibili.com/bangumi/play/ep341362",
      "time": "2021-08-07T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1020947,
+   "sort": 31,
+   "name": "父と子の戦い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 31,
+     "title": "父子间的战斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep341363",
+     "time": "2021-08-14T01:30:01.000Z"
     }
    ]
   }
