@@ -7,7 +7,7 @@
    "id": "28234625",
    "week": 2,
    "time": "0100",
-   "sort": 21
+   "sort": 23
   }
  ],
  "eps": [
@@ -140,7 +140,7 @@
   {
    "id": 1039906,
    "sort": 7,
-   "name": "",
+   "name": "約束の地",
    "sites": [
     {
      "site": "bilibili",
@@ -148,6 +148,13 @@
      "title": "",
      "url": "https://www.bilibili.com/bangumi/play/ep413824",
      "time": "2021-07-23T12:00:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "约定之地",
+     "url": "https://www.bilibili.com/bangumi/play/ep409920",
+     "time": "2021-08-18T04:00:01.000Z"
     }
    ]
   },
