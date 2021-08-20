@@ -7,7 +7,7 @@
    "id": "28234640",
    "week": 4,
    "time": "2140",
-   "sort": 8
+   "sort": 9
   }
  ],
  "eps": [
@@ -134,6 +134,20 @@
      "title": "种族与容身之所",
      "url": "https://www.bilibili.com/bangumi/play/ep412396",
      "time": "2021-08-12T13:40:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1038504,
+   "sort": 8,
+   "name": "仲間と仲間",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "同伴与同伴",
+     "url": "https://www.bilibili.com/bangumi/play/ep412397",
+     "time": "2021-08-19T13:40:01.000Z"
     }
    ]
   }
