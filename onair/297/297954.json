@@ -7,7 +7,7 @@
    "id": "28233896",
    "week": 5,
    "time": "1900",
-   "sort": 23
+   "sort": 24
   }
  ],
  "eps": [
@@ -246,6 +246,20 @@
      "title": "先觉者",
      "url": "https://www.bilibili.com/bangumi/play/ep399392",
      "time": "2021-08-13T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 941179,
+   "sort": 18,
+   "name": "進み行くために",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "为了向前迈进",
+     "url": "https://www.bilibili.com/bangumi/play/ep399393",
+     "time": "2021-08-20T11:00:01.000Z"
     }
    ]
   }
