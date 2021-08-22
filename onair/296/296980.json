@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 33
+   "sort": 34
   },
   {
    "site": "youku",
@@ -707,6 +707,20 @@
      "title": "父子间的战斗",
      "url": "https://www.bilibili.com/bangumi/play/ep341363",
      "time": "2021-08-14T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1028588,
+   "sort": 32,
+   "name": "父との決別",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 32,
+     "title": "与父亲的诀别",
+     "url": "https://www.bilibili.com/bangumi/play/ep341364",
+     "time": "2021-08-21T01:30:01.000Z"
     }
    ]
   }
