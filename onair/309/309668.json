@@ -7,7 +7,7 @@
    "id": "28234626",
    "week": 5,
    "time": "2200",
-   "sort": 15
+   "sort": 16
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "回到工作",
      "url": "https://www.bilibili.com/bangumi/play/ep410020",
      "time": "2021-08-20T14:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039882,
+   "sort": 8,
+   "name": "狂気的な兵器",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "疯狂兵器",
+     "url": "https://www.bilibili.com/bangumi/play/ep410021",
+     "time": "2021-08-27T14:00:01.000Z"
     }
    ]
   }

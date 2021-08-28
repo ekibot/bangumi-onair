@@ -7,7 +7,7 @@
    "id": "28233896",
    "week": 5,
    "time": "1900",
-   "sort": 24
+   "sort": 25
   }
  ],
  "eps": [
@@ -260,6 +260,20 @@
      "title": "为了向前迈进",
      "url": "https://www.bilibili.com/bangumi/play/ep399393",
      "time": "2021-08-20T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 941180,
+   "sort": 19,
+   "name": "さまよう殺意",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 19,
+     "title": "迷茫的杀意",
+     "url": "https://www.bilibili.com/bangumi/play/ep399394",
+     "time": "2021-08-27T11:00:01.000Z"
     }
    ]
   }

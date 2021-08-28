@@ -7,7 +7,7 @@
    "id": "28234641",
    "week": 6,
    "time": "0030",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "小短片和第六位勇者",
      "url": "https://www.bilibili.com/bangumi/play/ep411130",
      "time": "2021-08-20T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996432,
+   "sort": 20,
+   "name": "死出の旅",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 20,
+     "title": "赴死之旅",
+     "url": "https://www.bilibili.com/bangumi/play/ep411131",
+     "time": "2021-08-27T16:30:01.000Z"
     }
    ]
   }
