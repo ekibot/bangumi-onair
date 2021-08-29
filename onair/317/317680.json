@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28234655",
-   "sort": 10,
+   "sort": 11,
    "week": 7,
    "time": "0000"
   }
@@ -120,6 +120,20 @@
      "title": "薰之夏",
      "url": "https://www.bilibili.com/bangumi/play/ep409406",
      "time": "2021-08-21T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039566,
+   "sort": 9,
+   "name": "ふたりのジュリエット",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "两位朱丽叶",
+     "url": "https://www.bilibili.com/bangumi/play/ep409407",
+     "time": "2021-08-28T16:00:01.000Z"
     }
    ]
   }

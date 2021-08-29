@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 34
+   "sort": 35
   },
   {
    "site": "youku",
@@ -721,6 +721,20 @@
      "title": "与父亲的诀别",
      "url": "https://www.bilibili.com/bangumi/play/ep341364",
      "time": "2021-08-21T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1028589,
+   "sort": 33,
+   "name": "ザボエラの奇策",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 33,
+     "title": "萨波耶拉的奇策",
+     "url": "https://www.bilibili.com/bangumi/play/ep341365",
+     "time": "2021-08-28T01:30:01.000Z"
     }
    ]
   }
