@@ -7,7 +7,7 @@
    "id": "28234625",
    "week": 2,
    "time": "0100",
-   "sort": 25
+   "sort": 26
   }
  ],
  "eps": [
@@ -182,7 +182,7 @@
   {
    "id": 1039908,
    "sort": 9,
-   "name": "",
+   "name": "それぞれの決意",
    "sites": [
     {
      "site": "bilibili",
@@ -190,6 +190,13 @@
      "title": "",
      "url": "https://www.bilibili.com/bangumi/play/ep413826",
      "time": "2021-07-23T12:00:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "各自的决意",
+     "url": "https://www.bilibili.com/bangumi/play/ep409922",
+     "time": "2021-08-30T17:00:01.000Z"
     }
    ]
   },
