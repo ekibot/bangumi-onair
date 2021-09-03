@@ -7,7 +7,7 @@
    "id": "28234037",
    "week": 4,
    "time": "1800",
-   "sort": 23
+   "sort": 24
   }
  ],
  "eps": [
@@ -288,6 +288,20 @@
      "title": "巧克力爱情的圣诞节",
      "url": "https://www.bilibili.com/bangumi/play/ep399625",
      "time": "2021-08-26T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1035701,
+   "sort": 21,
+   "name": "アイアンメイデン・ジャンヌ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "艾恩梅登·贞德",
+     "url": "https://www.bilibili.com/bangumi/play/ep399626",
+     "time": "2021-09-02T10:00:01.000Z"
     }
    ]
   }
