@@ -7,7 +7,7 @@
    "id": "28234641",
    "week": 6,
    "time": "0030",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "赴死之旅",
      "url": "https://www.bilibili.com/bangumi/play/ep411131",
      "time": "2021-08-27T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996433,
+   "sort": 21,
+   "name": "魔獣総進撃",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "魔兽总进攻",
+     "url": "https://www.bilibili.com/bangumi/play/ep411132",
+     "time": "2021-09-03T16:30:01.000Z"
     }
    ]
   }
