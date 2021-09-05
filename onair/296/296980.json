@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 35
+   "sort": 36
   },
   {
    "site": "youku",
@@ -735,6 +735,20 @@
      "title": "萨波耶拉的奇策",
      "url": "https://www.bilibili.com/bangumi/play/ep341365",
      "time": "2021-08-28T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1028590,
+   "sort": 34,
+   "name": "ロスモ武術大会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 34,
+     "title": "罗莫斯武术大会",
+     "url": "https://www.bilibili.com/bangumi/play/ep341366",
+     "time": "2021-09-04T01:30:01.000Z"
     }
    ]
   }

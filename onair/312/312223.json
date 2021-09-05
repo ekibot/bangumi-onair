@@ -7,7 +7,7 @@
    "id": "28234640",
    "week": 4,
    "time": "2140",
-   "sort": 10
+   "sort": 11
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "命与命",
      "url": "https://www.bilibili.com/bangumi/play/ep412398",
      "time": "2021-08-26T13:40:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1038503,
+   "sort": 10,
+   "name": "戦禍と恨み",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "战祸与仇恨",
+     "url": "https://www.bilibili.com/bangumi/play/ep412399",
+     "time": "2021-09-04T16:00:01.000Z"
     }
    ]
   }

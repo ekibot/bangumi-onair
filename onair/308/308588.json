@@ -7,7 +7,7 @@
    "id": "28233912",
    "week": 7,
    "time": "0125",
-   "sort": 21
+   "sort": 22
   }
  ],
  "eps": [
@@ -288,6 +288,20 @@
      "title": "矿石生命体（Stones）",
      "url": "https://www.bilibili.com/bangumi/play/ep399540",
      "time": "2021-08-28T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1021568,
+   "sort": 21,
+   "name": "リセット",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "重置",
+     "url": "https://www.bilibili.com/bangumi/play/ep399541",
+     "time": "2021-09-04T17:30:01.000Z"
     }
    ]
   }
