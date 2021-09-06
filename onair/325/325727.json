@@ -7,7 +7,7 @@
    "id": "28234637",
    "week": 7,
    "time": "2130",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "SPES",
      "url": "https://www.bilibili.com/bangumi/play/ep409612",
      "time": "2021-08-29T13:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1037385,
+   "sort": 10,
+   "name": "だから俺は、探偵にはなれない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "所以我当不了侦探",
+     "url": "https://www.bilibili.com/bangumi/play/ep409613",
+     "time": "2021-09-05T13:30:01.000Z"
     }
    ]
   }
