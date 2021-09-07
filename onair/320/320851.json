@@ -7,7 +7,7 @@
    "id": "28234625",
    "week": 2,
    "time": "0100",
-   "sort": 27
+   "sort": 28
   }
  ],
  "eps": [
@@ -203,7 +203,7 @@
   {
    "id": 1039909,
    "sort": 10,
-   "name": "",
+   "name": "精霊の目覚め",
    "sites": [
     {
      "site": "bilibili",
@@ -211,6 +211,13 @@
      "title": "",
      "url": "https://www.bilibili.com/bangumi/play/ep414117",
      "time": "2021-07-27T10:00:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "精灵的苏醒",
+     "url": "https://www.bilibili.com/bangumi/play/ep409923",
+     "time": "2021-09-06T17:00:01.000Z"
     }
    ]
   }
