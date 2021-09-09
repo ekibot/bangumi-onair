@@ -7,7 +7,7 @@
    "id": "28234623",
    "week": 3,
    "time": "2300",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -134,6 +134,20 @@
      "title": "吃还是被吃",
      "url": "https://www.bilibili.com/bangumi/play/ep409026",
      "time": "2021-09-01T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1038289,
+   "sort": 10,
+   "name": "鬼の隠れ里",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "凶鬼秘村",
+     "url": "https://www.bilibili.com/bangumi/play/ep409027",
+     "time": "2021-09-08T15:00:01.000Z"
     }
    ]
   }
