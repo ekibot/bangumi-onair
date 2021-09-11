@@ -7,7 +7,7 @@
    "id": "28234641",
    "week": 6,
    "time": "0030",
-   "sort": 13
+   "sort": 14
   }
  ],
  "eps": [
@@ -134,6 +134,20 @@
      "title": "魔兽总进攻",
      "url": "https://www.bilibili.com/bangumi/play/ep411132",
      "time": "2021-09-03T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996434,
+   "sort": 22,
+   "name": "滅亡への意志",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "走向灭亡的意志",
+     "url": "https://www.bilibili.com/bangumi/play/ep411133",
+     "time": "2021-09-10T16:30:01.000Z"
     }
    ]
   }
