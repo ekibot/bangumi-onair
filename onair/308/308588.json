@@ -7,7 +7,7 @@
    "id": "28233912",
    "week": 7,
    "time": "0125",
-   "sort": 22
+   "sort": 23
   }
  ],
  "eps": [
@@ -302,6 +302,20 @@
      "title": "重置",
      "url": "https://www.bilibili.com/bangumi/play/ep399541",
      "time": "2021-09-04T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1021569,
+   "sort": 22,
+   "name": "機械の母",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "机械母亲",
+     "url": "https://www.bilibili.com/bangumi/play/ep399542",
+     "time": "2021-09-11T17:25:01.000Z"
     }
    ]
   }
