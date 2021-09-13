@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 207
+   "sort": 208
   }
  ],
  "eps": [
@@ -5388,6 +5388,20 @@
      "title": "证明",
      "url": "https://www.bilibili.com/bangumi/play/ep416394",
      "time": "2021-09-05T09:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1041357,
+   "sort": 206,
+   "name": "新生第七班",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 206,
+     "title": "新生第七班",
+     "url": "https://www.bilibili.com/bangumi/play/ep416395",
+     "time": "2021-09-12T09:30:01.000Z"
     }
    ]
   }
