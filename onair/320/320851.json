@@ -7,7 +7,7 @@
    "id": "28234625",
    "week": 2,
    "time": "0100",
-   "sort": 29
+   "sort": 30
   }
  ],
  "eps": [
@@ -218,6 +218,20 @@
      "title": "精灵的苏醒",
      "url": "https://www.bilibili.com/bangumi/play/ep409923",
      "time": "2021-09-06T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039910,
+   "sort": 11,
+   "name": "白銀の花嫁",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "白银新娘",
+     "url": "https://www.bilibili.com/bangumi/play/ep409924",
+     "time": "2021-09-13T17:00:01.000Z"
     }
    ]
   }
