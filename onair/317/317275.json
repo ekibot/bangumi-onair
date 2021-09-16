@@ -7,7 +7,7 @@
    "id": "28234623",
    "week": 3,
    "time": "2300",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "凶鬼秘村",
      "url": "https://www.bilibili.com/bangumi/play/ep409027",
      "time": "2021-09-08T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1038290,
+   "sort": 11,
+   "name": "さようなら",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "就此别过",
+     "url": "https://www.bilibili.com/bangumi/play/ep409028",
+     "time": "2021-09-15T15:00:01.000Z"
     }
    ]
   }

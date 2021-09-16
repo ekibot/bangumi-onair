@@ -7,7 +7,7 @@
    "id": "28234627",
    "week": 2,
    "time": "0130",
-   "sort": 8
+   "sort": 11
   }
  ],
  "eps": [
@@ -92,6 +92,48 @@
      "title": "调停者",
      "url": "https://www.bilibili.com/bangumi/play/ep409661",
      "time": "2021-08-17T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039894,
+   "sort": 7,
+   "name": "暴君",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "暴君",
+     "url": "https://www.bilibili.com/bangumi/play/ep409662",
+     "time": "2021-09-15T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039895,
+   "sort": 8,
+   "name": "護衛官",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "警卫官",
+     "url": "https://www.bilibili.com/bangumi/play/ep409663",
+     "time": "2021-09-15T14:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039896,
+   "sort": 9,
+   "name": "鉄の処女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "铁处女",
+     "url": "https://www.bilibili.com/bangumi/play/ep409664",
+     "time": "2021-09-15T15:00:01.000Z"
     }
    ]
   }
