@@ -7,7 +7,7 @@
    "id": "28234640",
    "week": 4,
    "time": "2140",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -190,6 +190,20 @@
      "title": "理想与现实",
      "url": "https://www.bilibili.com/bangumi/play/ep412400",
      "time": "2021-09-09T13:40:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1038508,
+   "sort": 12,
+   "name": "決意と別れ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "决心与别离",
+     "url": "https://www.bilibili.com/bangumi/play/ep412401",
+     "time": "2021-09-16T13:40:01.000Z"
     }
    ]
   }
