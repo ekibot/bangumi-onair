@@ -7,7 +7,7 @@
    "id": "28234626",
    "week": 5,
    "time": "2200",
-   "sort": 17
+   "sort": 19
   }
  ],
  "eps": [
@@ -134,6 +134,34 @@
      "title": "寂静堡垒",
      "url": "https://www.bilibili.com/bangumi/play/ep410022",
      "time": "2021-09-03T14:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039884,
+   "sort": 10,
+   "name": "ニュー・ダンジョン・パラダイス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "新迷宫乐园",
+     "url": "https://www.bilibili.com/bangumi/play/ep410023",
+     "time": "2021-09-17T14:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039885,
+   "sort": 11,
+   "name": "Crash EvolutiOn",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "破坏与变革",
+     "url": "https://www.bilibili.com/bangumi/play/ep410024",
+     "time": "2021-09-17T14:00:01.000Z"
     }
    ]
   }
