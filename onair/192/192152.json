@@ -1,0 +1,69 @@
+{
+ "id": "192152",
+ "name": "宇宙戦艦ヤマト2202 愛の戦士たち 第三章",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "73092",
+   "sort": 16
+  }
+ ],
+ "eps": [
+  {
+   "id": 766288,
+   "sort": 7,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "第三章 纯爱篇 01",
+     "url": "https://www.bilibili.com/bangumi/play/ep197765",
+     "time": "2018-02-20T11:57:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766289,
+   "sort": 8,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "第三章 纯爱篇 02",
+     "url": "https://www.bilibili.com/bangumi/play/ep197766",
+     "time": "2018-02-20T11:57:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766290,
+   "sort": 9,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "第三章 纯爱篇 03",
+     "url": "https://www.bilibili.com/bangumi/play/ep197767",
+     "time": "2018-02-20T11:57:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 766291,
+   "sort": 10,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "第三章 纯爱篇 04",
+     "url": "https://www.bilibili.com/bangumi/play/ep198350",
+     "time": "2018-03-20T07:21:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -7,7 +7,7 @@
    "id": "28233912",
    "week": 7,
    "time": "0125",
-   "sort": 23
+   "sort": 24
   }
  ],
  "eps": [
@@ -316,6 +316,20 @@
      "title": "机械母亲",
      "url": "https://www.bilibili.com/bangumi/play/ep399542",
      "time": "2021-09-11T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1021570,
+   "sort": 23,
+   "name": "いつか強さに変わるまで",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "直到化为坚强之时",
+     "url": "https://www.bilibili.com/bangumi/play/ep399543",
+     "time": "2021-09-18T17:25:01.000Z"
     }
    ]
   }

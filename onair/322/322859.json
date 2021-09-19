@@ -7,7 +7,7 @@
    "id": "28234641",
    "week": 6,
    "time": "0030",
-   "sort": 14
+   "sort": 15
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "走向灭亡的意志",
      "url": "https://www.bilibili.com/bangumi/play/ep411133",
      "time": "2021-09-10T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 996435,
+   "sort": 23,
+   "name": "ドラゴンビショップ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "龙族主教",
+     "url": "https://www.bilibili.com/bangumi/play/ep411134",
+     "time": "2021-09-18T16:00:02.000Z"
     }
    ]
   }

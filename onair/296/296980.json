@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 37
+   "sort": 38
   },
   {
    "site": "youku",
@@ -763,6 +763,20 @@
      "title": "决赛异变",
      "url": "https://www.bilibili.com/bangumi/play/ep341367",
      "time": "2021-09-11T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1028592,
+   "sort": 36,
+   "name": "超魔生物対チウ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 36,
+     "title": "超魔生物对战啾",
+     "url": "https://www.bilibili.com/bangumi/play/ep341368",
+     "time": "2021-09-18T16:00:01.000Z"
     }
    ]
   }

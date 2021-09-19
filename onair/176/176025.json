@@ -1,0 +1,41 @@
+{
+ "id": "176025",
+ "name": "宇宙戦艦ヤマト2202 愛の戦士たち 第一章",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "73092",
+   "sort": 16
+  }
+ ],
+ "eps": [
+  {
+   "id": 713932,
+   "sort": 1,
+   "name": "西暦2202年・甦れ宇宙戦艦ヤマト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "第一章 嚆矢篇 01",
+     "url": "https://www.bilibili.com/bangumi/play/ep197759",
+     "time": "2018-02-20T11:57:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 713933,
+   "sort": 2,
+   "name": "緊迫・月面大使館に潜行せよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "第一章 嚆矢篇 02",
+     "url": "https://www.bilibili.com/bangumi/play/ep197760",
+     "time": "2018-02-20T11:57:00.000Z"
+    }
+   ]
+  }
+ ]
+}

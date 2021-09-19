@@ -1,0 +1,41 @@
+{
+ "id": "192154",
+ "name": "宇宙戦艦ヤマト2202 愛の戦士たち 第五章",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "73092",
+   "sort": 16
+  }
+ ],
+ "eps": [
+  {
+   "id": 839520,
+   "sort": 15,
+   "name": "テレサよ、デスラーのために泣け！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "第五章炼狱篇 01",
+     "url": "https://www.bilibili.com/bangumi/play/ep257302",
+     "time": "2018-11-26T03:14:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 839521,
+   "sort": 16,
+   "name": "さらばテレサよ！二人のデスラーに花束を",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 16,
+     "title": "第五章炼狱篇 02",
+     "url": "https://www.bilibili.com/bangumi/play/ep260644",
+     "time": "2019-01-12T11:03:00.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "id": "192151",
+ "name": "宇宙戦艦ヤマト2202 愛の戦士たち 第二章",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "73092",
+   "sort": 16
+  }
+ ],
+ "eps": [
+  {
+   "id": 745949,
+   "sort": 3,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "第二章 发进篇 01",
+     "url": "https://www.bilibili.com/bangumi/play/ep197761",
+     "time": "2018-02-20T11:57:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 745950,
+   "sort": 4,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "第二章 发进篇 02",
+     "url": "https://www.bilibili.com/bangumi/play/ep197762",
+     "time": "2018-02-20T11:57:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 745951,
+   "sort": 5,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "第二章 发进篇 03",
+     "url": "https://www.bilibili.com/bangumi/play/ep197763",
+     "time": "2018-02-20T11:57:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 745952,
+   "sort": 6,
+   "name": "",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "第二章 发进篇 04",
+     "url": "https://www.bilibili.com/bangumi/play/ep197764",
+     "time": "2018-02-20T11:57:00.000Z"
+    }
+   ]
+  }
+ ]
+}

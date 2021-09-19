@@ -1,0 +1,69 @@
+{
+ "id": "192153",
+ "name": "宇宙戦艦ヤマト2202 愛の戦士たち 第四章",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "73092",
+   "sort": 16
+  }
+ ],
+ "eps": [
+  {
+   "id": 806002,
+   "sort": 11,
+   "name": "デスラーの挑戦！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "第四章天命篇 01",
+     "url": "https://www.bilibili.com/bangumi/play/ep215989",
+     "time": "2018-06-18T12:57:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 806003,
+   "sort": 12,
+   "name": "驚異の白色彗星帝国・ヤマト強行突破！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "第四章天命篇 02",
+     "url": "https://www.bilibili.com/bangumi/play/ep215990",
+     "time": "2018-06-18T12:58:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 806004,
+   "sort": 13,
+   "name": "テレザート上陸作戦・敵ミサイル艦隊を叩け！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "第四章天命篇 03",
+     "url": "https://www.bilibili.com/bangumi/play/ep240714",
+     "time": "2018-08-08T03:24:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 806005,
+   "sort": 14,
+   "name": "ザバイバル猛攻・テレサを発見せよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "第四章天命篇04",
+     "url": "https://www.bilibili.com/bangumi/play/ep240716",
+     "time": "2018-08-08T03:24:00.000Z"
+    }
+   ]
+  }
+ ]
+}
