@@ -11,6 +11,11 @@
    "site": "bilibili",
    "id": "1662",
    "sort": 13
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrjpu3yl",
+   "sort": 13
   }
  ],
  "eps": [
@@ -31,6 +36,13 @@
      "title": "妖怪之名",
      "url": "https://www.bilibili.com/bangumi/play/ep30160",
      "time": "2015-01-22T07:05:34.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "妖怪之名",
+     "url": "http://www.iqiyi.com/v_19rrjvcli8.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   },
@@ -51,6 +63,13 @@
      "title": "浮春之乡",
      "url": "https://www.bilibili.com/bangumi/play/ep30161",
      "time": "2015-01-22T07:05:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "浮春之乡",
+     "url": "http://www.iqiyi.com/v_19rrjvcmkc.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   },
@@ -71,6 +90,13 @@
      "title": "虚伪的朋友",
      "url": "https://www.bilibili.com/bangumi/play/ep30162",
      "time": "2015-01-22T07:05:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "虚伪的朋友",
+     "url": "http://www.iqiyi.com/v_19rrjvdqgw.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   },
@@ -91,6 +117,13 @@
      "title": "幼年时光",
      "url": "https://www.bilibili.com/bangumi/play/ep30163",
      "time": "2015-01-22T07:05:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "童年时光",
+     "url": "http://www.iqiyi.com/v_19rrjvdq30.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   },
@@ -111,6 +144,13 @@
      "title": "藏于仓库之物",
      "url": "https://www.bilibili.com/bangumi/play/ep30164",
      "time": "2015-01-22T07:05:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "藏身于仓库之物",
+     "url": "http://www.iqiyi.com/v_19rrjvdsb4.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   },
@@ -131,6 +171,13 @@
      "title": "非人之物",
      "url": "https://www.bilibili.com/bangumi/play/ep30165",
      "time": "2015-01-22T07:05:34.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "非人之物",
+     "url": "http://www.iqiyi.com/v_19rrjvdtrs.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   },
@@ -151,6 +198,13 @@
      "title": "除妖人",
      "url": "https://www.bilibili.com/bangumi/play/ep30166",
      "time": "2015-01-22T07:05:34.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "除妖人",
+     "url": "http://www.iqiyi.com/v_19rrjvdv0g.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   },
@@ -171,6 +225,13 @@
      "title": "小狐狸的手表",
      "url": "https://www.bilibili.com/bangumi/play/ep30167",
      "time": "2015-01-22T07:05:34.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "小狐狸的手表",
+     "url": "http://www.iqiyi.com/v_19rrjvdl9k.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   },
@@ -191,6 +252,13 @@
      "title": "迎着秋风",
      "url": "https://www.bilibili.com/bangumi/play/ep30168",
      "time": "2015-01-22T07:05:34.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "迎着秋风",
+     "url": "http://www.iqiyi.com/v_19rrjvdk14.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   },
@@ -211,6 +279,13 @@
      "title": "破碎的镜子",
      "url": "https://www.bilibili.com/bangumi/play/ep30169",
      "time": "2015-01-22T07:05:34.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "破碎的镜子",
+     "url": "http://www.iqiyi.com/v_19rrjvdmk0.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   },
@@ -231,6 +306,13 @@
      "title": "映照之物",
      "url": "https://www.bilibili.com/bangumi/play/ep30170",
      "time": "2015-01-22T07:05:34.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "所映之物",
+     "url": "http://www.iqiyi.com/v_19rrjvdlrc.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   },
@@ -251,6 +333,13 @@
      "title": "归宿",
      "url": "https://www.bilibili.com/bangumi/play/ep30171",
      "time": "2015-01-22T07:05:34.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "依归之处",
+     "url": "http://www.iqiyi.com/v_19rrjvdnxw.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   },
@@ -271,6 +360,13 @@
      "title": "夏目游戏帐",
      "url": "https://www.bilibili.com/bangumi/play/ep30172",
      "time": "2015-01-22T07:05:34.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 13,
+     "title": "夏目游戏帐",
+     "url": "http://www.iqiyi.com/v_19rrjvdnlk.html",
+     "time": "2013-03-06T01:12:09.000Z"
     }
    ]
   }

@@ -14,7 +14,7 @@
    "id": "a_giqcbo152p",
    "week": 2,
    "time": "2300",
-   "sort": 13
+   "sort": 25
   }
  ],
  "eps": [
@@ -43,6 +43,13 @@
      "title": "利姆鲁繁忙的每一天",
      "url": "https://www.bilibili.com/bangumi/play/ep374001",
      "time": "2021-01-12T15:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 25,
+     "title": "第47话 起死回生",
+     "url": "http://www.iqiyi.com/v_2g9r4amjfgo.html",
+     "time": "2021-09-14T15:00:06.000Z"
     }
    ]
   },

@@ -7,12 +7,12 @@
    "id": "a_19rrh9f0tx",
    "week": 7,
    "time": "1730",
-   "sort": 200
+   "sort": 206
   },
   {
    "site": "youku",
    "id": "311801efbfbd111211ef",
-   "sort": 192,
+   "sort": 206,
    "week": 7,
    "time": "1730"
   },
@@ -5220,6 +5220,12 @@
      "title": "同居",
      "url": "https://www.bilibili.com/bangumi/play/ep409644",
      "time": "2021-07-04T09:30:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 193,
+     "title": "同居",
+     "url": "https://v.youku.com/v_show/id_XNTEzMDk4NjMwNA==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5234,6 +5240,12 @@
      "title": "旋涡家",
      "url": "https://www.bilibili.com/bangumi/play/ep409645",
      "time": "2021-07-04T09:30:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 194,
+     "title": "旋涡家",
+     "url": "https://v.youku.com/v_show/id_XNTEzNDYwNzU0MA==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5248,6 +5260,12 @@
      "title": "花瓶",
      "url": "https://www.bilibili.com/bangumi/play/ep409646",
      "time": "2021-07-04T09:30:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 195,
+     "title": "花瓶",
+     "url": "https://v.youku.com/v_show/id_XNTEzODY5NzgwNA==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5262,6 +5280,12 @@
      "title": "相连的力量",
      "url": "https://www.bilibili.com/bangumi/play/ep409647",
      "time": "2021-07-04T09:30:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 196,
+     "title": "相连的力量",
+     "url": "https://v.youku.com/v_show/id_XNTE0MjEzNDA5Ng==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5276,6 +5300,12 @@
      "title": "迪鲁达",
      "url": "https://www.bilibili.com/bangumi/play/ep409648",
      "time": "2021-07-11T09:30:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 197,
+     "title": "迪鲁达",
+     "url": "https://v.youku.com/v_show/id_XNTE0NjI5NDM0NA==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5290,6 +5320,12 @@
      "title": "怪物",
      "url": "https://www.bilibili.com/bangumi/play/ep409649",
      "time": "2021-07-18T09:30:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 198,
+     "title": "怪物",
+     "url": "https://v.youku.com/v_show/id_XNTE0OTM0MjI0NA==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5304,6 +5340,12 @@
      "title": "超负荷",
      "url": "https://www.bilibili.com/bangumi/play/ep409650",
      "time": "2021-07-25T09:30:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 199,
+     "title": "超负荷",
+     "url": "https://v.youku.com/v_show/id_XNTE1MzMzMzI1Ng==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5318,6 +5360,12 @@
      "title": "拜师",
      "url": "https://www.bilibili.com/bangumi/play/ep409651",
      "time": "2021-08-01T09:30:01.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 200,
+     "title": "拜师",
+     "url": "https://v.youku.com/v_show/id_XNTE1Nzg4NTM4NA==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5332,6 +5380,19 @@
      "title": "空壳子的眼泪",
      "url": "https://www.bilibili.com/bangumi/play/ep409652",
      "time": "2021-08-08T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 201,
+     "title": "空壳子的眼泪",
+     "url": "http://www.iqiyi.com/v_1pe47hpztvs.html",
+     "time": "2021-08-08T09:30:05.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 201,
+     "title": "空壳子的眼泪",
+     "url": "https://v.youku.com/v_show/id_XNTE2MTE3MjUxMg==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5346,6 +5407,19 @@
      "title": "教团",
      "url": "https://www.bilibili.com/bangumi/play/ep409653",
      "time": "2021-08-15T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 202,
+     "title": "教团",
+     "url": "http://www.iqiyi.com/v_1enx87nbeyc.html",
+     "time": "2021-08-15T09:30:04.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 202,
+     "title": "教团",
+     "url": "https://v.youku.com/v_show/id_XNTE2NDE4MzcwMA==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5360,6 +5434,19 @@
      "title": "急袭",
      "url": "https://www.bilibili.com/bangumi/play/ep416392",
      "time": "2021-08-22T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 203,
+     "title": "急袭…!!",
+     "url": "http://www.iqiyi.com/v_1uk95aei5vk.html",
+     "time": "2021-08-22T09:30:03.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 203,
+     "title": "急袭",
+     "url": "https://v.youku.com/v_show/id_XNTE2NzIzMjA5Mg==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5374,6 +5461,19 @@
      "title": "危险的家伙",
      "url": "https://www.bilibili.com/bangumi/play/ep416393",
      "time": "2021-08-29T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 204,
+     "title": "危险的家伙",
+     "url": "http://www.iqiyi.com/v_140w67722ww.html",
+     "time": "2021-08-29T09:30:06.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 204,
+     "title": "危险的家伙",
+     "url": "https://v.youku.com/v_show/id_XNTE3MDI1MTYxNg==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5388,6 +5488,19 @@
      "title": "证明",
      "url": "https://www.bilibili.com/bangumi/play/ep416394",
      "time": "2021-09-05T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 205,
+     "title": "证明",
+     "url": "http://www.iqiyi.com/v_1mkinx24b10.html",
+     "time": "2021-09-05T09:30:05.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 205,
+     "title": "证明",
+     "url": "https://v.youku.com/v_show/id_XNTE3MzE4MzU2OA==.html?s=311801efbfbd111211ef"
     }
    ]
   },
@@ -5402,6 +5515,19 @@
      "title": "新生第七班",
      "url": "https://www.bilibili.com/bangumi/play/ep416395",
      "time": "2021-09-12T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 206,
+     "title": "新生第七班",
+     "url": "http://www.iqiyi.com/v_1hk3olg7smw.html",
+     "time": "2021-09-12T09:30:05.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 206,
+     "title": "新生第七班",
+     "url": "https://v.youku.com/v_show/id_XNTE3NjQxNjQxMg==.html?s=311801efbfbd111211ef"
     }
    ]
   }

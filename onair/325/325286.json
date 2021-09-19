@@ -7,7 +7,7 @@
    "id": "28233942",
    "week": 7,
    "time": "0000",
-   "sort": 12
+   "sort": 14
   }
  ],
  "eps": [
@@ -63,7 +63,7 @@
      "sort": 4,
      "title": "北极星合奏 -我们的约定-",
      "url": "https://www.bilibili.com/bangumi/play/ep402370",
-     "time": "2021-05-15T16:00:01.000Z"
+     "time": "2021-05-15T16:00:00.000Z"
     }
    ]
   },
@@ -77,7 +77,7 @@
      "sort": 5,
      "title": "歌唱我的快乐 -让你绽放笑容-",
      "url": "https://www.bilibili.com/bangumi/play/ep402371",
-     "time": "2021-05-22T16:00:01.000Z"
+     "time": "2021-05-22T16:00:00.000Z"
     }
    ]
   },
@@ -91,7 +91,7 @@
      "sort": 6,
      "title": "歌唱我的快乐-爱着你-",
      "url": "https://www.bilibili.com/bangumi/play/ep402372",
-     "time": "2021-05-29T16:00:01.000Z"
+     "time": "2021-05-29T16:00:00.000Z"
     }
    ]
   },
@@ -105,7 +105,7 @@
      "sort": 7,
      "title": "银河之歌-为了用歌声给大家带来幸福-",
      "url": "https://www.bilibili.com/bangumi/play/ep402373",
-     "time": "2021-06-05T16:00:01.000Z"
+     "time": "2021-06-05T16:00:00.000Z"
     }
    ]
   },
@@ -119,7 +119,7 @@
      "sort": 8,
      "title": "用爱奉献的挽歌 -为了那独一无二珍贵的搭档-",
      "url": "https://www.bilibili.com/bangumi/play/ep402374",
-     "time": "2021-06-12T16:00:01.000Z"
+     "time": "2021-06-12T16:00:00.000Z"
     }
    ]
   },
@@ -133,7 +133,7 @@
      "sort": 9,
      "title": "心的和谐 -我的使命，你的未来-",
      "url": "https://www.bilibili.com/bangumi/play/ep402375",
-     "time": "2021-06-19T16:00:01.000Z"
+     "time": "2021-06-19T16:00:00.000Z"
     }
    ]
   },
@@ -147,7 +147,7 @@
      "sort": 10,
      "title": "薇薇乐谱 -真心实意地歌唱-",
      "url": "https://www.bilibili.com/bangumi/play/ep402376",
-     "time": "2021-06-26T16:00:01.000Z"
+     "time": "2021-06-26T16:00:00.000Z"
     }
    ]
   },
@@ -161,7 +161,35 @@
      "sort": 11,
      "title": "终焉世界变奏曲 -公元2161年4月11日-",
      "url": "https://www.bilibili.com/bangumi/play/ep402377",
-     "time": "2021-07-03T16:00:01.000Z"
+     "time": "2021-07-03T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017495,
+   "sort": 12,
+   "name": "Refrain -私の使命-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "副歌-我的使命-",
+     "url": "https://www.bilibili.com/bangumi/play/ep402378",
+     "time": "2021-07-10T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1017496,
+   "sort": 13,
+   "name": "Fluorite Eye's Song",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "萤石眼之歌",
+     "url": "https://www.bilibili.com/bangumi/play/ep402379",
+     "time": "2021-07-17T16:00:00.000Z"
     }
    ]
   }

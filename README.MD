@@ -13,14 +13,14 @@
 
 ### 使用方法
 
-数据类型定义见[`./spider.d.ts`](https://github.com/ekibun/bangumi_onair/blob/spider/spider.d.ts)
+数据类型定义见[`./spider.d.ts`](https://github.com/ekibot/bangumi-onair/blob/spider/spider.d.ts)
 
 时间表数据，返回`CalendarItem[]`
 ```
-https://cdn.jsdelivr.net/gh/ekibun/bangumi_onair/calendar.json
+https://cdn.jsdelivr.net/gh/ekibot/bangumi-onair/calendar.json
 ```
 
 条目放送数据，返回`Subject`
 ```
-https://cdn.jsdelivr.net/gh/ekibun/bangumi_onair/onair/{id/1000}/{id}.json
+https://cdn.jsdelivr.net/gh/ekibot/bangumi-onair/onair/{id/1000}/{id}.json
 ```

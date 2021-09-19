@@ -16,6 +16,11 @@
    "site": "youku",
    "id": "cc006b96962411de83b1",
    "sort": 13
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrk05u75",
+   "sort": 13
   }
  ],
  "eps": [
@@ -42,6 +47,13 @@
      "sort": 1,
      "title": "第01话 被夺走的友人帐",
      "url": "https://v.youku.com/v_show/id_XNDM5NzQ2MzQ0.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "被夺走的友人帐",
+     "url": "http://www.iqiyi.com/v_19rrk7vv6o.html",
+     "time": "2012-05-31T02:59:19.000Z"
     }
    ]
   },
@@ -68,6 +80,13 @@
      "sort": 2,
      "title": "第02话 融化于暖春",
      "url": "https://v.youku.com/v_show/id_XNDM5NzQ3MDQw.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "融化于暖春",
+     "url": "http://www.iqiyi.com/v_19rrk7vuxo.html",
+     "time": "2012-05-31T03:06:06.000Z"
     }
    ]
   },
@@ -94,6 +113,13 @@
      "sort": 3,
      "title": "第03话 妖怪退治温泉行",
      "url": "https://v.youku.com/v_show/id_XNDM5NzQ2NTAw.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "妖怪退治温泉行",
+     "url": "http://www.iqiyi.com/v_19rrk7vuz8.html",
+     "time": "2012-05-31T02:59:19.000Z"
     }
    ]
   },
@@ -120,6 +146,13 @@
      "sort": 4,
      "title": "第04话 雏鸟孵化",
      "url": "https://v.youku.com/v_show/id_XNDM5NzYyMzcy.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "雏鸟孵化",
+     "url": "http://www.iqiyi.com/v_19rrk7vqm0.html",
+     "time": "2012-05-31T03:06:06.000Z"
     }
    ]
   },
@@ -146,6 +179,13 @@
      "sort": 5,
      "title": "第05话 约定之树",
      "url": "https://v.youku.com/v_show/id_XNDM5NzQ2NDg4.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "约定之树",
+     "url": "http://www.iqiyi.com/v_19rrk7vun8.html",
+     "time": "2012-05-31T02:59:19.000Z"
     }
    ]
   },
@@ -172,6 +212,13 @@
      "sort": 6,
      "title": "第06话 少女的阵法",
      "url": "https://v.youku.com/v_show/id_XNDM5NzYzMzY4.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "少女的阵法",
+     "url": "http://www.iqiyi.com/v_19rrk7vqj8.html",
+     "time": "2012-05-31T03:06:06.000Z"
     }
    ]
   },
@@ -198,6 +245,13 @@
      "sort": 7,
      "title": "第07话 不可呼唤",
      "url": "https://v.youku.com/v_show/id_XNDM5NzQ3NDgw.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "不可呼唤",
+     "url": "http://www.iqiyi.com/v_19rrk7vq78.html",
+     "time": "2012-05-31T02:59:19.000Z"
     }
    ]
   },
@@ -224,6 +278,13 @@
      "sort": 8,
      "title": "第08话 不死的心愿",
      "url": "https://v.youku.com/v_show/id_XNDM5NzY4MTcy.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "不死的心愿",
+     "url": "http://www.iqiyi.com/v_19rrk7zwi4.html",
+     "time": "2012-05-31T03:06:06.000Z"
     }
    ]
   },
@@ -250,6 +311,13 @@
      "sort": 9,
      "title": "第09话 樱树树林里的他",
      "url": "https://v.youku.com/v_show/id_XNDM5NzQ3OTk2.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "樱树树林里的他",
+     "url": "http://www.iqiyi.com/v_19rrk7vq44.html",
+     "time": "2012-05-31T02:59:19.000Z"
     }
    ]
   },
@@ -276,6 +344,13 @@
      "sort": 10,
      "title": "第10话 暂居的家",
      "url": "https://v.youku.com/v_show/id_XNDM5NzQ4NDAw.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "暂居的家",
+     "url": "http://www.iqiyi.com/v_19rrk7vpqk.html",
+     "time": "2012-05-31T03:06:06.000Z"
     }
    ]
   },
@@ -302,6 +377,13 @@
      "sort": 11,
      "title": "第11话 咒术师的聚会",
      "url": "https://v.youku.com/v_show/id_XNDM5NzQ5MjYw.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "咒术师的聚会",
+     "url": "http://www.iqiyi.com/v_19rrk7vpuw.html",
+     "time": "2012-05-31T02:59:19.000Z"
     }
    ]
   },
@@ -328,6 +410,13 @@
      "sort": 12,
      "title": "第12话 废屋的少年",
      "url": "https://v.youku.com/v_show/id_XNDM5NzQ5Mjg4.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "废屋的少年",
+     "url": "http://www.iqiyi.com/v_19rrk7vqcs.html",
+     "time": "2012-05-31T03:06:06.000Z"
     }
    ]
   },
@@ -354,6 +443,13 @@
      "sort": 13,
      "title": "第13话 人与妖",
      "url": "https://v.youku.com/v_show/id_XNDM5NzUwODcy.html?s=cc006b96962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 13,
+     "title": "人与妖",
+     "url": "http://www.iqiyi.com/v_19rrk7vpng.html",
+     "time": "2012-05-31T02:59:19.000Z"
     }
    ]
   }

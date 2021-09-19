@@ -16,6 +16,11 @@
    "site": "qq",
    "id": "r/rzuinvatj34ekz7",
    "sort": 11
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh9f5ut",
+   "sort": 13
   }
  ],
  "eps": [
@@ -42,6 +47,13 @@
      "sort": 1,
      "title": "月日食_01",
      "url": "https://v.qq.com/x/cover/rzuinvatj34ekz7/u0024ciedvu.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "日月食",
+     "url": "http://www.iqiyi.com/v_19rrbaz9bw.html",
+     "time": "2017-04-11T19:00:15.000Z"
     }
    ]
   },
@@ -68,6 +80,13 @@
      "sort": 2,
      "title": "明日绽放_02",
      "url": "https://v.qq.com/x/cover/rzuinvatj34ekz7/t00245inaph.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "明日绽放",
+     "url": "http://www.iqiyi.com/v_19rrawona4.html",
+     "time": "2017-04-18T19:00:08.000Z"
     }
    ]
   },
@@ -94,6 +113,13 @@
      "sort": 3,
      "title": "二体大人_03",
      "url": "https://v.qq.com/x/cover/rzuinvatj34ekz7/n0024ksjv8u.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "二体大人",
+     "url": "http://www.iqiyi.com/v_19rrb1q2cc.html",
+     "time": "2017-04-25T19:00:20.000Z"
     }
    ]
   },
@@ -120,6 +146,13 @@
      "sort": 4,
      "title": "异变之瞳_04",
      "url": "https://v.qq.com/x/cover/rzuinvatj34ekz7/l00246e5j4g.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "异变之瞳",
+     "url": "http://www.iqiyi.com/v_19rr7c4ij0.html",
+     "time": "2017-05-02T19:00:12.000Z"
     }
    ]
   },
@@ -146,6 +179,13 @@
      "sort": 5,
      "title": "被缚之物_05",
      "url": "https://v.qq.com/x/cover/rzuinvatj34ekz7/b0024y4b59v.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "被缚之物",
+     "url": "http://www.iqiyi.com/v_19rr79l5a4.html",
+     "time": "2017-05-09T19:00:11.000Z"
     }
    ]
   },
@@ -172,6 +212,13 @@
      "sort": 6,
      "title": "西村与北本_06",
      "url": "https://v.qq.com/x/cover/rzuinvatj34ekz7/h0024m6lpbv.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "西村与北本",
+     "url": "http://www.iqiyi.com/v_19rr7h4t5o.html",
+     "time": "2017-05-16T19:00:08.000Z"
     }
    ]
   },
@@ -198,6 +245,13 @@
      "sort": 7,
      "title": "御持的恩人_07",
      "url": "https://v.qq.com/x/cover/rzuinvatj34ekz7/v0024rrm2id.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "御持的恩人",
+     "url": "http://www.iqiyi.com/v_19rr7evzi8.html",
+     "time": "2017-05-23T19:00:09.000Z"
     }
    ]
   },
@@ -224,6 +278,13 @@
      "sort": 8,
      "title": "终将到来之日_08",
      "url": "https://v.qq.com/x/cover/rzuinvatj34ekz7/g0024q0z34l.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "终将到来之日",
+     "url": "http://www.iqiyi.com/v_19rr71frrc.html",
+     "time": "2017-05-30T19:00:09.000Z"
     }
    ]
   },
@@ -250,6 +311,13 @@
      "sort": 9,
      "title": "漂逝之物_09",
      "url": "https://v.qq.com/x/cover/rzuinvatj34ekz7/a0024ukcdoo.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "漂逝之物",
+     "url": "http://www.iqiyi.com/v_19rr6z52jo.html",
+     "time": "2017-06-06T19:00:07.000Z"
     }
    ]
   },
@@ -276,6 +344,13 @@
      "sort": 10,
      "title": "封闭的房间_10",
      "url": "https://v.qq.com/x/cover/rzuinvatj34ekz7/o00248x6164.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "封闭的房间",
+     "url": "http://www.iqiyi.com/v_19rr75z61c.html",
+     "time": "2017-06-13T19:00:07.000Z"
     }
    ]
   },
@@ -302,6 +377,13 @@
      "sort": 11,
      "title": "重要之物_11",
      "url": "https://v.qq.com/x/cover/rzuinvatj34ekz7/b0024yvqwx4.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "重要之物",
+     "url": "http://www.iqiyi.com/v_19rr734otc.html",
+     "time": "2017-06-20T19:00:09.000Z"
     }
    ]
   }

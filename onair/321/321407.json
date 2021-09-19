@@ -5,7 +5,7 @@
   {
    "site": "youku",
    "id": "acea9ca68d7d439aa7a0",
-   "sort": 5
+   "sort": 12
   }
  ],
  "eps": [
@@ -71,6 +71,97 @@
      "sort": 5,
      "title": "杀人狂的苦恼",
      "url": "https://v.youku.com/v_show/id_XNTE0MjYxNDIwOA==.html?s=acea9ca68d7d439aa7a0"
+    }
+   ]
+  },
+  {
+   "id": 1017716,
+   "sort": 6,
+   "name": "ナイフとノコギリ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "匕首与锯子",
+     "url": "https://v.youku.com/v_show/id_XNTE0MjYxNDIyMA==.html?s=acea9ca68d7d439aa7a0"
+    }
+   ]
+  },
+  {
+   "id": 1017717,
+   "sort": 7,
+   "name": "生存確率０.１％",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "存活率百分之零点一",
+     "url": "https://v.youku.com/v_show/id_XNTE0MjYxNDIxMg==.html?s=acea9ca68d7d439aa7a0"
+    }
+   ]
+  },
+  {
+   "id": 1017718,
+   "sort": 8,
+   "name": "入隊と洗礼",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "入队与洗礼",
+     "url": "https://v.youku.com/v_show/id_XNTE0MjYxNDIxNg==.html?s=acea9ca68d7d439aa7a0"
+    }
+   ]
+  },
+  {
+   "id": 1017719,
+   "sort": 9,
+   "name": "妖精の力",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "妖精之力",
+     "url": "https://v.youku.com/v_show/id_XNTE0MjYxNDIyNA==.html?s=acea9ca68d7d439aa7a0"
+    }
+   ]
+  },
+  {
+   "id": 1017720,
+   "sort": 10,
+   "name": "新たな仲間",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "新的同伴",
+     "url": "https://v.youku.com/v_show/id_XNTE0MjYxNDIyOA==.html?s=acea9ca68d7d439aa7a0"
+    }
+   ]
+  },
+  {
+   "id": 1017721,
+   "sort": 11,
+   "name": "行き止まりの町",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "走进死胡同的城镇",
+     "url": "https://v.youku.com/v_show/id_XNTE0MjYxNDIzMg==.html?s=acea9ca68d7d439aa7a0"
+    }
+   ]
+  },
+  {
+   "id": 1017722,
+   "sort": 12,
+   "name": "リアル×ＶＲ",
+   "sites": [
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "现实 × VR",
+     "url": "https://v.youku.com/v_show/id_XNTE0MjYxNDIzNg==.html?s=acea9ca68d7d439aa7a0"
     }
    ]
   }
