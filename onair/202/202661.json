@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 208
+   "sort": 209
   }
  ],
  "eps": [
@@ -5528,6 +5528,20 @@
      "sort": 206,
      "title": "新生第七班",
      "url": "https://v.youku.com/v_show/id_XNTE3NjQxNjQxMg==.html?s=311801efbfbd111211ef"
+    }
+   ]
+  },
+  {
+   "id": 1041358,
+   "sort": 207,
+   "name": "再生",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 207,
+     "title": "再生",
+     "url": "https://www.bilibili.com/bangumi/play/ep416396",
+     "time": "2021-09-19T09:30:01.000Z"
     }
    ]
   }
