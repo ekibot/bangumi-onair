@@ -7,7 +7,7 @@
    "id": "28234625",
    "week": 2,
    "time": "0100",
-   "sort": 31
+   "sort": 32
   }
  ],
  "eps": [
@@ -232,6 +232,20 @@
      "title": "白银新娘",
      "url": "https://www.bilibili.com/bangumi/play/ep409924",
      "time": "2021-09-13T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039911,
+   "sort": 12,
+   "name": "運命の再会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "命运般的重逢",
+     "url": "https://www.bilibili.com/bangumi/play/ep409925",
+     "time": "2021-09-20T17:00:01.000Z"
     }
    ]
   }
