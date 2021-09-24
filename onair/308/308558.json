@@ -7,7 +7,7 @@
    "id": "28234037",
    "week": 4,
    "time": "1800",
-   "sort": 26
+   "sort": 27
   }
  ],
  "eps": [
@@ -330,6 +330,20 @@
      "title": "叶的力量",
      "url": "https://www.bilibili.com/bangumi/play/ep399628",
      "time": "2021-09-17T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1035704,
+   "sort": 24,
+   "name": "正義に一番必要なもの",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "正义最需要的东西",
+     "url": "https://www.bilibili.com/bangumi/play/ep399629",
+     "time": "2021-09-23T10:00:01.000Z"
     }
    ]
   }

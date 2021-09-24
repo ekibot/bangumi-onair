@@ -7,7 +7,7 @@
    "id": "28234650",
    "week": 5,
    "time": "0030",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "夏日与修罗",
      "url": "https://www.bilibili.com/bangumi/play/ep409562",
      "time": "2021-09-16T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1037278,
+   "sort": 11,
+   "name": "少年と海",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "少年与海",
+     "url": "https://www.bilibili.com/bangumi/play/ep409563",
+     "time": "2021-09-23T16:30:01.000Z"
     }
    ]
   }
