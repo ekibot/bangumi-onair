@@ -7,7 +7,7 @@
    "id": "28233921",
    "week": 6,
    "time": "0230",
-   "sort": 24
+   "sort": 25
   }
  ],
  "eps": [
@@ -330,6 +330,20 @@
      "title": "已经获得所有的你",
      "url": "https://www.bilibili.com/bangumi/play/ep391765",
      "time": "2021-09-18T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1021329,
+   "sort": 24,
+   "name": "ブルー・リフレクション",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "蔚蓝反射",
+     "url": "https://www.bilibili.com/bangumi/play/ep391766",
+     "time": "2021-09-24T18:30:01.000Z"
     }
    ]
   }

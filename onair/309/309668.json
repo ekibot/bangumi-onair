@@ -7,7 +7,7 @@
    "id": "28234626",
    "week": 5,
    "time": "2200",
-   "sort": 19
+   "sort": 20
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "破坏与变革",
      "url": "https://www.bilibili.com/bangumi/play/ep410024",
      "time": "2021-09-17T14:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039886,
+   "sort": 12,
+   "name": "GoOd Day,goodbye",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "你好，再见",
+     "url": "https://www.bilibili.com/bangumi/play/ep410025",
+     "time": "2021-09-24T14:00:01.000Z"
     }
    ]
   }

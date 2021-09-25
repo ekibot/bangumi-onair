@@ -7,7 +7,7 @@
    "id": "28234641",
    "week": 6,
    "time": "0030",
-   "sort": 15
+   "sort": 16
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "龙族主教",
      "url": "https://www.bilibili.com/bangumi/play/ep411134",
      "time": "2021-09-18T16:00:02.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040402,
+   "sort": 24,
+   "name": "100万の命の上に",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "立于百万生命之上",
+     "url": "https://www.bilibili.com/bangumi/play/ep411135",
+     "time": "2021-09-24T16:30:01.000Z"
     }
    ]
   }
