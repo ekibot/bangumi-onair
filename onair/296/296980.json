@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 38
+   "sort": 39
   },
   {
    "site": "youku",
@@ -777,6 +777,20 @@
      "title": "超魔生物对战啾",
      "url": "https://www.bilibili.com/bangumi/play/ep341368",
      "time": "2021-09-18T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1028593,
+   "sort": 37,
+   "name": "一瞬にすべてを",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 37,
+     "title": "一切赌在这一瞬间",
+     "url": "https://www.bilibili.com/bangumi/play/ep341369",
+     "time": "2021-09-25T01:30:01.000Z"
     }
    ]
   }

@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28234644",
-   "sort": 14,
+   "sort": 15,
    "week": 7,
    "time": "0130"
   }
@@ -176,6 +176,20 @@
      "title": "围师必阙",
      "url": "https://www.bilibili.com/bangumi/play/ep409516",
      "time": "2021-09-18T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1041211,
+   "sort": 13,
+   "name": "百戦百勝は善の善なる者に非ず",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "百战百胜 非善之善者也",
+     "url": "https://www.bilibili.com/bangumi/play/ep409517",
+     "time": "2021-09-25T17:30:01.000Z"
     }
    ]
   }

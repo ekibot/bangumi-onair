@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28234556",
-   "sort": 24,
+   "sort": 25,
    "week": 6,
    "time": "2030"
   }
@@ -176,6 +176,20 @@
      "title": "下定决心",
      "url": "https://www.bilibili.com/bangumi/play/ep409016",
      "time": "2021-09-18T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039557,
+   "sort": 12,
+   "name": "もういちど前を向いた",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "再一次向前看",
+     "url": "https://www.bilibili.com/bangumi/play/ep409017",
+     "time": "2021-09-25T12:30:01.000Z"
     }
    ]
   }

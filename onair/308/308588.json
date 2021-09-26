@@ -7,7 +7,7 @@
    "id": "28233912",
    "week": 7,
    "time": "0125",
-   "sort": 24
+   "sort": 25
   }
  ],
  "eps": [
@@ -330,6 +330,20 @@
      "title": "直到化为坚强之时",
      "url": "https://www.bilibili.com/bangumi/play/ep399543",
      "time": "2021-09-18T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1021571,
+   "sort": 24,
+   "name": "意志を継ぐ者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "意志继承者",
+     "url": "https://www.bilibili.com/bangumi/play/ep399544",
+     "time": "2021-09-25T17:25:01.000Z"
     }
    ]
   }
