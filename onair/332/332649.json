@@ -7,7 +7,7 @@
    "id": "28234650",
    "week": 5,
    "time": "0030",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "少年与海",
      "url": "https://www.bilibili.com/bangumi/play/ep409563",
      "time": "2021-09-23T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1037279,
+   "sort": 12,
+   "name": "二年間の休暇",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "两年的假期",
+     "url": "https://www.bilibili.com/bangumi/play/ep409564",
+     "time": "2021-09-30T16:30:01.000Z"
     }
    ]
   }

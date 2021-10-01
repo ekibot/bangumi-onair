@@ -7,7 +7,7 @@
    "id": "28234647",
    "week": 5,
    "time": "0030",
-   "sort": 15
+   "sort": 16
   }
  ],
  "eps": [
@@ -176,6 +176,20 @@
      "title": "我们的大海没有尽头",
      "url": "https://www.bilibili.com/bangumi/play/ep410632",
      "time": "2021-09-23T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040894,
+   "sort": 13,
+   "name": "海の遥かなティンガーラ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "隔海相望的银河",
+     "url": "https://www.bilibili.com/bangumi/play/ep410633",
+     "time": "2021-09-30T16:30:01.000Z"
     }
    ]
   }
