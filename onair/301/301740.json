@@ -7,7 +7,7 @@
    "id": "28233906",
    "week": 6,
    "time": "1900",
-   "sort": 24
+   "sort": 25
   }
  ],
  "eps": [
@@ -288,6 +288,20 @@
      "title": "梦想中的约会",
      "url": "https://www.bilibili.com/bangumi/play/ep403378",
      "time": "2021-09-27T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1019402,
+   "sort": 21,
+   "name": "魔界を統べる者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 21,
+     "title": "魔界的统治者",
+     "url": "https://www.bilibili.com/bangumi/play/ep403379",
+     "time": "2021-10-02T11:00:01.000Z"
     }
    ]
   }
