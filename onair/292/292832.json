@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28234615",
-   "sort": 18,
+   "sort": 22,
    "week": 2,
    "time": "0000"
   }
@@ -134,6 +134,62 @@
      "title": "最近的年轻人",
      "url": "https://www.bilibili.com/bangumi/play/ep409950",
      "time": "2021-09-13T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039872,
+   "sort": 10,
+   "name": "極寒スパイラル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "极寒漩涡",
+     "url": "https://www.bilibili.com/bangumi/play/ep409951",
+     "time": "2021-10-04T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039873,
+   "sort": 11,
+   "name": "運命の出会い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "命运般的相遇",
+     "url": "https://www.bilibili.com/bangumi/play/ep409952",
+     "time": "2021-10-04T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039874,
+   "sort": 12,
+   "name": "不器用な笑顔",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "笨拙的笑容",
+     "url": "https://www.bilibili.com/bangumi/play/ep409953",
+     "time": "2021-10-04T16:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040705,
+   "sort": 13,
+   "name": "Forever『ママンとトゥギャザー』",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 13,
+     "title": "永远的《和妈妈一起》",
+     "url": "https://www.bilibili.com/bangumi/play/ep409954",
+     "time": "2021-10-04T16:00:01.000Z"
     }
    ]
   }
