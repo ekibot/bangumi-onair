@@ -11,12 +11,12 @@
     "url": "https://github.com/ekibun/bangumi_onair.git"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "0.21.1",
     "bangumi-data": "^0.3.60",
-    "chalk": "^3.0.0",
-    "cheerio": "^1.0.0-rc.3",
-    "moment": "^2.24.0",
-    "moment-timezone": "^0.5.27"
+    "chalk": "3.0.0",
+    "cheerio": "1.0.0-rc.3",
+    "moment": "2.24.0",
+    "moment-timezone": "0.5.27"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
