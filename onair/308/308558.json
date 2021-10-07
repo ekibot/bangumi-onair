@@ -7,7 +7,7 @@
    "id": "28234037",
    "week": 4,
    "time": "1800",
-   "sort": 28
+   "sort": 29
   }
  ],
  "eps": [
@@ -358,6 +358,20 @@
      "title": "大阴阳师 麻仓叶王",
      "url": "https://www.bilibili.com/bangumi/play/ep399630",
      "time": "2021-09-30T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1053470,
+   "sort": 26,
+   "name": "幹久タイフーン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 26,
+     "title": "干久台风",
+     "url": "https://www.bilibili.com/bangumi/play/ep399631",
+     "time": "2021-10-07T10:00:01.000Z"
     }
    ]
   }
