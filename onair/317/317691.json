@@ -7,14 +7,14 @@
    "id": "28233902",
    "week": 4,
    "time": "1500",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
   {
    "id": 1020564,
    "sort": 1,
-   "name": "エピソード1",
+   "name": "第1集",
    "sites": [
     {
      "site": "bilibili",
@@ -28,7 +28,7 @@
   {
    "id": 1020565,
    "sort": 2,
-   "name": "エピソード2",
+   "name": "第2集",
    "sites": [
     {
      "site": "bilibili",
@@ -42,7 +42,7 @@
   {
    "id": 1020566,
    "sort": 3,
-   "name": "エピソード3",
+   "name": "第3集",
    "sites": [
     {
      "site": "bilibili",
@@ -56,7 +56,7 @@
   {
    "id": 1020567,
    "sort": 4,
-   "name": "エピソード4",
+   "name": "第4集",
    "sites": [
     {
      "site": "bilibili",
@@ -70,7 +70,7 @@
   {
    "id": 1020568,
    "sort": 5,
-   "name": "エピソード5",
+   "name": "第5集",
    "sites": [
     {
      "site": "bilibili",
