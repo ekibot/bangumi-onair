@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 40
+   "sort": 41
   },
   {
    "site": "youku",
@@ -805,6 +805,20 @@
      "title": "世界会议",
      "url": "https://www.bilibili.com/bangumi/play/ep341370",
      "time": "2021-10-02T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1028596,
+   "sort": 39,
+   "name": "鬼岩城大上陸",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 39,
+     "title": "鬼岩城大登陆",
+     "url": "https://www.bilibili.com/bangumi/play/ep341371",
+     "time": "2021-10-09T01:30:01.000Z"
     }
    ]
   }
