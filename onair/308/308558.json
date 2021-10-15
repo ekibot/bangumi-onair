@@ -7,7 +7,7 @@
    "id": "28234037",
    "week": 4,
    "time": "1800",
-   "sort": 29
+   "sort": 30
   }
  ],
  "eps": [
@@ -372,6 +372,20 @@
      "title": "干久台风",
      "url": "https://www.bilibili.com/bangumi/play/ep399631",
      "time": "2021-10-07T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1053471,
+   "sort": 27,
+   "name": "永遠にサヨナラ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 27,
+     "title": "永远的别离",
+     "url": "https://www.bilibili.com/bangumi/play/ep399632",
+     "time": "2021-10-14T10:00:01.000Z"
     }
    ]
   }
