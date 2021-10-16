@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 41
+   "sort": 42
   },
   {
    "site": "youku",
@@ -819,6 +819,20 @@
      "title": "鬼岩城大登陆",
      "url": "https://www.bilibili.com/bangumi/play/ep341371",
      "time": "2021-10-09T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1041370,
+   "sort": 40,
+   "name": "闇の師弟対決",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 40,
+     "title": "暗黑师徒对决",
+     "url": "https://www.bilibili.com/bangumi/play/ep341372",
+     "time": "2021-10-16T01:30:01.000Z"
     }
    ]
   }

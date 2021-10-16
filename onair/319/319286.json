@@ -7,7 +7,7 @@
    "id": "28234627",
    "week": 2,
    "time": "0130",
-   "sort": 10
+   "sort": 13
   }
  ],
  "eps": [
@@ -134,6 +134,48 @@
      "title": "铁处女",
      "url": "https://www.bilibili.com/bangumi/play/ep409664",
      "time": "2021-09-15T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039897,
+   "sort": 10,
+   "name": "金剛手",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "金刚手",
+     "url": "https://www.bilibili.com/bangumi/play/ep409665",
+     "time": "2021-10-15T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039898,
+   "sort": 11,
+   "name": "高利貸し",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "高利贷",
+     "url": "https://www.bilibili.com/bangumi/play/ep409666",
+     "time": "2021-10-15T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1039899,
+   "sort": 12,
+   "name": "最後の能力",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "最后的能力",
+     "url": "https://www.bilibili.com/bangumi/play/ep409667",
+     "time": "2021-10-15T14:00:01.000Z"
     }
    ]
   }
