@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 42
+   "sort": 43
   },
   {
    "site": "youku",
@@ -833,6 +833,20 @@
      "title": "暗黑师徒对决",
      "url": "https://www.bilibili.com/bangumi/play/ep341372",
      "time": "2021-10-16T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1041371,
+   "sort": 41,
+   "name": "最強の剣",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 41,
+     "title": "最强的剑",
+     "url": "https://www.bilibili.com/bangumi/play/ep341373",
+     "time": "2021-10-23T01:30:01.000Z"
     }
    ]
   }
