@@ -7,7 +7,7 @@
    "id": "28234037",
    "week": 4,
    "time": "1800",
-   "sort": 31
+   "sort": 32
   }
  ],
  "eps": [
@@ -400,6 +400,20 @@
      "title": "叶的决定",
      "url": "https://www.bilibili.com/bangumi/play/ep399633",
      "time": "2021-10-21T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1053473,
+   "sort": 29,
+   "name": "emeth",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 29,
+     "title": "真理",
+     "url": "https://www.bilibili.com/bangumi/play/ep399634",
+     "time": "2021-10-28T10:00:01.000Z"
     }
    ]
   }
