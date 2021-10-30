@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 43
+   "sort": 44
   },
   {
    "site": "youku",
@@ -847,6 +847,20 @@
      "title": "最强的剑",
      "url": "https://www.bilibili.com/bangumi/play/ep341373",
      "time": "2021-10-23T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1041372,
+   "sort": 42,
+   "name": "死の大地",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 42,
+     "title": "死亡大地",
+     "url": "https://www.bilibili.com/bangumi/play/ep341374",
+     "time": "2021-10-30T01:30:01.000Z"
     }
    ]
   }
