@@ -1,0 +1,85 @@
+{
+ "id": "311759",
+ "name": "結城友奈は勇者である 大満開の章",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235178",
+   "week": 6,
+   "time": "0225",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 1054936,
+   "sort": 1,
+   "name": "青春の喜び",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "青春的喜悦",
+     "url": "https://www.bilibili.com/bangumi/play/ep424744",
+     "time": "2021-10-01T18:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054937,
+   "sort": 2,
+   "name": "あなたに私のすべてを捧げます",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "为你献上我的一切",
+     "url": "https://www.bilibili.com/bangumi/play/ep424745",
+     "time": "2021-10-08T18:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054938,
+   "sort": 3,
+   "name": "小さな幸せ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "小小的幸福",
+     "url": "https://www.bilibili.com/bangumi/play/ep424746",
+     "time": "2021-10-15T18:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054939,
+   "sort": 4,
+   "name": "神託",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "神谕",
+     "url": "https://www.bilibili.com/bangumi/play/ep424747",
+     "time": "2021-10-22T18:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054940,
+   "sort": 5,
+   "name": "光輝を放つ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "绽放光辉",
+     "url": "https://www.bilibili.com/bangumi/play/ep424748",
+     "time": "2021-10-29T18:25:00.000Z"
+    }
+   ]
+  }
+ ]
+}

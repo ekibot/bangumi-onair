@@ -1,0 +1,71 @@
+{
+ "id": "309670",
+ "name": "先輩がうざい後輩の話",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235116",
+   "week": 7,
+   "time": "0130",
+   "sort": 17
+  }
+ ],
+ "eps": [
+  {
+   "id": 962078,
+   "sort": 1,
+   "name": "お互いの歩幅",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "相互的步调",
+     "url": "https://www.bilibili.com/bangumi/play/ep424178",
+     "time": "2021-10-09T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 962079,
+   "sort": 2,
+   "name": "うどん、ときどき満月",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "乌冬面，偶尔遇见满月",
+     "url": "https://www.bilibili.com/bangumi/play/ep424179",
+     "time": "2021-10-16T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 962080,
+   "sort": 3,
+   "name": "そしてクリスマス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "接着来到了圣诞节",
+     "url": "https://www.bilibili.com/bangumi/play/ep424180",
+     "time": "2021-10-23T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 962081,
+   "sort": 4,
+   "name": "そばにいてくれる人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "在我身边的人",
+     "url": "https://www.bilibili.com/bangumi/play/ep424181",
+     "time": "2021-10-30T17:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

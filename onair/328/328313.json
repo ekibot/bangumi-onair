@@ -1,0 +1,85 @@
+{
+ "id": "328313",
+ "name": "世界最高の暗殺者、異世界貴族に転生する",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235173",
+   "week": 3,
+   "time": "2300",
+   "sort": 7
+  }
+ ],
+ "eps": [
+  {
+   "id": 1054333,
+   "sort": 1,
+   "name": "信用の報酬",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "信任的报偿",
+     "url": "https://www.bilibili.com/bangumi/play/ep424836",
+     "time": "2021-10-06T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054334,
+   "sort": 2,
+   "name": "転生の取引",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "转生的交易",
+     "url": "https://www.bilibili.com/bangumi/play/ep424837",
+     "time": "2021-10-13T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054335,
+   "sort": 3,
+   "name": "絆の魔法",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "友谊的魔法",
+     "url": "https://www.bilibili.com/bangumi/play/ep424838",
+     "time": "2021-10-20T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054336,
+   "sort": 4,
+   "name": "女神の計画",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "女神的计划",
+     "url": "https://www.bilibili.com/bangumi/play/ep424839",
+     "time": "2021-10-27T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054337,
+   "sort": 5,
+   "name": "暗殺者の資格",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "暗杀者的资格",
+     "url": "https://www.bilibili.com/bangumi/play/ep424840",
+     "time": "2021-11-03T15:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "id": "323158",
+ "name": "大正オトメ御伽話",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235177",
+   "week": 6,
+   "time": "0153",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 1051753,
+   "sort": 1,
+   "name": "夕月 来タル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "夕月到来",
+     "url": "https://www.bilibili.com/bangumi/play/ep424198",
+     "time": "2021-10-08T17:53:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051754,
+   "sort": 2,
+   "name": "珠彦 死ス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "珠彦将死",
+     "url": "https://www.bilibili.com/bangumi/play/ep424199",
+     "time": "2021-10-15T17:53:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051755,
+   "sort": 3,
+   "name": "黒百合ノ娘",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "黑百合姑娘",
+     "url": "https://www.bilibili.com/bangumi/play/ep424200",
+     "time": "2021-10-22T17:53:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051756,
+   "sort": 4,
+   "name": "幸セハ月明カリノ下ニ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "月光下的幸福",
+     "url": "https://www.bilibili.com/bangumi/play/ep424201",
+     "time": "2021-10-29T17:53:01.000Z"
+    }
+   ]
+  }
+ ]
+}

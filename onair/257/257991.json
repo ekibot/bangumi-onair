@@ -1,0 +1,71 @@
+{
+ "id": "257991",
+ "name": "サクガン",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235174",
+   "week": 4,
+   "time": "2230",
+   "sort": 10
+  }
+ ],
+ "eps": [
+  {
+   "id": 1047340,
+   "sort": 1,
+   "name": "FATHERS &amp; DAUGHTERS",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "父亲和女儿",
+     "url": "https://www.bilibili.com/bangumi/play/ep424210",
+     "time": "2021-10-07T14:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1047341,
+   "sort": 2,
+   "name": "GOOD DAY, GOOD BYE",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "你好 再见",
+     "url": "https://www.bilibili.com/bangumi/play/ep424211",
+     "time": "2021-10-14T14:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1047342,
+   "sort": 3,
+   "name": "BRAINS&amp;HEARTS",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "头脑和内心",
+     "url": "https://www.bilibili.com/bangumi/play/ep424212",
+     "time": "2021-10-21T14:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1047343,
+   "sort": 4,
+   "name": "LADIES&amp;GENTLEMEN",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "淑女和绅士",
+     "url": "https://www.bilibili.com/bangumi/play/ep424213",
+     "time": "2021-10-28T14:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

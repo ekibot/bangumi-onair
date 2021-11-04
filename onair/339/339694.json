@@ -1,0 +1,69 @@
+{
+ "id": "339694",
+ "name": "やくならマグカップも 二番窯",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235145",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 1051426,
+   "sort": 1,
+   "name": "歩き出そう！焼き物の町へ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "出发吧！游转陶器之乡",
+     "url": "https://www.bilibili.com/bangumi/play/ep427325",
+     "time": "2021-10-29T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051427,
+   "sort": 2,
+   "name": "私のパラダイス",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "我的天堂",
+     "url": "https://www.bilibili.com/bangumi/play/ep427326",
+     "time": "2021-10-29T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051428,
+   "sort": 3,
+   "name": "お母さんやっぱ凄い!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "妈妈果然了不起！",
+     "url": "https://www.bilibili.com/bangumi/play/ep427327",
+     "time": "2021-10-29T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051429,
+   "sort": 4,
+   "name": "土のひとりごと",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "土的自言自语",
+     "url": "https://www.bilibili.com/bangumi/play/ep427328",
+     "time": "2021-10-29T18:55:01.000Z"
+    }
+   ]
+  }
+ ]
+}

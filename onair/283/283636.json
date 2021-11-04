@@ -1,0 +1,85 @@
+{
+ "id": "283636",
+ "name": "MUTEKING THE Dancing HERO",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235143",
+   "week": 7,
+   "time": "0126",
+   "sort": 6
+  }
+ ],
+ "eps": [
+  {
+   "id": 1051720,
+   "sort": 1,
+   "name": "Muteking Begins",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "无敌侠启动",
+     "url": "https://www.bilibili.com/bangumi/play/ep424916",
+     "time": "2021-10-02T17:26:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051721,
+   "sort": 2,
+   "name": "Brand-new Gadget",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "全新道具",
+     "url": "https://www.bilibili.com/bangumi/play/ep424917",
+     "time": "2021-10-09T17:26:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051722,
+   "sort": 3,
+   "name": "Rock and Rolling",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "摇滚与回转",
+     "url": "https://www.bilibili.com/bangumi/play/ep424918",
+     "time": "2021-10-16T17:26:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051723,
+   "sort": 4,
+   "name": "Chill Out Sunset",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "驰放傍晚",
+     "url": "https://www.bilibili.com/bangumi/play/ep424919",
+     "time": "2021-10-23T17:26:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051724,
+   "sort": 5,
+   "name": "Goodbye Park",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "再见公园",
+     "url": "https://www.bilibili.com/bangumi/play/ep424920",
+     "time": "2021-10-30T17:26:01.000Z"
+    }
+   ]
+  }
+ ]
+}

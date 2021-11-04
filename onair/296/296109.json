@@ -1,0 +1,57 @@
+{
+ "id": "296109",
+ "name": "王様ランキング",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235154",
+   "week": 5,
+   "time": "0125",
+   "sort": 8
+  }
+ ],
+ "eps": [
+  {
+   "id": 1053594,
+   "sort": 1,
+   "name": "裸の王子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "光溜溜的王子",
+     "url": "https://www.bilibili.com/bangumi/play/ep424605",
+     "time": "2021-10-14T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1053595,
+   "sort": 2,
+   "name": "王子とカゲ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "王子与卡克",
+     "url": "https://www.bilibili.com/bangumi/play/ep424606",
+     "time": "2021-10-21T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1053596,
+   "sort": 3,
+   "name": "新しい国王",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "新国王",
+     "url": "https://www.bilibili.com/bangumi/play/ep424607",
+     "time": "2021-10-28T17:25:01.000Z"
+    }
+   ]
+  }
+ ]
+}

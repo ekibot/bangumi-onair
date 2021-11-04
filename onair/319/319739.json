@@ -1,0 +1,85 @@
+{
+ "id": "319739",
+ "name": "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235153",
+   "week": 3,
+   "time": "2230",
+   "sort": 8
+  }
+ ],
+ "eps": [
+  {
+   "id": 1051473,
+   "sort": 1,
+   "name": "俺は真の仲間じゃないらしい",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "我好像不是真正的同伴",
+     "url": "https://www.bilibili.com/bangumi/play/ep424851",
+     "time": "2021-10-06T14:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051474,
+   "sort": 2,
+   "name": "勇者の仲間にならなかったお姫様",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "没有成为勇者同伴的公主",
+     "url": "https://www.bilibili.com/bangumi/play/ep424852",
+     "time": "2021-10-13T14:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051475,
+   "sort": 3,
+   "name": "２人でスローライフを始めよう",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "两个人一起开始慢生活吧",
+     "url": "https://www.bilibili.com/bangumi/play/ep424853",
+     "time": "2021-10-20T14:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051476,
+   "sort": 4,
+   "name": "蜂蜜酒の理由",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "蜂蜜酒的理由",
+     "url": "https://www.bilibili.com/bangumi/play/ep424854",
+     "time": "2021-10-27T14:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051477,
+   "sort": 5,
+   "name": "琥珀の中の指輪",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "琥珀中的戒指",
+     "url": "https://www.bilibili.com/bangumi/play/ep424855",
+     "time": "2021-11-03T14:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

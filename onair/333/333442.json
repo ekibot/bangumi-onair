@@ -1,0 +1,71 @@
+{
+ "id": "333442",
+ "name": "最果てのパラディン",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235026",
+   "week": 6,
+   "time": "2100",
+   "sort": 20
+  }
+ ],
+ "eps": [
+  {
+   "id": 1051461,
+   "sort": 1,
+   "name": "死者の街の少年",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "死者之街的少年",
+     "url": "https://www.bilibili.com/bangumi/play/ep424325",
+     "time": "2021-10-09T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051462,
+   "sort": 2,
+   "name": "彷徨の賢者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "彷徨贤者",
+     "url": "https://www.bilibili.com/bangumi/play/ep424326",
+     "time": "2021-10-16T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051463,
+   "sort": 3,
+   "name": "約束の日",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "约定之日",
+     "url": "https://www.bilibili.com/bangumi/play/ep424327",
+     "time": "2021-10-23T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051464,
+   "sort": 4,
+   "name": "灯火の女神",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "灯火女神",
+     "url": "https://www.bilibili.com/bangumi/play/ep424328",
+     "time": "2021-10-30T13:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

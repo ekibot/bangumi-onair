@@ -1,0 +1,27 @@
+{
+ "id": "342672",
+ "name": "でーじミーツガール",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235175",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1051765,
+   "sort": 1,
+   "name": "これって沖縄じゃ普通？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "这在冲绳很常见吗?",
+     "url": "https://www.bilibili.com/bangumi/play/ep427539",
+     "time": "2021-10-29T17:05:01.000Z"
+    }
+   ]
+  }
+ ]
+}

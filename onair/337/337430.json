@@ -1,0 +1,57 @@
+{
+ "id": "337430",
+ "name": "ルパン三世 PART6",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235160",
+   "week": 7,
+   "time": "0255",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1051696,
+   "sort": 1,
+   "name": "シャーロック・ホームズ登場",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "夏洛克·福尔摩斯登场",
+     "url": "https://www.bilibili.com/bangumi/play/ep424642",
+     "time": "2021-10-16T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051697,
+   "sort": 2,
+   "name": "探偵と悪党",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "侦探与坏蛋",
+     "url": "https://www.bilibili.com/bangumi/play/ep424643",
+     "time": "2021-10-23T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051698,
+   "sort": 3,
+   "name": "大陸横断鉄道(嘘)の冒険",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "横贯大陆铁路（假）的冒险",
+     "url": "https://www.bilibili.com/bangumi/play/ep424644",
+     "time": "2021-10-30T18:55:01.000Z"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "id": "326505",
+ "name": "進化の実～知らないうちに勝ち組人生～",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235053",
+   "week": 2,
+   "time": "0100",
+   "sort": 18
+  }
+ ],
+ "eps": [
+  {
+   "id": 1057752,
+   "sort": 1,
+   "name": "知らないうちに異世界人生!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "不知不觉踏上异世界人生！",
+     "url": "https://www.bilibili.com/bangumi/play/ep424313",
+     "time": "2021-10-04T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1057753,
+   "sort": 2,
+   "name": "最終進化！裸の美女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "最终进化美少女！",
+     "url": "https://www.bilibili.com/bangumi/play/ep424314",
+     "time": "2021-10-11T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1057754,
+   "sort": 3,
+   "name": "災厄のアルトリア",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "灾厄的阿尔托莉亚",
+     "url": "https://www.bilibili.com/bangumi/play/ep424315",
+     "time": "2021-10-18T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1057755,
+   "sort": 4,
+   "name": "黒龍神の迷宮",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "黑龙神的迷宫",
+     "url": "https://www.bilibili.com/bangumi/play/ep424316",
+     "time": "2021-10-25T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1057756,
+   "sort": 5,
+   "name": "災厄の花嫁",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "灾厄之伴",
+     "url": "https://www.bilibili.com/bangumi/play/ep424317",
+     "time": "2021-11-01T17:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
