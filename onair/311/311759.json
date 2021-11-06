@@ -7,7 +7,7 @@
    "id": "28235178",
    "week": 6,
    "time": "0225",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "绽放光辉",
      "url": "https://www.bilibili.com/bangumi/play/ep424748",
      "time": "2021-10-29T18:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054941,
+   "sort": 6,
+   "name": "私の不安をやわらげて",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "平复我的不安",
+     "url": "https://www.bilibili.com/bangumi/play/ep424749",
+     "time": "2021-11-05T18:25:01.000Z"
     }
    ]
   }
