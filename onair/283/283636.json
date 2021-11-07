@@ -7,7 +7,7 @@
    "id": "28235143",
    "week": 7,
    "time": "0126",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "再见公园",
      "url": "https://www.bilibili.com/bangumi/play/ep424920",
      "time": "2021-10-30T17:26:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051725,
+   "sort": 6,
+   "name": "Stand Alone",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "孤立",
+     "url": "https://www.bilibili.com/bangumi/play/ep424921",
+     "time": "2021-11-06T17:26:01.000Z"
     }
    ]
   }
