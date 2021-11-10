@@ -1,0 +1,27 @@
+{
+ "id": "333598",
+ "name": "かぎなど",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235130",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1058480,
+   "sort": 1,
+   "name": "クライマックスなど",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "名场面等",
+     "url": "https://www.bilibili.com/bangumi/play/ep429769",
+     "time": "2021-11-09T16:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

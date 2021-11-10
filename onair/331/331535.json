@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235155",
-   "sort": 2
+   "sort": 3
   }
  ],
  "eps": [
@@ -20,6 +20,20 @@
      "title": "指挥 -信条-",
      "url": "https://www.bilibili.com/bangumi/play/ep428426",
      "time": "2021-11-03T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1049746,
+   "sort": 2,
+   "name": "音楽-Reincarnation-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "音乐 -灵魂转世-",
+     "url": "https://www.bilibili.com/bangumi/play/ep428427",
+     "time": "2021-11-09T11:00:01.000Z"
     }
    ]
   }
