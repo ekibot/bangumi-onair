@@ -7,7 +7,7 @@
    "id": "28235173",
    "week": 3,
    "time": "2300",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "暗杀者的资格",
      "url": "https://www.bilibili.com/bangumi/play/ep424840",
      "time": "2021-11-03T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054338,
+   "sort": 6,
+   "name": "少女の館",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "少女之家",
+     "url": "https://www.bilibili.com/bangumi/play/ep424841",
+     "time": "2021-11-10T15:00:01.000Z"
     }
    ]
   }
