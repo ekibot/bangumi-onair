@@ -7,7 +7,7 @@
    "id": "28234037",
    "week": 4,
    "time": "1800",
-   "sort": 33
+   "sort": 34
   }
  ],
  "eps": [
@@ -428,6 +428,20 @@
      "title": "别了 恐山 第1章",
      "url": "https://www.bilibili.com/bangumi/play/ep399635",
      "time": "2021-11-04T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1053475,
+   "sort": 31,
+   "name": "恐山ル・ヴォワール deux2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 31,
+     "title": "别了 恐山 第2章",
+     "url": "https://www.bilibili.com/bangumi/play/ep399636",
+     "time": "2021-11-11T10:00:01.000Z"
     }
    ]
   }
