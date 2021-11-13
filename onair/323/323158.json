@@ -7,7 +7,7 @@
    "id": "28235177",
    "week": 6,
    "time": "0153",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "九月一日",
      "url": "https://www.bilibili.com/bangumi/play/ep424202",
      "time": "2021-11-05T17:53:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051758,
+   "sort": 6,
+   "name": "悪イ娘",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "坏姑娘",
+     "url": "https://www.bilibili.com/bangumi/play/ep424203",
+     "time": "2021-11-12T17:53:01.000Z"
     }
    ]
   }

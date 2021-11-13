@@ -7,7 +7,7 @@
    "id": "28235178",
    "week": 6,
    "time": "0225",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "平复我的不安",
      "url": "https://www.bilibili.com/bangumi/play/ep424749",
      "time": "2021-11-05T18:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054942,
+   "sort": 7,
+   "name": "君を忘れない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "不会忘记你",
+     "url": "https://www.bilibili.com/bangumi/play/ep424750",
+     "time": "2021-11-12T18:25:01.000Z"
     }
    ]
   }

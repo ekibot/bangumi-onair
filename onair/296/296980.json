@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 45
+   "sort": 46
   },
   {
    "site": "youku",
@@ -875,6 +875,20 @@
      "title": "最强之剑正面交锋",
      "url": "https://www.bilibili.com/bangumi/play/ep341375",
      "time": "2021-11-06T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1041374,
+   "sort": 44,
+   "name": "氷河に消えた勇者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 44,
+     "title": "消失于冰河中的勇者（达伊）",
+     "url": "https://www.bilibili.com/bangumi/play/ep341376",
+     "time": "2021-11-13T01:30:01.000Z"
     }
    ]
   }
