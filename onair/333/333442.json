@@ -7,7 +7,7 @@
    "id": "28235026",
    "week": 6,
    "time": "2100",
-   "sort": 24
+   "sort": 27
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "钢铁意志",
      "url": "https://www.bilibili.com/bangumi/play/ep424329",
      "time": "2021-11-06T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051466,
+   "sort": 6,
+   "name": "獣の森の射手",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "野兽森林的射手",
+     "url": "https://www.bilibili.com/bangumi/play/ep424330",
+     "time": "2021-11-13T13:00:01.000Z"
     }
    ]
   }

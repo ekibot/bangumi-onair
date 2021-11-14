@@ -1,0 +1,41 @@
+{
+ "id": "333623",
+ "name": "ビルディバイド -#000000-",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235179",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1055838,
+   "sort": 1,
+   "name": "星に願いを",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "向繁星祈愿",
+     "url": "https://www.bilibili.com/bangumi/play/ep429926",
+     "time": "2021-11-13T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1055839,
+   "sort": 2,
+   "name": "ひとりぼっちのひなどり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "孤零零的雏鸟",
+     "url": "https://www.bilibili.com/bangumi/play/ep429927",
+     "time": "2021-11-13T17:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
