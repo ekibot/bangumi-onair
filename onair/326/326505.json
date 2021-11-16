@@ -7,7 +7,7 @@
    "id": "28235053",
    "week": 2,
    "time": "0100",
-   "sort": 20
+   "sort": 21
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "在异世界的中心呼唤爱",
      "url": "https://www.bilibili.com/bangumi/play/ep424318",
      "time": "2021-11-08T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1057758,
+   "sort": 7,
+   "name": "ルルネ登場！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "露璐妮登场！",
+     "url": "https://www.bilibili.com/bangumi/play/ep424319",
+     "time": "2021-11-15T17:00:01.000Z"
     }
    ]
   }
