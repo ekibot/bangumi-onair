@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235130",
-   "sort": 2
+   "sort": 3
   }
  ],
  "eps": [
@@ -20,6 +20,20 @@
      "title": "名场面等",
      "url": "https://www.bilibili.com/bangumi/play/ep429769",
      "time": "2021-11-09T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058481,
+   "sort": 2,
+   "name": "タイトルなど",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "动画标题等",
+     "url": "https://www.bilibili.com/bangumi/play/ep429770",
+     "time": "2021-11-16T16:30:01.000Z"
     }
    ]
   }

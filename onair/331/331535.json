@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235155",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -34,6 +34,20 @@
      "title": "音乐 -灵魂转世-",
      "url": "https://www.bilibili.com/bangumi/play/ep428427",
      "time": "2021-11-09T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1049747,
+   "sort": 3,
+   "name": "覚醒-Journey-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "觉醒 -旅程-",
+     "url": "https://www.bilibili.com/bangumi/play/ep428428",
+     "time": "2021-11-16T11:00:01.000Z"
     }
    ]
   }
