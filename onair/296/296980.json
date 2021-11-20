@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 46
+   "sort": 47
   },
   {
    "site": "youku",
@@ -889,6 +889,20 @@
      "title": "消失于冰河中的勇者（达伊）",
      "url": "https://www.bilibili.com/bangumi/play/ep341376",
      "time": "2021-11-13T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1041375,
+   "sort": 45,
+   "name": "オリハルコンの戦士",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 45,
+     "title": "奥利哈尔刚的战士",
+     "url": "https://www.bilibili.com/bangumi/play/ep341377",
+     "time": "2021-11-20T01:30:01.000Z"
     }
    ]
   }
