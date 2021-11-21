@@ -7,7 +7,7 @@
    "id": "28235026",
    "week": 6,
    "time": "2100",
-   "sort": 27
+   "sort": 30
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "野兽森林的射手",
      "url": "https://www.bilibili.com/bangumi/play/ep424330",
      "time": "2021-11-13T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051467,
+   "sort": 7,
+   "name": "惨劇の記憶",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "惨剧的记忆",
+     "url": "https://www.bilibili.com/bangumi/play/ep424331",
+     "time": "2021-11-20T13:00:01.000Z"
     }
    ]
   }

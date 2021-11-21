@@ -7,7 +7,7 @@
    "id": "28235143",
    "week": 7,
    "time": "0126",
-   "sort": 8
+   "sort": 9
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "梦想的舞台",
      "url": "https://www.bilibili.com/bangumi/play/ep424922",
      "time": "2021-11-13T17:26:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051727,
+   "sort": 8,
+   "name": "Muteki Mode",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "无敌模式",
+     "url": "https://www.bilibili.com/bangumi/play/ep424923",
+     "time": "2021-11-20T17:26:01.000Z"
     }
    ]
   }
