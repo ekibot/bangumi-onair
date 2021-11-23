@@ -7,7 +7,7 @@
    "id": "28235053",
    "week": 2,
    "time": "0100",
-   "sort": 21
+   "sort": 22
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "露璐妮登场！",
      "url": "https://www.bilibili.com/bangumi/play/ep424319",
      "time": "2021-11-15T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1057759,
+   "sort": 8,
+   "name": "剣聖の戦乙女（ワルキューレ）の美女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "「剑圣女武神」的美女",
+     "url": "https://www.bilibili.com/bangumi/play/ep424320",
+     "time": "2021-11-22T17:00:01.000Z"
     }
    ]
   }
