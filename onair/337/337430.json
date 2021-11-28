@@ -7,7 +7,7 @@
    "id": "28235160",
    "week": 7,
    "time": "0255",
-   "sort": 4
+   "sort": 6
   }
  ],
  "eps": [
@@ -50,6 +50,34 @@
      "title": "横贯大陆铁路（假）的冒险",
      "url": "https://www.bilibili.com/bangumi/play/ep424644",
      "time": "2021-10-30T18:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051699,
+   "sort": 4,
+   "name": "ダイナーの殺し屋たち",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "小餐馆里的杀手们",
+     "url": "https://www.bilibili.com/bangumi/play/ep424645",
+     "time": "2021-11-27T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051702,
+   "sort": 7,
+   "name": "語られざる事件",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "不可言说的案件",
+     "url": "https://www.bilibili.com/bangumi/play/ep424648",
+     "time": "2021-11-27T18:55:01.000Z"
     }
    ]
   }
