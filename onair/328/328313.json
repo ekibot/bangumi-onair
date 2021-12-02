@@ -7,7 +7,7 @@
    "id": "28235173",
    "week": 3,
    "time": "2300",
-   "sort": 10
+   "sort": 11
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "选择的仪式",
      "url": "https://www.bilibili.com/bangumi/play/ep424843",
      "time": "2021-11-24T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054341,
+   "sort": 9,
+   "name": "暗殺の代償",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "暗杀的代价",
+     "url": "https://www.bilibili.com/bangumi/play/ep424844",
+     "time": "2021-12-01T15:00:01.000Z"
     }
    ]
   }
