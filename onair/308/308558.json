@@ -7,7 +7,7 @@
    "id": "28234037",
    "week": 4,
    "time": "1800",
-   "sort": 36
+   "sort": 37
   }
  ],
  "eps": [
@@ -470,6 +470,20 @@
      "title": "别了 恐山 第4章",
      "url": "https://www.bilibili.com/bangumi/play/ep399638",
      "time": "2021-11-25T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1053478,
+   "sort": 34,
+   "name": "王者になる方法",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 34,
+     "title": "成为王者的方法",
+     "url": "https://www.bilibili.com/bangumi/play/ep399639",
+     "time": "2021-12-02T10:00:01.000Z"
     }
    ]
   }
