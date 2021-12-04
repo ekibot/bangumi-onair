@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 48
+   "sort": 49
   },
   {
    "site": "youku",
@@ -917,6 +917,20 @@
      "title": "极大消灭咒文 美多洛亚",
      "url": "https://www.bilibili.com/bangumi/play/ep341378",
      "time": "2021-11-27T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1041377,
+   "sort": 47,
+   "name": "いざ決戦の地へ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 47,
+     "title": "前往决战之地",
+     "url": "https://www.bilibili.com/bangumi/play/ep341379",
+     "time": "2021-12-04T01:30:01.000Z"
     }
    ]
   }
