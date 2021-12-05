@@ -7,7 +7,7 @@
    "id": "28235160",
    "week": 7,
    "time": "0255",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -78,6 +78,20 @@
      "title": "不可言说的案件",
      "url": "https://www.bilibili.com/bangumi/play/ep424648",
      "time": "2021-11-27T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051703,
+   "sort": 8,
+   "name": "ラスト・ブレット",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "最后一颗子弹",
+     "url": "https://www.bilibili.com/bangumi/play/ep424649",
+     "time": "2021-12-04T18:55:01.000Z"
     }
    ]
   }
