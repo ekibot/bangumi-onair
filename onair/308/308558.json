@@ -7,7 +7,7 @@
    "id": "28234037",
    "week": 4,
    "time": "1800",
-   "sort": 37
+   "sort": 38
   }
  ],
  "eps": [
@@ -484,6 +484,20 @@
      "title": "成为王者的方法",
      "url": "https://www.bilibili.com/bangumi/play/ep399639",
      "time": "2021-12-02T10:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1053479,
+   "sort": 35,
+   "name": "再会の白少年",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 35,
+     "title": "再逢白衣少年",
+     "url": "https://www.bilibili.com/bangumi/play/ep399640",
+     "time": "2021-12-10T12:00:01.000Z"
     }
    ]
   }
