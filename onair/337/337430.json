@@ -7,7 +7,7 @@
    "id": "28235160",
    "week": 7,
    "time": "0255",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "最后一颗子弹",
      "url": "https://www.bilibili.com/bangumi/play/ep424649",
      "time": "2021-12-04T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051704,
+   "sort": 9,
+   "name": "漆黒のダイヤモンド",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "漆黑钻石",
+     "url": "https://www.bilibili.com/bangumi/play/ep424650",
+     "time": "2021-12-11T18:55:01.000Z"
     }
    ]
   }

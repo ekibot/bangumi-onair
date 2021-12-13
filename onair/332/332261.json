@@ -1,0 +1,181 @@
+{
+ "id": "332261",
+ "name": "ジョジョの奇妙な冒険 ストーンオーシャン",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235123",
+   "sort": 28
+  }
+ ],
+ "eps": [
+  {
+   "id": 1066892,
+   "sort": 1,
+   "name": "石作りの海（ストーンオーシャン）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "石之海",
+     "url": "https://www.bilibili.com/bangumi/play/ep433947",
+     "time": "2021-12-01T09:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1066893,
+   "sort": 2,
+   "name": "ストーン・フリー",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "石之自由",
+     "url": "https://www.bilibili.com/bangumi/play/ep433953",
+     "time": "2021-12-01T09:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1066894,
+   "sort": 3,
+   "name": "面会人 その①",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "会见人 其一",
+     "url": "https://www.bilibili.com/bangumi/play/ep433954",
+     "time": "2021-12-01T09:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1066895,
+   "sort": 4,
+   "name": "面会人 その②",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "会见人 其二",
+     "url": "https://www.bilibili.com/bangumi/play/ep433955",
+     "time": "2021-12-01T09:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1066896,
+   "sort": 5,
+   "name": "プリズナー・オブ・ラヴ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "爱的囚徒",
+     "url": "https://www.bilibili.com/bangumi/play/ep433956",
+     "time": "2021-12-01T09:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1066897,
+   "sort": 6,
+   "name": "エルメェスのシール",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "艾梅斯的贴纸",
+     "url": "https://www.bilibili.com/bangumi/play/ep433957",
+     "time": "2021-12-01T09:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1066898,
+   "sort": 7,
+   "name": "6人いる！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "有六个人！",
+     "url": "https://www.bilibili.com/bangumi/play/ep433958",
+     "time": "2021-12-01T09:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1066899,
+   "sort": 8,
+   "name": "フー・ファイターズ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "幽浮一族",
+     "url": "https://www.bilibili.com/bangumi/play/ep433959",
+     "time": "2021-12-01T09:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1066900,
+   "sort": 9,
+   "name": "取り立て人マリリン・マンソン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "讨债人玛丽莲·曼森",
+     "url": "https://www.bilibili.com/bangumi/play/ep433960",
+     "time": "2021-12-01T09:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1066901,
+   "sort": 10,
+   "name": "サヴェジ・ガーデン作戦（中庭へ向かえ！） その①",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "野人花园行动（向中庭进发!） 其一",
+     "url": "https://www.bilibili.com/bangumi/play/ep433961",
+     "time": "2021-12-01T09:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1066902,
+   "sort": 11,
+   "name": "サヴェジ・ガーデン作戦（中庭へ向かえ！） その②",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "野人花园行动（向中庭进发!） 其二",
+     "url": "https://www.bilibili.com/bangumi/play/ep433962",
+     "time": "2021-12-01T09:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1066903,
+   "sort": 12,
+   "name": "集中豪雨警報発令",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "集中暴雨警报发布",
+     "url": "https://www.bilibili.com/bangumi/play/ep433963",
+     "time": "2021-12-01T09:00:00.000Z"
+    }
+   ]
+  }
+ ]
+}
