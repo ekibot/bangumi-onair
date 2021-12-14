@@ -7,7 +7,7 @@
    "id": "28235053",
    "week": 2,
    "time": "0100",
-   "sort": 24
+   "sort": 25
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "暗中逼近的凯赛尔帝国",
      "url": "https://www.bilibili.com/bangumi/play/ep424322",
      "time": "2021-12-06T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1057762,
+   "sort": 11,
+   "name": "魔物VSイカしたギルド",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "魔物对阵最强公会",
+     "url": "https://www.bilibili.com/bangumi/play/ep424323",
+     "time": "2021-12-13T17:10:01.000Z"
     }
    ]
   }
