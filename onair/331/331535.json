@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235155",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -76,6 +76,20 @@
      "title": "骑行 -女武神-",
      "url": "https://www.bilibili.com/bangumi/play/ep434280",
      "time": "2021-12-07T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1049750,
+   "sort": 6,
+   "name": "朝陽-Rooster-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "朝阳 -雄鸡-",
+     "url": "https://www.bilibili.com/bangumi/play/ep434283",
+     "time": "2021-12-14T11:00:01.000Z"
     }
    ]
   }
