@@ -7,7 +7,7 @@
    "id": "28235174",
    "week": 4,
    "time": "2230",
-   "sort": 28
+   "sort": 29
   }
  ],
  "eps": [
@@ -232,6 +232,13 @@
      "title": "",
      "url": "https://www.bilibili.com/bangumi/play/ep431134",
      "time": "2021-12-10T12:00:01.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "梦想之声",
+     "url": "https://www.bilibili.com/bangumi/play/ep424220",
+     "time": "2021-12-16T14:30:01.000Z"
     }
    ]
   },

@@ -7,7 +7,7 @@
    "id": "28235154",
    "week": 5,
    "time": "0125",
-   "sort": 23
+   "sort": 25
   }
  ],
  "eps": [
@@ -134,6 +134,20 @@
      "title": "王妃与盾",
      "url": "https://www.bilibili.com/bangumi/play/ep424613",
      "time": "2021-12-09T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1053603,
+   "sort": 10,
+   "name": "王子の剣",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "王子的剑",
+     "url": "https://www.bilibili.com/bangumi/play/ep424614",
+     "time": "2021-12-16T17:25:01.000Z"
     }
    ]
   }
