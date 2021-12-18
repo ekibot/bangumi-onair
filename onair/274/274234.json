@@ -1,0 +1,181 @@
+{
+ "id": "274234",
+ "name": "小林さんちのメイドラゴンS",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28234613",
+   "sort": 28
+  }
+ ],
+ "eps": [
+  {
+   "id": 857650,
+   "sort": 1,
+   "name": "新たなるドラゴン、イルル！（またよろしくお願いします）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "新来的龙族 依露露（请多多关照）",
+     "url": "https://www.bilibili.com/bangumi/play/ep445875",
+     "time": "2021-12-17T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040865,
+   "sort": 2,
+   "name": "イケメン、小林！（いろんな意味で）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "帅哥小林（各种意义上都是）",
+     "url": "https://www.bilibili.com/bangumi/play/ep445876",
+     "time": "2021-12-17T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040866,
+   "sort": 3,
+   "name": "課外活動（もちろん普通じゃありません）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "课外活动（当然不是普通的那种）",
+     "url": "https://www.bilibili.com/bangumi/play/ep445877",
+     "time": "2021-12-17T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040867,
+   "sort": 4,
+   "name": "郷に入りては郷に従え（合わせるって大変です）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "入乡随俗（好难啊）",
+     "url": "https://www.bilibili.com/bangumi/play/ep445878",
+     "time": "2021-12-17T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040868,
+   "sort": 5,
+   "name": "君と一緒に（まあ気が合えばですが）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "和你在一起（如果能合得来的话）",
+     "url": "https://www.bilibili.com/bangumi/play/ep445879",
+     "time": "2021-12-17T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040869,
+   "sort": 6,
+   "name": "合縁奇縁（片方はドラゴンです）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "天作之合（虽然其中一方是龙族）",
+     "url": "https://www.bilibili.com/bangumi/play/ep445880",
+     "time": "2021-12-17T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040870,
+   "sort": 7,
+   "name": "一般常識（みんなずれてます）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "基本常识（大家都没有）",
+     "url": "https://www.bilibili.com/bangumi/play/ep445881",
+     "time": "2021-12-17T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040871,
+   "sort": 8,
+   "name": "世界に一つだけの（好きな言葉を続けてください）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "世界上唯一的（后面填自己喜欢的东西）",
+     "url": "https://www.bilibili.com/bangumi/play/ep445882",
+     "time": "2021-12-17T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040872,
+   "sort": 9,
+   "name": "いろいろワケがありまして（エルマざんまいです）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "因为各种缘故（整集都是艾露玛）",
+     "url": "https://www.bilibili.com/bangumi/play/ep445883",
+     "time": "2021-12-17T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040873,
+   "sort": 10,
+   "name": "カンナの夏休み（二か国語放送です!?）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "康娜的暑假（双语播出！？）",
+     "url": "https://www.bilibili.com/bangumi/play/ep445884",
+     "time": "2021-12-17T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040874,
+   "sort": 11,
+   "name": "プレミアムシート（特別料金はかかりません）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "特等席（不需要另外付费）",
+     "url": "https://www.bilibili.com/bangumi/play/ep445885",
+     "time": "2021-12-17T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1040875,
+   "sort": 12,
+   "name": "生生流転（でも立ち止まるのもありですかね）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "大结局 生生不息（不过有时也会停住呢）",
+     "url": "https://www.bilibili.com/bangumi/play/ep445886",
+     "time": "2021-12-17T12:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

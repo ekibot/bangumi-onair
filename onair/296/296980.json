@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 50
+   "sort": 51
   },
   {
    "site": "youku",
@@ -945,6 +945,20 @@
      "title": "哈德拉禁卫骑团",
      "url": "https://www.bilibili.com/bangumi/play/ep341380",
      "time": "2021-12-11T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1041379,
+   "sort": 49,
+   "name": "パーティーバトル開始",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 49,
+     "title": "团队战开始 ",
+     "url": "https://www.bilibili.com/bangumi/play/ep341381",
+     "time": "2021-12-18T01:30:01.000Z"
     }
    ]
   }
