@@ -7,7 +7,7 @@
    "id": "28235026",
    "week": 6,
    "time": "2100",
-   "sort": 39
+   "sort": 41
   }
  ],
  "eps": [
@@ -134,6 +134,20 @@
      "title": "白帆之都",
      "url": "https://www.bilibili.com/bangumi/play/ep424333",
      "time": "2021-12-11T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051470,
+   "sort": 10,
+   "name": "武勲の輝き",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "战功辉煌",
+     "url": "https://www.bilibili.com/bangumi/play/ep424334",
+     "time": "2021-12-18T13:00:01.000Z"
     }
    ]
   }
