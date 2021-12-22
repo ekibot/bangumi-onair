@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235155",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -90,6 +90,20 @@
      "title": "朝阳 -雄鸡-",
      "url": "https://www.bilibili.com/bangumi/play/ep434283",
      "time": "2021-12-14T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1049751,
+   "sort": 7,
+   "name": "真実-Noise-",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "真相 -杂音-",
+     "url": "https://www.bilibili.com/bangumi/play/ep438675",
+     "time": "2021-12-21T11:00:01.000Z"
     }
    ]
   }
