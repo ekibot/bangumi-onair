@@ -7,7 +7,7 @@
    "id": "28235173",
    "week": 3,
    "time": "2300",
-   "sort": 13
+   "sort": 14
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "背叛的决定",
      "url": "https://www.bilibili.com/bangumi/play/ep424846",
      "time": "2021-12-15T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054344,
+   "sort": 12,
+   "name": "暗殺者の戦い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "暗杀者的战斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep424847",
+     "time": "2021-12-22T15:00:01.000Z"
     }
    ]
   }
