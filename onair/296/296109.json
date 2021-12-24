@@ -7,7 +7,7 @@
    "id": "28235154",
    "week": 5,
    "time": "0125",
-   "sort": 25
+   "sort": 27
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "王子的剑",
      "url": "https://www.bilibili.com/bangumi/play/ep424614",
      "time": "2021-12-16T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1053604,
+   "sort": 11,
+   "name": "兄と弟",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "兄与弟",
+     "url": "https://www.bilibili.com/bangumi/play/ep424615",
+     "time": "2021-12-23T17:25:01.000Z"
     }
    ]
   }
