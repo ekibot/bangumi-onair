@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235130",
-   "sort": 8
+   "sort": 9
   }
  ],
  "eps": [
@@ -104,6 +104,20 @@
      "title": "闹剧等",
      "url": "https://www.bilibili.com/bangumi/play/ep441572",
      "time": "2021-12-21T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058487,
+   "sort": 8,
+   "name": "ソウルメイトなど",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "灵魂伴侣等",
+     "url": "https://www.bilibili.com/bangumi/play/ep441573",
+     "time": "2021-12-28T16:30:01.000Z"
     }
    ]
   }
