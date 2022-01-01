@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 52
+   "sort": 53
   },
   {
    "site": "youku",
@@ -973,6 +973,20 @@
      "title": "我们兽王游击队",
      "url": "https://www.bilibili.com/bangumi/play/ep341382",
      "time": "2021-12-25T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054502,
+   "sort": 51,
+   "name": "アバン流究極奥義",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 51,
+     "title": "阿邦流究极奥义",
+     "url": "https://www.bilibili.com/bangumi/play/ep341383",
+     "time": "2022-01-01T01:30:01.000Z"
     }
    ]
   }
