@@ -7,7 +7,7 @@
    "id": "28235026",
    "week": 6,
    "time": "2100",
-   "sort": 45
+   "sort": 46
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "绝望之谷",
      "url": "https://www.bilibili.com/bangumi/play/ep424335",
      "time": "2021-12-25T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1051472,
+   "sort": 12,
+   "name": "最果てのパラディ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "世界尽头的圣骑士",
+     "url": "https://www.bilibili.com/bangumi/play/ep424336",
+     "time": "2022-01-03T13:30:00.000Z"
     }
    ]
   }
