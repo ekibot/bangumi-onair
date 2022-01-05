@@ -16,6 +16,11 @@
    "site": "bilibili",
    "id": "28221387",
    "sort": 25
+  },
+  {
+   "site": "youku",
+   "id": "eaaeacf0b05d47dab8f2",
+   "sort": 24
   }
  ],
  "eps": [
@@ -43,6 +48,12 @@
      "title": "石之世界",
      "url": "https://www.bilibili.com/bangumi/play/ep276773",
      "time": "2019-07-05T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "石之世界",
+     "url": "https://v.youku.com/v_show/id_XNDI2NTM2ODEyNA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -70,6 +81,12 @@
      "title": "石之世界的王者",
      "url": "https://www.bilibili.com/bangumi/play/ep276774",
      "time": "2019-07-12T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 2,
+     "title": "石头世界之王",
+     "url": "https://v.youku.com/v_show/id_XNDI3NDMxODg2OA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -97,6 +114,12 @@
      "title": "科学的武器",
      "url": "https://www.bilibili.com/bangumi/play/ep276775",
      "time": "2019-07-19T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 3,
+     "title": "科学武器",
+     "url": "https://v.youku.com/v_show/id_XNDI4MjkwNDQxNg==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -124,6 +147,12 @@
      "title": "升起狼烟",
      "url": "https://www.bilibili.com/bangumi/play/ep276776",
      "time": "2019-07-26T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 4,
+     "title": "燃起狼烟吧",
+     "url": "https://v.youku.com/v_show/id_XNDI5MjMxODU2MA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -151,6 +180,12 @@
      "title": "石之世界 初章",
      "url": "https://www.bilibili.com/bangumi/play/ep276777",
      "time": "2019-08-02T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 5,
+     "title": "石头世界正式开始",
+     "url": "https://v.youku.com/v_show/id_XNDMwMTQwMzMyNA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -178,6 +213,12 @@
      "title": "石之世界的两个国家",
      "url": "https://www.bilibili.com/bangumi/play/ep276778",
      "time": "2019-08-09T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 6,
+     "title": "石头世界的两个国家",
+     "url": "https://v.youku.com/v_show/id_XNDMxMjI2MzY5Mg==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -205,6 +246,12 @@
      "title": "200万年的隐居处",
      "url": "https://www.bilibili.com/bangumi/play/ep276779",
      "time": "2019-08-16T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 7,
+     "title": "两百万年的所在之处",
+     "url": "https://v.youku.com/v_show/id_XNDMyMTIwMDI5Ng==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -232,6 +279,12 @@
      "title": "石之路线",
      "url": "https://www.bilibili.com/bangumi/play/ep276780",
      "time": "2019-08-23T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 8,
+     "title": "石头之路",
+     "url": "https://v.youku.com/v_show/id_XNDMzMTQ5NTE0MA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -259,6 +312,12 @@
      "title": "手握科学的明灯",
      "url": "https://www.bilibili.com/bangumi/play/ep276781",
      "time": "2019-08-30T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 9,
+     "title": "手握科学之灯",
+     "url": "https://v.youku.com/v_show/id_XNDM0MDk1NTQ0NA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -286,6 +345,12 @@
      "title": "廉价的同盟",
      "url": "https://www.bilibili.com/bangumi/play/ep276782",
      "time": "2019-09-06T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 10,
+     "title": "浅薄的同盟",
+     "url": "https://v.youku.com/v_show/id_XNDM1NDk3OTA0NA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -313,6 +378,12 @@
      "title": "清晰的世界",
      "url": "https://www.bilibili.com/bangumi/play/ep276783",
      "time": "2019-09-13T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 11,
+     "title": "清晰的世界",
+     "url": "https://v.youku.com/v_show/id_XNDM2MzU4OTI2NA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -340,6 +411,12 @@
      "title": "互相托付身后的伙伴们",
      "url": "https://www.bilibili.com/bangumi/play/ep276784",
      "time": "2019-09-20T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 12,
+     "title": "并肩战斗的同伴",
+     "url": "https://v.youku.com/v_show/id_XNDM3MzkxMjY5Mg==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -367,6 +444,12 @@
      "title": "假面战士",
      "url": "https://www.bilibili.com/bangumi/play/ep276785",
      "time": "2019-09-27T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 13,
+     "title": "戴面具的战士",
+     "url": "https://v.youku.com/v_show/id_XNDM5MTcwNTEzMg==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -394,6 +477,12 @@
      "title": "火焰大师",
      "url": "https://www.bilibili.com/bangumi/play/ep276786",
      "time": "2019-10-04T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 14,
+     "title": "火焰大师",
+     "url": "https://v.youku.com/v_show/id_XNDM5MDI2NDEyOA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -421,6 +510,12 @@
      "title": "200万年的结晶",
      "url": "https://www.bilibili.com/bangumi/play/ep276787",
      "time": "2019-10-11T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 15,
+     "title": "两百万年的结晶",
+     "url": "https://v.youku.com/v_show/id_XNDM5NTYzNjU2OA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -448,6 +543,12 @@
      "title": "数千年物语",
      "url": "https://www.bilibili.com/bangumi/play/ep276788",
      "time": "2019-10-18T14:29:59.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 16,
+     "title": "几千年的故事",
+     "url": "https://v.youku.com/v_show/id_XNDQwNzEyNjAxNg==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -475,6 +576,12 @@
      "title": "百夜与千空",
      "url": "https://www.bilibili.com/bangumi/play/ep276789",
      "time": "2019-10-25T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 17,
+     "title": "一百个夜晚和一千个天空",
+     "url": "https://v.youku.com/v_show/id_XNDQxNjQ0Nzc5Mg==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -502,6 +609,12 @@
      "title": "石之战争",
      "url": "https://www.bilibili.com/bangumi/play/ep276790",
      "time": "2019-11-01T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 18,
+     "title": "石头战争",
+     "url": "https://v.youku.com/v_show/id_XNDQyNDUxNDg1Ng==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -529,6 +642,12 @@
      "title": "向现代进发",
      "url": "https://www.bilibili.com/bangumi/play/ep276791",
      "time": "2019-11-08T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 19,
+     "title": "迈向现代",
+     "url": "https://v.youku.com/v_show/id_XNDQzMjczMzg4NA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -556,6 +675,12 @@
      "title": "动力的时代",
      "url": "https://www.bilibili.com/bangumi/play/ep276792",
      "time": "2019-11-15T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 20,
+     "title": "动力的时代",
+     "url": "https://v.youku.com/v_show/id_XNDQzOTczNjkxNg==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -583,6 +708,12 @@
      "title": "斯巴达手工俱乐部",
      "url": "https://www.bilibili.com/bangumi/play/ep276793",
      "time": "2019-11-22T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 21,
+     "title": "斯巴达式制作俱乐部",
+     "url": "https://v.youku.com/v_show/id_XNDQ0NzczMDMyMA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -610,6 +741,12 @@
      "title": "宝物",
      "url": "https://www.bilibili.com/bangumi/play/ep276794",
      "time": "2019-11-29T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 22,
+     "title": "宝物",
+     "url": "https://v.youku.com/v_show/id_XNDQ1NTQ2MjYwNA==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -637,6 +774,12 @@
      "title": "科学的波浪",
      "url": "https://www.bilibili.com/bangumi/play/ep276795",
      "time": "2019-12-06T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 23,
+     "title": "科学之波",
+     "url": "https://v.youku.com/v_show/id_XNDQ2MzUzMTYzNg==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   },
@@ -664,6 +807,12 @@
      "title": "将声音无限传递到远方",
      "url": "https://www.bilibili.com/bangumi/play/ep276796",
      "time": "2019-12-13T14:30:00.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 24,
+     "title": "声音传向无限远",
+     "url": "https://v.youku.com/v_show/id_XNDQ3MDk5MTcxNg==.html?s=eaaeacf0b05d47dab8f2"
     }
    ]
   }
