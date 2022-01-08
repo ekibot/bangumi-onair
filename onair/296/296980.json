@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 53
+   "sort": 54
   },
   {
    "site": "youku",
@@ -987,6 +987,20 @@
      "title": "阿邦流究极奥义",
      "url": "https://www.bilibili.com/bangumi/play/ep341383",
      "time": "2022-01-01T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054503,
+   "sort": 52,
+   "name": "父子竜出陣",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 52,
+     "title": "龙之父子出阵",
+     "url": "https://www.bilibili.com/bangumi/play/ep341384",
+     "time": "2022-01-08T01:30:01.000Z"
     }
    ]
   }
