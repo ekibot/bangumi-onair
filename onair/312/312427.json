@@ -1,0 +1,29 @@
+{
+ "id": "312427",
+ "name": "フットサルボーイズ!!!!!",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235976",
+   "week": 7,
+   "time": "2230",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1072894,
+   "sort": 1,
+   "name": "夢、キックオフ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "梦想，开球！",
+     "url": "https://www.bilibili.com/bangumi/play/ep454569",
+     "time": "2022-01-09T14:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

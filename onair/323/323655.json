@@ -1,0 +1,29 @@
+{
+ "id": "323655",
+ "name": "オリエント",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235820",
+   "week": 3,
+   "time": "2300",
+   "sort": 14
+  }
+ ],
+ "eps": [
+  {
+   "id": 1070530,
+   "sort": 1,
+   "name": "武蔵と小次郎",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "武藏和小次郎",
+     "url": "https://www.bilibili.com/bangumi/play/ep450002",
+     "time": "2022-01-05T15:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

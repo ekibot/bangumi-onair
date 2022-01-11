@@ -1,0 +1,29 @@
+{
+ "id": "318227",
+ "name": "CUE!",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235968",
+   "week": 6,
+   "time": "0155",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1072550,
+   "sort": 1,
+   "name": "はじまりのはじまり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "最初的起点",
+     "url": "https://www.bilibili.com/bangumi/play/ep458490",
+     "time": "2022-01-07T17:55:01.000Z"
+    }
+   ]
+  }
+ ]
+}

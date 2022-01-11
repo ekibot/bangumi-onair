@@ -1,0 +1,29 @@
+{
+ "id": "329014",
+ "name": "リアデイルの大地にて",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235838",
+   "week": 3,
+   "time": "2200",
+   "sort": 3
+  }
+ ],
+ "eps": [
+  {
+   "id": 1070542,
+   "sort": 1,
+   "name": "宿屋と、塔と、熊と、宴会",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "旅店与塔与熊与宴会",
+     "url": "https://www.bilibili.com/bangumi/play/ep457775",
+     "time": "2022-01-05T14:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

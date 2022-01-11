@@ -1,0 +1,29 @@
+{
+ "id": "326870",
+ "name": "失格紋の最強賢者",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235844",
+   "week": 6,
+   "time": "2200",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1072964,
+   "sort": 1,
+   "name": "最強賢者、現る。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "最强贤者，现身。",
+     "url": "https://www.bilibili.com/bangumi/play/ep450024",
+     "time": "2022-01-08T14:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

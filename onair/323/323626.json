@@ -1,0 +1,27 @@
+{
+ "id": "323626",
+ "name": "スローループ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235946",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1072562,
+   "sort": 1,
+   "name": "とても変わった女の子",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "十分古怪的女孩",
+     "url": "https://www.bilibili.com/bangumi/play/ep457558",
+     "time": "2022-01-07T14:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

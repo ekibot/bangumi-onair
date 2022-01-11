@@ -1,0 +1,29 @@
+{
+ "id": "325982",
+ "name": "ドールズフロントライン",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235950",
+   "week": 6,
+   "time": "0100",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1072728,
+   "sort": 1,
+   "name": "THE SEED タネ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "种子",
+     "url": "https://www.bilibili.com/bangumi/play/ep453830",
+     "time": "2022-01-07T17:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
