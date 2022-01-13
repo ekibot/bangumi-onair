@@ -6,6 +6,11 @@
    "site": "bilibili",
    "id": "3839",
    "sort": 1
+  },
+  {
+   "site": "youku",
+   "id": "6ee503b6004711e5b692",
+   "sort": 1
   }
  ],
  "eps": [
@@ -20,6 +25,12 @@
      "title": " 头文字D Legend2 -斗走-",
      "url": "https://www.bilibili.com/bangumi/play/ep86752",
      "time": "2016-04-25T06:17:25.000Z"
+    },
+    {
+     "site": "youku",
+     "sort": 1,
+     "title": "头文字D 新剧场版:斗走",
+     "url": "https://v.youku.com/v_show/id_XMTYyNjQwMDkwMA==.html?s=6ee503b6004711e5b692"
     }
    ]
   }
