@@ -7,7 +7,7 @@
    "id": "28235968",
    "week": 6,
    "time": "0155",
-   "sort": 2
+   "sort": 3
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "最初的起点",
      "url": "https://www.bilibili.com/bangumi/play/ep458490",
      "time": "2022-01-07T17:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1072551,
+   "sort": 2,
+   "name": "それぞれの色",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "各自的色彩",
+     "url": "https://www.bilibili.com/bangumi/play/ep458491",
+     "time": "2022-01-14T17:55:01.000Z"
     }
    ]
   }

@@ -7,7 +7,7 @@
    "id": "28235950",
    "week": 6,
    "time": "0100",
-   "sort": 2
+   "sort": 3
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "种子",
      "url": "https://www.bilibili.com/bangumi/play/ep453830",
      "time": "2022-01-07T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1072729,
+   "sort": 2,
+   "name": "WAKE UP 目覚め",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "觉醒",
+     "url": "https://www.bilibili.com/bangumi/play/ep453831",
+     "time": "2022-01-14T17:00:01.000Z"
     }
    ]
   }
