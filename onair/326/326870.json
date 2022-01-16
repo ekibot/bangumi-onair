@@ -7,7 +7,7 @@
    "id": "28235844",
    "week": 6,
    "time": "2200",
-   "sort": 2
+   "sort": 3
   }
  ],
  "eps": [
@@ -22,6 +22,20 @@
      "title": "最强贤者，现身。",
      "url": "https://www.bilibili.com/bangumi/play/ep450024",
      "time": "2022-01-08T14:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1072965,
+   "sort": 2,
+   "name": "最強賢者、迷宮（ダンジョン）へ。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "最强贤者，前往迷宫。",
+     "url": "https://www.bilibili.com/bangumi/play/ep450025",
+     "time": "2022-01-15T14:00:01.000Z"
     }
    ]
   }
