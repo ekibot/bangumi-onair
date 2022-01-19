@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235846",
-   "sort": 3,
+   "sort": 4,
    "week": 2,
    "time": "2230"
   }
@@ -22,6 +22,20 @@
      "title": "对了，把王国卖掉跑路吧",
      "url": "https://www.bilibili.com/bangumi/play/ep450050",
      "time": "2022-01-11T14:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1068790,
+   "sort": 2,
+   "name": "戦場のウェイン・サレマ・アルバレスト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "战场上的维恩·萨雷马·阿尔巴斯特",
+     "url": "https://www.bilibili.com/bangumi/play/ep450051",
+     "time": "2022-01-18T14:30:01.000Z"
     }
    ]
   }
