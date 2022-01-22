@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 55
+   "sort": 56
   },
   {
    "site": "youku",
@@ -1015,6 +1015,20 @@
      "title": "哈德拉的挑战",
      "url": "https://www.bilibili.com/bangumi/play/ep341385",
      "time": "2022-01-15T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054505,
+   "sort": 54,
+   "name": "ハドラー対バラン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 54,
+     "title": "哈德拉对巴兰",
+     "url": "https://www.bilibili.com/bangumi/play/ep341386",
+     "time": "2022-01-22T01:30:01.000Z"
     }
    ]
   }
