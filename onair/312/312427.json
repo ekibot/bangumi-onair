@@ -7,7 +7,7 @@
    "id": "28235976",
    "week": 7,
    "time": "2230",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -36,6 +36,20 @@
      "title": "司令塔·榊？",
      "url": "https://www.bilibili.com/bangumi/play/ep454570",
      "time": "2022-01-16T14:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1072896,
+   "sort": 3,
+   "name": "初戦!アーダルベルト",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "首战！阿达尔伯特",
+     "url": "https://www.bilibili.com/bangumi/play/ep454571",
+     "time": "2022-01-23T14:30:01.000Z"
     }
    ]
   }
