@@ -7,7 +7,7 @@
    "id": "28235838",
    "week": 3,
    "time": "2200",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -50,6 +50,20 @@
      "title": "女儿与角斗场与狂飙与上勾拳",
      "url": "https://www.bilibili.com/bangumi/play/ep457777",
      "time": "2022-01-19T14:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1070545,
+   "sort": 4,
+   "name": "息子と、喧嘩と、旅と、野盗",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "儿子与吵架与旅行与强盗",
+     "url": "https://www.bilibili.com/bangumi/play/ep460421",
+     "time": "2022-01-26T14:00:01.000Z"
     }
    ]
   }
