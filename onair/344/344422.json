@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235961",
-   "sort": 4
+   "sort": 5
   }
  ],
  "eps": [
@@ -48,6 +48,20 @@
      "title": "王牌登场 | 遗体会说话",
      "url": "https://www.bilibili.com/bangumi/play/ep457557",
      "time": "2022-01-19T15:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1070557,
+   "sort": 4,
+   "name": "拝啓お犬様 / ランナーズ・ハイ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "敬启警犬长官 | 跑者愉悦",
+     "url": "https://www.bilibili.com/bangumi/play/ep469622",
+     "time": "2022-01-29T15:30:01.000Z"
     }
    ]
   }
