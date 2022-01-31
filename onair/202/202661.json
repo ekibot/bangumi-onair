@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 227
+   "sort": 228
   }
  ],
  "eps": [
@@ -5794,6 +5794,20 @@
      "title": "挚友对决",
      "url": "https://www.bilibili.com/bangumi/play/ep466118",
      "time": "2022-01-23T09:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054262,
+   "sort": 226,
+   "name": "サムライ対カガク",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 226,
+     "title": "武士对科学",
+     "url": "https://www.bilibili.com/bangumi/play/ep466119",
+     "time": "2022-01-30T09:30:01.000Z"
     }
    ]
   }
