@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235961",
-   "sort": 5
+   "sort": 6
   }
  ],
  "eps": [
@@ -62,6 +62,20 @@
      "title": "敬启警犬长官 | 跑者愉悦",
      "url": "https://www.bilibili.com/bangumi/play/ep469622",
      "time": "2022-01-29T15:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1070558,
+   "sort": 5,
+   "name": "深夜のパトロール / VS．チカン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "深夜巡逻 | 对战色狼",
+     "url": "https://www.bilibili.com/bangumi/play/ep469623",
+     "time": "2022-02-02T15:30:01.000Z"
     }
    ]
   }
