@@ -7,7 +7,7 @@
    "id": "28235160",
    "week": 7,
    "time": "0255",
-   "sort": 13
+   "sort": 14
   }
  ],
  "eps": [
@@ -176,6 +176,20 @@
      "title": "海市蜃楼般的女人们~女巫和绅士~",
      "url": "https://www.bilibili.com/bangumi/play/ep424655",
      "time": "2022-01-29T18:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1062191,
+   "sort": 15,
+   "name": "祝福の鐘に響けよ、銃声",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 15,
+     "title": "枪声与祝福钟声同响",
+     "url": "https://www.bilibili.com/bangumi/play/ep424656",
+     "time": "2022-02-05T18:55:01.000Z"
     }
    ]
   }
