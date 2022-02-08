@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235857",
-   "sort": 9,
+   "sort": 10,
    "week": 1,
    "time": "2300"
   }
@@ -19,7 +19,7 @@
     {
      "site": "bilibili",
      "sort": 1,
-     "title": "菜单1  寻访美食 ~好奇心是最棒的法式香草束~",
+     "title": "寻访美食 ~好奇心是最棒的法式香草束~",
      "url": "https://www.bilibili.com/bangumi/play/ep443247",
      "time": "2022-01-10T15:00:01.000Z"
     }
@@ -33,7 +33,7 @@
     {
      "site": "bilibili",
      "sort": 2,
-     "title": "菜单2  任性猫的犹豫 ~月光的意式开胃菜~",
+     "title": "任性猫的犹豫 ~月光的意式开胃菜~",
      "url": "https://www.bilibili.com/bangumi/play/ep443248",
      "time": "2022-01-17T15:00:01.000Z"
     }
@@ -47,7 +47,7 @@
     {
      "site": "bilibili",
      "sort": 3,
-     "title": "菜单3 奇妙森林的茶会 ~下午茶飘散出危险的香气~",
+     "title": "奇妙森林的茶会 ~下午茶飘散出危险的香气~",
      "url": "https://www.bilibili.com/bangumi/play/ep443249",
      "time": "2022-01-24T15:00:01.000Z"
     }
@@ -61,9 +61,23 @@
     {
      "site": "bilibili",
      "sort": 4,
-     "title": "菜单4 青涩的大侦探 ~将心意凝聚在镜面淋酱上~",
+     "title": "青涩的大侦探 ~将心意凝聚在镜面淋酱上~",
      "url": "https://www.bilibili.com/bangumi/play/ep466220",
      "time": "2022-01-31T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1070755,
+   "sort": 5,
+   "name": "背中合わせの光と闇 ～迷いと決意のシュラスコ～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "背靠背的光与暗~迷茫与决心的巴西烤肉~",
+     "url": "https://www.bilibili.com/bangumi/play/ep466221",
+     "time": "2022-02-07T15:00:01.000Z"
     }
    ]
   }
