@@ -7,7 +7,7 @@
    "id": "28235154",
    "week": 5,
    "time": "0125",
-   "sort": 40
+   "sort": 42
   }
  ],
  "eps": [
@@ -232,6 +232,20 @@
      "title": "王的威严",
      "url": "https://www.bilibili.com/bangumi/play/ep466215",
      "time": "2022-02-03T17:25:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1062355,
+   "sort": 17,
+   "name": "不死の呪い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 17,
+     "title": "不死的诅咒",
+     "url": "https://www.bilibili.com/bangumi/play/ep466216",
+     "time": "2022-02-10T17:25:00.000Z"
     }
    ]
   }
