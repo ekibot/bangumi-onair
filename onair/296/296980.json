@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 58
+   "sort": 59
   },
   {
    "site": "youku",
@@ -1057,6 +1057,20 @@
      "title": "传承的心",
      "url": "https://www.bilibili.com/bangumi/play/ep341388",
      "time": "2022-02-05T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054508,
+   "sort": 57,
+   "name": "魔界の神",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 57,
+     "title": "魔界之神",
+     "url": "https://www.bilibili.com/bangumi/play/ep341389",
+     "time": "2022-02-12T01:30:01.000Z"
     }
    ]
   }
