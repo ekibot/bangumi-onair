@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 228
+   "sort": 229
   }
  ],
  "eps": [
@@ -5808,6 +5808,20 @@
      "title": "武士对科学",
      "url": "https://www.bilibili.com/bangumi/play/ep466119",
      "time": "2022-01-30T09:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054263,
+   "sort": 227,
+   "name": "第七班、最後の任務!?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 227,
+     "title": "第七班最后的任务",
+     "url": "https://www.bilibili.com/bangumi/play/ep470537",
+     "time": "2022-02-13T09:30:01.000Z"
     }
    ]
   }
