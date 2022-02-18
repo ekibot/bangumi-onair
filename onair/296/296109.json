@@ -7,7 +7,7 @@
    "id": "28235154",
    "week": 5,
    "time": "0125",
-   "sort": 42
+   "sort": 44
   }
  ],
  "eps": [
@@ -246,6 +246,20 @@
      "title": "不死的诅咒",
      "url": "https://www.bilibili.com/bangumi/play/ep466216",
      "time": "2022-02-10T17:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1062356,
+   "sort": 18,
+   "name": "神々との争い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 18,
+     "title": "与诸神的斗争",
+     "url": "https://www.bilibili.com/bangumi/play/ep471492",
+     "time": "2022-02-17T17:25:00.000Z"
     }
    ]
   }
