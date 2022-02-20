@@ -7,7 +7,7 @@
    "id": "28235844",
    "week": 6,
    "time": "2200",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "最强贤者，离开校园。",
      "url": "https://www.bilibili.com/bangumi/play/ep450029",
      "time": "2022-02-12T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1072970,
+   "sort": 7,
+   "name": "最強賢者、旅路を往く。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "最强贤者，踏上旅途。",
+     "url": "https://www.bilibili.com/bangumi/play/ep457784",
+     "time": "2022-02-19T14:00:01.000Z"
     }
    ]
   }
