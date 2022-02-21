@@ -7,7 +7,7 @@
    "id": "28235976",
    "week": 7,
    "time": "2230",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "超越！",
      "url": "https://www.bilibili.com/bangumi/play/ep454574",
      "time": "2022-02-13T14:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1072900,
+   "sort": 7,
+   "name": "きらめく星々！天ノ川学園！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "闪耀群星！天之川学园！",
+     "url": "https://www.bilibili.com/bangumi/play/ep454575",
+     "time": "2022-02-20T14:30:01.000Z"
     }
    ]
   }

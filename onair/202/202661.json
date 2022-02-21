@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 229
+   "sort": 230
   }
  ],
  "eps": [
@@ -5822,6 +5822,20 @@
      "title": "第七班最后的任务",
      "url": "https://www.bilibili.com/bangumi/play/ep470537",
      "time": "2022-02-13T09:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054264,
+   "sort": 228,
+   "name": "カワキ、忍への道",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 228,
+     "title": "川木 通向忍者之路",
+     "url": "https://www.bilibili.com/bangumi/play/ep470538",
+     "time": "2022-02-20T09:30:01.000Z"
     }
    ]
   }
