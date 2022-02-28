@@ -7,7 +7,7 @@
    "id": "28235976",
    "week": 7,
    "time": "2230",
-   "sort": 8
+   "sort": 9
   }
  ],
  "eps": [
@@ -106,6 +106,20 @@
      "title": "闪耀群星！天之川学园！",
      "url": "https://www.bilibili.com/bangumi/play/ep454575",
      "time": "2022-02-20T14:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1072901,
+   "sort": 8,
+   "name": "WE ARE FUN☆TASISTA",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "我们是快乐☆足球天才",
+     "url": "https://www.bilibili.com/bangumi/play/ep454576",
+     "time": "2022-02-27T14:30:01.000Z"
     }
    ]
   }

@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 230
+   "sort": 231
   }
  ],
  "eps": [
@@ -5836,6 +5836,20 @@
      "title": "川木 通向忍者之路",
      "url": "https://www.bilibili.com/bangumi/play/ep470538",
      "time": "2022-02-20T09:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054265,
+   "sort": 229,
+   "name": "命令違反",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 229,
+     "title": "违反命令",
+     "url": "https://www.bilibili.com/bangumi/play/ep470539",
+     "time": "2022-02-27T09:30:01.000Z"
     }
    ]
   }
