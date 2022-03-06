@@ -7,7 +7,7 @@
    "id": "28234644",
    "week": 7,
    "time": "0130",
-   "sort": 25
+   "sort": 26
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "虾子钓鲷 鲨鱼上钩",
      "url": "https://www.bilibili.com/bangumi/play/ep467549",
      "time": "2022-02-26T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1072594,
+   "sort": 22,
+   "name": "人学ばざれば智なし、智なき者は愚人なり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "人不学无智，无智者愚人",
+     "url": "https://www.bilibili.com/bangumi/play/ep467550",
+     "time": "2022-03-05T17:30:01.000Z"
     }
    ]
   }

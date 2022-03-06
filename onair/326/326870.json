@@ -7,7 +7,7 @@
    "id": "28235844",
    "week": 6,
    "time": "2200",
-   "sort": 9
+   "sort": 10
   }
  ],
  "eps": [
@@ -120,6 +120,20 @@
      "title": "最强贤者，拯救城镇。",
      "url": "https://www.bilibili.com/bangumi/play/ep457785",
      "time": "2022-02-26T14:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1072972,
+   "sort": 9,
+   "name": "最強賢者、決闘する。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "最强贤者，展开决斗。",
+     "url": "https://www.bilibili.com/bangumi/play/ep457786",
+     "time": "2022-03-05T14:00:01.000Z"
     }
    ]
   }
