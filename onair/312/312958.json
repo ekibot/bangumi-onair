@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235857",
-   "sort": 13,
+   "sort": 14,
    "week": 1,
    "time": "2300"
   }
@@ -120,6 +120,20 @@
      "title": "带来幸福的信 ~绿色山丘的意式炸饭团~",
      "url": "https://www.bilibili.com/bangumi/play/ep470535",
      "time": "2022-02-28T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1070759,
+   "sort": 9,
+   "name": "近づく心、すれ違う魂 ～クレープは誓いの味で～",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "接近的心灵，错过的灵魂 ~可丽饼要吃誓言味道的哦~",
+     "url": "https://www.bilibili.com/bangumi/play/ep470536",
+     "time": "2022-03-07T15:00:01.000Z"
     }
    ]
   }
