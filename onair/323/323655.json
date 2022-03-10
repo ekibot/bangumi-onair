@@ -7,7 +7,7 @@
    "id": "28235820",
    "week": 3,
    "time": "2300",
-   "sort": 26
+   "sort": 27
   }
  ],
  "eps": [
@@ -134,6 +134,20 @@
      "title": "武士的生存之道",
      "url": "https://www.bilibili.com/bangumi/play/ep467563",
      "time": "2022-03-02T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1070539,
+   "sort": 10,
+   "name": "女神の力",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "女神之力",
+     "url": "https://www.bilibili.com/bangumi/play/ep472131",
+     "time": "2022-03-09T15:00:01.000Z"
     }
    ]
   }
