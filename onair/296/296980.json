@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 62
+   "sort": 63
   },
   {
    "site": "youku",
@@ -1113,6 +1113,20 @@
      "title": "达伊与波普",
      "url": "https://www.bilibili.com/bangumi/play/ep341392",
      "time": "2022-03-05T01:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1054512,
+   "sort": 61,
+   "name": "勇者アバン",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 61,
+     "title": "勇者阿邦",
+     "url": "https://www.bilibili.com/bangumi/play/ep341393",
+     "time": "2022-03-12T01:30:00.000Z"
     }
    ]
   }

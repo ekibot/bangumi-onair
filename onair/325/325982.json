@@ -7,7 +7,7 @@
    "id": "28235950",
    "week": 6,
    "time": "0100",
-   "sort": 10
+   "sort": 11
   }
  ],
  "eps": [
@@ -134,6 +134,20 @@
      "title": "火种02",
      "url": "https://www.bilibili.com/bangumi/play/ep465707",
      "time": "2022-03-04T17:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1072737,
+   "sort": 10,
+   "name": "THE KINDLING03 火種03",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "火种03",
+     "url": "https://www.bilibili.com/bangumi/play/ep467555",
+     "time": "2022-03-11T17:00:01.000Z"
     }
    ]
   }
