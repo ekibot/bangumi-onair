@@ -7,7 +7,7 @@
    "id": "28235154",
    "week": 5,
    "time": "0125",
-   "sort": 50
+   "sort": 51
   }
  ],
  "eps": [
@@ -302,6 +302,20 @@
      "title": "王者剑法",
      "url": "https://www.bilibili.com/bangumi/play/ep473803",
      "time": "2022-03-10T17:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1062360,
+   "sort": 22,
+   "name": "魔神との約束",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "与魔神的约定",
+     "url": "https://www.bilibili.com/bangumi/play/ep473804",
+     "time": "2022-03-17T17:25:00.000Z"
     }
    ]
   }
