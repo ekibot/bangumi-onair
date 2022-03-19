@@ -1,0 +1,181 @@
+{
+ "id": "339969",
+ "name": "Deep Insanity THE LOST CHILD",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235140",
+   "sort": 13
+  }
+ ],
+ "eps": [
+  {
+   "id": 1058492,
+   "sort": 1,
+   "name": "take1",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "镜头号 01",
+     "url": "https://www.bilibili.com/bangumi/play/ep475040",
+     "time": "2022-03-18T12:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058493,
+   "sort": 2,
+   "name": "take2",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "镜头号 02",
+     "url": "https://www.bilibili.com/bangumi/play/ep475041",
+     "time": "2022-03-18T12:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058494,
+   "sort": 3,
+   "name": "take3",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "镜头号 03",
+     "url": "https://www.bilibili.com/bangumi/play/ep475042",
+     "time": "2022-03-18T12:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058495,
+   "sort": 4,
+   "name": "take4",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "镜头号 04",
+     "url": "https://www.bilibili.com/bangumi/play/ep475043",
+     "time": "2022-03-18T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058496,
+   "sort": 5,
+   "name": "take5",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "镜头号 05",
+     "url": "https://www.bilibili.com/bangumi/play/ep475044",
+     "time": "2022-03-18T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058497,
+   "sort": 6,
+   "name": "take6",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "镜头号 06",
+     "url": "https://www.bilibili.com/bangumi/play/ep475045",
+     "time": "2022-03-18T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058498,
+   "sort": 7,
+   "name": "take7",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "镜头号 07",
+     "url": "https://www.bilibili.com/bangumi/play/ep475046",
+     "time": "2022-03-18T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058499,
+   "sort": 8,
+   "name": "take8",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "镜头号 08",
+     "url": "https://www.bilibili.com/bangumi/play/ep475047",
+     "time": "2022-03-18T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058500,
+   "sort": 9,
+   "name": "take9",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "镜头号 09",
+     "url": "https://www.bilibili.com/bangumi/play/ep475048",
+     "time": "2022-03-18T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058501,
+   "sort": 10,
+   "name": "Re:take",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "返工",
+     "url": "https://www.bilibili.com/bangumi/play/ep475049",
+     "time": "2022-03-18T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058502,
+   "sort": 11,
+   "name": "Revoltion",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "循环",
+     "url": "https://www.bilibili.com/bangumi/play/ep475050",
+     "time": "2022-03-18T12:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1058503,
+   "sort": 12,
+   "name": "Resolution",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "定案",
+     "url": "https://www.bilibili.com/bangumi/play/ep475051",
+     "time": "2022-03-18T12:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
