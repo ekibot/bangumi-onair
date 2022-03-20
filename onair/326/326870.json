@@ -7,7 +7,7 @@
    "id": "28235844",
    "week": 6,
    "time": "2200",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "最强贤者，团队配合。",
      "url": "https://www.bilibili.com/bangumi/play/ep466217",
      "time": "2022-03-12T14:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1072974,
+   "sort": 11,
+   "name": "最強賢者、強敵と相対する。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "最强贤者，面对强敌。",
+     "url": "https://www.bilibili.com/bangumi/play/ep466218",
+     "time": "2022-03-19T14:00:01.000Z"
     }
    ]
   }
