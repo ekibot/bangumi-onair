@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 233
+   "sort": 234
   }
  ],
  "eps": [
@@ -5878,6 +5878,20 @@
      "title": "锈刀",
      "url": "https://www.bilibili.com/bangumi/play/ep470541",
      "time": "2022-03-13T09:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1075819,
+   "sort": 232,
+   "name": "デンキ隊長の初任務",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 232,
+     "title": "电气队长的任务首秀",
+     "url": "https://www.bilibili.com/bangumi/play/ep470542",
+     "time": "2022-03-20T09:30:00.000Z"
     }
    ]
   }
