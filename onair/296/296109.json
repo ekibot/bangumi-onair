@@ -7,7 +7,7 @@
    "id": "28235154",
    "week": 5,
    "time": "0125",
-   "sort": 52
+   "sort": 54
   }
  ],
  "eps": [
@@ -316,6 +316,20 @@
      "title": "与魔神的约定",
      "url": "https://www.bilibili.com/bangumi/play/ep473804",
      "time": "2022-03-17T17:25:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1062361,
+   "sort": 23,
+   "name": "王様と太陽",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "国王与太阳",
+     "url": "https://www.bilibili.com/bangumi/play/ep473805",
+     "time": "2022-03-24T17:45:01.000Z"
     }
    ]
   }
