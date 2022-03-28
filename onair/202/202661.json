@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 234
+   "sort": 235
   }
  ],
  "eps": [
@@ -5892,6 +5892,20 @@
      "title": "电气队长的任务首秀",
      "url": "https://www.bilibili.com/bangumi/play/ep470542",
      "time": "2022-03-20T09:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1075820,
+   "sort": 233,
+   "name": "新生第七班、発動",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 233,
+     "title": "新第七小队 出动",
+     "url": "https://www.bilibili.com/bangumi/play/ep475124",
+     "time": "2022-03-27T09:30:01.000Z"
     }
    ]
   }
