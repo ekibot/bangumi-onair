@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235857",
-   "sort": 16,
+   "sort": 17,
    "week": 1,
    "time": "2300"
   }
@@ -162,6 +162,20 @@
      "title": "反抗者",
      "url": "https://www.bilibili.com/bangumi/play/ep474224",
      "time": "2022-03-21T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1070762,
+   "sort": 12,
+   "name": "もう一度、キミとつながる物語",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "再一次，与你连结的故事",
+     "url": "https://www.bilibili.com/bangumi/play/ep474225",
+     "time": "2022-03-28T15:00:01.000Z"
     }
    ]
   }
