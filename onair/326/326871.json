@@ -1,0 +1,27 @@
+{
+ "id": "326871",
+ "name": "処刑少女の生きる道",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28237215",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1088304,
+   "sort": 1,
+   "name": "処刑人",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "处刑人",
+     "url": "https://www.bilibili.com/bangumi/play/ep477108",
+     "time": "2022-04-01T16:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}
