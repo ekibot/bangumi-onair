@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 235
+   "sort": 236
   }
  ],
  "eps": [
@@ -5906,6 +5906,20 @@
      "title": "新第七小队 出动",
      "url": "https://www.bilibili.com/bangumi/play/ep475124",
      "time": "2022-03-27T09:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1075821,
+   "sort": 234,
+   "name": "放たれた悪党",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 234,
+     "title": "被释放的恶棍",
+     "url": "https://www.bilibili.com/bangumi/play/ep475125",
+     "time": "2022-04-03T09:30:01.000Z"
     }
    ]
   }
