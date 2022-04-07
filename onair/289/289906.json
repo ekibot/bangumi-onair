@@ -1,0 +1,29 @@
+{
+ "id": "289906",
+ "name": "盾の勇者の成り上がり Season 2",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28237122",
+   "week": 3,
+   "time": "2100",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1089226,
+   "sort": 1,
+   "name": "新たな咆哮",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "新的咆哮",
+     "url": "https://www.bilibili.com/bangumi/play/ep477095",
+     "time": "2022-04-06T13:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
