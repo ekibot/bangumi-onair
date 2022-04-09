@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 66
+   "sort": 67
   },
   {
    "site": "youku",
@@ -1169,6 +1169,20 @@
      "title": "决战前夕",
      "url": "https://www.bilibili.com/bangumi/play/ep341396",
      "time": "2022-04-02T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1069122,
+   "sort": 65,
+   "name": "暗黒のヒュンケル",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 65,
+     "title": "黑暗修凯尔",
+     "url": "https://www.bilibili.com/bangumi/play/ep341397",
+     "time": "2022-04-09T01:30:01.000Z"
     }
    ]
   }

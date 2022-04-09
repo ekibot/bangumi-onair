@@ -1,0 +1,27 @@
+{
+ "id": "302128",
+ "name": "デート・ア・ライブⅣ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28237141",
+   "sort": 8
+  }
+ ],
+ "eps": [
+  {
+   "id": 1088354,
+   "sort": 1,
+   "name": "あわてるな。これは精霊の罠だ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "别慌。这是精灵的陷阱",
+     "url": "https://www.bilibili.com/bangumi/play/ep478229",
+     "time": "2022-04-08T13:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}

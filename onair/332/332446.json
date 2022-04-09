@@ -1,0 +1,27 @@
+{
+ "id": "332446",
+ "name": "恋は世界征服のあとで",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28237127",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1087708,
+   "sort": 1,
+   "name": "君のことが好きだ！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "我喜欢你！",
+     "url": "https://www.bilibili.com/bangumi/play/ep478226",
+     "time": "2022-04-08T14:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
