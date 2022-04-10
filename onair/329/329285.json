@@ -1,0 +1,27 @@
+{
+ "id": "329285",
+ "name": "RPG不動産",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28237267",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1088411,
+   "sort": 1,
+   "name": "RPG不動産へようこそ! はじめてのお部屋探しです!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "第1间 欢迎来到RPG不动产！第一次找房子！",
+     "url": "https://www.bilibili.com/bangumi/play/ep478422",
+     "time": "2022-04-06T13:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}
