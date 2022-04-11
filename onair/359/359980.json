@@ -1,0 +1,43 @@
+{
+ "id": "359980",
+ "name": "乙女ゲー世界はモブに厳しい世界です",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28237300",
+   "week": 7,
+   "time": "2100",
+   "sort": 5
+  }
+ ],
+ "eps": [
+  {
+   "id": 1088521,
+   "sort": 1,
+   "name": "俺はこの世界が嫌いだ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "我讨厌这个世界",
+     "url": "https://www.bilibili.com/bangumi/play/ep478912",
+     "time": "2022-04-10T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088522,
+   "sort": 2,
+   "name": "そこの彼女　お茶してかない？",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "这位小姐要不要和我喝杯茶？",
+     "url": "https://www.bilibili.com/bangumi/play/ep478913",
+     "time": "2022-04-10T13:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

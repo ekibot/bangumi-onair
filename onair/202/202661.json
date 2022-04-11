@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 236
+   "sort": 237
   }
  ],
  "eps": [
@@ -5920,6 +5920,20 @@
      "title": "被释放的恶棍",
      "url": "https://www.bilibili.com/bangumi/play/ep475125",
      "time": "2022-04-03T09:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1075822,
+   "sort": 235,
+   "name": "潜入、ドトウ島",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 235,
+     "title": "潜入怒涛岛",
+     "url": "https://www.bilibili.com/bangumi/play/ep475126",
+     "time": "2022-04-10T09:30:01.000Z"
     }
    ]
   }
