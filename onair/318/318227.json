@@ -7,7 +7,7 @@
    "id": "28235968",
    "week": 6,
    "time": "0155",
-   "sort": 14
+   "sort": 15
   }
  ],
  "eps": [
@@ -190,6 +190,20 @@
      "title": "第二季制作确定!?",
      "url": "https://www.bilibili.com/bangumi/play/ep477976",
      "time": "2022-04-08T17:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1078586,
+   "sort": 14,
+   "name": "運命の仕事",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 14,
+     "title": "命中注定的工作",
+     "url": "https://www.bilibili.com/bangumi/play/ep477977",
+     "time": "2022-04-15T17:55:00.000Z"
     }
    ]
   }

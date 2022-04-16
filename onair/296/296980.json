@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 67
+   "sort": 68
   },
   {
    "site": "youku",
@@ -1183,6 +1183,20 @@
      "title": "黑暗修凯尔",
      "url": "https://www.bilibili.com/bangumi/play/ep341397",
      "time": "2022-04-09T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1069123,
+   "sort": 66,
+   "name": "五色の光",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 66,
+     "title": "五色之光",
+     "url": "https://www.bilibili.com/bangumi/play/ep341398",
+     "time": "2022-04-16T01:30:01.000Z"
     }
    ]
   }

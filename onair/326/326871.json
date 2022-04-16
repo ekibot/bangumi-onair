@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237215",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -34,6 +34,20 @@
      "title": "迷途者",
      "url": "https://www.bilibili.com/bangumi/play/ep477109",
      "time": "2022-04-08T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088306,
+   "sort": 3,
+   "name": "禁忌の【赤】",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "禁忌之【赤】",
+     "url": "https://www.bilibili.com/bangumi/play/ep477110",
+     "time": "2022-04-15T16:30:01.000Z"
     }
    ]
   }
