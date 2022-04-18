@@ -7,7 +7,7 @@
    "id": "28237300",
    "week": 7,
    "time": "2100",
-   "sort": 5
+   "sort": 7
   }
  ],
  "eps": [
@@ -36,6 +36,20 @@
      "title": "这位小姐要不要和我喝杯茶？",
      "url": "https://www.bilibili.com/bangumi/play/ep478913",
      "time": "2022-04-10T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088523,
+   "sort": 3,
+   "name": "決闘しようぜ、王子様",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "决斗吧王子殿下",
+     "url": "https://www.bilibili.com/bangumi/play/ep478914",
+     "time": "2022-04-17T13:00:01.000Z"
     }
    ]
   }
