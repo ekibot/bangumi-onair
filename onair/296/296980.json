@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 68
+   "sort": 69
   },
   {
    "site": "youku",
@@ -1197,6 +1197,20 @@
      "title": "五色之光",
      "url": "https://www.bilibili.com/bangumi/play/ep341398",
      "time": "2022-04-16T01:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1069124,
+   "sort": 67,
+   "name": "大破邪呪文の危機",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 67,
+     "title": "大破邪咒文的危机",
+     "url": "https://www.bilibili.com/bangumi/play/ep341399",
+     "time": "2022-04-23T01:30:01.000Z"
     }
    ]
   }
