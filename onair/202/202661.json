@@ -7,7 +7,7 @@
    "id": "a_19rrh9f0tx",
    "week": 7,
    "time": "1730",
-   "sort": 206
+   "sort": 237
   },
   {
    "site": "youku",
@@ -5542,6 +5542,13 @@
      "title": "再生",
      "url": "https://www.bilibili.com/bangumi/play/ep416396",
      "time": "2021-09-19T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 207,
+     "title": "再生",
+     "url": "http://www.iqiyi.com/v_t8e9ttbqgg.html",
+     "time": "2021-09-19T09:30:06.000Z"
     }
    ]
   },
@@ -5556,6 +5563,13 @@
      "title": "桃式显现",
      "url": "https://www.bilibili.com/bangumi/play/ep416397",
      "time": "2021-09-26T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 208,
+     "title": "桃式显现",
+     "url": "http://www.iqiyi.com/v_14ilfkup2g8.html",
+     "time": "2021-09-26T09:30:06.000Z"
     }
    ]
   },
@@ -5570,6 +5584,13 @@
      "title": "受排挤者",
      "url": "https://www.bilibili.com/bangumi/play/ep416398",
      "time": "2021-10-03T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 209,
+     "title": "受排挤者",
+     "url": "http://www.iqiyi.com/v_q11rq8xejs.html",
+     "time": "2021-10-03T09:30:05.000Z"
     }
    ]
   },
@@ -5584,6 +5605,13 @@
      "title": "壳的线索",
      "url": "https://www.bilibili.com/bangumi/play/ep416399",
      "time": "2021-10-10T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 210,
+     "title": "壳的线索",
+     "url": "http://www.iqiyi.com/v_10t7v902vgo.html",
+     "time": "2021-10-10T09:30:06.000Z"
     }
    ]
   },
@@ -5598,6 +5626,13 @@
      "title": "追踪",
      "url": "https://www.bilibili.com/bangumi/play/ep416400",
      "time": "2021-10-17T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 211,
+     "title": "追踪",
+     "url": "http://www.iqiyi.com/v_hj99odkmh8.html",
+     "time": "2021-10-17T09:30:07.000Z"
     }
    ]
   },
@@ -5612,6 +5647,13 @@
      "title": "阿玛多的流亡",
      "url": "https://www.bilibili.com/bangumi/play/ep416401",
      "time": "2021-10-24T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 212,
+     "title": "阿玛多的流亡",
+     "url": "http://www.iqiyi.com/v_25xyy8jpuak.html",
+     "time": "2021-10-24T09:30:06.000Z"
     }
    ]
   },
@@ -5626,6 +5668,13 @@
      "title": "真面目",
      "url": "https://www.bilibili.com/bangumi/play/ep416402",
      "time": "2021-10-31T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 213,
+     "title": "真面目",
+     "url": "http://www.iqiyi.com/v_1py5cf7dj00.html",
+     "time": "2021-10-31T09:30:06.000Z"
     }
    ]
   },
@@ -5640,6 +5689,13 @@
      "title": "宿命",
      "url": "https://www.bilibili.com/bangumi/play/ep416403",
      "time": "2021-11-07T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 214,
+     "title": "宿命",
+     "url": "http://www.iqiyi.com/v_166grf7uevo.html",
+     "time": "2021-11-07T09:30:05.000Z"
     }
    ]
   },
@@ -5654,6 +5710,13 @@
      "title": "觉悟",
      "url": "https://www.bilibili.com/bangumi/play/ep430586",
      "time": "2021-11-14T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 215,
+     "title": "觉悟",
+     "url": "http://www.iqiyi.com/v_19bymss77ec.html",
+     "time": "2021-11-14T09:30:07.000Z"
     }
    ]
   },
@@ -5668,6 +5731,13 @@
      "title": "祭品",
      "url": "https://www.bilibili.com/bangumi/play/ep430587",
      "time": "2021-11-21T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 216,
+     "title": "祭品",
+     "url": "http://www.iqiyi.com/v_1qch0fnxrjg.html",
+     "time": "2021-11-21T09:30:08.000Z"
     }
    ]
   },
@@ -5682,6 +5752,13 @@
      "title": "决意",
      "url": "https://www.bilibili.com/bangumi/play/ep430588",
      "time": "2021-11-28T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 217,
+     "title": "决意",
+     "url": "http://www.iqiyi.com/v_mtobb4lbfw.html",
+     "time": "2021-11-28T09:30:08.000Z"
     }
    ]
   },
@@ -5696,6 +5773,13 @@
      "title": "伙伴",
      "url": "https://www.bilibili.com/bangumi/play/ep433235",
      "time": "2021-12-05T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 218,
+     "title": "伙伴",
+     "url": "http://www.iqiyi.com/v_1cpf4ys6rcw.html",
+     "time": "2021-12-05T09:30:07.000Z"
     }
    ]
   },
@@ -5710,6 +5794,13 @@
      "title": "回归",
      "url": "https://www.bilibili.com/bangumi/play/ep433236",
      "time": "2021-12-12T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 219,
+     "title": "回归",
+     "url": "http://www.iqiyi.com/v_etx8bj8k90.html",
+     "time": "2021-12-12T09:30:07.000Z"
     }
    ]
   },
@@ -5724,6 +5815,13 @@
      "title": "余时",
      "url": "https://www.bilibili.com/bangumi/play/ep433237",
      "time": "2021-12-19T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 220,
+     "title": "余时",
+     "url": "http://www.iqiyi.com/v_kb0i0u8vwg.html",
+     "time": "2021-12-19T09:30:08.000Z"
     }
    ]
   },
@@ -5738,6 +5836,13 @@
      "title": "中忍考试 再来",
      "url": "https://www.bilibili.com/bangumi/play/ep438805",
      "time": "2021-12-26T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 221,
+     "title": "中忍考试 再来",
+     "url": "http://www.iqiyi.com/v_dcshsf0koo.html",
+     "time": "2021-12-26T09:30:07.000Z"
     }
    ]
   },
@@ -5752,6 +5857,13 @@
      "title": "决战前夜",
      "url": "https://www.bilibili.com/bangumi/play/ep438806",
      "time": "2022-01-02T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 222,
+     "title": "决战前夜",
+     "url": "http://www.iqiyi.com/v_c6gen54hpw.html",
+     "time": "2022-01-02T09:30:08.000Z"
     }
    ]
   },
@@ -5766,6 +5878,13 @@
      "title": "井阵对蜂起",
      "url": "https://www.bilibili.com/bangumi/play/ep438807",
      "time": "2022-01-09T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 223,
+     "title": "井阵对蜂起",
+     "url": "http://www.iqiyi.com/v_a4z6s1jqd0.html",
+     "time": "2022-01-09T09:30:08.000Z"
     }
    ]
   },
@@ -5780,6 +5899,13 @@
      "title": "猫妖传说",
      "url": "https://www.bilibili.com/bangumi/play/ep466117",
      "time": "2022-01-16T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 224,
+     "title": "猫妖传说",
+     "url": "http://www.iqiyi.com/v_29eqlelli44.html",
+     "time": "2022-01-16T09:30:06.000Z"
     }
    ]
   },
@@ -5794,6 +5920,13 @@
      "title": "挚友对决",
      "url": "https://www.bilibili.com/bangumi/play/ep466118",
      "time": "2022-01-23T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 225,
+     "title": "挚友对决",
+     "url": "http://www.iqiyi.com/v_1nuz8q7vbq0.html",
+     "time": "2022-01-23T09:30:07.000Z"
     }
    ]
   },
@@ -5808,6 +5941,13 @@
      "title": "武士对科学",
      "url": "https://www.bilibili.com/bangumi/play/ep466119",
      "time": "2022-01-30T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 226,
+     "title": "武士对科学",
+     "url": "http://www.iqiyi.com/v_1jbvlunmi5o.html",
+     "time": "2022-01-30T09:30:08.000Z"
     }
    ]
   },
@@ -5822,6 +5962,13 @@
      "title": "第七班最后的任务",
      "url": "https://www.bilibili.com/bangumi/play/ep470537",
      "time": "2022-02-13T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 227,
+     "title": "第七班最后的任务!?",
+     "url": "http://www.iqiyi.com/v_1umrvywipxc.html",
+     "time": "2022-02-13T09:30:08.000Z"
     }
    ]
   },
@@ -5836,6 +5983,13 @@
      "title": "川木 通向忍者之路",
      "url": "https://www.bilibili.com/bangumi/play/ep470538",
      "time": "2022-02-20T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 228,
+     "title": "川木 通向忍者之路",
+     "url": "http://www.iqiyi.com/v_k86lvxrvrs.html",
+     "time": "2022-02-20T09:30:08.000Z"
     }
    ]
   },
@@ -5850,6 +6004,13 @@
      "title": "违反命令",
      "url": "https://www.bilibili.com/bangumi/play/ep470539",
      "time": "2022-02-27T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 229,
+     "title": "违反命令",
+     "url": "http://www.iqiyi.com/v_1xc0dznwqs4.html",
+     "time": "2022-02-27T09:30:08.000Z"
     }
    ]
   },
@@ -5864,6 +6025,13 @@
      "title": "心愿",
      "url": "https://www.bilibili.com/bangumi/play/ep470540",
      "time": "2022-03-06T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 230,
+     "title": "心愿",
+     "url": "http://www.iqiyi.com/v_129q0w3rvy8.html",
+     "time": "2022-03-06T09:30:09.000Z"
     }
    ]
   },
@@ -5878,6 +6046,13 @@
      "title": "锈刀",
      "url": "https://www.bilibili.com/bangumi/play/ep470541",
      "time": "2022-03-13T09:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 231,
+     "title": "锈刀",
+     "url": "http://www.iqiyi.com/v_24ikab96pvk.html",
+     "time": "2022-03-13T09:30:12.000Z"
     }
    ]
   },
@@ -5892,6 +6067,13 @@
      "title": "电气队长的任务首秀",
      "url": "https://www.bilibili.com/bangumi/play/ep470542",
      "time": "2022-03-20T09:30:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 232,
+     "title": "电气队长的任务首秀",
+     "url": "http://www.iqiyi.com/v_2881j1ddu88.html",
+     "time": "2022-03-20T09:30:09.000Z"
     }
    ]
   },
@@ -5906,6 +6088,13 @@
      "title": "新第七小队 出动",
      "url": "https://www.bilibili.com/bangumi/play/ep475124",
      "time": "2022-03-27T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 233,
+     "title": "新第七小队 出动",
+     "url": "http://www.iqiyi.com/v_1u9uukb85ss.html",
+     "time": "2022-03-27T09:30:09.000Z"
     }
    ]
   },
@@ -5920,6 +6109,13 @@
      "title": "被释放的恶棍",
      "url": "https://www.bilibili.com/bangumi/play/ep475125",
      "time": "2022-04-03T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 234,
+     "title": "被释放的恶棍",
+     "url": "http://www.iqiyi.com/v_qt9c4egy1s.html",
+     "time": "2022-04-03T09:30:10.000Z"
     }
    ]
   },
@@ -5934,6 +6130,13 @@
      "title": "潜入怒涛岛",
      "url": "https://www.bilibili.com/bangumi/play/ep475126",
      "time": "2022-04-10T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 235,
+     "title": "潜入怒涛岛",
+     "url": "http://www.iqiyi.com/v_z4dzow5vw0.html",
+     "time": "2022-04-10T09:30:10.000Z"
     }
    ]
   },
@@ -5948,6 +6151,13 @@
      "title": "逃离",
      "url": "https://www.bilibili.com/bangumi/play/ep476190",
      "time": "2022-04-17T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 236,
+     "title": "逃离",
+     "url": "http://www.iqiyi.com/v_bnvd5am530.html",
+     "time": "2022-04-17T09:30:09.000Z"
     }
    ]
   },
@@ -5962,6 +6172,13 @@
      "title": "移动要塞",
      "url": "https://www.bilibili.com/bangumi/play/ep476191",
      "time": "2022-04-24T09:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 237,
+     "title": "移动要塞",
+     "url": "http://www.iqiyi.com/v_x0moavmi1c.html",
+     "time": "2022-04-24T09:30:10.000Z"
     }
    ]
   }

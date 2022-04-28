@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237267",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -47,7 +47,21 @@
      "sort": 3,
      "title": "出现啦！龙与闹鬼与巨大魔力!?",
      "url": "https://www.bilibili.com/bangumi/play/ep478424",
-     "time": "2022-04-20T13:30:01.000Z"
+     "time": "2022-04-20T13:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088414,
+   "sort": 4,
+   "name": "ずっと一緒! ペットと夢と友情の、 ぎゅっとつまったお部屋です!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "永远在一起！充满宠物、梦想 以及友情的房间！",
+     "url": "https://www.bilibili.com/bangumi/play/ep508410",
+     "time": "2022-04-27T13:30:01.000Z"
     }
    ]
   }

@@ -16,6 +16,11 @@
    "site": "bilibili",
    "id": "4404",
    "sort": 10
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh835od",
+   "sort": 10
   }
  ],
  "eps": [
@@ -42,6 +47,13 @@
      "title": "变成骨头了",
      "url": "https://www.bilibili.com/bangumi/play/ep102237",
      "time": "2017-03-10T09:33:18.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "血意少年 第1集",
+     "url": "http://www.iqiyi.com/v_19rr7s1j4w.html",
+     "time": "2017-06-30T16:02:40.000Z"
     }
    ]
   },
@@ -68,6 +80,13 @@
      "title": "不说“我回来了”",
      "url": "https://www.bilibili.com/bangumi/play/ep102238",
      "time": "2017-03-10T09:33:18.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "血意少年 第2集",
+     "url": "http://www.iqiyi.com/v_19rr804gq4.html",
+     "time": "2017-07-04T12:39:02.000Z"
     }
    ]
   },
@@ -94,6 +113,13 @@
      "title": "明明就有吧",
      "url": "https://www.bilibili.com/bangumi/play/ep102239",
      "time": "2017-03-10T09:33:18.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "血意少年 第3集",
+     "url": "http://www.iqiyi.com/v_19rr8045dg.html",
+     "time": "2017-07-04T12:39:04.000Z"
     }
    ]
   },
@@ -120,6 +146,13 @@
      "title": "前往魔界名人堂",
      "url": "https://www.bilibili.com/bangumi/play/ep102240",
      "time": "2017-03-10T09:33:18.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "血意少年 第4集",
+     "url": "http://www.iqiyi.com/v_19rr8044vk.html",
+     "time": "2017-07-04T12:39:00.000Z"
     }
    ]
   },
@@ -146,6 +179,13 @@
      "title": "不明魔人物体",
      "url": "https://www.bilibili.com/bangumi/play/ep102241",
      "time": "2017-03-10T09:33:18.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "血意少年 第5集",
+     "url": "http://www.iqiyi.com/v_19rr8047i8.html",
+     "time": "2017-07-04T12:38:56.000Z"
     }
    ]
   },
@@ -172,6 +212,13 @@
      "title": "这就是哥儿们",
      "url": "https://www.bilibili.com/bangumi/play/ep102242",
      "time": "2017-03-10T09:33:18.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "血意少年 第6集",
+     "url": "http://www.iqiyi.com/v_19rr8046rc.html",
+     "time": "2017-07-04T12:39:00.000Z"
     }
    ]
   },
@@ -198,6 +245,13 @@
      "title": "初遇莉兹",
      "url": "https://www.bilibili.com/bangumi/play/ep102243",
      "time": "2017-03-10T09:33:18.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "血意少年 第7集",
+     "url": "http://www.iqiyi.com/v_19rr8046mg.html",
+     "time": "2017-07-04T12:38:55.000Z"
     }
    ]
   },
@@ -224,6 +278,13 @@
      "title": "两名宝物猎人",
      "url": "https://www.bilibili.com/bangumi/play/ep102244",
      "time": "2017-03-10T09:33:18.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "血意少年 第8集",
+     "url": "http://www.iqiyi.com/v_19rr80490g.html",
+     "time": "2017-07-04T12:38:52.000Z"
     }
    ]
   },
@@ -250,6 +311,13 @@
      "title": "眼镜之罪",
      "url": "https://www.bilibili.com/bangumi/play/ep102245",
      "time": "2017-03-10T09:33:18.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "血意少年 第9集",
+     "url": "http://www.iqiyi.com/v_19rr8047qg.html",
+     "time": "2017-07-04T12:38:50.000Z"
     }
    ]
   },
@@ -276,6 +344,13 @@
      "title": "黑暗英雄登场",
      "url": "https://www.bilibili.com/bangumi/play/ep102246",
      "time": "2017-03-10T09:33:18.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "血意少年 第10集",
+     "url": "http://www.iqiyi.com/v_19rr804aec.html",
+     "time": "2017-07-04T12:38:50.000Z"
     }
    ]
   }

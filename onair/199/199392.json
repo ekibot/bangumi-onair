@@ -6,6 +6,11 @@
    "site": "bilibili",
    "id": "6439",
    "sort": 12
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrhcbd71",
+   "sort": 12
   }
  ],
  "eps": [
@@ -20,6 +25,13 @@
      "title": "灯光 镜头 Action",
      "url": "https://www.bilibili.com/bangumi/play/ep115399",
      "time": "2017-10-07T19:08:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "Let`s camera Action!",
+     "url": "http://www.iqiyi.com/v_19rrdxyaaw.html",
+     "time": "2017-10-07T19:03:06.000Z"
     }
    ]
   },
@@ -34,6 +46,13 @@
      "title": "幻界医院 莱塞兹",
      "url": "https://www.bilibili.com/bangumi/play/ep115400",
      "time": "2017-10-14T19:08:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "幻界医院 莱塞兹",
+     "url": "http://www.iqiyi.com/v_19rre4s7a8.html",
+     "time": "2017-10-14T19:03:05.000Z"
     }
    ]
   },
@@ -48,6 +67,13 @@
      "title": "日复一日",
      "url": "https://www.bilibili.com/bangumi/play/ep115401",
      "time": "2017-10-21T19:38:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "日复一日",
+     "url": "http://www.iqiyi.com/v_19rre2jqtc.html",
+     "time": "2017-10-21T19:33:06.000Z"
     }
    ]
   },
@@ -62,6 +88,13 @@
      "title": "人狼大作战",
      "url": "https://www.bilibili.com/bangumi/play/ep115402",
      "time": "2017-10-29T16:37:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "人狼大作战",
+     "url": "http://www.iqiyi.com/v_19rrdp2lwg.html",
+     "time": "2017-10-29T16:25:05.000Z"
     }
    ]
   },
@@ -76,6 +109,13 @@
      "title": "某管家的电击作战",
      "url": "https://www.bilibili.com/bangumi/play/ep115403",
      "time": "2017-11-04T19:08:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "某管家的电击作战",
+     "url": "http://www.iqiyi.com/v_19rrdmea6s.html",
+     "time": "2017-11-04T19:03:06.000Z"
     }
    ]
   },
@@ -90,6 +130,13 @@
      "title": "停工实行",
      "url": "https://www.bilibili.com/bangumi/play/ep115404",
      "time": "2017-11-11T19:08:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "停工实行",
+     "url": "http://www.iqiyi.com/v_19rrdrttf0.html",
+     "time": "2017-11-11T19:03:06.000Z"
     }
    ]
   },
@@ -104,6 +151,13 @@
      "title": "蓝调鳃呼吸",
      "url": "https://www.bilibili.com/bangumi/play/ep115405",
      "time": "2017-11-18T19:08:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "蓝调鳃呼吸",
+     "url": "http://www.iqiyi.com/v_19rreh8bb0.html",
+     "time": "2017-11-18T19:03:07.000Z"
     }
    ]
   },
@@ -118,6 +172,13 @@
      "title": "超巨决死圈 前篇",
      "url": "https://www.bilibili.com/bangumi/play/ep115406",
      "time": "2017-11-25T19:08:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "超巨决死圈 前篇",
+     "url": "http://www.iqiyi.com/v_19rremqozs.html",
+     "time": "2017-11-25T19:03:05.000Z"
     }
    ]
   },
@@ -132,6 +193,13 @@
      "title": "超巨决死圈 后篇",
      "url": "https://www.bilibili.com/bangumi/play/ep115407",
      "time": "2017-12-02T19:08:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "超巨决死圈 后篇",
+     "url": "http://www.iqiyi.com/v_19rre8jfao.html",
+     "time": "2017-12-02T19:03:06.000Z"
     }
    ]
   },
@@ -146,6 +214,13 @@
      "title": "机枪母亲",
      "url": "https://www.bilibili.com/bangumi/play/ep115408",
      "time": "2017-12-09T19:08:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "机枪母亲",
+     "url": "http://www.iqiyi.com/v_19rree8fwo.html",
+     "time": "2017-12-09T19:03:07.000Z"
     }
    ]
   },
@@ -160,6 +235,13 @@
      "title": "妖眼幻视行 前篇",
      "url": "https://www.bilibili.com/bangumi/play/ep115409",
      "time": "2017-12-16T19:08:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "妖眼幻视行 前篇",
+     "url": "http://www.iqiyi.com/v_19rrf3tpvk.html",
+     "time": "2017-12-16T19:03:06.000Z"
     }
    ]
   },
@@ -174,6 +256,13 @@
      "title": "妖眼幻视行 后篇",
      "url": "https://www.bilibili.com/bangumi/play/ep115410",
      "time": "2017-12-23T19:08:00.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "妖眼幻视行 后篇",
+     "url": "http://www.iqiyi.com/v_19rreznfak.html",
+     "time": "2017-12-23T19:03:05.000Z"
     }
    ]
   }

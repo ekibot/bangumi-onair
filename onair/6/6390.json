@@ -11,6 +11,11 @@
    "site": "youku",
    "id": "cc0083ba962411de83b1",
    "sort": 224
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh7h4st",
+   "sort": 224
   }
  ],
  "eps": [
@@ -31,6 +36,13 @@
      "sort": 1,
      "title": "战栗的青眼白龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM2NDgw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "战栗的青眼白龙",
+     "url": "http://www.iqiyi.com/v_19rqykj4n8.html",
+     "time": "2018-08-09T16:00:13.000Z"
     }
    ]
   },
@@ -51,6 +63,13 @@
      "sort": 2,
      "title": "无面孔的幻术师 隐形的陷阱",
      "url": "https://v.youku.com/v_show/id_XNDk5ODMwMTEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "无面孔的幻术师，隐形的陷阱",
+     "url": "http://www.iqiyi.com/v_19rqykiswo.html",
+     "time": "2018-08-09T16:00:20.000Z"
     }
    ]
   },
@@ -71,6 +90,13 @@
      "sort": 3,
      "title": "失去的黑暗大法师",
      "url": "https://v.youku.com/v_show/id_XNDk5ODMwMTIw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "失去的艾克佐迪亚",
+     "url": "http://www.iqiyi.com/v_19rqykjra0.html",
+     "time": "2018-08-09T16:00:20.000Z"
     }
    ]
   },
@@ -91,6 +117,13 @@
      "sort": 4,
      "title": "昆虫卡的组合",
      "url": "https://v.youku.com/v_show/id_XNDk5ODMwMjA0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "昆虫卡的组合",
+     "url": "http://www.iqiyi.com/v_19rqykjxkw.html",
+     "time": "2018-08-09T16:00:19.000Z"
     }
    ]
   },
@@ -111,6 +144,13 @@
      "sort": 5,
      "title": "究击完全态 大飞蛾",
      "url": "https://v.youku.com/v_show/id_XNDk5ODMwMjI4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "究极完全态 大飞蛾",
+     "url": "http://www.iqiyi.com/v_19rqykd1xs.html",
+     "time": "2018-08-09T16:00:22.000Z"
     }
    ]
   },
@@ -131,6 +171,13 @@
      "sort": 6,
      "title": "华丽的快乐女郎",
      "url": "https://v.youku.com/v_show/id_XNDk5ODMwMjc2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "华丽的神鹰女郎",
+     "url": "http://www.iqiyi.com/v_19rqykjm28.html",
+     "time": "2018-08-09T16:00:22.000Z"
     }
    ]
   },
@@ -151,6 +198,13 @@
      "sort": 7,
      "title": "海神　海龙王",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM3Njc2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "海神 海龙王",
+     "url": "http://www.iqiyi.com/v_19rqykjjoc.html",
+     "time": "2018-08-09T16:00:17.000Z"
     }
    ]
   },
@@ -171,6 +225,13 @@
      "sort": 8,
      "title": "被夺走的青眼白龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM2ODQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "被夺走的青眼白龙",
+     "url": "http://www.iqiyi.com/v_19rqykixko.html",
+     "time": "2018-08-09T16:00:58.000Z"
     }
    ]
   },
@@ -191,6 +252,13 @@
      "sort": 9,
      "title": "起死回生！魔术帽子",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM2NjQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "起死回生！魔术礼帽",
+     "url": "http://www.iqiyi.com/v_19rqykd89k.html",
+     "time": "2018-08-09T16:00:22.000Z"
     }
    ]
   },
@@ -211,6 +279,13 @@
      "sort": 10,
      "title": "反击的青眼白龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM2ODIw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "反击的青眼白龙",
+     "url": "http://www.iqiyi.com/v_19rqykjyys.html",
+     "time": "2018-08-09T16:00:19.000Z"
     }
    ]
   },
@@ -231,6 +306,13 @@
      "sort": 11,
      "title": "友情力量 原始人1号2号",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM2OTYw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "友情力量 野蛮1号2号",
+     "url": "http://www.iqiyi.com/v_19rqykeerw.html",
+     "time": "2018-08-09T16:00:12.000Z"
     }
    ]
   },
@@ -251,6 +333,13 @@
      "sort": 12,
      "title": "黑色火焰 真红眼黑龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM3MTYw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "黑色火焰 真红眼黑龙",
+     "url": "http://www.iqiyi.com/v_19rqykitkg.html",
+     "time": "2018-08-09T16:00:14.000Z"
     }
    ]
   },
@@ -271,6 +360,13 @@
      "sort": 13,
      "title": "幻魔壶的陷阱 火焰剑士危险了",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM3MDky.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 13,
+     "title": "变形壶的陷阱　炎之剑士有危险",
+     "url": "http://www.iqiyi.com/v_19rqyke8uc.html",
+     "time": "2018-08-09T16:00:13.000Z"
     }
    ]
   },
@@ -291,6 +387,13 @@
      "sort": 14,
      "title": "漆黑的决斗 黑暗城堡",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ0NjE2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 14,
+     "title": "漆黑的决斗 暗晦之城",
+     "url": "http://www.iqiyi.com/v_19rqykjv1w.html",
+     "time": "2018-08-09T16:00:19.000Z"
     }
    ]
   },
@@ -311,6 +414,13 @@
      "sort": 15,
      "title": "划破黑暗！光的护封剑",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ0ODI0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 15,
+     "title": "划破黑暗！光之护封剑",
+     "url": "http://www.iqiyi.com/v_19rqyk9moc.html",
+     "time": "2018-08-09T16:00:10.000Z"
     }
    ]
   },
@@ -331,6 +441,13 @@
      "sort": 16,
      "title": "激战！青眼白龙vs真红眼黑龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM3ODQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 16,
+     "title": "激突！青眼白龙vs真红眼黑龙",
+     "url": "http://www.iqiyi.com/v_19rqykk058.html",
+     "time": "2018-08-09T16:00:18.000Z"
     }
    ]
   },
@@ -351,6 +468,13 @@
      "sort": 17,
      "title": "恐怖！从墓场传来的呼声",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM3OTQ4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 17,
+     "title": "恐怖！活死人的呼声",
+     "url": "http://www.iqiyi.com/v_19rqyka4i0.html",
+     "time": "2018-08-09T16:00:11.000Z"
     }
    ]
   },
@@ -371,6 +495,13 @@
      "sort": 18,
      "title": "右手换盾左手换剑",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM4MDI4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 18,
+     "title": "右手换盾左手换剑",
+     "url": "http://www.iqiyi.com/v_19rqykden8.html",
+     "time": "2018-08-09T16:00:56.000Z"
     }
    ]
   },
@@ -391,6 +522,13 @@
      "sort": 19,
      "title": "迷宫之黑暗决斗",
      "url": "https://v.youku.com/v_show/id_XNTgwNDgxMDY0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 19,
+     "title": "迷宫的双人组合决斗",
+     "url": "http://www.iqiyi.com/v_19rqykdl0k.html",
+     "time": "2018-08-09T16:00:12.000Z"
     }
    ]
   },
@@ -411,6 +549,13 @@
      "sort": 20,
      "title": "三神合体 雷风水魔兽",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM4MjQw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 20,
+     "title": "三神合体！雷风水魔神",
+     "url": "http://www.iqiyi.com/v_19rqykjelk.html",
+     "time": "2018-08-09T16:00:21.000Z"
     }
    ]
   },
@@ -431,6 +576,13 @@
      "sort": 21,
      "title": "恶魔龙 黑魔龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM4MzIw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 21,
+     "title": "恶魔龙 - 暗黑魔龙!!",
+     "url": "http://www.iqiyi.com/v_19rqyke2co.html",
+     "time": "2018-08-09T16:00:19.000Z"
     }
    ]
   },
@@ -451,6 +603,13 @@
      "sort": 22,
      "title": "宿命的对决 游戏VS海马",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM4NTY4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 22,
+     "title": "宿命的对决 游戏VS海马",
+     "url": "http://www.iqiyi.com/v_19rqykjp8c.html",
+     "time": "2018-08-09T16:00:21.000Z"
     }
    ]
   },
@@ -471,6 +630,13 @@
      "sort": 23,
      "title": "最强！华丽！青眼究极龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM4NDgw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 23,
+     "title": "最强！华丽！青眼究极龙",
+     "url": "http://www.iqiyi.com/v_19rqykd6po.html",
+     "time": "2018-08-09T16:00:12.000Z"
     }
    ]
   },
@@ -491,6 +657,13 @@
      "sort": 24,
      "title": "小精灵繁殖 惊愕的结局",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM4Njcy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 24,
+     "title": "栗子球繁殖 惊愕的结局",
+     "url": "http://www.iqiyi.com/v_19rqykiz04.html",
+     "time": "2018-08-09T16:00:53.000Z"
     }
    ]
   },
@@ -511,6 +684,13 @@
      "sort": 25,
      "title": "充满泪水的决斗 我们的友情",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM4OTA4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 25,
+     "title": "充满泪水的决斗 我们的友情",
+     "url": "http://www.iqiyi.com/v_19rqykdpzc.html",
+     "time": "2018-08-09T16:00:11.000Z"
     }
    ]
   },
@@ -531,6 +711,13 @@
      "sort": 26,
      "title": "拯救圭平！海马VS贝卡斯",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM4Nzky.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 26,
+     "title": "拯救圭平！海马VS贝卡斯",
+     "url": "http://www.iqiyi.com/v_19rqykex58.html",
+     "time": "2018-08-09T16:00:59.000Z"
     }
    ]
   },
@@ -551,6 +738,13 @@
      "sort": 27,
      "title": "海马惨败！无敌的卡通世界",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM4ODgw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 27,
+     "title": "海马惨败！无敌的卡通世界",
+     "url": "http://www.iqiyi.com/v_19rqykgo0w.html",
+     "time": "2018-08-09T16:00:15.000Z"
     }
    ]
   },
@@ -571,6 +765,13 @@
      "sort": 28,
      "title": "决战前夜！贝卡斯的秘密",
      "url": "https://v.youku.com/v_show/id_XNDk5ODM4OTcy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 28,
+     "title": "决战前夜！贝卡斯的秘密",
+     "url": "http://www.iqiyi.com/v_19rqykdvh4.html",
+     "time": "2018-08-09T16:00:10.000Z"
     }
    ]
   },
@@ -591,6 +792,13 @@
      "sort": 29,
      "title": "穷途末路！诱惑的影子",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ2MzU2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 29,
+     "title": "穷途末路！诱惑之影",
+     "url": "http://www.iqiyi.com/v_19rqykjwls.html",
+     "time": "2018-08-09T16:00:19.000Z"
     }
    ]
   },
@@ -611,6 +819,13 @@
      "sort": 30,
      "title": "传说中的最强战士！混沌战士降临",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ0NzMy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 30,
+     "title": "传说中的最强战士！混沌战士 降临",
+     "url": "http://www.iqiyi.com/v_19rqykfck4.html",
+     "time": "2018-08-09T16:00:39.000Z"
     }
    ]
   },
@@ -631,6 +846,13 @@
      "sort": 31,
      "title": "凶恶‧重机械牌组",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ0OTg4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 31,
+     "title": "凶恶‧重机械卡组",
+     "url": "http://www.iqiyi.com/v_19rqykfgrg.html",
+     "time": "2018-08-09T16:00:16.000Z"
     }
    ]
   },
@@ -651,6 +873,13 @@
      "sort": 32,
      "title": "超越时空！真红眼铁甲黑龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ1MDU2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 32,
+     "title": "超越时空！真红眼黑铁龙",
+     "url": "http://www.iqiyi.com/v_19rqykep38.html",
+     "time": "2018-08-09T16:00:59.000Z"
     }
    ]
   },
@@ -671,6 +900,13 @@
      "sort": 33,
      "title": "友情的决赛！游戏VS城之内（上集）",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ1MTIw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 33,
+     "title": "友情的决赛！游戏VS城之内（上集）",
+     "url": "http://www.iqiyi.com/v_19rqykj3sg.html",
+     "time": "2018-08-09T16:00:18.000Z"
     }
    ]
   },
@@ -691,6 +927,13 @@
      "sort": 34,
      "title": "友情的决赛！游戏VS城之内（下集）",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ1MzEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 34,
+     "title": "友情的决赛！游戏VS城之内（下集）",
+     "url": "http://www.iqiyi.com/v_19rqykbm8o.html",
+     "time": "2018-08-09T16:00:14.000Z"
     }
    ]
   },
@@ -711,6 +954,13 @@
      "sort": 35,
      "title": "最后决斗！游戏VS贝卡斯",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUxODUy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 35,
+     "title": "最终决斗！游戏VS贝卡斯",
+     "url": "http://www.iqiyi.com/v_19rqykfl0o.html",
+     "time": "2018-08-09T16:00:11.000Z"
     }
    ]
   },
@@ -731,6 +981,13 @@
      "sort": 36,
      "title": "无法攻略！无敌的卡通军团",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUxNzky.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 36,
+     "title": "无法攻略！无敌的卡通军队",
+     "url": "http://www.iqiyi.com/v_19rqykgt98.html",
+     "time": "2018-08-09T16:00:13.000Z"
     }
    ]
   },
@@ -751,6 +1008,13 @@
      "sort": 37,
      "title": "反击开始！心灵交换",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ2NDcy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 37,
+     "title": "反击开始！心灵交换",
+     "url": "http://www.iqiyi.com/v_19rqykeheg.html",
+     "time": "2018-08-09T16:00:58.000Z"
     }
    ]
   },
@@ -771,6 +1035,13 @@
      "sort": 38,
      "title": "邪眼发动！牺牲祭品",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ2NTg4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 38,
+     "title": "邪眼发动！牺牲祭品",
+     "url": "http://www.iqiyi.com/v_19rqykeg80.html",
+     "time": "2018-08-09T16:00:13.000Z"
     }
    ]
   },
@@ -791,6 +1062,13 @@
      "sort": 39,
      "title": "光明与黑暗的融合 黑暗混沌降临",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ2NTQ4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 39,
+     "title": "光明与黑暗的融合 黑暗混沌降临",
+     "url": "http://www.iqiyi.com/v_19rqykgla0.html",
+     "time": "2018-08-09T16:00:57.000Z"
     }
    ]
   },
@@ -811,6 +1089,13 @@
      "sort": 40,
      "title": "决斗者之王",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ2Njg4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 40,
+     "title": "决斗者之王",
+     "url": "http://www.iqiyi.com/v_19rqykc2x4.html",
+     "time": "2018-08-09T16:00:12.000Z"
     }
    ]
   },
@@ -831,6 +1116,13 @@
      "sort": 41,
      "title": "从美国来的少女",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ2Njk2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 41,
+     "title": "从美国来的少女",
+     "url": "http://www.iqiyi.com/v_19rqykj1o0.html",
+     "time": "2018-08-09T16:00:13.000Z"
     }
    ]
   },
@@ -851,6 +1143,13 @@
      "sort": 42,
      "title": "必杀的无影鬼",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ2Nzk2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 42,
+     "title": "必杀的影之食尸鬼",
+     "url": "http://www.iqiyi.com/v_19rqykewas.html",
+     "time": "2018-08-09T16:00:20.000Z"
     }
    ]
   },
@@ -871,6 +1170,13 @@
      "sort": 43,
      "title": "五巨头的陷阱！战斗怪兽冒险世界（一）",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ2ODY0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 43,
+     "title": "五巨头的陷阱！战斗怪兽冒险世界",
+     "url": "http://www.iqiyi.com/v_19rqykfhmc.html",
+     "time": "2018-08-09T16:00:58.000Z"
     }
    ]
   },
@@ -891,6 +1197,13 @@
      "sort": 44,
      "title": "战斗怪兽卡冒险游戏（二）传说中的勇士",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ2OTE2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 44,
+     "title": "战斗怪兽卡冒险游戏② 传说中的勇士－游戏",
+     "url": "http://www.iqiyi.com/v_19rqykcajc.html",
+     "time": "2018-08-09T16:00:14.000Z"
     }
    ]
   },
@@ -911,6 +1224,13 @@
      "sort": 45,
      "title": "战斗怪兽卡冒险游戏（三） 龙骑士之主",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ2OTYw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 45,
+     "title": "战斗怪兽卡冒险游戏③ 龙骑士之主",
+     "url": "http://www.iqiyi.com/v_19rqykinmk.html",
+     "time": "2018-08-09T16:00:13.000Z"
     }
    ]
   },
@@ -931,6 +1251,13 @@
      "sort": 46,
      "title": "神秘的转学生 御伽龙儿",
      "url": "https://v.youku.com/v_show/id_XNDk5ODQ3MTQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 46,
+     "title": "神秘的转学生 御伽龙儿",
+     "url": "http://www.iqiyi.com/v_19rqykbwto.html",
+     "time": "2018-08-09T16:00:58.000Z"
     }
    ]
   },
@@ -951,6 +1278,13 @@
      "sort": 47,
      "title": "对决！怪兽龙门骰",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUzMzI4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 47,
+     "title": "对决！怪兽龙门骰",
+     "url": "http://www.iqiyi.com/v_19rqykf4kw.html",
+     "time": "2018-08-09T16:00:15.000Z"
     }
    ]
   },
@@ -971,6 +1305,13 @@
      "sort": 48,
      "title": "游戏苦战！御伽的黑魔骰",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUyMDMy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 48,
+     "title": "游戏苦战！御伽的黑魔骰",
+     "url": "http://www.iqiyi.com/v_19rqykeo2k.html",
+     "time": "2018-08-09T16:00:39.000Z"
     }
    ]
   },
@@ -991,6 +1332,13 @@
      "sort": 49,
      "title": "奇迹大反攻！召唤黑魔导",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUyMDg4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 49,
+     "title": "奇迹大反攻！召唤黑魔导",
+     "url": "http://www.iqiyi.com/v_19rqykj0k0.html",
+     "time": "2018-08-09T16:00:43.000Z"
     }
    ]
   },
@@ -1011,6 +1359,13 @@
      "sort": 50,
      "title": "亡者的挑战 战栗的恶魔兽",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUyNDcy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 50,
+     "title": "从过去来的挑战！战栗的杰拉",
+     "url": "http://www.iqiyi.com/v_19rqykf8r0.html",
+     "time": "2018-08-09T16:00:12.000Z"
     }
    ]
   },
@@ -1031,6 +1386,13 @@
      "sort": 51,
      "title": "四分五裂的千年积木",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUyNDg4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 51,
+     "title": "被打碎的千年积木",
+     "url": "http://www.iqiyi.com/v_19rqykiog4.html",
+     "time": "2018-08-09T16:00:18.000Z"
     }
    ]
   },
@@ -1051,6 +1413,13 @@
      "sort": 52,
      "title": "遗失的法老王记忆",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUyNzg0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 52,
+     "title": "遗失的法老王记忆",
+     "url": "http://www.iqiyi.com/v_19rqznliak.html",
+     "time": "2018-09-09T16:00:27.000Z"
     }
    ]
   },
@@ -1071,6 +1440,13 @@
      "sort": 53,
      "title": "火焰的热舞决斗",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUyNzMy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 53,
+     "title": "火焰的热舞决斗",
+     "url": "http://www.iqiyi.com/v_19rqznlv3o.html",
+     "time": "2018-09-09T16:00:26.000Z"
     }
    ]
   },
@@ -1091,6 +1467,13 @@
      "sort": 54,
      "title": "这个城市将成为战斗城市",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU3MjY4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 54,
+     "title": "这个城市将成为战斗城市",
+     "url": "http://www.iqiyi.com/v_19rqznlm8g.html",
+     "time": "2018-09-09T16:00:26.000Z"
     }
    ]
   },
@@ -1111,6 +1494,13 @@
      "sort": 55,
      "title": "古鲁斯来袭！目标是真红眼黑龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU3MzAw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 55,
+     "title": "古鲁斯的强袭！目标是真红眼黑龙",
+     "url": "http://www.iqiyi.com/v_19rqznlqh8.html",
+     "time": "2018-09-09T16:00:14.000Z"
     }
    ]
   },
@@ -1131,6 +1521,13 @@
      "sort": 56,
      "title": "激战！战斗城市开幕",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUzNDc2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 56,
+     "title": "激斗！战斗城市开幕",
+     "url": "http://www.iqiyi.com/v_19rqznl17w.html",
+     "time": "2018-09-09T16:00:22.000Z"
     }
    ]
   },
@@ -1151,6 +1548,13 @@
      "sort": 57,
      "title": "反败为胜！连锁破坏",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUzNjA4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 57,
+     "title": "逆转！连锁破坏",
+     "url": "http://www.iqiyi.com/v_19rqznlrto.html",
+     "time": "2018-09-09T16:00:26.000Z"
     }
    ]
   },
@@ -1171,6 +1575,13 @@
      "sort": 58,
      "title": "天才登场！超能力牌组的可怕",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUzNTY4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 58,
+     "title": "天才絽场！超能力卡组的可怕",
+     "url": "http://www.iqiyi.com/v_19rqznkr48.html",
+     "time": "2018-09-09T16:00:27.000Z"
     }
    ]
   },
@@ -1191,6 +1602,13 @@
      "sort": 59,
      "title": "勇气的赌注！转动蜘蛛网轮盘",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUzODA0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 59,
+     "title": "勇气的赌注！转动轮盘蜘蛛",
+     "url": "http://www.iqiyi.com/v_19rqznpizk.html",
+     "time": "2018-09-09T16:00:24.000Z"
     }
    ]
   },
@@ -1211,6 +1629,13 @@
      "sort": 60,
      "title": "控制黑魔导的魔术师 潘朵拉",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUzNzEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 60,
+     "title": "操控黑魔导的魔术师 潘朵拉",
+     "url": "http://www.iqiyi.com/v_19rqznppy4.html",
+     "time": "2018-09-09T16:00:24.000Z"
     }
    ]
   },
@@ -1231,6 +1656,13 @@
      "sort": 61,
      "title": "灵魂的黑暗魔术",
      "url": "https://v.youku.com/v_show/id_XNDk5ODUzOTE2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 61,
+     "title": "灵魂的黑魔术师",
+     "url": "http://www.iqiyi.com/v_19rqznlz5g.html",
+     "time": "2018-09-09T16:00:22.000Z"
     }
    ]
   },
@@ -1251,6 +1683,13 @@
      "sort": 62,
      "title": "黑魔导的徒弟 黑魔导女孩",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU4NTg0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 62,
+     "title": "黑魔导的徒弟 黑魔导女孩",
+     "url": "http://www.iqiyi.com/v_19rqznp3u0.html",
+     "time": "2018-09-09T16:00:21.000Z"
     }
    ]
   },
@@ -1271,6 +1710,13 @@
      "sort": 63,
      "title": "复仇的陷阱 疯狂的寄生虫",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU3MzQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 63,
+     "title": "复仇的陷阱 暴走！寄生虫",
+     "url": "http://www.iqiyi.com/v_19rqznucmw.html",
+     "time": "2018-09-09T16:00:24.000Z"
     }
    ]
   },
@@ -1291,6 +1737,13 @@
      "sort": 64,
      "title": "钢铁骑士 齿轮舰队",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU3NDY0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 64,
+     "title": "钢铁的骑士 基亚·弗利德",
+     "url": "http://www.iqiyi.com/v_19rqznpy4s.html",
+     "time": "2018-09-09T16:00:23.000Z"
     }
    ]
   },
@@ -1311,6 +1764,13 @@
      "sort": 65,
      "title": "马利克出马 神之组合攻击",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU3NDEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 65,
+     "title": "马利克出马 神之组合攻击",
+     "url": "http://www.iqiyi.com/v_19rqznrphc.html",
+     "time": "2018-09-09T16:00:25.000Z"
     }
    ]
   },
@@ -1331,6 +1791,13 @@
      "sort": 66,
      "title": "欧西里斯的天空龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU3NTc2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 66,
+     "title": "欧西里斯的天空龙",
+     "url": "http://www.iqiyi.com/v_19rqznu6bs.html",
+     "time": "2018-09-09T16:00:16.000Z"
     }
    ]
   },
@@ -1351,6 +1818,13 @@
      "sort": 67,
      "title": "超越神之牌组 终极无限牌组",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU3NTU2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 67,
+     "title": "超越神之卡组 终极无限卡组",
+     "url": "http://www.iqiyi.com/v_19rqznpjew.html",
+     "time": "2018-09-09T16:00:26.000Z"
     }
    ]
   },
@@ -1371,6 +1845,13 @@
      "sort": 68,
      "title": "看不到的敌人 潜海奇袭",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU3NjQw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 68,
+     "title": "看不到的敌人 潜海奇袭2",
+     "url": "http://www.iqiyi.com/v_19rqznnuzs.html",
+     "time": "2018-09-09T16:00:26.000Z"
     }
    ]
   },
@@ -1391,6 +1872,13 @@
      "sort": 69,
      "title": "传说的渔夫",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYyMDE2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 69,
+     "title": "传说的渔人",
+     "url": "http://www.iqiyi.com/v_19rqznu2qo.html",
+     "time": "2018-09-09T16:00:16.000Z"
     }
    ]
   },
@@ -1411,6 +1899,13 @@
      "sort": 70,
      "title": "假面的诅咒　超高层决斗",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYyMDMy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 70,
+     "title": "假面的诅咒 超高层决斗",
+     "url": "http://www.iqiyi.com/v_19rqznrgk8.html",
+     "time": "2018-09-09T16:00:25.000Z"
     }
    ]
   },
@@ -1431,6 +1926,13 @@
      "sort": 71,
      "title": "被封印住的神之卡",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU4Njc2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 71,
+     "title": "被封印住的神之卡",
+     "url": "http://www.iqiyi.com/v_19rqzno11o.html",
+     "time": "2018-09-09T16:00:25.000Z"
     }
    ]
   },
@@ -1451,6 +1953,13 @@
      "sort": 72,
      "title": "团结的力量",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU4NzI0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 72,
+     "title": "团结的力量",
+     "url": "http://www.iqiyi.com/v_19rqznpfdo.html",
+     "time": "2018-09-09T16:00:22.000Z"
     }
    ]
   },
@@ -1471,6 +1980,13 @@
      "sort": 73,
      "title": "欧贝利斯克的巨神兵",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU4NzYw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 73,
+     "title": "欧贝利斯克的巨神兵",
+     "url": "http://www.iqiyi.com/v_19rqznuvh8.html",
+     "time": "2018-09-09T16:00:23.000Z"
     }
    ]
   },
@@ -1491,6 +2007,13 @@
      "sort": 74,
      "title": "牵绊",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU4ODUy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 74,
+     "title": "牵绊",
+     "url": "http://www.iqiyi.com/v_19rqzntcs0.html",
+     "time": "2018-09-09T16:00:15.000Z"
     }
    ]
   },
@@ -1511,6 +2034,13 @@
      "sort": 75,
      "title": "无情的决斗 游戏VS城之内",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU4ODQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 75,
+     "title": "无情的决斗 游戏VS城之内",
+     "url": "http://www.iqiyi.com/v_19rqznp1kk.html",
+     "time": "2018-09-09T16:00:17.000Z"
     }
    ]
   },
@@ -1531,6 +2061,13 @@
      "sort": 76,
      "title": "传达友情力量的真红眼黑龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU4OTQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 76,
+     "title": "传达友情力量的真红眼黑龙",
+     "url": "http://www.iqiyi.com/v_19rqznqbh0.html",
+     "time": "2018-09-09T16:00:15.000Z"
     }
    ]
   },
@@ -1551,6 +2088,13 @@
      "sort": 77,
      "title": "坠入绝望深渊前的倒数",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU4OTM2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 77,
+     "title": "坠入绝望深渊前的倒数",
+     "url": "http://www.iqiyi.com/v_19rqznv77s.html",
+     "time": "2018-09-09T16:00:22.000Z"
     }
    ]
   },
@@ -1571,6 +2115,13 @@
      "sort": 78,
      "title": "攻击我吧！命运的最后一回合",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU4OTg0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 78,
+     "title": "攻击我吧！命运的最后一回合",
+     "url": "http://www.iqiyi.com/v_19rqzntizg.html",
+     "time": "2018-09-09T16:00:24.000Z"
     }
    ]
   },
@@ -1591,6 +2142,13 @@
      "sort": 79,
      "title": "鬼魅牌组VS幽灵牌组",
      "url": "https://v.youku.com/v_show/id_XNTEyMjM2NDMy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 79,
+     "title": "幽灵卡组VS超自然卡组",
+     "url": "http://www.iqiyi.com/v_19rqznp1x4.html",
+     "time": "2018-09-09T16:00:21.000Z"
     }
    ]
   },
@@ -1611,6 +2169,13 @@
      "sort": 80,
      "title": "忍者决斗者 麦克兰姆登场",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU5MTA0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 80,
+     "title": "忍者决斗者 麦克兰姆登场",
+     "url": "http://www.iqiyi.com/v_19rqznr84o.html",
+     "time": "2018-09-09T16:00:24.000Z"
     }
    ]
   },
@@ -1631,6 +2196,13 @@
      "sort": 81,
      "title": "战斗飞行船出发",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU5MTg4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 81,
+     "title": "战斗飞行船出发",
+     "url": "http://www.iqiyi.com/v_19rqznt5jc.html",
+     "time": "2018-09-09T16:00:15.000Z"
     }
    ]
   },
@@ -1651,6 +2223,13 @@
      "sort": 82,
      "title": "天空的第一场决斗 游戏VS貘良",
      "url": "https://v.youku.com/v_show/id_XNDk5ODU5MTY0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 82,
+     "title": "天空的第一场决斗 游戏VS暗貘良",
+     "url": "http://www.iqiyi.com/v_19rqznt98g.html",
+     "time": "2018-09-09T16:00:22.000Z"
     }
    ]
   },
@@ -1671,6 +2250,13 @@
      "sort": 83,
      "title": "呼唤死神的威加盘",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYzNTg4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 83,
+     "title": "呼唤死神的威加盘",
+     "url": "http://www.iqiyi.com/v_19rqznp6ic.html",
+     "time": "2018-09-09T16:00:21.000Z"
     }
    ]
   },
@@ -1691,6 +2277,13 @@
      "sort": 84,
      "title": "划破黑暗！神之卡的一击",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYyMTQw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 84,
+     "title": "划破黑暗！神之卡的一击",
+     "url": "http://www.iqiyi.com/v_19rqznv3ag.html",
+     "time": "2018-09-09T16:00:25.000Z"
     }
    ]
   },
@@ -1711,6 +2304,13 @@
      "sort": 85,
      "title": "隐藏的力量 神之卡的秘密",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYyMTI0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 85,
+     "title": "隐藏的力量 神之卡的秘密",
+     "url": "http://www.iqiyi.com/v_19rqznr4u8.html",
+     "time": "2018-09-09T16:00:17.000Z"
     }
    ]
   },
@@ -1731,6 +2331,13 @@
      "sort": 86,
      "title": "城之内VS陷阱卡",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYyMTky.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 86,
+     "title": "城之内VS陷阱卡",
+     "url": "http://www.iqiyi.com/v_19rqzntbr4.html",
+     "time": "2018-09-09T16:00:23.000Z"
     }
    ]
   },
@@ -1751,6 +2358,13 @@
      "sort": 87,
      "title": "继承的战斗怪兽卡 电子机器人反击",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYyNDEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 87,
+     "title": "继承的战斗怪兽卡，人造人电子机器人反击",
+     "url": "http://www.iqiyi.com/v_19rqznvqi0.html",
+     "time": "2018-09-09T16:00:24.000Z"
     }
    ]
   },
@@ -1771,6 +2385,13 @@
      "sort": 88,
      "title": "召唤太阳神的翼神龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYyMjM2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 88,
+     "title": "召唤太阳神的翼神龙",
+     "url": "http://www.iqiyi.com/v_19rqznukx8.html",
+     "time": "2018-09-09T16:00:23.000Z"
     }
    ]
   },
@@ -1791,6 +2412,13 @@
      "sort": 89,
      "title": "太阳神的愤怒 站起来！城之内",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY1ODUy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 89,
+     "title": "太阳神的愤怒 站起来！城之内",
+     "url": "http://www.iqiyi.com/v_19rqznusl4.html",
+     "time": "2018-09-09T16:00:22.000Z"
     }
    ]
   },
@@ -1811,6 +2439,13 @@
      "sort": 90,
      "title": "孔雀舞VS马利克 黑暗的决斗",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY2MDAw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 90,
+     "title": "孔雀舞VS马利克 黑暗的决斗",
+     "url": "http://www.iqiyi.com/v_19rqznufko.html",
+     "time": "2018-09-09T16:00:25.000Z"
     }
    ]
   },
@@ -1831,6 +2466,13 @@
      "sort": 91,
      "title": "夺走神之卡",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYzNjAw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 91,
+     "title": "夺走神之卡",
+     "url": "http://www.iqiyi.com/v_19rqznvvfw.html",
+     "time": "2018-09-09T16:00:23.000Z"
     }
    ]
   },
@@ -1851,6 +2493,13 @@
      "sort": 92,
      "title": "古代神官文字之谜",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYzNjg0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 92,
+     "title": "古代神官文字之谜",
+     "url": "http://www.iqiyi.com/v_19rqznpafc.html",
+     "time": "2018-09-09T16:00:26.000Z"
     }
    ]
   },
@@ -1871,6 +2520,13 @@
      "sort": 93,
      "title": "海马VS第八个决斗者",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYzNzU2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 93,
+     "title": "海马VS第八个决斗者",
+     "url": "http://www.iqiyi.com/v_19rqznvl7w.html",
+     "time": "2018-09-09T16:00:26.000Z"
     }
    ]
   },
@@ -1891,6 +2547,13 @@
      "sort": 94,
      "title": "改变未来的一击",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYzNzQ4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 94,
+     "title": "改变未来的一击",
+     "url": "http://www.iqiyi.com/v_19rqznu940.html",
+     "time": "2018-09-09T16:00:23.000Z"
     }
    ]
   },
@@ -1911,6 +2574,13 @@
      "sort": 95,
      "title": "化暗为明的伊修达尔家真相",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYzOTMy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 95,
+     "title": "化暗为明的伊修达尔家族的真相",
+     "url": "http://www.iqiyi.com/v_19rqznvs1w.html",
+     "time": "2018-09-09T16:00:26.000Z"
     }
    ]
   },
@@ -1931,6 +2601,13 @@
      "sort": 96,
      "title": "马利克VS貘良",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYzOTIw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 96,
+     "title": "黑暗VS黑暗（马利克VS貘良）",
+     "url": "http://www.iqiyi.com/v_19rqznv22k.html",
+     "time": "2018-09-09T16:00:23.000Z"
     }
    ]
   },
@@ -1951,6 +2628,13 @@
      "sort": 97,
      "title": "一回合抹杀",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY0MDA4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 97,
+     "title": "ONE TURN KILL",
+     "url": "http://www.iqiyi.com/v_19rqznrato.html",
+     "time": "2018-09-09T16:00:23.000Z"
     }
    ]
   },
@@ -1971,6 +2655,13 @@
      "sort": 98,
      "title": "未知的挑战者 巨大机动要塞浮上",
      "url": "https://v.youku.com/v_show/id_XNDk5ODYzOTg0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 98,
+     "title": "未知的挑战者　巨大机动要塞浮上",
+     "url": "http://www.iqiyi.com/v_19rr4uym5w.html",
+     "time": "2018-10-09T16:00:10.000Z"
     }
    ]
   },
@@ -1991,6 +2682,13 @@
      "sort": 99,
      "title": "卡组统领 深海的战士",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY0MTE2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 99,
+     "title": "领导者 深海的战士",
+     "url": "http://www.iqiyi.com/v_19rr4v2i7s.html",
+     "time": "2018-10-09T16:00:10.000Z"
     }
    ]
   },
@@ -2011,6 +2709,13 @@
      "sort": 100,
      "title": "恐怖的再生Combo",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY3OTA4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 100,
+     "title": "恐怖的再生战术",
+     "url": "http://www.iqiyi.com/v_19rr4uyodg.html",
+     "time": "2018-10-09T16:00:10.000Z"
     }
    ]
   },
@@ -2031,6 +2736,13 @@
      "sort": 101,
      "title": "反击的“彩虹桥”",
      "url": "https://v.youku.com/v_show/id_XNTEyMjI4MTIw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 101,
+     "title": "反击的彩虹拱门",
+     "url": "http://www.iqiyi.com/v_19rr4uyq6g.html",
+     "time": "2018-10-09T16:00:10.000Z"
     }
    ]
   },
@@ -2051,6 +2763,13 @@
      "sort": 102,
      "title": "冰上的决斗 被盯上的杏子",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY2MDgw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 102,
+     "title": "冰上的决斗！杏子遭到攻击了",
+     "url": "http://www.iqiyi.com/v_19rr4uylr4.html",
+     "time": "2018-10-09T16:00:13.000Z"
     }
    ]
   },
@@ -2071,6 +2790,13 @@
      "sort": 103,
      "title": "闪耀吧 贤者的宝石",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY2MDY4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 103,
+     "title": "闪耀吧！贤者的宝石",
+     "url": "http://www.iqiyi.com/v_19rr4uyq3c.html",
+     "time": "2018-10-09T16:00:13.000Z"
     }
    ]
   },
@@ -2091,6 +2817,13 @@
      "sort": 104,
      "title": "卡组统领 审判者的制裁",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY2MTg4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 104,
+     "title": "领导者 审判官的裁决",
+     "url": "http://www.iqiyi.com/v_19rr4uyo1o.html",
+     "time": "2018-10-09T16:00:09.000Z"
     }
    ]
   },
@@ -2111,6 +2844,13 @@
      "sort": 105,
      "title": "朝向胜利的赌注",
      "url": "https://v.youku.com/v_show/id_XNTEyMjI5Mjgw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 105,
+     "title": "胜利的赌注",
+     "url": "http://www.iqiyi.com/v_19rr4uyqas.html",
+     "time": "2018-10-09T16:00:13.000Z"
     }
    ]
   },
@@ -2131,6 +2871,13 @@
      "sort": 106,
      "title": "男子汉最后的活跃 本田玉碎",
      "url": "https://v.youku.com/v_show/id_XNTEyMjMwMTYw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 106,
+     "title": "男子汉的魄力 本田壮烈牺牲",
+     "url": "http://www.iqiyi.com/v_19rr4uyo94.html",
+     "time": "2018-10-09T16:00:10.000Z"
     }
    ]
   },
@@ -2151,6 +2898,13 @@
      "sort": 107,
      "title": "圣女贞德 三位一体的攻击",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY2MTQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 107,
+     "title": "圣女强弩 三位一体的攻击",
+     "url": "http://www.iqiyi.com/v_19rr4v2hrg.html",
+     "time": "2018-10-09T16:00:08.000Z"
     }
    ]
   },
@@ -2171,6 +2925,13 @@
      "sort": 108,
      "title": "被掳走的木马 海马VS人造人 念力震慑者",
      "url": "https://v.youku.com/v_show/id_XNTEyMjMxMDky.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 108,
+     "title": "圭平遭到攻 海马VS人造人 电子机器人",
+     "url": "http://www.iqiyi.com/v_19rr4uynfg.html",
+     "time": "2018-10-09T16:00:10.000Z"
     }
    ]
   },
@@ -2191,6 +2952,13 @@
      "sort": 109,
      "title": "从宇宙来的攻击 卫星加农炮",
      "url": "https://v.youku.com/v_show/id_XNTEyMjMxMzI4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 109,
+     "title": "来自宇宙的攻击 卫星加农炮",
+     "url": "http://www.iqiyi.com/v_19rr4uynjs.html",
+     "time": "2018-10-09T16:00:10.000Z"
     }
    ]
   },
@@ -2211,6 +2979,13 @@
      "sort": 110,
      "title": "加深的谜团 乃亚的真面目",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY2MjM2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 110,
+     "title": "深奥之谜 乃亚的真实身分",
+     "url": "http://www.iqiyi.com/v_19rr4uyonw.html",
+     "time": "2018-10-09T16:00:09.000Z"
     }
    ]
   },
@@ -2231,6 +3006,13 @@
      "sort": 111,
      "title": "五巨头的逆袭",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY2MjUy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 111,
+     "title": "五巨头的反击",
+     "url": "http://www.iqiyi.com/v_19rr4v2s70.html",
+     "time": "2018-10-09T16:00:12.000Z"
     }
    ]
   },
@@ -2251,6 +3033,13 @@
      "sort": 112,
      "title": "被盯上的城之内 迈向胜利的联合作战",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY5OTY0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 112,
+     "title": "被攻击的城之内 迈向胜利的关键决斗",
+     "url": "http://www.iqiyi.com/v_19rr4uynr8.html",
+     "time": "2018-10-09T16:00:12.000Z"
     }
    ]
   },
@@ -2271,6 +3060,13 @@
      "sort": 113,
      "title": "打倒五帝龙吧！",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY5OTI4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 113,
+     "title": "打倒五帝龙",
+     "url": "http://www.iqiyi.com/v_19rr4v2i5c.html",
+     "time": "2018-10-09T16:00:07.000Z"
     }
    ]
   },
@@ -2291,6 +3087,13 @@
      "sort": 114,
      "title": "乃亚VS濑人 天地创造的决斗",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY3OTE2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 114,
+     "title": "乃亚VS濑人 创造天地的决斗",
+     "url": "http://www.iqiyi.com/v_19rr4uyofk.html",
+     "time": "2018-10-09T16:00:09.000Z"
     }
    ]
   },
@@ -2311,6 +3114,13 @@
      "sort": 115,
      "title": "无敌 卡组统领 奇迹之方舟",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY3OTUy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 115,
+     "title": "领导者 奇迹的方舟",
+     "url": "http://www.iqiyi.com/v_19rr4v2sbc.html",
+     "time": "2018-10-09T16:00:08.000Z"
     }
    ]
   },
@@ -2331,6 +3141,13 @@
      "sort": 116,
      "title": "拯救木马 命运的第七回合",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY4MDQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 116,
+     "title": "拯救圭平！命运的第七回合",
+     "url": "http://www.iqiyi.com/v_19rr4uynhc.html",
+     "time": "2018-10-09T16:00:08.000Z"
     }
    ]
   },
@@ -2351,6 +3168,13 @@
      "sort": 117,
      "title": "继承的卡组 游戏VS乃亚",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY4MDA0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 117,
+     "title": "承接卡组！游戏VS乃亚",
+     "url": "http://www.iqiyi.com/v_19rr4v2ryo.html",
+     "time": "2018-10-09T16:00:07.000Z"
     }
    ]
   },
@@ -2371,6 +3195,13 @@
      "sort": 118,
      "title": "LP 10000VS100",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY4MDcy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 118,
+     "title": "生命值10000VS100",
+     "url": "http://www.iqiyi.com/v_19rr4uylzg.html",
+     "time": "2018-10-09T16:00:07.000Z"
     }
    ]
   },
@@ -2391,6 +3222,13 @@
      "sort": 119,
      "title": "海马家的黑暗",
      "url": "https://v.youku.com/v_show/id_XNDk5ODY4MjA0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 119,
+     "title": "海马家的黑暗",
+     "url": "http://www.iqiyi.com/v_19rr4v2s1g.html",
+     "time": "2018-10-09T16:00:07.000Z"
     }
    ]
   },
@@ -2411,6 +3249,13 @@
      "sort": 120,
      "title": "艾克佐迪亚的亡灵",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcxNTEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 120,
+     "title": "黑暗大法师",
+     "url": "http://www.iqiyi.com/v_19rr4uyoao.html",
+     "time": "2018-10-09T16:00:13.000Z"
     }
    ]
   },
@@ -2431,6 +3276,13 @@
      "sort": 121,
      "title": "脱逃！！",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcwMTIw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 121,
+     "title": "脱逃",
+     "url": "http://www.iqiyi.com/v_19rr4v2rwk.html",
+     "time": "2018-10-09T16:00:07.000Z"
     }
    ]
   },
@@ -2451,6 +3303,13 @@
      "sort": 122,
      "title": "决胜之地 恶魔岛",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcwMDMy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 122,
+     "title": "决战之地 人工岛",
+     "url": "http://www.iqiyi.com/v_19rr4uylpk.html",
+     "time": "2018-10-09T16:00:11.000Z"
     }
    ]
   },
@@ -2471,6 +3330,13 @@
      "sort": 123,
      "title": "大混战",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcwMjMy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 123,
+     "title": "大混战",
+     "url": "http://www.iqiyi.com/v_19rr4v2hoo.html",
+     "time": "2018-10-09T16:00:08.000Z"
     }
    ]
   },
@@ -2491,6 +3357,13 @@
      "sort": 124,
      "title": "各自的对战者",
      "url": "https://v.youku.com/v_show/id_XNTMzMTc2MzI4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 124,
+     "title": "各自希望的对决者",
+     "url": "http://www.iqiyi.com/v_19rr4uynw4.html",
+     "time": "2018-10-09T16:00:13.000Z"
     }
    ]
   },
@@ -2511,6 +3384,13 @@
      "sort": 125,
      "title": "黑暗的准决赛 城之内VS马利克",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcwMTYw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 125,
+     "title": "黑暗的准决赛 城之内VS马利克",
+     "url": "http://www.iqiyi.com/v_19rr4v2seg.html",
+     "time": "2018-10-09T16:00:14.000Z"
     }
    ]
   },
@@ -2531,6 +3411,13 @@
      "sort": 126,
      "title": "地狱诗人",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcwMjk2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 126,
+     "title": "地狱诗人 赫波艾",
+     "url": "http://www.iqiyi.com/v_19rr4uyopg.html",
+     "time": "2018-10-09T16:00:09.000Z"
     }
    ]
   },
@@ -2551,6 +3438,13 @@
      "sort": 127,
      "title": "逆转！ 闪电之战士",
      "url": "https://v.youku.com/v_show/id_XNTMzMTc2MzMy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 127,
+     "title": "反败为胜 闪电战神",
+     "url": "http://www.iqiyi.com/v_19rr4v2rs8.html",
+     "time": "2018-10-09T16:00:08.000Z"
     }
    ]
   },
@@ -2571,6 +3465,13 @@
      "sort": 128,
      "title": "城之内 陨落",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcwMzEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 128,
+     "title": "城之内之死",
+     "url": "http://www.iqiyi.com/v_19rr4v2soc.html",
+     "time": "2018-10-09T16:00:08.000Z"
     }
    ]
   },
@@ -2591,6 +3492,13 @@
      "sort": 129,
      "title": "天空斗技场 游戏VS海马",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcwMzcy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 129,
+     "title": "天空斗戏场 游戏VS海马",
+     "url": "http://www.iqiyi.com/v_19rr4uynws.html",
+     "time": "2018-10-09T16:00:10.000Z"
     }
    ]
   },
@@ -2611,6 +3519,13 @@
      "sort": 130,
      "title": "召唤神的三骑士",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcwMzky.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 130,
+     "title": "召唤神的三骑士",
+     "url": "http://www.iqiyi.com/v_19rr4uym1k.html",
+     "time": "2018-10-09T16:00:11.000Z"
     }
    ]
   },
@@ -2631,6 +3546,13 @@
      "sort": 131,
      "title": "激烈冲突！ 神VS神",
      "url": "https://v.youku.com/v_show/id_XNDk5ODczNzM2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 131,
+     "title": "激战！神VS神",
+     "url": "http://www.iqiyi.com/v_19rr4v2hxw.html",
+     "time": "2018-10-09T16:00:09.000Z"
     }
    ]
   },
@@ -2651,6 +3573,13 @@
      "sort": 132,
      "title": "继承宿命的决斗",
      "url": "https://v.youku.com/v_show/id_XNDk5ODczNjky.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 132,
+     "title": "继承宿命的决斗",
+     "url": "http://www.iqiyi.com/v_19rr4uynmw.html",
+     "time": "2018-10-09T16:00:12.000Z"
     }
    ]
   },
@@ -2671,6 +3600,13 @@
      "sort": 133,
      "title": "朋友之间的誓言 真红眼黑龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcxNTIw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 133,
+     "title": "朋友之间的誓言 真红眼黑龙",
+     "url": "http://www.iqiyi.com/v_19rr4v2sis.html",
+     "time": "2018-10-09T16:00:09.000Z"
     }
    ]
   },
@@ -2691,6 +3627,13 @@
      "sort": 134,
      "title": "击碎憎恨 相信友情",
      "url": "https://v.youku.com/v_show/id_XNTEyMjMxNjA4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 134,
+     "title": "击碎憎恨 相信友情",
+     "url": "http://www.iqiyi.com/v_19rr4uyos8.html",
+     "time": "2018-10-09T16:00:13.000Z"
     }
    ]
   },
@@ -2711,6 +3654,13 @@
      "sort": 135,
      "title": "火焰的平凡之路 城之内VS海马",
      "url": "https://v.youku.com/v_show/id_XNTEyMjMxODU2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 135,
+     "title": "火焰的平凡之路 城之内VS海马",
+     "url": "http://www.iqiyi.com/v_19rr4v2i3g.html",
+     "time": "2018-10-09T16:00:12.000Z"
     }
    ]
   },
@@ -2731,6 +3681,13 @@
      "sort": 136,
      "title": "青眼白龙VS青眼白龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcxNjQ4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 136,
+     "title": "青眼白龙VS青眼白龙",
+     "url": "http://www.iqiyi.com/v_19rr4v2sg0.html",
+     "time": "2018-10-09T16:00:11.000Z"
     }
    ]
   },
@@ -2751,6 +3708,13 @@
      "sort": 137,
      "title": "朝向真正决斗者迈进的路",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcxNjky.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 137,
+     "title": "迈向成为真正决斗者的路",
+     "url": "http://www.iqiyi.com/v_19rr4uyq64.html",
+     "time": "2018-10-09T16:00:08.000Z"
     }
    ]
   },
@@ -2771,6 +3735,13 @@
      "sort": 138,
      "title": "决胜战 游戏VS马利克",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcxNzUy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 138,
+     "title": "最后决战 游戏VS马利克",
+     "url": "http://www.iqiyi.com/v_19rr4uylms.html",
+     "time": "2018-10-09T16:00:12.000Z"
     }
    ]
   },
@@ -2791,6 +3762,13 @@
      "sort": 139,
      "title": "恶魔的圣域 发动",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcxNzg0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 139,
+     "title": "恶魔圣域 发动！",
+     "url": "http://www.iqiyi.com/v_19rr4v2i28.html",
+     "time": "2018-10-09T16:00:13.000Z"
     }
    ]
   },
@@ -2811,6 +3789,13 @@
      "sort": 140,
      "title": "不死之壁 神史莱姆",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcxODIw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 140,
+     "title": "天空斗戏场 游戏VS海马",
+     "url": "http://www.iqiyi.com/v_19rr4uyne8.html",
+     "time": "2018-10-09T16:00:11.000Z"
     }
    ]
   },
@@ -2831,6 +3816,13 @@
      "sort": 141,
      "title": "欧贝利斯克的愤怒 灵魂充能MAX",
      "url": "https://v.youku.com/v_show/id_XNTEyMjMyMDM2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 141,
+     "title": "欧贝利斯克的愤怒 灵魂能量MAX",
+     "url": "http://www.iqiyi.com/v_19rr4uyq0w.html",
+     "time": "2018-10-09T16:00:07.000Z"
     }
    ]
   },
@@ -2851,6 +3843,13 @@
      "sort": 142,
      "title": "决斗都市终结",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcxODY0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 142,
+     "title": "终结战斗城市",
+     "url": "http://www.iqiyi.com/v_19rr4v2ht0.html",
+     "time": "2018-10-09T16:00:10.000Z"
     }
    ]
   },
@@ -2871,6 +3870,13 @@
      "sort": 143,
      "title": "恶魔岛烈火升天",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcxOTQw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 143,
+     "title": "燃烧的岛屿",
+     "url": "http://www.iqiyi.com/v_19rr4uyoj0.html",
+     "time": "2018-10-09T16:00:12.000Z"
     }
    ]
   },
@@ -2891,6 +3897,13 @@
      "sort": 144,
      "title": "预兆",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcxOTY4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 144,
+     "title": "预兆",
+     "url": "http://www.iqiyi.com/v_19rr4v2hj4.html",
+     "time": "2018-10-09T16:00:08.000Z"
     }
    ]
   },
@@ -2911,6 +3924,13 @@
      "sort": 145,
      "title": "全新的黑暗鼓动",
      "url": "https://v.youku.com/v_show/id_XNTEyMjMyNTA0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 145,
+     "title": "新的黑暗的鼓动",
+     "url": "http://www.iqiyi.com/v_19rr35mplg.html",
+     "time": "2018-11-09T16:00:13.000Z"
     }
    ]
   },
@@ -2931,6 +3951,13 @@
      "sort": 146,
      "title": "奥雷卡尔克斯的结界",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMDA4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 146,
+     "title": "奥利哈刚的结界",
+     "url": "http://www.iqiyi.com/v_19rr35mpy4.html",
+     "time": "2018-11-09T16:00:25.000Z"
     }
    ]
   },
@@ -2951,6 +3978,13 @@
      "sort": 147,
      "title": "无名之龙提迈欧斯",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMDEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 147,
+     "title": "无名之龙 蒂迈欧",
+     "url": "http://www.iqiyi.com/v_19rr35mnho.html",
+     "time": "2018-11-09T16:00:36.000Z"
     }
    ]
   },
@@ -2971,6 +4005,13 @@
      "sort": 148,
      "title": "来自贝卡斯的邀请函",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMDQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 148,
+     "title": "来自贝卡斯的邀请函",
+     "url": "http://www.iqiyi.com/v_19rr35mp20.html",
+     "time": "2018-11-09T16:00:18.000Z"
     }
    ]
   },
@@ -2991,6 +4032,13 @@
      "sort": 149,
      "title": "卡通世界的恶梦",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMTAw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 149,
+     "title": "卡通世界的恶梦",
+     "url": "http://www.iqiyi.com/v_19rr35mrpw.html",
+     "time": "2018-11-09T16:00:25.000Z"
     }
    ]
   },
@@ -3011,6 +4059,13 @@
      "sort": 150,
      "title": "觉醒吧！克里提欧斯",
      "url": "https://v.youku.com/v_show/id_XNTAyMjY4Mjgw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 150,
+     "title": "觉醒吧！克里底亚",
+     "url": "http://www.iqiyi.com/v_19rr35mpsw.html",
+     "time": "2018-11-09T16:00:19.000Z"
     }
    ]
   },
@@ -3031,6 +4086,13 @@
      "sort": 151,
      "title": "预期不到的敌人",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMTEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 151,
+     "title": "预料之外的敌人",
+     "url": "http://www.iqiyi.com/v_19rr35mnbs.html",
+     "time": "2018-11-09T16:00:20.000Z"
     }
    ]
   },
@@ -3051,6 +4113,13 @@
      "sort": 152,
      "title": "坠入黑暗的孔雀舞",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMjA0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 152,
+     "title": "坠入黑暗的孔雀舞",
+     "url": "http://www.iqiyi.com/v_19rr35mq2s.html",
+     "time": "2018-11-09T16:00:18.000Z"
     }
    ]
   },
@@ -3071,6 +4140,13 @@
      "sort": 153,
      "title": "觉醒吧！第三条龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMTcy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 153,
+     "title": "觉醒吧！第三条龙",
+     "url": "http://www.iqiyi.com/v_19rr35mno4.html",
+     "time": "2018-11-09T16:00:34.000Z"
     }
    ]
   },
@@ -3091,6 +4167,13 @@
      "sort": 154,
      "title": "海尔摩斯的奇迹",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMjEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 154,
+     "title": "赫谟的奇迹",
+     "url": "http://www.iqiyi.com/v_19rr35mox4.html",
+     "time": "2018-11-09T16:00:38.000Z"
     }
    ]
   },
@@ -3111,6 +4194,13 @@
      "sort": 155,
      "title": "目标锁定无名的法老王",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMjQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 155,
+     "title": "目标锁定无名的法老王",
+     "url": "http://www.iqiyi.com/v_19rr35mqts.html",
+     "time": "2018-11-09T16:00:19.000Z"
     }
    ]
   },
@@ -3131,6 +4221,13 @@
      "sort": 156,
      "title": "游戏VS拉费尔　铜墙铁壁的守护者牌组",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMjYw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 156,
+     "title": "游戏VS拉菲鲁 铜墙铁壁的守护者卡组",
+     "url": "http://www.iqiyi.com/v_19rr35mpf0.html",
+     "time": "2018-11-09T16:00:19.000Z"
     }
    ]
   },
@@ -3151,6 +4248,13 @@
      "sort": 157,
      "title": "杜马的真相",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMzAw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 157,
+     "title": "多玛的真相",
+     "url": "http://www.iqiyi.com/v_19rr35mn9c.html",
+     "time": "2018-11-09T16:00:27.000Z"
     }
    ]
   },
@@ -3171,6 +4275,13 @@
      "sort": 158,
      "title": "游戏内心的黑暗　迪马欧斯消灭",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMzMy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 158,
+     "title": "游戏内心的黑暗 蒂迈欧消灭",
+     "url": "http://www.iqiyi.com/v_19rr35mp3k.html",
+     "time": "2018-11-09T16:00:24.000Z"
     }
    ]
   },
@@ -3191,6 +4302,13 @@
      "sort": 159,
      "title": "被撕裂的灵魂",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyMzg0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 159,
+     "title": "被撕裂的灵魂",
+     "url": "http://www.iqiyi.com/v_19rr35mr3o.html",
+     "time": "2018-11-09T16:00:37.000Z"
     }
    ]
   },
@@ -3211,6 +4329,13 @@
      "sort": 160,
      "title": "羽蛾&龙崎　赌上灵魂的决斗",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyNDIw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 160,
+     "title": "暴走特快车决斗",
+     "url": "http://www.iqiyi.com/v_19rr35mp9g.html",
+     "time": "2018-11-09T16:00:22.000Z"
     }
    ]
   },
@@ -3231,6 +4356,13 @@
      "sort": 161,
      "title": "提升战力的牌组　羽蛾与龙崎",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyNDUy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 161,
+     "title": "提升战力的卡组 羽蛾&龙崎",
+     "url": "http://www.iqiyi.com/v_19rr35mnew.html",
+     "time": "2018-11-09T16:00:36.000Z"
     }
    ]
   },
@@ -3251,6 +4383,13 @@
      "sort": 162,
      "title": "迪马欧斯无法发动",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyNTAw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 162,
+     "title": "蒂迈欧无法发动",
+     "url": "http://www.iqiyi.com/v_19rr35mrt0.html",
+     "time": "2018-11-09T16:00:34.000Z"
     }
    ]
   },
@@ -3271,6 +4410,13 @@
      "sort": 163,
      "title": "对决！两个游戏",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyNTM2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 163,
+     "title": "对决！两个游戏",
+     "url": "http://www.iqiyi.com/v_19rr35mrjg.html",
+     "time": "2018-11-09T16:00:25.000Z"
     }
    ]
   },
@@ -3291,6 +4437,13 @@
      "sort": 164,
      "title": "奥雷卡尔克斯战士",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyNjEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 164,
+     "title": "奥利哈刚战士",
+     "url": "http://www.iqiyi.com/v_19rr35mp6o.html",
+     "time": "2018-11-09T16:00:19.000Z"
     }
    ]
   },
@@ -3311,6 +4464,13 @@
      "sort": 165,
      "title": "瓦龙出动！谜样的盔甲牌组",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyNjI0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 165,
+     "title": "巴龙出动！谜样的盔甲卡组",
+     "url": "http://www.iqiyi.com/v_19rr35mqc0.html",
+     "time": "2018-11-09T16:00:34.000Z"
     }
    ]
   },
@@ -3331,6 +4491,13 @@
      "sort": 166,
      "title": "复仇的亚曼尔达　大空中决斗",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyNjY4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 166,
+     "title": "复仇的亚美鲁达 大空中决斗",
+     "url": "http://www.iqiyi.com/v_19rr35mrvg.html",
+     "time": "2018-11-09T16:00:18.000Z"
     }
    ]
   },
@@ -3351,6 +4518,13 @@
      "sort": 167,
      "title": "天空的要塞　决斗尖塔",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyNjg0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 167,
+     "title": "天空的要塞 决斗尖塔",
+     "url": "http://www.iqiyi.com/v_19rr35mqzc.html",
+     "time": "2018-11-09T16:00:17.000Z"
     }
    ]
   },
@@ -3371,6 +4545,13 @@
      "sort": 168,
      "title": "潜入的达兹影子",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyNzE2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 168,
+     "title": "暗中潜入的达姿",
+     "url": "http://www.iqiyi.com/v_19rr35mp6c.html",
+     "time": "2018-11-09T16:00:17.000Z"
     }
    ]
   },
@@ -3391,6 +4572,13 @@
      "sort": 169,
      "title": "激斗！城之内VS瓦龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyODE2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 169,
+     "title": "激斗！城之内VS巴龙",
+     "url": "http://www.iqiyi.com/v_19rr35mnj8.html",
+     "time": "2018-11-09T16:00:40.000Z"
     }
    ]
   },
@@ -3411,6 +4599,13 @@
      "sort": 170,
      "title": "全能盔甲万有引力",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyODYw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 170,
+     "title": "全能盔甲引力",
+     "url": "http://www.iqiyi.com/v_19rr35mq5k.html",
+     "time": "2018-11-09T16:00:22.000Z"
     }
    ]
   },
@@ -3431,6 +4626,13 @@
      "sort": 171,
      "title": "产生共鸣的灵魂",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyOTEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 171,
+     "title": "产生共鸣的灵魂",
+     "url": "http://www.iqiyi.com/v_19rr35mrgo.html",
+     "time": "2018-11-09T16:00:20.000Z"
     }
    ]
   },
@@ -3451,6 +4653,13 @@
      "sort": 172,
      "title": "激烈决斗的结果",
      "url": "https://v.youku.com/v_show/id_XNDk5ODcyOTUy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 172,
+     "title": "激烈决斗的结果",
+     "url": "http://www.iqiyi.com/v_19rr35mpps.html",
+     "time": "2018-11-09T16:00:32.000Z"
     }
    ]
   },
@@ -3471,6 +4680,13 @@
      "sort": 173,
      "title": "苦涩的胜利",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc2NTA4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 173,
+     "title": "苦涩的胜利",
+     "url": "http://www.iqiyi.com/v_19rr35mq18.html",
+     "time": "2018-11-09T16:00:18.000Z"
     }
    ]
   },
@@ -3491,6 +4707,13 @@
      "sort": 174,
      "title": "命运的决斗！游戏VS拉费尔",
      "url": "https://v.youku.com/v_show/id_XNDk5ODczODAw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 174,
+     "title": "命运的决斗！游戏VS拉菲鲁",
+     "url": "http://www.iqiyi.com/v_19rr35mrxc.html",
+     "time": "2018-11-09T16:00:19.000Z"
     }
    ]
   },
@@ -3511,6 +4734,13 @@
      "sort": 175,
      "title": "不死鸟！守护者堤斯塞斯",
      "url": "https://v.youku.com/v_show/id_XNDk5ODczODYw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 175,
+     "title": "不死身！守护者·戴思塞斯",
+     "url": "http://www.iqiyi.com/v_19rr35mrb4.html",
+     "time": "2018-11-09T16:00:12.000Z"
     }
    ]
   },
@@ -3531,6 +4761,13 @@
      "sort": 176,
      "title": "打破心灵的黑暗",
      "url": "https://v.youku.com/v_show/id_XNTEyMjMyNzE2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 176,
+     "title": "打破心灵的黑暗",
+     "url": "http://www.iqiyi.com/v_19rr35mpbw.html",
+     "time": "2018-11-09T16:00:18.000Z"
     }
    ]
   },
@@ -3551,6 +4788,13 @@
      "sort": 177,
      "title": "前往决战地　达兹VS游戏&海马",
      "url": "https://v.youku.com/v_show/id_XNDk5ODczODcy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 177,
+     "title": "前往决战地 达姿VS游戏&海马",
+     "url": "http://www.iqiyi.com/v_19rr35mnsg.html",
+     "time": "2018-11-09T16:00:17.000Z"
     }
    ]
   },
@@ -3571,6 +4815,13 @@
      "sort": 178,
      "title": "亚特兰提斯的悲剧",
      "url": "https://v.youku.com/v_show/id_XNDk5ODczOTc2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 178,
+     "title": "亚特兰蒂斯的悲剧",
+     "url": "http://www.iqiyi.com/v_19rr35mrg0.html",
+     "time": "2018-11-09T16:00:19.000Z"
     }
    ]
   },
@@ -3591,6 +4842,13 @@
      "sort": 179,
      "title": "被囚禁的反射镜骑士",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc0MDI0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 179,
+     "title": "被囚禁的反射镜骑士",
+     "url": "http://www.iqiyi.com/v_19rr35mqx8.html",
+     "time": "2018-11-09T16:00:22.000Z"
     }
    ]
   },
@@ -3611,6 +4869,13 @@
      "sort": 180,
      "title": "奥雷卡尔克斯的三重结界",
      "url": "https://v.youku.com/v_show/id_XNTEyMjMyODk2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 180,
+     "title": "奥利哈刚的三重结界",
+     "url": "http://www.iqiyi.com/v_19rr35moss.html",
+     "time": "2018-11-09T16:00:39.000Z"
     }
    ]
   },
@@ -3631,6 +4896,13 @@
      "sort": 181,
      "title": "复活吧！传说的三骑士",
      "url": "https://v.youku.com/v_show/id_XNDk5ODczOTY4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 181,
+     "title": "复活！传说的三骑士",
+     "url": "http://www.iqiyi.com/v_19rr35mqkk.html",
+     "time": "2018-11-09T16:00:25.000Z"
     }
    ]
   },
@@ -3651,6 +4923,13 @@
      "sort": 182,
      "title": "攻击力无限大　蛇神凯",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc0MTQ4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 182,
+     "title": "攻击力无限大的蛇神彝",
+     "url": "http://www.iqiyi.com/v_19rr35mrlk.html",
+     "time": "2018-11-09T16:00:20.000Z"
     }
    ]
   },
@@ -3671,6 +4950,13 @@
      "sort": 183,
      "title": "神与神的战斗",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3NTA4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 183,
+     "title": "神与神的战斗",
+     "url": "http://www.iqiyi.com/v_19rr35mq7o.html",
+     "time": "2018-11-09T16:00:40.000Z"
     }
    ]
   },
@@ -3691,6 +4977,13 @@
      "sort": 184,
      "title": "踏上光明之路",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3NTQ4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 184,
+     "title": "踏上光明之路",
+     "url": "http://www.iqiyi.com/v_19rr35mpjc.html",
+     "time": "2018-11-09T16:00:17.000Z"
     }
    ]
   },
@@ -3711,6 +5004,13 @@
      "sort": 185,
      "title": "KC大奖赛开幕",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc2NTky.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 185,
+     "title": "海马集团大赛开幕",
+     "url": "http://www.iqiyi.com/v_19rqsa4n6o.html",
+     "time": "2018-12-09T16:03:40.000Z"
     }
    ]
   },
@@ -3731,6 +5031,13 @@
      "sort": 186,
      "title": "开始行动的阴谋",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc2NjI0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 186,
+     "title": "开始行动的阴谋",
+     "url": "http://www.iqiyi.com/v_19rqsa4oug.html",
+     "time": "2018-12-09T16:03:39.000Z"
     }
    ]
   },
@@ -3751,6 +5058,13 @@
      "sort": 187,
      "title": "城之内VS岩石假面",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc2Njk2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 187,
+     "title": "城之内VS面具人洛克",
+     "url": "http://www.iqiyi.com/v_19rqsa4pis.html",
+     "time": "2018-12-09T16:04:06.000Z"
     }
    ]
   },
@@ -3771,6 +5085,13 @@
      "sort": 188,
      "title": "梦幻的古代龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc2NzQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 188,
+     "title": "梦幻的古代龙",
+     "url": "http://www.iqiyi.com/v_19rqsa4pn4.html",
+     "time": "2018-12-09T16:03:39.000Z"
     }
    ]
   },
@@ -3791,6 +5112,13 @@
      "sort": 189,
      "title": "激斗 蕾贝卡VS薇薇安·王",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc2NzY0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 189,
+     "title": "热斗！蕾贝卡VS薇薇安",
+     "url": "http://www.iqiyi.com/v_19rqsa4ozc.html",
+     "time": "2018-12-09T16:03:57.000Z"
     }
    ]
   },
@@ -3811,6 +5139,13 @@
      "sort": 190,
      "title": "城之内VS齐格 华丽的决斗",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc2ODQ4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 190,
+     "title": "城之内VS奇古 华丽的决斗",
+     "url": "http://www.iqiyi.com/v_19rqsa4rqc.html",
+     "time": "2018-12-09T16:03:50.000Z"
     }
    ]
   },
@@ -3831,6 +5166,13 @@
      "sort": 191,
      "title": "抹杀怪兽的女神",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc2ODYw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 191,
+     "title": "抹杀战斗怪兽的女神",
+     "url": "http://www.iqiyi.com/v_19rqsa4nc8.html",
+     "time": "2018-12-09T16:03:57.000Z"
     }
    ]
   },
@@ -3851,6 +5193,13 @@
      "sort": 192,
      "title": "天才少女（蕾贝卡）VS天才少年（雷恩）",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc2OTUy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 192,
+     "title": "天才少女VS天才少年",
+     "url": "http://www.iqiyi.com/v_19rqsa4n94.html",
+     "time": "2018-12-09T16:03:39.000Z"
     }
    ]
   },
@@ -3871,6 +5220,13 @@
      "sort": 193,
      "title": "童话王国的雷恩",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc2OTQw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 193,
+     "title": "童话世界的雷恩",
+     "url": "http://www.iqiyi.com/v_19rqsa4pcc.html",
+     "time": "2018-12-09T16:03:49.000Z"
     }
    ]
   },
@@ -3891,6 +5247,13 @@
      "sort": 194,
      "title": "海马乱入！大奖赛决胜战",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3MDQw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 194,
+     "title": "海马闯入！最后的总决赛",
+     "url": "http://www.iqiyi.com/v_19rqsa4q50.html",
+     "time": "2018-12-09T16:03:20.000Z"
     }
    ]
   },
@@ -3911,6 +5274,13 @@
      "sort": 195,
      "title": "女武神VS青眼白龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3MDUy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 195,
+     "title": "战女神VS青眼白龙",
+     "url": "http://www.iqiyi.com/v_19rqsa4pdw.html",
+     "time": "2018-12-09T16:04:07.000Z"
     }
    ]
   },
@@ -3931,6 +5301,13 @@
      "sort": 196,
      "title": "决斗王决定战　游戏VS雷恩",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3MDky.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 196,
+     "title": "决斗王决定战 游戏VS雷恩",
+     "url": "http://www.iqiyi.com/v_19rqsa4pgo.html",
+     "time": "2018-12-09T16:03:39.000Z"
     }
    ]
   },
@@ -3951,6 +5328,13 @@
      "sort": 197,
      "title": "施特龙贝格的金色城",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3MDk2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 197,
+     "title": "修特姆·贝洛克的黄金城",
+     "url": "http://www.iqiyi.com/v_19rqsa4pq8.html",
+     "time": "2018-12-09T16:03:41.000Z"
     }
    ]
   },
@@ -3971,6 +5355,13 @@
      "sort": 198,
      "title": "KC大奖赛终结",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3MTI4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 198,
+     "title": "海马集团大赛终结",
+     "url": "http://www.iqiyi.com/v_19rqsa4rnk.html",
+     "time": "2018-12-09T16:03:49.000Z"
     }
    ]
   },
@@ -3991,6 +5382,13 @@
      "sort": 199,
      "title": "究极的游戏",
      "url": "https://v.youku.com/v_show/id_XNTEyMjMzNDIw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 199,
+     "title": "终极的游戏",
+     "url": "http://www.iqiyi.com/v_19rqsa4p98.html",
+     "time": "2018-12-09T16:03:48.000Z"
     }
    ]
   },
@@ -4011,6 +5409,13 @@
      "sort": 200,
      "title": "开始行动的暗貘良",
      "url": "https://v.youku.com/v_show/id_XNTEyMjM0Mzc2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 200,
+     "title": "暗貘良出动",
+     "url": "http://www.iqiyi.com/v_19rqsa4ngk.html",
+     "time": "2018-12-09T16:03:56.000Z"
     }
    ]
   },
@@ -4031,6 +5436,13 @@
      "sort": 201,
      "title": "开启记忆之门",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxMDY4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 201,
+     "title": "打开的记忆之门",
+     "url": "http://www.iqiyi.com/v_19rqsa4pso.html",
+     "time": "2018-12-09T16:03:39.000Z"
     }
    ]
   },
@@ -4051,6 +5463,13 @@
      "sort": 202,
      "title": "盗贼王巴库拉 参上",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3NzI0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 202,
+     "title": "盗贼王貘良参见！",
+     "url": "http://www.iqiyi.com/v_19rqsa4q04.html",
+     "time": "2018-12-09T16:03:57.000Z"
     }
    ]
   },
@@ -4071,6 +5490,13 @@
      "sort": 203,
      "title": "马哈德的决意",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3NTU2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 203,
+     "title": "马哈德的决心",
+     "url": "http://www.iqiyi.com/v_19rqsa4pvs.html",
+     "time": "2018-12-09T16:03:49.000Z"
     }
    ]
   },
@@ -4091,6 +5517,13 @@
      "sort": 204,
      "title": "死斗 马哈德VS巴库拉",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3ODEy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 204,
+     "title": "死斗！马哈德VS貘良",
+     "url": "http://www.iqiyi.com/v_19rqsa4owk.html",
+     "time": "2018-12-09T16:03:57.000Z"
     }
    ]
   },
@@ -4111,6 +5544,13 @@
      "sort": 205,
      "title": "青色眼睛的琪莎拉",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3Njcy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 205,
+     "title": "青色眼睛的琪莎拉",
+     "url": "http://www.iqiyi.com/v_19rqsa4p0w.html",
+     "time": "2018-12-09T16:03:39.000Z"
     }
    ]
   },
@@ -4131,6 +5571,13 @@
      "sort": 206,
      "title": "千年神器诞生的秘密",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3OTgw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 206,
+     "title": "千年神器诞生的秘密",
+     "url": "http://www.iqiyi.com/v_19rqsa4n4s.html",
+     "time": "2018-12-09T16:03:39.000Z"
     }
    ]
   },
@@ -4151,6 +5598,13 @@
      "sort": 207,
      "title": "反卷的时间",
      "url": "https://v.youku.com/v_show/id_XNDk5ODc3ODY0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 207,
+     "title": "被倒回的时间",
+     "url": "http://www.iqiyi.com/v_19rqsa4nio.html",
+     "time": "2018-12-09T16:00:58.000Z"
     }
    ]
   },
@@ -4171,6 +5625,13 @@
      "sort": 208,
      "title": "还活着的法老王",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxNTcy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 208,
+     "title": "法老王还活着",
+     "url": "http://www.iqiyi.com/v_19rqsa4q9c.html",
+     "time": "2018-12-09T16:03:39.000Z"
     }
    ]
   },
@@ -4191,6 +5652,13 @@
      "sort": 209,
      "title": "死灵之村",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxNzc2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 209,
+     "title": "死灵村",
+     "url": "http://www.iqiyi.com/v_19rqsa4oq4.html",
+     "time": "2018-12-09T16:03:49.000Z"
     }
    ]
   },
@@ -4211,6 +5679,13 @@
      "sort": 210,
      "title": "盗贼王巴库拉的死期",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxMTE2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 210,
+     "title": "盗贼王貘良了的死期",
+     "url": "http://www.iqiyi.com/v_19rqsa4rss.html",
+     "time": "2018-12-09T16:00:23.000Z"
     }
    ]
   },
@@ -4231,6 +5706,13 @@
      "sort": 211,
      "title": "崭新的舞台",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxMTQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 211,
+     "title": "崭新的舞台",
+     "url": "http://www.iqiyi.com/v_19rqsa4od8.html",
+     "time": "2018-12-09T16:03:57.000Z"
     }
    ]
   },
@@ -4251,6 +5733,13 @@
      "sort": 212,
      "title": "暗之大神官",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxMjA0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 212,
+     "title": "黑暗大神官",
+     "url": "http://www.iqiyi.com/v_19rqsa4oes.html",
+     "time": "2018-12-09T16:03:49.000Z"
     }
    ]
   },
@@ -4271,6 +5760,13 @@
      "sort": 213,
      "title": "邪神复活的倒计时",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxMjA4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 213,
+     "title": "邪神复活倒数计时",
+     "url": "http://www.iqiyi.com/v_19rqsa4oko.html",
+     "time": "2018-12-09T16:03:57.000Z"
     }
    ]
   },
@@ -4291,6 +5787,13 @@
      "sort": 214,
      "title": "白龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxMjUy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 214,
+     "title": "白龙",
+     "url": "http://www.iqiyi.com/v_19rqsa4o4w.html",
+     "time": "2018-12-09T16:03:49.000Z"
     }
    ]
   },
@@ -4311,6 +5814,13 @@
      "sort": 215,
      "title": "大邪神佐克复活",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxMjYw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 215,
+     "title": "大邪神佐克 复活",
+     "url": "http://www.iqiyi.com/v_19rqsa4ohw.html",
+     "time": "2018-12-09T16:03:49.000Z"
     }
    ]
   },
@@ -4331,6 +5841,13 @@
      "sort": 216,
      "title": "传说的守护神 艾克佐迪亚复活",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxMzc2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 216,
+     "title": "传说的守护神 艾克佐迪亚复活",
+     "url": "http://www.iqiyi.com/v_19rqsa4om8.html",
+     "time": "2018-12-09T16:00:23.000Z"
     }
    ]
   },
@@ -4351,6 +5868,13 @@
      "sort": 217,
      "title": "召唤 三幻神",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxMzQ0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 217,
+     "title": "召唤三幻神",
+     "url": "http://www.iqiyi.com/v_19rqsa4o2s.html",
+     "time": "2018-12-09T16:03:49.000Z"
     }
    ]
   },
@@ -4371,6 +5895,13 @@
      "sort": 218,
      "title": "佐克VS青眼究极龙",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxMzk2.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 218,
+     "title": "佐克VS青眼究极龙",
+     "url": "http://www.iqiyi.com/v_19rqsa4nr0.html",
+     "time": "2018-12-10T02:53:30.000Z"
     }
    ]
   },
@@ -4391,6 +5922,13 @@
      "sort": 219,
      "title": "以王之名",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxNDYw.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 219,
+     "title": "在王的名下",
+     "url": "http://www.iqiyi.com/v_19rqsa4nlg.html",
+     "time": "2018-12-09T16:03:39.000Z"
     }
    ]
   },
@@ -4411,6 +5949,13 @@
      "sort": 220,
      "title": "最后的考验",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxNDUy.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 220,
+     "title": "最后的试炼",
+     "url": "http://www.iqiyi.com/v_19rqsa4nyg.html",
+     "time": "2018-12-09T16:03:39.000Z"
     }
    ]
   },
@@ -4431,6 +5976,13 @@
      "sort": 221,
      "title": "命运的最终决斗",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxNTQ4.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 221,
+     "title": "命运的最后决斗",
+     "url": "http://www.iqiyi.com/v_19rqsa4los.html",
+     "time": "2018-12-09T16:03:57.000Z"
     }
    ]
   },
@@ -4451,6 +6003,13 @@
      "sort": 222,
      "title": "打倒三幻神",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxNTI0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 222,
+     "title": "打倒三幻神",
+     "url": "http://www.iqiyi.com/v_19rqsa4o00.html",
+     "time": "2018-12-09T16:03:49.000Z"
     }
    ]
   },
@@ -4471,6 +6030,13 @@
      "sort": 223,
      "title": "坚强的心 温柔的心",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxNjky.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 223,
+     "title": "强悍的心 温柔的心",
+     "url": "http://www.iqiyi.com/v_19rqsa4nm4.html",
+     "time": "2018-12-09T16:03:39.000Z"
     }
    ]
   },
@@ -4491,6 +6057,13 @@
      "sort": 224,
      "title": "在光中完结的物语",
      "url": "https://v.youku.com/v_show/id_XNDk5ODgxODA0.html?s=cc0083ba962411de83b1"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 224,
+     "title": "在光中完结的物语",
+     "url": "http://www.iqiyi.com/v_1lsznke4ugc.html",
+     "time": "2022-03-01T02:55:58.000Z"
     }
    ]
   }
