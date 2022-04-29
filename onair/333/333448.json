@@ -1,0 +1,27 @@
+{
+ "id": "333448",
+ "name": "骸骨騎士様、只今異世界へお出掛け中",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28237131",
+   "sort": 4
+  }
+ ],
+ "eps": [
+  {
+   "id": 1087768,
+   "sort": 1,
+   "name": "流浪の騎士, 世直し旅にて候ふ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "流浪骑士踏上替天行道之旅",
+     "url": "https://www.bilibili.com/bangumi/play/ep508398",
+     "time": "2022-04-28T15:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
