@@ -1,0 +1,27 @@
+{
+ "id": "329906",
+ "name": "SPY×FAMILY",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28237119",
+   "sort": 7
+  }
+ ],
+ "eps": [
+  {
+   "id": 1088220,
+   "sort": 1,
+   "name": "オペレーション〈梟（ストリクス）〉",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "任务1 <枭>行动",
+     "url": "https://www.bilibili.com/bangumi/play/ep508404",
+     "time": "2022-04-30T13:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
