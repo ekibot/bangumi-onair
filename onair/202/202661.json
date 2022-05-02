@@ -7,7 +7,7 @@
    "id": "a_19rrh9f0tx",
    "week": 7,
    "time": "1730",
-   "sort": 237
+   "sort": 238
   },
   {
    "site": "youku",
@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 254
+   "sort": 255
   }
  ],
  "eps": [
@@ -6179,6 +6179,27 @@
      "title": "移动要塞",
      "url": "http://www.iqiyi.com/v_x0moavmi1c.html",
      "time": "2022-04-24T09:30:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1075825,
+   "sort": 238,
+   "name": "殺人鬼の船",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 238,
+     "title": "杀人狂之船",
+     "url": "http://www.iqiyi.com/v_1vyyr6s6msw.html",
+     "time": "2022-05-01T09:30:10.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 238,
+     "title": "杀人狂之船",
+     "url": "https://www.bilibili.com/bangumi/play/ep476192",
+     "time": "2022-05-01T09:30:01.000Z"
     }
    ]
   }
