@@ -1,0 +1,83 @@
+{
+ "id": "317042",
+ "name": "理系が恋に落ちたので証明してみた。r=1-sinθ",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28235419",
+   "sort": 28
+  }
+ ],
+ "eps": [
+  {
+   "id": 1088341,
+   "sort": 1,
+   "name": "理系が恋に落ちたのでカップルと比較してみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "理科生坠入情网，故尝试与情侣进行对比。",
+     "url": "https://www.bilibili.com/bangumi/play/ep477101",
+     "time": "2022-04-01T11:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088342,
+   "sort": 2,
+   "name": "理系が恋に落ちたので新しい理論を探してみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "理科生坠入情网，故尝试寻找新的理论。",
+     "url": "https://www.bilibili.com/bangumi/play/ep477103",
+     "time": "2022-04-08T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088343,
+   "sort": 3,
+   "name": "理系が恋に落ちたので昼寝してみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "理科生坠入情网，故尝试睡午觉。",
+     "url": "https://www.bilibili.com/bangumi/play/ep477104",
+     "time": "2022-04-15T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088344,
+   "sort": 4,
+   "name": "理系が恋に落ちたのでライブに行ってみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "理科生坠入情网，故尝试去看演唱会。",
+     "url": "https://www.bilibili.com/bangumi/play/ep477105",
+     "time": "2022-04-22T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088345,
+   "sort": 5,
+   "name": "理系が恋に落ちたので好きの証拠を分析してみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "理科生坠入情网，故尝试分析喜欢的证据。",
+     "url": "https://www.bilibili.com/bangumi/play/ep477106",
+     "time": "2022-04-29T16:30:01.000Z"
+    }
+   ]
+  }
+ ]
+}
