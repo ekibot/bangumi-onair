@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237131",
-   "sort": 4
+   "sort": 5
   }
  ],
  "eps": [
@@ -20,6 +20,20 @@
      "title": "流浪骑士踏上替天行道之旅",
      "url": "https://www.bilibili.com/bangumi/play/ep508398",
      "time": "2022-04-28T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1087769,
+   "sort": 2,
+   "name": "初仕事、少女の願いと忍び寄る影",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "初次任务，少女的心愿及逼近的黑影",
+     "url": "https://www.bilibili.com/bangumi/play/ep508399",
+     "time": "2022-05-05T15:00:01.000Z"
     }
    ]
   }
