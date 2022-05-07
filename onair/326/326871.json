@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237215",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -76,6 +76,20 @@
      "title": "道别",
      "url": "https://www.bilibili.com/bangumi/play/ep480422",
      "time": "2022-04-29T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088309,
+   "sort": 6,
+   "name": "回帰:記憶・魂・精神",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "【回归:记忆·灵魂·精神】",
+     "url": "https://www.bilibili.com/bangumi/play/ep480423",
+     "time": "2022-05-06T16:30:01.000Z"
     }
    ]
   }

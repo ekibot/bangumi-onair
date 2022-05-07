@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235419",
-   "sort": 28
+   "sort": 30
   }
  ],
  "eps": [
@@ -76,6 +76,20 @@
      "title": "理科生坠入情网，故尝试分析喜欢的证据。",
      "url": "https://www.bilibili.com/bangumi/play/ep477106",
      "time": "2022-04-29T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088346,
+   "sort": 6,
+   "name": "理系が恋に落ちたので証明を終了してみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "理科生坠入情网，故尝试结束证明。",
+     "url": "https://www.bilibili.com/bangumi/play/ep477107",
+     "time": "2022-05-06T16:30:01.000Z"
     }
    ]
   }
