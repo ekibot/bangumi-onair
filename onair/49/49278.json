@@ -16,6 +16,11 @@
    "site": "youku",
    "id": "28326c66ff2b11e28b3f",
    "sort": 12
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh92469",
+   "sort": 12
   }
  ],
  "eps": [
@@ -42,6 +47,13 @@
      "sort": 1,
      "title": "第01话 赤红",
      "url": "https://v.youku.com/v_show/id_XNjE2NTI2NjI0.html?s=28326c66ff2b11e28b3f"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "胭脂红",
+     "url": "http://www.iqiyi.com/v_19rr9qynas.html",
+     "time": "2016-12-31T16:02:28.000Z"
     }
    ]
   },
@@ -68,6 +80,13 @@
      "sort": 2,
      "title": "第02话 群青",
      "url": "https://v.youku.com/v_show/id_XNjE5NDg0NTY0.html?s=28326c66ff2b11e28b3f"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "群青",
+     "url": "http://www.iqiyi.com/v_19rr9qyd0s.html",
+     "time": "2016-12-31T16:02:34.000Z"
     }
    ]
   },
@@ -94,6 +113,13 @@
      "sort": 3,
      "title": "第03话 紫之月光",
      "url": "https://v.youku.com/v_show/id_XNjIyNDk0OTc2.html?s=28326c66ff2b11e28b3f"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "月光紫",
+     "url": "http://www.iqiyi.com/v_19rr9qycek.html",
+     "time": "2016-12-31T16:02:27.000Z"
     }
    ]
   },
@@ -120,6 +146,13 @@
      "sort": 4,
      "title": "第04话 橙",
      "url": "https://v.youku.com/v_show/id_XNjI1NDgxMzky.html?s=28326c66ff2b11e28b3f"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "橙",
+     "url": "http://www.iqiyi.com/v_19rr9qyey4.html",
+     "time": "2016-12-31T16:02:28.000Z"
     }
    ]
   },
@@ -146,6 +179,13 @@
      "sort": 5,
      "title": "第05话 萌黄之灯",
      "url": "https://v.youku.com/v_show/id_XNjI4NDY2NTY4.html?s=28326c66ff2b11e28b3f"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "萌黄之灯",
+     "url": "http://www.iqiyi.com/v_19rr9qyf2g.html",
+     "time": "2016-12-31T16:02:30.000Z"
     }
    ]
   },
@@ -172,6 +212,13 @@
      "sort": 6,
      "title": "第06话 惊爆粉红",
      "url": "https://v.youku.com/v_show/id_XNjMxNTE3MDI0.html?s=28326c66ff2b11e28b3f"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "惊爆粉红",
+     "url": "http://www.iqiyi.com/v_19rr9qyeps.html",
+     "time": "2016-12-31T16:02:34.000Z"
     }
    ]
   },
@@ -198,6 +245,13 @@
      "sort": 7,
      "title": "第07话 云色",
      "url": "https://v.youku.com/v_show/id_XNjM0NTA3MjAw.html?s=28326c66ff2b11e28b3f"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "阴色",
+     "url": "http://www.iqiyi.com/v_19rr9qyel4.html",
+     "time": "2016-12-31T16:02:34.000Z"
     }
    ]
   },
@@ -224,6 +278,13 @@
      "sort": 8,
      "title": "第08话 凪黄金",
      "url": "https://v.youku.com/v_show/id_XNjM3NTMxMDUy.html?s=28326c66ff2b11e28b3f"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "凪黄金",
+     "url": "http://www.iqiyi.com/v_19rr9qyepg.html",
+     "time": "2016-12-31T16:02:28.000Z"
     }
    ]
   },
@@ -250,6 +311,13 @@
      "sort": 9,
      "title": "第09话 银竹",
      "url": "https://v.youku.com/v_show/id_XNjQwNzQ0OTUy.html?s=28326c66ff2b11e28b3f"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "银竹",
+     "url": "http://www.iqiyi.com/v_19rr9qyebw.html",
+     "time": "2016-12-31T16:02:34.000Z"
     }
    ]
   },
@@ -276,6 +344,13 @@
      "sort": 10,
      "title": "第10话 白之世界",
      "url": "https://v.youku.com/v_show/id_XNjQzOTE2MzYw.html?s=28326c66ff2b11e28b3f"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "白色的世界",
+     "url": "http://www.iqiyi.com/v_19rr9qye6c.html",
+     "time": "2016-12-31T16:02:34.000Z"
     }
    ]
   },
@@ -302,6 +377,13 @@
      "sort": 11,
      "title": "第11话 黑之世界",
      "url": "https://v.youku.com/v_show/id_XNjQ3MDYzMjIw.html?s=28326c66ff2b11e28b3f"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "黑色的世界",
+     "url": "http://www.iqiyi.com/v_19rr9qyhv4.html",
+     "time": "2016-12-31T16:02:32.000Z"
     }
    ]
   },
@@ -328,6 +410,13 @@
      "sort": 12,
      "title": "第12话 灰色的世界",
      "url": "https://v.youku.com/v_show/id_XNjUwMDk5NzM2.html?s=28326c66ff2b11e28b3f"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "灰色的世界",
+     "url": "http://www.iqiyi.com/v_19rr9qyhkc.html",
+     "time": "2016-12-31T16:02:34.000Z"
     }
    ]
   }

@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237119",
-   "sort": 7
+   "sort": 8
   }
  ],
  "eps": [
@@ -20,6 +20,20 @@
      "title": "任务1 <枭>行动",
      "url": "https://www.bilibili.com/bangumi/play/ep508404",
      "time": "2022-04-30T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088221,
+   "sort": 2,
+   "name": "妻役を確保せよ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 2,
+     "title": "任务2 寻找妻子",
+     "url": "https://www.bilibili.com/bangumi/play/ep508405",
+     "time": "2022-05-07T13:00:00.000Z"
     }
    ]
   }
