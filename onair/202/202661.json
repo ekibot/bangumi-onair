@@ -7,7 +7,7 @@
    "id": "a_19rrh9f0tx",
    "week": 7,
    "time": "1730",
-   "sort": 238
+   "sort": 239
   },
   {
    "site": "youku",
@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 255
+   "sort": 256
   }
  ],
  "eps": [
@@ -6200,6 +6200,27 @@
      "title": "杀人狂之船",
      "url": "https://www.bilibili.com/bangumi/play/ep476192",
      "time": "2022-05-01T09:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1075826,
+   "sort": 239,
+   "name": "造船の島の少年",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 239,
+     "title": "造船岛的少年",
+     "url": "http://www.iqiyi.com/v_xbqfzwn3sg.html",
+     "time": "2022-05-08T09:30:08.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 239,
+     "title": "造船岛的少年",
+     "url": "https://www.bilibili.com/bangumi/play/ep480433",
+     "time": "2022-05-08T09:30:01.000Z"
     }
    ]
   }
