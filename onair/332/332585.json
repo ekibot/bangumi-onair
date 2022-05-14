@@ -1,0 +1,27 @@
+{
+ "id": "332585",
+ "name": "ダンス・ダンス・ダンスール",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28237242",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1089297,
+   "sort": 1,
+   "name": "やるわけねーだろ、バレエなんて！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "芭蕾舞这东西 怎么可能学啊！",
+     "url": "https://www.bilibili.com/bangumi/play/ep510676",
+     "time": "2022-05-13T18:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}

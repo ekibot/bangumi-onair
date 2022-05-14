@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 71
+   "sort": 72
   },
   {
    "site": "youku",
@@ -17,7 +17,7 @@
   {
    "site": "iqiyi",
    "id": "a_18481af6vfd",
-   "sort": 69,
+   "sort": 70,
    "week": 6,
    "time": "0930"
   }
@@ -1547,6 +1547,27 @@
      "title": "爱与爱的激烈碰撞",
      "url": "http://www.iqiyi.com/v_jmy8cb0tnw.html",
      "time": "2022-05-07T01:30:06.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1069127,
+   "sort": 70,
+   "name": "勝利か消滅か",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 70,
+     "title": "胜利还是死亡",
+     "url": "https://www.bilibili.com/bangumi/play/ep341402",
+     "time": "2022-05-14T01:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 70,
+     "title": "胜利还是死亡",
+     "url": "http://www.iqiyi.com/v_145q3c81824.html",
+     "time": "2022-05-14T01:30:07.000Z"
     }
    ]
   }

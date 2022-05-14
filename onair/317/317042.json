@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235419",
-   "sort": 30
+   "sort": 31
   }
  ],
  "eps": [
@@ -89,7 +89,21 @@
      "sort": 6,
      "title": "理科生坠入情网，故尝试结束证明。",
      "url": "https://www.bilibili.com/bangumi/play/ep477107",
-     "time": "2022-05-06T16:30:01.000Z"
+     "time": "2022-05-06T16:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088347,
+   "sort": 7,
+   "name": "理系が恋に落ちたので集団デートしてみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "理科生坠入情网，故尝试集体约会。",
+     "url": "https://www.bilibili.com/bangumi/play/ep510567",
+     "time": "2022-05-13T16:30:01.000Z"
     }
    ]
   }
