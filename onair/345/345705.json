@@ -1,0 +1,27 @@
+{
+ "id": "345705",
+ "name": "ラブオールプレー",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28237244",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1088268,
+   "sort": 1,
+   "name": "順風",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "顺风",
+     "url": "https://www.bilibili.com/bangumi/play/ep510680",
+     "time": "2022-05-14T10:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
