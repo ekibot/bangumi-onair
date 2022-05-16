@@ -7,7 +7,7 @@
    "id": "28237300",
    "week": 7,
    "time": "2100",
-   "sort": 11
+   "sort": 12
   }
  ],
  "eps": [
@@ -92,6 +92,20 @@
      "title": "我还是第一次参加校庆",
      "url": "https://www.bilibili.com/bangumi/play/ep478917",
      "time": "2022-05-08T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088527,
+   "sort": 7,
+   "name": "同じイケメン嫌い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "同为讨厌帅哥之人",
+     "url": "https://www.bilibili.com/bangumi/play/ep478918",
+     "time": "2022-05-15T13:00:01.000Z"
     }
    ]
   }
