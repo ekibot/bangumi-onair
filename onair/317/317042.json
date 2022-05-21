@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235419",
-   "sort": 31
+   "sort": 32
   }
  ],
  "eps": [
@@ -104,6 +104,20 @@
      "title": "理科生坠入情网，故尝试集体约会。",
      "url": "https://www.bilibili.com/bangumi/play/ep510567",
      "time": "2022-05-13T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088348,
+   "sort": 8,
+   "name": "理系が恋に落ちたので後輩に告白してみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "理科生坠入情网，故尝试向后辈告白。",
+     "url": "https://www.bilibili.com/bangumi/play/ep510568",
+     "time": "2022-05-20T16:30:01.000Z"
     }
    ]
   }
