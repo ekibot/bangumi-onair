@@ -11,6 +11,11 @@
    "site": "qq",
    "id": "2/265gqmwqjxonie9",
    "sort": 27
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrgjao0x",
+   "sort": 26
   }
  ],
  "eps": [
@@ -31,6 +36,13 @@
      "sort": 1,
      "title": "来自风平浪静的明天_01",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/w0033kjmqwo.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "来自风平浪静的明天 第1集",
+     "url": "http://www.iqiyi.com/v_19rrh9ut7c.html",
+     "time": "2013-10-03T15:52:55.000Z"
     }
    ]
   },
@@ -51,6 +63,13 @@
      "sort": 2,
      "title": "来自风平浪静的明天_02",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/s0033bxxumq.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "来自风平浪静的明天 第2集",
+     "url": "http://www.iqiyi.com/v_19rrh91r5o.html",
+     "time": "2013-10-10T15:07:23.000Z"
     }
    ]
   },
@@ -71,6 +90,13 @@
      "sort": 3,
      "title": "来自风平浪静的明天_03",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/n0033zkhjuj.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "来自风平浪静的明天 第3集",
+     "url": "http://www.iqiyi.com/v_19rrh8fvq4.html",
+     "time": "2013-10-17T14:50:18.000Z"
     }
    ]
   },
@@ -91,6 +117,13 @@
      "sort": 4,
      "title": "来自风平浪静的明天_04",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/s0033ya5p8r.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "来自风平浪静的明天 第4集",
+     "url": "http://www.iqiyi.com/v_19rrh7racw.html",
+     "time": "2013-10-24T15:22:29.000Z"
     }
    ]
   },
@@ -111,6 +144,13 @@
      "sort": 5,
      "title": "来自风平浪静的明天_05",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/u0033xu73gh.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "来自风平浪静的明天 第5集",
+     "url": "http://www.iqiyi.com/v_19rrh78wsg.html",
+     "time": "2013-10-31T22:02:51.000Z"
     }
    ]
   },
@@ -131,6 +171,13 @@
      "sort": 6,
      "title": "来自风平浪静的明天_06",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/t0033aglevk.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "来自风平浪静的明天 第6集",
+     "url": "http://www.iqiyi.com/v_19rrhgmnzg.html",
+     "time": "2013-11-07T16:00:07.000Z"
     }
    ]
   },
@@ -151,6 +198,13 @@
      "sort": 7,
      "title": "来自风平浪静的明天_07",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/s0033ggr4z5.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "来自风平浪静的明天 第7集",
+     "url": "http://www.iqiyi.com/v_19rrhg2bsk.html",
+     "time": "2013-11-14T16:00:10.000Z"
     }
    ]
   },
@@ -171,6 +225,13 @@
      "sort": 8,
      "title": "来自风平浪静的明天_08",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/v0033yag1ye.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "来自风平浪静的明天 第8集",
+     "url": "http://www.iqiyi.com/v_19rrhfhkh0.html",
+     "time": "2013-11-21T16:00:07.000Z"
     }
    ]
   },
@@ -191,6 +252,13 @@
      "sort": 9,
      "title": "来自风平浪静的明天_09",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/f00331jd0lt.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "来自风平浪静的明天 第9集",
+     "url": "http://www.iqiyi.com/v_19rrhey4fc.html",
+     "time": "2013-11-28T16:00:10.000Z"
     }
    ]
   },
@@ -211,6 +279,13 @@
      "sort": 10,
      "title": "来自风平浪静的明天_10",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/k0033mfcz0g.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "来自风平浪静的明天 第10集",
+     "url": "http://www.iqiyi.com/v_19rrheecag.html",
+     "time": "2013-12-05T16:00:03.000Z"
     }
    ]
   },
@@ -231,6 +306,13 @@
      "sort": 11,
      "title": "来自风平浪静的明天_11",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/v0033bsw0n4.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "来自风平浪静的明天 第11集",
+     "url": "http://www.iqiyi.com/v_19rrhduon0.html",
+     "time": "2013-12-12T16:00:10.000Z"
     }
    ]
   },
@@ -251,6 +333,13 @@
      "sort": 12,
      "title": "来自风平浪静的明天_12",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/z0033tncn97.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "来自风平浪静的明天 第12集",
+     "url": "http://www.iqiyi.com/v_19rrhdd33s.html",
+     "time": "2013-12-19T16:00:07.000Z"
     }
    ]
   },
@@ -271,6 +360,13 @@
      "sort": 13,
      "title": "来自风平浪静的明天_13",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/z0033qbobyn.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 13,
+     "title": "来自风平浪静的明天 第13集",
+     "url": "http://www.iqiyi.com/v_19rrh1mm58.html",
+     "time": "2013-12-26T16:00:07.000Z"
     }
    ]
   },
@@ -291,6 +387,13 @@
      "sort": 14,
      "title": "来自风平浪静的明天_14",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/t003312soow.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 14,
+     "title": "来自风平浪静的明天 第14集",
+     "url": "http://www.iqiyi.com/v_19rrh0g7zg.html",
+     "time": "2014-01-09T16:00:13.000Z"
     }
    ]
   },
@@ -311,6 +414,13 @@
      "sort": 15,
      "title": "来自风平浪静的明天_15",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/y0033cdugy1.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 15,
+     "title": "来自风平浪静的明天 第15集",
+     "url": "http://www.iqiyi.com/v_19rrgzy91w.html",
+     "time": "2014-01-16T16:00:19.000Z"
     }
    ]
   },
@@ -331,6 +441,13 @@
      "sort": 16,
      "title": "来自风平浪静的明天_16",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/e0033rb2bh2.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 16,
+     "title": "来自风平浪静的明天 第16集",
+     "url": "http://www.iqiyi.com/v_19rrgzgcx8.html",
+     "time": "2014-01-23T16:00:22.000Z"
     }
    ]
   },
@@ -351,6 +468,13 @@
      "sort": 17,
      "title": "来自风平浪静的明天_17",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/u0033mppz5z.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 17,
+     "title": "来自风平浪静的明天 第17集",
+     "url": "http://www.iqiyi.com/v_19rrgyrcls.html",
+     "time": "2014-01-30T16:00:35.000Z"
     }
    ]
   },
@@ -371,6 +495,13 @@
      "sort": 18,
      "title": "来自风平浪静的明天_18",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/k0033kg40r2.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 18,
+     "title": "来自风平浪静的明天 第18集",
+     "url": "http://www.iqiyi.com/v_19rrgyuynk.html",
+     "time": "2014-02-06T16:00:35.000Z"
     }
    ]
   },
@@ -391,6 +522,13 @@
      "sort": 19,
      "title": "来自风平浪静的明天_19",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/f0033j575b9.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 19,
+     "title": "来自风平浪静的明天 第19集",
+     "url": "http://www.iqiyi.com/v_19rrgy8v6w.html",
+     "time": "2014-02-13T16:00:24.000Z"
     }
    ]
   },
@@ -411,6 +549,13 @@
      "sort": 20,
      "title": "来自风平浪静的明天_20",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/v0033ojyvg8.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 20,
+     "title": "来自风平浪静的明天 第20集",
+     "url": "http://www.iqiyi.com/v_19rrgxnynk.html",
+     "time": "2014-02-20T16:00:15.000Z"
     }
    ]
   },
@@ -431,6 +576,13 @@
      "sort": 21,
      "title": "来自风平浪静的明天_21",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/z0033otadzo.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 21,
+     "title": "来自风平浪静的明天 第21集",
+     "url": "http://www.iqiyi.com/v_19rrh71ap8.html",
+     "time": "2014-02-27T16:00:03.000Z"
     }
    ]
   },
@@ -451,6 +603,13 @@
      "sort": 22,
      "title": "来自风平浪静的明天_22",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/p0033wnft6h.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 22,
+     "title": "来自风平浪静的明天 第22集",
+     "url": "http://www.iqiyi.com/v_19rrh6ht3s.html",
+     "time": "2014-03-06T16:00:15.000Z"
     }
    ]
   },
@@ -471,6 +630,13 @@
      "sort": 23,
      "title": "来自风平浪静的明天_23",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/x0033wd6emb.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 23,
+     "title": "来自风平浪静的明天 第23集",
+     "url": "http://www.iqiyi.com/v_19rrh4naxw.html",
+     "time": "2014-03-13T16:00:33.000Z"
     }
    ]
   },
@@ -491,6 +657,13 @@
      "sort": 24,
      "title": "来自风平浪静的明天_24",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/k0033fpk7fz.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 24,
+     "title": "来自风平浪静的明天 第24集",
+     "url": "http://www.iqiyi.com/v_19rrh452mw.html",
+     "time": "2014-03-20T16:00:28.000Z"
     }
    ]
   },
@@ -511,6 +684,13 @@
      "sort": 25,
      "title": "来自风平浪静的明天_25",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/p00333tiih7.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 25,
+     "title": "来自风平浪静的明天 第25集",
+     "url": "http://www.iqiyi.com/v_19rrh3iln4.html",
+     "time": "2014-03-27T16:00:14.000Z"
     }
    ]
   },
@@ -531,6 +711,13 @@
      "sort": 26,
      "title": "来自风平浪静的明天_26",
      "url": "https://v.qq.com/x/cover/265gqmwqjxonie9/a0033jp5yej.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 26,
+     "title": "来自风平浪静的明天 第26集",
+     "url": "http://www.iqiyi.com/v_19rrh39lec.html",
+     "time": "2014-04-03T16:00:07.000Z"
     }
    ]
   }
