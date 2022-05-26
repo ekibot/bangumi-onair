@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237267",
-   "sort": 15
+   "sort": 20
   }
  ],
  "eps": [
@@ -89,7 +89,35 @@
      "sort": 6,
      "title": "献给死神的旋律!?朋友嘛！大家和睦相处！",
      "url": "https://www.bilibili.com/bangumi/play/ep508412",
-     "time": "2022-05-11T13:30:01.000Z"
+     "time": "2022-05-11T13:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088417,
+   "sort": 7,
+   "name": "ドアドアドア! 扉を開けたら、ふぁー♡ 夏休みへGOです!",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "门门门！开门一看，哇♡ 向着暑假前进！",
+     "url": "https://www.bilibili.com/bangumi/play/ep512702",
+     "time": "2022-05-25T13:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088418,
+   "sort": 8,
+   "name": "ほえ!?　占いで運命の部屋、 見つかりますか!?",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "什么!? 占卜能算出命中注定的房子吗!?",
+     "url": "https://www.bilibili.com/bangumi/play/ep512703",
+     "time": "2022-05-25T13:30:01.000Z"
     }
    ]
   }
