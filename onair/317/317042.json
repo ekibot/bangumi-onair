@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235419",
-   "sort": 40
+   "sort": 41
   }
  ],
  "eps": [
@@ -118,6 +118,20 @@
      "title": "理科生坠入情网，故尝试向后辈告白。",
      "url": "https://www.bilibili.com/bangumi/play/ep510568",
      "time": "2022-05-20T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088349,
+   "sort": 9,
+   "name": "理系が恋に落ちたので学園祭の準備をしてみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "理科生坠入情网，故尝试准备校庆。",
+     "url": "https://www.bilibili.com/bangumi/play/ep510569",
+     "time": "2022-05-27T16:30:01.000Z"
     }
    ]
   }
