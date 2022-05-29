@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237244",
-   "sort": 3
+   "sort": 4
   }
  ],
  "eps": [
@@ -34,6 +34,20 @@
      "title": "启程",
      "url": "https://www.bilibili.com/bangumi/play/ep510681",
      "time": "2022-05-21T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088270,
+   "sort": 3,
+   "name": "入学",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "入学",
+     "url": "https://www.bilibili.com/bangumi/play/ep510682",
+     "time": "2022-05-28T10:00:01.000Z"
     }
    ]
   }
