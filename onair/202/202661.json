@@ -7,7 +7,7 @@
    "id": "a_19rrh9f0tx",
    "week": 7,
    "time": "1730",
-   "sort": 241
+   "sort": 242
   },
   {
    "site": "youku",
@@ -21,7 +21,7 @@
    "id": "5978",
    "week": 7,
    "time": "1730",
-   "sort": 258
+   "sort": 259
   }
  ],
  "eps": [
@@ -6263,6 +6263,27 @@
      "title": "阿筏的秘密",
      "url": "https://www.bilibili.com/bangumi/play/ep480435",
      "time": "2022-05-22T09:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1075829,
+   "sort": 242,
+   "name": "青煉",
+   "sites": [
+    {
+     "site": "iqiyi",
+     "sort": 242,
+     "title": "青炼",
+     "url": "http://www.iqiyi.com/v_1s1j9xiugpw.html",
+     "time": "2022-05-29T09:30:06.000Z"
+    },
+    {
+     "site": "bilibili",
+     "sort": 242,
+     "title": "青炼",
+     "url": "https://www.bilibili.com/bangumi/play/ep513609",
+     "time": "2022-05-29T09:30:01.000Z"
     }
    ]
   }
