@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237131",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -76,6 +76,20 @@
      "title": "坦白的秘密和结下的情谊",
      "url": "https://www.bilibili.com/bangumi/play/ep511495",
      "time": "2022-05-26T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1087773,
+   "sort": 6,
+   "name": "エルフの里で触れる異世界の深淵",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "于精灵村落里触及异世界的深渊",
+     "url": "https://www.bilibili.com/bangumi/play/ep511496",
+     "time": "2022-06-02T15:00:01.000Z"
     }
    ]
   }
