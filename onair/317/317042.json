@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235419",
-   "sort": 41
+   "sort": 42
   }
  ],
  "eps": [
@@ -132,6 +132,20 @@
      "title": "理科生坠入情网，故尝试准备校庆。",
      "url": "https://www.bilibili.com/bangumi/play/ep510569",
      "time": "2022-05-27T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088350,
+   "sort": 10,
+   "name": "理系が恋に落ちたので学園祭してみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "理科生坠入情网，故尝试参与校庆。",
+     "url": "https://www.bilibili.com/bangumi/play/ep514109",
+     "time": "2022-06-03T16:30:01.000Z"
     }
    ]
   }
