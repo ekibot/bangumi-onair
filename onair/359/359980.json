@@ -7,7 +7,7 @@
    "id": "28237300",
    "week": 7,
    "time": "2100",
-   "sort": 14
+   "sort": 15
   }
  ],
  "eps": [
@@ -134,6 +134,20 @@
      "title": "因为是好利用的女生",
      "url": "https://www.bilibili.com/bangumi/play/ep478920",
      "time": "2022-05-29T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088530,
+   "sort": 10,
+   "name": "エセ貴族とは違って",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "和假贵族不一样",
+     "url": "https://www.bilibili.com/bangumi/play/ep478921",
+     "time": "2022-06-05T13:00:01.000Z"
     }
    ]
   }
