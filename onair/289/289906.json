@@ -7,7 +7,7 @@
    "id": "28237122",
    "week": 3,
    "time": "2100",
-   "sort": 36
+   "sort": 37
   }
  ],
  "eps": [
@@ -133,7 +133,21 @@
      "sort": 9,
      "title": "哼唱菲莉鸟",
      "url": "https://www.bilibili.com/bangumi/play/ep510500",
-     "time": "2022-06-01T13:00:01.000Z"
+     "time": "2022-06-01T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1089235,
+   "sort": 10,
+   "name": "刀の勇者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "刀之勇者",
+     "url": "https://www.bilibili.com/bangumi/play/ep515118",
+     "time": "2022-06-08T13:00:01.000Z"
     }
    ]
   }
