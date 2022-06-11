@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237215",
-   "sort": 24
+   "sort": 25
   }
  ],
  "eps": [
@@ -146,6 +146,20 @@
      "title": "迷途者的女儿",
      "url": "https://www.bilibili.com/bangumi/play/ep514578",
      "time": "2022-06-03T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088314,
+   "sort": 11,
+   "name": "万魔殿（パンデモニウム）",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "万魔殿（Pandemonium）",
+     "url": "https://www.bilibili.com/bangumi/play/ep514579",
+     "time": "2022-06-10T16:30:01.000Z"
     }
    ]
   }

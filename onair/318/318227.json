@@ -7,7 +7,7 @@
    "id": "28235968",
    "week": 6,
    "time": "0155",
-   "sort": 22
+   "sort": 23
   }
  ],
  "eps": [
@@ -301,7 +301,21 @@
      "sort": 21,
      "title": "无法飞翔的小鸟",
      "url": "https://www.bilibili.com/bangumi/play/ep511558",
-     "time": "2022-06-03T17:55:01.000Z"
+     "time": "2022-06-03T17:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1078594,
+   "sort": 22,
+   "name": "Forever Friends",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 22,
+     "title": "友谊永恒",
+     "url": "https://www.bilibili.com/bangumi/play/ep515736",
+     "time": "2022-06-10T17:55:01.000Z"
     }
    ]
   }

@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 75
+   "sort": 76
   },
   {
    "site": "youku",
@@ -17,7 +17,7 @@
   {
    "site": "iqiyi",
    "id": "a_18481af6vfd",
-   "sort": 73,
+   "sort": 74,
    "week": 6,
    "time": "0930"
   }
@@ -1631,6 +1631,27 @@
      "title": "火焰之中的希望",
      "url": "http://www.iqiyi.com/v_22jp98vsw64.html",
      "time": "2022-06-04T01:30:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1069131,
+   "sort": 74,
+   "name": "大勇者の復活",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 74,
+     "title": "大勇者的复活",
+     "url": "https://www.bilibili.com/bangumi/play/ep341406",
+     "time": "2022-06-11T01:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 74,
+     "title": "大勇者的复活",
+     "url": "http://www.iqiyi.com/v_11vjd3mbmek.html",
+     "time": "2022-06-11T01:30:05.000Z"
     }
    ]
   }

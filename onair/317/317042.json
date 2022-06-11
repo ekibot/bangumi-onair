@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28235419",
-   "sort": 42
+   "sort": 43
   }
  ],
  "eps": [
@@ -146,6 +146,20 @@
      "title": "理科生坠入情网，故尝试参与校庆。",
      "url": "https://www.bilibili.com/bangumi/play/ep514109",
      "time": "2022-06-03T16:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088351,
+   "sort": 11,
+   "name": "理系が恋に落ちたので結婚してみた。",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "理科生坠入情网，故尝试结婚。",
+     "url": "https://www.bilibili.com/bangumi/play/ep514110",
+     "time": "2022-06-10T16:30:01.000Z"
     }
    ]
   }
