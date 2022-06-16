@@ -7,7 +7,7 @@
    "id": "28237122",
    "week": 3,
    "time": "2100",
-   "sort": 37
+   "sort": 38
   }
  ],
  "eps": [
@@ -148,6 +148,20 @@
      "title": "刀之勇者",
      "url": "https://www.bilibili.com/bangumi/play/ep515118",
      "time": "2022-06-08T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1089236,
+   "sort": 11,
+   "name": "絆",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "绊",
+     "url": "https://www.bilibili.com/bangumi/play/ep515119",
+     "time": "2022-06-15T13:00:01.000Z"
     }
    ]
   }
