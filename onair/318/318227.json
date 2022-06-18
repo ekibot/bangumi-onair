@@ -7,7 +7,7 @@
    "id": "28235968",
    "week": 6,
    "time": "0155",
-   "sort": 23
+   "sort": 24
   }
  ],
  "eps": [
@@ -316,6 +316,20 @@
      "title": "友谊永恒",
      "url": "https://www.bilibili.com/bangumi/play/ep515736",
      "time": "2022-06-10T17:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1078595,
+   "sort": 23,
+   "name": "最終回",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 23,
+     "title": "最后一集",
+     "url": "https://www.bilibili.com/bangumi/play/ep515737",
+     "time": "2022-06-17T17:55:01.000Z"
     }
    ]
   }

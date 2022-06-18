@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237141",
-   "sort": 32
+   "sort": 36
   }
  ],
  "eps": [
@@ -131,7 +131,35 @@
      "sort": 9,
      "title": "梦魔的诱惑",
      "url": "https://www.bilibili.com/bangumi/play/ep510655",
-     "time": "2022-06-03T13:30:01.000Z"
+     "time": "2022-06-03T13:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088363,
+   "sort": 10,
+   "name": "乙女の時間",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 10,
+     "title": "少女的时间",
+     "url": "https://www.bilibili.com/bangumi/play/ep517268",
+     "time": "2022-06-17T13:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088364,
+   "sort": 11,
+   "name": "過日の罪業",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "往日的罪孽",
+     "url": "https://www.bilibili.com/bangumi/play/ep517269",
+     "time": "2022-06-17T13:30:00.000Z"
     }
    ]
   }
