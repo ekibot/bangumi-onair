@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237244",
-   "sort": 6
+   "sort": 7
   }
  ],
  "eps": [
@@ -76,6 +76,20 @@
      "title": "两人",
      "url": "https://www.bilibili.com/bangumi/play/ep514582",
      "time": "2022-06-11T10:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088273,
+   "sort": 6,
+   "name": "ツインズ",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 6,
+     "title": "双胞胎",
+     "url": "https://www.bilibili.com/bangumi/play/ep514583",
+     "time": "2022-06-18T10:00:01.000Z"
     }
    ]
   }

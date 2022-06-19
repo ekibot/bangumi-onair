@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237119",
-   "sort": 37
+   "sort": 39
   }
  ],
  "eps": [
@@ -118,6 +118,34 @@
      "title": "任务6 交友行动",
      "url": "https://www.bilibili.com/bangumi/play/ep511580",
      "time": "2022-06-04T13:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088226,
+   "sort": 7,
+   "name": "標的の次男",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 7,
+     "title": "任务7 目标的次子",
+     "url": "https://www.bilibili.com/bangumi/play/ep516900",
+     "time": "2022-06-18T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088227,
+   "sort": 8,
+   "name": "対秘密警察偽装作戦",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 8,
+     "title": "任务8 对秘密特工伪装行动",
+     "url": "https://www.bilibili.com/bangumi/play/ep516901",
+     "time": "2022-06-18T13:00:01.000Z"
     }
    ]
   }
