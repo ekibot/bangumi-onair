@@ -7,7 +7,7 @@
    "id": "28237300",
    "week": 7,
    "time": "2100",
-   "sort": 20
+   "sort": 21
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "现在、我可以做到的事",
      "url": "https://www.bilibili.com/bangumi/play/ep478922",
      "time": "2022-06-12T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088532,
+   "sort": 12,
+   "name": "たとえどれだけ、この乙女ゲー世界が厳しくても",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "不论、这个恋爱游戏世界有多不友好",
+     "url": "https://www.bilibili.com/bangumi/play/ep478923",
+     "time": "2022-06-19T13:00:01.000Z"
     }
    ]
   }
