@@ -7,7 +7,7 @@
    "id": "28237122",
    "week": 3,
    "time": "2100",
-   "sort": 39
+   "sort": 40
   }
  ],
  "eps": [
@@ -162,6 +162,20 @@
      "title": "绊",
      "url": "https://www.bilibili.com/bangumi/play/ep515119",
      "time": "2022-06-15T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1089237,
+   "sort": 12,
+   "name": "戦う理由",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 12,
+     "title": "为何战斗",
+     "url": "https://www.bilibili.com/bangumi/play/ep515120",
+     "time": "2022-06-22T13:00:01.000Z"
     }
    ]
   }
