@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237131",
-   "sort": 15
+   "sort": 16
   }
  ],
  "eps": [
@@ -118,6 +118,20 @@
      "title": "并肩战斗！随兽人朋友在暗夜奔袭",
      "url": "https://www.bilibili.com/bangumi/play/ep516905",
      "time": "2022-06-16T15:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1087776,
+   "sort": 9,
+   "name": "揺れ動く王都と乙女の誓い",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 9,
+     "title": "动荡的王都和少女的誓言",
+     "url": "https://www.bilibili.com/bangumi/play/ep516906",
+     "time": "2022-06-23T15:00:01.000Z"
     }
    ]
   }
