@@ -7,7 +7,7 @@
    "id": "28235968",
    "week": 6,
    "time": "0155",
-   "sort": 24
+   "sort": 25
   }
  ],
  "eps": [
@@ -330,6 +330,20 @@
      "title": "最后一集",
      "url": "https://www.bilibili.com/bangumi/play/ep515737",
      "time": "2022-06-17T17:55:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1078596,
+   "sort": 24,
+   "name": "はじまりのおわり",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 24,
+     "title": "起始的终点",
+     "url": "https://www.bilibili.com/bangumi/play/ep515738",
+     "time": "2022-06-24T17:55:01.000Z"
     }
    ]
   }
