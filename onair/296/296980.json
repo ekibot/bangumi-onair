@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 76
+   "sort": 77
   },
   {
    "site": "youku",
@@ -17,7 +17,7 @@
   {
    "site": "iqiyi",
    "id": "a_18481af6vfd",
-   "sort": 74,
+   "sort": 75,
    "week": 6,
    "time": "0930"
   }
@@ -1652,6 +1652,27 @@
      "title": "大勇者的复活",
      "url": "http://www.iqiyi.com/v_11vjd3mbmek.html",
      "time": "2022-06-11T01:30:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1097698,
+   "sort": 75,
+   "name": "破邪の秘法",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 75,
+     "title": "破邪秘法",
+     "url": "https://www.bilibili.com/bangumi/play/ep341407",
+     "time": "2022-07-02T01:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 75,
+     "title": "破邪秘法",
+     "url": "http://www.iqiyi.com/v_13m2jplevks.html",
+     "time": "2022-07-02T01:30:07.000Z"
     }
    ]
   }
