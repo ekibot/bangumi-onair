@@ -11,6 +11,11 @@
    "site": "qq",
    "id": "3/3qpalo6ldy0i4bf",
    "sort": 30
+  },
+  {
+   "site": "iqiyi",
+   "id": "a_19rrh707nd",
+   "sort": 24
   }
  ],
  "eps": [
@@ -31,6 +36,13 @@
      "sort": 1,
      "title": "第01集 第1话 暴风龙维尔德拉",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/z0027jfbo2k.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 1,
+     "title": "暴风龙维鲁德拉",
+     "url": "http://www.iqiyi.com/v_19rr5s9668.html",
+     "time": "2018-10-01T16:25:07.000Z"
     }
    ]
   },
@@ -51,6 +63,13 @@
      "sort": 2,
      "title": "第02集 第2话 与哥布尔们的相遇",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/s0027k5pn9c.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 2,
+     "title": "与哥布林们的相遇",
+     "url": "http://www.iqiyi.com/v_19rr5fzwtg.html",
+     "time": "2018-10-08T16:25:07.000Z"
     }
    ]
   },
@@ -71,6 +90,13 @@
      "sort": 3,
      "title": "第03集 第3话 哥布尔村的战斗",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/n0027usitl3.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 3,
+     "title": "哥布林村的战斗",
+     "url": "http://www.iqiyi.com/v_19rr5vq8mo.html",
+     "time": "2018-10-15T16:25:06.000Z"
     }
    ]
   },
@@ -91,6 +117,13 @@
      "sort": 4,
      "title": "第04集 第4话 在矮人王国",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/r0027iuwa96.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 4,
+     "title": "在矮人王国",
+     "url": "http://www.iqiyi.com/v_19rr6uab10.html",
+     "time": "2018-10-22T16:25:06.000Z"
     }
    ]
   },
@@ -111,6 +144,13 @@
      "sort": 5,
      "title": "第05集 第5话 英雄王盖札•德瓦岗",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/u002898y1hh.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 5,
+     "title": "英雄王加泽尔·多瓦格",
+     "url": "http://www.iqiyi.com/v_19rr31l4io.html",
+     "time": "2018-10-29T16:25:05.000Z"
     }
    ]
   },
@@ -131,6 +171,13 @@
      "sort": 6,
      "title": "第06集 第6话 静",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/l00286qpshr.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 6,
+     "title": "静",
+     "url": "http://www.iqiyi.com/v_19rr3culj8.html",
+     "time": "2018-11-05T16:25:08.000Z"
     }
    ]
   },
@@ -151,6 +198,13 @@
      "sort": 7,
      "title": "第07集 第7话 爆炎支配者",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/g0028esri6u.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 7,
+     "title": "爆炎支配者",
+     "url": "http://www.iqiyi.com/v_19rr3xwzp4.html",
+     "time": "2018-11-12T16:25:06.000Z"
     }
    ]
   },
@@ -171,6 +225,13 @@
      "sort": 8,
      "title": "第08集 第8话 被继承的意志",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/g0028qxlf4j.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 8,
+     "title": "传承的思念",
+     "url": "http://www.iqiyi.com/v_19rr4h0ca8.html",
+     "time": "2018-11-19T16:25:07.000Z"
     }
    ]
   },
@@ -191,6 +252,13 @@
      "sort": 9,
      "title": "第09集 第9话 食人魔的袭击",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/o0028y6sa3q.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 9,
+     "title": "大鬼族的袭击",
+     "url": "http://www.iqiyi.com/v_19rqrqse8g.html",
+     "time": "2018-11-26T16:25:06.000Z"
     }
    ]
   },
@@ -211,6 +279,13 @@
      "sort": 10,
      "title": "第10集 第10话 半兽人君主",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/t00298rhnlg.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 10,
+     "title": "猪头帝",
+     "url": "http://www.iqiyi.com/v_19rqsapo60.html",
+     "time": "2018-12-03T16:25:09.000Z"
     }
    ]
   },
@@ -231,6 +306,13 @@
      "sort": 11,
      "title": "第11集 第11话 戈毕尔参上！",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/o0029k5cbz6.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 11,
+     "title": "加维鲁登场!",
+     "url": "http://www.iqiyi.com/v_19rqsv9gxs.html",
+     "time": "2018-12-10T16:25:10.000Z"
     }
    ]
   },
@@ -251,6 +333,13 @@
      "sort": 12,
      "title": "第12集 第12话 失序",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/w0029xoupx6.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 12,
+     "title": "逐渐偏离的齿轮",
+     "url": "http://www.iqiyi.com/v_19rqsoybtc.html",
+     "time": "2018-12-17T16:25:09.000Z"
     }
    ]
   },
@@ -271,6 +360,13 @@
      "sort": 13,
      "title": "第13集 第13话 激斗",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/e0029o3ys72.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 13,
+     "title": "大激战",
+     "url": "http://www.iqiyi.com/v_19rqt97uig.html",
+     "time": "2018-12-24T16:25:09.000Z"
     }
    ]
   },
@@ -291,6 +387,13 @@
      "sort": 14,
      "title": "第14集 第14话 吞噬万物者",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/u0029k1vivb.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 14,
+     "title": "吞食一切之人",
+     "url": "http://www.iqiyi.com/v_19rqpyvyu4.html",
+     "time": "2019-01-07T16:25:08.000Z"
     }
    ]
   },
@@ -311,6 +414,13 @@
      "sort": 15,
      "title": "第15集 第15话 朱拉森林大同盟",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/v00295pclue.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 15,
+     "title": "鸠拉森林大同盟",
+     "url": "http://www.iqiyi.com/v_19rqqfnl64.html",
+     "time": "2019-01-14T16:25:08.000Z"
     }
    ]
   },
@@ -331,6 +441,13 @@
      "sort": 16,
      "title": "第16集 第16话 魔王蜜莉姆来袭",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/q0029zmb4go.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 16,
+     "title": "魔王米莉姆来袭",
+     "url": "http://www.iqiyi.com/v_19rqw64y5k.html",
+     "time": "2019-01-21T16:25:03.000Z"
     }
    ]
   },
@@ -351,6 +468,13 @@
      "sort": 17,
      "title": "第17集 第17话 集结的人们",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/b00299bmfgq.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 17,
+     "title": "集结的人们",
+     "url": "http://www.iqiyi.com/v_19rqwvscio.html",
+     "time": "2019-01-28T16:25:03.000Z"
     }
    ]
   },
@@ -371,6 +495,13 @@
      "sort": 18,
      "title": "第18集 第18话 悄悄逼近的恶意",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/n0029j6t65v.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 18,
+     "title": "悄悄逼近的恶意",
+     "url": "http://www.iqiyi.com/v_19rqxglu2c.html",
+     "time": "2019-02-04T16:25:04.000Z"
     }
    ]
   },
@@ -391,6 +522,13 @@
      "sort": 19,
      "title": "第19集 第19话 暴风大妖涡",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/s0029sz95ym.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 19,
+     "title": "暴风大妖涡",
+     "url": "http://www.iqiyi.com/v_19rqx4f6os.html",
+     "time": "2019-02-11T16:25:03.000Z"
     }
    ]
   },
@@ -411,6 +549,13 @@
      "sort": 20,
      "title": "第20集 第20话 神乐坂优树",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/q0029cedw38.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 20,
+     "title": "优树·神乐坂",
+     "url": "http://www.iqiyi.com/v_19rqxp8syg.html",
+     "time": "2019-02-18T16:25:06.000Z"
     }
    ]
   },
@@ -431,6 +576,13 @@
      "sort": 21,
      "title": "第21集 第21话 静小姐的学生们",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/e0030lnqelg.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 21,
+     "title": "静小姐的学生们",
+     "url": "http://www.iqiyi.com/v_19rqtssdvk.html",
+     "time": "2019-02-25T16:25:02.000Z"
     }
    ]
   },
@@ -451,6 +603,13 @@
      "sort": 22,
      "title": "第22集 第22话 迷宫攻略",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/t0030olyntb.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 22,
+     "title": "迷宫攻略",
+     "url": "http://www.iqiyi.com/v_19rqubu21c.html",
+     "time": "2019-03-04T16:30:04.000Z"
     }
    ]
   },
@@ -471,6 +630,13 @@
      "sort": 23,
      "title": "第23集 第23话 灵魂的救赎",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/v0030dw9d4p.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 23,
+     "title": "灵魂的救赎",
+     "url": "http://www.iqiyi.com/v_19rqvnrqfw.html",
+     "time": "2019-03-11T16:25:06.000Z"
     }
    ]
   },
@@ -491,6 +657,13 @@
      "sort": 24,
      "title": "第24集 第24话 外传：黑与假面",
      "url": "https://v.qq.com/x/cover/3qpalo6ldy0i4bf/b0030650ztd.html"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 24,
+     "title": "外传 黑与面具",
+     "url": "http://www.iqiyi.com/v_19rshump8o.html",
+     "time": "2019-03-18T16:25:04.000Z"
     }
    ]
   },
