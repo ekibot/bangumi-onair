@@ -1,0 +1,27 @@
+{
+ "id": "303195",
+ "name": "東京ミュウミュウ にゅ～♡",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28338648",
+   "sort": 2
+  }
+ ],
+ "eps": [
+  {
+   "id": 1109246,
+   "sort": 1,
+   "name": "どーなってるの！？　今日から正義の味方だにゃん！",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "怎么回事？！今天开始做正义的伙伴喵！",
+     "url": "https://www.bilibili.com/bangumi/play/ep567947",
+     "time": "2022-07-05T16:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
