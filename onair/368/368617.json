@@ -1,0 +1,29 @@
+{
+ "id": "368617",
+ "name": "黒の召喚士",
+ "sites": [
+  {
+   "site": "bilibili",
+   "id": "28237351",
+   "week": 6,
+   "time": "2100",
+   "sort": 8
+  }
+ ],
+ "eps": [
+  {
+   "id": 1110955,
+   "sort": 1,
+   "name": "記憶を無くした転生者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 1,
+     "title": "失去记忆的转生者",
+     "url": "https://www.bilibili.com/bangumi/play/ep574062",
+     "time": "2022-07-09T13:00:01.000Z"
+    }
+   ]
+  }
+ ]
+}
