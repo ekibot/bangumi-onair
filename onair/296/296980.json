@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 78
+   "sort": 79
   },
   {
    "site": "youku",
@@ -17,7 +17,7 @@
   {
    "site": "iqiyi",
    "id": "a_18481af6vfd",
-   "sort": 76,
+   "sort": 77,
    "week": 6,
    "time": "0930"
   }
@@ -1694,6 +1694,27 @@
      "title": "高歌猛进的正义",
      "url": "http://www.iqiyi.com/v_ryxcl5f1oo.html",
      "time": "2022-07-09T01:30:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1099590,
+   "sort": 77,
+   "name": "もうひとりの勇者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 77,
+     "title": "另一位勇者",
+     "url": "https://www.bilibili.com/bangumi/play/ep341409",
+     "time": "2022-07-16T01:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 77,
+     "title": "另一位勇者",
+     "url": "http://www.iqiyi.com/v_18t1wl6u7m8.html",
+     "time": "2022-07-16T01:30:07.000Z"
     }
    ]
   }
