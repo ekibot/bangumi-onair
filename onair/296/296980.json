@@ -7,7 +7,7 @@
    "id": "28229894",
    "week": 6,
    "time": "0930",
-   "sort": 79
+   "sort": 80
   },
   {
    "site": "youku",
@@ -17,7 +17,7 @@
   {
    "site": "iqiyi",
    "id": "a_18481af6vfd",
-   "sort": 77,
+   "sort": 78,
    "week": 6,
    "time": "0930"
   }
@@ -1715,6 +1715,27 @@
      "title": "另一位勇者",
      "url": "http://www.iqiyi.com/v_18t1wl6u7m8.html",
      "time": "2022-07-16T01:30:07.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1099591,
+   "sort": 78,
+   "name": "地獄からの生還者",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 78,
+     "title": "来自地狱的生还者",
+     "url": "https://www.bilibili.com/bangumi/play/ep341410",
+     "time": "2022-07-23T01:30:01.000Z"
+    },
+    {
+     "site": "iqiyi",
+     "sort": 78,
+     "title": "来自地狱的生还者",
+     "url": "http://www.iqiyi.com/v_20qzlcym3fc.html",
+     "time": "2022-07-23T01:30:06.000Z"
     }
    ]
   }
