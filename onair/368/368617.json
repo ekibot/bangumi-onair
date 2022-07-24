@@ -7,7 +7,7 @@
    "id": "28237351",
    "week": 6,
    "time": "2100",
-   "sort": 10
+   "sort": 11
   }
  ],
  "eps": [
@@ -36,6 +36,20 @@
      "title": "黑灵骑士",
      "url": "https://www.bilibili.com/bangumi/play/ep574063",
      "time": "2022-07-16T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1110957,
+   "sort": 3,
+   "name": "ギルドとの密約と奴隷少女",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 3,
+     "title": "与公会的秘密协定和奴隶少女",
+     "url": "https://www.bilibili.com/bangumi/play/ep574064",
+     "time": "2022-07-23T13:00:01.000Z"
     }
    ]
   }
