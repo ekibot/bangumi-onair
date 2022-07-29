@@ -5,7 +5,9 @@
   {
    "site": "bilibili",
    "id": "28237125",
-   "sort": 17
+   "sort": 20,
+   "week": 7,
+   "time": "0130"
   }
  ],
  "eps": [
@@ -131,7 +133,7 @@
      "sort": 9,
      "title": "纯真和笨拙",
      "url": "https://www.bilibili.com/bangumi/play/ep577700",
-     "time": "2022-07-23T17:30:01.000Z"
+     "time": "2022-07-23T17:30:00.000Z"
     }
    ]
   }
