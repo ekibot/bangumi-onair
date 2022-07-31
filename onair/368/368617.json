@@ -7,7 +7,7 @@
    "id": "28237351",
    "week": 6,
    "time": "2100",
-   "sort": 12
+   "sort": 13
   }
  ],
  "eps": [
@@ -50,6 +50,20 @@
      "title": "与公会的秘密协定和奴隶少女",
      "url": "https://www.bilibili.com/bangumi/play/ep574064",
      "time": "2022-07-23T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1110958,
+   "sort": 4,
+   "name": "悪魔",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 4,
+     "title": "恶魔",
+     "url": "https://www.bilibili.com/bangumi/play/ep574065",
+     "time": "2022-07-30T13:00:01.000Z"
     }
    ]
   }
