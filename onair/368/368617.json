@@ -7,7 +7,7 @@
    "id": "28237351",
    "week": 6,
    "time": "2100",
-   "sort": 13
+   "sort": 14
   }
  ],
  "eps": [
@@ -64,6 +64,20 @@
      "title": "恶魔",
      "url": "https://www.bilibili.com/bangumi/play/ep574065",
      "time": "2022-07-30T13:00:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1110959,
+   "sort": 5,
+   "name": "魔王の娘",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 5,
+     "title": "魔王古斯塔夫之女",
+     "url": "https://www.bilibili.com/bangumi/play/ep574066",
+     "time": "2022-08-06T13:00:00.000Z"
     }
    ]
   }

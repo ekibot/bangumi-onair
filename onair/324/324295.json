@@ -5,7 +5,7 @@
   {
    "site": "bilibili",
    "id": "28237125",
-   "sort": 22,
+   "sort": 23,
    "week": 7,
    "time": "0130"
   }
@@ -148,6 +148,20 @@
      "title": "想赢的心",
      "url": "https://www.bilibili.com/bangumi/play/ep663927",
      "time": "2022-07-30T17:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": 1088218,
+   "sort": 11,
+   "name": "可愛いだけじゃない",
+   "sites": [
+    {
+     "site": "bilibili",
+     "sort": 11,
+     "title": "不只可爱而已",
+     "url": "https://www.bilibili.com/bangumi/play/ep663928",
+     "time": "2022-08-06T17:30:00.000Z"
     }
    ]
   }
